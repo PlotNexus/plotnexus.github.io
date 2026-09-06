@@ -1,16 +1,21 @@
 :root {
-  --primary: #103b3a;
-  --primary-light: #17534f;
-  --accent: #f4b942;
-  --accent-dark: #d99a1f;
-  --bg: #f7f7f4;
+  --primary: #12213f;
+  --primary-light: #234876;
+  --primary-dark: #0a1526;
+  --accent: #d97f4f;
+  --accent-dark: #b8632f;
+  --accent-tint: #fbeee4;
+  --bg: #f7f4ee;
   --surface: #ffffff;
-  --text: #1c2321;
-  --text-muted: #5a655f;
-  --border: #e3e2dc;
-  --radius: 12px;
-  --shadow: 0 2px 8px rgba(16, 59, 58, 0.08);
-  --shadow-hover: 0 8px 24px rgba(16, 59, 58, 0.14);
+  --surface-muted: #efeadf;
+  --text: #131a26;
+  --text-muted: #5c6572;
+  --border: #e4dfd2;
+  --radius: 14px;
+  --shadow: 0 2px 10px rgba(18, 33, 63, 0.06);
+  --shadow-hover: 0 16px 36px rgba(18, 33, 63, 0.16);
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-sans: "Manrope", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 * {
@@ -23,7 +28,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: var(--font-sans);
   background: var(--bg);
   color: var(--text);
   line-height: 1.5;
@@ -41,7 +46,12 @@ a {
 
 h1, h2, h3 {
   margin: 0 0 0.5em;
-  line-height: 1.2;
+  line-height: 1.15;
+}
+
+h1, h2 {
+  font-family: var(--font-display);
+  font-weight: 600;
 }
 
 /* Header */
@@ -67,8 +77,9 @@ h1, h2, h3 {
   gap: 10px;
   text-decoration: none;
   color: #fff;
-  font-weight: 700;
+  font-weight: 800;
   font-size: 1.2rem;
+  letter-spacing: -0.01em;
 }
 
 .logo-bg {
@@ -82,8 +93,9 @@ h1, h2, h3 {
 
 .main-nav a {
   text-decoration: none;
-  color: rgba(255, 255, 255, 0.85);
+  color: rgba(255, 255, 255, 0.8);
   font-size: 0.95rem;
+  font-weight: 500;
   transition: color 0.15s ease;
 }
 
@@ -93,10 +105,10 @@ h1, h2, h3 {
 
 /* Demo banner */
 .banner-demo {
-  background: #fff6e0;
-  color: #7a5b00;
+  background: var(--accent-tint);
+  color: #8a4a22;
   font-size: 0.9rem;
-  border-bottom: 1px solid #f2e2ad;
+  border-bottom: 1px solid #f0d9c4;
 }
 
 .banner-demo .container {
@@ -106,19 +118,36 @@ h1, h2, h3 {
 
 /* Hero */
 .hero {
-  background: linear-gradient(160deg, var(--primary) 0%, var(--primary-light) 100%);
+  position: relative;
+  background:
+    radial-gradient(1100px 560px at 12% -15%, rgba(217, 127, 79, 0.22), transparent 60%),
+    radial-gradient(900px 500px at 105% 0%, rgba(255, 255, 255, 0.07), transparent 55%),
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.035) 0 1px, transparent 1px 32px),
+    repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.035) 0 1px, transparent 1px 32px),
+    linear-gradient(160deg, var(--primary) 0%, var(--primary-dark) 100%);
   color: #fff;
   padding: 64px 0 80px;
+  overflow: hidden;
+}
+
+.hero-eyebrow {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 14px;
 }
 
 .hero-inner h1 {
-  font-size: 2.4rem;
+  font-size: 2.6rem;
   max-width: 640px;
 }
 
 .hero-sub {
   max-width: 620px;
-  color: rgba(255, 255, 255, 0.85);
+  color: rgba(255, 255, 255, 0.82);
   font-size: 1.05rem;
   margin-bottom: 32px;
 }
@@ -160,6 +189,7 @@ h1, h2, h3 {
   border: 1px solid var(--border);
   border-radius: 8px;
   font-size: 0.95rem;
+  font-family: inherit;
   color: var(--text);
   background: #fff;
 }
@@ -175,7 +205,8 @@ h1, h2, h3 {
   border-radius: 8px;
   padding: 12px 22px;
   font-size: 0.95rem;
-  font-weight: 600;
+  font-family: inherit;
+  font-weight: 700;
   cursor: pointer;
   transition: transform 0.1s ease, background 0.15s ease;
 }
@@ -186,7 +217,7 @@ h1, h2, h3 {
 
 .btn-primary {
   background: var(--accent);
-  color: #1c2321;
+  color: #fff;
 }
 
 .btn-primary:hover {
@@ -227,6 +258,7 @@ h1, h2, h3 {
   border-radius: 999px;
   padding: 6px 14px;
   font-size: 0.85rem;
+  font-family: inherit;
   cursor: pointer;
   transition: all 0.15s ease;
   color: var(--text);
@@ -279,7 +311,11 @@ h1, h2, h3 {
 
 .card-media {
   height: 150px;
-  background: linear-gradient(135deg, var(--primary-light), var(--primary));
+  color: var(--accent);
+  background-image:
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.06) 0 1px, transparent 1px 24px),
+    repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.06) 0 1px, transparent 1px 24px),
+    linear-gradient(135deg, var(--primary-light), var(--primary-dark));
   display: flex;
   align-items: center;
   justify-content: center;
@@ -287,14 +323,14 @@ h1, h2, h3 {
 }
 
 .card-media svg {
-  opacity: 0.35;
+  opacity: 0.85;
 }
 
 .card-type-badge {
   position: absolute;
   top: 10px;
   left: 10px;
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.92);
   color: var(--text);
   font-size: 0.72rem;
   font-weight: 700;
@@ -325,7 +361,7 @@ h1, h2, h3 {
 
 .card-title {
   font-size: 0.95rem;
-  font-weight: 600;
+  font-weight: 700;
   margin: 0;
 }
 
@@ -357,15 +393,14 @@ h1, h2, h3 {
   font-weight: 700;
   padding: 4px 10px;
   border-radius: 999px;
-  color: #fff;
   white-space: nowrap;
 }
 
-.source-badge[data-source="Imovirtual"] { background: #6425c4; }
-.source-badge[data-source="Idealista"] { background: #66c93e; color: #163d0c; }
-.source-badge[data-source="SUPERCASA"] { background: #0b6fb0; }
-.source-badge[data-source="RE/MAX"] { background: #e2231a; }
-.source-badge[data-source="CASA SAPO"] { background: #ff6600; }
+.source-badge[data-source="Imovirtual"] { background: #f1e9fb; color: #6425c4; }
+.source-badge[data-source="Idealista"] { background: #e7f6e0; color: #2f7a17; }
+.source-badge[data-source="SUPERCASA"] { background: #e5f1fa; color: #0b6fb0; }
+.source-badge[data-source="RE/MAX"] { background: #fbeae9; color: #c21b12; }
+.source-badge[data-source="CASA SAPO"] { background: var(--accent-tint); color: #c2530a; }
 
 .card-link {
   font-size: 0.82rem;
@@ -387,7 +422,7 @@ h1, h2, h3 {
 
 /* How it works */
 .how-it-works {
-  background: var(--surface);
+  background: var(--surface-muted);
   padding: 56px 0;
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
@@ -414,12 +449,16 @@ h1, h2, h3 {
   height: 40px;
   border-radius: 50%;
   background: var(--accent);
-  color: var(--text);
+  color: #fff;
   font-weight: 700;
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 0 auto 12px;
+}
+
+.step h3 {
+  font-family: var(--font-sans);
 }
 
 .step p {
@@ -439,8 +478,8 @@ h1, h2, h3 {
 
 /* Footer */
 .site-footer {
-  background: var(--primary);
-  color: rgba(255, 255, 255, 0.75);
+  background: var(--primary-dark);
+  color: rgba(255, 255, 255, 0.7);
   padding: 24px 0;
   font-size: 0.85rem;
 }
@@ -471,7 +510,7 @@ h1, h2, h3 {
   }
 
   .hero-inner h1 {
-    font-size: 1.8rem;
+    font-size: 1.9rem;
   }
 
   .search-bar {
