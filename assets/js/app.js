@@ -3,6 +3,8 @@
 
   const { escapeHtml, currency, houseIcon, loadListings } = window.PN;
 
+  const PAGE_SIZE = 30;
+
   const state = {
     listings: [],
     query: "",
@@ -14,6 +16,7 @@
     areaMax: null,
     activeSources: new Set(),
     sort: "recentes",
+    visibleCount: PAGE_SIZE,
   };
 
   const el = {
@@ -34,6 +37,7 @@
     areaMinInput: document.getElementById("area-min"),
     areaMaxInput: document.getElementById("area-max"),
     advancedForm: document.getElementById("advanced-filters"),
+    loadMoreBtn: document.getElementById("load-more"),
   };
 
   function buildSourceChips() {
@@ -57,7 +61,7 @@
           state.activeSources.add(name);
           chip.setAttribute("aria-pressed", "true");
         }
-        render();
+        renderFromScratch();
       });
       el.sourcesFilter.appendChild(chip);
     });
@@ -147,9 +151,10 @@
 
   function render() {
     const filtered = sortListings(state.listings.filter(matchesFilters));
+    const visible = filtered.slice(0, state.visibleCount);
 
     el.grid.innerHTML = "";
-    filtered.forEach((item) => el.grid.appendChild(renderCard(item)));
+    visible.forEach((item) => el.grid.appendChild(renderCard(item)));
 
     el.resultsCount.textContent = `${filtered.length} imóve${
       filtered.length === 1 ? "l" : "is"
@@ -157,6 +162,19 @@
 
     el.emptyState.hidden = filtered.length !== 0;
     el.grid.hidden = filtered.length === 0;
+
+    if (el.loadMoreBtn) {
+      const remaining = filtered.length - visible.length;
+      el.loadMoreBtn.hidden = remaining <= 0;
+      if (remaining > 0) {
+        el.loadMoreBtn.textContent = `Carregar mais (${remaining} restantes)`;
+      }
+    }
+  }
+
+  function renderFromScratch() {
+    state.visibleCount = PAGE_SIZE;
+    render();
   }
 
   function parseNumberOrNull(value) {
@@ -170,12 +188,12 @@
       event.preventDefault();
       state.query = el.searchInput.value;
       state.tipo = el.tipoSelect.value;
-      render();
+      renderFromScratch();
     });
 
     el.sortSelect.addEventListener("change", () => {
       state.sort = el.sortSelect.value;
-      render();
+      renderFromScratch();
     });
 
     if (el.advancedToggle && el.advancedPanel) {
@@ -195,6 +213,13 @@
         state.precoMax = parseNumberOrNull(el.precoMaxInput.value);
         state.areaMin = parseNumberOrNull(el.areaMinInput.value);
         state.areaMax = parseNumberOrNull(el.areaMaxInput.value);
+        renderFromScratch();
+      });
+    }
+
+    if (el.loadMoreBtn) {
+      el.loadMoreBtn.addEventListener("click", () => {
+        state.visibleCount += PAGE_SIZE;
         render();
       });
     }

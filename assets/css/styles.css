@@ -218,6 +218,16 @@ h1, h2, h3 {
   background: var(--accent-dark);
 }
 
+.btn-secondary {
+  background: var(--surface);
+  color: var(--primary);
+  border: 1px solid var(--border);
+}
+
+.btn-secondary:hover {
+  background: var(--bg-alt);
+}
+
 /* Listings section */
 .listings-section {
   padding: 40px 0 64px;
@@ -462,6 +472,12 @@ h1, h2, h3 {
 
 .card-link:hover {
   text-decoration: underline;
+}
+
+.load-more-wrap {
+  display: flex;
+  justify-content: center;
+  margin: 28px 0 8px;
 }
 
 .empty-state {
