@@ -27,6 +27,115 @@
       .join("");
   }
 
+  function galleryHtml(images, title) {
+    if (!images || images.length === 0) {
+      return `<div class="listing-photo listing-photo-placeholder">${houseIcon()}</div>`;
+    }
+
+    if (images.length === 1) {
+      return `<img class="listing-photo" src="${escapeHtml(images[0])}" alt="${escapeHtml(title)}" />`;
+    }
+
+    const thumbs = images
+      .map(
+        (src, i) =>
+          `<button type="button" class="listing-gallery-thumb${i === 0 ? " active" : ""}" data-index="${i}" aria-label="Foto ${i + 1} de ${images.length}">
+            <img src="${escapeHtml(src)}" alt="" loading="lazy" />
+          </button>`
+      )
+      .join("");
+
+    return `
+      <div class="listing-gallery" data-count="${images.length}">
+        <div class="listing-gallery-main">
+          <button type="button" class="listing-gallery-nav prev" aria-label="Foto anterior">&larr;</button>
+          <img class="listing-photo listing-gallery-current" src="${escapeHtml(images[0])}" alt="${escapeHtml(title)}" />
+          <button type="button" class="listing-gallery-nav next" aria-label="Foto seguinte">&rarr;</button>
+          <span class="listing-gallery-count">1 / ${images.length}</span>
+        </div>
+        <div class="listing-gallery-thumbs">${thumbs}</div>
+      </div>
+    `;
+  }
+
+  function attachGalleryEvents(images) {
+    const gallery = el.detail.querySelector(".listing-gallery");
+    if (!gallery) return;
+
+    const mainImg = gallery.querySelector(".listing-gallery-current");
+    const countEl = gallery.querySelector(".listing-gallery-count");
+    const thumbs = [...gallery.querySelectorAll(".listing-gallery-thumb")];
+    let index = 0;
+
+    function show(newIndex) {
+      index = (newIndex + images.length) % images.length;
+      mainImg.src = images[index];
+      countEl.textContent = `${index + 1} / ${images.length}`;
+      thumbs.forEach((thumb, i) => thumb.classList.toggle("active", i === index));
+    }
+
+    gallery.querySelector(".prev").addEventListener("click", () => show(index - 1));
+    gallery.querySelector(".next").addEventListener("click", () => show(index + 1));
+    thumbs.forEach((thumb) => {
+      thumb.addEventListener("click", () => show(Number(thumb.dataset.index)));
+    });
+  }
+
+  function featuresHtml(features) {
+    if (!features || Object.keys(features).length === 0) return "";
+
+    const tabs = Object.entries(features)
+      .map(
+        ([label, items]) => `
+          <div class="listing-features-group">
+            <h3 class="listing-features-label">${escapeHtml(label)}</h3>
+            <div class="listing-features-items">
+              ${items.map((item) => `<span class="feature-pill">${escapeHtml(item)}</span>`).join("")}
+            </div>
+          </div>
+        `
+      )
+      .join("");
+
+    return `
+      <div class="listing-section">
+        <h2 class="listing-section-title">Características</h2>
+        ${tabs}
+      </div>
+    `;
+  }
+
+  function technicalDataHtml(item) {
+    const rows = [
+      ["Estado", item.estado],
+      ["Área útil", item.area_util_m2 ? `${item.area_util_m2} m²` : null],
+      ["Área bruta", item.area_bruta_m2 ? `${item.area_bruta_m2} m²` : null],
+      ["Ano de construção", item.ano_construcao],
+      ["Certificação energética", item.certificacao_energetica],
+      ["Publicado em", item.published_at],
+    ].filter(([, value]) => value != null && value !== "");
+
+    if (rows.length === 0) return "";
+
+    return `
+      <div class="listing-section">
+        <h2 class="listing-section-title">Dados do imóvel</h2>
+        <div class="listing-technical-grid">
+          ${rows
+            .map(
+              ([label, value]) => `
+                <div class="listing-technical-item">
+                  <div class="listing-technical-label">${escapeHtml(label)}</div>
+                  <div class="listing-technical-value">${escapeHtml(value)}</div>
+                </div>
+              `
+            )
+            .join("")}
+        </div>
+      </div>
+    `;
+  }
+
   function renderListing(item) {
     document.title = `${item.title} | PlotNexus`;
 
@@ -36,9 +145,8 @@
     if (item.bathrooms) specs.push(`${item.bathrooms} WC`);
     if (item.area_m2) specs.push(`${item.area_m2} m²`);
 
-    const media = item.image
-      ? `<img class="listing-photo" src="${escapeHtml(item.image)}" alt="${escapeHtml(item.title)}" />`
-      : `<div class="listing-photo listing-photo-placeholder">${houseIcon()}</div>`;
+    const images = item.images && item.images.length ? item.images : item.image ? [item.image] : [];
+    const media = galleryHtml(images, item.title);
 
     const mapBlock = item.geo
       ? `
@@ -73,6 +181,8 @@
     }</div>
         ${specs.length ? `<div class="listing-specs">${specs.join(" · ")}</div>` : ""}
         ${descriptionBlock}
+        ${technicalDataHtml(item)}
+        ${featuresHtml(item.features)}
         ${mapBlock}
         <a
           class="btn btn-primary listing-cta"
@@ -84,6 +194,8 @@
         </a>
       </div>
     `;
+
+    if (images.length > 1) attachGalleryEvents(images);
 
     el.loading.hidden = true;
     el.detail.hidden = false;
