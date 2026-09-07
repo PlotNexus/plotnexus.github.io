@@ -17,8 +17,9 @@ jobs:
     runs-on: ubuntu-latest
     # Guards against a worst-case day (CASA SAPO blocking almost every
     # request) running long enough to bump into the next 6h schedule.
-    # Comfortably above the slowest real run seen so far (~95min).
-    timeout-minutes: 180
+    # Comfortably above the slowest real run seen so far (~115min), with
+    # headroom for the larger per-run detail-enrichment batch.
+    timeout-minutes: 240
     steps:
       - name: Checkout
         uses: actions/checkout@v4

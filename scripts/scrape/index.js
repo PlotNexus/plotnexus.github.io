@@ -15,7 +15,7 @@ const DETAIL_CACHE_PATH = path.join(__dirname, "..", "..", "data", "listings-det
 // only enriches a bounded batch of listings it hasn't seen before. The
 // cache accumulates across scheduled runs, so coverage grows over time
 // without ever spiking request volume in a single run.
-const MAX_DETAIL_FETCHES_PER_RUN = 50;
+const MAX_DETAIL_FETCHES_PER_RUN = 75;
 
 // A search query that fails outright (network block, timeout, ...) used to
 // mean its whole slice of listings vanished from the site until the next
@@ -112,7 +112,14 @@ function mergeDetailInto(listing, detail) {
 
 async function enrichListings(listings, fetchDetail, cache) {
   const idsInCache = new Set(Object.keys(cache));
-  const candidates = listings.filter((item) => !idsInCache.has(item.id)).slice(0, MAX_DETAIL_FETCHES_PER_RUN);
+  // Newest-first: `published_at` is today's date for a listing seen for
+  // the first time this run (see normalizeListing), so this means a
+  // freshly discovered listing gets its full detail before older
+  // never-enriched backlog items, rather than waiting behind them.
+  const candidates = listings
+    .filter((item) => !idsInCache.has(item.id))
+    .sort((a, b) => (b.published_at || "").localeCompare(a.published_at || ""))
+    .slice(0, MAX_DETAIL_FETCHES_PER_RUN);
 
   console.log(`[detail] ${candidates.length} novos anúncios a enriquecer nesta execução (de um total de ${listings.length})`);
 
