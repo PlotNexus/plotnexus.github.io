@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Telhado e Chaminé (Azul Escuro) -->
+  <path fill="#19385C" d="M 338 95 L 370 95 L 370 152 L 338 122 Z" />
+  <path fill="#19385C" d="M 256 60 L 422 215 L 390 248 L 256 122 L 122 248 L 90 215 Z" />
+
+  <!-- Pino de Localização (Ciano / Teala) -->
+  <path fill="#17B8A8" d="M 256 130 C 185 130 130 185 130 256 C 130 325 256 445 256 445 C 256 445 382 325 382 256 C 382 185 327 130 256 130 Z" />
+
+  <!-- Anel Externo da Rede (Espaço Negativo / Branco) -->
+  <circle cx="256" cy="245" r="82" stroke="#FFFFFF" stroke-width="14" fill="none" />
+
+  <!-- Linhas de Conexão da Rede (5 Nós Interligados) -->
+  <g stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="256" y1="180" x2="312" y2="218" />
+    <line x1="312" y1="218" x2="298" y2="282" />
+    <line x1="298" y1="282" x2="214" y2="282" />
+    <line x1="214" y1="282" x2="200" y2="218" />
+    <line x1="200" y1="218" x2="256" y2="180" />
+    
+    <!-- Conexões Internas -->
+    <line x1="256" y1="180" x2="298" y2="282" />
+    <line x1="200" y1="218" x2="312" y2="218" />
+    <line x1="200" y1="218" x2="298" y2="282" />
+  </g>
+
+  <!-- 5 Nós Principais -->
+  <g fill="#FFFFFF">
+    <circle cx="256" cy="180" r="11" />
+    <circle cx="312" cy="218" r="11" />
+    <circle cx="298" cy="282" r="11" />
+    <circle cx="214" cy="282" r="11" />
+    <circle cx="200" cy="218" r="11" />
+  </g>
+</svg>
