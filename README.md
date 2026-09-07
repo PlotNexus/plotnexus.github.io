@@ -13,13 +13,23 @@ O site está publicado via GitHub Pages a partir deste repositório.
 
 - Interface estática (HTML/CSS/JS puro, sem build necessário): página
   inicial com pesquisa/filtros/ordenação, página de detalhe por imóvel
-  (com foto, descrição, mapa e link para o anúncio original) e página
-  "Sobre".
+  (galeria de fotos, descrição completa, características, dados técnicos,
+  mapa e link para o anúncio original) e página "Sobre".
 - Um conector de dados real e automático: `scripts/scrape` recolhe anúncios
   de apartamentos e moradias da CASA SAPO (compra e arrendamento, cobertura
   de Portugal Continental e Madeira; os Açores ainda não têm cobertura
   própria nesta fonte) via `.github/workflows/scrape.yml`, agendado a cada
   6 horas.
+- Depois de recolher a lista de anúncios, o scraper visita a página de cada
+  anúncio para obter detalhe completo (todas as fotos, descrição integral,
+  características por categoria e dados técnicos como estado, área útil/
+  bruta, ano de construção e certificação energética). Para não multiplicar
+  os pedidos contra uma fonte sensível a rate limiting, cada execução só
+  enriquece um lote limitado de anúncios ainda não vistos (`data/
+  listings-detail.json` guarda o que já foi obtido); a cobertura completa
+  cresce ao longo de várias execuções agendadas em vez de tudo de uma vez.
+  Um anúncio ainda não enriquecido mostra a foto e descrição resumida da
+  página de resultados como reserva.
 - Dados de exemplo (`data/listings.sample.json`) servem de fallback caso
   `data/listings.json` (dados reais) ainda não exista ou esteja vazio.
 
@@ -39,10 +49,13 @@ O site está publicado via GitHub Pages a partir deste repositório.
 │   └── img/
 ├── data/
 │   ├── listings.json            # dados reais (gerados pelo scraper)
+│   ├── listings-detail.json     # cache do detalhe já enriquecido por anúncio
 │   └── listings.sample.json     # dados de exemplo (fallback)
 ├── scripts/scrape/               # scraper Node.js
 │   ├── index.js
-│   ├── lib/normalize.js
+│   ├── lib/
+│   │   ├── http.js               # fetch com retry/backoff para pedidos 429
+│   │   └── normalize.js
 │   └── sources/casaSapo.js
 ├── .github/workflows/scrape.yml  # agendamento do scraper
 ├── LICENSE
@@ -91,8 +104,6 @@ fonte. Princípios seguidos desde já:
 
 - [ ] Conectores de dados reais para outras fontes (Imovirtual, Idealista,
       SUPERCASA, RE/MAX).
-- [ ] Fotos/galeria completa e descrição integral por imóvel (atualmente
-      limitado ao que a página de resultados de pesquisa expõe).
 - [ ] Favoritos e comparação entre imóveis.
 - [ ] Alertas por email para novas pesquisas guardadas.
 - [ ] Deteção e remoção de duplicados (o mesmo imóvel anunciado em vários

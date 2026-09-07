@@ -614,6 +614,86 @@ h1, h2, h3 {
   color: var(--primary);
 }
 
+.listing-gallery-main {
+  position: relative;
+}
+
+.listing-gallery-main .listing-photo {
+  max-height: 440px;
+}
+
+.listing-gallery-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background: rgba(16, 21, 31, 0.55);
+  color: #fff;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.listing-gallery-nav.prev {
+  left: 12px;
+}
+
+.listing-gallery-nav.next {
+  right: 12px;
+}
+
+.listing-gallery-nav:hover {
+  background: rgba(16, 21, 31, 0.8);
+}
+
+.listing-gallery-count {
+  position: absolute;
+  bottom: 10px;
+  right: 12px;
+  background: rgba(16, 21, 31, 0.65);
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 2px 10px;
+  border-radius: 999px;
+}
+
+.listing-gallery-thumbs {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+}
+
+.listing-gallery-thumb {
+  flex: 0 0 auto;
+  width: 64px;
+  height: 48px;
+  padding: 0;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  background: none;
+  opacity: 0.7;
+}
+
+.listing-gallery-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.listing-gallery-thumb.active {
+  border-color: var(--primary);
+  opacity: 1;
+}
+
 .listing-badges {
   display: flex;
   gap: 8px;
@@ -665,15 +745,68 @@ h1, h2, h3 {
   margin: 0 0 1em;
 }
 
+.listing-section {
+  margin-bottom: 24px;
+}
+
+.listing-section-title {
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+}
+
+.listing-technical-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 16px;
+}
+
+.listing-technical-label {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-bottom: 2px;
+}
+
+.listing-technical-value {
+  font-weight: 700;
+}
+
+.listing-features-group {
+  margin-bottom: 12px;
+}
+
+.listing-features-label {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+}
+
+.listing-features-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.feature-pill {
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 4px 12px;
+  font-size: 0.82rem;
+}
+
 .listing-map {
   margin-bottom: 24px;
 }
 
 .listing-map iframe {
   width: 100%;
-  height: 260px;
+  height: 320px;
   border: 1px solid var(--border);
   border-radius: var(--radius);
+  background: var(--bg-alt);
 }
 
 .listing-map-link {
