@@ -13,30 +13,84 @@ const SOURCE_URL = "https://casa.sapo.pt";
 const USER_AGENT =
   "PlotNexusBot/0.1 (+https://plotnexus.github.io; personal aggregator project; contact via github.com/PlotNexus)";
 
-// Each query is a separate search (CASA SAPO uses distinct URLs per
-// operation/location rather than query-string filters).
-const QUERIES = [
-  { url: "https://casa.sapo.pt/comprar-casas/em-lisboa/", type: "venda" },
-  { url: "https://casa.sapo.pt/alugar-casas/em-lisboa/", type: "arrendamento" },
-  { url: "https://casa.sapo.pt/comprar-casas/em-porto/", type: "venda" },
-  { url: "https://casa.sapo.pt/alugar-casas/em-porto/", type: "arrendamento" },
+// CASA SAPO is quite aggressive with rate limiting (a handful of requests
+// under ~2s apart is enough to get a 429), so requests are spaced well
+// apart and retried with backoff rather than sped up.
+const DELAY_BETWEEN_QUERIES_MS = 5000;
+const RETRY_BASE_DELAY_MS = 8000;
+const MAX_RETRIES = 4;
+
+// Mainland districts plus the two autonomous regions — full national
+// coverage, one query per district per operation (first results page only;
+// this is not a full pagination crawl of every listing CASA SAPO has).
+const DISTRICTS_FULL = [
+  "aveiro",
+  "beja",
+  "braga",
+  "braganca",
+  "castelo-branco",
+  "coimbra",
+  "evora",
+  "faro",
+  "guarda",
+  "leiria",
+  "lisboa",
+  "portalegre",
+  "porto",
+  "santarem",
+  "setubal",
+  "viana-do-castelo",
+  "vila-real",
+  "viseu",
+  "acores",
+  "madeira",
 ];
+const DISTRICTS = process.env.SCRAPE_DISTRICTS
+  ? process.env.SCRAPE_DISTRICTS.split(",")
+  : DISTRICTS_FULL;
+
+const OPERATIONS = [
+  { pathSegment: "comprar-casas", type: "venda" },
+  { pathSegment: "alugar-casas", type: "arrendamento" },
+];
+
+const QUERIES = OPERATIONS.flatMap(({ pathSegment, type }) =>
+  DISTRICTS.map((district) => ({
+    url: `https://casa.sapo.pt/${pathSegment}/em-${district}/`,
+    type,
+  }))
+);
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 async function fetchHtml(url) {
-  const res = await fetch(url, {
-    headers: {
-      "User-Agent": USER_AGENT,
-      "Accept-Language": "pt-PT,pt;q=0.9",
-    },
-  });
-  if (!res.ok) {
-    throw new Error(`${url} respondeu ${res.status}`);
+  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+    const res = await fetch(url, {
+      headers: {
+        "User-Agent": USER_AGENT,
+        "Accept-Language": "pt-PT,pt;q=0.9",
+      },
+    });
+
+    if (res.status === 429) {
+      if (attempt === MAX_RETRIES) {
+        throw new Error(`${url} continua a responder 429 depois de ${MAX_RETRIES} tentativas`);
+      }
+      const wait = RETRY_BASE_DELAY_MS * (attempt + 1);
+      console.warn(`[casasapo] 429 em ${url}, a aguardar ${wait}ms antes de repetir`);
+      await sleep(wait);
+      continue;
+    }
+
+    if (!res.ok) {
+      throw new Error(`${url} respondeu ${res.status}`);
+    }
+
+    return res.text();
   }
-  return res.text();
+  throw new Error(`${url}: esgotadas as tentativas`);
 }
 
 // CASA SAPO wraps listing links in an ad-tracking redirect
@@ -58,6 +112,28 @@ function resolveRealListingUrl(absoluteUrl) {
 function firstImage(image) {
   if (Array.isArray(image)) return image[0] || null;
   return typeof image === "string" ? image : null;
+}
+
+// The JSON-LD description is free text with literal `<br/>` line breaks
+// and a trailing "(...)" truncation marker from CASA SAPO itself.
+function cleanDescription(raw) {
+  if (!raw) return null;
+  const text = String(raw)
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<[^>]+>/g, "")
+    .replace(/\(\.\.\.\)\s*$/, "")
+    .replace(/[ \t]+/g, " ")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+  return text || null;
+}
+
+function extractGeo(data) {
+  const geo = data.availableAtOrFrom?.geo;
+  if (!geo) return null;
+  const lat = Number(geo.latitude);
+  const lng = Number(geo.longitude);
+  return Number.isFinite(lat) && Number.isFinite(lng) ? { lat, lng } : null;
 }
 
 // Primary strategy: each listing card embeds a schema.org Offer as
@@ -113,6 +189,8 @@ function extractFromJsonLd($, type) {
         bedrooms: parseBedroomsFromText(data.name),
         area_m2: parseAreaM2(visibleText),
         image: firstImage(data.image),
+        description: cleanDescription(data.description),
+        geo: extractGeo(data),
         sourceName: SOURCE_NAME,
         sourceUrl: SOURCE_URL,
         listingUrl,
@@ -175,35 +253,36 @@ function extractByHeuristic($, type) {
 async function scrapeQuery({ url, type }, maxListings) {
   const html = await fetchHtml(url);
   const $ = cheerio.load(html);
-  console.log(`[casasapo] fetched ${url} (${html.length} bytes)`);
 
   let listings = extractFromJsonLd($, type);
-  console.log(`[casasapo] ${url} — JSON-LD strategy: ${listings.length} listings`);
 
   if (listings.length === 0) {
     listings = extractByHeuristic($, type);
-    console.log(`[casasapo] ${url} — heuristic strategy: ${listings.length} listings`);
   }
 
+  console.log(`[casasapo] ${url} -> ${listings.length} anúncios`);
   return listings.slice(0, maxListings);
 }
 
-export async function scrapeCasaSapo({ maxListingsPerQuery = 20 } = {}) {
+export async function scrapeCasaSapo({ maxListingsPerQuery = 30 } = {}) {
   const all = [];
   for (const [i, query] of QUERIES.entries()) {
     try {
       const items = await scrapeQuery(query, maxListingsPerQuery);
       all.push(...items);
     } catch (err) {
-      console.error(`[casasapo] falhou em ${query.url}:`, err.message);
+      console.error(`[casasapo] falhou em ${query.url}: ${err.message}`);
     }
-    if (i < QUERIES.length - 1) await sleep(800);
+    if (i < QUERIES.length - 1) await sleep(DELAY_BETWEEN_QUERIES_MS);
   }
 
   const seen = new Set();
-  return all.filter((item) => {
+  const deduped = all.filter((item) => {
     if (seen.has(item.id)) return false;
     seen.add(item.id);
     return true;
   });
+
+  console.log(`[casasapo] total: ${all.length} recolhidos, ${deduped.length} únicos após ${QUERIES.length} pesquisas`);
+  return deduped;
 }

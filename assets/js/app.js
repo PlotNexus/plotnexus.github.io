@@ -1,13 +1,17 @@
 (function () {
   "use strict";
 
-  const REAL_DATA_URL = "data/listings.json";
-  const SAMPLE_DATA_URL = "data/listings.sample.json";
+  const { escapeHtml, currency, houseIcon, loadListings } = window.PN;
 
   const state = {
     listings: [],
     query: "",
     tipo: "todos",
+    tipologia: "qualquer",
+    precoMin: null,
+    precoMax: null,
+    areaMin: null,
+    areaMax: null,
     activeSources: new Set(),
     sort: "recentes",
   };
@@ -21,41 +25,19 @@
     searchInput: document.getElementById("q"),
     tipoSelect: document.getElementById("tipo"),
     sortSelect: document.getElementById("sort"),
-    year: document.getElementById("year"),
     bannerText: document.getElementById("banner-demo-text"),
+    advancedToggle: document.getElementById("advanced-filters-toggle"),
+    advancedPanel: document.getElementById("advanced-filters"),
+    tipologiaSelect: document.getElementById("tipologia"),
+    precoMinInput: document.getElementById("preco-min"),
+    precoMaxInput: document.getElementById("preco-max"),
+    areaMinInput: document.getElementById("area-min"),
+    areaMaxInput: document.getElementById("area-max"),
+    advancedForm: document.getElementById("advanced-filters"),
   };
 
-  function currency(value, curr) {
-    return new Intl.NumberFormat("pt-PT", {
-      style: "currency",
-      currency: curr || "EUR",
-      maximumFractionDigits: 0,
-    }).format(value);
-  }
-
-  function escapeHtml(str) {
-    return String(str ?? "")
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#39;");
-  }
-
-  function houseIcon() {
-    return (
-      '<svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">' +
-      '<path d="M3 11L12 3L21 11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>' +
-      '<path d="M5 10V20H19V10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>' +
-      '<path d="M9 20V14H15V20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>' +
-      "</svg>"
-    );
-  }
-
   function buildSourceChips() {
-    const sources = Array.from(
-      new Set(state.listings.map((item) => item.source.name))
-    ).sort();
+    const sources = Array.from(new Set(state.listings.map((item) => item.source.name))).sort();
 
     sources.forEach((name) => state.activeSources.add(name));
 
@@ -84,14 +66,30 @@
   function matchesFilters(item) {
     const q = state.query.trim().toLowerCase();
     const matchesQuery =
-      !q ||
-      item.title.toLowerCase().includes(q) ||
-      item.location.toLowerCase().includes(q);
+      !q || item.title.toLowerCase().includes(q) || item.location.toLowerCase().includes(q);
 
     const matchesTipo = state.tipo === "todos" || item.type === state.tipo;
     const matchesSource = state.activeSources.has(item.source.name);
 
-    return matchesQuery && matchesTipo && matchesSource;
+    const matchesTipologia =
+      state.tipologia === "qualquer" ||
+      (state.tipologia === "t5mais" ? (item.bedrooms ?? -1) >= 5 : item.bedrooms === Number(state.tipologia));
+
+    const matchesPrecoMin = state.precoMin == null || item.price >= state.precoMin;
+    const matchesPrecoMax = state.precoMax == null || item.price <= state.precoMax;
+    const matchesAreaMin = state.areaMin == null || (item.area_m2 ?? 0) >= state.areaMin;
+    const matchesAreaMax = state.areaMax == null || (item.area_m2 ?? Infinity) <= state.areaMax;
+
+    return (
+      matchesQuery &&
+      matchesTipo &&
+      matchesSource &&
+      matchesTipologia &&
+      matchesPrecoMin &&
+      matchesPrecoMax &&
+      matchesAreaMin &&
+      matchesAreaMax
+    );
   }
 
   function sortListings(list) {
@@ -100,6 +98,10 @@
       sorted.sort((a, b) => a.price - b.price);
     } else if (state.sort === "preco-desc") {
       sorted.sort((a, b) => b.price - a.price);
+    } else if (state.sort === "area-desc") {
+      sorted.sort((a, b) => (b.area_m2 ?? 0) - (a.area_m2 ?? 0));
+    } else if (state.sort === "area-asc") {
+      sorted.sort((a, b) => (a.area_m2 ?? Infinity) - (b.area_m2 ?? Infinity));
     } else {
       sorted.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
     }
@@ -113,6 +115,7 @@
     if (item.bathrooms) specs.push(`${item.bathrooms} WC`);
     if (item.area_m2) specs.push(`${item.area_m2} m²`);
 
+    const detailUrl = `imovel.html?id=${encodeURIComponent(item.id)}`;
     const media = item.image
       ? `<img class="card-photo" src="${escapeHtml(item.image)}" alt="" loading="lazy" />`
       : houseIcon();
@@ -120,21 +123,23 @@
     const card = document.createElement("article");
     card.className = "card";
     card.innerHTML = `
-      <div class="card-media${item.image ? " has-photo" : ""}">
-        <span class="card-type-badge">${isRent ? "Arrendar" : "Comprar"}</span>
-        ${media}
-      </div>
-      <div class="card-body">
-        <div class="card-price">${currency(item.price, item.currency)}${
+      <a class="card-link-wrap" href="${escapeHtml(detailUrl)}" aria-label="Ver detalhes de ${escapeHtml(item.title)}">
+        <div class="card-media${item.image ? " has-photo" : ""}">
+          <span class="card-type-badge">${isRent ? "Arrendar" : "Comprar"}</span>
+          ${media}
+        </div>
+        <div class="card-body">
+          <div class="card-price">${currency(item.price, item.currency)}${
       isRent ? '<span class="per-month"> /mês</span>' : ""
     }</div>
-        <h3 class="card-title">${escapeHtml(item.title)}</h3>
-        <div class="card-location">${escapeHtml(item.location)}</div>
-        <div class="card-specs">${specs.join(" · ")}</div>
-        <div class="card-footer">
-          <span class="source-badge" data-source="${escapeHtml(item.source.name)}">${escapeHtml(item.source.name)}</span>
-          <a class="card-link" href="${escapeHtml(item.listing_url)}" target="_blank" rel="noopener noreferrer">Ver anúncio →</a>
+          <h3 class="card-title">${escapeHtml(item.title)}</h3>
+          <div class="card-location">${escapeHtml(item.location)}</div>
+          <div class="card-specs">${specs.join(" · ")}</div>
         </div>
+      </a>
+      <div class="card-footer">
+        <span class="source-badge" data-source="${escapeHtml(item.source.name)}">${escapeHtml(item.source.name)}</span>
+        <a class="card-link" href="${escapeHtml(detailUrl)}">Ver detalhes →</a>
       </div>
     `;
     return card;
@@ -154,6 +159,12 @@
     el.grid.hidden = filtered.length === 0;
   }
 
+  function parseNumberOrNull(value) {
+    if (value === "" || value == null) return null;
+    const n = Number(value);
+    return Number.isFinite(n) ? n : null;
+  }
+
   function attachEvents() {
     el.searchForm.addEventListener("submit", (event) => {
       event.preventDefault();
@@ -167,37 +178,37 @@
       render();
     });
 
-    el.year.textContent = new Date().getFullYear();
-  }
+    if (el.advancedToggle && el.advancedPanel) {
+      el.advancedToggle.addEventListener("click", () => {
+        const willOpen = el.advancedPanel.hidden;
+        el.advancedPanel.hidden = !willOpen;
+        el.advancedToggle.setAttribute("aria-expanded", String(willOpen));
+        el.advancedToggle.textContent = willOpen ? "Menos filtros" : "Mais filtros";
+      });
+    }
 
-  async function fetchListings(url) {
-    const response = await fetch(url);
-    if (!response.ok) throw new Error(`${url} -> ${response.status}`);
-    const data = await response.json();
-    return data.listings || [];
+    if (el.advancedForm) {
+      el.advancedForm.addEventListener("submit", (event) => {
+        event.preventDefault();
+        state.tipologia = el.tipologiaSelect.value;
+        state.precoMin = parseNumberOrNull(el.precoMinInput.value);
+        state.precoMax = parseNumberOrNull(el.precoMaxInput.value);
+        state.areaMin = parseNumberOrNull(el.areaMinInput.value);
+        state.areaMax = parseNumberOrNull(el.areaMaxInput.value);
+        render();
+      });
+    }
   }
 
   async function init() {
     attachEvents();
 
-    let usingSample = false;
-    try {
-      state.listings = await fetchListings(REAL_DATA_URL);
-      if (state.listings.length === 0) throw new Error("sem anúncios reais ainda");
-    } catch (error) {
-      console.warn("A usar dados de exemplo:", error.message);
-      usingSample = true;
-      try {
-        state.listings = await fetchListings(SAMPLE_DATA_URL);
-      } catch (sampleError) {
-        console.error("Não foi possível carregar os imóveis de exemplo.", sampleError);
-        state.listings = [];
-      }
-    }
+    const { listings, isSample } = await loadListings();
+    state.listings = listings;
 
-    if (!usingSample && el.bannerText) {
+    if (!isSample && el.bannerText) {
       el.bannerText.innerHTML =
-        '🔧 <strong>Em expansão:</strong> por agora só agregamos anúncios da <strong>CASA SAPO</strong> — as restantes imobiliárias (Imovirtual, Idealista, SUPERCASA, RE/MAX) serão adicionadas em breve.';
+        "🔧 <strong>Em expansão:</strong> por agora cobrimos apenas uma fonte de anúncios. Estamos a trabalhar para adicionar mais imobiliárias brevemente.";
     }
 
     buildSourceChips();

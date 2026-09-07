@@ -2,92 +2,95 @@
 
 **Todos os imóveis. Uma só pesquisa.**
 
-O PlotNexus é um hub de pesquisa de imóveis para Portugal. A ideia é simples:
-em vez de teres de procurar casa espalhado por vários sites (Imovirtual,
-Idealista, SUPERCASA, RE/MAX, CASA SAPO, entre outros), juntamos os anúncios
-num único lugar — sempre com link direto para o anúncio e site de origem.
+O PlotNexus é um hub de pesquisa de imóveis para Portugal: em vez de procurar
+casa espalhado por vários sites, agrega os anúncios num único lugar, sempre
+com link direto para o anúncio e site de origem. É um projeto pessoal, ainda
+em desenvolvimento.
 
 O site está publicado via GitHub Pages a partir deste repositório.
 
-## Estado atual (base do projeto)
+## Estado atual
 
-Esta primeira versão estabelece a base da plataforma:
-
-- Interface estática (HTML/CSS/JS puro, sem build necessário).
-- Pesquisa por localização/palavra-chave, filtro por tipo (comprar/arrendar)
-  e por fonte, e ordenação por preço/recência.
-- Grelha de cartões de imóveis, cada um com a fonte identificada e um botão
-  que encaminha sempre para o anúncio no site de origem.
-- Dados de exemplo (`data/listings.sample.json`) para demonstrar o layout —
-  **ainda não há recolha real de anúncios**. Isso é o próximo passo.
+- Interface estática (HTML/CSS/JS puro, sem build necessário): página
+  inicial com pesquisa/filtros/ordenação, página de detalhe por imóvel
+  (com foto, descrição, mapa e link para o anúncio original) e página
+  "Sobre".
+- Um conector de dados real e automático: `scripts/scrape` recolhe anúncios
+  da CASA SAPO (compra e arrendamento, cobertura nacional) via
+  `.github/workflows/scrape.yml`, agendado a cada 6 horas.
+- Dados de exemplo (`data/listings.sample.json`) servem de fallback caso
+  `data/listings.json` (dados reais) ainda não exista ou esteja vazio.
 
 ## Estrutura do projeto
 
 ```
 .
-├── index.html                  # página principal
+├── index.html                   # página inicial
+├── imovel.html                  # página de detalhe de um imóvel (?id=...)
+├── sobre.html                   # página "Sobre"
 ├── assets/
-│   ├── css/styles.css          # estilos
-│   ├── js/app.js                # lógica de pesquisa/filtros/render
-│   └── img/                     # imagens e logótipo (a preencher)
+│   ├── css/styles.css
+│   ├── js/
+│   │   ├── shared.js             # helpers partilhados entre páginas
+│   │   ├── app.js                # lógica da página inicial
+│   │   └── listing.js            # lógica da página de detalhe
+│   └── img/
 ├── data/
-│   └── listings.sample.json    # dados de exemplo (mock)
+│   ├── listings.json            # dados reais (gerados pelo scraper)
+│   └── listings.sample.json     # dados de exemplo (fallback)
+├── scripts/scrape/               # scraper Node.js
+│   ├── index.js
+│   ├── lib/normalize.js
+│   └── sources/casaSapo.js
+├── .github/workflows/scrape.yml  # agendamento do scraper
 ├── LICENSE
 └── README.md
 ```
 
 ## Correr localmente
 
-Como o `app.js` carrega os dados via `fetch`, precisas de servir os ficheiros
-por HTTP (abrir o `index.html` diretamente com `file://` não funciona por
+Como o site carrega dados via `fetch`, é preciso servir os ficheiros por
+HTTP (abrir `index.html` diretamente com `file://` não funciona por
 restrições de CORS do browser). Por exemplo:
 
 ```bash
 python3 -m http.server 8000
-# ou
-npx serve .
 ```
 
 Depois abre `http://localhost:8000`.
 
-## Sobre o logótipo
+Para correr o scraper localmente:
 
-O logótipo definitivo ainda está a ser preparado. Por agora existe um
-logótipo temporário (ícone + texto "PlotNexus") em `index.html` e um favicon
-inline em SVG. Quando o ficheiro final estiver pronto, basta substituir:
+```bash
+cd scripts/scrape
+npm install
+node index.js
+```
 
-- O favicon em `<link rel="icon">` no `<head>` do `index.html`.
-- O bloco `.logo` no cabeçalho (`index.html`), idealmente por um `<img>` a
-  apontar para `assets/img/logo.svg` (ou `.png`).
+A variável de ambiente `SCRAPE_DISTRICTS` (lista separada por vírgulas, ex.
+`SCRAPE_DISTRICTS=braga,evora`) permite testar apenas alguns distritos em vez
+da lista completa.
 
 ## Nota sobre a recolha de dados de terceiros
 
-Este projeto pretende agregar anúncios de imobiliárias e portais terceiros.
-Antes de implementar qualquer recolha automática (scraping) de um site,
-temos de:
+Este projeto agrega anúncios de imobiliárias e portais de terceiros. Por
+agora é um projeto pessoal e de pequena escala; antes de qualquer utilização
+pública/comercial, será necessário revisitar os termos de serviço de cada
+fonte. Princípios seguidos desde já:
 
-- Verificar os **termos de serviço** e o `robots.txt` de cada site.
-- Preferir sempre **APIs oficiais, feeds/RSS ou parcerias** em vez de
-  scraping não autorizado, sempre que existam.
-- Nunca esconder a origem do anúncio — o utilizador é sempre encaminhado
-  para o site original para ver detalhes/contactar o anunciante.
-- Respeitar limites de frequência de pedidos (rate limiting) para não
-  sobrecarregar os sites de origem.
+- Nunca esconder a origem do anúncio: cada imóvel tem sempre um botão que
+  encaminha para o site original.
+- Respeitar limites de frequência de pedidos (rate limiting) — o scraper da
+  CASA SAPO espera vários segundos entre pedidos e tenta novamente com
+  backoff em caso de bloqueio.
+- Identificar o scraper com um User-Agent próprio.
 
 ## Roadmap / próximas ideias
 
-Lista aberta para irmos adicionando ao longo do projeto:
-
-- [ ] Conectores de dados reais (scraping responsável e/ou APIs/parcerias)
-      para Imovirtual, Idealista, SUPERCASA, RE/MAX, CASA SAPO e outros.
-- [ ] Backend/serviço de agregação (ex.: job agendado que atualiza um JSON
-      ou base de dados, servido por uma API própria).
-- [ ] Imagens reais dos imóveis.
-- [ ] Página de detalhe do imóvel dentro do PlotNexus (com link para o
-      original).
-- [ ] Filtros avançados: preço mín/máx, área, tipologia, ano de construção,
-      certificado energético.
-- [ ] Mapa interativo com localização dos imóveis.
+- [ ] Conectores de dados reais para outras fontes (Imovirtual, Idealista,
+      SUPERCASA, RE/MAX).
+- [ ] Fotos/galeria completa e descrição integral por imóvel (atualmente
+      limitado ao que a página de resultados de pesquisa expõe).
 - [ ] Favoritos e comparação entre imóveis.
 - [ ] Alertas por email para novas pesquisas guardadas.
 - [ ] Deteção e remoção de duplicados (o mesmo imóvel anunciado em vários
@@ -98,8 +101,8 @@ Lista aberta para irmos adicionando ao longo do projeto:
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE) — permissiva,
+Este projeto está licenciado sob a [Licença MIT](LICENSE): permissiva,
 simples e comum em projetos web deste tipo, permitindo uso, modificação e
 reutilização do código (frontend) com atribuição. Note que a licença cobre o
 código deste repositório; não concede quaisquer direitos sobre os dados de
-imóveis de terceiros que venham a ser agregados.
+imóveis de terceiros que sejam agregados.

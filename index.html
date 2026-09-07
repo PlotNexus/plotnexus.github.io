@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>PlotNexus — Todos os imóveis, uma só pesquisa</title>
-  <meta name="description" content="PlotNexus agrega anúncios de imóveis do Imovirtual, Idealista, SUPERCASA, RE/MAX, CASA SAPO e outras imobiliárias num único lugar." />
+  <title>PlotNexus: todos os imóveis, uma só pesquisa</title>
+  <meta name="description" content="O PlotNexus agrega anúncios de imóveis de várias imobiliárias portuguesas num único local de pesquisa." />
   <link rel="icon" type="image/png" href="assets/img/favicon.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -12,8 +12,8 @@
   <link rel="stylesheet" href="assets/css/styles.css" />
 
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="PlotNexus — O Portal Imobiliário de Portugal" />
-  <meta property="og:description" content="PlotNexus agrega anúncios de imóveis do Imovirtual, Idealista, SUPERCASA, RE/MAX, CASA SAPO e outras imobiliárias num único lugar." />
+  <meta property="og:title" content="PlotNexus: o portal imobiliário de Portugal" />
+  <meta property="og:description" content="O PlotNexus agrega anúncios de imóveis de várias imobiliárias portuguesas num único local de pesquisa." />
   <meta property="og:url" content="https://plotnexus.github.io/" />
   <meta property="og:image" content="https://plotnexus.github.io/assets/img/social-preview.png" />
   <meta name="twitter:card" content="summary_large_image" />
@@ -22,21 +22,21 @@
 <body>
   <header class="site-header">
     <div class="container header-inner">
-      <a href="#" class="logo" aria-label="PlotNexus - página inicial">
+      <a href="index.html" class="logo" aria-label="PlotNexus, página inicial">
         <img src="assets/img/logo-icon.png" alt="" class="logo-mark-img" />
         <span class="logo-text">PlotNexus</span>
       </a>
       <nav class="main-nav" aria-label="Navegação principal">
         <a href="#como-funciona">Como funciona</a>
         <a href="#imoveis">Imóveis</a>
-        <a href="#sobre">Sobre</a>
+        <a href="sobre.html">Sobre</a>
       </nav>
     </div>
   </header>
 
   <div class="banner-demo" id="banner-demo" role="note">
     <div class="container" id="banner-demo-text">
-      🚧 <strong>Em construção:</strong> ainda estamos a implementar os conectores de dados reais. Os imóveis abaixo são <strong>exemplos ilustrativos</strong> para demonstrar o layout — em breve serão substituídos por anúncios reais das imobiliárias parceiras.
+      🔧 <strong>Em expansão:</strong> por agora cobrimos apenas uma fonte de anúncios. Estamos a trabalhar para adicionar mais imobiliárias brevemente.
     </div>
   </div>
 
@@ -44,7 +44,7 @@
     <div class="container hero-inner">
       <p class="hero-eyebrow">Portugal · comprar e arrendar</p>
       <h1>Todos os imóveis.<br>Uma só pesquisa.</h1>
-      <p class="hero-sub">O PlotNexus junta anúncios do Imovirtual, Idealista, SUPERCASA, RE/MAX, CASA SAPO e outras imobiliárias — para que não percas tempo a saltar entre sites. Encontra, compara e segue diretamente para o anúncio original.</p>
+      <p class="hero-sub">O PlotNexus reúne anúncios de várias imobiliárias e portais num único local, sem necessidade de saltar entre vários sites. Encontre, compare e siga directamente para o anúncio original.</p>
 
       <form class="search-bar" id="search-form" role="search">
         <div class="field field-grow">
@@ -72,15 +72,55 @@
           <!-- source chips injected by JS -->
         </div>
 
-        <div class="sort-control">
-          <label for="sort">Ordenar por</label>
-          <select id="sort">
-            <option value="recentes">Mais recentes</option>
-            <option value="preco-asc">Preço (menor primeiro)</option>
-            <option value="preco-desc">Preço (maior primeiro)</option>
-          </select>
+        <div class="toolbar-right">
+          <button type="button" class="link-btn" id="advanced-filters-toggle" aria-expanded="false" aria-controls="advanced-filters">
+            Mais filtros
+          </button>
+
+          <div class="sort-control">
+            <label for="sort">Ordenar por</label>
+            <select id="sort">
+              <option value="recentes">Mais recentes</option>
+              <option value="preco-asc">Preço (menor primeiro)</option>
+              <option value="preco-desc">Preço (maior primeiro)</option>
+              <option value="area-desc">Área (maior primeiro)</option>
+              <option value="area-asc">Área (menor primeiro)</option>
+            </select>
+          </div>
         </div>
       </div>
+
+      <form class="advanced-filters" id="advanced-filters" hidden>
+        <div class="field">
+          <label for="tipologia">Tipologia</label>
+          <select id="tipologia">
+            <option value="qualquer">Qualquer</option>
+            <option value="0">T0</option>
+            <option value="1">T1</option>
+            <option value="2">T2</option>
+            <option value="3">T3</option>
+            <option value="4">T4</option>
+            <option value="t5mais">T5 ou mais</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="preco-min">Preço mínimo (€)</label>
+          <input type="number" id="preco-min" min="0" step="1000" placeholder="Sem mínimo" />
+        </div>
+        <div class="field">
+          <label for="preco-max">Preço máximo (€)</label>
+          <input type="number" id="preco-max" min="0" step="1000" placeholder="Sem máximo" />
+        </div>
+        <div class="field">
+          <label for="area-min">Área mínima (m²)</label>
+          <input type="number" id="area-min" min="0" step="5" placeholder="Sem mínimo" />
+        </div>
+        <div class="field">
+          <label for="area-max">Área máxima (m²)</label>
+          <input type="number" id="area-max" min="0" step="5" placeholder="Sem máximo" />
+        </div>
+        <button type="submit" class="btn btn-primary" id="advanced-filters-form-submit">Aplicar filtros</button>
+      </form>
 
       <p class="results-count" id="results-count" aria-live="polite"></p>
 
@@ -88,7 +128,7 @@
         <!-- listing cards injected by JS -->
       </div>
 
-      <p class="empty-state" id="empty-state" hidden>Não encontrámos imóveis com esses filtros. Tenta alargar a pesquisa.</p>
+      <p class="empty-state" id="empty-state" hidden>Não foram encontrados imóveis com estes filtros. Tente alargar a pesquisa.</p>
     </div>
   </section>
 
@@ -99,39 +139,33 @@
         <div class="step">
           <div class="step-number">1</div>
           <h3>Agregamos</h3>
-          <p>Recolhemos anúncios de várias imobiliárias e portais parceiros e organizamo-los num só sítio.</p>
+          <p>Recolhemos anúncios de imobiliárias e portais de todo o país e organizamo-los num único local.</p>
         </div>
         <div class="step">
           <div class="step-number">2</div>
-          <h3>Comparas</h3>
-          <p>Pesquisas, filtras e comparas imóveis de fontes diferentes sem saltar entre separadores.</p>
+          <h3>Compare</h3>
+          <p>Pesquise, filtre e compare imóveis de fontes diferentes sem saltar entre separadores.</p>
         </div>
         <div class="step">
           <div class="step-number">3</div>
-          <h3>Segues para a fonte</h3>
-          <p>Quando encontras algo interessante, encaminhamos-te diretamente para o anúncio original — nunca escondemos a origem.</p>
+          <h3>Siga para a fonte</h3>
+          <p>Cada imóvel tem uma página própria no PlotNexus, com toda a informação organizada e um botão para aceder directamente ao anúncio original.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <section id="sobre" class="about">
-    <div class="container">
-      <h2>Sobre o PlotNexus</h2>
-      <p>O PlotNexus é um hub de pesquisa de imóveis. A nossa ideia é simples: em vez de teres de procurar casa em vários sites diferentes (Imovirtual, Idealista, SUPERCASA, RE/MAX, CASA SAPO e outros), juntamos tudo num único local, sempre com link direto para o anúncio e site de origem.</p>
-      <p>Este é o ponto de partida do projeto — a base da plataforma. Vamos continuar a adicionar fontes, funcionalidades e melhorias ao longo do tempo.</p>
-    </div>
-  </section>
-
   <footer class="site-footer">
     <div class="container footer-inner">
-      <p>&copy; <span id="year"></span> PlotNexus. Todos os imóveis apresentados pertencem e são geridos pelos respetivos sites de origem — o PlotNexus apenas agrega e encaminha.</p>
+      <p>&copy; <span id="year"></span> PlotNexus. Todos os imóveis apresentados pertencem e são geridos pelas respectivas fontes de origem; o PlotNexus apenas agrega e encaminha.</p>
       <p class="footer-links">
+        <a href="sobre.html">Sobre</a>
         <a href="https://github.com/PlotNexus/plotnexus.github.io" target="_blank" rel="noopener">GitHub</a>
       </p>
     </div>
   </footer>
 
+  <script src="assets/js/shared.js"></script>
   <script src="assets/js/app.js"></script>
 </body>
 </html>

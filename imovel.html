@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Imóvel | PlotNexus</title>
+  <meta name="description" content="Detalhe de um imóvel agregado pelo PlotNexus." />
+  <meta name="robots" content="noindex" />
+  <link rel="icon" type="image/png" href="assets/img/favicon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo" aria-label="PlotNexus, página inicial">
+        <img src="assets/img/logo-icon.png" alt="" class="logo-mark-img" />
+        <span class="logo-text">PlotNexus</span>
+      </a>
+      <nav class="main-nav" aria-label="Navegação principal">
+        <a href="index.html#como-funciona">Como funciona</a>
+        <a href="index.html#imoveis">Imóveis</a>
+        <a href="sobre.html">Sobre</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="listing-page">
+    <div class="container">
+      <a href="index.html#imoveis" class="back-link">&larr; Voltar aos imóveis</a>
+
+      <div id="listing-loading" class="listing-status">A carregar o imóvel...</div>
+
+      <div id="listing-not-found" class="listing-status" hidden>
+        Não foi possível encontrar este imóvel. Poderá já não estar disponível na fonte de origem.
+        <br />
+        <a href="index.html#imoveis" class="btn btn-primary listing-status-btn">Ver todos os imóveis</a>
+      </div>
+
+      <article id="listing-detail" class="listing-detail" hidden></article>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>&copy; <span id="year"></span> PlotNexus. Todos os imóveis apresentados pertencem e são geridos pelas respectivas fontes de origem; o PlotNexus apenas agrega e encaminha.</p>
+      <p class="footer-links">
+        <a href="sobre.html">Sobre</a>
+        <a href="https://github.com/PlotNexus/plotnexus.github.io" target="_blank" rel="noopener">GitHub</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="assets/js/shared.js"></script>
+  <script src="assets/js/listing.js"></script>
+</body>
+</html>
