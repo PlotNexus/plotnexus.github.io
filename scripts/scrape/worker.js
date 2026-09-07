@@ -31,6 +31,19 @@ const shardIndex = Number(process.env.SHARD_INDEX ?? 0);
 const shardCount = Number(process.env.SHARD_COUNT ?? 1);
 const maxDetailPerShardSource = Number(process.env.MAX_DETAIL_PER_SHARD_SOURCE ?? 20);
 
+// A GitHub Actions job hit by its `timeout-minutes` is killed outright —
+// every remaining step, including uploading the shard's own output as an
+// artifact, is skipped, not just the current one. That silently discarded
+// an entire shard's progress on a large catch-up burst even though the
+// script itself was saving incrementally to local disk the whole time.
+// So the script polices its own budget and stops itself well short of
+// the job-level timeout, exiting normally so the upload step still runs.
+const START_TIME = Date.now();
+const maxRuntimeMs = Number(process.env.MAX_RUNTIME_MINUTES ?? 165) * 60 * 1000;
+function timeBudgetExceeded() {
+  return Date.now() - START_TIME > maxRuntimeMs;
+}
+
 const SOURCES = [
   {
     name: "casasapo",
@@ -69,6 +82,11 @@ async function main() {
   }
 
   for (const source of SOURCES) {
+    if (timeBudgetExceeded()) {
+      console.log(`[shard ${shardIndex}] orçamento de tempo esgotado, a saltar ${source.name}`);
+      continue;
+    }
+
     const districts = myShare(source.districts);
     console.log(`[shard ${shardIndex}/${shardCount}] ${source.name}: ${districts.join(", ") || "(nenhum)"}`);
 
@@ -84,6 +102,12 @@ async function main() {
     console.log(`[shard ${shardIndex}] ${source.name}: ${candidates.length} anúncios a enriquecer`);
 
     for (const [i, item] of candidates.entries()) {
+      if (timeBudgetExceeded()) {
+        console.log(
+          `[shard ${shardIndex}] orçamento de tempo esgotado a meio de ${source.name} (${i}/${candidates.length} feitos) — a terminar de forma limpa`
+        );
+        break;
+      }
       try {
         const detailData = await source.fetchDetail(item.listing_url);
         detail[item.id] = { ...detailData, fetched_at: new Date().toISOString().slice(0, 10) };
