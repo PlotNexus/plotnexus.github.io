@@ -33,6 +33,15 @@
     }).format(value);
   }
 
+  function escapeHtml(str) {
+    return String(str ?? "")
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#39;");
+  }
+
   function houseIcon() {
     return (
       '<svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">' +
@@ -104,23 +113,27 @@
     if (item.bathrooms) specs.push(`${item.bathrooms} WC`);
     if (item.area_m2) specs.push(`${item.area_m2} m²`);
 
+    const media = item.image
+      ? `<img class="card-photo" src="${escapeHtml(item.image)}" alt="" loading="lazy" />`
+      : houseIcon();
+
     const card = document.createElement("article");
     card.className = "card";
     card.innerHTML = `
-      <div class="card-media">
+      <div class="card-media${item.image ? " has-photo" : ""}">
         <span class="card-type-badge">${isRent ? "Arrendar" : "Comprar"}</span>
-        ${houseIcon()}
+        ${media}
       </div>
       <div class="card-body">
         <div class="card-price">${currency(item.price, item.currency)}${
       isRent ? '<span class="per-month"> /mês</span>' : ""
     }</div>
-        <h3 class="card-title">${item.title}</h3>
-        <div class="card-location">${item.location}</div>
+        <h3 class="card-title">${escapeHtml(item.title)}</h3>
+        <div class="card-location">${escapeHtml(item.location)}</div>
         <div class="card-specs">${specs.join(" · ")}</div>
         <div class="card-footer">
-          <span class="source-badge" data-source="${item.source.name}">${item.source.name}</span>
-          <a class="card-link" href="${item.listing_url}" target="_blank" rel="noopener noreferrer">Ver anúncio →</a>
+          <span class="source-badge" data-source="${escapeHtml(item.source.name)}">${escapeHtml(item.source.name)}</span>
+          <a class="card-link" href="${escapeHtml(item.listing_url)}" target="_blank" rel="noopener noreferrer">Ver anúncio →</a>
         </div>
       </div>
     `;

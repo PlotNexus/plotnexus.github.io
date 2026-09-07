@@ -1,18 +1,19 @@
 {
   "_readme": "Dados recolhidos automaticamente (scripts/scrape) a partir de sites parceiros, para uso pessoal. Ver .github/workflows/scrape.yml.",
-  "generated_at": "2026-09-07T01:01:27.297Z",
+  "generated_at": "2026-09-07T01:09:40.030Z",
   "errors": [],
   "listings": [
     {
       "id": "casasapo-fcc0d8a073",
-      "title": "Apartamento T1 usado",
+      "title": "Apartamento T1 São Sebastião, Setúbal",
       "type": "venda",
       "price": 184000,
       "currency": "EUR",
-      "location": "São Sebastião, Setúbal, Distrito de Setúbal",
+      "location": "São Sebastião, Setúbal",
       "bedrooms": 1,
       "bathrooms": null,
       "area_m2": 67,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C14793/P30810887/Tphoto/ID0723d601-0000-0500-0000-00001a1fbaf2.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -21,66 +22,52 @@
       "published_at": "2026-09-07"
     },
     {
-      "id": "casasapo-80e945f8d5",
-      "title": "Apartamento T3 novo",
+      "id": "casasapo-08ed79ca26",
+      "title": "Moradia T5 Porto Salvo, Oeiras",
       "type": "venda",
-      "price": 525000,
+      "price": 1180000,
       "currency": "EUR",
-      "location": "Arruda dos Vinhos",
-      "bedrooms": 3,
-      "bathrooms": null,
-      "area_m2": 136,
-      "source": {
-        "name": "CASA SAPO",
-        "url": "https://casa.sapo.pt"
-      },
-      "listing_url": "https://casa.sapo.pt/comprar-apartamento-arruda-dos-vinhos-06b53046-7bef-4640-9da8-032f23f0cec2.html?g3pid=1089343",
-      "published_at": "2026-09-07"
-    },
-    {
-      "id": "casasapo-6a2a9a8ffd",
-      "title": "Apartamento T5 remodelado",
-      "type": "venda",
-      "price": 308000,
-      "currency": "EUR",
-      "location": "Duplex Bom Retiro, Vila Franca de Xira",
+      "location": "Porto Salvo, Oeiras",
       "bedrooms": 5,
       "bathrooms": null,
-      "area_m2": 207,
+      "area_m2": 295,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C540300/P200387451/Tphoto/ID8f849415-e73b-4480-b239-6110e2315495.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
       },
-      "listing_url": "https://casa.sapo.pt/comprar-apartamento-vila-franca-de-xira-bom-retiro-01539334-9936-47d3-9374-78035cad2636.html?g3pid=1087619",
+      "listing_url": "https://casa.sapo.pt/comprar-moradia-oeiras-porto-salvo-4855e2be-644a-4480-9885-ccba62260a29.html?g3pid=1087645",
       "published_at": "2026-09-07"
     },
     {
-      "id": "casasapo-2dd28f3f23",
-      "title": "Apartamento T3 remodelado",
+      "id": "casasapo-a91cb0abef",
+      "title": "Apartamento T3+1 Nossa Senhora do Pópulo, Coto e São Gregório, Caldas da Rainha",
       "type": "venda",
-      "price": 310000,
+      "price": 480000,
       "currency": "EUR",
-      "location": "São Salvador, Cidade de Santarém",
+      "location": "Nossa Senhora do Pópulo, Coto e São Gregório, Caldas da Rainha",
       "bedrooms": 3,
       "bathrooms": null,
-      "area_m2": 150,
+      "area_m2": 152,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1116409/P200388398/Tphoto/IDf52c8aa0-2b6f-40af-ba02-9c311f9609f5.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
       },
-      "listing_url": "https://casa.sapo.pt/comprar-apartamento-cidade-de-santarem-sao-salvador-1e7cc9db-72f7-44db-be24-f02d0fc25c21.html?g3pid=1089131",
+      "listing_url": "https://casa.sapo.pt/comprar-apartamento-caldas-da-rainha-nossa-senhora-do-populo-coto-e-sao-gregorio-3419877c-a309-4d6d-96db-c570a437f0c7.html?g3pid=1089355",
       "published_at": "2026-09-07"
     },
     {
       "id": "casasapo-845a4e8e87",
-      "title": "Apartamento T3",
+      "title": "Apartamento T3 Vila Nova de Famalicão e Calendário, Vila Nova de Famalicão",
       "type": "venda",
       "price": 368000,
       "currency": "EUR",
-      "location": "Vila Nova de Famalicão e Calendário, Distrito de Braga",
+      "location": "Vila Nova de Famalicão e Calendário, Vila Nova de Famalicão",
       "bedrooms": 3,
       "bathrooms": null,
       "area_m2": 141,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C328/P27684657/Tphoto/ID316fa601-0000-0500-0000-00001a1e4bf3.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -90,14 +77,15 @@
     },
     {
       "id": "casasapo-46854d8336",
-      "title": "Apartamento T1 usado",
+      "title": "Apartamento T1 Ericeira, Ericeira, Mafra",
       "type": "venda",
       "price": 795000,
       "currency": "EUR",
-      "location": "Ericeira, Mafra, Distrito de Lisboa",
+      "location": "Ericeira, Mafra",
       "bedrooms": 1,
       "bathrooms": null,
       "area_m2": 103,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C4469/P30594570/Tphoto/ID0ad6d201-0000-0500-0000-000019dbace1.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -107,14 +95,15 @@
     },
     {
       "id": "casasapo-ddb34c1929",
-      "title": "Moradia T3 novo",
+      "title": "Moradia T3 Ericeira, Mafra",
       "type": "venda",
       "price": 570000,
       "currency": "EUR",
-      "location": "Ericeira, Mafra, Distrito de Lisboa",
+      "location": "Ericeira, Mafra",
       "bedrooms": 3,
       "bathrooms": null,
       "area_m2": 127,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C4469/P30595368/Tphoto/ID28d9d201-0000-0500-0000-00001a22a31c.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -124,14 +113,15 @@
     },
     {
       "id": "casasapo-449c898b7a",
-      "title": "Apartamento T2 usado",
+      "title": "Apartamento T2 Quarteira, Quarteira, Loulé",
       "type": "venda",
       "price": 700000,
       "currency": "EUR",
-      "location": "Quarteira, Loulé, Distrito de Faro",
+      "location": "Quarteira, Loulé",
       "bedrooms": 2,
       "bathrooms": null,
       "area_m2": 95,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C2704/P30964669/Tphoto/IDbd7bd801-0000-0500-0000-00001a4d8af3.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -141,14 +131,15 @@
     },
     {
       "id": "casasapo-6b457dedd7",
-      "title": "Apartamento T3 remodelado",
+      "title": "Apartamento T3 Restelo (Santa Maria de Belém), Belém, Lisboa",
       "type": "venda",
       "price": 820000,
       "currency": "EUR",
-      "location": "Restelo (Santa Maria de Belém), Lisboa, Distrito de Lisboa",
+      "location": "Belém, Lisboa",
       "bedrooms": 3,
       "bathrooms": null,
       "area_m2": 135,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C6631/P29773974/Tphoto/ID9650c601-0000-0500-0000-000018ef323f.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -158,14 +149,15 @@
     },
     {
       "id": "casasapo-5a66feeb16",
-      "title": "Apartamento T3 usado",
+      "title": "Apartamento T3 Odivelas, Odivelas",
       "type": "venda",
       "price": 335000,
       "currency": "EUR",
-      "location": "Odivelas, Distrito de Lisboa",
+      "location": "Odivelas, Odivelas",
       "bedrooms": 3,
       "bathrooms": null,
       "area_m2": 77,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C4831/P30961027/Tphoto/ID836dd801-0000-0500-0000-00001a4ca4d4.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -175,14 +167,15 @@
     },
     {
       "id": "casasapo-3ae454803c",
-      "title": "Moradia T4 usado",
+      "title": "Moradia T4 Olalhas, Tomar",
       "type": "venda",
       "price": 350000,
       "currency": "EUR",
-      "location": "Olalhas, Tomar, Distrito de Santarém",
+      "location": "Olalhas, Tomar",
       "bedrooms": 4,
       "bathrooms": null,
       "area_m2": 168,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C4831/P30933231/Tphoto/IDef00d801-0000-0500-0000-00001a457de2.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -192,14 +185,15 @@
     },
     {
       "id": "casasapo-e3b3e3382c",
-      "title": "Apartamento T2 usado",
+      "title": "Apartamento T2 Bougado (São Martinho e Santiago), Trofa",
       "type": "venda",
       "price": 260000,
       "currency": "EUR",
-      "location": "Bougado (São Martinho e Santiago), Trofa, Distrito do Porto",
+      "location": "Bougado (São Martinho e Santiago), Trofa",
       "bedrooms": 2,
       "bathrooms": null,
       "area_m2": 92,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C328/P30800599/Tphoto/IDd7fad501-0000-0500-0000-00001a355247.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -209,14 +203,15 @@
     },
     {
       "id": "casasapo-d6b4066e1c",
-      "title": "Moradia T4 usado",
+      "title": "Moradia T4 Duplex Vale de Caranguejo, Tavira (Santa Maria e Santiago), Tavira",
       "type": "venda",
       "price": 1200000,
       "currency": "EUR",
-      "location": "Duplex Vale de Caranguejo, Tavira (Santa Maria e Santiago), Distrito de Faro",
+      "location": "Tavira (Santa Maria e Santiago), Tavira",
       "bedrooms": 4,
       "bathrooms": null,
       "area_m2": 232,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C12362/P30947181/Tphoto/ID6d37d801-0000-0500-0000-00001a4a6afd.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -226,14 +221,15 @@
     },
     {
       "id": "casasapo-5a638436dc",
-      "title": "Apartamento T2 usado",
+      "title": "Apartamento T2 São João da Madeira, São João da Madeira",
       "type": "venda",
       "price": 170000,
       "currency": "EUR",
-      "location": "São João da Madeira, Distrito de Aveiro",
+      "location": "São João da Madeira, São João da Madeira",
       "bedrooms": 2,
       "bathrooms": null,
       "area_m2": 85,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5561/P30961198/Tphoto/ID2e6ed801-0000-0500-0000-00001a4cb06b.JPG",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -243,14 +239,15 @@
     },
     {
       "id": "casasapo-241262251f",
-      "title": "Apartamento T0 remodelado",
+      "title": "Apartamento T0 Algés, Linda-a-Velha e Cruz Quebrada-Dafundo, Oeiras",
       "type": "venda",
       "price": 210000,
       "currency": "EUR",
-      "location": "Algés, Linda-a-Velha e Cruz Quebrada-Dafundo, Oeiras, Distrito de Lisboa",
+      "location": "Algés, Linda-a-Velha e Cruz Quebrada-Dafundo, Oeiras",
       "bedrooms": 0,
       "bathrooms": null,
       "area_m2": 26,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5773/P30736159/Tphoto/ID1fffd401-0000-0500-0000-00001a075dbe.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -260,14 +257,15 @@
     },
     {
       "id": "casasapo-e7a716a680",
-      "title": "Apartamento T1",
+      "title": "Apartamento T1 Vila Nova de Cerveira e Lovelhe, Vila Nova de Cerveira",
       "type": "venda",
       "price": 187000,
       "currency": "EUR",
-      "location": "Vila Nova de Cerveira e Lovelhe, Distrito de Viana do Castelo",
+      "location": "Vila Nova de Cerveira e Lovelhe, Vila Nova de Cerveira",
       "bedrooms": 1,
       "bathrooms": null,
       "area_m2": 59,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5773/P30862850/Tphoto/ID02eed601-0000-0500-0000-00001a301215.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -277,14 +275,15 @@
     },
     {
       "id": "casasapo-d809ca4c2f",
-      "title": "Apartamento T2 novo",
+      "title": "Apartamento T2 Almada, Cova da Piedade, Pragal e Cacilhas, Almada",
       "type": "venda",
       "price": 440000,
       "currency": "EUR",
-      "location": "Almada, Cova da Piedade, Pragal e Cacilhas, Distrito de Setúbal",
+      "location": "Almada, Cova da Piedade, Pragal e Cacilhas, Almada",
       "bedrooms": 2,
       "bathrooms": null,
       "area_m2": 69,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5773/P30867487/Tphoto/ID1f00d701-0000-0500-0000-00001a357a82.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -294,14 +293,15 @@
     },
     {
       "id": "casasapo-6b47f7f102",
-      "title": "Apartamento T2",
+      "title": "Apartamento T2 Senhora da Hora, Matosinhos",
       "type": "venda",
       "price": 357700,
       "currency": "EUR",
-      "location": "Senhora da Hora, Matosinhos, Distrito do Porto",
+      "location": "Senhora da Hora, Matosinhos",
       "bedrooms": 2,
       "bathrooms": null,
       "area_m2": 86,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5773/P30874962/Tphoto/ID521dd701-0000-0500-0000-00001a33c00e.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -311,14 +311,15 @@
     },
     {
       "id": "casasapo-ac192ea690",
-      "title": "Apartamento T4",
+      "title": "Apartamento T4 São João do Estoril, Cascais e Estoril, Cascais",
       "type": "venda",
       "price": 560000,
       "currency": "EUR",
-      "location": "",
+      "location": "Cascais e Estoril, Cascais",
       "bedrooms": 4,
       "bathrooms": null,
       "area_m2": 106,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C2729/P30893681/Tphoto/ID7166d701-0000-0500-0000-00001a396697.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -328,14 +329,15 @@
     },
     {
       "id": "casasapo-57c5d50aaa",
-      "title": "Moradia T4",
+      "title": "Moradia T4 Manique de Baixo, Alcabideche, Cascais",
       "type": "venda",
       "price": 1320000,
       "currency": "EUR",
-      "location": "",
+      "location": "Alcabideche, Cascais",
       "bedrooms": 4,
       "bathrooms": null,
       "area_m2": 220,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C2729/P29313096/Tphoto/ID4848bf01-0000-0500-0000-000018b2e3ed.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -345,14 +347,15 @@
     },
     {
       "id": "casasapo-966cde5abd",
-      "title": "Apartamento T3+1 usado",
+      "title": "Apartamento T3+1 Misericórdia, Lisboa",
       "type": "venda",
       "price": 695000,
       "currency": "EUR",
-      "location": "Misericórdia, Lisboa, Distrito de Lisboa",
+      "location": "Misericórdia, Lisboa",
       "bedrooms": 3,
       "bathrooms": null,
       "area_m2": 130,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C6821/P29358863/Tphoto/ID0ffbbf01-0000-0500-0000-0000186bb542.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
@@ -361,54 +364,435 @@
       "published_at": "2026-09-07"
     },
     {
-      "id": "casasapo-0aaf488c99",
-      "title": "Apartamento T5 usado",
-      "type": "venda",
-      "price": 850000,
+      "id": "casasapo-1c31bf07a9",
+      "title": "Apartamento T1 Avenida Fernão de Magalhães, Sé Nova, Santa Cruz, Almedina e São Bartolomeu, Coimbra",
+      "type": "arrendamento",
+      "price": 750,
       "currency": "EUR",
-      "location": "Ramalde, Porto, Distrito do Porto",
-      "bedrooms": 5,
-      "bathrooms": null,
-      "area_m2": 350,
-      "source": {
-        "name": "CASA SAPO",
-        "url": "https://casa.sapo.pt"
-      },
-      "listing_url": "https://casa.sapo.pt/comprar-apartamento-t5-porto-ramalde-99701b12-5398-11f1-9aaf-060000000054.html?g3pid=1089576",
-      "published_at": "2026-09-07"
-    },
-    {
-      "id": "casasapo-8c699d5803",
-      "title": "Apartamento T1 novo",
-      "type": "venda",
-      "price": 270000,
-      "currency": "EUR",
-      "location": "Paranhos, Porto, Distrito do Porto",
+      "location": "Sé Nova, Santa Cruz, Almedina e São Bartolomeu, Coimbra",
       "bedrooms": 1,
       "bathrooms": null,
-      "area_m2": 42,
+      "area_m2": 37,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C3974/P30959279/Tphoto/IDaf66d801-0000-0500-0000-00001a4c41de.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
       },
-      "listing_url": "https://casa.sapo.pt/comprar-apartamento-t1-porto-paranhos-e772e10d-4fa4-11f1-9aaf-060000000054.html?g3pid=1089561",
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t1-coimbra-se-nova-santa-cruz-almedina-e-sao-bartolomeu-avenida-fernao-de-magalhaes-df57357f-a828-11f1-9aaf-060000000054.html?g3pid=1089696",
       "published_at": "2026-09-07"
     },
     {
-      "id": "casasapo-f90ae7f20e",
-      "title": "Apartamento T2",
-      "type": "venda",
-      "price": 377500,
+      "id": "casasapo-f57146c968",
+      "title": "Apartamento T1 Estoril, Cascais e Estoril, Cascais",
+      "type": "arrendamento",
+      "price": 1800,
       "currency": "EUR",
-      "location": "Madalena, Vila Nova de Gaia, Distrito do Porto",
-      "bedrooms": 2,
+      "location": "Cascais e Estoril, Cascais",
+      "bedrooms": 1,
       "bathrooms": null,
-      "area_m2": 78,
+      "area_m2": 60,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C2729/P17713451/Tphoto/ID2b490e01-0000-0500-0000-00000ada4337.jpg",
       "source": {
         "name": "CASA SAPO",
         "url": "https://casa.sapo.pt"
       },
-      "listing_url": "https://casa.sapo.pt/comprar-apartamento-t2-vila-nova-de-gaia-madalena-fc65874e-68d3-11f1-9aaf-060000000054.html?g3pid=1089552",
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t1-cascais-e-estoril-estoril-e12c6e3a-80c3-11ea-980d-060000000052.html?g3pid=1089612",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-4fee7fed8d",
+      "title": "Apartamento T1 Monte de Caparica, Caparica e Trafaria, Almada",
+      "type": "arrendamento",
+      "price": 1100,
+      "currency": "EUR",
+      "location": "Caparica e Trafaria, Almada",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "area_m2": 54,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C795340/P200388174/Tphoto/ID2467262a-1c3c-4bb1-a475-d04a21bd2615.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-almada-caparica-e-trafaria-monte-de-caparica-6b7ee343-8c7a-4deb-aadb-964f648ac5d0.html?g3pid=1088676",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-a0ac720244",
+      "title": "Apartamento T6+1 Bairro Azul (São Sebastião da Pedreira), Avenidas Novas, Lisboa",
+      "type": "arrendamento",
+      "price": 2650,
+      "currency": "EUR",
+      "location": "Avenidas Novas, Lisboa",
+      "bedrooms": 6,
+      "bathrooms": null,
+      "area_m2": 203,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C151819/P200381430/Tphoto/ID0c8bdda7-e252-4792-8da1-9155d5fe8c0e.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-lisboa-avenidas-novas-bairro-azul-(sao-sebastiao-da-pedreira)-5236fd15-6072-4714-b8ca-38d849d229df.html?g3pid=1089138",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-d479ffd8e5",
+      "title": "Apartamento T3 Parque da Cidade do Porto, Aldoar, Foz do Douro e Nevogilde, Porto",
+      "type": "arrendamento",
+      "price": 2750,
+      "currency": "EUR",
+      "location": "Aldoar, Foz do Douro e Nevogilde, Porto",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "area_m2": 140,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C3915/P30884768/Tphoto/IDa043d701-0000-0500-0000-00001a36c062.JPG",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t3-porto-aldoar-foz-do-douro-e-nevogilde-parque-da-cidade-do-porto-52fd6bc6-9d54-11f1-9aaf-060000000054.html?g3pid=1089528",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-97707485ec",
+      "title": "Apartamento T1 Conchada, Santo António dos Olivais, Coimbra",
+      "type": "arrendamento",
+      "price": 700,
+      "currency": "EUR",
+      "location": "Santo António dos Olivais, Coimbra",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "area_m2": 45,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C3974/P1391431/Tphoto/ID473b1500-0000-0500-0000-000019eca1f3.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t1-coimbra-santo-antonio-dos-olivais-conchada-ea68e16a-1356-11e4-9b6e-000c2946937b.html?g3pid=1089492",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-4b9b186a14",
+      "title": "Moradia T3+2 Monte Estoril, Cascais e Estoril, Cascais",
+      "type": "arrendamento",
+      "price": 6700,
+      "currency": "EUR",
+      "location": "Cascais e Estoril, Cascais",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "area_m2": 250,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C3883/P30676524/Tphoto/ID2c16d401-0000-0500-0000-000019fc5666.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-moradia-t3-cascais-e-estoril-monte-estoril-be00ef3b-85c2-11f1-9aaf-060000000054.html?g3pid=1089406",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-a104421924",
+      "title": "Moradia T5 São Domingos de Rana, São Domingos de Rana, Cascais",
+      "type": "arrendamento",
+      "price": 9200,
+      "currency": "EUR",
+      "location": "São Domingos de Rana, Cascais",
+      "bedrooms": 5,
+      "bathrooms": null,
+      "area_m2": 339,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C3883/P30810809/Tphoto/IDb922d601-0000-0500-0000-00001a25e2f6.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-moradia-t5-cascais-sao-domingos-de-rana-5f1fc4dc-9242-11f1-9aaf-060000000054.html?g3pid=1089400",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-048867fa49",
+      "title": "Moradia T5 Aldeia de Juzo (Cascais), Cascais e Estoril, Cascais",
+      "type": "arrendamento",
+      "price": 8500,
+      "currency": "EUR",
+      "location": "Cascais e Estoril, Cascais",
+      "bedrooms": 5,
+      "bathrooms": null,
+      "area_m2": 255,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C3883/P30476331/Tphoto/ID2b08d101-0000-0500-0000-00001a1bfb92.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-moradia-t5-cascais-e-estoril-aldeia-de-juzo-(cascais)-d487e9a8-6b28-11f1-9aaf-060000000054.html?g3pid=1089379",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-acb71e8895",
+      "title": "Apartamento T3 Matosinhos Sul, Matosinhos, Matosinhos",
+      "type": "arrendamento",
+      "price": 2500,
+      "currency": "EUR",
+      "location": "Matosinhos, Matosinhos",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "area_m2": 150,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C9391/P21204493/Tphoto/ID0d8e4301-0000-0500-0000-00000e5d2128.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t3-matosinhos-sul-8c13b743-cd3b-11eb-91bc-060000000057.html?g3pid=1089353",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-e9a4b6812e",
+      "title": "Apartamento T3 Anjos, Arroios, Lisboa",
+      "type": "arrendamento",
+      "price": 2400,
+      "currency": "EUR",
+      "location": "Arroios, Lisboa",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "area_m2": 128,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C9391/P22180951/Tphoto/ID57745201-0000-0500-0000-00000f3d7f39.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t3-lisboa-arroios-anjos-7af7c77c-6eea-11ec-91bc-060000000057.html?g3pid=1089350",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-ade908c4e7",
+      "title": "Apartamento T3 Quinta Miramar, Aldoar, Foz do Douro e Nevogilde, Porto",
+      "type": "arrendamento",
+      "price": 2200,
+      "currency": "EUR",
+      "location": "Aldoar, Foz do Douro e Nevogilde, Porto",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "area_m2": 150,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C3915/P30555164/Tphoto/ID1c3cd201-0000-0500-0000-000019d021c3.JPG",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t3-porto-aldoar-foz-do-douro-e-nevogilde-quinta-miramar-53441c6b-739f-11f1-9aaf-060000000054.html?g3pid=1089298",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-ff52bdd7d6",
+      "title": "Apartamento T3 Misericórdia, Lisboa",
+      "type": "arrendamento",
+      "price": 6200,
+      "currency": "EUR",
+      "location": "Misericórdia, Lisboa",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "area_m2": 196,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5103/P29777585/Tphoto/IDb15ec601-0000-0500-0000-000018f10c12.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t3-lisboa-misericordia-55a04349-2ce8-11f1-9c13-060000000051.html?g3pid=1089208",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-4d3dc7ec89",
+      "title": "Moradia T4 Triplex Estrela, Lisboa",
+      "type": "arrendamento",
+      "price": 5000,
+      "currency": "EUR",
+      "location": "Estrela, Lisboa",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "area_m2": 250,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5103/P30707656/Tphoto/IDc88fd401-0000-0500-0000-000019ff0e64.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-moradia-t4-lisboa-estrela-83f1411c-8a75-11f1-9c13-060000000051.html?g3pid=1089206",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-60cfda4fa4",
+      "title": "Apartamento T3 Avenida 24 de Julho (São Paulo), Misericórdia, Lisboa",
+      "type": "arrendamento",
+      "price": 5500,
+      "currency": "EUR",
+      "location": "Misericórdia, Lisboa",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "area_m2": 170,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5103/P24074597/Tphoto/ID65596f01-0000-0500-0000-000011b3cdce.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/comprar-alugar-apartamento-t3-lisboa-misericordia-avenida-24-de-julho-(sao-paulo)-c25dc0b1-217a-11ee-aeeb-060000000051.html?g3pid=1089196",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-6e599ce387",
+      "title": "Apartamento T4 Entrecampos (Nossa Senhora de Fátima), Avenidas Novas, Lisboa",
+      "type": "arrendamento",
+      "price": 3700,
+      "currency": "EUR",
+      "location": "Avenidas Novas, Lisboa",
+      "bedrooms": 4,
+      "bathrooms": null,
+      "area_m2": 190,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5103/P23389259/Tphoto/ID4be46401-0000-0500-0000-000010e7bc69.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t4-lisboa-avenidas-novas-entrecampos-(nossa-senhora-de-fatima)-e0172b71-8aa7-11ed-aeeb-060000000051.html?g3pid=1089195",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-ab15e32686",
+      "title": "Moradia T5 Triplex Cascais e Estoril, Cascais",
+      "type": "arrendamento",
+      "price": 16000,
+      "currency": "EUR",
+      "location": "Cascais e Estoril, Cascais",
+      "bedrooms": 5,
+      "bathrooms": null,
+      "area_m2": 443,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5103/P25442961/Tphoto/ID913a8401-0000-0500-0000-000019861da1.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/comprar-alugar-moradia-t5-cascais-e-estoril-f59128d7-acda-11ef-8359-060000000051.html?g3pid=1089197",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-0c76ae8944",
+      "title": "Apartamento T2 Alcântara, Alcântara, Lisboa",
+      "type": "arrendamento",
+      "price": 2400,
+      "currency": "EUR",
+      "location": "Alcântara, Lisboa",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "area_m2": 117,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C39510/P30885165/Tphoto/ID2d45d701-0000-0500-0000-00001a36eb55.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t2-lisboa-alcantara-8e27c4b3-9d67-11f1-b6e5-060000000058.html?g3pid=1088940",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-80c107d63a",
+      "title": "Apartamento T2 Carenque (Mina), Mina de Água, Amadora",
+      "type": "arrendamento",
+      "price": 1050,
+      "currency": "EUR",
+      "location": "Mina de Água, Amadora",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "area_m2": 59,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C39477/P30696254/Tphoto/ID3e63d401-0000-0500-0000-00001a446f6e.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t2-amadora-mina-de-agua-carenque-(mina)-2964bcd8-8858-11f1-ba38-060000000058.html?g3pid=1088932",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-4a47814172",
+      "title": "Apartamento T3 Duplex Cascais e Estoril, Cascais",
+      "type": "arrendamento",
+      "price": 8500,
+      "currency": "EUR",
+      "location": "Cascais e Estoril, Cascais",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "area_m2": 217,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5773/P30904421/Tphoto/ID6590d701-0000-0500-0000-00001a443127.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t3-cascais-e-estoril-424584f6-a146-11f1-90a1-060000000056.html?g3pid=1088918",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-d7a61a13e5",
+      "title": "Apartamento T3 Centro (Matosinhos), Matosinhos, Matosinhos",
+      "type": "venda",
+      "price": 607000,
+      "currency": "EUR",
+      "location": "Matosinhos, Matosinhos",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "area_m2": 127,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C319335/P200387943/Tphoto/ID9a36f529-82b2-4879-8130-b8e2620cd220.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/comprar-apartamento-centro-(matosinhos)-f148ed2e-e1a9-4128-be40-1905348ea1a1.html?g3pid=1088485",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-55ab7a02d1",
+      "title": "Apartamento T3+1 Areeiro (São João de Deus), Areeiro, Lisboa",
+      "type": "venda",
+      "price": 639500,
+      "currency": "EUR",
+      "location": "Areeiro, Lisboa",
+      "bedrooms": 3,
+      "bathrooms": null,
+      "area_m2": 116,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1115816/P200388247/Tphoto/IDf67b14ec-e012-4126-9c88-d5be31d12c13.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/comprar-apartamento-lisboa-areeiro-(sao-joao-de-deus)-bbef81be-fbd4-4e11-93b2-0fd2160798d0.html?g3pid=1088875",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-43dfdb9e1e",
+      "title": "Apartamento T2+1 Metro Salgueiros, Paranhos, Porto",
+      "type": "arrendamento",
+      "price": 1450,
+      "currency": "EUR",
+      "location": "Paranhos, Porto",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "area_m2": 79,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1113426/P200387496/Tphoto/ID67a71533-c47d-4547-a10f-5840e2c536f9.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-porto-paranhos-metro-salgueiros-37bed8fd-269e-40bd-9130-14e3d5d787b6.html?g3pid=1087837",
+      "published_at": "2026-09-07"
+    },
+    {
+      "id": "casasapo-f3b4f76a48",
+      "title": "Apartamento T1 Restauradores, Santa Maria Maior, Lisboa",
+      "type": "arrendamento",
+      "price": 1200,
+      "currency": "EUR",
+      "location": "Santa Maria Maior, Lisboa",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "area_m2": 30,
+      "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C2729/P30215905/Tphoto/IDe10ecd01-0000-0500-0000-00001a3202be.jpg",
+      "source": {
+        "name": "CASA SAPO",
+        "url": "https://casa.sapo.pt"
+      },
+      "listing_url": "https://casa.sapo.pt/alugar-apartamento-t1-lisboa-santa-maria-maior-restauradores-0cfa397b-5853-11f1-bc59-060000000052.html?g3pid=1088880",
       "published_at": "2026-09-07"
     }
   ]
