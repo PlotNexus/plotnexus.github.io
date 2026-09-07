@@ -16,8 +16,10 @@ O site está publicado via GitHub Pages a partir deste repositório.
   (com foto, descrição, mapa e link para o anúncio original) e página
   "Sobre".
 - Um conector de dados real e automático: `scripts/scrape` recolhe anúncios
-  da CASA SAPO (compra e arrendamento, cobertura nacional) via
-  `.github/workflows/scrape.yml`, agendado a cada 6 horas.
+  de apartamentos e moradias da CASA SAPO (compra e arrendamento, cobertura
+  de Portugal Continental e Madeira; os Açores ainda não têm cobertura
+  própria nesta fonte) via `.github/workflows/scrape.yml`, agendado a cada
+  6 horas.
 - Dados de exemplo (`data/listings.sample.json`) servem de fallback caso
   `data/listings.json` (dados reais) ainda não exista ou esteja vazio.
 

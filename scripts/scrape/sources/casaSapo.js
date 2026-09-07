@@ -20,9 +20,23 @@ const DELAY_BETWEEN_QUERIES_MS = 5000;
 const RETRY_BASE_DELAY_MS = 8000;
 const MAX_RETRIES = 4;
 
-// Mainland districts plus the two autonomous regions — full national
-// coverage, one query per district per operation (first results page only;
-// this is not a full pagination crawl of every listing CASA SAPO has).
+// Mainland districts plus Madeira — full national coverage, one query per
+// district per property type per operation (first results page only; this
+// is not a full pagination crawl of every listing CASA SAPO has).
+//
+// IMPORTANT: CASA SAPO returns HTTP 200 with a generic nationwide "recent
+// listings" page (no location filter applied at all) for ANY unrecognised
+// location path — including a nonsense slug. The `/comprar-casas/em-X/`
+// URL this scraper used to hit was never a real category (confirmed via
+// their sitemap.xml) and was silently returning that same generic page for
+// every single district, which is why national coverage looked plausible
+// but wasn't real (~90 unique listings total, ~90% duplicates across
+// districts). The real, sitemap-confirmed pattern is
+// `/{comprar,alugar}-{apartamentos,moradias}/distrito.<district>/` — verified
+// to return genuinely district-scoped results (e.g. distrito.braganca only
+// returns Bragança-district municipalities). The Azores have no equivalent
+// `distrito.acores` entry (verified empirically: falls back to the generic
+// page too), so they are not covered here.
 const DISTRICTS_FULL = [
   "aveiro",
   "beja",
@@ -42,7 +56,6 @@ const DISTRICTS_FULL = [
   "viana-do-castelo",
   "vila-real",
   "viseu",
-  "acores",
   "madeira",
 ];
 const DISTRICTS = process.env.SCRAPE_DISTRICTS
@@ -50,15 +63,19 @@ const DISTRICTS = process.env.SCRAPE_DISTRICTS
   : DISTRICTS_FULL;
 
 const OPERATIONS = [
-  { pathSegment: "comprar-casas", type: "venda" },
-  { pathSegment: "alugar-casas", type: "arrendamento" },
+  { pathPrefix: "comprar", type: "venda" },
+  { pathPrefix: "alugar", type: "arrendamento" },
 ];
 
-const QUERIES = OPERATIONS.flatMap(({ pathSegment, type }) =>
-  DISTRICTS.map((district) => ({
-    url: `https://casa.sapo.pt/${pathSegment}/em-${district}/`,
-    type,
-  }))
+const PROPERTY_TYPES = ["apartamentos", "moradias"];
+
+const QUERIES = OPERATIONS.flatMap(({ pathPrefix, type }) =>
+  PROPERTY_TYPES.flatMap((propertyType) =>
+    DISTRICTS.map((district) => ({
+      url: `https://casa.sapo.pt/${pathPrefix}-${propertyType}/distrito.${district}/`,
+      type,
+    }))
+  )
 );
 
 function sleep(ms) {
