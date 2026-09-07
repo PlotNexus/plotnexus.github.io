@@ -58,6 +58,16 @@ async function main() {
   const allListings = [];
   const detail = {};
 
+  await fs.mkdir(OUTPUT_DIR, { recursive: true });
+  const outputPath = path.join(OUTPUT_DIR, `shard-${shardIndex}.json`);
+
+  // Written after every fetch (not just once at the end) so a run that
+  // gets killed by the job timeout mid-burst still leaves finalize.js a
+  // usable partial result instead of losing the whole shard's work.
+  async function saveProgress() {
+    await fs.writeFile(outputPath, JSON.stringify({ listings: allListings, detail }, null, 2) + "\n");
+  }
+
   for (const source of SOURCES) {
     const districts = myShare(source.districts);
     console.log(`[shard ${shardIndex}/${shardCount}] ${source.name}: ${districts.join(", ") || "(nenhum)"}`);
@@ -65,6 +75,7 @@ async function main() {
     const listings = districts.length ? await source.scrape({ districts }) : [];
     console.log(`[shard ${shardIndex}] ${source.name} OK — ${listings.length} anúncios`);
     allListings.push(...listings);
+    await saveProgress();
 
     // Read-only snapshot of the cache as checked out at the start of the
     // run — good enough since each shard only ever touches listings from
@@ -80,13 +91,11 @@ async function main() {
       } catch (err) {
         console.error(`[shard ${shardIndex}] ${source.name} falhou em ${item.listing_url}: ${err.message}`);
       }
+      await saveProgress();
       if (i < candidates.length - 1) await sleepJittered(source.detailDelayMs);
     }
   }
 
-  await fs.mkdir(OUTPUT_DIR, { recursive: true });
-  const outputPath = path.join(OUTPUT_DIR, `shard-${shardIndex}.json`);
-  await fs.writeFile(outputPath, JSON.stringify({ listings: allListings, detail }, null, 2) + "\n");
   console.log(`[shard ${shardIndex}] escrito ${outputPath}`);
 }
 

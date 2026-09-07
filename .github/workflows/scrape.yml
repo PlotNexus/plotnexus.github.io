@@ -1,7 +1,12 @@
 name: Scrape listings
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      max_detail_per_shard_source:
+        description: "Detail fetches per shard per source (bump for a one-off catch-up burst; leave default for routine runs)"
+        required: false
+        default: "20"
   schedule:
     - cron: "17 */6 * * *"
 
@@ -23,8 +28,9 @@ jobs:
     runs-on: ubuntu-latest
     # Generous margin: two sources now share each shard (~2.5x the search
     # queries and 2x the detail fetches of the CASA SAPO-only shards,
-    # which took ~15-25min each in practice).
-    timeout-minutes: 120
+    # which took ~15-25min each in practice) — and headroom for an
+    # occasional manual catch-up burst with a larger detail batch.
+    timeout-minutes: 180
     strategy:
       fail-fast: false
       matrix:
@@ -48,7 +54,7 @@ jobs:
         env:
           SHARD_INDEX: ${{ matrix.shard }}
           SHARD_COUNT: 4
-          MAX_DETAIL_PER_SHARD_SOURCE: 20
+          MAX_DETAIL_PER_SHARD_SOURCE: ${{ github.event.inputs.max_detail_per_shard_source || '20' }}
 
       - name: Upload shard result
         uses: actions/upload-artifact@v4
