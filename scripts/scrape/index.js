@@ -1,7 +1,16 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { scrapeCasaSapo, fetchListingDetail, DETAIL_FETCH_DELAY_MS } from "./sources/casaSapo.js";
+import {
+  scrapeCasaSapo,
+  fetchListingDetail as fetchCasaSapoDetail,
+  DETAIL_FETCH_DELAY_MS as CASASAPO_DETAIL_DELAY_MS,
+} from "./sources/casaSapo.js";
+import {
+  scrapeImovirtual,
+  fetchListingDetail as fetchImovirtualDetail,
+  DETAIL_FETCH_DELAY_MS as IMOVIRTUAL_DETAIL_DELAY_MS,
+} from "./sources/imovirtual.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, mergeWithPrevious, mergeDetailInto, pickEnrichmentCandidates, pruneDetailCache } from "./lib/merge.js";
 
@@ -25,9 +34,12 @@ const DETAIL_CACHE_PATH = path.join(__dirname, "..", "..", "data", "listings-det
 // without ever spiking request volume in a single run.
 const MAX_DETAIL_FETCHES_PER_RUN = 75;
 
-const sources = [{ name: "casasapo", run: scrapeCasaSapo, fetchDetail: fetchListingDetail }];
+const sources = [
+  { name: "casasapo", run: scrapeCasaSapo, fetchDetail: fetchCasaSapoDetail, detailDelayMs: CASASAPO_DETAIL_DELAY_MS },
+  { name: "imovirtual", run: scrapeImovirtual, fetchDetail: fetchImovirtualDetail, detailDelayMs: IMOVIRTUAL_DETAIL_DELAY_MS },
+];
 
-async function enrichListings(listings, fetchDetail, cache) {
+async function enrichListings(listings, fetchDetail, cache, delayMs) {
   const candidates = pickEnrichmentCandidates(listings, cache, MAX_DETAIL_FETCHES_PER_RUN);
 
   console.log(`[detail] ${candidates.length} novos anúncios a enriquecer nesta execução (de um total de ${listings.length})`);
@@ -40,7 +52,7 @@ async function enrichListings(listings, fetchDetail, cache) {
     } catch (err) {
       console.error(`[detail] falhou em ${item.listing_url}: ${err.message}`);
     }
-    if (i < candidates.length - 1) await sleepJittered(DETAIL_FETCH_DELAY_MS);
+    if (i < candidates.length - 1) await sleepJittered(delayMs);
   }
 
   pruneDetailCache(cache, listings);
@@ -71,7 +83,7 @@ async function main() {
   for (const source of sources) {
     if (!source.fetchDetail) continue;
     const sourceListings = mergedListings.filter((item) => item.id.startsWith(`${source.name}-`));
-    await enrichListings(sourceListings, source.fetchDetail, detailCache);
+    await enrichListings(sourceListings, source.fetchDetail, detailCache, source.detailDelayMs);
   }
 
   const enrichedListings = mergedListings.map((item) => mergeDetailInto(item, detailCache[item.id]));

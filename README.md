@@ -15,13 +15,18 @@ O site está publicado via GitHub Pages a partir deste repositório.
   inicial com pesquisa/filtros/ordenação, página de detalhe por imóvel
   (galeria de fotos, descrição completa, características, dados técnicos,
   mapa e link para o anúncio original) e página "Sobre".
-- Um conector de dados real e automático: `scripts/scrape` recolhe anúncios
-  de apartamentos e moradias da CASA SAPO (compra e arrendamento, cobertura
-  de Portugal Continental e Madeira; os Açores ainda não têm cobertura
-  própria nesta fonte) via `.github/workflows/scrape.yml`, agendado a cada
-  6 horas. A recolha nacional é dividida em 4 execuções paralelas (cada uma
-  cobrindo um subconjunto de distritos), para que nenhuma execução isolada
-  precise de fazer todos os pedidos sozinha.
+- Conectores de dados reais e automáticos, correndo via
+  `.github/workflows/scrape.yml` a cada 6 horas:
+  - **CASA SAPO** — compra e arrendamento de apartamentos e moradias,
+    cobertura de Portugal Continental e Madeira (os Açores não têm
+    cobertura própria nesta fonte).
+  - **Imovirtual** — a mesma cobertura, mas incluindo também todas as
+    ilhas dos Açores e da Madeira individualmente (a única das duas fontes
+    com cobertura nacional completa).
+  
+  A recolha nacional é dividida em 4 execuções paralelas (cada uma cobrindo
+  um subconjunto de distritos/localizações de cada fonte), para que nenhuma
+  execução isolada precise de fazer todos os pedidos sozinha.
 - Depois de recolher a lista de anúncios, o scraper visita a página de cada
   anúncio para obter detalhe completo (todas as fotos, descrição integral,
   características por categoria e dados técnicos como estado, área útil/
@@ -66,7 +71,9 @@ O site está publicado via GitHub Pages a partir deste repositório.
 │   │   ├── http.js               # fetch com retry/backoff (429 e falhas de rede)
 │   │   ├── merge.js              # junção com dados anteriores + seleção de detalhe
 │   │   └── normalize.js
-│   └── sources/casaSapo.js
+│   └── sources/
+│       ├── casaSapo.js
+│       └── imovirtual.js
 ├── .github/workflows/scrape.yml  # agendamento do scraper
 ├── LICENSE
 └── README.md
@@ -112,19 +119,30 @@ fonte. Princípios seguidos desde já:
 
 - Nunca esconder a origem do anúncio: cada imóvel tem sempre um botão que
   encaminha para o site original.
-- Respeitar limites de frequência de pedidos (rate limiting) — o scraper da
-  CASA SAPO espera um intervalo (com variação aleatória, não fixo) entre
-  pedidos e tenta novamente com backoff em caso de bloqueio ou falha de rede.
-- Identificar o scraper com um User-Agent próprio.
+- Respeitar limites de frequência de pedidos (rate limiting) — os scrapers
+  esperam um intervalo (com variação aleatória, não fixo) entre pedidos e
+  tentam novamente com backoff em caso de bloqueio ou falha de rede.
+- Identificar os scrapers com um User-Agent próprio.
+
+## Fontes investigadas mas ainda não viáveis
+
+Algumas fontes generalistas populares usam proteção anti-bot que o método
+actual (pedidos HTTP simples, sem browser) não consegue contornar:
+
+- **Idealista** — protegido por DataDome, bloqueia mesmo o `robots.txt`.
+- **SUPERCASA** — desafio Cloudflare com JavaScript obrigatório.
+- **CustoJusto** — proíbe scraping explicitamente no próprio `robots.txt`.
+
+Ultrapassar isto exigiria automação de browser completo (Playwright/Puppeteer)
+e possivelmente um serviço pago de "unlocking" — um investimento de
+engenharia maior que fica para mais tarde.
 
 ## Roadmap / próximas ideias
 
-- [ ] Conectores de dados reais para outras fontes (Imovirtual, Idealista,
-      SUPERCASA, RE/MAX).
+- [ ] Deteção e remoção de duplicados entre fontes (o mesmo imóvel anunciado
+      tanto na CASA SAPO como no Imovirtual, por exemplo).
 - [ ] Favoritos e comparação entre imóveis.
 - [ ] Alertas por email para novas pesquisas guardadas.
-- [ ] Deteção e remoção de duplicados (o mesmo imóvel anunciado em vários
-      sites).
 - [ ] Modo escuro.
 - [ ] PWA / instalável em telemóvel.
 - [ ] Internacionalização (ex.: inglês, para expatriados a comprar em PT).

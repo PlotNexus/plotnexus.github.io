@@ -14,15 +14,17 @@ concurrency:
 
 jobs:
   # Splits the national sweep across parallel jobs — each covers a subset
-  # of districts and a slice of detail enrichment, so no single job (and
-  # likely no single runner IP) ever makes the full ~150-request run by
-  # itself. `fail-fast: false` means one shard timing out or erroring
-  # doesn't cancel the others; finalize below still uses whatever landed.
+  # of every registered source's districts/locations and a slice of detail
+  # enrichment, so no single job (and likely no single runner IP) ever
+  # makes a source's full national sweep by itself. `fail-fast: false`
+  # means one shard timing out or erroring doesn't cancel the others;
+  # finalize below still uses whatever landed.
   scrape-shard:
     runs-on: ubuntu-latest
-    # Real worst case per shard is a fraction of the old single-job run
-    # (~115min for the full sweep) — generous margin still included.
-    timeout-minutes: 90
+    # Generous margin: two sources now share each shard (~2.5x the search
+    # queries and 2x the detail fetches of the CASA SAPO-only shards,
+    # which took ~15-25min each in practice).
+    timeout-minutes: 120
     strategy:
       fail-fast: false
       matrix:
@@ -46,7 +48,7 @@ jobs:
         env:
           SHARD_INDEX: ${{ matrix.shard }}
           SHARD_COUNT: 4
-          MAX_DETAIL_PER_SHARD: 20
+          MAX_DETAIL_PER_SHARD_SOURCE: 20
 
       - name: Upload shard result
         uses: actions/upload-artifact@v4

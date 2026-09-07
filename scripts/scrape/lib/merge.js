@@ -87,6 +87,8 @@ export function mergeDetailInto(listing, detail) {
     area_bruta_m2: detail?.area_bruta_m2 ?? listing.area_bruta_m2 ?? null,
     ano_construcao: detail?.ano_construcao ?? listing.ano_construcao ?? null,
     certificacao_energetica: detail?.certificacao_energetica ?? listing.certificacao_energetica ?? null,
+    bathrooms: detail?.bathrooms ?? listing.bathrooms ?? null,
+    geo: detail?.geo || listing.geo || null,
     published_at: detail?.published_at || listing.published_at,
   };
 }
