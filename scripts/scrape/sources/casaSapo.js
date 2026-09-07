@@ -7,7 +7,7 @@ import {
   toAbsoluteUrl,
   normalizeListing,
 } from "../lib/normalize.js";
-import { createFetcher, sleep } from "../lib/http.js";
+import { createFetcher, sleepJittered } from "../lib/http.js";
 
 const SOURCE_NAME = "CASA SAPO";
 const SOURCE_URL = "https://casa.sapo.pt";
@@ -38,7 +38,7 @@ const MAX_RETRIES = 4;
 // returns Bragança-district municipalities). The Azores have no equivalent
 // `distrito.acores` entry (verified empirically: falls back to the generic
 // page too), so they are not covered here.
-const DISTRICTS_FULL = [
+export const DISTRICTS_FULL = [
   "aveiro",
   "beja",
   "braga",
@@ -59,9 +59,6 @@ const DISTRICTS_FULL = [
   "viseu",
   "madeira",
 ];
-const DISTRICTS = process.env.SCRAPE_DISTRICTS
-  ? process.env.SCRAPE_DISTRICTS.split(",")
-  : DISTRICTS_FULL;
 
 const OPERATIONS = [
   { pathPrefix: "comprar", type: "venda" },
@@ -70,14 +67,16 @@ const OPERATIONS = [
 
 const PROPERTY_TYPES = ["apartamentos", "moradias"];
 
-const QUERIES = OPERATIONS.flatMap(({ pathPrefix, type }) =>
-  PROPERTY_TYPES.flatMap((propertyType) =>
-    DISTRICTS.map((district) => ({
-      url: `https://casa.sapo.pt/${pathPrefix}-${propertyType}/distrito.${district}/`,
-      type,
-    }))
-  )
-);
+function buildQueries(districts) {
+  return OPERATIONS.flatMap(({ pathPrefix, type }) =>
+    PROPERTY_TYPES.flatMap((propertyType) =>
+      districts.map((district) => ({
+        url: `https://casa.sapo.pt/${pathPrefix}-${propertyType}/distrito.${district}/`,
+        type,
+      }))
+    )
+  );
+}
 
 const fetchHtml = createFetcher({
   userAgent: USER_AGENT,
@@ -346,16 +345,24 @@ async function scrapeQuery({ url, type }, maxListings) {
   return listings.slice(0, maxListings);
 }
 
-export async function scrapeCasaSapo({ maxListingsPerQuery = 30 } = {}) {
+// `districts` lets a caller scope this to a subset (used to shard the
+// national sweep across parallel GitHub Actions jobs — see worker.js).
+// Falls back to SCRAPE_DISTRICTS (comma-separated, for local testing) or
+// the full national list.
+export async function scrapeCasaSapo({ maxListingsPerQuery = 30, districts } = {}) {
+  const resolvedDistricts =
+    districts || (process.env.SCRAPE_DISTRICTS ? process.env.SCRAPE_DISTRICTS.split(",") : DISTRICTS_FULL);
+  const queries = buildQueries(resolvedDistricts);
+
   const all = [];
-  for (const [i, query] of QUERIES.entries()) {
+  for (const [i, query] of queries.entries()) {
     try {
       const items = await scrapeQuery(query, maxListingsPerQuery);
       all.push(...items);
     } catch (err) {
       console.error(`[casasapo] falhou em ${query.url}: ${err.message}`);
     }
-    if (i < QUERIES.length - 1) await sleep(DELAY_BETWEEN_QUERIES_MS);
+    if (i < queries.length - 1) await sleepJittered(DELAY_BETWEEN_QUERIES_MS);
   }
 
   const seen = new Set();
@@ -365,7 +372,7 @@ export async function scrapeCasaSapo({ maxListingsPerQuery = 30 } = {}) {
     return true;
   });
 
-  console.log(`[casasapo] total: ${all.length} recolhidos, ${deduped.length} únicos após ${QUERIES.length} pesquisas`);
+  console.log(`[casasapo] total: ${all.length} recolhidos, ${deduped.length} únicos após ${queries.length} pesquisas`);
   return deduped;
 }
 

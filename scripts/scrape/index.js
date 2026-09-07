@@ -2,7 +2,15 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { scrapeCasaSapo, fetchListingDetail, DETAIL_FETCH_DELAY_MS } from "./sources/casaSapo.js";
-import { sleep } from "./lib/http.js";
+import { sleepJittered } from "./lib/http.js";
+import { loadJson, mergeWithPrevious, mergeDetailInto, pickEnrichmentCandidates, pruneDetailCache } from "./lib/merge.js";
+
+// This is the simple, single-process entry point for local runs
+// (`node index.js`) — it does the full national sweep plus detail
+// enrichment sequentially, in one go. The GitHub Actions workflow instead
+// uses worker.js + finalize.js, which split the same work across parallel
+// jobs (see .github/workflows/scrape.yml) so no single run/IP has to make
+// every request.
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, "..", "..", "data", "listings.json");
@@ -10,116 +18,17 @@ const DETAIL_CACHE_PATH = path.join(__dirname, "..", "..", "data", "listings-det
 
 // Full detail (photo gallery, full description, technical data) requires a
 // second fetch per listing, on top of the search-page queries. Rather than
-// doing that for all ~1500+ listings every run (which would multiply the
+// doing that for all ~1800+ listings every run (which would multiply the
 // request volume against an already rate-limit-sensitive site), each run
 // only enriches a bounded batch of listings it hasn't seen before. The
 // cache accumulates across scheduled runs, so coverage grows over time
 // without ever spiking request volume in a single run.
 const MAX_DETAIL_FETCHES_PER_RUN = 75;
 
-// A search query that fails outright (network block, timeout, ...) used to
-// mean its whole slice of listings vanished from the site until the next
-// successful run — e.g. every Lisboa query failing left zero Lisboa
-// listings for hours. Instead, listings from a run are merged on top of
-// the previous output: anything freshly scraped refreshes/replaces its
-// entry, and anything not seen this run (because its query failed, or it
-// simply didn't make this run's top results) is kept for a grace period
-// rather than dropped immediately. A failure now means "slightly stale
-// data" instead of "no data".
-const STALE_LISTING_RETENTION_DAYS = 3;
-
 const sources = [{ name: "casasapo", run: scrapeCasaSapo, fetchDetail: fetchListingDetail }];
 
-async function loadJson(filePath, fallback) {
-  try {
-    const raw = await fs.readFile(filePath, "utf-8");
-    return JSON.parse(raw);
-  } catch {
-    return fallback;
-  }
-}
-
-function mergeWithPrevious(freshListings, previousListings) {
-  const today = new Date().toISOString().slice(0, 10);
-  const merged = new Map();
-
-  for (const item of previousListings) {
-    merged.set(item.id, item);
-  }
-  for (const item of freshListings) {
-    merged.set(item.id, { ...item, last_seen_at: today });
-  }
-
-  const cutoff = new Date();
-  cutoff.setDate(cutoff.getDate() - STALE_LISTING_RETENTION_DAYS);
-  const cutoffStr = cutoff.toISOString().slice(0, 10);
-
-  const kept = [];
-  let staleCount = 0;
-  for (const item of merged.values()) {
-    // Listings written before this field existed are treated as seen
-    // today, giving them a fresh grace period rather than being dropped
-    // immediately on the first run of this logic.
-    const lastSeen = item.last_seen_at || today;
-    if (lastSeen >= cutoffStr) {
-      kept.push(item);
-    } else {
-      staleCount++;
-    }
-  }
-
-  if (staleCount > 0) {
-    console.log(
-      `[merge] a remover ${staleCount} anúncios não vistos há mais de ${STALE_LISTING_RETENTION_DAYS} dias (provavelmente vendidos/expirados)`
-    );
-  }
-  const carriedOver = kept.length - freshListings.length;
-  if (carriedOver > 0) {
-    console.log(`[merge] ${carriedOver} anúncios mantidos de execuções anteriores (não vistos nesta execução)`);
-  }
-
-  return kept;
-}
-
-// `listing` can either be freshly scraped this run (no images/features yet)
-// or carried over from a previous run's already-merged output (via
-// mergeWithPrevious) — so every field falls back through fresh cache data,
-// then whatever the listing already had, before reconstructing from
-// scratch. This keeps a carried-over listing's full detail intact even on
-// a run where its cache entry isn't touched.
-function mergeDetailInto(listing, detail) {
-  const images = detail?.images?.length
-    ? detail.images
-    : listing.images?.length
-      ? listing.images
-      : listing.image
-        ? [listing.image]
-        : [];
-  return {
-    ...listing,
-    image: images[0] || listing.image || null,
-    images,
-    description: detail?.description || listing.description || null,
-    features: detail?.features || listing.features || null,
-    estado: detail?.estado || listing.estado || null,
-    area_util_m2: detail?.area_util_m2 ?? listing.area_util_m2 ?? listing.area_m2 ?? null,
-    area_bruta_m2: detail?.area_bruta_m2 ?? listing.area_bruta_m2 ?? null,
-    ano_construcao: detail?.ano_construcao ?? listing.ano_construcao ?? null,
-    certificacao_energetica: detail?.certificacao_energetica ?? listing.certificacao_energetica ?? null,
-    published_at: detail?.published_at || listing.published_at,
-  };
-}
-
 async function enrichListings(listings, fetchDetail, cache) {
-  const idsInCache = new Set(Object.keys(cache));
-  // Newest-first: `published_at` is today's date for a listing seen for
-  // the first time this run (see normalizeListing), so this means a
-  // freshly discovered listing gets its full detail before older
-  // never-enriched backlog items, rather than waiting behind them.
-  const candidates = listings
-    .filter((item) => !idsInCache.has(item.id))
-    .sort((a, b) => (b.published_at || "").localeCompare(a.published_at || ""))
-    .slice(0, MAX_DETAIL_FETCHES_PER_RUN);
+  const candidates = pickEnrichmentCandidates(listings, cache, MAX_DETAIL_FETCHES_PER_RUN);
 
   console.log(`[detail] ${candidates.length} novos anúncios a enriquecer nesta execução (de um total de ${listings.length})`);
 
@@ -131,16 +40,10 @@ async function enrichListings(listings, fetchDetail, cache) {
     } catch (err) {
       console.error(`[detail] falhou em ${item.listing_url}: ${err.message}`);
     }
-    if (i < candidates.length - 1) await sleep(DETAIL_FETCH_DELAY_MS);
+    if (i < candidates.length - 1) await sleepJittered(DETAIL_FETCH_DELAY_MS);
   }
 
-  // Drop cached detail for listings that are no longer being returned by
-  // any search query, so the cache doesn't grow forever.
-  const currentIds = new Set(listings.map((item) => item.id));
-  for (const id of Object.keys(cache)) {
-    if (!currentIds.has(id)) delete cache[id];
-  }
-
+  pruneDetailCache(cache, listings);
   return cache;
 }
 

@@ -19,7 +19,9 @@ O site está publicado via GitHub Pages a partir deste repositório.
   de apartamentos e moradias da CASA SAPO (compra e arrendamento, cobertura
   de Portugal Continental e Madeira; os Açores ainda não têm cobertura
   própria nesta fonte) via `.github/workflows/scrape.yml`, agendado a cada
-  6 horas.
+  6 horas. A recolha nacional é dividida em 4 execuções paralelas (cada uma
+  cobrindo um subconjunto de distritos), para que nenhuma execução isolada
+  precise de fazer todos os pedidos sozinha.
 - Depois de recolher a lista de anúncios, o scraper visita a página de cada
   anúncio para obter detalhe completo (todas as fotos, descrição integral,
   características por categoria e dados técnicos como estado, área útil/
@@ -30,6 +32,11 @@ O site está publicado via GitHub Pages a partir deste repositório.
   cresce ao longo de várias execuções agendadas em vez de tudo de uma vez.
   Um anúncio ainda não enriquecido mostra a foto e descrição resumida da
   página de resultados como reserva.
+- Resiliente a falhas parciais: se uma pesquisa falhar numa execução (bloqueio
+  de rede pontual, por exemplo), os anúncios dessa zona não desaparecem do
+  site — mantêm-se os últimos dados conhecidos durante alguns dias em vez de
+  serem substituídos por uma lista vazia. Só são removidos ao fim de vários
+  dias sem serem vistos (presume-se vendidos/expirados).
 - Dados de exemplo (`data/listings.sample.json`) servem de fallback caso
   `data/listings.json` (dados reais) ainda não exista ou esteja vazio.
 
@@ -52,9 +59,12 @@ O site está publicado via GitHub Pages a partir deste repositório.
 │   ├── listings-detail.json     # cache do detalhe já enriquecido por anúncio
 │   └── listings.sample.json     # dados de exemplo (fallback)
 ├── scripts/scrape/               # scraper Node.js
-│   ├── index.js
+│   ├── index.js                  # ponto de entrada para correr tudo localmente, sequencial
+│   ├── worker.js                 # ponto de entrada por shard (usado pelo GitHub Actions)
+│   ├── finalize.js               # combina os shards e escreve os ficheiros finais
 │   ├── lib/
-│   │   ├── http.js               # fetch com retry/backoff para pedidos 429
+│   │   ├── http.js               # fetch com retry/backoff (429 e falhas de rede)
+│   │   ├── merge.js              # junção com dados anteriores + seleção de detalhe
 │   │   └── normalize.js
 │   └── sources/casaSapo.js
 ├── .github/workflows/scrape.yml  # agendamento do scraper
@@ -86,6 +96,13 @@ A variável de ambiente `SCRAPE_DISTRICTS` (lista separada por vírgulas, ex.
 `SCRAPE_DISTRICTS=braga,evora`) permite testar apenas alguns distritos em vez
 da lista completa.
 
+No GitHub Actions, o mesmo trabalho corre dividido: `worker.js` trata de um
+subconjunto de distritos (`SHARD_INDEX`/`SHARD_COUNT`) e escreve o seu próprio
+ficheiro parcial; `finalize.js` junta os ficheiros de todos os shards com os
+dados anteriores e escreve `data/listings.json` e `data/listings-detail.json`
+— só este último passo faz commit, por isso os shards nunca competem entre
+si para fazer push.
+
 ## Nota sobre a recolha de dados de terceiros
 
 Este projeto agrega anúncios de imobiliárias e portais de terceiros. Por
@@ -96,8 +113,8 @@ fonte. Princípios seguidos desde já:
 - Nunca esconder a origem do anúncio: cada imóvel tem sempre um botão que
   encaminha para o site original.
 - Respeitar limites de frequência de pedidos (rate limiting) — o scraper da
-  CASA SAPO espera vários segundos entre pedidos e tenta novamente com
-  backoff em caso de bloqueio.
+  CASA SAPO espera um intervalo (com variação aleatória, não fixo) entre
+  pedidos e tenta novamente com backoff em caso de bloqueio ou falha de rede.
 - Identificar o scraper com um User-Agent próprio.
 
 ## Roadmap / próximas ideias
