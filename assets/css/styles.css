@@ -1,10 +1,11 @@
 :root {
-  --primary: #1957db;
-  --primary-light: #3b7ce8;
-  --primary-dark: #123f99;
-  --primary-tint: #eaf1ff;
-  --accent: #16a34a;
-  --accent-dark: #12813b;
+  --primary: #193f69;
+  --primary-light: #2c5990;
+  --primary-dark: #0f2c4d;
+  --primary-tint: #eaf0f6;
+  --accent: #26bebe;
+  --accent-dark: #1c9a9a;
+  --accent-contrast: var(--primary);
   --bg: #ffffff;
   --bg-alt: #f5f7fa;
   --surface: #ffffff;
@@ -78,8 +79,10 @@ h1, h2, h3 {
   letter-spacing: -0.01em;
 }
 
-.logo-bg {
-  color: var(--primary);
+.logo-mark-img {
+  height: 34px;
+  width: auto;
+  display: block;
 }
 
 .main-nav {
@@ -208,7 +211,7 @@ h1, h2, h3 {
 
 .btn-primary {
   background: var(--accent);
-  color: #fff;
+  color: var(--accent-contrast);
 }
 
 .btn-primary:hover {
@@ -439,7 +442,7 @@ h1, h2, h3 {
   height: 40px;
   border-radius: 50%;
   background: var(--accent);
-  color: #fff;
+  color: var(--accent-contrast);
   font-weight: 700;
   display: flex;
   align-items: center;
