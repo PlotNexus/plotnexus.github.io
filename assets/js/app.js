@@ -1,7 +1,8 @@
 (function () {
   "use strict";
 
-  const DATA_URL = "data/listings.sample.json";
+  const REAL_DATA_URL = "data/listings.json";
+  const SAMPLE_DATA_URL = "data/listings.sample.json";
 
   const state = {
     listings: [],
@@ -21,6 +22,7 @@
     tipoSelect: document.getElementById("tipo"),
     sortSelect: document.getElementById("sort"),
     year: document.getElementById("year"),
+    bannerText: document.getElementById("banner-demo-text"),
   };
 
   function currency(value, curr) {
@@ -155,16 +157,36 @@
     el.year.textContent = new Date().getFullYear();
   }
 
+  async function fetchListings(url) {
+    const response = await fetch(url);
+    if (!response.ok) throw new Error(`${url} -> ${response.status}`);
+    const data = await response.json();
+    return data.listings || [];
+  }
+
   async function init() {
     attachEvents();
+
+    let usingSample = false;
     try {
-      const response = await fetch(DATA_URL);
-      const data = await response.json();
-      state.listings = data.listings || [];
+      state.listings = await fetchListings(REAL_DATA_URL);
+      if (state.listings.length === 0) throw new Error("sem anúncios reais ainda");
     } catch (error) {
-      console.error("Não foi possível carregar os imóveis de exemplo.", error);
-      state.listings = [];
+      console.warn("A usar dados de exemplo:", error.message);
+      usingSample = true;
+      try {
+        state.listings = await fetchListings(SAMPLE_DATA_URL);
+      } catch (sampleError) {
+        console.error("Não foi possível carregar os imóveis de exemplo.", sampleError);
+        state.listings = [];
+      }
     }
+
+    if (!usingSample && el.bannerText) {
+      el.bannerText.innerHTML =
+        '🔧 <strong>Em expansão:</strong> por agora só agregamos anúncios da <strong>CASA SAPO</strong> — as restantes imobiliárias (Imovirtual, Idealista, SUPERCASA, RE/MAX) serão adicionadas em breve.';
+    }
+
     buildSourceChips();
     render();
   }
