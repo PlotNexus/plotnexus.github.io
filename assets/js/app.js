@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const { escapeHtml, currency, houseIcon, loadListings } = window.PN;
+  const { escapeHtml, currency, houseIcon, loadListings, haversineKm } = window.PN;
 
   const PAGE_SIZE = 30;
 
@@ -17,6 +17,7 @@
     activeSources: new Set(),
     sort: "recentes",
     visibleCount: PAGE_SIZE,
+    mapArea: null, // { lat, lng, radiusKm } while a map-radius filter is active
   };
 
   const el = {
@@ -38,6 +39,13 @@
     areaMaxInput: document.getElementById("area-max"),
     advancedForm: document.getElementById("advanced-filters"),
     loadMoreBtn: document.getElementById("load-more"),
+    mapFilterToggle: document.getElementById("map-filter-toggle"),
+    mapFilterPanel: document.getElementById("map-filter-panel"),
+    mapFilterAddress: document.getElementById("map-filter-address"),
+    mapFilterAddressSubmit: document.getElementById("map-filter-address-submit"),
+    mapFilterRadius: document.getElementById("map-filter-radius"),
+    mapFilterRadiusValue: document.getElementById("map-filter-radius-value"),
+    mapFilterClear: document.getElementById("map-filter-clear"),
   };
 
   function buildSourceChips() {
@@ -84,6 +92,14 @@
     const matchesAreaMin = state.areaMin == null || (item.area_m2 ?? 0) >= state.areaMin;
     const matchesAreaMax = state.areaMax == null || (item.area_m2 ?? Infinity) <= state.areaMax;
 
+    // A listing with no known coordinates can't be placed inside the
+    // circle, so it's excluded while a map-radius filter is active rather
+    // than shown by default.
+    const matchesMapArea =
+      !state.mapArea ||
+      (item.geo &&
+        haversineKm(state.mapArea.lat, state.mapArea.lng, item.geo.lat, item.geo.lng) <= state.mapArea.radiusKm);
+
     return (
       matchesQuery &&
       matchesTipo &&
@@ -92,7 +108,8 @@
       matchesPrecoMin &&
       matchesPrecoMax &&
       matchesAreaMin &&
-      matchesAreaMax
+      matchesAreaMax &&
+      matchesMapArea
     );
   }
 
@@ -223,6 +240,23 @@
         render();
       });
     }
+
+    if (window.PN.initMapFilter && el.mapFilterToggle) {
+      window.PN.initMapFilter({
+        toggleButton: el.mapFilterToggle,
+        panel: el.mapFilterPanel,
+        mapContainerId: "map-filter-map",
+        addressInput: el.mapFilterAddress,
+        addressSubmit: el.mapFilterAddressSubmit,
+        radiusInput: el.mapFilterRadius,
+        radiusValueEl: el.mapFilterRadiusValue,
+        clearButton: el.mapFilterClear,
+        onChange: (area) => {
+          state.mapArea = area;
+          renderFromScratch();
+        },
+      });
+    }
   }
 
   async function init() {
@@ -232,8 +266,8 @@
     state.listings = listings;
 
     if (!isSample && el.bannerText) {
-      el.bannerText.innerHTML =
-        "🔧 <strong>Em expansão:</strong> por agora cobrimos apenas uma fonte de anúncios. Estamos a trabalhar para adicionar mais imobiliárias brevemente.";
+      const sourceCount = new Set(listings.map((item) => item.source.name)).size;
+      el.bannerText.innerHTML = `🔧 <strong>Em expansão:</strong> já agregamos ${sourceCount} fontes de anúncios, e estamos a trabalhar para adicionar mais imobiliárias brevemente.`;
     }
 
     buildSourceChips();

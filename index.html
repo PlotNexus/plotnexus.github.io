@@ -9,6 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
   <link rel="stylesheet" href="assets/css/styles.css" />
 
   <meta property="og:type" content="website" />
@@ -36,7 +37,7 @@
 
   <div class="banner-demo" id="banner-demo" role="note">
     <div class="container" id="banner-demo-text">
-      🔧 <strong>Em expansão:</strong> por agora cobrimos apenas uma fonte de anúncios. Estamos a trabalhar para adicionar mais imobiliárias brevemente.
+      🔧 <strong>Em expansão:</strong> estamos a trabalhar para adicionar mais imobiliárias brevemente.
     </div>
   </div>
 
@@ -73,6 +74,10 @@
         </div>
 
         <div class="toolbar-right">
+          <button type="button" class="link-btn" id="map-filter-toggle" aria-expanded="false" aria-controls="map-filter-panel">
+            Pesquisar no mapa
+          </button>
+
           <button type="button" class="link-btn" id="advanced-filters-toggle" aria-expanded="false" aria-controls="advanced-filters">
             Mais filtros
           </button>
@@ -87,6 +92,22 @@
               <option value="area-asc">Área (menor primeiro)</option>
             </select>
           </div>
+        </div>
+      </div>
+
+      <div class="map-filter-panel" id="map-filter-panel" hidden>
+        <p class="map-filter-hint">Escreva uma localização ou clique directamente no mapa para escolher o centro da pesquisa, depois ajuste o raio.</p>
+        <div class="map-filter-search">
+          <input type="text" id="map-filter-address" placeholder="Ex.: Cascais, Braga, Areeiro..." autocomplete="off" />
+          <button type="button" class="btn btn-secondary" id="map-filter-address-submit">Procurar</button>
+        </div>
+        <div id="map-filter-map" class="map-filter-map"></div>
+        <div class="map-filter-controls">
+          <label for="map-filter-radius" class="map-filter-radius-label">
+            Raio: <span id="map-filter-radius-value">10 km</span>
+          </label>
+          <input type="range" id="map-filter-radius" min="1" max="50" step="1" value="10" />
+          <button type="button" class="link-btn" id="map-filter-clear" hidden>Limpar filtro de mapa</button>
         </div>
       </div>
 
@@ -169,7 +190,9 @@
     </div>
   </footer>
 
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <script src="assets/js/shared.js"></script>
+  <script src="assets/js/mapFilter.js"></script>
   <script src="assets/js/app.js"></script>
 </body>
 </html>

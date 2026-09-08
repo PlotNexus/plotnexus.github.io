@@ -59,6 +59,18 @@
     return listings.find((item) => item.id === id) || null;
   }
 
+  // Great-circle distance in km between two lat/lng points (haversine
+  // formula) — plenty accurate for a "within N km" radius filter.
+  function haversineKm(lat1, lng1, lat2, lng2) {
+    const R = 6371;
+    const toRad = (deg) => (deg * Math.PI) / 180;
+    const dLat = toRad(lat2 - lat1);
+    const dLng = toRad(lng2 - lng1);
+    const a =
+      Math.sin(dLat / 2) ** 2 + Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng / 2) ** 2;
+    return 2 * R * Math.asin(Math.sqrt(a));
+  }
+
   // A quiet little easter egg: typing the creator's handle anywhere on the
   // site (outside of a text field) reveals a small credit line for a few
   // seconds. Not documented anywhere on purpose.
@@ -91,6 +103,7 @@
     houseIcon,
     loadListings,
     findListingById,
+    haversineKm,
     initEasterEgg,
   };
 
