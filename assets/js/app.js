@@ -46,7 +46,19 @@
     mapFilterRadius: document.getElementById("map-filter-radius"),
     mapFilterRadiusValue: document.getElementById("map-filter-radius-value"),
     mapFilterClear: document.getElementById("map-filter-clear"),
+    mapFilterTipo: document.getElementById("map-filter-tipo"),
   };
+
+  // The map panel has its own "Tipo" select for convenience (so switching
+  // between comprar/arrendar doesn't mean scrolling back up to the hero
+  // search bar while using the map) — both selects always mirror the same
+  // underlying state.tipo rather than being two independent filters.
+  function setTipo(value) {
+    state.tipo = value;
+    el.tipoSelect.value = value;
+    if (el.mapFilterTipo) el.mapFilterTipo.value = value;
+    renderFromScratch();
+  }
 
   function buildSourceChips() {
     const sources = Array.from(new Set(state.listings.map((item) => item.source.name))).sort();
@@ -204,9 +216,14 @@
     el.searchForm.addEventListener("submit", (event) => {
       event.preventDefault();
       state.query = el.searchInput.value;
-      state.tipo = el.tipoSelect.value;
-      renderFromScratch();
+      setTipo(el.tipoSelect.value);
     });
+
+    if (el.mapFilterTipo) {
+      el.mapFilterTipo.addEventListener("change", () => {
+        setTipo(el.mapFilterTipo.value);
+      });
+    }
 
     el.sortSelect.addEventListener("change", () => {
       state.sort = el.sortSelect.value;
