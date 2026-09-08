@@ -251,8 +251,9 @@ function countMatches(re, text) {
   return (text.match(re) || []).length;
 }
 
+// Seen as *** / --- / ___ / +++ / ### and combinations, of varying length.
 function isDividerLine(paragraph) {
-  return /^[*\-_=~.\s]{3,}$/.test(paragraph.trim());
+  return /^[*\-_=~.+#\s]{3,}$/.test(paragraph.trim());
 }
 
 // Many RE/MAX listing agents paste the same ad copy once per language
@@ -270,25 +271,37 @@ function cutAtLanguageSwitch(text) {
     const wordCount = (paragraph.match(/\S+/g) || []).length;
     const ptScore = countMatches(PT_MARKERS, paragraph);
     const foreignScore = countMatches(FOREIGN_MARKERS, paragraph);
+    // A short heading-style paragraph (e.g. a translated title repeating
+    // the ad above it) often has only one distinctly-foreign word — but a
+    // genuinely Portuguese paragraph of 2+ words practically always
+    // contains at least one of the extremely common PT function words, so
+    // zero PT hits plus any foreign hit is still a safe signal.
     const isForeign =
-      wordCount < 5 ? foreignScore >= 2 && ptScore === 0 : foreignScore >= 2 && foreignScore > ptScore;
+      wordCount >= 2 && (ptScore === 0 ? foreignScore >= 1 : foreignScore >= 3 && foreignScore > ptScore * 1.5);
     if (isForeign) break;
     kept.push(paragraph);
   }
   return kept.join("\n\n").trim();
 }
 
-// The PT description is HTML (real <p>/<br/> formatting, occasional inline
-// styles, HTML entities like &nbsp;/&atilde;) — decoded via cheerio (already
-// a project dependency) rather than a hand-rolled entity table.
+// The PT description is HTML (real <p>/<li>/<br/> formatting, occasional
+// inline styles, HTML entities like &nbsp;/&atilde;) — decoded via cheerio
+// (already a project dependency) rather than a hand-rolled entity table.
 function cleanDescription(raw) {
   if (!raw) return null;
   const withBreaks = String(raw)
     .replace(/\r/g, "")
+    .replace(/<p[^>]*>/gi, "\n")
+    .replace(/<li[^>]*>/gi, "\n")
     .replace(/<br\s*\/?>/gi, "\n")
-    .replace(/<\/p>/gi, "\n\n");
+    .replace(/<\/(p|li)>/gi, "\n\n");
+  // A divider can end up glued to the text right after it on the same line
+  // (joined by a single <br> rather than a real paragraph boundary) — force
+  // any line that's purely divider punctuation onto its own paragraph so
+  // cutAtLanguageSwitch always sees it in isolation.
+  const withIsolatedDividers = withBreaks.replace(/^[ \t]*([*\-_=~.+#]{3,})[ \t]*$/gm, "\n\n$1\n\n");
   const text = cheerio
-    .load(withBreaks, null, false)
+    .load(withIsolatedDividers, null, false)
     .root()
     .text()
     .replace(/[ \t]+/g, " ")
