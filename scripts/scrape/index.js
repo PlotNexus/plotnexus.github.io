@@ -16,6 +16,11 @@ import {
   fetchListingDetail as fetchRemaxDetail,
   DETAIL_FETCH_DELAY_MS as REMAX_DETAIL_DELAY_MS,
 } from "./sources/remax.js";
+import {
+  scrapeCentury21,
+  fetchListingDetail as fetchCentury21Detail,
+  DETAIL_FETCH_DELAY_MS as CENTURY21_DETAIL_DELAY_MS,
+} from "./sources/century21.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, mergeWithPrevious, mergeDetailInto, pickEnrichmentCandidates, pruneDetailCache } from "./lib/merge.js";
 
@@ -43,6 +48,7 @@ const sources = [
   { name: "casasapo", run: scrapeCasaSapo, fetchDetail: fetchCasaSapoDetail, detailDelayMs: CASASAPO_DETAIL_DELAY_MS },
   { name: "imovirtual", run: scrapeImovirtual, fetchDetail: fetchImovirtualDetail, detailDelayMs: IMOVIRTUAL_DETAIL_DELAY_MS },
   { name: "remax", run: scrapeRemax, fetchDetail: fetchRemaxDetail, detailDelayMs: REMAX_DETAIL_DELAY_MS },
+  { name: "century21", run: scrapeCentury21, fetchDetail: fetchCentury21Detail, detailDelayMs: CENTURY21_DETAIL_DELAY_MS },
 ];
 
 async function enrichListings(listings, fetchDetail, cache, delayMs) {

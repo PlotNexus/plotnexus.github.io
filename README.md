@@ -26,10 +26,16 @@ O site está publicado via GitHub Pages a partir deste repositório.
     ilhas dos Açores e da Madeira individualmente.
   - **RE/MAX** — cobertura nacional completa (incluindo Açores e Madeira),
     através da API de pesquisa pública do site. A descrição de cada anúncio
-    é filtrada por um heurístico próprio que corta o texto assim que deteta
-    uma mudança de idioma (alguns agentes colam a mesma descrição em
-    português, inglês e espanhol seguidos no mesmo campo), para garantir que
-    nunca aparece texto que não seja português no site.
+    é filtrada por um heurístico próprio (`lib/languageGuard.js`) que corta
+    o texto assim que deteta uma mudança de idioma (alguns agentes colam a
+    mesma descrição em português, inglês e espanhol seguidos no mesmo
+    campo), para garantir que nunca aparece texto que não seja português no
+    site.
+  - **Century 21** — também através de uma API de pesquisa pública
+    (`/api/properties`), sem necessidade de distinguir por distrito — a
+    cobertura nacional é dividida em 12 "blocos" de páginas em vez de
+    localizações. Usa o mesmo heurístico de deteção de mudança de idioma
+    da RE/MAX.
   
   A recolha nacional é dividida em 4 execuções paralelas (cada uma cobrindo
   um subconjunto de distritos/localizações de cada fonte), para que nenhuma
@@ -77,11 +83,13 @@ O site está publicado via GitHub Pages a partir deste repositório.
 │   ├── lib/
 │   │   ├── http.js               # fetch com retry/backoff (429 e falhas de rede)
 │   │   ├── merge.js              # junção com dados anteriores + seleção de detalhe
+│   │   ├── languageGuard.js      # corta descrições no ponto onde mudam de idioma
 │   │   └── normalize.js
 │   └── sources/
 │       ├── casaSapo.js
 │       ├── imovirtual.js
-│       └── remax.js
+│       ├── remax.js
+│       └── century21.js
 ├── .github/workflows/scrape.yml  # agendamento do scraper
 ├── LICENSE
 └── README.md

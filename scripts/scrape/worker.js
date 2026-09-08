@@ -19,6 +19,12 @@ import {
   DISTRICTS_FULL as REMAX_DISTRICTS,
   DETAIL_FETCH_DELAY_MS as REMAX_DETAIL_DELAY_MS,
 } from "./sources/remax.js";
+import {
+  scrapeCentury21,
+  fetchListingDetail as fetchCentury21Detail,
+  DISTRICTS_FULL as CENTURY21_DISTRICTS,
+  DETAIL_FETCH_DELAY_MS as CENTURY21_DETAIL_DELAY_MS,
+} from "./sources/century21.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, pickEnrichmentCandidates } from "./lib/merge.js";
 
@@ -71,6 +77,13 @@ const SOURCES = [
     scrape: scrapeRemax,
     fetchDetail: fetchRemaxDetail,
     detailDelayMs: REMAX_DETAIL_DELAY_MS,
+  },
+  {
+    name: "century21",
+    districts: CENTURY21_DISTRICTS,
+    scrape: scrapeCentury21,
+    fetchDetail: fetchCentury21Detail,
+    detailDelayMs: CENTURY21_DETAIL_DELAY_MS,
   },
 ];
 
