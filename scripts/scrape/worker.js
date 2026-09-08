@@ -25,6 +25,7 @@ import {
   DISTRICTS_FULL as CENTURY21_DISTRICTS,
   DETAIL_FETCH_DELAY_MS as CENTURY21_DETAIL_DELAY_MS,
 } from "./sources/century21.js";
+import { scrapeKWPortugal, DISTRICTS_FULL as KWPORTUGAL_DISTRICTS } from "./sources/kwportugal.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, pickEnrichmentCandidates } from "./lib/merge.js";
 
@@ -85,6 +86,13 @@ const SOURCES = [
     fetchDetail: fetchCentury21Detail,
     detailDelayMs: CENTURY21_DETAIL_DELAY_MS,
   },
+  {
+    // No fetchDetail: listProperties already returns full detail in the
+    // same call used for the search sweep — see kwportugal.js.
+    name: "kwportugal",
+    districts: KWPORTUGAL_DISTRICTS,
+    scrape: scrapeKWPortugal,
+  },
 ];
 
 function myShare(list) {
@@ -120,6 +128,12 @@ async function main() {
     console.log(`[shard ${shardIndex}] ${source.name} OK — ${listings.length} anúncios`);
     allListings.push(...listings);
     await saveProgress();
+
+    // Sources without a fetchDetail (e.g. kwportugal, whose single search
+    // call already returns full detail — see its own comments) have
+    // nothing to enrich here; every listing they scrape already carries
+    // its own images/description/etc.
+    if (!source.fetchDetail) continue;
 
     // Read-only snapshot of the cache as checked out at the start of the
     // run — good enough since each shard only ever touches listings from

@@ -36,6 +36,17 @@ O site está publicado via GitHub Pages a partir deste repositório.
     cobertura nacional é dividida em 12 "blocos" de páginas em vez de
     localizações. Usa o mesmo heurístico de deteção de mudança de idioma
     da RE/MAX.
+  - **KW Portugal** — a API de pesquisa devolve sempre o mesmo lote fixo de
+    10 imóveis por pedido, por isso a cobertura nacional (obtida a partir
+    do sitemap do site) é percorrida em lotes de 10 ids de cada vez, outra
+    vez dividida em 12 "blocos" virtuais. É a única fonte em que a mesma
+    chamada já devolve o detalhe completo (todas as fotos, descrição
+    integral, dados técnicos) — não há uma segunda fase de enriquecimento
+    como nas restantes. A descrição também passa pelo heurístico de
+    deteção de mudança de idioma, mas com granularidade linha-a-linha em
+    vez de parágrafo-a-parágrafo, já que este texto não separa sempre os
+    parágrafos com linha em branco (o mesmo heurístico aceita agora um
+    padrão de divisão configurável para isto).
   
   A recolha nacional é dividida em 4 execuções paralelas (cada uma cobrindo
   um subconjunto de distritos/localizações de cada fonte), para que nenhuma
@@ -89,7 +100,8 @@ O site está publicado via GitHub Pages a partir deste repositório.
 │       ├── casaSapo.js
 │       ├── imovirtual.js
 │       ├── remax.js
-│       └── century21.js
+│       ├── century21.js
+│       └── kwportugal.js
 ├── .github/workflows/scrape.yml  # agendamento do scraper
 ├── LICENSE
 └── README.md

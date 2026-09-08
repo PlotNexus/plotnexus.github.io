@@ -313,6 +313,7 @@ h1, h2, h3 {
 .chip[data-source="RE/MAX"][aria-pressed="true"] { background: #dc1c2e; border-color: #dc1c2e; }
 .chip[data-source="CASA SAPO"][aria-pressed="true"] { background: #2f6b3a; border-color: #2f6b3a; }
 .chip[data-source="Century 21"][aria-pressed="true"] { background: #8a6d1a; border-color: #8a6d1a; }
+.chip[data-source="KW Portugal"][aria-pressed="true"] { background: #0f7d72; border-color: #0f7d72; }
 
 .toolbar-right {
   display: flex;
@@ -608,6 +609,7 @@ h1, h2, h3 {
 .source-badge[data-source="RE/MAX"] { background: #fcebea; color: #dc1c2e; }
 .source-badge[data-source="CASA SAPO"] { background: #eaf3e9; color: #2f6b3a; }
 .source-badge[data-source="Century 21"] { background: #fbf3e0; color: #8a6d1a; }
+.source-badge[data-source="KW Portugal"] { background: #e3f2f0; color: #0f7d72; }
 
 .card-link {
   font-size: 0.82rem;

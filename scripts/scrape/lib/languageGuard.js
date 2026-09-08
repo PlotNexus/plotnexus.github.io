@@ -40,8 +40,17 @@ function isDividerLine(paragraph) {
   return /^…+$/.test(trimmed) || /^\.{3,}$/.test(trimmed) || /^[*\-_=~+#`]+$/.test(trimmed);
 }
 
-export function cutAtLanguageSwitch(text) {
-  const paragraphs = text.split(/\n{2,}/);
+// `splitPattern`/`joinSeparator` default to paragraph-level (blank-line
+// separated) granularity, which is all RE/MAX and Century 21 need — their
+// descriptions are HTML-derived, so a genuine paragraph reliably ends up
+// blank-line-separated before this ever sees it. A source whose raw text
+// doesn't reliably use blank lines between paragraphs (e.g. free-typed
+// single-newline text) can pass a finer `splitPattern` (like /\n/) instead
+// — pairing it with the matching `joinSeparator` keeps kept blank lines
+// intact (an empty string between two single-newline splits round-trips
+// back to the original blank line once rejoined the same way).
+export function cutAtLanguageSwitch(text, { splitPattern = /\n{2,}/, joinSeparator = "\n\n" } = {}) {
+  const paragraphs = text.split(splitPattern);
   const kept = [];
   for (const paragraph of paragraphs) {
     if (isDividerLine(paragraph)) break;
@@ -58,5 +67,5 @@ export function cutAtLanguageSwitch(text) {
     if (isForeign) break;
     kept.push(paragraph);
   }
-  return kept.join("\n\n").trim();
+  return kept.join(joinSeparator).trim();
 }
