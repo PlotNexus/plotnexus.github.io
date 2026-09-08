@@ -22,9 +22,18 @@
   // Free-text location search via Nominatim (OpenStreetMap's own geocoder,
   // no API key needed). Restricted to Portugal so a plain place name like
   // "Aveiro" doesn't resolve somewhere else in the world.
+  //
+  // Nominatim's usage policy requires a valid Referer or User-Agent
+  // identifying the calling application ("stock User-Agents ... will not
+  // do") — a page can't set a custom User-Agent from JS, and a browser's
+  // *default* referrer policy doesn't always send one for a cross-origin
+  // request (varies by browser/privacy settings), which silently turned
+  // into a 403 "Access denied" rather than a network error. Forcing
+  // `referrerPolicy: "origin"` here sends it regardless of the page's own
+  // default, satisfying the policy every time.
   async function geocode(query) {
     const url = `https://nominatim.openstreetmap.org/search?format=json&countrycodes=pt&limit=1&q=${encodeURIComponent(query)}`;
-    const response = await fetch(url, { headers: { Accept: "application/json" } });
+    const response = await fetch(url, { headers: { Accept: "application/json" }, referrerPolicy: "origin" });
     if (!response.ok) throw new Error(`geocoding falhou: ${response.status}`);
     const results = await response.json();
     if (!results.length) return null;
