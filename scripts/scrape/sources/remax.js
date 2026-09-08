@@ -251,9 +251,11 @@ function countMatches(re, text) {
   return (text.match(re) || []).length;
 }
 
-// Seen as *** / --- / ___ / +++ / ### and combinations, of varying length.
+// Seen as *** / --- / ___ / +++ / ### and combinations of those, of varying
+// length, but also as a single "…" ellipsis character on its own line.
 function isDividerLine(paragraph) {
-  return /^[*\-_=~.+#\s]{3,}$/.test(paragraph.trim());
+  const trimmed = paragraph.trim();
+  return /^[*\-_=~.+#\s]{3,}$/.test(trimmed) || /^…+$/.test(trimmed);
 }
 
 // Many RE/MAX listing agents paste the same ad copy once per language
@@ -299,7 +301,7 @@ function cleanDescription(raw) {
   // (joined by a single <br> rather than a real paragraph boundary) — force
   // any line that's purely divider punctuation onto its own paragraph so
   // cutAtLanguageSwitch always sees it in isolation.
-  const withIsolatedDividers = withBreaks.replace(/^[ \t]*([*\-_=~.+#]{3,})[ \t]*$/gm, "\n\n$1\n\n");
+  const withIsolatedDividers = withBreaks.replace(/^[ \t]*([*\-_=~.+#]{3,}|…+)[ \t]*$/gm, "\n\n$1\n\n");
   const text = cheerio
     .load(withIsolatedDividers, null, false)
     .root()
