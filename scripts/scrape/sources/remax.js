@@ -242,13 +242,24 @@ function parseFeatures(attributeIds, reference) {
 // paragraphs apart from an English/Spanish/French/German one appended after
 // it. Deliberately not a real language detector — just enough signal for
 // the specific "same ad copy repeated per language" pattern this source has.
+// "são" (case-insensitively) is excluded on purpose: capitalised "São" is
+// the extremely common Portuguese place-name prefix ("São João", "São
+// Domingos de Benfica", ...), not the verb — matching it case-insensitively
+// was giving a false PT signal that let at least one real English heading
+// (ending in "..., São João Baptista, Entroncamento") slip through
+// uncut. Only the lowercase verb form is counted, via a separate check.
 const PT_MARKERS =
-  /\b(de|da|do|das|dos|para|com|uma|um|que|não|está|mais|em|os|as|se|ao|à|é|são|ou|também|muito|esta|este|onde|isto|seu|sua|foi|ser|tem|têm|pelo|pela|pelos|pelas|nas|nos|na|no|imóvel|localizado|localizada|quarto|quartos|casa|sala|cozinha|varanda|desta|deste|nesta|neste|ainda|todos|toda|cada|entre)\b/gi;
+  /\b(de|da|do|das|dos|para|com|uma|um|que|não|está|mais|em|os|as|se|ao|à|é|ou|também|muito|esta|este|onde|isto|seu|sua|foi|ser|tem|têm|pelo|pela|pelos|pelas|nas|nos|na|no|imóvel|localizado|localizada|quarto|quartos|casa|sala|cozinha|varanda|desta|deste|nesta|neste|ainda|todos|toda|cada|entre)\b/gi;
+const PT_MARKER_LOWERCASE_SAO = /\bsão\b/;
 const FOREIGN_MARKERS =
   /\b(the|and|with|this|for|are|from|your|you|will|our|have|has|located|view|views|bedroom|bedrooms|bathroom|bathrooms|kitchen|house|apartment|property|floor|living|room|of|is|to|it|welcomes?|offers?|features?|includes?|situated|access|space|design(ed)?|el|la|los|las|en|con|una|uno|habitaci[oó]n|habitaciones|baño|dormitorio|dormitorios|vivienda|le|les|des|und|der|die|das|zimmer|wohnung)\b/gi;
 
 function countMatches(re, text) {
   return (text.match(re) || []).length;
+}
+
+function countPtMarkers(text) {
+  return countMatches(PT_MARKERS, text) + countMatches(PT_MARKER_LOWERCASE_SAO, text);
 }
 
 // Surveyed across 585 real listings: seen as any length/mix of
@@ -275,7 +286,7 @@ function cutAtLanguageSwitch(text) {
   for (const paragraph of paragraphs) {
     if (isDividerLine(paragraph)) break;
     const wordCount = (paragraph.match(/\S+/g) || []).length;
-    const ptScore = countMatches(PT_MARKERS, paragraph);
+    const ptScore = countPtMarkers(paragraph);
     const foreignScore = countMatches(FOREIGN_MARKERS, paragraph);
     // A short heading-style paragraph (e.g. a translated title repeating
     // the ad above it) often has only one distinctly-foreign word — but a
