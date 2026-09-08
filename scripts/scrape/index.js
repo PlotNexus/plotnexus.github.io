@@ -26,6 +26,11 @@ import {
   fetchListingDetail as fetchKWPortugalDetail,
   DETAIL_FETCH_DELAY_MS as KWPORTUGAL_DETAIL_DELAY_MS,
 } from "./sources/kwportugal.js";
+import {
+  scrapeEra,
+  fetchListingDetail as fetchEraDetail,
+  DETAIL_FETCH_DELAY_MS as ERA_DETAIL_DELAY_MS,
+} from "./sources/era.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, mergeWithPrevious, mergeDetailInto, pickEnrichmentCandidates, pruneDetailCache } from "./lib/merge.js";
 
@@ -55,6 +60,7 @@ const sources = [
   { name: "remax", run: scrapeRemax, fetchDetail: fetchRemaxDetail, detailDelayMs: REMAX_DETAIL_DELAY_MS },
   { name: "century21", run: scrapeCentury21, fetchDetail: fetchCentury21Detail, detailDelayMs: CENTURY21_DETAIL_DELAY_MS },
   { name: "kwportugal", run: scrapeKWPortugal, fetchDetail: fetchKWPortugalDetail, detailDelayMs: KWPORTUGAL_DETAIL_DELAY_MS },
+  { name: "era", run: scrapeEra, fetchDetail: fetchEraDetail, detailDelayMs: ERA_DETAIL_DELAY_MS },
 ];
 
 async function enrichListings(listings, fetchDetail, cache, delayMs) {

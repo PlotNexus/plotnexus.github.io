@@ -71,6 +71,20 @@ link directo para o anúncio original:
     e ainda corta em pontos adicionais específicos desta fonte (uma
     assinatura fixa em inglês, e traduções coladas sem qualquer separador
     a seguir a uma etiqueta como "ENGLISH:").
+  - **ERA** — a maior fonte até agora (mais de 30 mil imóveis no total). Ao
+    contrário das restantes, não é uma API pública documentada: a pesquisa
+    do site é feita inteiramente do lado do cliente por um módulo DotNetNuke,
+    e o endpoint só foi encontrado ao vasculhar o próprio bundle JavaScript
+    do módulo à procura do nome do controlador/ação e da convenção de
+    assinatura de pedidos da DNN Services Framework — cada pedido precisa de
+    um par cookie+token anti-forgery e dos ids de módulo/separador extraídos
+    de uma página real. Os preços de arrendamento aparecem sistematicamente
+    mascarados com um valor fixo idêntico em todos os anúncios (confirmado
+    em dezenas de imóveis distintos, incluindo no próprio endpoint de
+    detalhe) — provavelmente um portão deliberado para gerar contactos, não
+    um erro de raspagem — por isso esta fonte cobre apenas compra, nunca
+    arrendamento. Sharding por "blocos" de páginas, à semelhança da
+    Century 21.
   
   A recolha nacional é dividida em 4 execuções paralelas (cada uma cobrindo
   um subconjunto de distritos/localizações de cada fonte), para que nenhuma
@@ -140,7 +154,8 @@ link directo para o anúncio original:
 │       ├── imovirtual.js
 │       ├── remax.js
 │       ├── century21.js
-│       └── kwportugal.js
+│       ├── kwportugal.js
+│       └── era.js
 ├── .github/workflows/scrape.yml  # agendamento do scraper
 ├── LICENSE
 └── README.md

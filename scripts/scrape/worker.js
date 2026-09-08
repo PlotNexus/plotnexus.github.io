@@ -31,6 +31,12 @@ import {
   DISTRICTS_FULL as KWPORTUGAL_DISTRICTS,
   DETAIL_FETCH_DELAY_MS as KWPORTUGAL_DETAIL_DELAY_MS,
 } from "./sources/kwportugal.js";
+import {
+  scrapeEra,
+  fetchListingDetail as fetchEraDetail,
+  DISTRICTS_FULL as ERA_DISTRICTS,
+  DETAIL_FETCH_DELAY_MS as ERA_DETAIL_DELAY_MS,
+} from "./sources/era.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, pickEnrichmentCandidates } from "./lib/merge.js";
 
@@ -97,6 +103,13 @@ const SOURCES = [
     scrape: scrapeKWPortugal,
     fetchDetail: fetchKWPortugalDetail,
     detailDelayMs: KWPORTUGAL_DETAIL_DELAY_MS,
+  },
+  {
+    name: "era",
+    districts: ERA_DISTRICTS,
+    scrape: scrapeEra,
+    fetchDetail: fetchEraDetail,
+    detailDelayMs: ERA_DETAIL_DELAY_MS,
   },
 ];
 
