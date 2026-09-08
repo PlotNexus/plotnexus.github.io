@@ -90,6 +90,18 @@ link directo para o anúncio original:
   site — mantêm-se os últimos dados conhecidos durante alguns dias em vez de
   serem substituídos por uma lista vazia. Só são removidos ao fim de vários
   dias sem serem vistos (presume-se vendidos/expirados).
+- Deduplicação entre fontes (`lib/dedupe.js`): a mesma imobiliária publica
+  muitas vezes o mesmo imóvel em vários portais ao mesmo tempo, e não há um
+  identificador partilhado entre fontes para o detectar directamente. Em vez
+  disso, dois anúncios de fontes diferentes são considerados o mesmo imóvel
+  apenas quando coordenadas quase idênticas (a ~150m, para tolerar pequenas
+  diferenças de geocodificação entre fontes), preço exactamente igual e
+  (quando ambos são conhecidos) tipologia e área também coincidem — exigir
+  tudo isto ao mesmo tempo evita fusões erradas (confirmado com dados reais:
+  vários anúncios de um mesmo empreendimento, com preço/tipologia/área
+  iguais mas fracções distintas e genuinamente diferentes, não são
+  confundidos). Corre a cada execução, por isso mantém-se ao dia sem
+  intervenção manual.
 - Dados de exemplo (`data/listings.sample.json`) servem de fallback caso
   `data/listings.json` (dados reais) ainda não exista ou esteja vazio.
 
@@ -194,8 +206,9 @@ engenharia maior que fica para mais tarde.
 
 ## Roadmap / próximas ideias
 
-- [ ] Deteção e remoção de duplicados entre fontes (o mesmo imóvel anunciado
-      tanto na CASA SAPO como no Imovirtual, por exemplo).
+- [x] Deteção e remoção de duplicados entre fontes (o mesmo imóvel anunciado
+      tanto na CASA SAPO como no Imovirtual, por exemplo) —
+      `lib/dedupe.js`, correndo a cada execução do scraper.
 - [ ] Favoritos e comparação entre imóveis.
 - [ ] Alertas por email para novas pesquisas guardadas.
 - [ ] Modo escuro.
