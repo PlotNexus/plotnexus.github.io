@@ -72,6 +72,7 @@
       chip.type = "button";
       chip.className = "chip";
       chip.textContent = name;
+      chip.dataset.source = name;
       chip.setAttribute("aria-pressed", "true");
       chip.addEventListener("click", () => {
         if (state.activeSources.has(name)) {

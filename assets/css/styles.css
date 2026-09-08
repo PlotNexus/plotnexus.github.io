@@ -305,6 +305,15 @@ h1, h2, h3 {
   color: #fff;
 }
 
+/* Each chip's active colour matches its source's badge colour (see
+   .source-badge below) so the two stay visually tied together. */
+.chip[data-source="Imovirtual"][aria-pressed="true"] { background: #6425c4; border-color: #6425c4; }
+.chip[data-source="Idealista"][aria-pressed="true"] { background: #16793d; border-color: #16793d; }
+.chip[data-source="SUPERCASA"][aria-pressed="true"] { background: #0b6fb0; border-color: #0b6fb0; }
+.chip[data-source="RE/MAX"][aria-pressed="true"] { background: #dc1c2e; border-color: #dc1c2e; }
+.chip[data-source="CASA SAPO"][aria-pressed="true"] { background: #2f6b3a; border-color: #2f6b3a; }
+.chip[data-source="Century 21"][aria-pressed="true"] { background: #8a6d1a; border-color: #8a6d1a; }
+
 .toolbar-right {
   display: flex;
   align-items: center;
