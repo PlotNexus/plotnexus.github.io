@@ -21,8 +21,13 @@ O site está publicado via GitHub Pages a partir deste repositório.
     cobertura de Portugal Continental e Madeira (os Açores não têm
     cobertura própria nesta fonte).
   - **Imovirtual** — a mesma cobertura, mas incluindo também todas as
-    ilhas dos Açores e da Madeira individualmente (a única das duas fontes
-    com cobertura nacional completa).
+    ilhas dos Açores e da Madeira individualmente.
+  - **RE/MAX** — cobertura nacional completa (incluindo Açores e Madeira),
+    através da API de pesquisa pública do site. A descrição de cada anúncio
+    é filtrada por um heurístico próprio que corta o texto assim que deteta
+    uma mudança de idioma (alguns agentes colam a mesma descrição em
+    português, inglês e espanhol seguidos no mesmo campo), para garantir que
+    nunca aparece texto que não seja português no site.
   
   A recolha nacional é dividida em 4 execuções paralelas (cada uma cobrindo
   um subconjunto de distritos/localizações de cada fonte), para que nenhuma
@@ -73,7 +78,8 @@ O site está publicado via GitHub Pages a partir deste repositório.
 │   │   └── normalize.js
 │   └── sources/
 │       ├── casaSapo.js
-│       └── imovirtual.js
+│       ├── imovirtual.js
+│       └── remax.js
 ├── .github/workflows/scrape.yml  # agendamento do scraper
 ├── LICENSE
 └── README.md

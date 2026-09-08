@@ -13,6 +13,12 @@ import {
   DISTRICTS_FULL as IMOVIRTUAL_DISTRICTS,
   DETAIL_FETCH_DELAY_MS as IMOVIRTUAL_DETAIL_DELAY_MS,
 } from "./sources/imovirtual.js";
+import {
+  scrapeRemax,
+  fetchListingDetail as fetchRemaxDetail,
+  DISTRICTS_FULL as REMAX_DISTRICTS,
+  DETAIL_FETCH_DELAY_MS as REMAX_DETAIL_DELAY_MS,
+} from "./sources/remax.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, pickEnrichmentCandidates } from "./lib/merge.js";
 
@@ -58,6 +64,13 @@ const SOURCES = [
     scrape: scrapeImovirtual,
     fetchDetail: fetchImovirtualDetail,
     detailDelayMs: IMOVIRTUAL_DETAIL_DELAY_MS,
+  },
+  {
+    name: "remax",
+    districts: REMAX_DISTRICTS,
+    scrape: scrapeRemax,
+    fetchDetail: fetchRemaxDetail,
+    detailDelayMs: REMAX_DETAIL_DELAY_MS,
   },
 ];
 

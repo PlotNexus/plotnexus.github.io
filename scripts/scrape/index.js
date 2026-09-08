@@ -11,6 +11,11 @@ import {
   fetchListingDetail as fetchImovirtualDetail,
   DETAIL_FETCH_DELAY_MS as IMOVIRTUAL_DETAIL_DELAY_MS,
 } from "./sources/imovirtual.js";
+import {
+  scrapeRemax,
+  fetchListingDetail as fetchRemaxDetail,
+  DETAIL_FETCH_DELAY_MS as REMAX_DETAIL_DELAY_MS,
+} from "./sources/remax.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, mergeWithPrevious, mergeDetailInto, pickEnrichmentCandidates, pruneDetailCache } from "./lib/merge.js";
 
@@ -37,6 +42,7 @@ const MAX_DETAIL_FETCHES_PER_RUN = 75;
 const sources = [
   { name: "casasapo", run: scrapeCasaSapo, fetchDetail: fetchCasaSapoDetail, detailDelayMs: CASASAPO_DETAIL_DELAY_MS },
   { name: "imovirtual", run: scrapeImovirtual, fetchDetail: fetchImovirtualDetail, detailDelayMs: IMOVIRTUAL_DETAIL_DELAY_MS },
+  { name: "remax", run: scrapeRemax, fetchDetail: fetchRemaxDetail, detailDelayMs: REMAX_DETAIL_DELAY_MS },
 ];
 
 async function enrichListings(listings, fetchDetail, cache, delayMs) {

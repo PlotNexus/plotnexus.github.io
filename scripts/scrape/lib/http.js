@@ -18,7 +18,10 @@ export function sleepJittered(baseMs, jitter = 0.4) {
 }
 
 export function createFetcher({ userAgent, retries = 4, retryBaseDelayMs = 8000, acceptLanguage = "pt-PT,pt;q=0.9" }) {
-  return async function fetchHtml(url) {
+  // `init` lets a caller override method/headers/body (e.g. RE/MAX's search
+  // API is a POST with a JSON body) while still going through the same
+  // network-failure/429 retry handling as a plain GET.
+  return async function fetchHtml(url, init = {}) {
     for (let attempt = 0; attempt <= retries; attempt++) {
       // Besides HTTP-level 429s, fetch() itself can reject with a network
       // error (connection reset, timeout, etc.) — this happens far more
@@ -29,9 +32,11 @@ export function createFetcher({ userAgent, retries = 4, retryBaseDelayMs = 8000,
       let res;
       try {
         res = await fetch(url, {
+          ...init,
           headers: {
             "User-Agent": userAgent,
             "Accept-Language": acceptLanguage,
+            ...init.headers,
           },
         });
       } catch (err) {
