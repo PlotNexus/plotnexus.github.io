@@ -251,11 +251,15 @@ function countMatches(re, text) {
   return (text.match(re) || []).length;
 }
 
-// Seen as *** / --- / ___ / +++ / ### and combinations of those, of varying
-// length, but also as a single "…" ellipsis character on its own line.
+// Surveyed across 585 real listings: seen as any length/mix of
+// * - _ = ~ + # `, as three-or-more literal dots ("..."), and as a single
+// "…" ellipsis character. A LONE "." is deliberately not treated as a
+// divider — unlike the others it's plausible as a genuine (if awkwardly
+// split) end of a Portuguese sentence, not just separator punctuation.
 function isDividerLine(paragraph) {
   const trimmed = paragraph.trim();
-  return /^[*\-_=~.+#\s]{3,}$/.test(trimmed) || /^…+$/.test(trimmed);
+  if (!trimmed) return false;
+  return /^…+$/.test(trimmed) || /^\.{3,}$/.test(trimmed) || /^[*\-_=~+#`]+$/.test(trimmed);
 }
 
 // Many RE/MAX listing agents paste the same ad copy once per language
@@ -301,7 +305,7 @@ function cleanDescription(raw) {
   // (joined by a single <br> rather than a real paragraph boundary) — force
   // any line that's purely divider punctuation onto its own paragraph so
   // cutAtLanguageSwitch always sees it in isolation.
-  const withIsolatedDividers = withBreaks.replace(/^[ \t]*([*\-_=~.+#]{3,}|…+)[ \t]*$/gm, "\n\n$1\n\n");
+  const withIsolatedDividers = withBreaks.replace(/^[ \t]*(…+|\.{3,}|[*\-_=~+#`]+)[ \t]*$/gm, "\n\n$1\n\n");
   const text = cheerio
     .load(withIsolatedDividers, null, false)
     .root()
