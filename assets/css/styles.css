@@ -23,6 +23,17 @@
   box-sizing: border-box;
 }
 
+/* The browser's own [hidden] rule only lives in the lowest-priority
+   user-agent stylesheet layer, so any of our own rules that set `display`
+   on a hidden element (.advanced-filters, .map-filter-panel, ...) silently
+   win the cascade and show it anyway, regardless of the `hidden` attribute
+   still being present. Restoring that as a hard, explicit rule here — once,
+   globally — is simpler and safer than remembering to scope every single
+   future panel's display rule with :not([hidden]) itself. */
+[hidden] {
+  display: none !important;
+}
+
 html {
   scroll-behavior: smooth;
 }
