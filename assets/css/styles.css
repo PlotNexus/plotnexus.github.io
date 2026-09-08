@@ -591,11 +591,15 @@ h1, h2, h3 {
   text-decoration: none;
 }
 
-.listing-detail {
+.listing-hero {
   display: grid;
   grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
   gap: 32px;
   align-items: start;
+}
+
+.listing-body {
+  margin-top: 32px;
 }
 
 .listing-photo {
@@ -739,6 +743,7 @@ h1, h2, h3 {
   color: var(--text);
   line-height: 1.6;
   margin-bottom: 24px;
+  max-width: 720px;
 }
 
 .listing-description p {
@@ -828,7 +833,7 @@ h1, h2, h3 {
 }
 
 @media (max-width: 800px) {
-  .listing-detail {
+  .listing-hero {
     grid-template-columns: 1fr;
   }
 }

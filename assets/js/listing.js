@@ -168,18 +168,22 @@
       : "";
 
     el.detail.innerHTML = `
-      ${media}
-      <div class="listing-detail-body">
-        <div class="listing-badges">
-          <span class="card-type-badge listing-type-badge">${isRent ? "Arrendar" : "Comprar"}</span>
-          <span class="source-badge" data-source="${escapeHtml(item.source.name)}">${escapeHtml(item.source.name)}</span>
-        </div>
-        <h1 class="listing-title">${escapeHtml(item.title)}</h1>
-        <p class="listing-location">${escapeHtml(item.location)}</p>
-        <div class="listing-price">${currency(item.price, item.currency)}${
+      <div class="listing-hero">
+        ${media}
+        <div class="listing-hero-info">
+          <div class="listing-badges">
+            <span class="card-type-badge listing-type-badge">${isRent ? "Arrendar" : "Comprar"}</span>
+            <span class="source-badge" data-source="${escapeHtml(item.source.name)}">${escapeHtml(item.source.name)}</span>
+          </div>
+          <h1 class="listing-title">${escapeHtml(item.title)}</h1>
+          <p class="listing-location">${escapeHtml(item.location)}</p>
+          <div class="listing-price">${currency(item.price, item.currency)}${
       isRent ? '<span class="per-month"> /mês</span>' : ""
     }</div>
-        ${specs.length ? `<div class="listing-specs">${specs.join(" · ")}</div>` : ""}
+          ${specs.length ? `<div class="listing-specs">${specs.join(" · ")}</div>` : ""}
+        </div>
+      </div>
+      <div class="listing-body">
         ${descriptionBlock}
         ${technicalDataHtml(item)}
         ${featuresHtml(item.features)}
