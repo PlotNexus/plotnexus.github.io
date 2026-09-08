@@ -153,13 +153,23 @@ function cleanDescription(raw) {
   return cutAtLanguageSwitch(stripped, { splitPattern: /\n/, joinSeparator: "\n" }) || null;
 }
 
-function toProperty(p) {
+// listProperties actually returns full detail (photo gallery, description,
+// technical data) already, in the very same call used for the summary
+// sweep below — but storing all of that for the whole ~13 500-listing
+// catalogue in one run once blew data/listings.json past GitHub's 100MB
+// file-size limit and got the commit rejected outright. So, like every
+// other source here, only a lightweight summary is kept from the sweep;
+// full detail is deliberately re-fetched later, one id at a time, only for
+// the bounded per-run batch worker.js/index.js already enrich — the
+// redundant re-fetch costs a little, but it's what keeps the committed
+// file size growing gradually instead of all at once.
+function toSummary(p) {
   if (!RESIDENTIAL_TYPES.has(p.type)) return null;
   const location = locationLabel(p);
   const listingUrl = p.__listingUrl;
   if (!listingUrl) return null;
 
-  const base = normalizeListing({
+  return normalizeListing({
     id: idFromUrl(listingUrl, "kwportugal"),
     title: buildTitle(p, location),
     type: p.business === "Arrendamento" ? "arrendamento" : "venda",
@@ -174,24 +184,21 @@ function toProperty(p) {
     sourceUrl: SOURCE_URL,
     listingUrl,
   });
-  if (!base) return null;
+}
 
-  // listProperties returns everything in one call (full photo gallery,
-  // description, technical data) — unlike every other source here, there's
-  // no separate, lighter "search results" payload to fall back to, so the
-  // full detail is attached directly instead of needing a second,
-  // per-listing fetch later. See kwportugal's absence of fetchListingDetail/
-  // DETAIL_FETCH_DELAY_MS exports and its SOURCES entry in worker.js/index.js.
+function toDetail(p) {
   return {
-    ...base,
     images: imageUrls(p.images),
     description: cleanDescription(p.description),
+    features: {},
     estado: p.state || null,
     area_util_m2: p.livingArea || null,
     area_bruta_m2: p.totalArea || null,
     ano_construcao: p.constructionYear || null,
     certificacao_energetica: p.energyClass || null,
-    published_at: parseFundDate(p.fundDate) || base.published_at,
+    bathrooms: p.bathrooms ?? null,
+    geo: p.latitude != null && p.longitude != null ? { lat: p.latitude, lng: p.longitude } : null,
+    published_at: parseFundDate(p.fundDate),
   };
 }
 
@@ -199,6 +206,21 @@ async function fetchBatch(ids) {
   const results = await postJson(`${API_BASE}/listProperties`, { idProperties: ids });
   return Array.isArray(results) ? results : [];
 }
+
+function idPropertyFromUrl(listingUrl) {
+  const match = /\/(\d+)$/.exec(listingUrl);
+  return match ? Number(match[1]) : null;
+}
+
+export async function fetchListingDetail(listingUrl) {
+  const id = idPropertyFromUrl(listingUrl);
+  if (id == null) throw new Error(`${listingUrl}: não foi possível extrair o idProperty do url`);
+  const [property] = await fetchBatch([id]);
+  if (!property) throw new Error(`${listingUrl}: listProperties não devolveu o imóvel ${id}`);
+  return toDetail(property);
+}
+
+export const DETAIL_FETCH_DELAY_MS = DELAY_BETWEEN_QUERIES_MS;
 
 async function scrapeBucket(bucketIndex, urlById, maxListings) {
   const ids = [...urlById.keys()].filter((id) => id % BUCKET_COUNT === bucketIndex).slice(0, maxListings);
@@ -215,7 +237,7 @@ async function scrapeBucket(bucketIndex, urlById, maxListings) {
     }
     for (const p of properties) {
       p.__listingUrl = urlById.get(p.idProperty);
-      const item = toProperty(p);
+      const item = toSummary(p);
       if (item) listings.push(item);
     }
     if (i + BATCH_SIZE < ids.length) await sleepJittered(DELAY_BETWEEN_QUERIES_MS);

@@ -25,7 +25,12 @@ import {
   DISTRICTS_FULL as CENTURY21_DISTRICTS,
   DETAIL_FETCH_DELAY_MS as CENTURY21_DETAIL_DELAY_MS,
 } from "./sources/century21.js";
-import { scrapeKWPortugal, DISTRICTS_FULL as KWPORTUGAL_DISTRICTS } from "./sources/kwportugal.js";
+import {
+  scrapeKWPortugal,
+  fetchListingDetail as fetchKWPortugalDetail,
+  DISTRICTS_FULL as KWPORTUGAL_DISTRICTS,
+  DETAIL_FETCH_DELAY_MS as KWPORTUGAL_DETAIL_DELAY_MS,
+} from "./sources/kwportugal.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, pickEnrichmentCandidates } from "./lib/merge.js";
 
@@ -87,11 +92,11 @@ const SOURCES = [
     detailDelayMs: CENTURY21_DETAIL_DELAY_MS,
   },
   {
-    // No fetchDetail: listProperties already returns full detail in the
-    // same call used for the search sweep — see kwportugal.js.
     name: "kwportugal",
     districts: KWPORTUGAL_DISTRICTS,
     scrape: scrapeKWPortugal,
+    fetchDetail: fetchKWPortugalDetail,
+    detailDelayMs: KWPORTUGAL_DETAIL_DELAY_MS,
   },
 ];
 
@@ -129,10 +134,9 @@ async function main() {
     allListings.push(...listings);
     await saveProgress();
 
-    // Sources without a fetchDetail (e.g. kwportugal, whose single search
-    // call already returns full detail — see its own comments) have
-    // nothing to enrich here; every listing they scrape already carries
-    // its own images/description/etc.
+    // A source with no fetchDetail has nothing to enrich here — every
+    // source registered today defines one, but this guard lets a future
+    // source opt out safely instead of crashing on a missing function.
     if (!source.fetchDetail) continue;
 
     // Read-only snapshot of the cache as checked out at the start of the
