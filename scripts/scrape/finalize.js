@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { loadJson, mergeWithPrevious, mergeDetailInto, pruneDetailCache } from "./lib/merge.js";
+import { removeDuplicateListings } from "./lib/dedupe.js";
 
 // Combines every shard's output (written by worker.js, downloaded here as
 // build artifacts) into the site's data files. This is the only script
@@ -31,24 +32,30 @@ async function main() {
   const previousListings = previousPayload?.listings || [];
   const mergedListings = mergeWithPrevious(allListings, previousListings);
 
-  pruneDetailCache(detailCache, mergedListings);
-
   const enrichedListings = mergedListings.map((item) => mergeDetailInto(item, detailCache[item.id]));
+
+  // Runs after detail is merged in (not before) so that when the same
+  // property is cross-posted to more than one source, the keeper is
+  // chosen by which one actually has the richer page — not decided before
+  // that's even known.
+  const dedupedListings = removeDuplicateListings(enrichedListings);
+
+  pruneDetailCache(detailCache, dedupedListings);
 
   const payload = {
     _readme:
       "Dados recolhidos automaticamente (scripts/scrape) a partir de sites parceiros, para uso pessoal. Ver .github/workflows/scrape.yml.",
     generated_at: new Date().toISOString(),
     errors: [],
-    listings: enrichedListings,
+    listings: dedupedListings,
   };
 
   await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
   await fs.writeFile(OUTPUT_PATH, JSON.stringify(payload, null, 2) + "\n");
   await fs.writeFile(DETAIL_CACHE_PATH, JSON.stringify(detailCache, null, 2) + "\n");
 
-  const withDetail = enrichedListings.filter((l) => l.images && l.images.length > 1).length;
-  console.log(`Escritos ${enrichedListings.length} anúncios em ${OUTPUT_PATH} (${withDetail} com detalhe completo)`);
+  const withDetail = dedupedListings.filter((l) => l.images && l.images.length > 1).length;
+  console.log(`Escritos ${dedupedListings.length} anúncios em ${OUTPUT_PATH} (${withDetail} com detalhe completo)`);
 
   if (allListings.length === 0) {
     console.warn("Nenhum anúncio novo recolhido nesta execução — todos os shards falharam. A servir dados anteriores.");
