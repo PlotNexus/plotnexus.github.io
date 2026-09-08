@@ -13,6 +13,19 @@
 // out of sync between portals. That tradeoff is deliberate: showing the
 // same property twice is a minor annoyance, but silently dropping a
 // distinct listing because it was wrongly merged is a real loss.
+//
+// New-development listings break that assumption in a specific way: a
+// single development can sell many genuinely distinct units that share an
+// identical floorplan, price and even marketing photos (verified against
+// real data — two confirmed-different units at "Craveiral Farm House" had
+// 7 of 8 photos byte-identical). Two such units from the *same* source will
+// never match directly (different-source is required above), but each can
+// independently match the *same* listing on a third source, and naive
+// transitive grouping then merges all three into one — silently dropping a
+// real, distinct listing. A genuine cross-posted duplicate can only ever
+// have at most one listing per source, so any group union-find produces
+// with two from the same source is exactly this failure mode, not a real
+// duplicate — such groups are left unmerged entirely rather than guessed at.
 
 const EARTH_RADIUS_M = 6371000;
 const MAX_DISTANCE_M = 150;
@@ -98,12 +111,25 @@ export function removeDuplicateListings(listings) {
 
   const kept = [];
   let removedCount = 0;
+  let rejectedGroupCount = 0;
   const examples = [];
   for (const group of groupsByRoot.values()) {
     if (group.length === 1) {
       kept.push(group[0]);
       continue;
     }
+
+    const sourceNames = new Set(group.map((l) => l.source.name));
+    if (sourceNames.size !== group.length) {
+      // Two or more listings from the same source ended up matched
+      // together — a real cross-posted duplicate can't do that, so this is
+      // a multi-unit development (or similar) false positive. Leave every
+      // listing in the group untouched rather than guess which to merge.
+      kept.push(...group);
+      rejectedGroupCount++;
+      continue;
+    }
+
     const keeper = group.reduce(preferKeeper);
     kept.push(keeper);
     removedCount += group.length - 1;
@@ -120,6 +146,11 @@ export function removeDuplicateListings(listings) {
   if (removedCount > 0) {
     console.log(`[dedupe] ${removedCount} anúncios duplicados entre fontes removidos (${examples.length} de exemplo):`);
     for (const example of examples) console.log(`  ${example}`);
+  }
+  if (rejectedGroupCount > 0) {
+    console.log(
+      `[dedupe] ${rejectedGroupCount} grupo(s) ignorado(s) por terem mais do que um anúncio da mesma fonte (provavelmente um empreendimento com várias fracções, não duplicados reais)`
+    );
   }
 
   return kept;
