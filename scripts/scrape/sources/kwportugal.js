@@ -119,20 +119,30 @@ function stripKnownBoilerplate(text) {
 }
 
 // Some agents separate a pasted-in translation from the original with a
-// run of divider characters glued directly onto the end of the previous
-// sentence — no newline or space at all ("...Venha visitar!=====Spacious
-// apartment...") — so even line-level splitting can't isolate it as its
-// own paragraph. A long enough run of these characters doesn't occur in
-// genuine PT text, so it's safe to treat as a hard cut point wherever it
-// appears, regardless of surrounding whitespace.
-function truncateAtInlineDivider(text) {
-  const match = /[*\-_=~+#`…]{8,}/.exec(text);
-  return match ? text.slice(0, match.index) : text;
+// run of divider characters, or an explicit language label ("ENGLISH:"),
+// glued directly onto the end of the previous sentence — no newline or
+// even a space at all ("...bem-estar.Aqui poderá...ENGLISH:Located on
+// Amparo..."), sometimes with literally zero newlines anywhere in the
+// whole field. Neither paragraph- nor line-level splitting can isolate
+// something like that as its own paragraph, so both patterns are searched
+// for directly and cut at wherever the earliest one appears — regardless
+// of surrounding whitespace — rather than relying on splitting at all.
+// "Português"/"portuguesa" is deliberately not in the label list: a PT
+// self-label at the very start would wrongly truncate the description to
+// nothing.
+const INLINE_DIVIDER = /[*\-_=~+#`…]{8,}/;
+const LANGUAGE_LABEL = /\b(english|ingl[eê]s|espa[nñ]ol|espanhol|fran[cç]ais|franc[eê]s|deutsch|alem[aã]o|italiano)\s*:/i;
+
+function truncateAtEarliestMarker(text) {
+  const indices = [INLINE_DIVIDER, LANGUAGE_LABEL]
+    .map((re) => re.exec(text)?.index)
+    .filter((i) => i != null);
+  return indices.length ? text.slice(0, Math.min(...indices)) : text;
 }
 
 function cleanDescription(raw) {
   if (!raw) return null;
-  const stripped = stripKnownBoilerplate(truncateAtInlineDivider(String(raw).trim()));
+  const stripped = stripKnownBoilerplate(truncateAtEarliestMarker(String(raw).trim()));
   // Unlike RE/MAX/Century 21's HTML-derived text, KW's description field is
   // free-typed plain text where agents don't reliably blank-line-separate
   // paragraphs — including right at the PT/EN switch point when the same ad
