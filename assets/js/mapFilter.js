@@ -199,11 +199,16 @@
     // reached some other way) can call this and be guaranteed a visible,
     // correctly-sized, initialised map afterwards rather than assuming
     // some earlier step already did it.
+    // The toggle button has its own icon alongside the label text, so its
+    // state text lives in a child span rather than the button's whole
+    // textContent (which would otherwise wipe out the icon on every toggle).
+    const toggleLabel = toggleButton.querySelector("span") || toggleButton;
+
     function revealPanel() {
       if (panel.hidden) {
         panel.hidden = false;
         toggleButton.setAttribute("aria-expanded", "true");
-        toggleButton.textContent = "Ocultar mapa";
+        toggleLabel.textContent = "Ocultar mapa";
       }
       ensureMapInitialised();
       // Leaflet computes its tile grid from the container's size at init
@@ -218,7 +223,7 @@
       } else {
         panel.hidden = true;
         toggleButton.setAttribute("aria-expanded", "false");
-        toggleButton.textContent = "Pesquisar no mapa";
+        toggleLabel.textContent = "Pesquisar no mapa";
       }
     });
 
