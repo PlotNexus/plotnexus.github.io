@@ -12,9 +12,11 @@ O site está publicado via GitHub Pages a partir deste repositório.
 ## Estado atual
 
 - Interface estática (HTML/CSS/JS puro, sem build necessário): página
-  inicial com pesquisa/filtros/ordenação, página de detalhe por imóvel
-  (galeria de fotos, descrição completa, características, dados técnicos,
-  mapa e link para o anúncio original) e página "Sobre".
+  inicial com pesquisa/filtros/ordenação e pesquisa por raio num mapa
+  (Leaflet + OpenStreetMap, com geocodificação de moradas via Nominatim),
+  página de detalhe por imóvel (galeria de fotos, descrição completa,
+  características, dados técnicos, mapa e link para o anúncio original) e
+  página "Sobre".
 - Conectores de dados reais e automáticos, correndo via
   `.github/workflows/scrape.yml` a cada 6 horas:
   - **CASA SAPO** — compra e arrendamento de apartamentos e moradias,
