@@ -6,16 +6,16 @@
   const DEFAULT_CENTER = [39.6, -8.0];
   const DEFAULT_ZOOM = 7;
 
-  // Leaflet's default marker icon is loaded via relative paths baked into
-  // its own CSS, which breaks when leaflet.css is served from a CDN whose
-  // base URL doesn't match — point it at the same CDN's image assets
-  // explicitly rather than shipping our own copies.
+  // Leaflet's own runtime detection of its default marker icon path (by
+  // reading a computed CSS background-image) is a bit fragile depending on
+  // how the page's CSS cascades — set it explicitly to our vendored copies
+  // instead of relying on that.
   function fixDefaultMarkerIcon() {
     delete L.Icon.Default.prototype._getIconUrl;
     L.Icon.Default.mergeOptions({
-      iconRetinaUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png",
-      iconUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png",
-      shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
+      iconRetinaUrl: "assets/vendor/leaflet/images/marker-icon-2x.png",
+      iconUrl: "assets/vendor/leaflet/images/marker-icon.png",
+      shadowUrl: "assets/vendor/leaflet/images/marker-shadow.png",
     });
   }
 
