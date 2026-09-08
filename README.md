@@ -9,6 +9,23 @@ em desenvolvimento.
 
 O site está publicado via GitHub Pages a partir deste repositório.
 
+## Capturas de ecrã
+
+**Página inicial** — pesquisa, filtro por tipo (comprar/arrendar), fontes
+agregadas identificadas por cor e listagem de imóveis:
+
+![Página inicial do PlotNexus](docs/screenshots/homepage.png)
+
+**Pesquisa por raio num mapa** — escolha de um centro (por morada ou clique
+directo no mapa) e um raio de distância:
+
+![Painel de pesquisa no mapa](docs/screenshots/pesquisa-mapa.png)
+
+**Página de detalhe de um imóvel** — galeria de fotos, descrição completa e
+link directo para o anúncio original:
+
+![Página de detalhe de um imóvel](docs/screenshots/detalhe-imovel.png)
+
 ## Estado atual
 
 - Interface estática (HTML/CSS/JS puro, sem build necessário): página
@@ -38,15 +55,22 @@ O site está publicado via GitHub Pages a partir deste repositório.
     da RE/MAX.
   - **KW Portugal** — a API de pesquisa devolve sempre o mesmo lote fixo de
     10 imóveis por pedido, por isso a cobertura nacional (obtida a partir
-    do sitemap do site) é percorrida em lotes de 10 ids de cada vez, outra
-    vez dividida em 12 "blocos" virtuais. É a única fonte em que a mesma
-    chamada já devolve o detalhe completo (todas as fotos, descrição
-    integral, dados técnicos) — não há uma segunda fase de enriquecimento
-    como nas restantes. A descrição também passa pelo heurístico de
-    deteção de mudança de idioma, mas com granularidade linha-a-linha em
-    vez de parágrafo-a-parágrafo, já que este texto não separa sempre os
-    parágrafos com linha em branco (o mesmo heurístico aceita agora um
-    padrão de divisão configurável para isto).
+    do sitemap do site, já que a API nunca devolve o link do próprio
+    anúncio) é percorrida em lotes de 10 ids de cada vez, outra vez
+    dividida em 12 "blocos" virtuais. Essa mesma chamada já devolve o
+    detalhe completo (todas as fotos, descrição integral, dados técnicos),
+    mas para não escrever tudo de uma vez num único ficheiro (isso já
+    chegou a ultrapassar o limite de 100MB por ficheiro do GitHub), só um
+    resumo leve é guardado na primeira passagem — o detalhe completo é
+    pedido de novo, um imóvel de cada vez, através da mesma fase de
+    enriquecimento gradual usada pelas restantes fontes. A descrição
+    passa por uma variante do heurístico de deteção de mudança de idioma
+    com granularidade linha-a-linha em vez de parágrafo-a-parágrafo (o
+    heurístico aceita um padrão de divisão configurável para isto), já
+    que este texto não separa sempre os parágrafos com linha em branco —
+    e ainda corta em pontos adicionais específicos desta fonte (uma
+    assinatura fixa em inglês, e traduções coladas sem qualquer separador
+    a seguir a uma etiqueta como "ENGLISH:").
   
   A recolha nacional é dividida em 4 execuções paralelas (cada uma cobrindo
   um subconjunto de distritos/localizações de cada fonte), para que nenhuma
@@ -81,8 +105,11 @@ O site está publicado via GitHub Pages a partir deste repositório.
 │   ├── js/
 │   │   ├── shared.js             # helpers partilhados entre páginas
 │   │   ├── app.js                # lógica da página inicial
-│   │   └── listing.js            # lógica da página de detalhe
+│   │   ├── listing.js            # lógica da página de detalhe
+│   │   └── mapFilter.js          # pesquisa por raio num mapa (Leaflet)
+│   ├── vendor/leaflet/            # Leaflet auto-hospedado (sem depender de CDN)
 │   └── img/
+├── docs/screenshots/              # capturas de ecrã usadas neste README
 ├── data/
 │   ├── listings.json            # dados reais (gerados pelo scraper)
 │   ├── listings-detail.json     # cache do detalhe já enriquecido por anúncio
