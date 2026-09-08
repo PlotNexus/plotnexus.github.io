@@ -80,6 +80,12 @@
     }
 
     function placeAt(lat, lng, { fly = false } = {}) {
+      // Defensive: placeAt can be reached from the address search regardless
+      // of whether the map panel was ever actually opened first (e.g. a
+      // stale/bfcache-restored tab, or any other path that skipped the
+      // toggle button's own init call) — never assume the panel is open or
+      // `map` is already set.
+      revealPanel();
       center = { lat, lng };
 
       if (!marker) {
@@ -118,7 +124,13 @@
       if (map) return;
 
       fixDefaultMarkerIcon();
-      map = L.map(mapContainerId).setView(DEFAULT_CENTER, DEFAULT_ZOOM);
+      // Assigned before `.setView(...)` runs (rather than chained in one
+      // statement) so that even if setView were to throw — e.g. called
+      // against a container that isn't actually visible/sized yet — `map`
+      // still ends up holding a real Leaflet instance instead of staying
+      // null forever, which would otherwise break every later use of it.
+      map = L.map(mapContainerId);
+      map.setView(DEFAULT_CENTER, DEFAULT_ZOOM);
       L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         maxZoom: 19,
@@ -181,18 +193,32 @@
       }
     });
 
-    toggleButton.addEventListener("click", () => {
-      const willOpen = panel.hidden;
-      panel.hidden = !willOpen;
-      toggleButton.setAttribute("aria-expanded", String(willOpen));
-      toggleButton.textContent = willOpen ? "Ocultar mapa" : "Pesquisar no mapa";
+    // Opens the panel (if not already open), lazily creates the Leaflet map
+    // on first call, and re-nudges its size every time — cheap and
+    // idempotent, so any entry point (the toggle button, or placeAt() being
+    // reached some other way) can call this and be guaranteed a visible,
+    // correctly-sized, initialised map afterwards rather than assuming
+    // some earlier step already did it.
+    function revealPanel() {
+      if (panel.hidden) {
+        panel.hidden = false;
+        toggleButton.setAttribute("aria-expanded", "true");
+        toggleButton.textContent = "Ocultar mapa";
+      }
+      ensureMapInitialised();
+      // Leaflet computes its tile grid from the container's size at init
+      // time — since the panel was `hidden` (0×0) until just now, it needs
+      // an explicit nudge to size itself correctly.
+      setTimeout(() => map.invalidateSize(), 0);
+    }
 
-      if (willOpen) {
-        ensureMapInitialised();
-        // Leaflet computes its tile grid from the container's size at init
-        // time — since the panel was `hidden` (0×0) until just now, it
-        // needs an explicit nudge to size itself correctly.
-        setTimeout(() => map.invalidateSize(), 0);
+    toggleButton.addEventListener("click", () => {
+      if (panel.hidden) {
+        revealPanel();
+      } else {
+        panel.hidden = true;
+        toggleButton.setAttribute("aria-expanded", "false");
+        toggleButton.textContent = "Pesquisar no mapa";
       }
     });
 
