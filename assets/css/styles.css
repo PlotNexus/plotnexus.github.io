@@ -871,23 +871,74 @@ h1, h2, h3 {
   margin: 0 0 12px;
 }
 
-.listing-price {
-  font-size: 1.7rem;
-  font-weight: 800;
+.listing-spec-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 20px;
+  margin-bottom: 16px;
+}
+
+.spec-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
   color: var(--text);
-  margin-bottom: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.spec-chip svg {
+  color: var(--primary);
+  flex-shrink: 0;
+}
+
+.listing-price-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.listing-price {
+  display: inline-block;
+  background: var(--primary-tint);
+  color: var(--primary);
+  font-size: 1.6rem;
+  font-weight: 800;
+  padding: 6px 16px;
+  border-radius: 10px;
 }
 
 .listing-price .per-month {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   font-weight: 500;
-  color: var(--text-muted);
+  color: var(--primary);
+  opacity: 0.75;
 }
 
-.listing-specs {
-  color: var(--text-muted);
-  font-size: 0.95rem;
-  margin-bottom: 20px;
+.listing-actions-row {
+  display: flex;
+  gap: 8px;
+}
+
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--border);
+  background: #fff;
+  color: var(--text);
+  border-radius: 8px;
+  padding: 8px 14px;
+  font-size: 0.85rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.icon-btn:hover {
+  background: var(--bg-alt);
 }
 
 .listing-description {
@@ -951,6 +1002,108 @@ h1, h2, h3 {
   border-radius: 999px;
   padding: 4px 12px;
   font-size: 0.82rem;
+}
+
+.listing-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 20px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 16px;
+}
+
+.tab-btn {
+  border: none;
+  background: none;
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  padding: 8px 2px;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+}
+
+.tab-btn:hover {
+  color: var(--text);
+}
+
+.tab-btn.active {
+  color: var(--primary);
+  border-bottom-color: var(--primary);
+}
+
+.divisions-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 12px;
+}
+
+.division-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  text-align: center;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 10px;
+  background: var(--bg-alt);
+}
+
+.division-card-icon {
+  color: var(--primary);
+}
+
+.division-card-label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.epc-badge {
+  display: inline-block;
+  color: #fff;
+  font-weight: 800;
+  font-size: 0.85rem;
+  padding: 2px 10px;
+  border-radius: 5px;
+  letter-spacing: 0.02em;
+}
+
+.epc-badge[data-tier="aplus"] { background: #1a9850; }
+.epc-badge[data-tier="a"] { background: #66bd63; }
+.epc-badge[data-tier="b"] { background: #a6d96a; color: #10151f; }
+.epc-badge[data-tier="bminus"] { background: #d9ef8b; color: #10151f; }
+.epc-badge[data-tier="c"] { background: #fee08b; color: #10151f; }
+.epc-badge[data-tier="d"] { background: #fdae61; color: #10151f; }
+.epc-badge[data-tier="e"] { background: #f46d43; }
+.epc-badge[data-tier="f"] { background: #d73027; }
+.epc-badge[data-tier="g"] { background: #a50026; }
+.epc-badge[data-tier="info"] { background: var(--text-muted); }
+
+.pn-toast {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translate(-50%, 8px);
+  background: var(--footer-bg);
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 999px;
+  box-shadow: var(--shadow-hover);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  z-index: 60;
+}
+
+.pn-toast.visible {
+  opacity: 1;
+  transform: translate(-50%, 0);
 }
 
 .listing-map {
@@ -1076,5 +1229,24 @@ h1, h2, h3 {
 
   .map-filter-map {
     height: 260px;
+  }
+}
+
+@media print {
+  .site-header,
+  .site-footer,
+  .back-link,
+  .listing-actions-row,
+  .listing-cta,
+  .listing-gallery-nav,
+  .listing-gallery-thumbs,
+  .listing-gallery-count,
+  .listing-map-link,
+  .pn-toast {
+    display: none !important;
+  }
+
+  .listing-map iframe {
+    height: 240px;
   }
 }
