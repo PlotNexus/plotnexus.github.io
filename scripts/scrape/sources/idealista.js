@@ -63,9 +63,18 @@ const ROTATION_CYCLE = buildRotationCycle();
 // .github/workflows/scrape.yml's cron) without needing any persisted
 // state — just the wall clock. An extra manual run just burns one cycle
 // slot a little early; harmless.
+//
+// Slots count from ROTATION_EPOCH (when this rotation shipped) rather
+// than from the Unix epoch — counting from 1970 would land the very
+// first run on whatever remainder that many 6h slots happens to leave,
+// which turned out to be Faro, not one of the priority locations this
+// was built to favour. Anchoring "now" as slot 0 means the first run
+// after deploy starts at the top of the cycle (Lisboa) and rotates
+// forward from there, same as always after that.
+const ROTATION_EPOCH = Date.parse("2026-09-09T14:27:00Z");
 const SLOT_MS = 6 * 60 * 60 * 1000;
 function currentSlot() {
-  return Math.floor(Date.now() / SLOT_MS);
+  return Math.floor((Date.now() - ROTATION_EPOCH) / SLOT_MS);
 }
 
 const HOME_TYPE_LABELS = {
@@ -165,7 +174,11 @@ export async function scrapeIdealista({ districts } = {}) {
   }
 
   const slot = currentSlot();
-  const combo = ROTATION_CYCLE[slot % ROTATION_CYCLE.length];
+  // JS's % is remainder, not modulo — a negative slot (only possible if
+  // this ever runs before ROTATION_EPOCH) would otherwise index
+  // backwards off the array instead of wrapping.
+  const index = ((slot % ROTATION_CYCLE.length) + ROTATION_CYCLE.length) % ROTATION_CYCLE.length;
+  const combo = ROTATION_CYCLE[index];
   console.log(`[idealista] ciclo ${slot} -> ${combo.loc.name} (${combo.op === "rent" ? "arrendar" : "comprar"})`);
 
   let elements;
