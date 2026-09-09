@@ -17,13 +17,25 @@ function log(...args) {
   console.log(new Date().toISOString(), ...args);
 }
 
-async function probeUrl(page, label, url) {
+function jitteredDelay(baseMs, jitter = 0.4) {
+  const min = baseMs * (1 - jitter);
+  const max = baseMs * (1 + jitter);
+  return Math.round(min + Math.random() * (max - min));
+}
+
+async function probeUrl(page, label, url, { delayBeforeMs = 0 } = {}) {
+  if (delayBeforeMs) await new Promise((r) => setTimeout(r, jitteredDelay(delayBeforeMs)));
   const start = Date.now();
   const result = { label, url };
   try {
     const response = await page.goto(url, { waitUntil: "domcontentloaded", timeout: 30000 });
     result.status = response ? response.status() : null;
-    await page.waitForTimeout(2500);
+    // Give the interstitial's own JS a real window to fingerprint-check
+    // and invisibly reload with a valid session cookie, same as the
+    // first probe (which waited 8s and got through) rather than the
+    // second (which waited 2.5s between five rapid navigations and got
+    // blocked on every one after the first).
+    await page.waitForTimeout(9000);
     result.elapsedMs = Date.now() - start;
     result.finalUrl = page.url();
     result.title = await page.title();
@@ -57,16 +69,24 @@ async function main() {
   // 1) Does a location-less / broader URL work (nationwide pagination
   // instead of having to enumerate every concelho)?
   results.push(await probeUrl(page, "nationwide-no-location", "https://www.idealista.pt/comprar-casas/"));
-  results.push(await probeUrl(page, "distrito-level", "https://www.idealista.pt/comprar-casas/faro/"));
-  results.push(await probeUrl(page, "concelho-level", "https://www.idealista.pt/comprar-casas/sintra/"));
+  results.push(
+    await probeUrl(page, "distrito-level", "https://www.idealista.pt/comprar-casas/faro/", { delayBeforeMs: 6000 })
+  );
+  results.push(
+    await probeUrl(page, "concelho-level", "https://www.idealista.pt/comprar-casas/sintra/", { delayBeforeMs: 6000 })
+  );
 
   // 2) Pagination scheme, second page of a known-good search.
   results.push(
-    await probeUrl(page, "pagination-page2", "https://www.idealista.pt/comprar-casas/lisboa/pagina-2.html")
+    await probeUrl(page, "pagination-page2", "https://www.idealista.pt/comprar-casas/lisboa/pagina-2.html", {
+      delayBeforeMs: 6000,
+    })
   );
 
   // 3) Detail page — geo-coordinates, description, características.
-  const detailResult = await probeUrl(page, "detail-page", "https://www.idealista.pt/imovel/35081413/");
+  const detailResult = await probeUrl(page, "detail-page", "https://www.idealista.pt/imovel/35081413/", {
+    delayBeforeMs: 6000,
+  });
   results.push(detailResult);
 
   if (!detailResult.error) {
