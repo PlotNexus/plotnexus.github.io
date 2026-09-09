@@ -1,16 +1,15 @@
 // Throwaway diagnostic, not a scraper: checks whether a real browser,
 // running from an actual GitHub Actions runner IP, gets past Idealista's
-// DataDome interstitial (curl-based requests get a 403 challenge page on
-// the very first hit, from every IP tested so far, including this repo's
-// own sandbox — see the conversation this came out of). Success/failure
-// here decides whether a real Idealista source is worth building at all.
+// DataDome interstitial, and (now that the first probe run confirmed it
+// does) gathers what a real source module would need to know: pagination
+// URL scheme, per-location vs. nationwide coverage, and whether the
+// detail page exposes geo-coordinates.
 import { chromium } from "playwright";
 import { writeFileSync, mkdirSync } from "fs";
 
 const OUT_DIR = "out";
 mkdirSync(OUT_DIR, { recursive: true });
 
-const TARGET_URL = "https://www.idealista.pt/comprar-casas/lisboa/";
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36";
 
@@ -18,64 +17,84 @@ function log(...args) {
   console.log(new Date().toISOString(), ...args);
 }
 
+async function probeUrl(page, label, url) {
+  const start = Date.now();
+  const result = { label, url };
+  try {
+    const response = await page.goto(url, { waitUntil: "domcontentloaded", timeout: 30000 });
+    result.status = response ? response.status() : null;
+    await page.waitForTimeout(2500);
+    result.elapsedMs = Date.now() - start;
+    result.finalUrl = page.url();
+    result.title = await page.title();
+    const bodyText = await page.evaluate(() => document.body.innerText);
+    result.looksBlocked = /enable js|datadome|captcha/i.test(bodyText);
+    result.listingCardCount = await page.locator("article.item").count().catch(() => 0);
+    result.bodyTextSnippet = bodyText.slice(0, 300);
+  } catch (err) {
+    result.error = err.message;
+    result.elapsedMs = Date.now() - start;
+  }
+  log(label, JSON.stringify(result));
+  return result;
+}
+
 async function main() {
-  const browser = await chromium.launch({
-    args: ["--disable-blink-features=AutomationControlled"],
-  });
+  const browser = await chromium.launch({ args: ["--disable-blink-features=AutomationControlled"] });
   const context = await browser.newContext({
     userAgent: USER_AGENT,
     viewport: { width: 1366, height: 900 },
     locale: "pt-PT",
     timezoneId: "Europe/Lisbon",
   });
-
-  // Basic, well-known stealth patch — DataDome explicitly checks
-  // navigator.webdriver as one of its fingerprint signals.
   await context.addInitScript(() => {
     Object.defineProperty(navigator, "webdriver", { get: () => undefined });
   });
-
   const page = await context.newPage();
-  const result = { targetUrl: TARGET_URL, timestamp: new Date().toISOString() };
 
-  try {
-    const response = await page.goto(TARGET_URL, { waitUntil: "domcontentloaded", timeout: 45000 });
-    result.initialStatus = response ? response.status() : null;
-    log("initial navigation status:", result.initialStatus);
+  const results = [];
 
-    // If it's the DataDome interstitial, its own inline JS runs a
-    // fingerprint check and, when the risk score is low enough, reloads
-    // the page invisibly with a valid session cookie — give that a real
-    // window before giving up.
-    await page.waitForTimeout(8000);
+  // 1) Does a location-less / broader URL work (nationwide pagination
+  // instead of having to enumerate every concelho)?
+  results.push(await probeUrl(page, "nationwide-no-location", "https://www.idealista.pt/comprar-casas/"));
+  results.push(await probeUrl(page, "distrito-level", "https://www.idealista.pt/comprar-casas/faro/"));
+  results.push(await probeUrl(page, "concelho-level", "https://www.idealista.pt/comprar-casas/sintra/"));
 
-    result.finalUrl = page.url();
-    result.title = await page.title();
-    result.bodyText = (await page.evaluate(() => document.body.innerText)).slice(0, 1000);
+  // 2) Pagination scheme, second page of a known-good search.
+  results.push(
+    await probeUrl(page, "pagination-page2", "https://www.idealista.pt/comprar-casas/lisboa/pagina-2.html")
+  );
 
-    const cookies = await context.cookies();
-    result.hasDataDomeCookie = cookies.some((c) => c.name.toLowerCase() === "datadome");
-    result.cookieNames = cookies.map((c) => c.name);
+  // 3) Detail page — geo-coordinates, description, características.
+  const detailResult = await probeUrl(page, "detail-page", "https://www.idealista.pt/imovel/35081413/");
+  results.push(detailResult);
 
-    // A real search results page has listing cards and a results count;
-    // the blocked/interstitial page never does.
-    result.listingCardCount = await page.locator("article").count().catch(() => 0);
-    result.looksBlocked = /enable js|datadome|captcha/i.test(result.bodyText);
-
-    await page.screenshot({ path: `${OUT_DIR}/idealista-probe.png`, fullPage: true });
-    writeFileSync(`${OUT_DIR}/idealista-probe.html`, await page.content());
-  } catch (err) {
-    result.error = err.message;
-    log("ERROR:", err.message);
-    try {
-      await page.screenshot({ path: `${OUT_DIR}/idealista-probe-error.png`, fullPage: true });
-    } catch {
-      // best effort only
-    }
+  if (!detailResult.error) {
+    const detailExtras = await page.evaluate(() => {
+      const html = document.documentElement.outerHTML;
+      const latLngMatch = html.match(/"latitude":\s*(-?\d+\.\d+).{0,50}?"longitude":\s*(-?\d+\.\d+)/s);
+      const mapLink = document.querySelector('a[href*="google.com/maps"], a[href*="maps.google"]');
+      const scriptWithCoords = [...document.scripts]
+        .map((s) => s.textContent)
+        .find((t) => t && /latitude|"lat"/i.test(t));
+      return {
+        latLngFromRegex: latLngMatch ? [latLngMatch[1], latLngMatch[2]] : null,
+        mapLinkHref: mapLink ? mapLink.getAttribute("href") : null,
+        hasScriptWithCoords: !!scriptWithCoords,
+        scriptCoordsSnippet: scriptWithCoords ? scriptWithCoords.slice(0, 500) : null,
+        characteristicsHeadings: [...document.querySelectorAll("h2, h3")]
+          .map((h) => h.textContent.trim())
+          .filter(Boolean)
+          .slice(0, 20),
+      };
+    });
+    results.push({ label: "detail-extras", ...detailExtras });
+    await page.screenshot({ path: `${OUT_DIR}/idealista-detail.png`, fullPage: true });
+    writeFileSync(`${OUT_DIR}/idealista-detail.html`, await page.content());
   }
 
-  writeFileSync(`${OUT_DIR}/result.json`, JSON.stringify(result, null, 2));
-  log("RESULT:", JSON.stringify(result, null, 2));
+  writeFileSync(`${OUT_DIR}/probe2-results.json`, JSON.stringify(results, null, 2));
+  log("ALL RESULTS:", JSON.stringify(results, null, 2));
 
   await browser.close();
 }
