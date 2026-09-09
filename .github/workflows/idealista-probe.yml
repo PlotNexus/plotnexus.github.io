@@ -1,0 +1,43 @@
+name: Idealista probe (one-off)
+
+# Throwaway diagnostic, not part of the production scraper — see
+# scripts/scrape/experiments/idealista-probe/README.md. Manual-trigger
+# only, on purpose: it installs a full Chromium via Playwright, which is
+# a meaningfully heavier CI dependency than every other source here, and
+# has no reason to run on a schedule until/unless it proves worthwhile.
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install probe dependencies
+        working-directory: scripts/scrape/experiments/idealista-probe
+        run: npm install
+
+      - name: Install Playwright Chromium
+        working-directory: scripts/scrape/experiments/idealista-probe
+        run: npx playwright install --with-deps chromium
+
+      - name: Run probe
+        working-directory: scripts/scrape/experiments/idealista-probe
+        run: node probe.js
+
+      - name: Upload probe output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: idealista-probe-output
+          path: scripts/scrape/experiments/idealista-probe/out/
+          retention-days: 7
+          if-no-files-found: warn
