@@ -85,6 +85,36 @@ link directo para o anúncio original:
     um erro de raspagem — por isso esta fonte cobre apenas compra, nunca
     arrendamento. Sharding por "blocos" de páginas, à semelhança da
     Century 21.
+  - **Idealista** — a única fonte que não usa pedidos HTTP directos: o site
+    está protegido por DataDome, e mesmo com automação de browser completo
+    (Playwright) só um pedido isolado por sessão passa o desafio antes de a
+    própria rede de origem (runners do GitHub Actions, IPs de datacenter)
+    ser sinalizada por volume (confirmado com testes reais: um pedido
+    isolado passa perfeitamente, mas ao fim de pouco mais de uma dezena de
+    pedidos ao longo de ~20 minutos o Idealista respondeu com um bloqueio
+    explícito de "acesso temporariamente restrito"). Em vez disso, esta
+    fonte usa uma API paga de terceiros
+    ([idealista-real-estate no RapidAPI](https://rapidapi.com/kiwimaker/api/idealista-real-estate))
+    — um pedido HTTP autenticado normal, sem browser nem contorno de
+    anti-bot — mas limitada a 750 pedidos/mês no nível gratuito, uma fracção
+    do que as outras fontes usam por execução. Por isso, em vez de uma
+    varredura nacional, cada execução faz apenas *um* pedido de pesquisa,
+    escolhido por rotação (baseada na hora, sem estado guardado) por uma
+    lista de localizações priorizada — Lisboa e Coimbra (e concelhos
+    vizinhos, como Oliveira do Hospital, Tábua e Santa Comba Dão) aparecem
+    com o dobro da frequência de zonas secundárias como Porto e Faro — mais
+    um pequeno lote de enriquecimento de detalhe. Como a API agrega
+    anúncios de Espanha, Portugal e Itália ao mesmo tempo, vários campos
+    (descrição, endereço) de agências que operam nos dois países vêm às
+    vezes em espanhol mesmo para imóveis portugueses — o campo de descrição
+    correcto (`propertyComment`, distinto do campo `description` da
+    pesquisa) já vem em português, mas ainda assim passa pelo mesmo
+    heurístico de deteção de mudança de idioma das outras fontes, que já
+    reconhece marcadores espanhóis. Os URLs das fotos desta fonte expiram
+    ao fim de cerca de 24 horas (são assinados, verificado experimentalmente
+    que deixam de responder sem a assinatura) — muito menos tempo do que o
+    intervalo entre reforços de detalhe — por isso esta fonte não guarda
+    fotografias; o botão para o anúncio original continua a mostrá-las.
   
   A recolha nacional é dividida em 4 execuções paralelas (cada uma cobrindo
   um subconjunto de distritos/localizações de cada fonte), para que nenhuma
@@ -155,7 +185,8 @@ link directo para o anúncio original:
 │       ├── remax.js
 │       ├── century21.js
 │       ├── kwportugal.js
-│       └── era.js
+│       ├── era.js
+│       └── idealista.js
 ├── .github/workflows/scrape.yml  # agendamento do scraper
 ├── LICENSE
 └── README.md
@@ -183,7 +214,9 @@ node index.js
 
 A variável de ambiente `SCRAPE_DISTRICTS` (lista separada por vírgulas, ex.
 `SCRAPE_DISTRICTS=braga,evora`) permite testar apenas alguns distritos em vez
-da lista completa.
+da lista completa. A fonte Idealista precisa também de `RAPIDAPI_KEY`
+(a mesma usada em produção, guardada como *secret* do GitHub Actions) —
+sem ela, essa fonte é simplesmente ignorada em vez de falhar a execução.
 
 No GitHub Actions, o mesmo trabalho corre dividido: `worker.js` trata de um
 subconjunto de distritos (`SHARD_INDEX`/`SHARD_COUNT`) e escreve o seu próprio
@@ -211,37 +244,15 @@ fonte. Princípios seguidos desde já:
 Algumas fontes generalistas populares usam proteção anti-bot que o método
 actual (pedidos HTTP simples, sem browser) não consegue contornar:
 
-- **Idealista** — investigado a fundo, com testes reais, não apenas por
-  inspecção. Pedidos HTTP simples (o que todas as outras fontes usam) são
-  bloqueados por DataDome com um desafio "interstitial" já no primeiro
-  pedido, em qualquer caminho (página inicial, `robots.txt`, pesquisa).
-  Um browser real (Playwright), a correr a partir de um runner do GitHub
-  Actions — a rede onde o scraper de produção realmente corre — passa esse
-  desafio sem problema à primeira, com conteúdo real da página de
-  resultados. O problema aparece a seguir: qualquer pedido posterior na
-  mesma sessão volta a ser desafiado (confirmado que não é uma questão de
-  tempo de espera insuficiente), e ao fim de pouco mais de uma dezena de
-  pedidos — espalhados por várias sessões/execuções ao longo de cerca de
-  20 minutos — o Idealista respondeu com um bloqueio explícito de nível
-  superior ("O acesso está temporariamente restrito", com ID de incidente
-  e contacto de suporte). Ou seja: existe também uma proteção por volume
-  de pedidos por IP/rede, não só por pedido individual. Como o scraper de
-  produção corre a partir de runners do GitHub Actions (um intervalo de
-  IPs de datacenter — exactamente o tipo de origem que estes sistemas
-  anti-abuso visam) e precisaria de muito mais do que uma dezena de
-  pedidos por execução para cobertura nacional real, não é viável nestas
-  condições sem um serviço pago de proxies residenciais/rotativos para
-  distribuir os pedidos por muitos IPs — um investimento (financeiro,
-  recorrente) diferente de tudo o resto neste projecto, não só mais
-  engenharia.
 - **SUPERCASA** — desafio Cloudflare com JavaScript obrigatório.
 - **CustoJusto** — proíbe scraping explicitamente no próprio `robots.txt`.
 
-Para SUPERCASA e CustoJusto, ultrapassar isto exigiria pelo menos automação
-de browser completo (Playwright/Puppeteer) — um investimento de engenharia
-maior que fica para mais tarde. O Idealista já foi testado com essa
-automação e continua bloqueado por uma razão diferente (volume, não só
-JavaScript), pelo que só resta mesmo a via paga.
+Ultrapassar isto exigiria pelo menos automação de browser completo
+(Playwright/Puppeteer) — um investimento de engenharia maior que fica para
+mais tarde. O Idealista tinha exactamente este problema (DataDome, mais uma
+camada de bloqueio por volume de pedidos que nem automação de browser
+resolvia sozinha) até ser resolvido através de uma API paga de terceiros —
+ver a fonte **Idealista** mais acima.
 
 ## Roadmap / próximas ideias
 

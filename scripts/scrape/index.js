@@ -31,6 +31,11 @@ import {
   fetchListingDetail as fetchEraDetail,
   DETAIL_FETCH_DELAY_MS as ERA_DETAIL_DELAY_MS,
 } from "./sources/era.js";
+import {
+  scrapeIdealista,
+  fetchListingDetail as fetchIdealistaDetail,
+  DETAIL_FETCH_DELAY_MS as IDEALISTA_DETAIL_DELAY_MS,
+} from "./sources/idealista.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, mergeWithPrevious, mergeDetailInto, pickEnrichmentCandidates, pruneDetailCache } from "./lib/merge.js";
 
@@ -61,10 +66,20 @@ const sources = [
   { name: "century21", run: scrapeCentury21, fetchDetail: fetchCentury21Detail, detailDelayMs: CENTURY21_DETAIL_DELAY_MS },
   { name: "kwportugal", run: scrapeKWPortugal, fetchDetail: fetchKWPortugalDetail, detailDelayMs: KWPORTUGAL_DETAIL_DELAY_MS },
   { name: "era", run: scrapeEra, fetchDetail: fetchEraDetail, detailDelayMs: ERA_DETAIL_DELAY_MS },
+  {
+    name: "idealista",
+    run: scrapeIdealista,
+    fetchDetail: fetchIdealistaDetail,
+    detailDelayMs: IDEALISTA_DETAIL_DELAY_MS,
+    // Metered at 750 requests/month on the free RapidAPI tier — see
+    // worker.js's matching override for why this can't share the other
+    // sources' default budget.
+    maxDetail: 5,
+  },
 ];
 
-async function enrichListings(listings, fetchDetail, cache, delayMs) {
-  const candidates = pickEnrichmentCandidates(listings, cache, MAX_DETAIL_FETCHES_PER_RUN);
+async function enrichListings(listings, fetchDetail, cache, delayMs, maxDetail = MAX_DETAIL_FETCHES_PER_RUN) {
+  const candidates = pickEnrichmentCandidates(listings, cache, maxDetail);
 
   console.log(`[detail] ${candidates.length} novos anúncios a enriquecer nesta execução (de um total de ${listings.length})`);
 
@@ -107,7 +122,7 @@ async function main() {
   for (const source of sources) {
     if (!source.fetchDetail) continue;
     const sourceListings = mergedListings.filter((item) => item.id.startsWith(`${source.name}-`));
-    await enrichListings(sourceListings, source.fetchDetail, detailCache, source.detailDelayMs);
+    await enrichListings(sourceListings, source.fetchDetail, detailCache, source.detailDelayMs, source.maxDetail);
   }
 
   const enrichedListings = mergedListings.map((item) => mergeDetailInto(item, detailCache[item.id]));

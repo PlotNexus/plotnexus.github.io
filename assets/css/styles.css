@@ -315,6 +315,7 @@ h1, h2, h3 {
 .chip[data-source="Century 21"][aria-pressed="true"] { background: #8a6d1a; border-color: #8a6d1a; }
 .chip[data-source="KW Portugal"][aria-pressed="true"] { background: #0f7d72; border-color: #0f7d72; }
 .chip[data-source="ERA"][aria-pressed="true"] { background: #2c4a8c; border-color: #2c4a8c; }
+.chip[data-source="Idealista"][aria-pressed="true"] { background: #ff5619; border-color: #ff5619; }
 
 .toolbar-right {
   display: flex;
@@ -616,6 +617,7 @@ h1, h2, h3 {
 .source-badge[data-source="Century 21"] { background: #fbf3e0; color: #8a6d1a; }
 .source-badge[data-source="KW Portugal"] { background: #e3f2f0; color: #0f7d72; }
 .source-badge[data-source="ERA"] { background: #e8ecf7; color: #2c4a8c; }
+.source-badge[data-source="Idealista"] { background: #ffe9dd; color: #ff5619; }
 
 .card-link {
   font-size: 0.82rem;

@@ -60,6 +60,9 @@ jobs:
           # upload step run, rather than the whole job being killed with
           # its local progress never leaving the runner.
           MAX_RUNTIME_MINUTES: 165
+          # Only shard 0 ever uses this (see idealista.js's DISTRICTS_FULL
+          # comment) — harmless for the other three shards to have it too.
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
 
       - name: Upload shard result
         uses: actions/upload-artifact@v4

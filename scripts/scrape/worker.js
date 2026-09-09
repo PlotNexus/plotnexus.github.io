@@ -37,6 +37,12 @@ import {
   DISTRICTS_FULL as ERA_DISTRICTS,
   DETAIL_FETCH_DELAY_MS as ERA_DETAIL_DELAY_MS,
 } from "./sources/era.js";
+import {
+  scrapeIdealista,
+  fetchListingDetail as fetchIdealistaDetail,
+  DISTRICTS_FULL as IDEALISTA_DISTRICTS,
+  DETAIL_FETCH_DELAY_MS as IDEALISTA_DETAIL_DELAY_MS,
+} from "./sources/idealista.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, pickEnrichmentCandidates } from "./lib/merge.js";
 
@@ -111,6 +117,17 @@ const SOURCES = [
     fetchDetail: fetchEraDetail,
     detailDelayMs: ERA_DETAIL_DELAY_MS,
   },
+  {
+    name: "idealista",
+    districts: IDEALISTA_DISTRICTS,
+    scrape: scrapeIdealista,
+    fetchDetail: fetchIdealistaDetail,
+    detailDelayMs: IDEALISTA_DETAIL_DELAY_MS,
+    // Metered at 750 requests/month on the free RapidAPI tier — a tiny
+    // fraction of the other sources' default budget would burn through a
+    // month's quota in days.
+    maxDetail: 5,
+  },
 ];
 
 function myShare(list) {
@@ -155,7 +172,7 @@ async function main() {
     // Read-only snapshot of the cache as checked out at the start of the
     // run — good enough since each shard only ever touches listings from
     // its own districts, so shards can't collide on ids.
-    const candidates = pickEnrichmentCandidates(listings, existingCache, maxDetailPerShardSource);
+    const candidates = pickEnrichmentCandidates(listings, existingCache, source.maxDetail ?? maxDetailPerShardSource);
     console.log(`[shard ${shardIndex}] ${source.name}: ${candidates.length} anúncios a enriquecer`);
 
     for (const [i, item] of candidates.entries()) {
