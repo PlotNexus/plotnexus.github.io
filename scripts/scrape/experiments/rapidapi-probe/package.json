@@ -1,9 +1,0 @@
-{
-  "name": "rapidapi-probe",
-  "private": true,
-  "type": "module",
-  "description": "Throwaway probe: renders RapidAPI's search results (JS-heavy SPA) via a real browser to check whether a usable Idealista/real-estate/web-scraping API exists there with a free tier. Not part of the production scraper.",
-  "dependencies": {
-    "playwright": "^1.47.0"
-  }
-}
