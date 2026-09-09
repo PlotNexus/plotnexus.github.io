@@ -232,8 +232,9 @@ engenharia maior que fica para mais tarde.
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE): permissiva,
-simples e comum em projetos web deste tipo, permitindo uso, modificação e
-reutilização do código (frontend) com atribuição. Note que a licença cobre o
-código deste repositório; não concede quaisquer direitos sobre os dados de
-imóveis de terceiros que sejam agregados.
+Este código está disponível publicamente apenas para consulta — todos os
+direitos estão reservados (ver [LICENSE](LICENSE)). Não é concedida
+nenhuma licença para o copiar, modificar, redistribuir ou reutilizar,
+total ou parcialmente, nem para fins comerciais. Isto cobre apenas o
+código deste repositório; não concede (nem retira) quaisquer direitos
+sobre os dados de imóveis de terceiros que sejam agregados.
