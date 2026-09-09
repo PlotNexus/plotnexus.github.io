@@ -211,13 +211,37 @@ fonte. Princípios seguidos desde já:
 Algumas fontes generalistas populares usam proteção anti-bot que o método
 actual (pedidos HTTP simples, sem browser) não consegue contornar:
 
-- **Idealista** — protegido por DataDome, bloqueia mesmo o `robots.txt`.
+- **Idealista** — investigado a fundo, com testes reais, não apenas por
+  inspecção. Pedidos HTTP simples (o que todas as outras fontes usam) são
+  bloqueados por DataDome com um desafio "interstitial" já no primeiro
+  pedido, em qualquer caminho (página inicial, `robots.txt`, pesquisa).
+  Um browser real (Playwright), a correr a partir de um runner do GitHub
+  Actions — a rede onde o scraper de produção realmente corre — passa esse
+  desafio sem problema à primeira, com conteúdo real da página de
+  resultados. O problema aparece a seguir: qualquer pedido posterior na
+  mesma sessão volta a ser desafiado (confirmado que não é uma questão de
+  tempo de espera insuficiente), e ao fim de pouco mais de uma dezena de
+  pedidos — espalhados por várias sessões/execuções ao longo de cerca de
+  20 minutos — o Idealista respondeu com um bloqueio explícito de nível
+  superior ("O acesso está temporariamente restrito", com ID de incidente
+  e contacto de suporte). Ou seja: existe também uma proteção por volume
+  de pedidos por IP/rede, não só por pedido individual. Como o scraper de
+  produção corre a partir de runners do GitHub Actions (um intervalo de
+  IPs de datacenter — exactamente o tipo de origem que estes sistemas
+  anti-abuso visam) e precisaria de muito mais do que uma dezena de
+  pedidos por execução para cobertura nacional real, não é viável nestas
+  condições sem um serviço pago de proxies residenciais/rotativos para
+  distribuir os pedidos por muitos IPs — um investimento (financeiro,
+  recorrente) diferente de tudo o resto neste projecto, não só mais
+  engenharia.
 - **SUPERCASA** — desafio Cloudflare com JavaScript obrigatório.
 - **CustoJusto** — proíbe scraping explicitamente no próprio `robots.txt`.
 
-Ultrapassar isto exigiria automação de browser completo (Playwright/Puppeteer)
-e possivelmente um serviço pago de "unlocking" — um investimento de
-engenharia maior que fica para mais tarde.
+Para SUPERCASA e CustoJusto, ultrapassar isto exigiria pelo menos automação
+de browser completo (Playwright/Puppeteer) — um investimento de engenharia
+maior que fica para mais tarde. O Idealista já foi testado com essa
+automação e continua bloqueado por uma razão diferente (volume, não só
+JavaScript), pelo que só resta mesmo a via paga.
 
 ## Roadmap / próximas ideias
 
