@@ -473,6 +473,10 @@ h1, h2, h3 {
   width: 100%;
 }
 
+.advanced-filters .field-wide {
+  grid-column: span 2;
+}
+
 .results-count {
   color: var(--text-muted);
   font-size: 0.9rem;

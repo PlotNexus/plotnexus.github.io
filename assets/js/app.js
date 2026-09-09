@@ -47,16 +47,19 @@
     mapFilterRadiusValue: document.getElementById("map-filter-radius-value"),
     mapFilterClear: document.getElementById("map-filter-clear"),
     mapFilterTipo: document.getElementById("map-filter-tipo"),
+    advancedTipo: document.getElementById("advanced-tipo"),
   };
 
-  // The map panel has its own "Tipo" select for convenience (so switching
-  // between comprar/arrendar doesn't mean scrolling back up to the hero
-  // search bar while using the map) — both selects always mirror the same
-  // underlying state.tipo rather than being two independent filters.
+  // The map panel and the "Mais filtros" panel each have their own "Tipo"
+  // select for convenience (so switching between comprar/arrendar doesn't
+  // mean scrolling back up to the hero search bar) — every select always
+  // mirrors the same underlying state.tipo rather than being independent
+  // filters.
   function setTipo(value) {
     state.tipo = value;
     el.tipoSelect.value = value;
     if (el.mapFilterTipo) el.mapFilterTipo.value = value;
+    if (el.advancedTipo) el.advancedTipo.value = value;
     renderFromScratch();
   }
 
@@ -223,6 +226,12 @@
     if (el.mapFilterTipo) {
       el.mapFilterTipo.addEventListener("change", () => {
         setTipo(el.mapFilterTipo.value);
+      });
+    }
+
+    if (el.advancedTipo) {
+      el.advancedTipo.addEventListener("change", () => {
+        setTipo(el.advancedTipo.value);
       });
     }
 
