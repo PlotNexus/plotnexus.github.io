@@ -1,9 +1,13 @@
-// Throwaway diagnostic, not a scraper: checks whether a real browser,
-// running from an actual GitHub Actions runner IP, gets past Idealista's
-// DataDome interstitial, and (now that the first probe run confirmed it
-// does) gathers what a real source module would need to know: pagination
-// URL scheme, per-location vs. nationwide coverage, and whether the
-// detail page exposes geo-coordinates.
+// Throwaway diagnostic, not a scraper. Earlier runs established: (1) a
+// real browser gets past the DataDome interstitial on a session's first
+// navigation, every time; (2) every navigation after that, in the SAME
+// session, gets the interstitial again — even with a realistic ~9s
+// settle wait matching the successful first run, ruling out "just needed
+// more time" as the explanation. This run isolates the remaining
+// variable: is it specifically page.goto() to a constructed URL that's
+// the tell (no referrer, no user gesture), or does ANY second navigation
+// in a session get challenged regardless of how it happens? Tests a
+// real .click() on an in-page link instead of a second goto().
 import { chromium } from "playwright";
 import { writeFileSync, mkdirSync } from "fs";
 
@@ -17,38 +21,16 @@ function log(...args) {
   console.log(new Date().toISOString(), ...args);
 }
 
-function jitteredDelay(baseMs, jitter = 0.4) {
-  const min = baseMs * (1 - jitter);
-  const max = baseMs * (1 + jitter);
-  return Math.round(min + Math.random() * (max - min));
-}
-
-async function probeUrl(page, label, url, { delayBeforeMs = 0 } = {}) {
-  if (delayBeforeMs) await new Promise((r) => setTimeout(r, jitteredDelay(delayBeforeMs)));
-  const start = Date.now();
-  const result = { label, url };
-  try {
-    const response = await page.goto(url, { waitUntil: "domcontentloaded", timeout: 30000 });
-    result.status = response ? response.status() : null;
-    // Give the interstitial's own JS a real window to fingerprint-check
-    // and invisibly reload with a valid session cookie, same as the
-    // first probe (which waited 8s and got through) rather than the
-    // second (which waited 2.5s between five rapid navigations and got
-    // blocked on every one after the first).
-    await page.waitForTimeout(9000);
-    result.elapsedMs = Date.now() - start;
-    result.finalUrl = page.url();
-    result.title = await page.title();
-    const bodyText = await page.evaluate(() => document.body.innerText);
-    result.looksBlocked = /enable js|datadome|captcha/i.test(bodyText);
-    result.listingCardCount = await page.locator("article.item").count().catch(() => 0);
-    result.bodyTextSnippet = bodyText.slice(0, 300);
-  } catch (err) {
-    result.error = err.message;
-    result.elapsedMs = Date.now() - start;
-  }
-  log(label, JSON.stringify(result));
-  return result;
+async function describe(page, label) {
+  const bodyText = await page.evaluate(() => document.body.innerText).catch(() => "");
+  return {
+    label,
+    url: page.url(),
+    title: await page.title().catch(() => null),
+    looksBlocked: /enable js|datadome|captcha/i.test(bodyText),
+    listingCardCount: await page.locator("article.item").count().catch(() => 0),
+    bodyTextSnippet: bodyText.slice(0, 200),
+  };
 }
 
 async function main() {
@@ -63,57 +45,63 @@ async function main() {
     Object.defineProperty(navigator, "webdriver", { get: () => undefined });
   });
   const page = await context.newPage();
-
   const results = [];
 
-  // 1) Does a location-less / broader URL work (nationwide pagination
-  // instead of having to enumerate every concelho)?
-  results.push(await probeUrl(page, "nationwide-no-location", "https://www.idealista.pt/comprar-casas/"));
-  results.push(
-    await probeUrl(page, "distrito-level", "https://www.idealista.pt/comprar-casas/faro/", { delayBeforeMs: 6000 })
-  );
-  results.push(
-    await probeUrl(page, "concelho-level", "https://www.idealista.pt/comprar-casas/sintra/", { delayBeforeMs: 6000 })
-  );
-
-  // 2) Pagination scheme, second page of a known-good search.
-  results.push(
-    await probeUrl(page, "pagination-page2", "https://www.idealista.pt/comprar-casas/lisboa/pagina-2.html", {
-      delayBeforeMs: 6000,
-    })
-  );
-
-  // 3) Detail page — geo-coordinates, description, características.
-  const detailResult = await probeUrl(page, "detail-page", "https://www.idealista.pt/imovel/35081413/", {
-    delayBeforeMs: 6000,
+  // Step 1: known-good cold load.
+  const resp1 = await page.goto("https://www.idealista.pt/comprar-casas/lisboa/", {
+    waitUntil: "domcontentloaded",
+    timeout: 30000,
   });
-  results.push(detailResult);
+  await page.waitForTimeout(9000);
+  const step1 = await describe(page, "step1-cold-goto");
+  step1.status = resp1 ? resp1.status() : null;
+  results.push(step1);
+  log("step1", JSON.stringify(step1));
 
-  if (!detailResult.error) {
-    const detailExtras = await page.evaluate(() => {
-      const html = document.documentElement.outerHTML;
-      const latLngMatch = html.match(/"latitude":\s*(-?\d+\.\d+).{0,50}?"longitude":\s*(-?\d+\.\d+)/s);
-      const mapLink = document.querySelector('a[href*="google.com/maps"], a[href*="maps.google"]');
-      const scriptWithCoords = [...document.scripts]
-        .map((s) => s.textContent)
-        .find((t) => t && /latitude|"lat"/i.test(t));
-      return {
-        latLngFromRegex: latLngMatch ? [latLngMatch[1], latLngMatch[2]] : null,
-        mapLinkHref: mapLink ? mapLink.getAttribute("href") : null,
-        hasScriptWithCoords: !!scriptWithCoords,
-        scriptCoordsSnippet: scriptWithCoords ? scriptWithCoords.slice(0, 500) : null,
-        characteristicsHeadings: [...document.querySelectorAll("h2, h3")]
-          .map((h) => h.textContent.trim())
-          .filter(Boolean)
-          .slice(0, 20),
-      };
-    });
-    results.push({ label: "detail-extras", ...detailExtras });
-    await page.screenshot({ path: `${OUT_DIR}/idealista-detail.png`, fullPage: true });
-    writeFileSync(`${OUT_DIR}/idealista-detail.html`, await page.content());
+  // Step 2: real .click() on an in-page listing link (organic navigation:
+  // proper referrer, a genuine user-gesture click event) rather than a
+  // second goto() to a constructed URL.
+  let step2;
+  try {
+    const link = page.locator("a.item-link").first();
+    const href = await link.getAttribute("href");
+    await Promise.all([page.waitForNavigation({ timeout: 30000, waitUntil: "domcontentloaded" }), link.click()]);
+    await page.waitForTimeout(9000);
+    step2 = await describe(page, "step2-click-navigation");
+    step2.clickedHref = href;
+  } catch (err) {
+    step2 = { label: "step2-click-navigation", error: err.message };
   }
+  results.push(step2);
+  log("step2", JSON.stringify(step2));
+  await page.screenshot({ path: `${OUT_DIR}/step2.png`, fullPage: false }).catch(() => {});
 
-  writeFileSync(`${OUT_DIR}/probe2-results.json`, JSON.stringify(results, null, 2));
+  // Step 3: a second .click(), this time on the pagination "next page"
+  // control from the search results (only meaningful if step 2 itself
+  // landed back on a results-style page with one — otherwise skipped).
+  let step3;
+  try {
+    await page.goBack({ waitUntil: "domcontentloaded", timeout: 30000 });
+    await page.waitForTimeout(9000);
+    const nextLink = page.locator('a[href*="pagina-2"]').first();
+    const count = await nextLink.count();
+    if (count === 0) {
+      step3 = { label: "step3-click-pagination", skipped: "no pagination link found after goBack" };
+    } else {
+      await Promise.all([
+        page.waitForNavigation({ timeout: 30000, waitUntil: "domcontentloaded" }),
+        nextLink.click(),
+      ]);
+      await page.waitForTimeout(9000);
+      step3 = await describe(page, "step3-click-pagination");
+    }
+  } catch (err) {
+    step3 = { label: "step3-click-pagination", error: err.message };
+  }
+  results.push(step3);
+  log("step3", JSON.stringify(step3));
+
+  writeFileSync(`${OUT_DIR}/probe4-results.json`, JSON.stringify(results, null, 2));
   log("ALL RESULTS:", JSON.stringify(results, null, 2));
 
   await browser.close();
