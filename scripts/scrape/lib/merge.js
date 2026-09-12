@@ -11,6 +11,22 @@ import fs from "node:fs/promises";
 // data" instead of "no data".
 export const STALE_LISTING_RETENTION_DAYS = 3;
 
+// A handful of listings (mostly Imovirtual) carry 50-135 photos — no
+// gallery needs that many, and at ~270 bytes per signed image URL, a
+// single such listing costs 10-35KB. That's what pushed data/listings.json
+// past GitHub's 100MB hard limit (confirmed: several scheduled runs in a
+// row got their push rejected outright), even though the two-phase
+// summary+enrichment pattern was designed to keep growth bounded — nobody
+// anticipated one listing's photo count alone being the problem. Capping
+// here, in the one place detail actually gets attached to a listing,
+// covers every source uniformly rather than needing the same limit
+// re-added in each source file.
+export const MAX_IMAGES_PER_LISTING = 20;
+
+export function capImages(images) {
+  return images && images.length > MAX_IMAGES_PER_LISTING ? images.slice(0, MAX_IMAGES_PER_LISTING) : images;
+}
+
 export async function loadJson(filePath, fallback) {
   try {
     const raw = await fs.readFile(filePath, "utf-8");
@@ -69,13 +85,9 @@ export function mergeWithPrevious(freshListings, previousListings) {
 // scratch. This keeps a carried-over listing's full detail intact even on
 // a run where its cache entry isn't touched.
 export function mergeDetailInto(listing, detail) {
-  const images = detail?.images?.length
-    ? detail.images
-    : listing.images?.length
-      ? listing.images
-      : listing.image
-        ? [listing.image]
-        : [];
+  const images = capImages(
+    detail?.images?.length ? detail.images : listing.images?.length ? listing.images : listing.image ? [listing.image] : []
+  );
   return {
     ...listing,
     image: images[0] || listing.image || null,

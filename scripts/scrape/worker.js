@@ -44,7 +44,7 @@ import {
   DETAIL_FETCH_DELAY_MS as IDEALISTA_DETAIL_DELAY_MS,
 } from "./sources/idealista.js";
 import { sleepJittered } from "./lib/http.js";
-import { loadJson, pickEnrichmentCandidates } from "./lib/merge.js";
+import { loadJson, pickEnrichmentCandidates, capImages } from "./lib/merge.js";
 
 // One shard of the national sweep, across every registered source: each
 // source's own district/location list is split independently across the
@@ -184,7 +184,11 @@ async function main() {
       }
       try {
         const detailData = await source.fetchDetail(item.listing_url);
-        detail[item.id] = { ...detailData, fetched_at: new Date().toISOString().slice(0, 10) };
+        detail[item.id] = {
+          ...detailData,
+          images: capImages(detailData.images),
+          fetched_at: new Date().toISOString().slice(0, 10),
+        };
         console.log(`[shard ${shardIndex}] ${source.name} OK — ${item.id} (${detailData.images.length} fotos)`);
       } catch (err) {
         console.error(`[shard ${shardIndex}] ${source.name} falhou em ${item.listing_url}: ${err.message}`);

@@ -128,7 +128,12 @@ link directo para o anúncio original:
   listings-detail.json` guarda o que já foi obtido); a cobertura completa
   cresce ao longo de várias execuções agendadas em vez de tudo de uma vez.
   Um anúncio ainda não enriquecido mostra a foto e descrição resumida da
-  página de resultados como reserva.
+  página de resultados como reserva. O número de fotos guardadas por
+  anúncio é também limitado (20, em `lib/merge.js`) — uma pequena minoria
+  de anúncios (sobretudo no Imovirtual) chega a ter mais de 100 fotos, o
+  que sozinho já foi o suficiente para o ficheiro final ultrapassar outra
+  vez o limite de 100MB do GitHub e travar várias execuções seguidas,
+  mesmo com o resto do enriquecimento a crescer de forma controlada.
 - Resiliente a falhas parciais: se uma pesquisa falhar numa execução (bloqueio
   de rede pontual, por exemplo), os anúncios dessa zona não desaparecem do
   site — mantêm-se os últimos dados conhecidos durante alguns dias em vez de

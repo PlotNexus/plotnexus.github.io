@@ -37,7 +37,14 @@ import {
   DETAIL_FETCH_DELAY_MS as IDEALISTA_DETAIL_DELAY_MS,
 } from "./sources/idealista.js";
 import { sleepJittered } from "./lib/http.js";
-import { loadJson, mergeWithPrevious, mergeDetailInto, pickEnrichmentCandidates, pruneDetailCache } from "./lib/merge.js";
+import {
+  loadJson,
+  mergeWithPrevious,
+  mergeDetailInto,
+  pickEnrichmentCandidates,
+  pruneDetailCache,
+  capImages,
+} from "./lib/merge.js";
 
 // This is the simple, single-process entry point for local runs
 // (`node index.js`) — it does the full national sweep plus detail
@@ -86,7 +93,7 @@ async function enrichListings(listings, fetchDetail, cache, delayMs, maxDetail =
   for (const [i, item] of candidates.entries()) {
     try {
       const detail = await fetchDetail(item.listing_url);
-      cache[item.id] = { ...detail, fetched_at: new Date().toISOString().slice(0, 10) };
+      cache[item.id] = { ...detail, images: capImages(detail.images), fetched_at: new Date().toISOString().slice(0, 10) };
       console.log(`[detail] OK — ${item.id} (${detail.images.length} fotos)`);
     } catch (err) {
       console.error(`[detail] falhou em ${item.listing_url}: ${err.message}`);
