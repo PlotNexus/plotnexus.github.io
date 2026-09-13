@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 53.09,
   "image": "https://images.century21.pt/cccbe91e-4400-4fc0-b6a9-740f993afa09/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-19.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.662198,
     "lng": -9.044797
@@ -22,12 +22,41 @@
   "published_at": "2026-09-13",
   "last_seen_at": "2026-09-13",
   "images": [
-    "https://images.century21.pt/cccbe91e-4400-4fc0-b6a9-740f993afa09/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-19.jpg"
+    "https://images.century21.pt/cccbe91e-4400-4fc0-b6a9-740f993afa09/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-19.jpg",
+    "https://images.century21.pt/848445e3-dcb8-488d-b9f5-f37daea501b5/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-17.jpg",
+    "https://images.century21.pt/cfb5d0a5-1755-43ee-a287-ece368e2c41f/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-10.jpg",
+    "https://images.century21.pt/cc486f64-7ae0-4b78-a0a6-bab750968431/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-3.jpg",
+    "https://images.century21.pt/92baf265-264a-43ca-aab0-b04accbf5a99/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-12.jpg",
+    "https://images.century21.pt/ac72fafc-3934-4702-a10e-e36271717ec8/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-7.jpg",
+    "https://images.century21.pt/f260c48b-f39c-4e5f-80b3-1477961adbd3/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-6.jpg",
+    "https://images.century21.pt/6ee46e83-a96e-4c9e-990e-533064fb00aa/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-9.jpg",
+    "https://images.century21.pt/810fd5c2-3809-4fd2-ad0b-2b4b87ec79d3/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-8.jpg",
+    "https://images.century21.pt/4a276f5e-02fb-448c-8a34-ec1be3a24152/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-15.jpg",
+    "https://images.century21.pt/7a3dae55-cd28-4c86-ae00-b2fd6ed2c10f/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-16.jpg",
+    "https://images.century21.pt/dde4335b-9915-4806-b827-51cd5d1cda72/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-13.jpg",
+    "https://images.century21.pt/b46325f4-9ef7-490f-8daf-16e835445bfc/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-11.jpg",
+    "https://images.century21.pt/240d2e1a-ceda-4880-b5a2-51f6ca5b11da/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-1.jpg",
+    "https://images.century21.pt/42ca57c0-b8c0-4993-9e29-e31733307239/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-2.jpg",
+    "https://images.century21.pt/e1bf5b7e-cd12-4d1f-bd79-85b9fe6be40d/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-4.jpg",
+    "https://images.century21.pt/11b7de9b-e603-4d0a-bee2-36e9463029e8/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-5.jpg",
+    "https://images.century21.pt/61a6e3b6-5a0e-4b7b-953b-df2ce9480e46/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-24.jpg",
+    "https://images.century21.pt/f56ba868-fbc6-47a1-81d2-a5ac5bd485d2/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-25.jpg",
+    "https://images.century21.pt/b334b070-28d3-4bfd-93a9-6a61b763f985/WEBSITEBAIXABANHEIRARuadosAcores65-1Drto-20.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Quarto",
+      "Corredor",
+      "Eletricidade",
+      "Cozinha",
+      "Arrecadação",
+      "Água canalizada"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 53.09,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 63.35,
+  "ano_construcao": 2003,
+  "certificacao_energetica": "D"
 }
