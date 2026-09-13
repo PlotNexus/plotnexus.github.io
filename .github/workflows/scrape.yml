@@ -117,7 +117,7 @@ jobs:
           # which finalize.js already produces deterministically from the
           # shard artifacts) before retrying.
           for attempt in 1 2 3; do
-            git add data/listings.json data/listings-detail.json data/listings/
+            git add data/listings.json data/listings-detail.json data/listings/ sitemap.xml
             if git diff --cached --quiet; then
               echo "No changes to commit"
               break

@@ -168,6 +168,14 @@ link directo para o anúncio original:
   intervenção manual.
 - Dados de exemplo (`data/listings.sample.json`) servem de fallback caso
   `data/listings.json` (dados reais) ainda não exista ou esteja vazio.
+- `sitemap.xml` (`lib/sitemap.js`) é regenerado a cada execução do scraper, não
+  é um ficheiro estático — a maior parte das páginas do site (`imovel.
+  html?id=...`, uma por anúncio) só é alcançável via `fetch` do lado do
+  cliente, sem link estaticamente rastreável, por isso um sitemap desatualizado
+  perderia praticamente toda a superfície de indexação real do site. Inclui a
+  página inicial, "Sobre" e um `<url>` por anúncio atualmente ativo (os
+  removidos por expirarem saem também do sitemap na execução seguinte).
+  `robots.txt` é estático (permite todos os crawlers, aponta para o sitemap).
 
 ## Estrutura do projeto
 
@@ -176,6 +184,8 @@ link directo para o anúncio original:
 ├── index.html                   # página inicial
 ├── imovel.html                  # página de detalhe de um imóvel (?id=...)
 ├── sobre.html                   # página "Sobre"
+├── robots.txt                   # permite todos os crawlers, aponta para o sitemap
+├── sitemap.xml                  # regenerado a cada execução do scraper (ver lib/sitemap.js)
 ├── assets/
 │   ├── css/styles.css
 │   ├── js/
@@ -198,6 +208,7 @@ link directo para o anúncio original:
 │   ├── lib/
 │   │   ├── http.js               # fetch com retry/backoff (429 e falhas de rede)
 │   │   ├── merge.js              # junção com dados anteriores + seleção de detalhe
+│   │   ├── sitemap.js            # gera sitemap.xml a partir dos anúncios atuais
 │   │   ├── languageGuard.js      # corta descrições no ponto onde mudam de idioma
 │   │   └── normalize.js
 │   └── sources/

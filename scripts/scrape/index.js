@@ -49,6 +49,7 @@ import {
   writeListingFiles,
   enforceSizeBudget,
 } from "./lib/merge.js";
+import { buildSitemap } from "./lib/sitemap.js";
 
 // This is the simple, single-process entry point for local runs
 // (`node index.js`) — it does the full national sweep plus detail
@@ -61,6 +62,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, "..", "..", "data", "listings.json");
 const DETAIL_CACHE_PATH = path.join(__dirname, "..", "..", "data", "listings-detail.json");
 const LISTINGS_DIR = path.join(__dirname, "..", "..", "data", "listings");
+const SITEMAP_PATH = path.join(__dirname, "..", "..", "sitemap.xml");
 
 // Full detail (photo gallery, full description, technical data) requires a
 // second fetch per listing, on top of the search-page queries. Rather than
@@ -143,17 +145,19 @@ async function main() {
   enforceSizeBudget(detailCache, enrichedListings);
   await writeListingFiles(LISTINGS_DIR, enrichedListings, previousRawById, previousFiles);
 
+  const summaryListings = enrichedListings.map(toListingSummary);
   const payload = {
     _readme:
       "Dados recolhidos automaticamente (scripts/scrape) a partir de sites parceiros, para uso pessoal. Ver .github/workflows/scrape.yml. Cada anúncio tem o detalhe completo em data/listings/<id>.json.",
     generated_at: new Date().toISOString(),
     errors,
-    listings: enrichedListings.map(toListingSummary),
+    listings: summaryListings,
   };
 
   await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
   await fs.writeFile(OUTPUT_PATH, JSON.stringify(payload, null, 2) + "\n");
   await fs.writeFile(DETAIL_CACHE_PATH, JSON.stringify(detailCache, null, 2) + "\n");
+  await fs.writeFile(SITEMAP_PATH, buildSitemap(summaryListings));
 
   const withDetail = enrichedListings.filter((l) => l.images && l.images.length > 1).length;
   console.log(`Escritos ${enrichedListings.length} anúncios em ${OUTPUT_PATH} (${withDetail} com detalhe completo)`);
