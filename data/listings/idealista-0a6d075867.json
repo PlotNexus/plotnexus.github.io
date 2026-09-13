@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 157,
   "image": null,
-  "description": null,
+  "description": "Ruína com projeto aprovado, localizada numa aldeia de referência na zona centro, com algumas amenidades para o dia a dia e a poucos km de Oliveira do Hospital, Tábua e Coja.\n\nO projeto aprovado é para alteração e ampliação de uma habitação unifamiliar e construção de piscina. \n\nA casa divide-se em 3 pisos: \n- cave: arrumos;\n- rés-do-chão: sala comum, cozinha e wc;\n- 1. º andar: 2 suites, com 2 casas de banho privativa e varanda.\n\nÁreas propostas:\n\nÁrea do terreno: 1795.44m2\nÁrea de implantação: 78,70 m2\nÁrea de Construção: 157,40 m2\nPiscina: 32 m2\n\nOliveira do Hospital é uma cidade portuguesa no Distrito de Coimbra, região Centro e sub-região do Pinhal Interior Norte, com cerca de 5 500 habitantes, subdividido em 16 freguesias: \nAldeia das Dez, Alvoco das Várzeas, Avô, Bobadela, Ervedal e Vila Franca da Beira, Lagares da Beira, Lagos da Beira e Lajeosa, Lourosa, Meruge, Nogueira do Cravo, Oliveira do Hospital e São Paio de Gramaços, Penalva de Alva e São Sebastião da Feira, Santa Ovaia e Vila Pouca da Beira, São Gião, Seixo da Beira, Travanca de Lagos.\nAmenidades: hospital, centro de saúde, médicos, restaurantes, hotéis, bares, supermercados, biblioteca municipal.. .\nMuito perto da Serra da Estrela, esta cidade conta com Aldeias de Xisto, circuitos turísticos, gastronomia, monumentos e praias fluviais. Ideal para passeios pedestres. \n50km de Coimbra, IP3 ou IC6, 40 min de carro\n70 km das praias\n30 km da Serra da Estrela\n170 km do aeroporto do Porto (1h30)\n270 km do aeroporto de Lisboa (2h10)\n20 min do Campo de Golf - Golf Montebelo \nCategoria Energética: G \n\nref: 4100 MR.",
   "geo": {
     "lat": 40.2959903,
     "lng": -7.8671983
@@ -22,10 +22,24 @@
   "published_at": "2026-09-13",
   "last_seen_at": "2026-09-13",
   "images": [],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 157,
-  "area_bruta_m2": null,
+  "features": {
+    "Características específicas": [
+      "Herdade",
+      "3 andares",
+      "157 m² construídos, 80 m² úteis",
+      "T2",
+      "3 casas de banho",
+      "Lote de 1.795 m²",
+      "Segunda mão/bom estado"
+    ],
+    "Preço": [
+      "Preço do imóvel: 98.500 €",
+      "Preço por m²: 627 €/m²"
+    ]
+  },
+  "estado": "Bom estado",
+  "area_util_m2": 80,
+  "area_bruta_m2": 157,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "G"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 0,
   "area_m2": 600,
   "image": null,
-  "description": null,
+  "description": "A 'Quinta do Rio Cal' com uma área aproximada de 40.000 m2, com duas casas, já em ruínas frente ao Rio Alva, fica localizada nas proximidades de Avô, na região da Beira Alta, pertencente ao concelho de Oliveira do Hospital.\n\nImporta referir, que esta propriedade tem acesso por estrada alcatroada, e tem uma frente de rio, superior a 250 metros. O percurso pelo interior da quinta recheada de árvores frondosas, embora por acessos em terra batida transitáveis, contempla vistas sobre o Rio e as suas águas cristalinas, completamente indiscritíveis. \n\nAs casas da quinta são perfeitamente recuperáveis, podendo assim serem devidamente reabilitadas e ficarem habitáveis. A propriedade oferece-nos o seu encanto, a sua tranquilidade e também muita privacidade. A eletricidade encontra-se junto da propriedade. Esta zona com forte presença estrangeira e vincadamente muito apostada no Turismo, confere-nos igualmente uma excelente gastronomia. Fica a menos de 1 hora da Serra da Estrela, a 1 hora de Coimbra e a 1,30 h das praias da Figueira da Foz. (N/ Refrª. 662-3). \nCategoria Energética: Isento \n\nref: 662-3.",
   "geo": {
     "lat": 40.3623331,
     "lng": -7.8611655
@@ -22,10 +22,23 @@
   "published_at": "2026-09-13",
   "last_seen_at": "2026-09-13",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características específicas": [
+      "Quinta",
+      "600 m² construídos",
+      "T0",
+      "Sem casa de banho",
+      "Lote de 40.000 m²",
+      "Segunda mão/para recuperar"
+    ],
+    "Preço": [
+      "Preço do imóvel: 130.000 €",
+      "Preço por m²: 217 €/m²"
+    ]
+  },
+  "estado": "Para remodelar",
   "area_util_m2": 600,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 600,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "EXEMPT"
 }

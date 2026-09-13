@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 106,
   "image": "https://images.century21.pt/b0133430-dfae-41ae-8c2a-3421c676aed1/MVIMG20260722112312.jpg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 37.1497732552678,
     "lng": -8.65512377911634
@@ -22,12 +22,35 @@
   "published_at": "2026-09-13",
   "last_seen_at": "2026-09-13",
   "images": [
-    "https://images.century21.pt/b0133430-dfae-41ae-8c2a-3421c676aed1/MVIMG20260722112312.jpg"
+    "https://images.century21.pt/b0133430-dfae-41ae-8c2a-3421c676aed1/MVIMG20260722112312.jpg",
+    "https://images.century21.pt/dde2f1e9-217c-4b92-8536-1116c0808fd8/SAM6872.JPG",
+    "https://images.century21.pt/12357a27-1d6b-40a9-9f73-d47923c378d3/MVIMG20260722111757.jpg",
+    "https://images.century21.pt/cc29cabd-a6af-4d43-8f28-9c0eb0d03a8d/FotoscameraEditada.png",
+    "https://images.century21.pt/fb342c7f-47bc-4831-899b-6a3563c605b2/MVIMG20260722112347.jpg",
+    "https://images.century21.pt/d4c476a6-8574-4e09-b197-4c97ef3bc23f/MVIMG20260722112242.jpg",
+    "https://images.century21.pt/cc948b13-b134-447e-b141-95c48856a006/MVIMG20260722112336.jpg",
+    "https://images.century21.pt/f5937c63-c2ab-4efa-9356-94ef23f80482/MVIMG20260722112328.jpg",
+    "https://images.century21.pt/11934199-7e51-425b-b79b-b58a795af629/MVIMG20260722112512.jpg",
+    "https://images.century21.pt/48c119b2-3117-4ddd-8403-368ead7b0382/MVIMG20260722112854.jpg",
+    "https://images.century21.pt/afa4e873-2f2d-4abb-a571-21a261133507/Designsemnome.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Localização central",
+      "Vista cidade",
+      "Perto de um banco",
+      "Perto de uma zona comercial",
+      "Perto de uma autoestrada",
+      "Perto de um mercado",
+      "Perto de uma farmácia",
+      "Perto de restaurantes",
+      "Estacionamento",
+      "Acesso por estrada"
+    ]
+  },
   "estado": null,
   "area_util_m2": 106,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 121,
+  "ano_construcao": 1951,
+  "certificacao_energetica": "EXEMPT"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 71,
   "image": "https://images.century21.pt/d3342aaa-4cf1-426b-a36c-5e6f6e29ddef/103.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.7510105,
     "lng": -8.9327051
@@ -22,12 +22,37 @@
   "published_at": "2026-09-13",
   "last_seen_at": "2026-09-13",
   "images": [
-    "https://images.century21.pt/d3342aaa-4cf1-426b-a36c-5e6f6e29ddef/103.jpg"
+    "https://images.century21.pt/d3342aaa-4cf1-426b-a36c-5e6f6e29ddef/103.jpg",
+    "https://images.century21.pt/f321b4c8-a597-4d03-be9f-aa56b3fcd3fa/107.jpg",
+    "https://images.century21.pt/b566decb-f726-46b0-9fd5-0c2929782bf4/109.jpg",
+    "https://images.century21.pt/e83900fe-876f-4afe-8e48-29799ba675d2/112.jpg",
+    "https://images.century21.pt/5300d8ec-e01f-4c09-8f93-97eee69cb042/115.jpg",
+    "https://images.century21.pt/d69da25f-b803-4988-a328-626fc1fbbe5e/111.jpg",
+    "https://images.century21.pt/7cc4e52e-0177-4e57-87c3-d149dd39fc51/100.jpg",
+    "https://images.century21.pt/c1aa06c5-8bcf-4d99-ab99-4f698e30dbd2/101.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Varanda",
+      "Casa de banho",
+      "Quarto",
+      "Hall de quartos",
+      "Localização central",
+      "Sem cadeia de venda",
+      "Corredor",
+      "Hall de entrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Cozinha",
+      "Sala de estar",
+      "Despensa",
+      "Zona tranquila"
+    ]
+  },
   "estado": null,
   "area_util_m2": 71,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 95,
+  "ano_construcao": 1992,
+  "certificacao_energetica": "F"
 }

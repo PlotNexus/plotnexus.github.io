@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 315,
   "image": null,
-  "description": null,
+  "description": "Moradia T4, pronta para habitar, localizada na tranquila aldeia de Santa Ovaia. Composta por 3 pisos, esta casa oferece uma entrada independente no r/c, onde se encontra uma cozinha, sala de estar/jantar e um quarto com casa de banho privativa. Além disso, conta com uma loja de arrumos com lagar, também com entrada independente, perfeita para quem procura um espaço extra habitacional. 1º piso: Cozinha com lareira perfeita para aquecer os dias mais frios, sala comum com varanda, 3 quartos e casa de banho. Sótão: Amplo que oferece mais espaço para arrumos, garantindo que cada canto da casa seja aproveitado ao máximo. O exterior é um verdadeiro convite à descontração. Um anexo com cozinha, grelhador e forno é perfeito para receber amigos e familiares em dias ensolarados. O jardim, com algumas árvores de fruta, proporciona um ambiente relaxante e natural com vistas deslumbrantes sobre a Serra da Estrela. Propriedade com ligação à água da rede, eletricidade e telefone.",
   "geo": {
     "lat": 40.3138486,
     "lng": -7.887583
@@ -22,10 +22,26 @@
   "published_at": "2026-09-13",
   "last_seen_at": "2026-09-13",
   "images": [],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 315,
-  "area_bruta_m2": null,
+  "features": {
+    "Características específicas": [
+      "Moradia independente",
+      "3 andares",
+      "315 m² construídos, 105 m² úteis",
+      "T4",
+      "2 casas de banho",
+      "Lote de 301 m²",
+      "Varanda",
+      "Segunda mão/bom estado",
+      "Arrecadação"
+    ],
+    "Preço": [
+      "Preço do imóvel: 185.000 €",
+      "Preço por m²: 587 €/m²"
+    ]
+  },
+  "estado": "Bom estado",
+  "area_util_m2": 105,
+  "area_bruta_m2": 315,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }
