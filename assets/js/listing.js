@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const { escapeHtml, currency, houseIcon, loadListings, findListingById } = window.PN;
+  const { escapeHtml, currency, houseIcon, findListingById } = window.PN;
 
   const el = {
     loading: document.getElementById("listing-loading"),
@@ -388,12 +388,41 @@
     el.detail.hidden = false;
   }
 
+  // Full detail lives in its own data/listings/<id>.json (see
+  // finalize.js) instead of the ~40,000-listing data/listings.json the
+  // homepage uses — fetching just the one file this page actually needs
+  // instead of the whole catalogue is what makes it load in well under a
+  // second instead of the 14+ it used to take.
+  async function fetchListingById(id) {
+    try {
+      const res = await fetch(`data/listings/${encodeURIComponent(id)}.json`);
+      if (res.ok) return await res.json();
+    } catch {
+      // network error — fall through to the sample-data fallback below
+    }
+
+    // Reached only when the real per-listing file is missing: either a
+    // listing that's genuinely expired (won't be in the sample data
+    // either, so this still correctly ends in "not found"), or local/demo
+    // use with no real scraped data yet — the sample file is tiny, unlike
+    // the real dataset, so loading it whole here is fine.
+    try {
+      const res = await fetch("data/listings.sample.json");
+      if (res.ok) {
+        const data = await res.json();
+        return findListingById(data.listings || [], id);
+      }
+    } catch {
+      // ignore — falls through to null below
+    }
+    return null;
+  }
+
   async function init() {
     const params = new URLSearchParams(window.location.search);
     const id = params.get("id");
 
-    const { listings } = await loadListings();
-    const item = id ? findListingById(listings, id) : null;
+    const item = id ? await fetchListingById(id) : null;
 
     if (!item) {
       el.loading.hidden = true;

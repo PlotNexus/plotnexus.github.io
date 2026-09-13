@@ -133,7 +133,22 @@ link directo para o anúncio original:
   de anúncios (sobretudo no Imovirtual) chega a ter mais de 100 fotos, o
   que sozinho já foi o suficiente para o ficheiro final ultrapassar outra
   vez o limite de 100MB do GitHub e travar várias execuções seguidas,
-  mesmo com o resto do enriquecimento a crescer de forma controlada.
+  mesmo com o resto do enriquecimento a crescer de forma controlada. Como
+  rede de segurança adicional (`enforceSizeBudget`, em `lib/merge.js`), o
+  tamanho real do ficheiro em disco é verificado no final de cada execução
+  e, no caso (improvável) de mesmo assim ultrapassar um limite seguro, o
+  número de fotos por anúncio é reduzido progressivamente (10 → 5 → 2 → 0)
+  até voltar a ficar dentro do limite — em vez de a execução simplesmente
+  falhar ao tentar publicar um ficheiro demasiado grande.
+- `data/listings.json` só guarda os campos que a grelha inicial e os
+  filtros realmente usam (título, preço, localização, tipologia, foto de
+  capa, coordenadas, ...); o detalhe completo de cada anúncio (todas as
+  fotos, descrição integral, características, dados técnicos) vive no seu
+  próprio ficheiro `data/listings/<id>.json`, pedido apenas pela página do
+  anúncio correspondente. Isto separou-se depois de confirmar (medição
+  directa) que descarregar o ficheiro único anterior — mais de 41 mil
+  anúncios, 80MB+ — chegava a demorar 14-16 segundos só para a primeira
+  página começar a aparecer, mesmo antes de se ver um único cartão.
 - Resiliente a falhas parciais: se uma pesquisa falhar numa execução (bloqueio
   de rede pontual, por exemplo), os anúncios dessa zona não desaparecem do
   site — mantêm-se os últimos dados conhecidos durante alguns dias em vez de
@@ -172,8 +187,9 @@ link directo para o anúncio original:
 │   └── img/
 ├── docs/screenshots/              # capturas de ecrã usadas neste README
 ├── data/
-│   ├── listings.json            # dados reais (gerados pelo scraper)
-│   ├── listings-detail.json     # cache do detalhe já enriquecido por anúncio
+│   ├── listings.json            # resumo leve de todos os anúncios (gerados pelo scraper)
+│   ├── listings/<id>.json       # detalhe completo de cada anúncio, um ficheiro por id
+│   ├── listings-detail.json     # cache interna do detalhe já enriquecido por anúncio
 │   └── listings.sample.json     # dados de exemplo (fallback)
 ├── scripts/scrape/               # scraper Node.js
 │   ├── index.js                  # ponto de entrada para correr tudo localmente, sequencial
@@ -226,9 +242,9 @@ sem ela, essa fonte é simplesmente ignorada em vez de falhar a execução.
 No GitHub Actions, o mesmo trabalho corre dividido: `worker.js` trata de um
 subconjunto de distritos (`SHARD_INDEX`/`SHARD_COUNT`) e escreve o seu próprio
 ficheiro parcial; `finalize.js` junta os ficheiros de todos os shards com os
-dados anteriores e escreve `data/listings.json` e `data/listings-detail.json`
-— só este último passo faz commit, por isso os shards nunca competem entre
-si para fazer push.
+dados anteriores e escreve `data/listings.json`, `data/listings/<id>.json`
+e `data/listings-detail.json` — só este último passo faz commit, por isso
+os shards nunca competem entre si para fazer push.
 
 ## Nota sobre a recolha de dados de terceiros
 

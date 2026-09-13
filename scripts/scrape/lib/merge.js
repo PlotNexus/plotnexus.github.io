@@ -125,3 +125,139 @@ export function pruneDetailCache(cache, currentListings) {
     if (!currentIds.has(id)) delete cache[id];
   }
 }
+
+// Everything the homepage grid, filters, sort and map-radius search
+// actually read from a listing (see assets/js/app.js/mapFilter.js) — full
+// detail (description, features, technical data, every photo) lives in
+// its own data/listings/<id>.json instead (see loadPreviousListings /
+// writeListingFiles below), fetched only by the one listing that needs
+// it. Splitting this out is what took the homepage/listing pages from
+// 14+ seconds to load (measured directly) down to near-instant, since
+// neither one downloads the whole ~40,000-listing catalogue anymore.
+export function toListingSummary(listing) {
+  return {
+    id: listing.id,
+    title: listing.title,
+    type: listing.type,
+    price: listing.price,
+    currency: listing.currency,
+    location: listing.location,
+    bedrooms: listing.bedrooms,
+    bathrooms: listing.bathrooms,
+    area_m2: listing.area_m2,
+    image: listing.image,
+    geo: listing.geo,
+    source: listing.source,
+    published_at: listing.published_at,
+  };
+}
+
+// Reads back every previously-written per-listing file, both as parsed
+// objects (the merge base for mergeWithPrevious — this replaces reading
+// full listings back out of data/listings.json, now that it only holds
+// summaries) and as raw text (so writeListingFiles can skip rewriting
+// anything whose content hasn't actually changed).
+export async function loadPreviousListings(listingsDir) {
+  const files = (await fs.readdir(listingsDir).catch(() => [])).filter((f) => f.endsWith(".json"));
+  const listings = [];
+  const rawById = new Map();
+  for (const file of files) {
+    const id = file.slice(0, -".json".length);
+    try {
+      const raw = await fs.readFile(`${listingsDir}/${file}`, "utf-8");
+      rawById.set(id, raw);
+      listings.push(JSON.parse(raw));
+    } catch {
+      // Corrupt or unreadable — treat as if it didn't exist rather than
+      // failing the whole run over one bad file.
+    }
+  }
+  return { listings, rawById, files };
+}
+
+// Only actually rewrites a listing's file when its content changed — with
+// 40,000+ listings and most runs only touching a small slice of them,
+// rewriting everything unconditionally would cost real time for no
+// reason (identical content doesn't produce a git diff either way, so
+// this is purely about not doing tens of thousands of needless syscalls).
+export async function writeListingFiles(listingsDir, listings, previousRawById, previousFiles) {
+  await fs.mkdir(listingsDir, { recursive: true });
+  let written = 0;
+  let unchanged = 0;
+  const currentIds = new Set();
+
+  for (const listing of listings) {
+    currentIds.add(listing.id);
+    const text = JSON.stringify(listing, null, 2) + "\n";
+    if (previousRawById.get(listing.id) === text) {
+      unchanged++;
+      continue;
+    }
+    await fs.writeFile(`${listingsDir}/${listing.id}.json`, text);
+    written++;
+  }
+
+  let removed = 0;
+  for (const file of previousFiles) {
+    const id = file.slice(0, -".json".length);
+    if (currentIds.has(id)) continue;
+    await fs.unlink(`${listingsDir}/${file}`).catch(() => {});
+    removed++;
+  }
+
+  console.log(`[merge] data/listings/: ${written} escrito(s), ${unchanged} sem alterações, ${removed} removido(s)`);
+}
+
+// GitHub hard-rejects any pushed file over 100MB (this actually happened:
+// data/listings.json hit 100.64MB and every scheduled run failed at the
+// commit step for a day and a half, discarding that run's freshly scraped
+// data each time — retrying the exact same merge on a push rejection can
+// never fix a size problem, only a git race condition). Splitting detail
+// out per listing means data/listings.json itself is no longer at any
+// realistic risk of this — but data/listings-detail.json (the enrichment
+// cache every listing's full detail is read from) still accumulates every
+// photo/description ever fetched, so this backstop stays pointed at that.
+export const MAX_SAFE_JSON_BYTES = 90 * 1024 * 1024;
+const EMERGENCY_IMAGE_CAPS = [10, 5, 2, 0];
+
+// Must match the exact serialization used when actually writing a file
+// (JSON.stringify(..., null, 2) + "\n") — the pretty-printed, indented
+// format is ~18% bigger than a compact JSON.stringify of the same data,
+// large enough that checking the compact size instead would let a
+// payload through that's actually over budget once written to disk.
+export function byteSize(value) {
+  return Buffer.byteLength(JSON.stringify(value, null, 2) + "\n");
+}
+
+function shrinkImagesEverywhere(cap, detailCache, listings) {
+  for (const entry of Object.values(detailCache)) {
+    if (entry.images && entry.images.length > cap) entry.images = entry.images.slice(0, cap);
+  }
+  for (const listing of listings) {
+    if (listing.images && listing.images.length > cap) {
+      listing.images = listing.images.slice(0, cap);
+      listing.image = listing.images[0] || listing.image || null;
+    }
+  }
+}
+
+// Called once detail is merged in but before anything is written — only
+// ever does something on the rare run where the normal MAX_IMAGES_PER_LISTING
+// cap wasn't enough on its own.
+export function enforceSizeBudget(detailCache, listings) {
+  let detailBytes = byteSize(detailCache);
+  if (detailBytes <= MAX_SAFE_JSON_BYTES) return;
+
+  console.warn(
+    `[merge] data/listings-detail.json acima do seguro mesmo após o limite normal de fotos (${(detailBytes / 1e6).toFixed(1)}MB) — a aplicar um limite de emergência`
+  );
+  for (const cap of EMERGENCY_IMAGE_CAPS) {
+    shrinkImagesEverywhere(cap, detailCache, listings);
+    detailBytes = byteSize(detailCache);
+    console.warn(`[merge]   limite de emergência de ${cap} fotos/anúncio -> detail=${(detailBytes / 1e6).toFixed(1)}MB`);
+    if (detailBytes <= MAX_SAFE_JSON_BYTES) return;
+  }
+  console.error(
+    "[merge] mesmo sem fotos nenhumas, o cache de detalhe continua acima do limite seguro — o problema já não é fotos, é o número de anúncios em si."
+  );
+}

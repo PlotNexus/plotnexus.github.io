@@ -44,6 +44,10 @@ import {
   pickEnrichmentCandidates,
   pruneDetailCache,
   capImages,
+  toListingSummary,
+  loadPreviousListings,
+  writeListingFiles,
+  enforceSizeBudget,
 } from "./lib/merge.js";
 
 // This is the simple, single-process entry point for local runs
@@ -56,6 +60,7 @@ import {
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, "..", "..", "data", "listings.json");
 const DETAIL_CACHE_PATH = path.join(__dirname, "..", "..", "data", "listings-detail.json");
+const LISTINGS_DIR = path.join(__dirname, "..", "..", "data", "listings");
 
 // Full detail (photo gallery, full description, technical data) requires a
 // second fetch per listing, on top of the search-page queries. Rather than
@@ -120,8 +125,9 @@ async function main() {
     }
   }
 
-  const previousPayload = await loadJson(OUTPUT_PATH, null);
-  const previousListings = previousPayload?.listings || [];
+  const { listings: previousListings, rawById: previousRawById, files: previousFiles } = await loadPreviousListings(
+    LISTINGS_DIR
+  );
   const mergedListings = mergeWithPrevious(allListings, previousListings);
 
   const detailCache = await loadJson(DETAIL_CACHE_PATH, {});
@@ -134,12 +140,15 @@ async function main() {
 
   const enrichedListings = mergedListings.map((item) => mergeDetailInto(item, detailCache[item.id]));
 
+  enforceSizeBudget(detailCache, enrichedListings);
+  await writeListingFiles(LISTINGS_DIR, enrichedListings, previousRawById, previousFiles);
+
   const payload = {
     _readme:
-      "Dados recolhidos automaticamente (scripts/scrape) a partir de sites parceiros, para uso pessoal. Ver .github/workflows/scrape.yml.",
+      "Dados recolhidos automaticamente (scripts/scrape) a partir de sites parceiros, para uso pessoal. Ver .github/workflows/scrape.yml. Cada anúncio tem o detalhe completo em data/listings/<id>.json.",
     generated_at: new Date().toISOString(),
     errors,
-    listings: enrichedListings,
+    listings: enrichedListings.map(toListingSummary),
   };
 
   await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
