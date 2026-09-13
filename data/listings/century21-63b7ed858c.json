@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 57,
   "image": "https://images.century21.pt/2ba650ea-41ab-434b-b528-17a92e89f1f4/01.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.815693,
     "lng": -9.215252
@@ -22,12 +22,48 @@
   "published_at": "2026-09-13",
   "last_seen_at": "2026-09-13",
   "images": [
-    "https://images.century21.pt/2ba650ea-41ab-434b-b528-17a92e89f1f4/01.jpg"
+    "https://images.century21.pt/2ba650ea-41ab-434b-b528-17a92e89f1f4/01.jpg",
+    "https://images.century21.pt/42cf2c0c-b942-4d27-94d9-9d6b69c2091d/08.jpg",
+    "https://images.century21.pt/65855915-4a1b-4a99-a885-ccefdcf434bc/12.jpg",
+    "https://images.century21.pt/1e06df25-bcd2-440c-a911-4b7b6bd97aca/10.jpg",
+    "https://images.century21.pt/1e514f5b-5bc2-4eb0-93ef-07ae0b9a7304/14.jpg",
+    "https://images.century21.pt/31968d85-ebc1-498f-bfa2-a9b78deb1921/11.jpg",
+    "https://images.century21.pt/4a630b8e-3de7-482f-8b2b-d416afa17bdc/03.jpg",
+    "https://images.century21.pt/91ddfa25-8dc0-46bf-a2b3-9a5dd376dd88/04.jpg",
+    "https://images.century21.pt/94638804-6f66-47bc-8c05-17a0551b0deb/02.jpg",
+    "https://images.century21.pt/d5029244-bcee-4b57-acf2-472a017150fa/09.jpg",
+    "https://images.century21.pt/beecee8f-4c53-46a6-8df2-100b2b23916e/13.jpg",
+    "https://images.century21.pt/82d50b34-9500-40a8-a5db-5d71d40117dc/06.jpg",
+    "https://images.century21.pt/9369b22b-753c-43da-bc55-d144b05db94a/15.jpg",
+    "https://images.century21.pt/08ff689d-9858-45c0-a062-b625703f5735/07.jpg",
+    "https://images.century21.pt/1a6da878-a49b-4c69-b054-884c15be18a0/05.jpg",
+    "https://images.century21.pt/0ff6912e-d591-4123-9953-756d294d8b80/16.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Sótão",
+      "Churrasqueira",
+      "Casa de banho",
+      "Quarto",
+      "Hall de quartos",
+      "Corredor",
+      "Boa exposição solar",
+      "Boa localização",
+      "Rés-do-chão",
+      "Cozinha",
+      "Sala de estar",
+      "Marquise",
+      "Estacionamento",
+      "Pátio",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Terraço",
+      "Piso em azulejo"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 57,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 61,
+  "ano_construcao": 1955,
+  "certificacao_energetica": "F"
 }

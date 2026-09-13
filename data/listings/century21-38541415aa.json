@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 96,
   "image": "https://images.century21.pt/a40370d0-02e6-457a-8b79-22ce429f724e/253fd784-0c8f-4b43-bf88-b9b9b5437949.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.749253,
     "lng": -8.9210741
@@ -22,12 +22,43 @@
   "published_at": "2026-09-13",
   "last_seen_at": "2026-09-13",
   "images": [
-    "https://images.century21.pt/a40370d0-02e6-457a-8b79-22ce429f724e/253fd784-0c8f-4b43-bf88-b9b9b5437949.jpeg"
+    "https://images.century21.pt/a40370d0-02e6-457a-8b79-22ce429f724e/253fd784-0c8f-4b43-bf88-b9b9b5437949.jpeg",
+    "https://images.century21.pt/d2c7dd07-8e22-4b50-9614-699540bba648/03593ef0-a582-4c32-a7ef-a86336cbf92b.jpeg",
+    "https://images.century21.pt/d02037c7-a953-407f-ad6f-0dabdb3f12dc/b7f99b3c-6f1e-4c41-9f32-eaf8265cb498.jpeg",
+    "https://images.century21.pt/97592492-6ccb-46da-8009-5856bbf26558/b321ca56-68a8-4271-8579-578ad2917c37.jpeg",
+    "https://images.century21.pt/be802925-e0f5-47d7-be04-9bff221e8843/7d07848f-85be-4b5d-bf3d-6d485f1bd143.jpeg",
+    "https://images.century21.pt/2ccf3bfb-0a5b-425d-a1f1-5daf78ffffa1/9c8748c5-db01-4172-be2a-37f252a2d05c.jpeg",
+    "https://images.century21.pt/8b8ca36d-1247-4c22-87ce-fe2da0860264/2033cbd2-e342-43bf-a80b-b3f2a06584f9.jpeg",
+    "https://images.century21.pt/7377aa5a-a4a5-48bb-85fe-90c06ce59c8b/77d3b733-3e8a-4a68-8fd7-6db0c14d6057.jpeg",
+    "https://images.century21.pt/87a3519c-2d30-450a-b275-c0b51d8031f9/9d61e753-b67d-4f7e-bb62-7a7685311186.jpeg",
+    "https://images.century21.pt/d5138818-c13c-4ef1-8103-71ed7ca68b89/b8547fe5-1af0-4ac8-9301-babd647d869e.jpeg",
+    "https://images.century21.pt/326d234f-40c3-4506-af2e-bfe4cb969343/cf878eb4-88ee-4d47-bcba-b832b5c5e9e3.jpeg",
+    "https://images.century21.pt/cefb416c-5a0e-439e-8e48-054d699f881d/c7da340a-d61a-4005-9623-f61318a3cdd6.jpeg",
+    "https://images.century21.pt/dd550738-0901-4bb6-baaa-8a2aa50ce0d1/28d62512-f015-4921-a617-6f15d48b19cc.jpeg",
+    "https://images.century21.pt/b8d1456f-727b-4a10-9186-c23af2346a6a/4b89d93e-bdca-40d5-bd49-77facff5a75d.jpeg",
+    "https://images.century21.pt/efdf4309-19b5-473b-86df-c72ebc92a38a/e53c7501-f14f-415c-822a-9dacb5269a0a(1).jpeg",
+    "https://images.century21.pt/c3732c7f-c083-4eba-ab08-26b4222b9592/1c94aff3-3f5a-4a17-bbcf-ba6d64fb2fb3.jpeg",
+    "https://images.century21.pt/5b8a69f5-13e3-4ae7-b4c0-909c64791040/90b3cce8-a097-4d70-9cc3-be1d77c43a5f.jpeg",
+    "https://images.century21.pt/fbfafa3c-6e4c-41f4-972b-5e7345647c61/87b8718c-0a79-4c5a-9ed2-e89518bbd3f0.jpeg",
+    "https://images.century21.pt/1a4dc856-4080-4bce-b93d-c0faffd1573b/7746edf2-8e33-4959-abb6-efa4ff1d1913.jpeg",
+    "https://images.century21.pt/31343324-3568-4d84-a4d2-3c2e2fcff96b/9b20b78b-98f8-4932-a598-e648c700656d.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Perto de uma autoestrada",
+      "Perto de uma bomba de gasolina",
+      "Perto de comodidades",
+      "Perto de um complexo desportivo",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Perto de o centro da cidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 96,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 120.3,
+  "ano_construcao": 1992,
+  "certificacao_energetica": "D"
 }
