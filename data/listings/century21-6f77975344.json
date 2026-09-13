@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 82,
   "image": "https://images.century21.pt/e2d2c036-7c70-4ef3-bee4-798fc8b930a8/WhatsAppImage2026-07-20at11.38.40(1).jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.110702552157,
     "lng": -8.62306058337114
@@ -22,12 +22,33 @@
   "published_at": "2026-09-13",
   "last_seen_at": "2026-09-13",
   "images": [
-    "https://images.century21.pt/e2d2c036-7c70-4ef3-bee4-798fc8b930a8/WhatsAppImage2026-07-20at11.38.40(1).jpeg"
+    "https://images.century21.pt/e2d2c036-7c70-4ef3-bee4-798fc8b930a8/WhatsAppImage2026-07-20at11.38.40(1).jpeg",
+    "https://images.century21.pt/61a089a5-8fc1-4f6c-ac71-4743057195e0/WhatsAppImage2026-07-20at11.38.40(2).jpeg",
+    "https://images.century21.pt/dabeda4b-1793-46fd-9147-f0f828c855b3/WhatsAppImage2026-07-20at11.38.40(3).jpeg",
+    "https://images.century21.pt/f1d64f83-b8ff-4ea3-84ea-d270a0c6ebd3/WhatsAppImage2026-07-20at11.38.40.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Garagem",
+      "Condomínio fechado",
+      "Boa exposição solar",
+      "Boa localização",
+      "Rés-do-chão",
+      "Ginásio",
+      "Luxo",
+      "Perto de comodidades",
+      "Perto de a praia",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de uma autoestrada",
+      "Zona tranquila",
+      "Terraço"
+    ]
+  },
   "estado": null,
   "area_util_m2": 82,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 111,
+  "ano_construcao": 2028,
   "certificacao_energetica": null
 }

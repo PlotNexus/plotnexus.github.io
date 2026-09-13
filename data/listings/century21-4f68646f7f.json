@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 48.2,
   "image": "https://images.century21.pt/871d418e-eff9-4728-9fd1-1b500cdef863/Fachadav3.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.3712361,
     "lng": -8.5078718
@@ -22,12 +22,21 @@
   "published_at": "2026-09-13",
   "last_seen_at": "2026-09-13",
   "images": [
-    "https://images.century21.pt/871d418e-eff9-4728-9fd1-1b500cdef863/Fachadav3.jpg"
+    "https://images.century21.pt/871d418e-eff9-4728-9fd1-1b500cdef863/Fachadav3.jpg",
+    "https://images.century21.pt/0da20ae2-f45c-4d21-9c7e-a5cd7c136c78/SalaPiso1C11v2.jpg",
+    "https://images.century21.pt/535a5e5c-ada7-46f3-8dbf-43f2aa9c1e0c/QuartoPiso-1V3.jpg",
+    "https://images.century21.pt/51f3882c-ef90-49af-9801-f16dd33d831d/WcPiso-1.jpg",
+    "https://images.century21.pt/e3215ba2-6903-40b3-927b-91948e5a1289/VarandaPcicinaA10v3.jpg",
+    "https://images.century21.pt/e8d4aa4e-5cb5-4827-8c3a-7a498beae55a/Piso1Quartov2.jpg",
+    "https://images.century21.pt/a003827a-d444-4724-a30c-fd3b72a7f9e2/SalaPiso-1v3.jpg",
+    "https://images.century21.pt/aba620dd-b9fe-42ad-a749-c2591760f4a5/PatioPiso0v3.jpg",
+    "https://images.century21.pt/266ff5e9-7229-4b32-bf70-b15140dade8a/SalaPiso1B07V2.jpg",
+    "https://images.century21.pt/1ce6bce1-a8d7-42c7-89da-f64266c4bb0c/VarandaPiso1v4.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Novo",
   "area_util_m2": 48.2,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 50.2,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A"
 }
