@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 120,
   "image": null,
-  "description": null,
+  "description": "O apartamento é novo e está localizado perto do centro da cidade é composto por dois quartos, um escritório, cozinha equipada com placa, forno, micro ondas, frigorifico, termoacumulador, máquina de lavar louça, sala, uma casa de banho, equipado com máquina de lavar e secar roupa, ar condicionado, vidro duplo.\nClasse Energética C\nPOR APENAS 700,00€ Mês.",
   "geo": {
     "lat": 40.4041352,
     "lng": -8.1310583
@@ -19,13 +19,32 @@
     "url": "https://www.idealista.pt"
   },
   "listing_url": "https://www.idealista.pt/imovel/35286464/",
-  "published_at": "2026-09-12",
-  "last_seen_at": "2026-09-12",
+  "published_at": "2026-09-14",
+  "last_seen_at": "2026-09-14",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características específicas": [
+      "120 m² construídos",
+      "T3",
+      "1 casa de banho",
+      "Segunda mão/bom estado",
+      "Cozinha equipada e casa sem mobília"
+    ],
+    "Prédio": [
+      "Rés do chão",
+      "Sem elevador"
+    ],
+    "Equipamento": [
+      "Ar condicionado"
+    ],
+    "Preço": [
+      "Preço do imóvel: 700 €/mês",
+      "Preço por m²: 5,83 €/m²"
+    ]
+  },
+  "estado": "Bom estado",
   "area_util_m2": 120,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 120,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }
