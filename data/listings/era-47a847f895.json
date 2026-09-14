@@ -8,7 +8,7 @@
   "bedrooms": 5,
   "bathrooms": 5,
   "area_m2": 300,
-  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-t5-porto-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-v_13_1_1551407_18900796_2_1_drCK4Ft2%2bKLVaOymWovW5J7cIVKkQl%2biAdeo0C35TZbEB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-t5-porto-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-v_14_1_1551407_18900796_2_1_drCK4Ft2%2bKLVaOymWovW5J7cIVKkQl%2biAdeo0C35TZbEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 41.16393,
@@ -22,12 +22,17 @@
   "published_at": "2026-09-14",
   "last_seen_at": "2026-09-14",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-em-banda-t5-porto-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-v_13_1_1551407_18900796_2_1_drCK4Ft2%2bKLVaOymWovW5J7cIVKkQl%2biAdeo0C35TZbEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-em-banda-t5-porto-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-v_14_1_1551407_18900796_2_1_drCK4Ft2%2bKLVaOymWovW5J7cIVKkQl%2biAdeo0C35TZbEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 320"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 300,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 320,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

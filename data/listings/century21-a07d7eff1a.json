@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 196,
   "image": "https://images.century21.pt/c058307c-33ae-46f6-a10b-943abf326dcc/Sala-3.JPG",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7423136,
     "lng": -9.1416723
@@ -22,12 +22,39 @@
   "published_at": "2026-09-14",
   "last_seen_at": "2026-09-14",
   "images": [
-    "https://images.century21.pt/c058307c-33ae-46f6-a10b-943abf326dcc/Sala-3.JPG"
+    "https://images.century21.pt/c058307c-33ae-46f6-a10b-943abf326dcc/Sala-3.JPG",
+    "https://images.century21.pt/a3bf856f-6f76-482b-a4ea-1782e6c73ae5/Sala-5.JPG",
+    "https://images.century21.pt/b354dd9c-38e6-4f54-ae02-982739017f73/Sala-2.JPG",
+    "https://images.century21.pt/ca7fabc7-afdd-4e70-80e7-494ca62de6bb/Sala-7.JPG",
+    "https://images.century21.pt/a9747e93-e1bc-4174-9297-33871ef16d04/Sala-1.JPG",
+    "https://images.century21.pt/fbe6963f-f6f5-43ff-b65d-f52115222a8e/Sala-10.JPG",
+    "https://images.century21.pt/4bcda7ac-3756-4186-bbd0-fdfbb57210c2/Sala-4.JPG",
+    "https://images.century21.pt/96d808c1-2a79-455d-9adc-810e9f0ee572/Sala-8.JPG",
+    "https://images.century21.pt/89e706f6-8256-4f92-9884-716ba865f06d/Sala-6.JPG",
+    "https://images.century21.pt/7d32f529-617a-4fe7-a746-411ec1dd945b/Sala-9.JPG",
+    "https://images.century21.pt/1a9f8a77-4bba-4a0c-9f80-ca44df125511/Wc3-1.JPG",
+    "https://images.century21.pt/0388f7fa-cc3d-46d4-821b-152702d037d3/Atrio-1.JPG",
+    "https://images.century21.pt/c41e8d05-c637-4a3a-9cbe-bad94ec1337e/Cozinha-2.JPG",
+    "https://images.century21.pt/5b098342-ba82-41f2-a2ca-6e29cdff6575/Cozinha-1.JPG",
+    "https://images.century21.pt/b0ccd534-0d06-44f9-9019-575fe0d1c5d3/Cozinha-4.JPG",
+    "https://images.century21.pt/25ca1d18-2f9e-4521-9dec-6d3c71146500/Cozinha-3.JPG",
+    "https://images.century21.pt/cff18e0b-94ad-41dc-9463-3dc570cddb94/Marquise2-1.JPG",
+    "https://images.century21.pt/161ce556-a349-4bce-abbf-bb7dc6216c05/Marquise2-2.JPG",
+    "https://images.century21.pt/fbed07c8-eab9-49af-acef-8c0270ffe602/Atrioquartos-1.JPG",
+    "https://images.century21.pt/e69adf00-774f-4239-8232-7b01906a16a5/Wc2-1.JPG"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Marquise",
+      "Quarto em suite",
+      "Varandas",
+      "Garagem",
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 196,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 225,
+  "ano_construcao": 1992,
+  "certificacao_energetica": "D"
 }

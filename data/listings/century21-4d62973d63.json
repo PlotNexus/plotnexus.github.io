@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 240,
   "image": "https://images.century21.pt/746f3d32-d31c-4f26-a79c-16bbdf308710/APsetubalJA-3.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.5346003,
     "lng": -8.8723606
@@ -22,12 +22,38 @@
   "published_at": "2026-09-14",
   "last_seen_at": "2026-09-14",
   "images": [
-    "https://images.century21.pt/746f3d32-d31c-4f26-a79c-16bbdf308710/APsetubalJA-3.jpg"
+    "https://images.century21.pt/746f3d32-d31c-4f26-a79c-16bbdf308710/APsetubalJA-3.jpg",
+    "https://images.century21.pt/8de44071-3f87-4075-9f60-f872a7515a1a/APsetubalJA-7.jpg",
+    "https://images.century21.pt/95b4314b-e740-40d2-a7c4-bb7b9e0d521c/APsetubalJA-5.jpg",
+    "https://images.century21.pt/1be40d48-940a-4d88-a3fe-bf811754d05d/APsetubalJA-9.jpg",
+    "https://images.century21.pt/1c5aa794-879e-48af-9496-e6314f8d0f91/APsetubalJA-2.jpg",
+    "https://images.century21.pt/c5312054-2ab3-4452-a343-3d08b9ab2e0e/APsetubalJA-6.jpg",
+    "https://images.century21.pt/7c53d006-567c-4cbe-86e3-047b9e805f4f/APsetubalJA-1.jpg",
+    "https://images.century21.pt/b0a7ce3c-eba4-4372-b224-6f4dbf699da3/APsetubalJA-4.jpg",
+    "https://images.century21.pt/aca1a943-45de-4d6d-b899-631b80e1af96/APsetubalJA-8.jpg",
+    "https://images.century21.pt/138f4b0e-a1e6-4d77-97bc-4a9e6b6a22d1/APsetubalJA-10.jpg",
+    "https://images.century21.pt/30b6ebfb-0d3c-426a-9d08-a6ece88f204e/APsetubalJA-11.jpg",
+    "https://images.century21.pt/7664156a-ecc3-4a40-94f1-1aa7b25559a3/APsetubalJA-13.jpg",
+    "https://images.century21.pt/2a590e2a-29a2-4b13-9b9d-8fe2bb3507f9/APsetubalJA-12.jpg",
+    "https://images.century21.pt/4b1e4280-fc88-4346-92dc-ee845a430262/APsetubalJA-17.jpg",
+    "https://images.century21.pt/5113e066-f498-4b20-af8a-1e7b4ce45e18/APsetubalJA-18.jpg",
+    "https://images.century21.pt/80151e0d-477e-4188-b90b-d1f49ceceea1/APsetubalJA-26.jpg",
+    "https://images.century21.pt/1c9e66c2-b6ea-4f55-b1a0-999c028ecd52/APsetubalJA-27.jpg",
+    "https://images.century21.pt/e3de766a-ec98-4ee3-bf3d-20fbee799dd5/APsetubalJA-28.jpg",
+    "https://images.century21.pt/c31c5970-4f01-4506-8d78-00fd42cc4e37/APsetubalJA-20.jpg",
+    "https://images.century21.pt/9a00478f-628e-4222-a2c2-832d95382f7d/APsetubalJA-21.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Arrecadação",
+      "Garagem",
+      "Varandas",
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 240,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 244,
+  "ano_construcao": 2009,
+  "certificacao_energetica": "C"
 }

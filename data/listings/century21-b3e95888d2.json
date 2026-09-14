@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 108,
   "image": "https://images.century21.pt/872e8035-0ed1-406d-bc49-44cfc8f3e3b6/Century21-MonicaSantos-MassamaNorte-43.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7640589,
     "lng": -9.2783772
@@ -22,12 +22,40 @@
   "published_at": "2026-09-14",
   "last_seen_at": "2026-09-14",
   "images": [
-    "https://images.century21.pt/872e8035-0ed1-406d-bc49-44cfc8f3e3b6/Century21-MonicaSantos-MassamaNorte-43.jpg"
+    "https://images.century21.pt/872e8035-0ed1-406d-bc49-44cfc8f3e3b6/Century21-MonicaSantos-MassamaNorte-43.jpg",
+    "https://images.century21.pt/322d523d-7edd-4ffc-866e-470aae3003ec/Century21-MonicaSantos-MassamaNorte-16.jpg",
+    "https://images.century21.pt/276927fd-0883-40a4-8e3b-07473231f410/Century21-MonicaSantos-MassamaNorte-5.jpg",
+    "https://images.century21.pt/44efbaf6-fa6b-418f-b8dd-e8acd6fd0d1f/Century21-MonicaSantos-MassamaNorte-30.jpg",
+    "https://images.century21.pt/c86ebd8d-0dff-4f18-bda5-e8d1fdd537a2/Century21-MonicaSantos-MassamaNorte-22.jpg",
+    "https://images.century21.pt/5fa16c75-3c60-4b28-8926-08ce020e471c/Century21-MonicaSantos-MassamaNorte-44.jpg",
+    "https://images.century21.pt/ce0bb7e7-79a7-4ef4-bf1e-87459e17639e/Century21-MonicaSantos-MassamaNorte-25.jpg",
+    "https://images.century21.pt/ef51829c-9b91-4382-bacf-2e28dd2be3bc/Century21-MonicaSantos-MassamaNorte-18.jpg",
+    "https://images.century21.pt/6a681e0d-8cbc-4266-bd01-a3686771f4f7/Century21-MonicaSantos-MassamaNorte-40.jpg",
+    "https://images.century21.pt/6f0b256c-7684-401a-a619-26b71c08b748/Century21-MonicaSantos-MassamaNorte-32.jpg",
+    "https://images.century21.pt/0a90025b-1535-4582-8cff-0d9c34079363/Century21-MonicaSantos-MassamaNorte-31.jpg",
+    "https://images.century21.pt/72bd8920-eed8-4b68-b5e2-5cd3168e0abb/Century21-MonicaSantos-MassamaNorte-36.jpg",
+    "https://images.century21.pt/4fb17c79-5037-4251-aedc-5ed389f0b132/Century21-MonicaSantos-MassamaNorte-21.jpg",
+    "https://images.century21.pt/e56eaada-b248-4c33-baca-974a84b5eef9/Century21-MonicaSantos-MassamaNorte-34.jpg",
+    "https://images.century21.pt/1dc8ad58-7591-4629-8bf3-606d57dbed7b/Century21-MonicaSantos-MassamaNorte-41.jpg",
+    "https://images.century21.pt/2a8e55b6-8d5e-4769-bd19-f95d74b704ff/Century21-MonicaSantos-MassamaNorte-70.jpg",
+    "https://images.century21.pt/0bd826c8-a233-47cd-920a-4e4e4f4179ea/Century21-MonicaSantos-MassamaNorte-6.jpg",
+    "https://images.century21.pt/1e732b69-6539-41e8-bf8f-cbac6321f3d8/Century21-MonicaSantos-MassamaNorte-7.jpg",
+    "https://images.century21.pt/96e6df38-87ef-411e-b565-2dd56a0d7a9f/Century21-MonicaSantos-MassamaNorte-12.jpg",
+    "https://images.century21.pt/6ac5ee0d-d152-4fc6-af46-68a972d824ad/Century21-MonicaSantos-MassamaNorte-11.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Elevador",
+      "Garagem",
+      "Marquise",
+      "Arrecadação",
+      "Suite"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 108,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 134,
+  "ano_construcao": 1997,
+  "certificacao_energetica": "D"
 }
