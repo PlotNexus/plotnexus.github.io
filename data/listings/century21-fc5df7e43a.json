@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 170,
   "image": "https://images.century21.pt/17b816c6-580a-4e95-8dab-dad9c3da3566/1.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 40.4502727,
     "lng": -8.4604139
@@ -19,15 +19,32 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0544-00177",
-  "published_at": "2026-09-14",
-  "last_seen_at": "2026-09-14",
+  "published_at": "2026-09-15",
+  "last_seen_at": "2026-09-15",
   "images": [
-    "https://images.century21.pt/17b816c6-580a-4e95-8dab-dad9c3da3566/1.png"
+    "https://images.century21.pt/17b816c6-580a-4e95-8dab-dad9c3da3566/1.png",
+    "https://images.century21.pt/7b8f0c12-5650-481f-811b-0e88bb969ca6/Screenshot2.png",
+    "https://images.century21.pt/1518b4ae-ec45-4e6e-94af-3273d6a69c26/Screenshot1.png"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Cave",
+      "Casa de banho",
+      "Hall de quartos",
+      "Hall de entrada",
+      "Sótão",
+      "Acesso por estrada",
+      "Boa localização",
+      "Zona tranquila",
+      "Localização central",
+      "Tetos altos",
+      "Propriedade plena",
+      "Sem cadeia de venda"
+    ]
+  },
   "estado": null,
   "area_util_m2": 170,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 320,
+  "ano_construcao": 1938,
+  "certificacao_energetica": "EXEMPT"
 }
