@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 185,
   "image": "https://images.century21.pt/da0390e8-97a5-4fa6-bd39-f09bb79a97a7/EntradaCondominio.jpeg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 38.5179272,
     "lng": -9.0274283
@@ -22,12 +22,50 @@
   "published_at": "2026-09-15",
   "last_seen_at": "2026-09-15",
   "images": [
-    "https://images.century21.pt/da0390e8-97a5-4fa6-bd39-f09bb79a97a7/EntradaCondominio.jpeg"
+    "https://images.century21.pt/da0390e8-97a5-4fa6-bd39-f09bb79a97a7/EntradaCondominio.jpeg",
+    "https://images.century21.pt/9128bf45-4e38-44ee-a83e-4cba88f0dced/VistaPanoramica.jpeg",
+    "https://images.century21.pt/9f1d2e7a-0794-4259-8d7f-a84dee3ef7a8/Construo1.jpeg",
+    "https://images.century21.pt/de356492-f068-46f4-88bd-fc44b1b5e300/Construo3.jpeg",
+    "https://images.century21.pt/ff3c99f1-2aae-4203-a1ad-d606dfb075de/FrenteMoradia.jpeg",
+    "https://images.century21.pt/d217d31f-3dae-4ad7-a150-7205dd793909/Pescna1.jpeg",
+    "https://images.century21.pt/de71bdf5-56f4-4edf-b919-d546b5fd2196/Quartocondominio1.jpeg",
+    "https://images.century21.pt/57edaab9-f7e3-4e12-995d-0acf02c96a60/Quartocondominio2.jpeg",
+    "https://images.century21.pt/bff5be42-2607-4065-9e87-fbe0cff7ba19/Salacondominio2.jpeg",
+    "https://images.century21.pt/b15e9bb2-6a5f-4083-bb79-19d1b8c073c4/Salacondominio.jpeg",
+    "https://images.century21.pt/d20e7e65-843b-405b-abe7-5894db643384/Casadebanho.jpeg",
+    "https://images.century21.pt/c935b36d-851a-43ed-9fd1-2d378cc40330/PlantaCondominio.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Casa de banho",
+      "Arbustos",
+      "Piscina comum",
+      "Alpendre",
+      "Jardim",
+      "Condomínio fechado",
+      "Boa exposição solar",
+      "Cozinha",
+      "Luxo",
+      "Perto de a praia",
+      "Perto de um campo de golfe",
+      "Perto de espaços verdes",
+      "Perto de uma farmácia",
+      "Perto de restaurantes",
+      "Árvores centenárias",
+      "Estacionamento",
+      "Casa de banho privativa",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Suite",
+      "Casa de banho de suite",
+      "Quarto em suite",
+      "Terraço"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 185,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 210,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A+"
 }

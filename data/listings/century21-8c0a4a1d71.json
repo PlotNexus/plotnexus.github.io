@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 100.46,
   "image": "https://images.century21.pt/94af12e3-2c91-404e-b7a2-5995e1aceec8/CozinhaA2.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7828823,
     "lng": -9.3343323
@@ -22,12 +22,41 @@
   "published_at": "2026-09-15",
   "last_seen_at": "2026-09-15",
   "images": [
-    "https://images.century21.pt/94af12e3-2c91-404e-b7a2-5995e1aceec8/CozinhaA2.jpg"
+    "https://images.century21.pt/94af12e3-2c91-404e-b7a2-5995e1aceec8/CozinhaA2.jpg",
+    "https://images.century21.pt/00fc5508-9891-45c5-92ce-423e388b4469/CozinhaA1.jpg",
+    "https://images.century21.pt/3e3b9849-2084-44ee-ad99-d82eb1c956b7/HallA1.jpg",
+    "https://images.century21.pt/2e707ae1-f54f-481a-b571-918fb75f0d14/SalaA2.jpg",
+    "https://images.century21.pt/6029dde8-9dd5-4c37-a72c-757524667733/SalaA1.jpg",
+    "https://images.century21.pt/5636fd2d-23e8-4e95-84ea-e25427bcf4ee/SalaA3.jpg",
+    "https://images.century21.pt/b9fec232-0d9e-4977-8ab1-d43bf578fda8/VarandaA2.jpg",
+    "https://images.century21.pt/fa2607b3-aa61-4bd9-8084-bd579e384d5a/VarandaA1.jpg",
+    "https://images.century21.pt/8bf1cbc2-4632-4a85-aa7e-3e3f7a44bced/QuartoA1.jpg",
+    "https://images.century21.pt/0715feb1-95ce-49db-ae40-a2a924cac700/QuartoA2.jpg",
+    "https://images.century21.pt/1e3f2c22-bf97-4afd-b4a8-74566a0cac4c/QuartoB1.jpg",
+    "https://images.century21.pt/dee7d0c4-8630-4277-b723-8cd301ccebb8/QuartoB2.jpg",
+    "https://images.century21.pt/d0822b5b-b509-4a66-a5e6-509fc3535d51/QuartoC2.jpg",
+    "https://images.century21.pt/a772c46d-3b2f-468d-ba3c-aca1e8fc0f79/QuartoC1.jpg",
+    "https://images.century21.pt/6c8cc2b2-853c-43e0-8abe-c45bb8f252b4/WcA1.jpg",
+    "https://images.century21.pt/eb4dbf45-a2a7-4750-b431-3fb0b6fa0fd5/WcA2.jpg",
+    "https://images.century21.pt/ba6e070b-78bf-4932-859f-39a900781885/WcSocialA2.jpg",
+    "https://images.century21.pt/bb41e549-4119-4cca-92a5-5bdef155da1b/WcSocialA1.jpg",
+    "https://images.century21.pt/1848d84a-954c-4c5d-b9a2-a2a6bef0ef86/ExteriorHallA1.jpg",
+    "https://images.century21.pt/a81a520e-36c0-4048-b129-d8e252eb0eb3/ExteriorHallA2.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Máquina de lavar loiça",
+      "Frigorífico",
+      "Forno",
+      "Despensa",
+      "Arrecadação",
+      "Máquina de lavar roupa"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 100.46,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 110.49,
+  "ano_construcao": 1990,
+  "certificacao_energetica": "C"
 }

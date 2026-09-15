@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 87,
   "image": "https://images.century21.pt/54739884-0270-402a-8e13-6cfe37969717/Varanda2-3.JPG",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7421143,
     "lng": -9.2223503
@@ -22,12 +22,36 @@
   "published_at": "2026-09-15",
   "last_seen_at": "2026-09-15",
   "images": [
-    "https://images.century21.pt/54739884-0270-402a-8e13-6cfe37969717/Varanda2-3.JPG"
+    "https://images.century21.pt/54739884-0270-402a-8e13-6cfe37969717/Varanda2-3.JPG",
+    "https://images.century21.pt/8169db9d-5ea5-482b-99e5-fdcf16c75f11/Sala-1.JPG",
+    "https://images.century21.pt/3c31e28e-a484-48ee-b9e2-b975dad3ee77/Sala-2.JPG",
+    "https://images.century21.pt/13da177a-5cb1-48cb-ad50-2cec19e754ba/Sala-3.JPG",
+    "https://images.century21.pt/566b654a-f40c-463b-b5eb-9f9ea49447db/Atrio-1.JPG",
+    "https://images.century21.pt/b7ffd583-569b-429e-a593-723bb39c2bf6/Cozinha-1.JPG",
+    "https://images.century21.pt/74f2a832-21ac-4d6f-8fae-1680a15b91c8/Cozinha-3.JPG",
+    "https://images.century21.pt/726c2571-cc4c-4607-bd11-f0cfdf2d7f3d/Cozinha-2.JPG",
+    "https://images.century21.pt/3a7eb63d-e041-4f60-bb87-c6f4d0514866/Atrio-3.JPG",
+    "https://images.century21.pt/e1f268e1-2fea-44fe-9a44-a7aa4628dda7/Quarto1-1.JPG",
+    "https://images.century21.pt/5ac6b2a5-7023-4e51-a882-39a51919bbef/Quarto2-2.JPG",
+    "https://images.century21.pt/22d2287b-f711-411b-be27-674b50014cb9/Quarto1-2.JPG",
+    "https://images.century21.pt/52d762c3-3a1b-41d8-a618-2644790e5f9d/Quarto2-1.JPG",
+    "https://images.century21.pt/bec5123a-6f26-4b6c-8fe4-41ccf7aff214/Atriopredio-1.JPG",
+    "https://images.century21.pt/cd86f45e-5dec-4b47-a98b-19d3fb8b6ee9/Wc-1.JPG",
+    "https://images.century21.pt/85426a95-83a2-4642-981d-1e2b4cd141a5/Wc-2.JPG",
+    "https://images.century21.pt/bb74fda0-ed6a-4d65-9613-56839ec67c4a/Garagem-1.JPG",
+    "https://images.century21.pt/5b46d399-6c85-47e0-94f6-484240aa3502/Exterior-3.JPG"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Varanda",
+      "Elevador",
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 87,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 90,
+  "ano_construcao": 1989,
+  "certificacao_energetica": "C"
 }

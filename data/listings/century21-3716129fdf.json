@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 93,
   "image": "https://images.century21.pt/ff93bfab-13b1-4d0f-beff-4582c114faff/salahs.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7544271,
     "lng": -9.2023016
@@ -22,12 +22,41 @@
   "published_at": "2026-09-15",
   "last_seen_at": "2026-09-15",
   "images": [
-    "https://images.century21.pt/ff93bfab-13b1-4d0f-beff-4582c114faff/salahs.jpg"
+    "https://images.century21.pt/ff93bfab-13b1-4d0f-beff-4582c114faff/salahs.jpg",
+    "https://images.century21.pt/49ee9b49-a6db-4443-9af5-b41ac6a74cac/hs2.jpg",
+    "https://images.century21.pt/795b38bd-2862-4b29-b3fe-d24b4ea278bf/Quarto1hs2.jpg",
+    "https://images.century21.pt/192dc506-f185-4ae8-86a0-ea468dcd14c9/entrada.jpg",
+    "https://images.century21.pt/fc512a8f-dd99-406b-b958-d70ae49188b2/corredor.jpg",
+    "https://images.century21.pt/aa86762c-134d-4a71-a280-df626962fb2a/hs1.jpg",
+    "https://images.century21.pt/8c0bd9d7-e60c-47e8-bbbd-1d1893197333/hs.jpg",
+    "https://images.century21.pt/6e4d0b6c-7cff-4d5a-b070-a1fd7298532e/quarto1hs1.jpg",
+    "https://images.century21.pt/075d81cf-0dab-4df1-80ea-1c855a2424ea/varandahs.jpg",
+    "https://images.century21.pt/00040c7b-d608-4747-8164-f8655899881c/Quartohs2.jpg",
+    "https://images.century21.pt/d139600e-7562-48e6-bc5c-9edc568c507a/casadebanho1.png",
+    "https://images.century21.pt/8b8b9901-3b76-4a00-8c4f-67a973b38fff/WC.jpg",
+    "https://images.century21.pt/4e72756f-4341-47eb-a998-ac47c4609b7e/Lugar.jpg",
+    "https://images.century21.pt/7151629a-0c5d-4004-aa53-4f5b54dcec32/AcessoGaragemhs.jpg",
+    "https://images.century21.pt/55900be0-5d88-4b34-b517-bf49856357e0/Acesso.jpg",
+    "https://images.century21.pt/282c091d-1cfe-439c-b650-c33bec9cd0d1/predio.jpg",
+    "https://images.century21.pt/2c6ef594-aa03-4147-a907-1e7b219dfaa2/predio2.jpg",
+    "https://images.century21.pt/72327e76-f481-4798-9150-d9c64bd1428f/Planta.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Corredor",
+      "Elevador",
+      "Exaustor",
+      "Frigorífico",
+      "Garagem",
+      "Fogão a gás",
+      "Forno",
+      "Fogão"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 93,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 94,
+  "ano_construcao": 1994,
+  "certificacao_energetica": "C"
 }
