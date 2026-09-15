@@ -293,7 +293,6 @@ ver a fonte **Idealista** mais acima.
       `lib/dedupe.js`, correndo a cada execução do scraper.
 - [ ] Favoritos e comparação entre imóveis.
 - [ ] Alertas por email para novas pesquisas guardadas.
-- [ ] Modo escuro.
 - [ ] PWA / instalável em telemóvel.
 - [ ] Internacionalização (ex.: inglês, para expatriados a comprar em PT).
 
