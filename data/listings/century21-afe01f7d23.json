@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 95.184,
   "image": "https://images.century21.pt/f419f741-8477-4905-b717-ea06d7aa1af7/BTM04280.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6518158,
     "lng": -9.047984
@@ -22,12 +22,35 @@
   "published_at": "2026-09-15",
   "last_seen_at": "2026-09-15",
   "images": [
-    "https://images.century21.pt/f419f741-8477-4905-b717-ea06d7aa1af7/BTM04280.jpg"
+    "https://images.century21.pt/f419f741-8477-4905-b717-ea06d7aa1af7/BTM04280.jpg",
+    "https://images.century21.pt/6b63e5b9-096b-447c-8343-b950161cceb4/BTM04265.jpg",
+    "https://images.century21.pt/f8040b8a-13b5-4c32-98bf-6a9b36e1e373/BTM04275.jpg",
+    "https://images.century21.pt/32ba9aad-d80f-47a8-888a-6451a6f83903/BTM04300.jpg",
+    "https://images.century21.pt/5e0c67e0-3e1b-4927-b175-b3edf574b7f4/BTM04295.jpg",
+    "https://images.century21.pt/93518343-3dc8-405c-ab88-e0d18cd48ad2/BTM04270.jpg",
+    "https://images.century21.pt/05aa07fa-67a2-45aa-b64d-83ed931d928e/BTM04305.jpg",
+    "https://images.century21.pt/d73319a2-434b-4398-8ee4-1d4109dcdef5/BTM04325.jpg",
+    "https://images.century21.pt/f97ef603-3035-4f0a-a269-3f20acec4180/BTM04330.jpg",
+    "https://images.century21.pt/5e647bb6-d651-4304-a154-0dd6c9d6bf24/BTM04395.jpg",
+    "https://images.century21.pt/9c896e70-8ee5-415f-aab7-a9c7a183b3aa/BTM04345.jpg",
+    "https://images.century21.pt/4e6bb080-0e94-47d0-b0ae-89159ec79d69/BTM04365.jpg",
+    "https://images.century21.pt/058f907e-7fa8-4e3a-8cd3-9cdc9097fc72/BTM04360.jpg",
+    "https://images.century21.pt/d5e27c50-8189-43f7-b6d4-401cfbf25010/BTM04350.jpg",
+    "https://images.century21.pt/e2dfb71c-8deb-46db-81a1-d626fc287bc6/BTM04380.jpg",
+    "https://images.century21.pt/b4a55826-e861-4378-9406-e2c824156c5a/BTM04385.jpg",
+    "https://images.century21.pt/e29be271-dd6b-419b-a8e4-f9efe36b7a27/BTM04370.jpg",
+    "https://images.century21.pt/cb2d020d-03bd-4c60-bea8-ad0f215d6cdd/BTM04375.jpg",
+    "https://images.century21.pt/306d2962-216a-4e5a-93ea-da3c3cbeab39/BTM04335.jpg",
+    "https://images.century21.pt/a780fea6-8173-49b9-b53c-ae4dc50c4b4c/BTM04340.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 95.184,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 100.184,
+  "ano_construcao": 1999,
+  "certificacao_energetica": "C"
 }
