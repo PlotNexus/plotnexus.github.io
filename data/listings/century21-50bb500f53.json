@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 75.72,
   "image": "https://images.century21.pt/cb0d21aa-0f2a-48cd-aff9-8cd04aa447fb/foto2.heic",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 39.4154217,
     "lng": -8.6157123
@@ -22,12 +22,41 @@
   "published_at": "2026-09-16",
   "last_seen_at": "2026-09-16",
   "images": [
-    "https://images.century21.pt/cb0d21aa-0f2a-48cd-aff9-8cd04aa447fb/foto2.heic"
+    "https://images.century21.pt/cb0d21aa-0f2a-48cd-aff9-8cd04aa447fb/foto2.heic",
+    "https://images.century21.pt/2c0c382f-8e0f-40f3-b4f7-53f40d4c0b76/foto5.heic",
+    "https://images.century21.pt/8ba21f85-8075-4ce4-8629-d102ef60bbb8/Foto1.HEIC",
+    "https://images.century21.pt/1f6ca9f3-70eb-4187-a254-6efdd9f404bf/foto4.heic",
+    "https://images.century21.pt/1ec8b3be-bbfb-46d8-a7d2-a4167e984486/foto3.heic",
+    "https://images.century21.pt/2b45a999-9c0e-4b08-8474-24e86134b908/ImagemPredio.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Aquecedor",
+      "Arbustos",
+      "Boa exposição solar",
+      "Zona tranquila",
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Elevador",
+      "Estores elétricos",
+      "Exaustor",
+      "Fogão elétrico",
+      "Máquina de lavar loiça",
+      "Máquina de lavar roupa",
+      "Micro-ondas",
+      "Vídeo-porteiro",
+      "Perto de comodidades",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma estação de comboio",
+      "Perto de o centro da cidade",
+      "Vista campo",
+      "Vista rio"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 75.72,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 76,
+  "ano_construcao": 2016,
+  "certificacao_energetica": "A"
 }

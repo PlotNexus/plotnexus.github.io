@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 52.54,
   "image": "https://images.century21.pt/c5345e42-4e3d-4c01-9ab1-d238b963e82c/FachadaRuaFreixo2.jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 39.597805,
     "lng": -8.943071
@@ -22,12 +22,30 @@
   "published_at": "2026-09-16",
   "last_seen_at": "2026-09-16",
   "images": [
-    "https://images.century21.pt/c5345e42-4e3d-4c01-9ab1-d238b963e82c/FachadaRuaFreixo2.jpeg"
+    "https://images.century21.pt/c5345e42-4e3d-4c01-9ab1-d238b963e82c/FachadaRuaFreixo2.jpeg",
+    "https://images.century21.pt/d40d0d90-5576-4704-8054-6387ed6b3bdc/Sala1.jpeg",
+    "https://images.century21.pt/5d9c2d75-1eb8-4e52-b67f-dde3238a0366/Sala3.jpeg",
+    "https://images.century21.pt/c18cfd83-cb37-4b06-91b1-fefbbe43c81d/Sala2.jpeg",
+    "https://images.century21.pt/dcb3bc56-240e-4e2c-8ddd-eef1cd7ca06a/Geminiquarto2RuaFreixo2.png",
+    "https://images.century21.pt/0029e191-cee4-495f-970a-a570622a0df7/GeminiquartoRuaFreixo2.png",
+    "https://images.century21.pt/1067ccdb-2c6e-44c2-9bce-deb11560f1cc/Geminicozinha.png",
+    "https://images.century21.pt/39d82beb-b101-49dc-92d9-7c17ed6b5c0b/Cozinha1.jpeg",
+    "https://images.century21.pt/202b5bc8-0737-46b4-9c1b-79f1ad06d3ae/WcRuadoFreixo2.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Acesso por estrada",
+      "Boa localização",
+      "Zona tranquila",
+      "Alpendre",
+      "Pátio",
+      "Água canalizada",
+      "Eletricidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 52.54,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 112,
+  "ano_construcao": 1955,
+  "certificacao_energetica": "F"
 }

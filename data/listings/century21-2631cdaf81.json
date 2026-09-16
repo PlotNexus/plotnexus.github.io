@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 39.04,
   "image": "https://images.century21.pt/9aca0d31-17d8-445e-9e9a-57f67285ad00/Cozinha1.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.6581882,
     "lng": -9.161758
@@ -22,12 +22,50 @@
   "published_at": "2026-09-16",
   "last_seen_at": "2026-09-16",
   "images": [
-    "https://images.century21.pt/9aca0d31-17d8-445e-9e9a-57f67285ad00/Cozinha1.png"
+    "https://images.century21.pt/9aca0d31-17d8-445e-9e9a-57f67285ad00/Cozinha1.png",
+    "https://images.century21.pt/6770d07b-c905-46f8-905c-7bea7c822043/Sala2.png",
+    "https://images.century21.pt/05a9415f-700d-45be-af9c-4621a47377d2/Sala2.png",
+    "https://images.century21.pt/7706c7e2-6f66-4ea2-8d37-a6480728bac4/Quarto3.png",
+    "https://images.century21.pt/5bd69067-67a4-4c54-9ac1-3621697e8896/Quarto1.png",
+    "https://images.century21.pt/ae4510e6-ac75-4660-b277-f51e34133cd7/Wc.png",
+    "https://images.century21.pt/499574f0-22a5-48ad-90a1-c33176607448/Capturadeecra2026-07-09as15.42.31.png",
+    "https://images.century21.pt/5233ba97-9b3e-452b-acec-732e4e3f703d/Planta.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador",
+      "Exaustor",
+      "Rés-do-chão",
+      "Piso em mosaico",
+      "Perto de comodidades",
+      "Perto de um banco",
+      "Perto de a praia",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma igreja",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de um quartel de bombeiros",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de um infantário",
+      "Perto de um mercado",
+      "Perto de o metro",
+      "Perto de uma farmácia",
+      "Perto de a polícia",
+      "Perto de um espaço público",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Perto de um complexo desportivo",
+      "Perto de uma praça de táxis",
+      "Forno",
+      "Fogão",
+      "Máquina de lavar roupa"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 39.04,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 46,
+  "ano_construcao": 1991,
+  "certificacao_energetica": "E"
 }
