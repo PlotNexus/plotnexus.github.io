@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 88,
   "image": "https://images.century21.pt/4cd4fba6-6435-4cc5-8cfd-7292585f6294/sala2.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.8068849,
     "lng": -9.1845747
@@ -22,12 +22,35 @@
   "published_at": "2026-09-16",
   "last_seen_at": "2026-09-16",
   "images": [
-    "https://images.century21.pt/4cd4fba6-6435-4cc5-8cfd-7292585f6294/sala2.jpg"
+    "https://images.century21.pt/4cd4fba6-6435-4cc5-8cfd-7292585f6294/sala2.jpg",
+    "https://images.century21.pt/bd10a9a2-06a3-4861-a09f-6cbf96d47d67/sala1.jpg",
+    "https://images.century21.pt/efb0460e-a4b3-455d-bf43-b554c3a3dc45/sala4.jpg",
+    "https://images.century21.pt/34e4876b-3150-4443-a29b-d1418a8cca75/sala3.jpg",
+    "https://images.century21.pt/ce34ac44-5f3d-43d8-9657-a2e004fb155f/cozinha4.jpg",
+    "https://images.century21.pt/a9a817a7-bbd0-4fc9-bd9a-7450ea2378e2/cozinha2.jpg",
+    "https://images.century21.pt/9f711ce1-b04e-45e4-9794-18daeb394df6/cozinha5.jpg",
+    "https://images.century21.pt/64f908db-336b-447f-bd1e-72a303d0a8a6/cozinha1.jpg",
+    "https://images.century21.pt/e919d778-9bda-4500-bbd0-efb6b03e641d/quarto11.jpg",
+    "https://images.century21.pt/fde2651c-2bdf-41d4-b2c5-00ceb9c69975/quarto12.jpg",
+    "https://images.century21.pt/e0f0b107-49c6-403c-a2f0-cbbc0de51bbb/quarto21.jpg",
+    "https://images.century21.pt/7544d8f7-6d87-447c-b2d0-6f85797ac37f/quarto22.jpg",
+    "https://images.century21.pt/c7812915-2555-47a1-84c6-80a3baaf3dca/casadebanho.jpg",
+    "https://images.century21.pt/143d13d2-5308-40ee-910a-9f7f97922ffc/cozinhadespensa.jpg",
+    "https://images.century21.pt/869dbc33-0717-418d-83c2-350a4ef5dda4/hallentrada3.jpg",
+    "https://images.century21.pt/e2d67847-ea90-4b0a-ae93-cd9361b92a46/corredor.jpg",
+    "https://images.century21.pt/d2169307-3b89-4787-aa61-602ace89d8a4/hallentrada1.jpg",
+    "https://images.century21.pt/27e2965d-71c7-45bc-b510-c31de5f56024/varanda1.jpg",
+    "https://images.century21.pt/78906f08-8c35-45a7-97e7-6e8144c3b6e1/predioentrada2.jpg",
+    "https://images.century21.pt/e72a4bf4-07b8-4496-b012-cc73a8cae861/prediofachada3.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 88,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 97,
+  "ano_construcao": 2001,
+  "certificacao_energetica": "C"
 }

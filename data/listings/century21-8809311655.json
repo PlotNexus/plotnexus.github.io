@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 88,
   "image": "https://images.century21.pt/6a7c5adc-add1-4c6c-9bf7-20bb5c1fa644/Rua(1).jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.743744,
     "lng": -9.1960347
@@ -22,12 +22,37 @@
   "published_at": "2026-09-16",
   "last_seen_at": "2026-09-16",
   "images": [
-    "https://images.century21.pt/6a7c5adc-add1-4c6c-9bf7-20bb5c1fa644/Rua(1).jpg"
+    "https://images.century21.pt/6a7c5adc-add1-4c6c-9bf7-20bb5c1fa644/Rua(1).jpg",
+    "https://images.century21.pt/c96c9713-8715-4ab7-906d-243debfca5e8/Rua(11).jpg",
+    "https://images.century21.pt/da1007a6-c1a3-4612-89ff-f16aae8762ae/Rua(2).jpg",
+    "https://images.century21.pt/18c961e2-ba89-42aa-a20c-2a042a24bc5a/Rua(10).jpg",
+    "https://images.century21.pt/d65610ba-171e-43ef-815f-13119f222497/Rua(3).jpg",
+    "https://images.century21.pt/e0e6ec84-2850-467f-8bfb-07696e7cb12d/Rua(12).jpg",
+    "https://images.century21.pt/d2e11bbc-0116-4dee-9ae5-feb6140e2f55/Plantaparaconversaoemapartamento.jpg",
+    "https://images.century21.pt/47f51ffd-64d2-46eb-baf2-db1d6cee18dd/Plantaparaconversaoemapartamento1.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Rés-do-chão",
+      "Arrecadação",
+      "Casa de banho",
+      "Despensa",
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Acesso por estrada",
+      "Zona tranquila",
+      "Água",
+      "Eletricidade",
+      "Saneamento",
+      "Perto de uma autoestrada",
+      "Perto de comodidades",
+      "Perto de espaços verdes",
+      "Perto de uma zona comercial"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 88,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 97,
+  "ano_construcao": 1950,
+  "certificacao_energetica": "C"
 }
