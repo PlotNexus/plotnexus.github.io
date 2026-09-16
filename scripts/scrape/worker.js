@@ -116,6 +116,14 @@ const SOURCES = [
     scrape: scrapeEra,
     fetchDetail: fetchEraDetail,
     detailDelayMs: ERA_DETAIL_DELAY_MS,
+    // By far the biggest backlog (13k+ listings, lowest enrichment % of
+    // any source) — double the default budget. A public-API source would
+    // get this raised further without a second thought, but ERA's
+    // endpoint is undocumented (reverse-engineered DNN Services Framework
+    // call), so this is a deliberately modest first step rather than a
+    // jump straight to something large; worth validating on a real run
+    // before raising it again.
+    maxDetail: 40,
   },
   {
     name: "idealista",

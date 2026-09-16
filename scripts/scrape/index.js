@@ -79,7 +79,17 @@ const sources = [
   { name: "remax", run: scrapeRemax, fetchDetail: fetchRemaxDetail, detailDelayMs: REMAX_DETAIL_DELAY_MS },
   { name: "century21", run: scrapeCentury21, fetchDetail: fetchCentury21Detail, detailDelayMs: CENTURY21_DETAIL_DELAY_MS },
   { name: "kwportugal", run: scrapeKWPortugal, fetchDetail: fetchKWPortugalDetail, detailDelayMs: KWPORTUGAL_DETAIL_DELAY_MS },
-  { name: "era", run: scrapeEra, fetchDetail: fetchEraDetail, detailDelayMs: ERA_DETAIL_DELAY_MS },
+  {
+    name: "era",
+    run: scrapeEra,
+    fetchDetail: fetchEraDetail,
+    detailDelayMs: ERA_DETAIL_DELAY_MS,
+    // See worker.js's matching override — biggest backlog, lowest
+    // enrichment %, so it gets double the default budget as a first,
+    // deliberately modest step (its endpoint is undocumented, unlike the
+    // public APIs the other sources use).
+    maxDetail: 40,
+  },
   {
     name: "idealista",
     run: scrapeIdealista,
