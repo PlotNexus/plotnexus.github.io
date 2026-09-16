@@ -8,8 +8,8 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 64,
-  "image": "https://mediaredir2.era.pt/i/moradia-vila-nova-de-gaia-serzedo-e-perosinho_13_1_1579686_19207085_2_1_jC9%2fD5%2bwQCL4YS6uvilUWTETxqn7ui9RdaEIFHZjwXvEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-vila-nova-de-gaia-serzedo-e-perosinho_14_1_1579686_19207085_2_1_jC9%2fD5%2bwQCL4YS6uvilUWTETxqn7ui9RdaEIFHZjwXvEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Conjunto de 9 moradias arrendadas.\nVendido ao abrigo do simplex.",
   "geo": {
     "lat": 41.04913,
     "lng": -8.618588
@@ -22,12 +22,31 @@
   "published_at": "2026-09-16",
   "last_seen_at": "2026-09-16",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-vila-nova-de-gaia-serzedo-e-perosinho_13_1_1579686_19207085_2_1_jC9%2fD5%2bwQCL4YS6uvilUWTETxqn7ui9RdaEIFHZjwXvEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-vila-nova-de-gaia-serzedo-e-perosinho_14_1_1579686_19207085_2_1_jC9%2fD5%2bwQCL4YS6uvilUWTETxqn7ui9RdaEIFHZjwXvEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 64"
+    ],
+    "Geral": [
+      "Nº Frentes: 4",
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Exposição Solar": [
+      "Nascente, Norte, Poente, Sul"
+    ],
+    "Zona": [
+      "Centralidade: Periferia Cidade",
+      "Proximidade: Escolas"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 64,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 64,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }
