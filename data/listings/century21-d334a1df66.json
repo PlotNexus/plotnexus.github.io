@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 87.7,
   "image": "https://images.century21.pt/842ebb42-8e2a-4023-ae41-fd16ede46506/1.png",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 40.1099756,
     "lng": -8.2503984
@@ -22,12 +22,35 @@
   "published_at": "2026-09-16",
   "last_seen_at": "2026-09-16",
   "images": [
-    "https://images.century21.pt/842ebb42-8e2a-4023-ae41-fd16ede46506/1.png"
+    "https://images.century21.pt/842ebb42-8e2a-4023-ae41-fd16ede46506/1.png",
+    "https://images.century21.pt/bbccf252-1be6-4c52-8e32-ea89ae455c12/2.png",
+    "https://images.century21.pt/ec158ae3-c069-4516-8701-22b31788d649/4.png",
+    "https://images.century21.pt/5fc28584-36c8-4ca6-a14c-8b50a52e906c/5.png",
+    "https://images.century21.pt/82439296-a501-4eb9-b459-88f5751abe11/6.png",
+    "https://images.century21.pt/15d234e8-5c34-42d2-bf01-dade94f39fed/3.png",
+    "https://images.century21.pt/a5459035-11a5-4820-96d7-dd549f2f4edb/7.png",
+    "https://images.century21.pt/af64cdcd-afaf-4175-8c3b-94bfdfc6076b/8.png",
+    "https://images.century21.pt/be15071e-7b5d-4027-84b7-dacf620c0eca/9.png",
+    "https://images.century21.pt/263dd9d8-76dc-4fd1-9743-cfa7257d3d31/10.png",
+    "https://images.century21.pt/8878222c-1c45-4fd2-bef5-03264cce9f6f/11.png",
+    "https://images.century21.pt/2fd53e5a-30d2-42b3-87d3-cc2f81a9c83d/12.png",
+    "https://images.century21.pt/f7ea6e31-5f52-472b-9fa1-a046981d3f7a/13.png",
+    "https://images.century21.pt/26608c04-d6f0-43f7-92e2-19d2173335ce/14.png",
+    "https://images.century21.pt/a304bd63-c043-4fcd-8726-201a2d9b22bf/16.png",
+    "https://images.century21.pt/7c2aa205-f643-41b4-8892-46644462bc10/17.png",
+    "https://images.century21.pt/5997df1a-53d2-4a6b-9051-edade87158db/18.png",
+    "https://images.century21.pt/fe1bf8a6-2b2a-445d-bc07-ccd39bb0da41/19.png",
+    "https://images.century21.pt/455e3414-a55a-4c20-aa79-a0748c3d2049/20.png",
+    "https://images.century21.pt/9ed6678a-ca42-473d-a1cd-d0b90a730161/21.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 87.7,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 184.8,
+  "ano_construcao": 2000,
+  "certificacao_energetica": "E"
 }

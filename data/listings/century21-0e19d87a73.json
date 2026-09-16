@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 60.5,
   "image": "https://images.century21.pt/a445099a-cac3-4c0f-8605-7e8f368e99de/streetview.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.0047848,
     "lng": -8.6150377
@@ -22,12 +22,26 @@
   "published_at": "2026-09-16",
   "last_seen_at": "2026-09-16",
   "images": [
-    "https://images.century21.pt/a445099a-cac3-4c0f-8605-7e8f368e99de/streetview.png"
+    "https://images.century21.pt/a445099a-cac3-4c0f-8605-7e8f368e99de/streetview.png",
+    "https://images.century21.pt/debfd3ed-fafa-4729-8cf4-d4df41379125/imagemarea.png",
+    "https://images.century21.pt/bb1fe061-0a2a-4b79-b090-243d4ab44b78/plantaRuadoChoupalCarvalhal-Antapub.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Perto de uma autoestrada",
+      "Perto de espaços verdes",
+      "Arbustos",
+      "Árvores centenárias",
+      "Água",
+      "Eletricidade",
+      "Vala",
+      "Poço",
+      "Vista campo"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 60.5,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 96.5,
+  "ano_construcao": 1995,
   "certificacao_energetica": null
 }

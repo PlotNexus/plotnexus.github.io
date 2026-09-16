@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 97,
   "image": "https://images.century21.pt/6c9edef1-692e-454e-9efe-9cf0fbb1535d/Sala(4).jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6809406,
     "lng": -8.4648751
@@ -22,12 +22,50 @@
   "published_at": "2026-09-16",
   "last_seen_at": "2026-09-16",
   "images": [
-    "https://images.century21.pt/6c9edef1-692e-454e-9efe-9cf0fbb1535d/Sala(4).jpg"
+    "https://images.century21.pt/6c9edef1-692e-454e-9efe-9cf0fbb1535d/Sala(4).jpg",
+    "https://images.century21.pt/b36e2fdb-dc52-42f1-8cc7-0b7664873ad3/Sala(3).jpg",
+    "https://images.century21.pt/62942c36-1596-4b9b-bc03-1a16e2fcda15/Sala(1).jpg",
+    "https://images.century21.pt/3229837d-68c7-4fac-bd66-7e85ca00b949/Sala.jpg",
+    "https://images.century21.pt/e82a9eba-6fa0-49da-bf38-f8e04116dd0e/Sala(2).jpg",
+    "https://images.century21.pt/cb18dcf9-12e9-4f4a-a83a-d2042cf963ef/Sala(8).jpg",
+    "https://images.century21.pt/dfbfaf82-85e1-4f69-9418-0ce81f972259/Sala(6).jpg",
+    "https://images.century21.pt/00636796-a814-42d3-9b5e-e405af2674a8/Sala(5).jpg",
+    "https://images.century21.pt/c5e86092-736e-46fc-ae2d-e9a4f6ebf9f2/cozinha.jpg",
+    "https://images.century21.pt/032a5397-a819-4afa-9568-b88793fef463/Cozinha(3).jpg",
+    "https://images.century21.pt/d1339d2e-5ee1-48f0-b195-0aa50d50f99b/Cozinha(4).jpg",
+    "https://images.century21.pt/3047a525-28a5-47db-bec9-804f1b1eb224/Cozinha(2).jpg",
+    "https://images.century21.pt/a18fd731-8a55-441e-815f-37efd7a935fe/Hall(1).jpg",
+    "https://images.century21.pt/49817201-adc9-423b-bee2-3cb8bbb2a86d/Hall(4).jpg",
+    "https://images.century21.pt/9468a6af-aaec-474a-9ca0-22bf5980639b/Hall(2).jpg",
+    "https://images.century21.pt/0ba07c26-8281-43fd-b270-93c6c2763369/hall.jpg",
+    "https://images.century21.pt/37a52c1d-aea2-4863-8799-34efa832e472/prediointerior.jpg",
+    "https://images.century21.pt/4dfb81e2-82cd-41fd-9ec7-c755d9844ffe/Cama(1).png",
+    "https://images.century21.pt/3105bf92-61fe-4ccc-aa8c-e4f3827d1169/Cama(4).jpg",
+    "https://images.century21.pt/b5ce5fb2-17d6-405e-b394-99a1c7281b3c/Cama(1).jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Localização central",
+      "Vista campo",
+      "Boa exposição solar",
+      "Boa localização",
+      "Perto de um banco",
+      "Perto de uma zona comercial",
+      "Perto de uma bomba de gasolina",
+      "Perto de uma autoestrada",
+      "Perto de um mercado",
+      "Perto de uma farmácia",
+      "Perto de um espaço público",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Perto de um complexo desportivo",
+      "Zona tranquila",
+      "Acesso por estrada"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 97,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 97,
+  "ano_construcao": 2001,
+  "certificacao_energetica": "C"
 }
