@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 116,
   "image": "https://images.century21.pt/eabe3b93-1b67-4c60-9cca-4053e05220e4/asset-image-e30aeb4e-b115-4abd-aace-b1c4326b0d79-5.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7035545,
     "lng": -8.9668517
@@ -22,12 +22,30 @@
   "published_at": "2026-09-17",
   "last_seen_at": "2026-09-17",
   "images": [
-    "https://images.century21.pt/eabe3b93-1b67-4c60-9cca-4053e05220e4/asset-image-e30aeb4e-b115-4abd-aace-b1c4326b0d79-5.jpeg"
+    "https://images.century21.pt/eabe3b93-1b67-4c60-9cca-4053e05220e4/asset-image-e30aeb4e-b115-4abd-aace-b1c4326b0d79-5.jpeg",
+    "https://images.century21.pt/3e7dff6d-56fc-462c-873a-ff1397f20fc7/asset-image-e30aeb4e-b115-4abd-aace-b1c4326b0d79-1.jpeg",
+    "https://images.century21.pt/c4e56fd6-efcf-4419-82c1-fd5375297c85/asset-image-e30aeb4e-b115-4abd-aace-b1c4326b0d79-3.jpeg",
+    "https://images.century21.pt/a71c5e67-17a0-4570-a095-ecfb2f1c5386/asset-image-e30aeb4e-b115-4abd-aace-b1c4326b0d79-7.jpeg",
+    "https://images.century21.pt/d5594a7a-246d-48aa-be58-0bb6eb8f21e5/asset-image-e30aeb4e-b115-4abd-aace-b1c4326b0d79-2.jpeg",
+    "https://images.century21.pt/a1f3a104-a453-4d36-b936-8e1ef2a4f9d1/asset-image-e30aeb4e-b115-4abd-aace-b1c4326b0d79-6.jpeg",
+    "https://images.century21.pt/9999d76d-21fa-4bb2-b2a7-507f34707211/asset-image-e30aeb4e-b115-4abd-aace-b1c4326b0d79-4.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Open space",
+      "Casa de banho",
+      "Casa de banho de suite",
+      "Varanda",
+      "Aquecedor",
+      "Ar condicionado",
+      "Caixilharia",
+      "Eletrodomésticos",
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 116,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 117,
+  "ano_construcao": 2028,
+  "certificacao_energetica": "A+"
 }

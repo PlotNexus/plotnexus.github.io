@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 49,
   "image": "https://images.century21.pt/0daa07e8-2a08-40da-aec6-1d69e0a66161/Fachadaprdio.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7035545,
     "lng": -8.9668517
@@ -22,12 +22,23 @@
   "published_at": "2026-09-17",
   "last_seen_at": "2026-09-17",
   "images": [
-    "https://images.century21.pt/0daa07e8-2a08-40da-aec6-1d69e0a66161/Fachadaprdio.jpeg"
+    "https://images.century21.pt/0daa07e8-2a08-40da-aec6-1d69e0a66161/Fachadaprdio.jpeg",
+    "https://images.century21.pt/666991d5-0e38-499d-94e1-4b7362c5d456/fachada4.jpeg",
+    "https://images.century21.pt/102f1ed6-afe5-49b2-9fcc-61a8d20ec687/fachada3.jpeg",
+    "https://images.century21.pt/953254ec-a983-4948-b5c0-97e2750bf3dd/Fachadaprdio2.jpeg",
+    "https://images.century21.pt/dfc3e432-cdbe-441a-94d5-7ac1af3fb604/Fachadaportagaragem.jpeg",
+    "https://images.century21.pt/f4a99507-7021-4a3d-ac49-0226103e8a75/fachadatraseirascomestacionamento.jpeg",
+    "https://images.century21.pt/e9d30f33-3042-45a0-bac3-6ca7a52b2f4d/Acessoprdio.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Open space",
+      "Varanda"
+    ]
+  },
   "estado": null,
   "area_util_m2": 49,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 50,
+  "ano_construcao": 2028,
+  "certificacao_energetica": "A+"
 }

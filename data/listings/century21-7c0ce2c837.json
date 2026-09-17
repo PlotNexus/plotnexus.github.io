@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 199,
   "image": "https://images.century21.pt/a7618302-ed23-4e96-8cc6-ba9f48514ed1/Fachadaprdio.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7035545,
     "lng": -8.9668517
@@ -22,12 +22,36 @@
   "published_at": "2026-09-17",
   "last_seen_at": "2026-09-17",
   "images": [
-    "https://images.century21.pt/a7618302-ed23-4e96-8cc6-ba9f48514ed1/Fachadaprdio.jpeg"
+    "https://images.century21.pt/a7618302-ed23-4e96-8cc6-ba9f48514ed1/Fachadaprdio.jpeg",
+    "https://images.century21.pt/a9a3fbe4-173a-4b1b-b410-40946e0e8cc5/fachada3.jpeg",
+    "https://images.century21.pt/4eb1e6a3-4fc7-44b4-a0f6-d2ac9a9a81b3/Fachadaprdio2.jpeg",
+    "https://images.century21.pt/5a532c9d-5935-4e16-acad-2ff408fc0728/fachada4.jpeg",
+    "https://images.century21.pt/b47d70ec-587e-41e4-b907-7bcd0ee97e9a/Fachadaportagaragem2.jpeg",
+    "https://images.century21.pt/0fc84783-056e-46ea-8fc5-7a5c2b0fc639/Acessoprdio.jpeg",
+    "https://images.century21.pt/5ada45a3-9696-47dd-bcad-ad29e3671209/fachadatraseirascomestacionamento.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Elevador",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Estacionamento",
+      "Piso em mosaico",
+      "Piso flutuante",
+      "Iluminação embutida",
+      "Janelas duplas",
+      "Máquina de lavar loiça",
+      "Máquina de lavar roupa",
+      "Teto falso",
+      "Vídeo-porteiro"
+    ]
+  },
   "estado": null,
   "area_util_m2": 199,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 200,
+  "ano_construcao": 2028,
+  "certificacao_energetica": "A+"
 }

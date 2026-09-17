@@ -8,8 +8,8 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 137,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t3-gondomar-scosme_13_1_1579172_19200313_2_1_fyyGFbOJcUe3r88Cw7jAjjpn6W4sI5gXJIjfYBecbLbEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t3-gondomar-scosme_14_1_1579172_19200313_2_1_fyyGFbOJcUe3r88Cw7jAjjpn6W4sI5gXJIjfYBecbLbEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Apartamento novo, com 137 m², 3 quartos, situado no 4.º andar, em Gondomar. Pronto a habitar, com bons acessos ao Porto.",
   "geo": {
     "lat": 41.126976013183594,
     "lng": -8.542181015014648
@@ -22,12 +22,17 @@
   "published_at": "2026-09-17",
   "last_seen_at": "2026-09-17",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t3-gondomar-scosme_13_1_1579172_19200313_2_1_fyyGFbOJcUe3r88Cw7jAjjpn6W4sI5gXJIjfYBecbLbEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t3-gondomar-scosme_14_1_1579172_19200313_2_1_fyyGFbOJcUe3r88Cw7jAjjpn6W4sI5gXJIjfYBecbLbEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Novo",
+      "Área Bruta: 137"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 137,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 137,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

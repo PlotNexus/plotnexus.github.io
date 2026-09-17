@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 116,
   "image": "https://images.century21.pt/2367dcdc-f5f5-450d-a080-803a47d7f8be/Fachadaprdio.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7035545,
     "lng": -8.9668517
@@ -22,12 +22,30 @@
   "published_at": "2026-09-17",
   "last_seen_at": "2026-09-17",
   "images": [
-    "https://images.century21.pt/2367dcdc-f5f5-450d-a080-803a47d7f8be/Fachadaprdio.jpeg"
+    "https://images.century21.pt/2367dcdc-f5f5-450d-a080-803a47d7f8be/Fachadaprdio.jpeg",
+    "https://images.century21.pt/8c7e4acd-51a4-4dda-a37b-adcc2b70e966/Fachadaprdio2.jpeg",
+    "https://images.century21.pt/7f197e2a-3d57-4fda-8c8a-bcf5d23948ac/fachada3.jpeg",
+    "https://images.century21.pt/51f72e85-8cec-4d9e-ae66-f1cb762d2478/fachada4.jpeg",
+    "https://images.century21.pt/a57ae398-bfbb-4765-ad44-deea2c71fd88/Fachadaportagaragem2.jpeg",
+    "https://images.century21.pt/8ba980d7-8c3e-4226-be26-5cc765f8a199/Acessoprdio.jpeg",
+    "https://images.century21.pt/e184f3e8-246e-4191-94a2-2a76079dc0b0/fachadatraseirascomestacionamento.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Casa de banho de suite",
+      "Open space",
+      "Varanda",
+      "Aquecedor",
+      "Ar condicionado",
+      "Caixilharia",
+      "Eletrodomésticos",
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 116,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 117,
+  "ano_construcao": 2028,
+  "certificacao_energetica": "A+"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 82,
   "image": "https://images.century21.pt/964c0ca0-ecbb-42fd-9eee-2086c9978a9b/sala1.png",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 38.854537,
     "lng": -9.07375
@@ -22,12 +22,37 @@
   "published_at": "2026-09-17",
   "last_seen_at": "2026-09-17",
   "images": [
-    "https://images.century21.pt/964c0ca0-ecbb-42fd-9eee-2086c9978a9b/sala1.png"
+    "https://images.century21.pt/964c0ca0-ecbb-42fd-9eee-2086c9978a9b/sala1.png",
+    "https://images.century21.pt/4190f1e7-81c7-46b7-9dc9-2e7c9773d50e/sala.png",
+    "https://images.century21.pt/d1146640-57ec-460b-9f91-6ead929d811e/corredor.png",
+    "https://images.century21.pt/850817e7-d84a-4878-8f80-5c23733365e9/cozinha.png",
+    "https://images.century21.pt/5b091e9d-14b6-4c68-9de7-86de104c84b8/quarto1.jpeg",
+    "https://images.century21.pt/2bfc2260-4f8a-4445-8291-372d2ca4427c/quarto1..jpeg",
+    "https://images.century21.pt/13ea4f53-4489-47f1-bff3-203fa8251dbb/wc.png",
+    "https://images.century21.pt/aec6a8b8-d19b-4cef-b69c-19fe9966f863/quarto2..jpeg",
+    "https://images.century21.pt/e06e0a4c-e5ea-4680-b180-c8890a0a2d6e/quarto2.jpeg",
+    "https://images.century21.pt/10ab5d28-056c-48ef-b14f-d4f0bd883704/marquise.png",
+    "https://images.century21.pt/c5fa755e-27b2-494e-9e10-d42620bb7508/marquise1.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Sem cadeia de venda",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Localização central",
+      "Arrecadação",
+      "Casa de banho",
+      "Corredor",
+      "Marquise",
+      "Outra divisão",
+      "Quarto",
+      "Sala de estar"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 82,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 97,
+  "ano_construcao": 1979,
+  "certificacao_energetica": "D"
 }
