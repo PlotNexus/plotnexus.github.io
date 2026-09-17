@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 75.3,
   "image": "https://images.century21.pt/8ce445e1-2809-45c2-8132-beaf89d8f5c8/visoentrada.jpeg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 41.1149437,
     "lng": -8.6043202
@@ -22,12 +22,57 @@
   "published_at": "2026-09-17",
   "last_seen_at": "2026-09-17",
   "images": [
-    "https://images.century21.pt/8ce445e1-2809-45c2-8132-beaf89d8f5c8/visoentrada.jpeg"
+    "https://images.century21.pt/8ce445e1-2809-45c2-8132-beaf89d8f5c8/visoentrada.jpeg",
+    "https://images.century21.pt/06a7c075-af1b-495d-b21a-1fbf3560aa81/visogeral2.jpeg",
+    "https://images.century21.pt/d737620d-e368-4fd4-8100-ce834a52a5ff/visogeraldacozinha.jpeg",
+    "https://images.century21.pt/f1ae2862-e493-480f-8b57-63029ba383a2/cosinhaesala.jpeg",
+    "https://images.century21.pt/5b1c30ef-961d-4b58-903e-995cb29b2308/cozinha2.jpeg",
+    "https://images.century21.pt/27ae949f-fe60-4e1e-9e63-3d308b5ac2e9/Cozinha.jpeg",
+    "https://images.century21.pt/c21a06c2-be84-4a85-a8fb-9b1060fc5f12/casadebanho.jpeg",
+    "https://images.century21.pt/14c1c09d-78d8-4c84-90a3-0e1a7cecab43/casadebanho2.jpeg",
+    "https://images.century21.pt/9f37142a-3545-4a48-962a-2e103a0893ae/WhatsAppImage2026-07-10at12.44.19(1).jpeg",
+    "https://images.century21.pt/d55a1501-f705-4dce-98ff-cde34dd8f3c1/casadebanho3.jpeg",
+    "https://images.century21.pt/82100d0a-9b08-42d7-b604-9c51bcd6a17b/sala.jpeg",
+    "https://images.century21.pt/04166476-d39a-4caa-b783-2cc1a863ee1e/WhatsAppImage2026-07-10at12.44.15.jpeg",
+    "https://images.century21.pt/98dc091d-2c8f-483b-8255-9768fabd97ff/sala2.jpeg",
+    "https://images.century21.pt/65a70ecd-fb81-4679-94df-b27214038d5c/quarto.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Localização central",
+      "Cave",
+      "Garagem",
+      "Varanda",
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Elevador",
+      "Estores elétricos",
+      "Janelas duplas",
+      "Vídeo-porteiro",
+      "Vista cidade",
+      "Perto de uma autoestrada",
+      "Perto de um banco",
+      "Perto de comodidades",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma estação de comboio",
+      "Perto de uma farmácia",
+      "Perto de uma igreja",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de o metro",
+      "Perto de uma praça de táxis",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de o centro da cidade",
+      "Propriedade plena"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 75.3,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 89.2,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "IN_PROCESS"
 }
