@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 73.28,
   "image": "https://images.century21.pt/29342001-bf83-4e8d-9d50-30c9589c9fcd/3D11.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.1655842,
     "lng": -8.549453
@@ -19,15 +19,36 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0272-02748",
-  "published_at": "2026-09-16",
-  "last_seen_at": "2026-09-16",
+  "published_at": "2026-09-17",
+  "last_seen_at": "2026-09-17",
   "images": [
-    "https://images.century21.pt/29342001-bf83-4e8d-9d50-30c9589c9fcd/3D11.jpg"
+    "https://images.century21.pt/29342001-bf83-4e8d-9d50-30c9589c9fcd/3D11.jpg",
+    "https://images.century21.pt/977af7e8-1406-4e0e-8a95-bcd2078ec66b/3D12.jpg",
+    "https://images.century21.pt/61db90b0-39d4-4c98-8f73-a356e63686f8/3D10.jpg",
+    "https://images.century21.pt/18d77e99-96e5-49b2-b014-17f56fe25f01/3D8.jpg",
+    "https://images.century21.pt/6e235160-178d-4d1f-b689-05b12b838b23/3D9.jpg",
+    "https://images.century21.pt/c7c161e1-39c0-410a-9822-b3b2e005f036/3D13.jpg",
+    "https://images.century21.pt/51695bff-a7bc-4406-8db8-291ede28e140/3D14.jpg",
+    "https://images.century21.pt/27a705e5-b354-4f22-af16-03b2de73cd8a/3D4.jpg",
+    "https://images.century21.pt/e9910a70-74b1-4ef5-9099-8ac3f80186db/3D3.jpg",
+    "https://images.century21.pt/85a64bfb-19d5-48f8-b55c-30521d583690/3D2.jpg",
+    "https://images.century21.pt/7b55287a-678d-474c-acd1-141a684a1c4c/3D1.jpg",
+    "https://images.century21.pt/324b5a43-0366-4628-a307-e611ba118265/3D5.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Garagem",
+      "Varanda",
+      "Piscina",
+      "Ar condicionado",
+      "Elevador",
+      "Portão elétrico",
+      "Vista cidade"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 73.28,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 89.4,
+  "ano_construcao": 2027,
+  "certificacao_energetica": "A"
 }
