@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 112,
   "image": "https://images.century21.pt/be61f7d4-1fa7-443c-afb9-a64a09a8d5d1/Sala(2).png",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7961377,
     "lng": -9.3542699
@@ -22,12 +22,39 @@
   "published_at": "2026-09-18",
   "last_seen_at": "2026-09-18",
   "images": [
-    "https://images.century21.pt/be61f7d4-1fa7-443c-afb9-a64a09a8d5d1/Sala(2).png"
+    "https://images.century21.pt/be61f7d4-1fa7-443c-afb9-a64a09a8d5d1/Sala(2).png",
+    "https://images.century21.pt/b908829b-8ee8-46f2-9a88-0a9b3db39fc9/Sala(1).png",
+    "https://images.century21.pt/c25dd99d-dff7-4061-8b05-dde9275f8dda/Sala(4).png",
+    "https://images.century21.pt/70afe20d-8fa8-41bc-8813-edea4c8b1813/Sala(3).png",
+    "https://images.century21.pt/cf8488dc-7dd6-489d-9bdd-3b566d0a4a46/Varanda.png",
+    "https://images.century21.pt/0fd65c4c-9c05-4c68-8d97-aca9d1b69588/Cozinha.png",
+    "https://images.century21.pt/d23ec253-f796-4b6b-baca-3c860c489daf/WC1.png",
+    "https://images.century21.pt/79126e64-a29f-4b28-bcd1-09f66fd3645b/Quarto1(4).jpg",
+    "https://images.century21.pt/48662893-1ed6-4e80-ab20-45ec97934905/Quarto1(1).png",
+    "https://images.century21.pt/1f2cbbc7-2594-4a9e-8ff0-cc7434108378/Quarto1(1).jpg",
+    "https://images.century21.pt/3012f519-6724-4bbe-a624-bc614365b693/Quarto2(1).jpg",
+    "https://images.century21.pt/c1e2d923-ec77-4a7f-9b11-5345e274c081/Quarto2(2).jpg",
+    "https://images.century21.pt/2d32f782-bafc-4e13-af0b-a0fc003b44c7/Quarto3(2).png",
+    "https://images.century21.pt/720b2140-33c2-494c-96ec-f3f4bd3f982b/Quarto3(1).png",
+    "https://images.century21.pt/3c7e6a21-54e9-4af5-9fd4-9c7939251538/Wc2(1).jpg",
+    "https://images.century21.pt/5e3c087d-e02e-4642-bb92-5971b20592fb/Corredor.png",
+    "https://images.century21.pt/b24f7371-4e5e-428e-b4fb-c3d1e5ca0b79/Corredor(1).jpg",
+    "https://images.century21.pt/bbc0b54b-a892-42dc-8563-95df4a6c2db4/Corredor(3).jpg",
+    "https://images.century21.pt/d8d238f7-b426-4d9c-8850-4f62b581b92a/Fachada(1).jpg",
+    "https://images.century21.pt/76429ec2-1d13-4af4-ab55-c35b8ca17e62/Fachada(2).jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Elevador",
+      "Lareira",
+      "Boa exposição solar",
+      "Arrecadação"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 112,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 131,
+  "ano_construcao": 1995,
+  "certificacao_energetica": "D"
 }

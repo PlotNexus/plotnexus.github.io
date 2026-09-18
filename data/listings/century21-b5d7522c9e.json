@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 46,
   "image": "https://images.century21.pt/4ef0d950-2f93-4afc-b413-594a7771e53d/sala2.jpg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 41.1867588,
     "lng": -8.6618544
@@ -22,12 +22,22 @@
   "published_at": "2026-09-18",
   "last_seen_at": "2026-09-18",
   "images": [
-    "https://images.century21.pt/4ef0d950-2f93-4afc-b413-594a7771e53d/sala2.jpg"
+    "https://images.century21.pt/4ef0d950-2f93-4afc-b413-594a7771e53d/sala2.jpg",
+    "https://images.century21.pt/a8bbf10f-69ab-4778-8971-554f6524254f/b7797.jpg",
+    "https://images.century21.pt/808003b2-6667-474e-b818-530c0bae86ec/traseirasf3.jpg",
+    "https://images.century21.pt/47d25760-6547-4fdb-9cbc-02dabdf2ed93/SALAECOZINHA3.jpg",
+    "https://images.century21.pt/642dbc39-ca49-451a-a610-f05466c8782c/quartot3.jpg",
+    "https://images.century21.pt/8b894fe4-a79f-4ef8-bfb4-3c3958a19f02/quartot13.jpg",
+    "https://images.century21.pt/09bc149c-fd89-4d66-8525-e37f4f9c6710/sala1.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 46,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 47.6,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "EXEMPT"
 }

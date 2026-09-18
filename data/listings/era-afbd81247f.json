@@ -8,7 +8,7 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": 104,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t2-gondomar-rio-tinto-centro_13_1_1392693_17132585_2_1_WlzPDhruD28OMs84GGJbIWVgoHVPSQ39nC275rN6vf7EB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/apartamento-t2-gondomar-rio-tinto-centro_14_1_1392693_17132585_2_1_WlzPDhruD28OMs84GGJbIWVgoHVPSQ39nC275rN6vf7EB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 41.17423,
@@ -22,12 +22,17 @@
   "published_at": "2026-09-18",
   "last_seen_at": "2026-09-18",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t2-gondomar-rio-tinto-centro_13_1_1392693_17132585_2_1_WlzPDhruD28OMs84GGJbIWVgoHVPSQ39nC275rN6vf7EB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t2-gondomar-rio-tinto-centro_14_1_1392693_17132585_2_1_WlzPDhruD28OMs84GGJbIWVgoHVPSQ39nC275rN6vf7EB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Novo",
+      "Área Bruta: 104"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 104,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 104,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

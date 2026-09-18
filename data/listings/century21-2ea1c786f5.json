@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 55,
   "image": "https://images.century21.pt/989f48e3-3615-47a7-ada9-858fc0706b5e/1000257771.jpg",
-  "description": null,
+  "description": "Apartamento localizado na Rua das Adelas, n.º 9, em Lisboa, na freguesia da Misericórdia.\nSituado ao nível de rés-do-chão, este imóvel insere-se numa zona central e histórica da cidade de Lisboa, com forte procura, excelente oferta de comércio, restauração, serviços e proximidade a transportes públicos.\nO apartamento encontra-se atualmente arrendado, com contrato de arrendamento antigo, sendo ocupado por uma inquilina com 81 anos. A renda mensal atual é de 208,57€.\nTrata-se de uma oportunidade de investimento numa localização premium, com potencial de valorização a médio/longo prazo.",
   "geo": {
     "lat": 38.7145367,
     "lng": -9.1505989
@@ -22,12 +22,20 @@
   "published_at": "2026-09-18",
   "last_seen_at": "2026-09-18",
   "images": [
-    "https://images.century21.pt/989f48e3-3615-47a7-ada9-858fc0706b5e/1000257771.jpg"
+    "https://images.century21.pt/989f48e3-3615-47a7-ada9-858fc0706b5e/1000257771.jpg",
+    "https://images.century21.pt/563137eb-c7f7-4ac8-b782-f4d9bb9d513b/1000257770.jpg",
+    "https://images.century21.pt/5e757b79-586a-445a-ae2c-1fc3deba46e7/1000257772.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa localização",
+      "Zona tranquila",
+      "Localização central"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 55,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 61,
+  "ano_construcao": 1950,
+  "certificacao_energetica": "D"
 }
