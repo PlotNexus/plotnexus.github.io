@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 127,
   "image": "https://images.century21.pt/345e9d47-2851-43ad-8eee-7a32ce4b8245/Sala1.PNG",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7451276,
     "lng": -9.3352839
@@ -22,12 +22,54 @@
   "published_at": "2026-09-18",
   "last_seen_at": "2026-09-18",
   "images": [
-    "https://images.century21.pt/345e9d47-2851-43ad-8eee-7a32ce4b8245/Sala1.PNG"
+    "https://images.century21.pt/345e9d47-2851-43ad-8eee-7a32ce4b8245/Sala1.PNG",
+    "https://images.century21.pt/da9e6cbb-743e-4fd9-8a89-acc689534cee/Espaoexterior.PNG",
+    "https://images.century21.pt/29fc1b2e-7cd3-4618-ad13-52689d3b5be3/Quarto.PNG",
+    "https://images.century21.pt/27c882cb-bdef-4f33-91f2-ebc99e84a15b/WC.PNG",
+    "https://images.century21.pt/b0a2ab2a-e4cb-4fb2-afb6-c59ac24a2a4d/Fotofachada2.PNG",
+    "https://images.century21.pt/295a3e14-81f7-4c86-a998-c40f7b8499c4/Fotofachada3.PNG",
+    "https://images.century21.pt/7ee1b623-4a6b-49d0-a895-50def7d9d847/Fotofachada4.PNG",
+    "https://images.century21.pt/f1d0f925-dbba-4734-9fd9-50fbe22e1c67/Sala.PNG",
+    "https://images.century21.pt/0271afe2-5831-4a22-9a63-56de5ac60d48/Capture.PNG",
+    "https://images.century21.pt/9eceace0-aa32-4c67-a8f9-657f5378a807/Capture1.PNG"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Varanda",
+      "Casa de banho",
+      "Quarto",
+      "Hall de quartos",
+      "Vestiário",
+      "Corredor",
+      "Sala de jantar",
+      "Hall de entrada",
+      "Frescos",
+      "Boa exposição solar",
+      "Boa localização",
+      "Quarto de hóspedes",
+      "Cozinha",
+      "Lavandaria",
+      "Sala de estar",
+      "Perto de comodidades",
+      "Perto de espaços verdes",
+      "Escritório",
+      "Open space",
+      "Paredes pintadas",
+      "Despensa",
+      "Estacionamento",
+      "Casa de banho privativa",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Casa de banho partilhada",
+      "Suite",
+      "Casa de banho de suite",
+      "Quarto em suite"
+    ]
+  },
   "estado": null,
   "area_util_m2": 127,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 175,
+  "ano_construcao": 2024,
+  "certificacao_energetica": "IN_PROCESS"
 }

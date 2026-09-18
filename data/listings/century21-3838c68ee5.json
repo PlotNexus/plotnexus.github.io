@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 45,
   "image": "https://images.century21.pt/6f5cd10b-a6ab-43e5-8384-046fecedf689/salaIA.png",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7141794459225,
     "lng": -9.13137185345354
@@ -22,12 +22,25 @@
   "published_at": "2026-09-18",
   "last_seen_at": "2026-09-18",
   "images": [
-    "https://images.century21.pt/6f5cd10b-a6ab-43e5-8384-046fecedf689/salaIA.png"
+    "https://images.century21.pt/6f5cd10b-a6ab-43e5-8384-046fecedf689/salaIA.png",
+    "https://images.century21.pt/43ac96e6-cb02-4bc9-a886-3218d533f204/UseAIImageJul272026144242.png",
+    "https://images.century21.pt/zona-jpg_c2eaa67c-c581-4ef6-8922-150681aa884f.jpg",
+    "https://images.century21.pt/sala-3-jpg_7da91217-a494-49c2-afc0-8099428d6128.jpg",
+    "https://images.century21.pt/39523fd9-1409-4038-a3db-1ab9026f86b0/UseAIImageJul272026142606.png",
+    "https://images.century21.pt/cozinha-1-jpg_0109a4fe-95ef-4906-aa0f-35ee0cc7cbed.jpg",
+    "https://images.century21.pt/c4d75ba1-b0cf-442d-aac8-c421dca38cf1/UseAIImageJul272026142722(1).png",
+    "https://images.century21.pt/207f936c-bfe9-42e1-a4f8-a02435a5ce33/UseAIImageJul272026143846.png",
+    "https://images.century21.pt/b4adcaad-7dee-4086-88cc-9835a210d161/UseAIImageJul272026144100.png",
+    "https://images.century21.pt/quarto-jpg_fe5a2144-ade3-4244-9cc6-a3db7a2777c2.jpg",
+    "https://images.century21.pt/ca583312-314a-4328-ad3b-387511d5ed2b/UseAIImageJul272026143115.png",
+    "https://images.century21.pt/wc1-jpg_d23a99f2-5f91-423b-b1f4-2ee68f4aa224.jpg",
+    "https://images.century21.pt/predio-jpg_31f66ce3-95f3-4ff5-9f38-20c48cfdd484.jpg",
+    "https://images.century21.pt/zona1-jpg_e7f81c93-8437-44b1-aace-795da7815ea6.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 45,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 50,
+  "ano_construcao": 1951,
+  "certificacao_energetica": "D"
 }

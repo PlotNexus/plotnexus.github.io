@@ -8,7 +8,7 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": 90,
-  "image": "https://mediaredir2.era.pt/i/moradia-isolada-seixal-seixal-arrentela-e-aldeia-de-paio-pires_13_1_1511788_18492129_2_1_JUkle3VEXUUdIDon1ljhnxn1o2SB28BXx5J93MtUZWXEB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/moradia-isolada-seixal-seixal-arrentela-e-aldeia-de-paio-pires_14_1_1511788_18492129_2_1_JUkle3VEXUUdIDon1ljhnxn1o2SB28BXx5J93MtUZWXEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 38.57441,
@@ -22,12 +22,50 @@
   "published_at": "2026-09-18",
   "last_seen_at": "2026-09-18",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-isolada-seixal-seixal-arrentela-e-aldeia-de-paio-pires_13_1_1511788_18492129_2_1_JUkle3VEXUUdIDon1ljhnxn1o2SB28BXx5J93MtUZWXEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-isolada-seixal-seixal-arrentela-e-aldeia-de-paio-pires_14_1_1511788_18492129_2_1_JUkle3VEXUUdIDon1ljhnxn1o2SB28BXx5J93MtUZWXEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Novo",
+      "Área Bruta: 130"
+    ],
+    "Geral": [
+      "Nº Frentes: 4",
+      "Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia, Poço"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Estores: Alumínio"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico"
+    ],
+    "Edifício": [
+      "Hall de Entrada - Paredes: Pintadas",
+      "Hall de Entrada - Tecto: Estucado, Ponto de Luz",
+      "Revestimento Exterior: Pintado"
+    ],
+    "Exposição Solar": [
+      "Nascente, Norte, Poente, Sul"
+    ],
+    "Garagem": [
+      "Água, Casa de Banho, Eletricidade, Luz"
+    ],
+    "Vistas": [
+      "Campo"
+    ],
+    "Zona": [
+      "Acessos: Auto-Estrada, Comboio, Transportes Púb.",
+      "Centralidade: Periferia Cidade",
+      "Proximidade: Centros Comerciais, Escolas, Farmácia, Jardins Infância, Praias, Supermercado"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 90,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 130,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
