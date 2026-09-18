@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 64.8,
   "image": "https://images.century21.pt/536a8e75-49b2-4f82-9666-fe6c9af7a1a9/CozinhaSeixal1.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.638097,
     "lng": -9.096762
@@ -19,15 +19,30 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0223-09714",
-  "published_at": "2026-09-17",
-  "last_seen_at": "2026-09-17",
+  "published_at": "2026-09-18",
+  "last_seen_at": "2026-09-18",
   "images": [
-    "https://images.century21.pt/536a8e75-49b2-4f82-9666-fe6c9af7a1a9/CozinhaSeixal1.png"
+    "https://images.century21.pt/536a8e75-49b2-4f82-9666-fe6c9af7a1a9/CozinhaSeixal1.png",
+    "https://images.century21.pt/4b5ed207-931d-4135-ac69-b770e27e0e5d/SalaSeixal1.png",
+    "https://images.century21.pt/abe5f6ca-a7ee-468d-8f80-f91d4757dd19/QuartoSeixal2.png",
+    "https://images.century21.pt/99a23f6d-e8ef-455b-8619-a9af8efff4c0/QuartoSeixal1.png",
+    "https://images.century21.pt/77a742fc-ac5c-4aa2-a5ca-1520c5ce0823/WcSeixal1.png",
+    "https://images.century21.pt/742d7cec-6642-4b5c-920b-8a06edea5e0c/VistaSeixalAerea3.png",
+    "https://images.century21.pt/b52636a4-9589-4af9-b4ae-dab793354875/VistaSeixalAerea2.png",
+    "https://images.century21.pt/bf99dc73-8643-47dd-b6c5-8bf93d58267b/VistaSeixalAerea1.png",
+    "https://images.century21.pt/9e0c6807-c84b-4117-953f-963f5afffeb4/PredioT2Seixal.png",
+    "https://images.century21.pt/ac9fa5e8-8622-4978-92a0-cbac25d51475/PlantaT2Seixal.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Varandas",
+      "Arrecadação"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 64.8,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 82.06,
+  "ano_construcao": 1996,
+  "certificacao_energetica": "E"
 }
