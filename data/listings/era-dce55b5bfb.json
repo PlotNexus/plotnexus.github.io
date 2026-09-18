@@ -8,7 +8,7 @@
   "bedrooms": 3,
   "bathrooms": 1,
   "area_m2": 200,
-  "image": "https://mediaredir2.era.pt/i/moradia-t3-agueda-recardaes-e-espinhel_13_1_1580332_19218360_2_1_eDkgOkecVtTzCThn1720hNz9K2jz8lWeWZGkkd9mv3PEB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/moradia-t3-agueda-recardaes-e-espinhel_14_1_1580332_19218360_2_1_eDkgOkecVtTzCThn1720hNz9K2jz8lWeWZGkkd9mv3PEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": null,
   "source": {
@@ -19,12 +19,17 @@
   "published_at": "2026-09-18",
   "last_seen_at": "2026-09-18",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t3-agueda-recardaes-e-espinhel_13_1_1580332_19218360_2_1_eDkgOkecVtTzCThn1720hNz9K2jz8lWeWZGkkd9mv3PEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t3-agueda-recardaes-e-espinhel_14_1_1580332_19218360_2_1_eDkgOkecVtTzCThn1720hNz9K2jz8lWeWZGkkd9mv3PEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Construção",
+      "Área Bruta: 169,6"
+    ]
+  },
+  "estado": "Construção",
   "area_util_m2": 200,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 170,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

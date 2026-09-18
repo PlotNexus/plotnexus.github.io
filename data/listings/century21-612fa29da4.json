@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 60,
   "image": "https://images.century21.pt/d25c2a29-0804-46ae-920b-9458d8366ce0/aiphsppa.png",
-  "description": null,
+  "description": "Apartamento T2 localizado na Rua Dom Domingos Jardo, na freguesia da Penha de França.\nSituado ao nível de rés-do-chão, este imóvel insere-se numa zona residencial central e consolidada da cidade de Lisboa, com proximidade a comércio local, serviços, escolas, transportes públicos e excelentes acessos.\nO apartamento encontra-se atualmente arrendado, com contrato de arrendamento antigo, mantendo um inquilino com mais de 65 anos. A renda mensal atual é de 80,55€.\nUma oportunidade de investimento numa localização com procura consistente e potencial de valorização futura.",
   "geo": {
     "lat": 38.7266417,
     "lng": -9.117165
@@ -19,15 +19,26 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0506-00704",
-  "published_at": "2026-09-17",
-  "last_seen_at": "2026-09-17",
+  "published_at": "2026-09-18",
+  "last_seen_at": "2026-09-18",
   "images": [
-    "https://images.century21.pt/d25c2a29-0804-46ae-920b-9458d8366ce0/aiphsppa.png"
+    "https://images.century21.pt/d25c2a29-0804-46ae-920b-9458d8366ce0/aiphsppa.png",
+    "https://images.century21.pt/5407605a-7920-43ff-95a7-3ade126b6ffe/ucbti8en.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa localização",
+      "Zona tranquila",
+      "Casa de banho",
+      "Cozinha",
+      "Outra divisão",
+      "Quarto",
+      "Sala de estar"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 60,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 66,
+  "ano_construcao": 1949,
+  "certificacao_energetica": "D"
 }

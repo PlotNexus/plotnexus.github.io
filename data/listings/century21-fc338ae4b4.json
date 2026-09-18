@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 123,
   "image": "https://images.century21.pt/de04a263-6c44-4f2c-b5e4-aa49fb44e279/Fotos-14.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 40.9547736,
     "lng": -8.6538445
@@ -22,12 +22,34 @@
   "published_at": "2026-09-18",
   "last_seen_at": "2026-09-18",
   "images": [
-    "https://images.century21.pt/de04a263-6c44-4f2c-b5e4-aa49fb44e279/Fotos-14.jpg"
+    "https://images.century21.pt/de04a263-6c44-4f2c-b5e4-aa49fb44e279/Fotos-14.jpg",
+    "https://images.century21.pt/27517553-67ca-446c-9397-80284037ff60/Fotos-7.jpg",
+    "https://images.century21.pt/1272a3b7-8864-4360-b7f8-3c8c7b2e3a13/Fotos-8.jpg",
+    "https://images.century21.pt/062336bb-1c73-4674-b396-9b9e00adcada/Fotos-11.jpg",
+    "https://images.century21.pt/3fae67c8-52d7-4e58-9d0f-400be5112d26/Fotos-35.jpg",
+    "https://images.century21.pt/56a5ee72-8306-4b89-81e4-109dde43d090/Fotos-17.jpg",
+    "https://images.century21.pt/e58cadd8-34ff-467c-9bca-05607a8a2156/Fotos-20.jpg",
+    "https://images.century21.pt/71b9a44f-336c-4106-a552-d7d24e8b1764/Fotos-22.jpg",
+    "https://images.century21.pt/9bdfb45d-6051-4d4e-bcf8-0422df4f1c02/Fotos-25.jpg",
+    "https://images.century21.pt/4bd8b14b-5408-4069-8a2b-8d666f8150da/Fotos-26.jpg",
+    "https://images.century21.pt/e40f9d77-1e01-4eae-977b-0c4f603cf92b/Fotos-36.jpg",
+    "https://images.century21.pt/a2f0eea6-0169-4069-8f27-00802625ef4e/Fotos-33.jpg",
+    "https://images.century21.pt/1ac6cb6b-9951-4773-ae98-1e11c1d52131/Fotos-28.jpg",
+    "https://images.century21.pt/d539c441-93c5-461d-8bf0-ea79dfa33ac7/Fotos-39.jpg",
+    "https://images.century21.pt/edca4196-3616-41c4-84c3-2511dbdb0469/Fotos-3.jpg",
+    "https://images.century21.pt/5ac13def-f462-4cb9-bfa6-2fed97eba57e/Fotos-4.jpg",
+    "https://images.century21.pt/83fb23c8-c534-43d4-a726-4e4cb9fa232f/Fotos-1.jpg",
+    "https://images.century21.pt/33b010b7-3702-4a44-9f11-41fe70e1c0f2/DSC00186.png",
+    "https://images.century21.pt/dd501f1d-99eb-45eb-8eeb-c0d442e60ce8/DSC00189.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 123,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 160,
+  "ano_construcao": 2012,
+  "certificacao_energetica": "B"
 }

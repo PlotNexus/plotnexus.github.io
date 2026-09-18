@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 140,
   "image": "https://images.century21.pt/110fc276-9824-48cf-bd5e-b0963fdced5a/Copilot20260725170324.png",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.631495,
     "lng": -8.9143738
@@ -22,12 +22,32 @@
   "published_at": "2026-09-18",
   "last_seen_at": "2026-09-18",
   "images": [
-    "https://images.century21.pt/110fc276-9824-48cf-bd5e-b0963fdced5a/Copilot20260725170324.png"
+    "https://images.century21.pt/110fc276-9824-48cf-bd5e-b0963fdced5a/Copilot20260725170324.png",
+    "https://images.century21.pt/b21c10d3-84db-4f84-a54a-27a73f13ec6b/Copilot20260722223802.png",
+    "https://images.century21.pt/f7bc54a5-0424-4b45-8498-608ccecbafde/Copilot20260723132746.png",
+    "https://images.century21.pt/ad115324-ae22-4014-983e-51cc7f6ec4dd/Copilot20260722225351.png",
+    "https://images.century21.pt/a4dc827d-0da1-4d6a-99c9-60bf0da023b8/Copilot20260723132953.png",
+    "https://images.century21.pt/af8e2560-06af-41c2-92b7-38f77e62a557/Copilot20260722225205.png",
+    "https://images.century21.pt/c6f62ad8-eec8-4360-8b6a-45c9747705ca/Copilot20260722224656.png",
+    "https://images.century21.pt/c2cec19b-fe88-4626-a38b-8542eea2da23/Copilot20260722175447.png",
+    "https://images.century21.pt/2062ab02-8b69-477e-956a-4c3a0b586798/PlantaMoradia.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Hall de quartos",
+      "Alpendre",
+      "Garagem",
+      "Perto de uma zona comercial",
+      "Estacionamento",
+      "Piscina",
+      "Casa de banho de suite",
+      "Terraço"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 140,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 145,
+  "ano_construcao": 2027,
+  "certificacao_energetica": "IN_PROCESS"
 }
