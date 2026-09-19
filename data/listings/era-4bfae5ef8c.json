@@ -8,8 +8,8 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": 80,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t1-porto-marques_13_1_1370263_16856587_2_1_NVN06H9vbJBUbl7QjO5iljKiRwk1tDDIyEbmM%2bB1dfrEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t1-porto-marques_14_1_1370263_16856587_2_1_NVN06H9vbJBUbl7QjO5iljKiRwk1tDDIyEbmM%2bB1dfrEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Apartamento T1, semi-novo, orientado a sul. Destaque para a suite e para o jardim com 116m2. Próximo da Quinta do Covelo e da estação de metro do Marquês.",
   "geo": {
     "lat": 41.16360222176229,
     "lng": -8.605181753967294
@@ -22,12 +22,35 @@
   "published_at": "2026-09-19",
   "last_seen_at": "2026-09-19",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t1-porto-marques_13_1_1370263_16856587_2_1_NVN06H9vbJBUbl7QjO5iljKiRwk1tDDIyEbmM%2bB1dfrEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t1-porto-marques_14_1_1370263_16856587_2_1_NVN06H9vbJBUbl7QjO5iljKiRwk1tDDIyEbmM%2bB1dfrEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Novo",
+      "Área Bruta: 196"
+    ],
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Isolamento: Acústico, Térmico",
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Zona": [
+      "Acessos: Auto-Estrada, Bons, Metro, Transportes Púb.",
+      "Centralidade: Centro da Cidade",
+      "Proximidade: Clínica, Escolas, Farmácia, Jardins, Jardins Infância, Padaria, Supermercado"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 80,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 196,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }
