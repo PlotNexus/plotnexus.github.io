@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 80,
   "image": "https://images.century21.pt/519cd1ba-cb0f-4ba1-8637-62d76327cc2c/Cozinha.jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.794224,
     "lng": -9.3332622
@@ -19,15 +19,55 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0440-01008",
-  "published_at": "2026-09-18",
-  "last_seen_at": "2026-09-18",
+  "published_at": "2026-09-19",
+  "last_seen_at": "2026-09-19",
   "images": [
-    "https://images.century21.pt/519cd1ba-cb0f-4ba1-8637-62d76327cc2c/Cozinha.jpeg"
+    "https://images.century21.pt/519cd1ba-cb0f-4ba1-8637-62d76327cc2c/Cozinha.jpeg",
+    "https://images.century21.pt/074e3747-af20-489d-ad6f-a49e142171c5/Quarto2.jpeg",
+    "https://images.century21.pt/77ed470d-fb83-41da-8594-29fa0c3279f4/Sala.jpeg",
+    "https://images.century21.pt/1bbc500a-0890-4c40-8cac-38f51beefccc/Varanda.jpeg",
+    "https://images.century21.pt/a9e0cc1f-a816-4419-9eff-07b1ae282283/Rua.png",
+    "https://images.century21.pt/3c7bc924-b209-424b-8a76-7898271963c5/Quarto1.jpeg",
+    "https://images.century21.pt/07ac88df-5e71-4b02-a9e1-77771327af8a/Salacompleta.jpeg",
+    "https://images.century21.pt/196a1a36-d9d4-4328-9867-ffcea60a6881/Estao.png",
+    "https://images.century21.pt/f5d8ade3-2ce5-418b-ac4a-b1f001a500dc/Prdio.png",
+    "https://images.century21.pt/0132e321-9d7e-4c05-ba8c-a14edddef208/Rua1.png",
+    "https://images.century21.pt/201b486b-15bd-4cc8-bc5c-0ccd451dd8a3/Localizao.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Água canalizada",
+      "Eletricidade",
+      "Saneamento",
+      "Perto de uma autoestrada",
+      "Perto de um banco",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de a polícia",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma estação de comboio",
+      "Perto de uma farmácia",
+      "Perto de um espaço público",
+      "Perto de uma praça de táxis",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de o centro da cidade",
+      "Boa exposição solar",
+      "Boa localização",
+      "Localização central",
+      "Casa de banho",
+      "Hall de quartos",
+      "Cozinha",
+      "Corredor",
+      "Quarto",
+      "Sala de estar",
+      "Vista panorâmica",
+      "Vista cidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 80,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 90,
+  "ano_construcao": 1969,
+  "certificacao_energetica": "IN_PROCESS"
 }
