@@ -8,8 +8,8 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 206,
-  "image": "https://mediaredir2.era.pt/i/moradia-t3-gondomar-rio-tinto-centro_13_1_1531486_18653239_2_1_hCloAaFXOb8fgAbjTsq4r6X5jRR16SqmPNmVEPE5QDLEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t3-gondomar-rio-tinto-centro_14_1_1531486_18653239_2_1_hCloAaFXOb8fgAbjTsq4r6X5jRR16SqmPNmVEPE5QDLEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Prédio situado no centro de Rio Tinto, em zona de gaveto, composto por duas moradias, com potencial para a construção de uma terceira. Uma das moradias encontra-se devoluta, enquanto a outra está atualmente ocupada. Imóvel de construção anterior a 1951, representando uma excelente oportunidade de investimento.",
   "geo": {
     "lat": 41.17514,
     "lng": -8.558583
@@ -22,12 +22,19 @@
   "published_at": "2026-09-19",
   "last_seen_at": "2026-09-19",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t3-gondomar-rio-tinto-centro_13_1_1531486_18653239_2_1_hCloAaFXOb8fgAbjTsq4r6X5jRR16SqmPNmVEPE5QDLEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t3-gondomar-rio-tinto-centro_14_1_1531486_18653239_2_1_hCloAaFXOb8fgAbjTsq4r6X5jRR16SqmPNmVEPE5QDLEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t3-gondomar-rio-tinto-centro_14_1_1531486_18653241_2_1_snyWPSX8AA9xAo07G0DR3cyQ%2flxAf9QEnPE0%2bahtZtjEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t3-gondomar-rio-tinto-centro_14_1_1531486_18653240_2_1_mdT%2fQZY8tTF3%2bp%2fpDo%2fRxG4tRSdI1jBVjEoN%2b0sVKP%2fEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 206"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 206,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 206,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

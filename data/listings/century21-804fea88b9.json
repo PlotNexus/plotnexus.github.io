@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 92,
   "image": "https://images.century21.pt/d2cbcfec-1bd1-457e-91ee-d80682df8bd5/Fotocapa.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7647556,
     "lng": -9.1097153
@@ -22,12 +22,54 @@
   "published_at": "2026-09-19",
   "last_seen_at": "2026-09-19",
   "images": [
-    "https://images.century21.pt/d2cbcfec-1bd1-457e-91ee-d80682df8bd5/Fotocapa.jpg"
+    "https://images.century21.pt/d2cbcfec-1bd1-457e-91ee-d80682df8bd5/Fotocapa.jpg",
+    "https://images.century21.pt/6fa5af99-ae36-4673-a77d-39fc30553168/Fotoexterior.jpg",
+    "https://images.century21.pt/ed70e841-55a6-4339-9886-f28e7a46a6e1/Sala2.jpg",
+    "https://images.century21.pt/5a259fbc-cee8-4aed-942d-34bbad35a7e6/Fotoescada.jpg",
+    "https://images.century21.pt/e5e4589b-35ab-48c1-912d-38acc655e1cd/Corredor2.jpg",
+    "https://images.century21.pt/5f2618ed-98eb-4321-9739-775f7fa35aaa/Sala1.jpg",
+    "https://images.century21.pt/beb42688-4962-4bc6-8a40-0ec8c4dfd61c/Sala3.jpg",
+    "https://images.century21.pt/5138b98d-f2f3-4350-b2c8-4b7e61181fa5/Sala4.jpg",
+    "https://images.century21.pt/90bc469d-6f13-42b9-8ec0-3bc8322a4a45/Marquise.jpg",
+    "https://images.century21.pt/63acdd28-3247-4497-bda7-ff34d2ebec34/Hallentrada2.jpg",
+    "https://images.century21.pt/f61be31d-fcd3-44e8-b713-8e557d0541e7/Hallentrada.jpg",
+    "https://images.century21.pt/132d3f14-b1cd-49cc-b582-1196a5d285eb/casadebanhosocial1.jpeg",
+    "https://images.century21.pt/6df5112c-6d25-47db-9cbf-46ab4f831628/Corredor.jpg",
+    "https://images.century21.pt/d8e2df65-5d30-42a5-b27c-5285e351cc28/Cozinha.jpg",
+    "https://images.century21.pt/5ebced47-3ea5-402d-a06a-3645cde84c44/Lavandaria.jpeg",
+    "https://images.century21.pt/fa7be937-96fb-46cd-adae-34fecfb0747b/Cozinha3.jpg",
+    "https://images.century21.pt/bb85562f-9ae4-41f5-8db3-23e5db639f01/Cozinha2.jpg",
+    "https://images.century21.pt/18867e45-c9c8-4ade-9db0-5ffe104d123f/Quartocasal.jpg",
+    "https://images.century21.pt/63872575-cfdc-40fb-a7c6-da18c16363ef/Quartocasal2.jpg",
+    "https://images.century21.pt/caf1e69e-1e36-4277-a491-c37758592882/Corredor3.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Localização central",
+      "Acessibilidade para mobilidade reduzida",
+      "Elevador",
+      "Boa exposição solar",
+      "Boa localização",
+      "Rés-do-chão",
+      "Perto de um banco",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma zona comercial",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de um mercado",
+      "Perto de o metro",
+      "Perto de uma farmácia",
+      "Perto de uma estação de comboio",
+      "Perto de um complexo desportivo",
+      "Gás canalizado",
+      "Zona tranquila",
+      "Soalho à portuguesa"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 92,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 117,
+  "ano_construcao": 1968,
+  "certificacao_energetica": "C"
 }

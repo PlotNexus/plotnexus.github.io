@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 90,
   "image": null,
-  "description": null,
+  "description": "Apartamento em águas furtadas. \nDispõe de 3 quartos pequenos e uma sala pequena. \nTem um wc com base de duche.\nTodas as divisões tem luz natural.\nBoa exposição solar.\n\nEntra para o mercado apenas em Outubro/Novembro.",
   "geo": {
     "lat": 40.3646673,
     "lng": -7.8641002
@@ -22,10 +22,30 @@
   "published_at": "2026-09-19",
   "last_seen_at": "2026-09-19",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "O anunciante considera-o apropriado para": [
+      "Crianças"
+    ],
+    "Características específicas": [
+      "90 m² construídos",
+      "T3",
+      "1 casa de banho",
+      "Segunda mão/bom estado",
+      "Cozinha equipada e casa sem mobília"
+    ],
+    "Prédio": [
+      "2º andar",
+      "Sem elevador"
+    ],
+    "Preço": [
+      "Preço do imóvel: 550 €/mês",
+      "Preço por m²: 6,11 €/m²",
+      "Fiança de 2 meses"
+    ]
+  },
+  "estado": "Bom estado",
   "area_util_m2": 90,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 90,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "EXEMPT"
 }
