@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 135,
   "image": "https://images.century21.pt/48c012d4-dec6-4b51-9836-544663e186fb/T3Sesimbra-22.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.4568493,
     "lng": -9.1259892
@@ -22,12 +22,49 @@
   "published_at": "2026-09-19",
   "last_seen_at": "2026-09-19",
   "images": [
-    "https://images.century21.pt/48c012d4-dec6-4b51-9836-544663e186fb/T3Sesimbra-22.jpg"
+    "https://images.century21.pt/48c012d4-dec6-4b51-9836-544663e186fb/T3Sesimbra-22.jpg",
+    "https://images.century21.pt/da66bba3-519c-43d5-b2af-019215755d69/T3Sesimbra-26.jpg",
+    "https://images.century21.pt/32f904a9-4c38-466f-a702-9ea4e326d4aa/T3Sesimbra-24.jpg",
+    "https://images.century21.pt/b0c514d8-2b5e-4354-b1cc-509a2c6ca754/T3Sesimbra-25.jpg",
+    "https://images.century21.pt/51696e62-e356-430f-81a1-7b3704576b12/T3Sesimbra-21.jpg",
+    "https://images.century21.pt/17a9b5c8-b96b-4048-9bce-26d6a82587d9/T3Sesimbra-23.jpg",
+    "https://images.century21.pt/61fbb91c-4299-4d84-adf6-5408db61f95f/T3Sesimbra-17.jpg",
+    "https://images.century21.pt/c4c4c865-8dc6-447f-a3b0-c08f862cbc44/T3Sesimbra-19.jpg",
+    "https://images.century21.pt/b2ab341b-c1a5-4689-b2c6-48822d705941/T3Sesimbra-10.jpg",
+    "https://images.century21.pt/b7a08bfe-f7fe-4ac9-80c0-6e0f76ead923/T3Sesimbra-11.jpg",
+    "https://images.century21.pt/3de30823-227f-4da8-b711-23556c712f0e/T3Sesimbra-13.jpg",
+    "https://images.century21.pt/397f5051-62c5-47a6-affe-e534847c7c84/T3Sesimbra-12.jpg",
+    "https://images.century21.pt/10323b1e-1fd3-485d-a17e-1ff94f38591e/T3Sesimbra-16.jpg",
+    "https://images.century21.pt/58039fae-bceb-4519-a61e-9e52a44b37d0/T3Sesimbra-6.jpg",
+    "https://images.century21.pt/40b1b417-9e3d-46d0-a2f2-2ced0f882069/T3Sesimbra-7.jpg",
+    "https://images.century21.pt/d1d3c114-68e3-481c-a472-aaa6f229a27c/T3Sesimbra-9.jpg",
+    "https://images.century21.pt/c64447a7-47ff-49c2-b085-ef08d348e060/T3Sesimbra-15.jpg",
+    "https://images.century21.pt/093da52f-4584-41cd-8f02-77d34e2150e4/T3Sesimbra-28.jpg",
+    "https://images.century21.pt/d44a74da-165f-4ee7-ae7d-34e765a6a3bc/T3Sesimbra-29.jpg",
+    "https://images.century21.pt/6b99f597-1314-43c0-9000-781614884c93/T3Sesimbra-8.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estacionamento",
+      "Piscina",
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Máquina de lavar loiça",
+      "Máquina de lavar roupa",
+      "Micro-ondas",
+      "Arrecadação",
+      "Casa de banho",
+      "Casa de banho partilhada",
+      "Cozinha",
+      "Garagem",
+      "Corredor",
+      "Terraço",
+      "Varanda"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 135,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 160,
+  "ano_construcao": 2005,
+  "certificacao_energetica": "C"
 }

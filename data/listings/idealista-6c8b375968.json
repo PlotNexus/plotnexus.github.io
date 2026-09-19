@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 240,
   "image": null,
-  "description": null,
+  "description": "Moradia T3 com garagem em construção em Vila Cova de Alva, com 756 m2 de terreno já todo delimitado e com todas as ligação no Local ( água, Luz e esgotos ).\nO imóvel tem todo o projeto para que seja possível concluir os acabamentos, toda a estrutura assim como divisões interiores estão feitas.\nEsta moradia em lugar calmo, com boa exposição solar e a 100 metros da Praia Fluvial de Vila Cova de Alva, com 1 suite mais 2 quartos 2 salas, cozinha e varandas, tem tudo para ser a casa de família que procura.",
   "geo": {
     "lat": 40.2855613,
     "lng": -7.9431871
@@ -19,13 +19,27 @@
     "url": "https://www.idealista.pt"
   },
   "listing_url": "https://www.idealista.pt/imovel/34647800/",
-  "published_at": "2026-09-16",
-  "last_seen_at": "2026-09-16",
+  "published_at": "2026-09-19",
+  "last_seen_at": "2026-09-19",
   "images": [],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 240,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Características específicas": [
+      "Casa ou moradia",
+      "240 m² construídos, 200 m² úteis",
+      "T3",
+      "1 casa de banho",
+      "Lugar de garagem incluído no preço",
+      "Segunda mão/bom estado",
+      "Construído em 2006"
+    ],
+    "Preço": [
+      "Preço do imóvel: 110.000 €",
+      "Preço por m²: 458 €/m²"
+    ]
+  },
+  "estado": "Bom estado",
+  "area_util_m2": 200,
+  "area_bruta_m2": 240,
+  "ano_construcao": 2006,
+  "certificacao_energetica": "G"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 62,
   "image": "https://images.century21.pt/72a19f38-d8e6-4b54-9157-606f2afb96cc/MG1544.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7665809,
     "lng": -9.1090434
@@ -22,12 +22,43 @@
   "published_at": "2026-09-19",
   "last_seen_at": "2026-09-19",
   "images": [
-    "https://images.century21.pt/72a19f38-d8e6-4b54-9157-606f2afb96cc/MG1544.jpg"
+    "https://images.century21.pt/72a19f38-d8e6-4b54-9157-606f2afb96cc/MG1544.jpg",
+    "https://images.century21.pt/038a1e00-2c27-4d79-a9d2-7f5e9256599a/MG1548-Edit.jpg",
+    "https://images.century21.pt/7c45d1ce-ce53-47f4-ac7f-e36daea0cf6c/MG1549.jpg",
+    "https://images.century21.pt/9bf92ad0-2fe4-4642-8fae-e625ae128289/MG1547.jpg",
+    "https://images.century21.pt/5d705808-dd89-465e-a82f-507b5336033a/MG1546.jpg",
+    "https://images.century21.pt/c01909b1-db1a-4ef9-a83b-1a4b64fac072/MG1545.jpg",
+    "https://images.century21.pt/26d1470e-bfb7-4916-a9ac-3aa0dc0aacc5/MG1550.jpg",
+    "https://images.century21.pt/717ebe6e-e3a7-4061-bbb1-07389dda031a/MG1538-Edit.jpg",
+    "https://images.century21.pt/54412e81-6ced-4b32-8eed-04687c1ea3c7/MG1540-Edit.jpg",
+    "https://images.century21.pt/48888a6e-4010-49f0-b0a9-fbf31b99a342/MG1551-Edit.jpg",
+    "https://images.century21.pt/2af026d7-7531-4755-9f41-bd1ef94d4f8c/MG1532.jpg",
+    "https://images.century21.pt/45be3369-435a-493b-ac8e-8fc5cf739b4f/MG1542-Edit.jpg",
+    "https://images.century21.pt/91abc2c8-84ab-4bdf-8c0e-e06f88d57fe1/MG1531.jpg",
+    "https://images.century21.pt/a6c086eb-a55f-4572-88df-de25a4d8aa88/MG1529-Edit.jpg",
+    "https://images.century21.pt/467c5c8a-7e68-4acb-97e1-a9948110c637/MG1527-Edit.jpg",
+    "https://images.century21.pt/71668683-8bcb-4706-9818-fc1be5b5b3ea/MG1556.jpg",
+    "https://images.century21.pt/7d41349b-0d30-4a05-806a-d37cfed6a84f/MG1537.jpg",
+    "https://images.century21.pt/b0abe608-956c-4f13-b060-9cd0514f4a7b/MG1535-Edit.jpg",
+    "https://images.century21.pt/f0c111d9-e104-48e3-9191-ddbb6b2788d0/MG1536.jpg",
+    "https://images.century21.pt/641af72a-5e3e-414b-b7a0-976b75446a41/MG1560-Edit.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Perto de o metro",
+      "Esquentador",
+      "Fogão",
+      "Forno",
+      "Exaustor",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma estação de comboio",
+      "Perto de uma zona comercial"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 62,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 63,
+  "ano_construcao": 1951,
+  "certificacao_energetica": "E"
 }
