@@ -8,8 +8,8 @@
   "bedrooms": 1,
   "bathrooms": null,
   "area_m2": 52,
-  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-t1-condeixa-a-nova-condeixa-a-nova_13_1_1512162_19060267_2_1_Olq7Ep%2bQHoq7h7UqdKIxl8i0%2bPjvYQ7zroyFa3VMa6bEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-t1-condeixa-a-nova-condeixa-a-nova_14_1_1512162_19060267_2_1_Olq7Ep%2bQHoq7h7UqdKIxl8i0%2bPjvYQ7zroyFa3VMa6bEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia para reconstruir situada no centro de Condeixa-a-Nova. Localização privilegiada perto de serviços de saúde, escolas, comércio, equipamentos de desporto e lazer.",
   "geo": {
     "lat": 40.11448,
     "lng": -8.499561
@@ -22,12 +22,43 @@
   "published_at": "2026-09-20",
   "last_seen_at": "2026-09-20",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-em-banda-t1-condeixa-a-nova-condeixa-a-nova_13_1_1512162_19060267_2_1_Olq7Ep%2bQHoq7h7UqdKIxl8i0%2bPjvYQ7zroyFa3VMa6bEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-em-banda-t1-condeixa-a-nova-condeixa-a-nova_14_1_1512162_19060267_2_1_Olq7Ep%2bQHoq7h7UqdKIxl8i0%2bPjvYQ7zroyFa3VMa6bEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-em-banda-t1-condeixa-a-nova-condeixa-a-nova_14_1_1512162_18440590_2_1_NE%2beYEUx%2bmUHPcg7RCRaOfOQB6%2fXqTe57SiRW6Ld23fEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 95"
+    ],
+    "Geral": [
+      "Cave, Vão de Telhado/Sótão",
+      "Nº Frentes: 3",
+      "Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Madeira"
+    ],
+    "Edifício": [
+      "Hall de Entrada - Paredes: Pintadas",
+      "Hall de Entrada - Tecto: Estucado",
+      "Revestimento Exterior: Monomassa",
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Exposição Solar": [
+      "Norte, Sul"
+    ],
+    "Zona": [
+      "Acessos: Bons, Transportes Púb.",
+      "Centralidade: Centro da Cidade",
+      "Proximidade: Clínica, Escolas, Jardins, Jardins Infância, Padaria, Serviços Públicos, Supermercado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 52,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 95,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
