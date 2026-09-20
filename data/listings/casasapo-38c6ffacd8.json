@@ -9,7 +9,7 @@
   "bathrooms": null,
   "area_m2": 72,
   "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C11369/P24124913/Tphoto/IDf11d7001-0000-0500-0000-000011c73a22.JPG",
-  "description": "Apartamento completamente remodelado, localizado no coração da Vila de Mértola, composto por dois quartos, sala, cozinha e, casa de banho, inserido num edifício com quatro apartamentos, sem elevador, situado no segundo andar",
+  "description": "Apartamento completamente remodelado, localizado no coração da Vila de Mértola, composto por dois quartos, sala, cozinha e, casa de banho, inserido num edifício com quatro apartamentos, sem elevador, situado no segundo andar com varanda para uma alameda central ajardinada.\nUma localização privilegiada na Vila, a ’dois passos’ de todos os bens e serviços essenciais ao dia à dia, sem a necessidade de se movimentar de carro.",
   "geo": {
     "lat": 37.64321,
     "lng": -7.65944
@@ -19,15 +19,28 @@
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/comprar-apartamento-t2-mertola-845b11bf-313a-11ee-a521-060000000056.html",
-  "published_at": "2026-09-19",
-  "last_seen_at": "2026-09-19",
+  "published_at": "2026-09-20",
+  "last_seen_at": "2026-09-20",
   "images": [
     "https://media.casasapo.pt/Z720x540/OAYES/S5/C11369/P24124913/Tphoto/IDf11d7001-0000-0500-0000-000011c73a22.JPG"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 1",
+      "Total quarto(s): 2"
+    ],
+    "Extras": [
+      "Conservação: Bom",
+      "Piso: 2"
+    ],
+    "Áreas": [
+      "Área Bruta: 85.00",
+      "Área Útil: 72.25"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 72,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 85,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

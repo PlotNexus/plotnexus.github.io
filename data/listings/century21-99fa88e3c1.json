@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 67.97,
   "image": "https://images.century21.pt/ddedf435-23ea-44c8-ab05-f3c4c545d53c/carv13.png",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 37.098532,
     "lng": -8.469815
@@ -19,15 +19,44 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/0563-01888",
-  "published_at": "2026-09-19",
-  "last_seen_at": "2026-09-19",
+  "published_at": "2026-09-20",
+  "last_seen_at": "2026-09-20",
   "images": [
-    "https://images.century21.pt/ddedf435-23ea-44c8-ab05-f3c4c545d53c/carv13.png"
+    "https://images.century21.pt/ddedf435-23ea-44c8-ab05-f3c4c545d53c/carv13.png",
+    "https://images.century21.pt/372d3243-71d0-44f4-b5c6-7ea70534bac5/carv3.jpeg",
+    "https://images.century21.pt/2fd5f755-bd1e-4809-acdb-e7a01b07ff9a/carv11.jpeg",
+    "https://images.century21.pt/32f6a229-3898-42a7-a65c-2a13c1fe874c/carv6.jpeg",
+    "https://images.century21.pt/133525b3-2610-427e-9e9b-fb576b2a99a8/carv4.jpeg",
+    "https://images.century21.pt/05b16eda-0ed1-457f-a866-e50c6ce5c6a5/carv1.jpeg",
+    "https://images.century21.pt/88101a71-77b6-43ff-a7be-9463502a2ce2/carv7.jpeg",
+    "https://images.century21.pt/0ba1170b-460a-443b-9bce-01c84fb7ca10/carv2.jpeg",
+    "https://images.century21.pt/05e30fcf-9b75-4da7-83dc-b30f30b5ee4b/carv5.jpeg",
+    "https://images.century21.pt/66ce020d-9a5b-4497-b8e0-b12fb15d88ed/carv8.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Vista panorâmica",
+      "Perto de comodidades",
+      "Perto de uma farmácia",
+      "Perto de a praia",
+      "Perto de restaurantes",
+      "Ar condicionado",
+      "Cama de solteiro",
+      "Eletrodomésticos",
+      "Elevador",
+      "Fogão",
+      "Forno",
+      "Frigorífico",
+      "Máquina de lavar loiça",
+      "Máquina de lavar roupa",
+      "Micro-ondas",
+      "Fogão de indução",
+      "Televisão"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 67.97,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 80,
+  "ano_construcao": 1991,
+  "certificacao_energetica": "C"
 }
