@@ -8,8 +8,8 @@
   "bedrooms": 1,
   "bathrooms": null,
   "area_m2": 60,
-  "image": "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-moimenta_13_1_1292909_15992554_2_1_jCAp0mWNE%2bP9EU5KitsEaOHiMpVtjxx%2fmJbPGBGCDsfEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-moimenta_14_1_1292909_15992554_2_1_jCAp0mWNE%2bP9EU5KitsEaOHiMpVtjxx%2fmJbPGBGCDsfEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia em pedra para restauro.\nLocalizada em zona tranquila.\nIdeal para segunda habitação.",
   "geo": {
     "lat": 41.05097363625492,
     "lng": -8.205547458366395
@@ -22,12 +22,20 @@
   "published_at": "2026-09-20",
   "last_seen_at": "2026-09-20",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-moimenta_13_1_1292909_15992554_2_1_jCAp0mWNE%2bP9EU5KitsEaOHiMpVtjxx%2fmJbPGBGCDsfEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-moimenta_14_1_1292909_15992554_2_1_jCAp0mWNE%2bP9EU5KitsEaOHiMpVtjxx%2fmJbPGBGCDsfEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-moimenta_14_1_1292909_15992551_2_1_hAHZ8wsW8D4LZ17sI5laQetY6fl1UOlHa3CzczvXXFTEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-moimenta_14_1_1292909_15992552_2_1_aiGV793Yw2pYRknfePD73lsqqudLTtdDa9%2fe35X%2faxXEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-moimenta_14_1_1292909_15992553_2_1_m5fvoQLvi7OyNIC4HdMtdlJ0EHuTgymxhb02AXVPgATEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 60"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 60,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 60,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

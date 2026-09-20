@@ -8,8 +8,8 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 60,
-  "image": "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_13_1_1504125_18377774_2_1_TrmIytyMnhIXUdIbkLE3Ye0uL3%c2%a7428Oj9%2bm1Cdx4sLEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_14_1_1504125_18377774_2_1_TrmIytyMnhIXUdIbkLE3Ye0uL3%c2%a7428Oj9%2bm1Cdx4sLEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia para reconstrução.",
   "geo": {
     "lat": 40.11193,
     "lng": -7.120543
@@ -22,12 +22,26 @@
   "published_at": "2026-09-20",
   "last_seen_at": "2026-09-20",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_13_1_1504125_18377774_2_1_TrmIytyMnhIXUdIbkLE3Ye0uL3%c2%a7428Oj9%2bm1Cdx4sLEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_14_1_1504125_18377774_2_1_TrmIytyMnhIXUdIbkLE3Ye0uL3%c2%a7428Oj9%2bm1Cdx4sLEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_14_1_1504125_18377775_2_1_Td05T0T9t91RwviStCJWl4Z1WapFZUflnN2ce6HUf1%2fEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_14_1_1504125_18377776_2_1_8R3DtHC7lSFlixKN%2bDZvInQNuZusREoftAv1MUO%2fCqTEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_14_1_1504125_18377777_2_1_LCF%2fT%2fTd%2boVV7OIjDDxsksTz3ErmXfPhospxcI2vRKLEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_14_1_1504125_18377778_2_1_Wzzu69mK%2fjPOLhlamALZBZ%2bWN0RZy8n6WI0r5mXBQ8TEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_14_1_1504125_18377779_2_1_b8GAQ9DlOJeSOMgPtbq69nWncTPNcpxktq8g7fey1kXEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_14_1_1504125_18377781_2_1_Nqx2SnPZ8c59vcxCiLgU8tPVN0GOftYvBaBArkYpdDXEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_14_1_1504125_18377780_2_1_auc9EQ8BJgrD64N2m5S5ayEXrYepUgcsGwYdDu8QidHEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_14_1_1504125_18377782_2_1_JLIni3TN%2fxmDtMVkW33UggkVo%2b0Q1dR1C%2bXVN0FiKUnEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-penamacor-aranhas_14_1_1504125_18377783_2_1_FcZsm3%2bP7z1vSH4diRO2MjPpAgT8u5hubkRUSOn2J6%2fEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 60"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 60,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 60,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

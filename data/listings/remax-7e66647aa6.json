@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 115,
   "image": "https://i.maxwork.pt/ds-l/listings/12203/122031012-168/L_07DA98945ABF407FA6237B116A7B5784_iList.jpg",
-  "description": null,
+  "description": "Vivenda para reconstruir no centro da aldeia de Castelo de Penalva.\nBem localizada, numa zona calma e aprazível.\nBoa exposição solar.",
   "geo": {
     "lat": 40.652207,
     "lng": -7.661855
@@ -22,12 +22,24 @@
   "published_at": "2010-03-19",
   "last_seen_at": "2026-09-20",
   "images": [
-    "https://i.maxwork.pt/ds-l/listings/12203/122031012-168/L_07DA98945ABF407FA6237B116A7B5784_iList.jpg"
+    "https://i.maxwork.pt/ds-l/listings/12203/122031012-168/L_07DA98945ABF407FA6237B116A7B5784_iList.jpg",
+    "https://i.maxwork.pt/ds-l/listings/12203/122031012-168/L_6933B75D20F84600A2D48FF5D0BD7F23_iList.jpg",
+    "https://i.maxwork.pt/ds-l/listings/12203/122031012-168/L_3E8680C3EA644A01B293FAE747C37239_iList.jpg",
+    "https://i.maxwork.pt/ds-l/listings/12203/122031012-168/L_DF9BA17A901D4B43A9193C950398B340_iList.jpg",
+    "https://i.maxwork.pt/ds-l/listings/12203/122031012-168/L_851BBF5F97604DE0BFD89EF57976C2EA_iList.jpg",
+    "https://i.maxwork.pt/ds-l/listings/12203/122031012-168/L_35E84E4FD93B48DFAC993E3B71B68574_iList.jpg",
+    "https://i.maxwork.pt/ds-l/listings/12203/122031012-168/L_04BD27F447144CD98A321A2119AEE7BB_iList.jpg",
+    "https://i.maxwork.pt/ds-l/listings/12203/122031012-168/L_DC242B22B96B440EB38F21C737C37C7E_iList.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Jardim",
+      "Varanda"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 115,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 115,
+  "ano_construcao": 1940,
+  "certificacao_energetica": "NC"
 }
