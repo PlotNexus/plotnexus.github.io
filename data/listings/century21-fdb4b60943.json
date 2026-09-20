@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 38,
   "image": "https://images.century21.pt/85ce51f0-ed76-429d-a6b9-febeb6c1dec9/escadinhas-santo-estevao.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7112937,
     "lng": -9.1288183
@@ -22,12 +22,28 @@
   "published_at": "2026-09-20",
   "last_seen_at": "2026-09-20",
   "images": [
-    "https://images.century21.pt/85ce51f0-ed76-429d-a6b9-febeb6c1dec9/escadinhas-santo-estevao.jpg"
+    "https://images.century21.pt/85ce51f0-ed76-429d-a6b9-febeb6c1dec9/escadinhas-santo-estevao.jpg",
+    "https://images.century21.pt/b382123f-89c8-4930-ac1e-56524b0f0002/WhatsAppImage2026-03-21at17.30.48.jpeg",
+    "https://images.century21.pt/f11ad27d-cfa8-412c-98dc-a4116eba9cb2/WhatsAppImage2026-03-21at17.30.48(1).jpeg",
+    "https://images.century21.pt/0affe167-24ac-4686-887a-cfe2fd7799ef/WhatsAppImage2026-03-21at17.30.48(2).jpeg",
+    "https://images.century21.pt/aee848fa-3eb5-443c-9d2c-2bc13dc3bfe8/WhatsAppImage2026-03-21at17.30.48(3).jpeg",
+    "https://images.century21.pt/a7b57641-28fa-4985-8d5a-3258710b6dcb/the-terrace.jpg",
+    "https://images.century21.pt/6286dace-54c3-4a55-be5f-3f2158efbf74/MiradouroSantaLuzia.jpeg",
+    "https://images.century21.pt/49137344-2e0f-4ef8-a8eb-f9800c1c4752/MuseudoFadoLisbonPortugal01.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Cozinha",
+      "Quarto",
+      "Sala de estar",
+      "Boa localização",
+      "Arrendamento de longa duração"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 38,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 42,
+  "ano_construcao": 1937,
+  "certificacao_energetica": "D"
 }
