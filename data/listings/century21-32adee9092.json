@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 65,
   "image": "https://images.century21.pt/3f70b445-8b15-4e61-9bec-7b94beb710d8/2102ALMAR75Block06F4T24GALLiving.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6604996,
     "lng": -9.1596517
@@ -22,12 +22,57 @@
   "published_at": "2026-09-21",
   "last_seen_at": "2026-09-21",
   "images": [
-    "https://images.century21.pt/3f70b445-8b15-4e61-9bec-7b94beb710d8/2102ALMAR75Block06F4T24GALLiving.jpg"
+    "https://images.century21.pt/3f70b445-8b15-4e61-9bec-7b94beb710d8/2102ALMAR75Block06F4T24GALLiving.jpg",
+    "https://images.century21.pt/9c3b54f4-cd4e-4f5c-b02e-5b6f2dc63f61/2102ALMAR58Block01F3T2.8ABLiving.jpg",
+    "https://images.century21.pt/b1cf4323-2346-4153-b83c-959e8fb6d68e/2102ALMAR48StreetView.jpg",
+    "https://images.century21.pt/5941da97-9965-43a0-bb71-62ac39191d82/2102ALMAR76Block06F4T24GALLivingKitchen.jpg",
+    "https://images.century21.pt/0ae034cc-e2a4-4d4d-9efc-d6601651f93c/2102ALMAR45Block06F4T34BAGMasterBedroom.jpg",
+    "https://images.century21.pt/1b35723f-e935-4413-8f69-6dca0c9dfb2c/2102ALMAR43Block06F4T34BAGLivingRoom.jpg",
+    "https://images.century21.pt/ccb96c64-ab6d-4fc3-b97f-12d6f9ffe970/2102ALMAR56Block06F4T34BAGLivingRoom.jpg",
+    "https://images.century21.pt/2905a003-378b-4bc7-9d71-cc4e9a9bec19/2102ALMAR50StreetView.jpg",
+    "https://images.century21.pt/429d557f-5d19-4c21-8e74-cda69ef41dfe/2102ALMAR49StreetView.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Perto de uma paragem de autocarro",
+      "Perto de uma estação de comboio",
+      "Perto de uma farmácia",
+      "Perto de um infantário",
+      "Perto de um espaço público",
+      "Perto de o metro",
+      "Perto de a praia",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de o centro da cidade",
+      "Arrecadação",
+      "Luxo",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Casa de banho",
+      "Cozinha",
+      "Garagem",
+      "Estacionamento",
+      "Ginásio",
+      "Ar condicionado",
+      "Caixilharia",
+      "Eletrodomésticos",
+      "Elevador",
+      "Janelas duplas",
+      "Porta de alta segurança",
+      "Portão elétrico",
+      "Vídeo-porteiro",
+      "Vista cidade",
+      "Perto de uma autoestrada",
+      "Perto de um banco",
+      "Perto de uma bomba de gasolina",
+      "Perto de comodidades",
+      "Perto de espaços verdes"
+    ]
+  },
   "estado": null,
   "area_util_m2": 65,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 70,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "IN_PROCESS"
 }

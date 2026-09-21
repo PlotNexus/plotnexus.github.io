@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 122,
   "image": "https://images.century21.pt/27a8c142-9082-418d-9c20-369878f9b94d/VHS1.jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.539169,
     "lng": -8.8540765
@@ -22,12 +22,35 @@
   "published_at": "2026-09-21",
   "last_seen_at": "2026-09-21",
   "images": [
-    "https://images.century21.pt/27a8c142-9082-418d-9c20-369878f9b94d/VHS1.jpeg"
+    "https://images.century21.pt/27a8c142-9082-418d-9c20-369878f9b94d/VHS1.jpeg",
+    "https://images.century21.pt/ae6b35b6-853a-4b5b-8899-67ac4a5df473/VHS2.jpeg",
+    "https://images.century21.pt/a3308795-7625-4b78-9f5d-abfabe12eee3/BDS3.jpg",
+    "https://images.century21.pt/ebed38ca-7ed7-420d-a2c9-9f44032374d6/BDS21.jpeg",
+    "https://images.century21.pt/f7306d0f-33f5-4e70-af14-cfd1f2879922/BDS5.jpg",
+    "https://images.century21.pt/4c3fab0c-a60a-4e88-b709-56254c1c644e/BDS10.jpeg",
+    "https://images.century21.pt/63a83607-3727-4fcf-80ad-574ccd86d65e/BDS19.jpeg",
+    "https://images.century21.pt/8e7be0e3-076d-42a9-ac95-a97338994018/BDS22.jpeg",
+    "https://images.century21.pt/7bcccfc8-d84c-46db-b8d8-7808cf30b4bf/BDS20.jpeg",
+    "https://images.century21.pt/2f337e34-1e18-4301-9bc7-75528d072c23/BDS23.jpeg",
+    "https://images.century21.pt/7e16b6c6-a4e7-4ef9-a80d-7a8d4ef41cc2/BDS11.jpeg",
+    "https://images.century21.pt/f339f9e1-5b0d-4779-ad5c-957346574821/BDS7.jpg",
+    "https://images.century21.pt/fa4fc0d0-2c9e-4ae1-9ea6-5784be7bbf59/BDS1.jpg",
+    "https://images.century21.pt/c61655b6-1aa8-4fd8-a58f-905a1af3f43b/BDS4.jpg",
+    "https://images.century21.pt/6a50e371-b1be-444b-978a-6fda89886c3f/BDS17.jpeg",
+    "https://images.century21.pt/4bd226ca-cac5-4f9e-b740-6dd943bdcd04/BDS14.jpeg",
+    "https://images.century21.pt/fef1f8e2-2e00-4800-8829-445695275fbc/BDS12.jpeg",
+    "https://images.century21.pt/50d7535b-3fad-4578-9555-77d825beb9ca/BDS2.jpg",
+    "https://images.century21.pt/5d427284-fa38-44aa-828a-94ba2f77df93/BDS16.jpeg",
+    "https://images.century21.pt/0c78a430-08e3-4a5b-9859-089c4200f934/BDS6.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 122,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 185,
+  "ano_construcao": 2009,
+  "certificacao_energetica": "B"
 }
