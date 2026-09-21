@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 159,
   "image": "https://images.century21.pt/3dc4128d-cdb1-4e88-b4e3-72158d3c1d73/Foto1.png",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.7654016061851,
     "lng": -8.73089610915008
@@ -22,12 +22,52 @@
   "published_at": "2026-09-21",
   "last_seen_at": "2026-09-21",
   "images": [
-    "https://images.century21.pt/3dc4128d-cdb1-4e88-b4e3-72158d3c1d73/Foto1.png"
+    "https://images.century21.pt/3dc4128d-cdb1-4e88-b4e3-72158d3c1d73/Foto1.png",
+    "https://images.century21.pt/d6daf6cf-9154-42a6-889a-bc5c6235db89/Planta3Dhorz.png",
+    "https://images.century21.pt/cbe35d66-477f-43cc-81f8-c89742b88d4c/Foto2.png",
+    "https://images.century21.pt/cdc7e2d6-a073-464f-863c-7fc009207a73/Foto3.jpg",
+    "https://images.century21.pt/8f5e68d3-92a3-480a-98d1-8bf505fd7ade/Foto4.jpg",
+    "https://images.century21.pt/8b6b6b48-d8c9-4124-9126-47ad576f7baa/Foto5.jpg",
+    "https://images.century21.pt/df4c0829-af66-4686-9bb5-9da6d401f6c5/Foto6.jpg",
+    "https://images.century21.pt/f101df0f-75ad-4b29-860c-dc3f5e397bf1/Foto7.jpg",
+    "https://images.century21.pt/3b4994f6-fee2-403d-ac0f-66baff5c52c5/Foto8.jpg",
+    "https://images.century21.pt/f879e662-21f9-4835-bfb1-a7c4800ba4e3/Foto81.jpg",
+    "https://images.century21.pt/f62841f6-4671-4291-bcb9-3bde181cb65b/Foto9.jpg",
+    "https://images.century21.pt/604c542c-ee74-4bf2-bdb0-6a5d9f0f531d/Foto10.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Open space",
+      "Zona tranquila",
+      "Rés-do-chão",
+      "Tetos altos",
+      "Casa de banho partilhada",
+      "Casa de banho privativa",
+      "Casa de banho de suite",
+      "Corredor",
+      "Cozinha",
+      "Despensa",
+      "Garagem",
+      "Hall de entrada",
+      "Outra divisão",
+      "Quarto",
+      "Quarto em suite",
+      "Sala de estar",
+      "Sala de jantar",
+      "Suite",
+      "Terraço",
+      "Terraço coberto",
+      "Varanda",
+      "Varandas",
+      "Vestiário"
+    ]
+  },
   "estado": null,
   "area_util_m2": 159,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 256,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "EXEMPT"
 }

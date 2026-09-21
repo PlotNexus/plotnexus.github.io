@@ -8,7 +8,7 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 83,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t3-seixal-torre-da-marinha_13_1_1575649_19234819_2_1_9asyJuT4vleTtUt1o7rx1smLKRWKc34k6xBL%2biX29i7EB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/apartamento-t3-seixal-torre-da-marinha_14_1_1575649_19234819_2_1_9asyJuT4vleTtUt1o7rx1smLKRWKc34k6xBL%2biX29i7EB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 38.61290740966797,
@@ -22,12 +22,17 @@
   "published_at": "2026-09-21",
   "last_seen_at": "2026-09-21",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t3-seixal-torre-da-marinha_13_1_1575649_19234819_2_1_9asyJuT4vleTtUt1o7rx1smLKRWKc34k6xBL%2biX29i7EB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t3-seixal-torre-da-marinha_14_1_1575649_19234819_2_1_9asyJuT4vleTtUt1o7rx1smLKRWKc34k6xBL%2biX29i7EB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 91"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 83,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 91,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

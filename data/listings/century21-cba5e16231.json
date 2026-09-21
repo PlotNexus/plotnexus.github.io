@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 230,
   "image": "https://images.century21.pt/855417d7-6c73-4b85-8dd4-2d59370012c3/WhatsAppImage2026-02-23at14.19.23(4).jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.5437769,
     "lng": -8.9120873
@@ -22,12 +22,23 @@
   "published_at": "2026-09-21",
   "last_seen_at": "2026-09-21",
   "images": [
-    "https://images.century21.pt/855417d7-6c73-4b85-8dd4-2d59370012c3/WhatsAppImage2026-02-23at14.19.23(4).jpeg"
+    "https://images.century21.pt/855417d7-6c73-4b85-8dd4-2d59370012c3/WhatsAppImage2026-02-23at14.19.23(4).jpeg",
+    "https://images.century21.pt/b3ecfb3a-1a4f-4cba-999f-562bd370b333/WhatsAppImage2026-02-23at14.19.23.jpeg",
+    "https://images.century21.pt/8032d644-7696-495c-97fa-feef304d7a32/WhatsAppImage2026-02-23at14.19.23(1).jpeg",
+    "https://images.century21.pt/57b7a2d7-8929-4964-a251-4fbad899827a/WhatsAppImage2026-02-23at14.19.23(2).jpeg",
+    "https://images.century21.pt/9f65bee1-d8e6-41e2-a5d3-07c849a22797/WhatsAppImage2026-02-23at14.19.23(3).jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Acesso por estrada"
+    ]
+  },
   "estado": null,
   "area_util_m2": 230,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 373,
+  "ano_construcao": 1937,
+  "certificacao_energetica": "EXEMPT"
 }

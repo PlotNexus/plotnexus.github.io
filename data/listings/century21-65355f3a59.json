@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 150,
   "image": "https://images.century21.pt/e9a1ba17-d354-4550-bc39-7542b280ca50/132.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 39.7873068,
     "lng": -8.9280439
@@ -22,12 +22,35 @@
   "published_at": "2026-09-21",
   "last_seen_at": "2026-09-21",
   "images": [
-    "https://images.century21.pt/e9a1ba17-d354-4550-bc39-7542b280ca50/132.jpg"
+    "https://images.century21.pt/e9a1ba17-d354-4550-bc39-7542b280ca50/132.jpg",
+    "https://images.century21.pt/597ffb25-a6e8-4605-94a4-ad0bf93abcb4/133.jpg",
+    "https://images.century21.pt/dbf889c2-8f68-49e2-883a-5fe5c50084f7/129.jpg",
+    "https://images.century21.pt/9e1c5de4-b870-4970-95aa-1a22ecea9859/131.jpg",
+    "https://images.century21.pt/ba337881-99fc-48dd-bae0-e26784c9fedd/130.jpg",
+    "https://images.century21.pt/8c4e754c-599f-4ecb-a19d-be919bb86b7a/104.jpg",
+    "https://images.century21.pt/6a196e16-13dd-4c95-8d67-b3e2111ef281/100.jpg",
+    "https://images.century21.pt/b30541b5-b719-419b-80ef-c3e3ad95be05/102.jpg",
+    "https://images.century21.pt/a0417bf3-ad7e-4acd-8432-5785f3fe0ebe/101.jpg",
+    "https://images.century21.pt/116e4386-b22b-4bdd-aa4b-dc3fe7f6cab2/103.jpg",
+    "https://images.century21.pt/527c37d0-6f26-4a5e-a144-fe4216046e70/106.jpg",
+    "https://images.century21.pt/877a00b4-3d5d-431e-ab5e-18fc9d5da410/109.jpg",
+    "https://images.century21.pt/23f75d12-7bde-4d38-98b6-26012ee70986/108.jpg",
+    "https://images.century21.pt/d3cc2403-ebfe-4158-9a2c-7e8322acb9e1/107.jpg",
+    "https://images.century21.pt/ee1dbbb9-7466-4c75-a10c-b365cff1f4c9/105.jpg",
+    "https://images.century21.pt/7cbd2244-2c03-4ea9-b80a-170d16fbf44f/112.jpg",
+    "https://images.century21.pt/32025c58-8c41-4d10-ab9a-84632e028315/113.jpg",
+    "https://images.century21.pt/767593ce-32aa-4ed7-b686-e70e833d3011/110.jpg",
+    "https://images.century21.pt/8e28ce7d-4dc1-49f2-be28-6a4f7f6b6a89/111.jpg",
+    "https://images.century21.pt/a92fcee9-d17a-4104-9974-141ef0067486/114.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Água canalizada"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 150,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 170,
+  "ano_construcao": 1971,
+  "certificacao_energetica": "E"
 }

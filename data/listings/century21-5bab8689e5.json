@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 35.98,
   "image": "https://images.century21.pt/95be1589-8c3d-47d9-a508-09fd9ffd56ed/781af037-94a4-4e17-9d25-ac4ff4051e79.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.717785,
     "lng": -9.122462
@@ -22,12 +22,44 @@
   "published_at": "2026-09-21",
   "last_seen_at": "2026-09-21",
   "images": [
-    "https://images.century21.pt/95be1589-8c3d-47d9-a508-09fd9ffd56ed/781af037-94a4-4e17-9d25-ac4ff4051e79.jpg"
+    "https://images.century21.pt/95be1589-8c3d-47d9-a508-09fd9ffd56ed/781af037-94a4-4e17-9d25-ac4ff4051e79.jpg",
+    "https://images.century21.pt/6c35a38b-0158-466a-9e84-9b6ba8b05823/7a9acaff-9652-49a6-a428-d978b40e19fc.jpg",
+    "https://images.century21.pt/4581f4f8-3e9b-4aa4-9325-13d386bcbad6/9f1ed365-a71a-436f-81da-7b5f8362defa.jpg",
+    "https://images.century21.pt/27fc1342-6f3a-4a4f-89b1-3d9d55c93b6f/cff5a634-fbaa-40a7-bbaa-62fb046992ec.jpg",
+    "https://images.century21.pt/1f674224-ac56-40f4-bc8e-024fcf1369a4/7bdee8c1-7f93-4239-b4f6-d4e4a786757f.jpg",
+    "https://images.century21.pt/49311c27-bccc-4587-a53e-b16dece1667a/38b96933-5fcc-4144-92c2-d782d4d4b570.jpg",
+    "https://images.century21.pt/0634e449-4abe-43d0-b926-623d73147187/WhatsAppImage2024-07-10at19.32.47.jpeg",
+    "https://images.century21.pt/219af615-0e52-4f8d-89a0-87c2fd651efb/f9c30911-7748-4711-b761-c8ab1c8670fa.jpg",
+    "https://images.century21.pt/6418c2a5-31f0-4caa-96fc-23abf6ce3e67/WhatsAppImage2024-07-10at19.32.47(1).jpeg",
+    "https://images.century21.pt/a4b96b8b-e24b-4257-a2b2-f0ccc9ce7d9c/116a3f9b-3202-4adc-aeb8-9252e83d3bbf.jpg",
+    "https://images.century21.pt/088e311d-c697-42b4-bf24-67c12f9863ad/WhatsAppImage2024-07-10at19.32.47(4).jpeg",
+    "https://images.century21.pt/bf38ac08-0b96-46cd-9f5d-aaab36e4e1b5/8166d6ff-9f82-4c78-94ac-348a993c4cfe.jpg",
+    "https://images.century21.pt/029cf2b3-cadd-42cc-809c-6ff04f11eff9/e3b81e70-f7de-4d6b-a42b-c7cd1487a3f5.jpg",
+    "https://images.century21.pt/bd929891-0324-4600-9a8c-6cccaa09db23/a9d5e669-ace8-42a7-8fe6-21e6e67c9df2.jpg",
+    "https://images.century21.pt/56b47079-72e1-4e7f-89a7-ad1661f8ae9d/b9610aea-f6b3-4ebd-910a-1841459d9b87.jpg",
+    "https://images.century21.pt/221c0f71-222e-4d6d-8f33-764bd22a9c8d/f5d473ef-5d19-4308-ab24-8cda40920389.jpg",
+    "https://images.century21.pt/5e4859e6-08d0-4fff-8c77-f37197737c87/109abd52-f897-4241-be54-ff8fb0b3d0f0.jpg",
+    "https://images.century21.pt/ea4a1617-68f8-4b76-8734-2a44e9af2897/WhatsAppImage2024-07-10at19.32.47(2).jpeg",
+    "https://images.century21.pt/a27b84aa-ec22-4b69-ba17-78ec01126e6a/WhatsAppImage2024-07-10at19.32.47(3).jpeg",
+    "https://images.century21.pt/0b2b7068-f85f-4f91-ac59-0635ae85969a/WhatsAppImage2024-07-10at19.32.48.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Máquina de lavar loiça",
+      "Janelas duplas",
+      "Termoacumulador elétrico",
+      "Exaustor",
+      "Frigorífico",
+      "Porta de alta segurança",
+      "Micro-ondas",
+      "Forno",
+      "Máquina de lavar roupa",
+      "Caixilharia"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 35.98,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 40,
+  "ano_construcao": 1990,
+  "certificacao_energetica": "C"
 }

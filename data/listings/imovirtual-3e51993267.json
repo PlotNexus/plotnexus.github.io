@@ -6,25 +6,28 @@
   "currency": "EUR",
   "location": "Vila Nova de Anços, Soure, Coimbra",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 333,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg1bzkzaTcxeDYyMTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.IUgc_jL7L5c22i8HwcPA02V2mo2i6s-itQxKwHNgOhA/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg1bzkzaTcxeDYyMTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.IUgc_jL7L5c22i8HwcPA02V2mo2i6s-itQxKwHNgOhA/image;s=2048x1536;q=80",
+  "description": "Moradia e salão comercial / exposições) na rua 5 de Outubro, o centro de Vila Nova de Anços. Moradia constituída por 3 pisos e o salão é formado por 2 pisos. R/c composto por uma cozinha, uma despensa, uma sala e uma instalação sanitária. 1.º piso é composto por quatro divisões e uma instalação sanitária. No piso superior existe um sótão com uma zona ampla, duas divisões e uma instalação sanitária e arrumos. Na zona exterior encontra-se um anexo que serve como churrasqueira e apoio ao pátio. Área total do terreno: 400 m2 Área de implantação do edifício: 230 m2 Área Bruta de Construção: 300 m2 Área descoberta: 169 m2 Imóvel sem Licença de Utilização – escritura ao abrigo do SIMPLEX -DEC LEI 10/2024",
+  "geo": {
+    "lat": 40.109844,
+    "lng": -8.635157
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-salao-comercial-no-centro-de-vila-nova-de-ancos-soure-ID1iTay",
-  "published_at": "2026-09-21",
+  "published_at": "2026-09-16",
   "last_seen_at": "2026-09-21",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg1bzkzaTcxeDYyMTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.IUgc_jL7L5c22i8HwcPA02V2mo2i6s-itQxKwHNgOhA/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg1bzkzaTcxeDYyMTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.IUgc_jL7L5c22i8HwcPA02V2mo2i6s-itQxKwHNgOhA/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 333,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 1994,
+  "certificacao_energetica": "E"
 }
