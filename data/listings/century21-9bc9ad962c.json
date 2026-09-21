@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 80,
   "image": "https://images.century21.pt/f65589d4-47bf-4f91-b526-6a47bae713d6_d7060df0-9d34-478a-8c10-a0dbd5e224bd.jpg",
-  "description": null,
+  "description": "Descubra este espaçoso apartamento T3 em Corroios, Seixal, com uma área generosa de 141m², ideal para quem da valor a um espaço de exterior. Com um preço de 298.000€.\n\nO apartamento foi totalmente remodelado e conta com 3 quartos, 2 casas de banho, sendo uma suíte, proporcionando conforto e privacidade. A cozinha está equipada com forno, placa exaustor e termo acumulador, e a propriedade inclui características como janelas duplas, aquecimento de água elétrico e ventilação. O espaço exterior com terraço é perfeito para momentos de lazer e relaxamento.\n\nLocalizado perto de transportes públicos, incluindo estação de comboio e paragem de autocarro, assim como áreas verdes e farmácias, este apartamento oferece conveniência e qualidade de vida. Não perca esta oportunidade única de investimento e agende a sua visita hoje mesmo!",
   "geo": {
     "lat": 38.637985263237,
     "lng": -9.16057648580514
@@ -22,12 +22,29 @@
   "published_at": "2026-09-21",
   "last_seen_at": "2026-09-21",
   "images": [
-    "https://images.century21.pt/f65589d4-47bf-4f91-b526-6a47bae713d6_d7060df0-9d34-478a-8c10-a0dbd5e224bd.jpg"
+    "https://images.century21.pt/f65589d4-47bf-4f91-b526-6a47bae713d6_d7060df0-9d34-478a-8c10-a0dbd5e224bd.jpg",
+    "https://images.century21.pt/ca2df7b8-6a99-44bd-804d-863cff989ae3_cfa2e3db-951b-4519-8cb0-97516c435cbe.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Cave",
+      "Casa de banho",
+      "Janelas duplas",
+      "Termoacumulador elétrico",
+      "Exaustor",
+      "Perto de uma paragem de autocarro",
+      "Perto de espaços verdes",
+      "Perto de uma farmácia",
+      "Perto de uma estação de comboio",
+      "Forno",
+      "Fogão",
+      "Casa de banho de suite",
+      "Terraço"
+    ]
+  },
   "estado": null,
   "area_util_m2": 80,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 141,
+  "ano_construcao": 1973,
+  "certificacao_energetica": "D"
 }

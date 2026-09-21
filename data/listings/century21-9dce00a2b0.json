@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 97.7,
   "image": "https://images.century21.pt/ea069f59-792c-49da-98c7-c40aa695a673/FachadaPrdio1.jpg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 38.7072307091116,
     "lng": -9.35505151748657
@@ -22,12 +22,40 @@
   "published_at": "2026-09-21",
   "last_seen_at": "2026-09-21",
   "images": [
-    "https://images.century21.pt/ea069f59-792c-49da-98c7-c40aa695a673/FachadaPrdio1.jpg"
+    "https://images.century21.pt/ea069f59-792c-49da-98c7-c40aa695a673/FachadaPrdio1.jpg",
+    "https://images.century21.pt/65c3aab4-6c91-4aeb-845b-34e7dff25205/FachadaPrdio2.jpg",
+    "https://images.century21.pt/53009822-77dc-4e1b-a0e8-21ff03676415/HallEntrada.jpg",
+    "https://images.century21.pt/6c642ffb-70f3-46f6-ad87-a71fc27ea0f2/Sala5.jpg",
+    "https://images.century21.pt/3c843dd3-fdf7-4181-943f-ab932460943b/Sala2.jpg",
+    "https://images.century21.pt/900322eb-eb60-4e68-97c2-52afe04a2194/Sala1.jpg",
+    "https://images.century21.pt/987d4b3c-fe77-415e-b637-00e6373159b3/Sala4.jpg",
+    "https://images.century21.pt/94f773e5-747c-4163-8b7d-c2e061088224/Sala3.jpg",
+    "https://images.century21.pt/1321ff64-1a5b-43c9-a41c-16a506206c67/Sala6.jpg",
+    "https://images.century21.pt/293dc30e-d1e7-425f-8853-5bacf2574a42/Cozinha1.jpg",
+    "https://images.century21.pt/6e506484-fc23-4feb-8c5f-fd9eda8b4945/Cozinha4.jpg",
+    "https://images.century21.pt/bf577524-9538-4417-b568-d6bc23a4cf32/Cozinha2.jpg",
+    "https://images.century21.pt/3075f49c-515f-4f89-a220-4c6f33e5f6ad/Cozinha3.jpg",
+    "https://images.century21.pt/06d7cafa-1379-4b6d-9fe6-d2dd07b6b9e5/Corredor3.jpg",
+    "https://images.century21.pt/fad84051-9dd6-430d-aaec-325323e92d8e/Quarto11.jpg",
+    "https://images.century21.pt/1b88e4be-8e65-4e90-98f1-ac17cf6a3ec0/Quarto12.jpg",
+    "https://images.century21.pt/980f6cc1-99ee-4a1e-b6c8-5a7e4188a6d0/Quarto21.jpg",
+    "https://images.century21.pt/10501a0d-3ce5-44c3-8861-9fcc7b9dd57e/Quarto22.jpg",
+    "https://images.century21.pt/31c47093-d751-468f-947e-e2c4910082df/Corredor1.jpg",
+    "https://images.century21.pt/3f3d76e3-5933-462c-9bfb-26c5fd834f73/WCQuartos1.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Hall de quartos",
+      "Hall de entrada",
+      "Arrecadação",
+      "Suite",
+      "Casa de banho de suite"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 97.7,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 103,
+  "ano_construcao": 1992,
+  "certificacao_energetica": "E"
 }
