@@ -1,9 +1,0 @@
-{
-  "name": "new-sources-probe",
-  "private": true,
-  "type": "module",
-  "description": "Throwaway probe: checks from a real GitHub Actions runner IP whether Quatru (BPI-affiliated real estate marketplace) and e-leiloes.pt (official OSAE judicial auction platform) are reachable with a plain HTTP fetch, what their real URL/category structure looks like, whether listing data is present in the raw HTML, and whether a modest burst of requests trips any rate-limit/block response. Not part of the production scraper.",
-  "dependencies": {
-    "cheerio": "^1.0.0"
-  }
-}

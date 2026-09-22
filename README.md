@@ -298,6 +298,27 @@ actual (pedidos HTTP simples, sem browser) não consegue contornar:
   (talvez por fingerprint), sem sinal claro de quando vai passar — por
   isso não foi para produção; precisaria de mais investigação (ex.:
   cabeçalhos mais próximos de um browser real) antes de ser fiável.
+- **CGD / Caixa Imobiliário** (imóveis do grupo CGD, incluindo penhorados) —
+  403 com página de erro da Akamai (proteção anti-bot de nível empresarial,
+  mesmo espírito do Cloudflare do SUPERCASA) logo na página inicial.
+- **e-leilões.pt** (plataforma oficial de leilões judiciais, gerida pela
+  Ordem dos Solicitadores e dos Agentes de Execução) — não é um bloqueio
+  anti-bot: é *inatingível*. Confirmado a partir de três origens de rede
+  independentes (este ambiente de desenvolvimento, um crawler próprio da
+  Anthropic, e um runner real do GitHub Actions) — todas falharam de forma
+  diferente (503, falha de ligação, e por fim um timeout de ligação TCP de
+  10s directamente ao runner do GitHub Actions) ao longo de vários dias de
+  tentativas. Não há sinal de bloqueio propositado (não é um 403 nem uma
+  página de desafio) — o mais provável é uma instabilidade real do lado do
+  site. Seria uma fonte genuinamente distinta (leilões judiciais, com preço
+  inicial e prazo em vez de venda/arrendamento simples), mas fica bloqueada
+  nisto até o site em si voltar a responder — vale a pena tentar de novo
+  mais tarde.
+- **Predimed** — não é uma fonte nova por si: é uma agência cujos imóveis já
+  aparecem via CASA SAPO, por isso ficaria redundante com a deduplicação
+  já existente.
+- **Casafari** (API de dados imobiliários, sediada em Lisboa) — sem nível
+  gratuito, só mediante contacto comercial.
 
 Ultrapassar isto exigiria pelo menos automação de browser completo
 (Playwright/Puppeteer) — um investimento de engenharia maior que fica para
