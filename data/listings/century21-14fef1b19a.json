@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 74,
   "image": "https://images.century21.pt/570f1f3e-3f64-4ec9-addb-e9ec655c8c2a/9.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6679194,
     "lng": -9.1862468
@@ -22,12 +22,38 @@
   "published_at": "2026-09-22",
   "last_seen_at": "2026-09-22",
   "images": [
-    "https://images.century21.pt/570f1f3e-3f64-4ec9-addb-e9ec655c8c2a/9.jpeg"
+    "https://images.century21.pt/570f1f3e-3f64-4ec9-addb-e9ec655c8c2a/9.jpeg",
+    "https://images.century21.pt/ee2cb44d-97ae-42a7-8238-c7b6c2b58cf4/2.jpeg",
+    "https://images.century21.pt/346e04de-8f09-4149-b43c-f70bb42b4932/8.jpeg",
+    "https://images.century21.pt/f92acd70-07ca-42a4-840e-d613ec8a10b9/7.jpeg",
+    "https://images.century21.pt/bbea4a37-ed7f-46dc-8983-f10c66b71d4d/2.jpeg",
+    "https://images.century21.pt/09ab26e1-bd5c-4551-8429-78fbbce1d32e/3.jpeg",
+    "https://images.century21.pt/b5177dd1-14cb-4eb8-9bed-0da33d49dd7c/WhatsAppImage2026-08-07at15.13.06.jpeg",
+    "https://images.century21.pt/691c7997-6e38-44b1-b460-e7d04a41be27/WhatsAppImage2026-08-07at15.12.54.jpeg",
+    "https://images.century21.pt/2cc958d1-24e1-471e-8dd5-9b920a24625e/13.jpeg",
+    "https://images.century21.pt/8172ab12-1d11-437a-b4f0-2e3bed0b5b35/5.jpeg",
+    "https://images.century21.pt/388a3c0d-4886-452d-bc6e-89e76402927f/1.jpeg",
+    "https://images.century21.pt/c9d5502d-8ca3-4fc9-839a-d43c478dfc1c/6.jpeg",
+    "https://images.century21.pt/d73a8ca7-1dbb-4ecd-91da-1c72bec78824/8.jpeg",
+    "https://images.century21.pt/669dbdd5-8462-4c74-a8e5-31e75a7820cd/11.jpeg",
+    "https://images.century21.pt/03c866d3-67fe-4f3b-8fdb-dc3f21371474/3.jpeg",
+    "https://images.century21.pt/fc25ff9b-bd84-41db-919d-760515a8b355/1.jpeg",
+    "https://images.century21.pt/00b3f9c7-d204-40c2-b228-7ffcba68c2e9/15.jpeg",
+    "https://images.century21.pt/5fa0a485-c7c8-432d-8fc4-ea144c362a5c/12.jpeg",
+    "https://images.century21.pt/477c0b69-d799-4b6a-9ddc-962e01203afd/17.jpeg",
+    "https://images.century21.pt/95a5ad75-abcb-496e-8622-fc9653a815d4/10.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador",
+      "Fogão a gás",
+      "Vídeo-porteiro",
+      "Esquentador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 74,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 78,
+  "ano_construcao": 1999,
+  "certificacao_energetica": "C"
 }

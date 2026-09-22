@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 0,
   "image": "https://images.century21.pt/18885fe7-53ee-440c-a0f7-6f63bfd9e226/MORADIAGRANHONOVOBARRAGEMMAGOS(3).jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.9995327,
     "lng": -8.6852896
@@ -22,12 +22,24 @@
   "published_at": "2026-09-22",
   "last_seen_at": "2026-09-22",
   "images": [
-    "https://images.century21.pt/18885fe7-53ee-440c-a0f7-6f63bfd9e226/MORADIAGRANHONOVOBARRAGEMMAGOS(3).jpeg"
+    "https://images.century21.pt/18885fe7-53ee-440c-a0f7-6f63bfd9e226/MORADIAGRANHONOVOBARRAGEMMAGOS(3).jpeg",
+    "https://images.century21.pt/dcc48bc3-b1b1-4f0c-b5ef-ca8dc4dde831/MORADIAGRANHONOVOBARRAGEMMAGOS(1).jpeg",
+    "https://images.century21.pt/e9c4445d-d282-498d-a91b-cf81b3339b11/MORADIAGRANHONOVOBARRAGEMMAGOS(2).jpeg",
+    "https://images.century21.pt/cd18a106-e841-4cde-98d6-4677ac145573/MORADIAGRANHONOVOBARRAGEMMAGOS(4).jpeg",
+    "https://images.century21.pt/dd1da431-f104-4162-a467-688eff092576/MORADIAGRANHONOVOBARRAGEMMAGOS(5).jpeg",
+    "https://images.century21.pt/8733c149-3d32-4583-b494-55f36487e52d/WhatsAppImage2026-07-06at12.41.30.jpeg",
+    "https://images.century21.pt/eb84b11f-8280-404a-96ee-5db54c75f7cb/WhatsAppImage2026-07-06at12.41.30(2).jpeg",
+    "https://images.century21.pt/705b96b1-3783-4ca6-bcb6-b2b555373121/WhatsAppImage2026-07-06at12.41.30(1).jpeg",
+    "https://images.century21.pt/b94621ac-47f5-4311-94fe-ca5410ce3396/WhatsAppImage2026-07-06at12.41.30(3).jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Acesso por estrada"
+    ]
+  },
   "estado": null,
   "area_util_m2": 0,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 43,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "EXEMPT"
 }

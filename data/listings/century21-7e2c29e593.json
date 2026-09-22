@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 98.2,
   "image": "https://images.century21.pt/1386ee94-5420-4f4e-a603-fc808bb03ee9/3.png",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 41.555168,
     "lng": -8.428305
@@ -22,12 +22,44 @@
   "published_at": "2026-09-22",
   "last_seen_at": "2026-09-22",
   "images": [
-    "https://images.century21.pt/1386ee94-5420-4f4e-a603-fc808bb03ee9/3.png"
+    "https://images.century21.pt/1386ee94-5420-4f4e-a603-fc808bb03ee9/3.png",
+    "https://images.century21.pt/926d56a7-bc9c-4e4c-a519-1d938a83a7ee/P1110006.jpg",
+    "https://images.century21.pt/db708f9f-7928-46ff-b20a-08db60e7304b/1.png",
+    "https://images.century21.pt/ed9725a5-1d49-4d00-bf7d-d84576c4a206/5.png",
+    "https://images.century21.pt/300fd58c-88fa-4894-b00f-378eeab5fb1f/6.png",
+    "https://images.century21.pt/9d970bdd-0149-4e0a-b6be-f4e22f618389/7.png",
+    "https://images.century21.pt/a75af9d4-3d82-4801-8b75-b589204e0cc6/8.png",
+    "https://images.century21.pt/e90baa44-de45-47ea-a74c-5295a628a60c/P1100988.jpg",
+    "https://images.century21.pt/84284899-307a-423c-a36f-9595a1b7f53f/P1100991.jpg",
+    "https://images.century21.pt/7bfae136-a04d-4ee9-a4f3-cf5eabc247fd/P1110007.jpg",
+    "https://images.century21.pt/c8fe5feb-25f7-462c-b9a4-f208292433d3/4.png",
+    "https://images.century21.pt/f4733c7a-bfb7-490a-880d-c3c73065fac5/2.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Casa de banho",
+      "Quarto",
+      "Localização central",
+      "Vista cidade",
+      "Fogão elétrico",
+      "Elevador",
+      "Hall de entrada",
+      "Exaustor",
+      "Garagem",
+      "Boa exposição solar",
+      "Cozinha",
+      "Sala de estar",
+      "Micro-ondas",
+      "Forno",
+      "Gás canalizado",
+      "Água canalizada",
+      "Caixilharia"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 98.2,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 142,
+  "ano_construcao": 1994,
+  "certificacao_energetica": "E"
 }

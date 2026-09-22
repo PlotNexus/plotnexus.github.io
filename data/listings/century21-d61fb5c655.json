@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 137,
   "image": "https://images.century21.pt/19bae1fd-9bed-41aa-95f1-e294d64e655c/FotoFachadafrente.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.1290918,
     "lng": -9.0124998
@@ -22,12 +22,51 @@
   "published_at": "2026-09-22",
   "last_seen_at": "2026-09-22",
   "images": [
-    "https://images.century21.pt/19bae1fd-9bed-41aa-95f1-e294d64e655c/FotoFachadafrente.jpeg"
+    "https://images.century21.pt/19bae1fd-9bed-41aa-95f1-e294d64e655c/FotoFachadafrente.jpeg",
+    "https://images.century21.pt/493b80f2-2786-43e5-9f59-b167c25a7643/FotoFachadalimpa.jpeg",
+    "https://images.century21.pt/02a00fda-3501-4505-a5f0-426ce28d80b2/FotoFachadavaranda.jpeg",
+    "https://images.century21.pt/ec8828a0-8bd8-41f8-9c36-37b673e128fb/IMG0944.jpg",
+    "https://images.century21.pt/261b1733-fd12-43c0-b471-46002f0742bd/IMG0940.jpg",
+    "https://images.century21.pt/1dea7fb6-732f-4a86-8a18-10c52ef04cd3/IMG0947.jpg",
+    "https://images.century21.pt/e23f5f1f-79cc-471a-967c-f0ff75e75991/IMG0957.jpg",
+    "https://images.century21.pt/977376ee-9b48-4a20-a6e8-aca6787565c6/IMG0962.jpg",
+    "https://images.century21.pt/2f6b903d-d25c-470e-be9a-78feb9d537c5/IMG0964.jpg",
+    "https://images.century21.pt/2ab0e601-e4e9-408d-b4b1-d2dea899fd93/IMG0958.jpg",
+    "https://images.century21.pt/cce11ac3-5e25-4a21-9c02-114e8b7c7c4c/IMG0966.jpg",
+    "https://images.century21.pt/c6020d04-e481-4cd3-b305-986f98d827a9/IMG0974.jpg",
+    "https://images.century21.pt/10397099-0684-4494-8f08-d654ca02b681/IMG0976.jpg",
+    "https://images.century21.pt/0e4c4ce5-78ce-40c1-b672-d159504e908d/IMG0980.jpg",
+    "https://images.century21.pt/c83831c8-85f7-455f-80ef-0da2c7968e32/IMG0978.jpg",
+    "https://images.century21.pt/267e8885-5003-4207-93fc-cab47d6ee6b2/IMG0981.jpg",
+    "https://images.century21.pt/fc9653da-6792-41ad-867b-2f2038d1fcea/IMG0979.jpg",
+    "https://images.century21.pt/97e7fcfb-5562-4a96-8a91-1f739329cc4a/IMG1006.jpg",
+    "https://images.century21.pt/2b80875e-ef03-497e-858c-8d4ab65b972b/IMG1004.jpg",
+    "https://images.century21.pt/873f6377-691f-40a3-972f-4a66dfaca6c6/IMG1008.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Cave",
+      "Casa de banho",
+      "Quarto",
+      "Sala de jantar",
+      "Propriedade plena",
+      "Garagem",
+      "Quarto de hóspedes",
+      "Corredor",
+      "Cozinha",
+      "Sala de estar",
+      "Despensa",
+      "Casa de banho privativa",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Casa de banho de suite",
+      "Quarto em suite"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 137,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 169,
+  "ano_construcao": 2011,
+  "certificacao_energetica": "B-"
 }
