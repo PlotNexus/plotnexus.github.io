@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 71.53,
   "image": "https://images.century21.pt/258f3b12-9f80-4ad2-af50-5de389a05174/1.jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.732945,
     "lng": -9.404983
@@ -22,12 +22,33 @@
   "published_at": "2026-09-22",
   "last_seen_at": "2026-09-22",
   "images": [
-    "https://images.century21.pt/258f3b12-9f80-4ad2-af50-5de389a05174/1.jpeg"
+    "https://images.century21.pt/258f3b12-9f80-4ad2-af50-5de389a05174/1.jpeg",
+    "https://images.century21.pt/20615e41-7497-4065-9b0f-8d8e9d654fb0/3.jpeg",
+    "https://images.century21.pt/ba6b727f-2dc3-4bca-be25-9ecf697dba39/5.jpeg",
+    "https://images.century21.pt/44d1e802-d437-4ab5-8d86-601c7ecc78de/2.jpeg",
+    "https://images.century21.pt/9ceb5053-6b96-4135-a1aa-4fb85ca52fb3/4.jpeg",
+    "https://images.century21.pt/adea8512-3bb7-4ad9-b73d-19a3ab2aee38/geral.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Perto de uma autoestrada",
+      "Perto de comodidades",
+      "Perto de um complexo desportivo",
+      "Perto de um infantário",
+      "Perto de uma zona comercial",
+      "Luxo",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Rés-do-chão",
+      "Arrecadação",
+      "Garagem"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 71.53,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 92.15,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "A+"
 }

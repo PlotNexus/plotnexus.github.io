@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": 103,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t2-vila-nova-de-gaia-serzedo-e-perosinho_13_1_1560801_18972926_2_1_HAKUm269u0a7eDutdWPvjBOKJcB7UpigMPSve%2fuiCJ7EB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t2-vila-nova-de-gaia-serzedo-e-perosinho_14_1_1560801_18972926_2_1_HAKUm269u0a7eDutdWPvjBOKJcB7UpigMPSve%2fuiCJ7EB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "T2 localizado em condomínio fechado. 2 WCS, madeiras lacadas a branco, 103 m2 de área útil, varanda e terraço e exposição solar nascente-poente.\nConstituído por armários embutidos em todos os quartos, um dos quais suite, despensa, lavandaria e lugar de garagem para um carro e court de ténis.",
   "geo": {
     "lat": 41.10464,
     "lng": -8.555056
@@ -22,12 +22,45 @@
   "published_at": "2026-09-22",
   "last_seen_at": "2026-09-22",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t2-vila-nova-de-gaia-serzedo-e-perosinho_13_1_1560801_18972926_2_1_HAKUm269u0a7eDutdWPvjBOKJcB7UpigMPSve%2fuiCJ7EB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t2-vila-nova-de-gaia-serzedo-e-perosinho_14_1_1560801_18972926_2_1_HAKUm269u0a7eDutdWPvjBOKJcB7UpigMPSve%2fuiCJ7EB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 103"
+    ],
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Edifício": [
+      "Equipamento: Court Ténis",
+      "Tipo Empreendimento: Cond. Fechado"
+    ],
+    "Exposição Solar": [
+      "Nascente, Poente"
+    ],
+    "Garagem": [
+      "Água, Eletricidade, Luz, Portão Automático",
+      "Local: Cave"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos: Auto-Estrada, Transportes Púb.",
+      "Centralidade: Periferia Cidade",
+      "Proximidade: Bancos, Escolas, Jardins Infância, Supermercado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 103,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 103,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

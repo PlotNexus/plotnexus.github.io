@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 445,
   "image": "https://images.century21.pt/93c1206c-5ee2-45c6-aa00-e9c59a641b61/DJI202512250911400030D-2.jpg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 37.1659824329176,
     "lng": -8.30187678337097
@@ -22,12 +22,16 @@
   "published_at": "2026-09-22",
   "last_seen_at": "2026-09-22",
   "images": [
-    "https://images.century21.pt/93c1206c-5ee2-45c6-aa00-e9c59a641b61/DJI202512250911400030D-2.jpg"
+    "https://images.century21.pt/93c1206c-5ee2-45c6-aa00-e9c59a641b61/DJI202512250911400030D-2.jpg",
+    "https://images.century21.pt/75f9d8bc-c1cb-45a2-9a72-65587fe4e4c9/DJI202512250915390035D-2.jpg",
+    "https://images.century21.pt/d2ed1938-82f7-4b11-a087-3b5742df68d2/DJI202512250910360028D.jpg",
+    "https://images.century21.pt/c777a87a-3dbe-43fb-a403-20f1cb868c7e/DJI202512250917060036D.jpg",
+    "https://images.century21.pt/b450a1e7-0928-477a-b5d9-b3922251289c/DJI202512250912390032D.jpg"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 445,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 445,
+  "ano_construcao": 1970,
+  "certificacao_energetica": "EXEMPT"
 }

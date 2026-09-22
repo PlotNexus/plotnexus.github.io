@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 60,
   "image": "https://images.century21.pt/dfaf97a7-cd13-4c4e-969e-7739f4c1a7fe/DJI0118.jpg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 38.9249204,
     "lng": -9.2302637
@@ -22,12 +22,32 @@
   "published_at": "2026-09-22",
   "last_seen_at": "2026-09-22",
   "images": [
-    "https://images.century21.pt/dfaf97a7-cd13-4c4e-969e-7739f4c1a7fe/DJI0118.jpg"
+    "https://images.century21.pt/dfaf97a7-cd13-4c4e-969e-7739f4c1a7fe/DJI0118.jpg",
+    "https://images.century21.pt/30ed868b-5934-47e2-911d-88221bc28c4d/DJI0113.jpg",
+    "https://images.century21.pt/e07bea9c-a009-456c-acd5-4fcc0f47c57e/DJI0114.jpg",
+    "https://images.century21.pt/89e8447b-c11d-46e1-8ccb-5e40d0fbbead/DJI0119.jpg",
+    "https://images.century21.pt/403ad2b9-4a07-4a0a-96e7-f6b1ee80902c/DJI0120.jpg",
+    "https://images.century21.pt/da9ab116-dcbd-4e6e-9e39-83c6b79279a6/DJI0117.jpg",
+    "https://images.century21.pt/5bee20f3-d004-4a5d-bcd4-d7e4ccdc3004/DJI0115.jpg",
+    "https://images.century21.pt/fe103939-5959-4172-bfb3-286e780ff7ee/Mapa.png",
+    "https://images.century21.pt/d3c48047-b704-4adc-8734-3da88bdc4b73/foto10.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Vista campo",
+      "Vista serra",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma igreja",
+      "Perto de o centro da cidade"
+    ]
+  },
   "estado": null,
   "area_util_m2": 60,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 61,
+  "ano_construcao": 1991,
+  "certificacao_energetica": "EXEMPT"
 }
