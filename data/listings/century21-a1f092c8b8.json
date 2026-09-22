@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 245,
   "image": "https://images.century21.pt/e84ca61e-b60b-49ea-be8e-f0304bb165c7/01-FrentePredio.jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 39.5479258521716,
     "lng": -8.9642582544755
@@ -19,15 +19,47 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/0563-01869",
-  "published_at": "2026-09-21",
-  "last_seen_at": "2026-09-21",
+  "published_at": "2026-09-22",
+  "last_seen_at": "2026-09-22",
   "images": [
-    "https://images.century21.pt/e84ca61e-b60b-49ea-be8e-f0304bb165c7/01-FrentePredio.jpeg"
+    "https://images.century21.pt/e84ca61e-b60b-49ea-be8e-f0304bb165c7/01-FrentePredio.jpeg",
+    "https://images.century21.pt/54f9f9d2-29e8-451d-8276-a4dc4db95d7c/02-EntradaApartamento.jpeg",
+    "https://images.century21.pt/a521d92f-c5cf-47dc-be66-4877d6313534/03-CozinhaeSala.jpeg",
+    "https://images.century21.pt/e3e81171-1077-408f-b74d-a9d89720ab4b/06-QuartoEnsuite.jpeg",
+    "https://images.century21.pt/877e0a98-7f8b-468e-b594-9c0bab01da20/05-WCEnsuite.jpeg",
+    "https://images.century21.pt/6fd9953d-f358-4cc0-a781-6e3d085c1cca/08-Cave1.jpeg",
+    "https://images.century21.pt/d3669908-4da8-4112-891d-ff1fa910543c/07-DescidaCave.jpeg",
+    "https://images.century21.pt/f6539d08-2459-4202-9605-58d3d0fdb80f/09-Cave2.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma farmácia",
+      "Perto de uma zona comercial",
+      "Perto de uma zona histórica",
+      "Perto de o centro da cidade",
+      "Propriedade plena",
+      "Sem cadeia de venda",
+      "Casa de banho",
+      "Casa de banho de suite",
+      "Cave",
+      "Hall de quartos",
+      "Cozinha",
+      "Quarto",
+      "Quarto em suite",
+      "Água canalizada",
+      "Pré-instalação de ar condicionado",
+      "Rampa de acesso"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 245,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 626,
+  "ano_construcao": 2003,
+  "certificacao_energetica": "IN_PROCESS"
 }
