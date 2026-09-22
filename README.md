@@ -282,6 +282,22 @@ actual (pedidos HTTP simples, sem browser) não consegue contornar:
 
 - **SUPERCASA** — desafio Cloudflare com JavaScript obrigatório.
 - **CustoJusto** — proíbe scraping explicitamente no próprio `robots.txt`.
+- **iad Portugal** — o próprio `robots.txt` desautoriza explicitamente o
+  directório de listagens (`Disallow: /liste/annonces*`), o mesmo motivo de
+  princípio que exclui o CustoJusto.
+- **OLX Portugal** (categoria imóveis) — o `robots.txt` permite páginas
+  gerais, e uma sonda descartável a correr a partir de um runner real do
+  GitHub Actions (`node --check` num pedido HTTP simples, sem browser)
+  confirmou que a página tem anúncios reais no HTML quando responde —
+  mas a resposta é inconsistente: dos 4 pedidos da sonda, 2 vieram com o
+  conteúdo real (200, anúncios presentes) e 2 vieram bloqueados pela
+  CloudFront ("Request blocked", 403, sem qualquer indicação de
+  retry-after), incluindo dois pedidos idênticos consecutivos com
+  resultados diferentes. Ao contrário do 429 da CASA SAPO (previsível,
+  com espera e retentativa), este bloqueio parece decidido por pedido
+  (talvez por fingerprint), sem sinal claro de quando vai passar — por
+  isso não foi para produção; precisaria de mais investigação (ex.:
+  cabeçalhos mais próximos de um browser real) antes de ser fiável.
 
 Ultrapassar isto exigiria pelo menos automação de browser completo
 (Playwright/Puppeteer) — um investimento de engenharia maior que fica para

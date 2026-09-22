@@ -1,9 +1,0 @@
-{
-  "name": "olx-probe",
-  "private": true,
-  "type": "module",
-  "description": "Throwaway probe: checks from a real GitHub Actions runner IP whether OLX Portugal's imóveis category is reachable with a plain HTTP fetch (no browser), what its real category/URL structure is, whether listings are present in the raw HTML, and whether a modest burst of requests trips any rate-limit/anti-bot response. Not part of the production scraper.",
-  "dependencies": {
-    "cheerio": "^1.0.0"
-  }
-}
