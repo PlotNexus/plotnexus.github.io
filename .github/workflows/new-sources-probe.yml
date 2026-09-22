@@ -1,0 +1,42 @@
+name: New sources probe (one-off)
+
+# Throwaway diagnostic, not part of the production scraper. Checks from a
+# real GitHub Actions runner IP whether Quatru (BPI-affiliated real estate
+# marketplace) and e-leiloes.pt (official OSAE judicial auction platform)
+# are reachable with a plain HTTP fetch, what their real URL/category
+# structure looks like, whether listing data is present in the raw HTML,
+# and whether a modest burst of requests trips any rate-limit/block
+# response — before deciding whether either is worth building as a real
+# source.
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install probe dependencies
+        working-directory: scripts/scrape/experiments/new-sources-probe
+        run: npm install
+
+      - name: Run probe
+        working-directory: scripts/scrape/experiments/new-sources-probe
+        run: node probe.js
+
+      - name: Upload probe output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: new-sources-probe-output
+          path: scripts/scrape/experiments/new-sources-probe/out/
+          retention-days: 7
+          if-no-files-found: warn
