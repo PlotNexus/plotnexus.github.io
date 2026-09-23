@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 174.35,
   "image": "https://images.century21.pt/2e278ef3-61d7-4962-9d55-885d6d6d7bca/hf202606011505126f5186a0-1645-477a-83e2-a8e8da5ae973.png",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 41.1164708,
     "lng": -8.6620738
@@ -22,12 +22,46 @@
   "published_at": "2026-09-23",
   "last_seen_at": "2026-09-23",
   "images": [
-    "https://images.century21.pt/2e278ef3-61d7-4962-9d55-885d6d6d7bca/hf202606011505126f5186a0-1645-477a-83e2-a8e8da5ae973.png"
+    "https://images.century21.pt/2e278ef3-61d7-4962-9d55-885d6d6d7bca/hf202606011505126f5186a0-1645-477a-83e2-a8e8da5ae973.png",
+    "https://images.century21.pt/23d65134-9e5a-406e-8933-da5365eb46a3/(2).png",
+    "https://images.century21.pt/a0effd22-41c9-4619-ae5f-982b57a1a38e/hf202606012131159a4b406a-6eee-455b-8f74-bb3035c74fe6.png",
+    "https://images.century21.pt/c60b42b2-32ed-4dc9-9839-840c72769c52/hf202606011453119ec8efa5-1381-4ca3-83bc-abe0f8d629ad.png",
+    "https://images.century21.pt/20846f7b-d102-45f3-851c-2ce6b1432ca4/hf202606011505098ce1e36c-78b9-402f-b631-83744e1b3c91.png",
+    "https://images.century21.pt/1b3db308-ba80-401c-82af-dea10a62169a/(4).png",
+    "https://images.century21.pt/df063ce3-9a38-4db5-af80-85e66e4976d5/(5).png",
+    "https://images.century21.pt/2cb57098-a4aa-4b5a-8fb5-0ce172335bd7/(1).png",
+    "https://images.century21.pt/268db22e-9dd7-4b40-a751-5d9cbb43ebe4/DSC07114.png",
+    "https://images.century21.pt/461e9fcb-5510-4a02-a460-cf80754c576d/DSC07119.jpeg",
+    "https://images.century21.pt/653f5982-eebc-42a9-891c-0855ab7f2f47/DSC07117.jpeg",
+    "https://images.century21.pt/8382de47-fe5b-4aec-bcfb-d18387209d64/DSC07102.jpeg",
+    "https://images.century21.pt/0156037c-daa6-4dd4-9532-1d4b99cceafa/DSC07107.jpeg",
+    "https://images.century21.pt/de74c861-dd6c-4c4b-939d-5f6a4f405128/DSC07104.jpeg",
+    "https://images.century21.pt/2ec0dc69-3695-46dc-bbab-00a148276cae/DSC07109.jpeg",
+    "https://images.century21.pt/a0d64b9f-2ff7-4425-9bfa-484bf27665ce/DSC07100.png",
+    "https://images.century21.pt/c944fab0-745f-4865-8a65-9a7b792b1068/DSC07098.jpeg",
+    "https://images.century21.pt/9cb07c02-89b6-4432-a27d-bb9221dcf379/DSC07112.jpeg",
+    "https://images.century21.pt/57a3f8d5-5320-4dc2-b4c5-f25129821eef/DSC07132.jpeg",
+    "https://images.century21.pt/94320177-820d-4f74-bc57-e91085702a8a/DSC07121.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Alarme",
+      "Aquecimento central",
+      "Ar condicionado",
+      "Caixilharia",
+      "Vista mar",
+      "Garagem",
+      "Jardim",
+      "Lavandaria",
+      "Varanda",
+      "Luxo",
+      "Boa exposição solar",
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 174.35,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 222.75,
+  "ano_construcao": 2016,
+  "certificacao_energetica": "A"
 }

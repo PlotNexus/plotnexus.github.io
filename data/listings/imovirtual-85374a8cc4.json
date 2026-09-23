@@ -6,25 +6,41 @@
   "currency": "EUR",
   "location": "Ponta Delgada (São Pedro), Ponta Delgada, Ilha de São Miguel",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 103.15,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpmZnFha25rMXpucDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UuckuTA-d_LxHm2nGhaWEUqrTNtpFoZw0h43h-YYqSo/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpmZnFha25rMXpucDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UuckuTA-d_LxHm2nGhaWEUqrTNtpFoZw0h43h-YYqSo/image;s=2048x1536;q=80",
+  "description": "Apartamento T3 integrado no empreendimento Sea Lux 03, em Ponta Delgada.",
+  "geo": {
+    "lat": 37.744324,
+    "lng": -25.65277
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/edificio-sea-lux-03-fracao-bj-ID1iUKX",
-  "published_at": "2026-09-23",
+  "published_at": "2026-09-22",
   "last_seen_at": "2026-09-23",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpmZnFha25rMXpucDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UuckuTA-d_LxHm2nGhaWEUqrTNtpFoZw0h43h-YYqSo/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpmZnFha25rMXpucDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UuckuTA-d_LxHm2nGhaWEUqrTNtpFoZw0h43h-YYqSo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRvcmV5djJ4Y2Z5NzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ST4o9ecxIZONXtsBkIIbsWQ_D6tPGVj6ujPcHLSJMZ4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJwMWZ5OTRicXpsdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rzqdnYDqInt1Yw08VXT8PZELftthVtqhtqhDtVM5mAU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjVzZGx0Ymlocm44NjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.oojEMHmnNCBhsmVWz-Ka9yccPMe17_1FGWje9MOtIsk/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Condomínio fechado"
+    ],
+    "Equipamentos": [
+      "Cozinha independente",
+      "Varanda",
+      "Terraço",
+      "Garagem"
+    ]
+  },
   "estado": null,
   "area_util_m2": 103.15,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "Isento"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 85,
   "image": "https://images.century21.pt/6b0ffe79-1419-400e-99a1-f960f2dccf62/3sala.jpg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 38.7645326117263,
     "lng": -9.26430702209473
@@ -22,12 +22,57 @@
   "published_at": "2026-09-23",
   "last_seen_at": "2026-09-23",
   "images": [
-    "https://images.century21.pt/6b0ffe79-1419-400e-99a1-f960f2dccf62/3sala.jpg"
+    "https://images.century21.pt/6b0ffe79-1419-400e-99a1-f960f2dccf62/3sala.jpg",
+    "https://images.century21.pt/d4729657-92c0-414b-8a7b-9326b0c02d6e/1sala.jpg",
+    "https://images.century21.pt/515b865e-9531-48ea-bf28-ba0c2dd26fcf/4a.jpg",
+    "https://images.century21.pt/13fcbda0-2ffe-4f6e-b201-972ccce7b5e2/5avista.jpg",
+    "https://images.century21.pt/1cd999c2-9b53-4c12-aced-2172fcc9beed/2sala.jpg",
+    "https://images.century21.pt/7aaa51ac-b8df-4ab6-8366-5ca248bcf248/6a.jpg",
+    "https://images.century21.pt/379bef5a-4c29-4b52-ae5a-1efef3254ac4/6cozinha.jpg",
+    "https://images.century21.pt/e56a81f2-15a0-49c0-927c-5d634680df72/9cozinha.jpg",
+    "https://images.century21.pt/bcb485b3-9f3d-4e51-9825-f464496e12e4/8cozinha.jpg",
+    "https://images.century21.pt/1bced241-edcf-4506-a9cf-1cac017712b1/7cozinha.jpg",
+    "https://images.century21.pt/fc48db6c-9be5-45cb-ba8c-08a5a30a957f/10hall.jpg",
+    "https://images.century21.pt/371c37aa-8491-4e8d-ba57-74ba1ea46d17/11quarto1.jpg",
+    "https://images.century21.pt/7465f7dd-db4c-4747-96f7-fd9914706c55/12quarto2.jpg",
+    "https://images.century21.pt/24f946ef-92b7-4c9a-a6c9-8c0d89832728/13quarto2.jpg",
+    "https://images.century21.pt/6bc627e2-1b4c-41c5-8ab4-d1d1a0ac6bfd/14quarto2.jpg",
+    "https://images.century21.pt/c9bc8b0d-8bc4-4dc5-bda0-848f956389b4/15WC.jpg",
+    "https://images.century21.pt/04b20f3d-5ba7-4230-8f4d-1b328f451f7e/16corredor.jpg",
+    "https://images.century21.pt/87db4528-223b-4d5d-85b7-a5eb5a477f7c/17a.jpg",
+    "https://images.century21.pt/6fece7b7-19d1-43e6-a567-2ce36f63a759/18despensa.jpg",
+    "https://images.century21.pt/6f0e6c85-052c-4d9f-92ec-00c9a1e220a3/17corredor.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador",
+      "Exaustor",
+      "Forno",
+      "Janelas duplas",
+      "Lareira",
+      "Porta de alta segurança",
+      "Vídeo-porteiro",
+      "Vista panorâmica",
+      "Vista rio",
+      "Perto de uma estação de comboio",
+      "Arrecadação",
+      "Despensa",
+      "Garagem",
+      "Varanda",
+      "Fogão de indução",
+      "Piso em mosaico",
+      "Piso flutuante",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Estacionamento",
+      "Perto de um espaço público",
+      "Perto de o centro da cidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 85,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 88,
+  "ano_construcao": 2002,
+  "certificacao_energetica": "F"
 }

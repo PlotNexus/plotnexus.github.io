@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 80,
   "image": "https://images.century21.pt/3243097b-3815-44bb-a0cb-4157012a75e9/file00000000bd44720a84c244bc7c91d3e0.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.1225964,
     "lng": -8.5915297
@@ -22,12 +22,25 @@
   "published_at": "2026-09-23",
   "last_seen_at": "2026-09-23",
   "images": [
-    "https://images.century21.pt/3243097b-3815-44bb-a0cb-4157012a75e9/file00000000bd44720a84c244bc7c91d3e0.jpg"
+    "https://images.century21.pt/3243097b-3815-44bb-a0cb-4157012a75e9/file00000000bd44720a84c244bc7c91d3e0.jpg",
+    "https://images.century21.pt/b60787f1-11f7-4882-8776-3b418074986d/Salacondominio.png",
+    "https://images.century21.pt/27852916-d23e-4a8a-ab1a-72336f70effd/IMG6500.jpg",
+    "https://images.century21.pt/30fd390c-33b1-43ed-a837-0dd9316f60d4/IMG6498.jpg",
+    "https://images.century21.pt/b29c2cd3-9a96-49f0-b4f9-bda2a3c4911e/IMG6499.jpg",
+    "https://images.century21.pt/6ea46fac-cfb5-4674-97f6-2a9443c45114/IMG6497.jpg",
+    "https://images.century21.pt/83e49814-0eab-4970-a962-a33dda199764/djifly2026041917161600261776617821056photo.jpg",
+    "https://images.century21.pt/769151a5-101d-4a1b-9f01-36beebc88d3a/IMG6501.jpg",
+    "https://images.century21.pt/1e015e2c-da6d-4e19-9bb0-4ec62063649c/file00000000d7b0720a930b39abb54a60e5.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estacionamento",
+      "Elevador"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 80,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 81,
+  "ano_construcao": 2027,
+  "certificacao_energetica": "EXEMPT"
 }

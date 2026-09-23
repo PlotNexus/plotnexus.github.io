@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Queluz e Belas, Sintra, Lisboa",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 123.5,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InEzZW5iYzNveHFlajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.k_O5v8qwT7XIXuAAL-HpZi5pjKvx0r3yQM4eW3Za6Dc/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InEzZW5iYzNveHFlajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.k_O5v8qwT7XIXuAAL-HpZi5pjKvx0r3yQM4eW3Za6Dc/image;s=2048x1536;q=80",
+  "description": "Mais do que um empreendimento. Um privilégio para viver.\n\nImagine abrir as portas da sua casa e ser recebido por uma varanda ampla, onde o horizonte se estende à sua frente e o tempo parece desacelerar.\n\nNo Varandas das Águas Livres, cada amanhecer convida a recomeçar e cada final de tarde transforma-se num momento para celebrar a vida ao lado de quem realmente importa.\n\nAqui, o requinte não está apenas na arquitetura contemporânea ou nos acabamentos cuidadosamente pensados. Está na sensação de liberdade, na luz natural que invade cada divisão, no silêncio que abraça o seu descanso e na certeza de que encontrou o lugar onde a sua família merece viver.\n\nOs exclusivos apartamentos T3, com garagem e arrecadação, foram concebidos para oferecer muito mais do que conforto: oferecem espaço para criar memórias, receber amigos, ver os filhos crescerem e viver cada instante sem limitações.\n\nO verdadeiro destaque são as suas generosas varandas que se tornam uma extensão da casa. Com uma sala integrada à cozinha totalmente equipada com frigorífico tipo americano, forno, micro-ondas, placa de indução, exaustor, máquina de lavar roupas e lava-loiças é um espaço ideal para contemplar uma vista desafogada que inspira paz e bem-estar. \n\nE para quem procura algo ainda mais especial, o empreendimento reserva duas oportunidades verdadeiramente diferenciadoras.\n\nDois dos apartamentos beneficiam de generosos terraços à frente e nas traseiras, proporcionando uma experiência de habitação ainda mais exclusiva, onde o espaço interior se prolonga naturalmente para o exterior.\n\nImagine começar o dia num dos terraços, desfrutando tranquilamente do pequeno-almoço ao ar livre, e terminar a tarde no outro, num ambiente reservado, perfeito para reunir a família, receber amigos ou simplesmente aproveitar momentos de descanso.\n\nSão áreas exteriores amplas que permitem criar diferentes ambientes uma zona de refeições, um espaço lounge, um jardim privado ou aquele recanto especial onde poderá simplesmente parar e aproveitar a sua casa.\n\nPorque quando o espaço exterior faz verdadeiramente parte da casa, viver ganha uma dimensão diferente.\n\nNo Varandas das Águas Livres, cada detalhe foi pensado para proporcionar conforto, tranquilidade e qualidade de vida à sua família. \n\nPorque existem casas e existem lares capazes de transformar a forma como vivemos.\n\nVarandas das Águas Livres é para quem procura mais do que um imóvel. É para quem valoriza qualidade de vida, exclusividade e a felicidade dos pequenos momentos.\n\nVarandas das Águas Livres.\n\nMais espaço para viver. Mais liberdade para sentir. Mais momentos para recordar.\n\nChegou o momento de oferecer à sua família o espaço que ela merece. \n\nCategoria Energética: A",
+  "geo": {
+    "lat": 38.765385,
+    "lng": -9.251747
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,32 @@
   "published_at": "2026-09-23",
   "last_seen_at": "2026-09-23",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InEzZW5iYzNveHFlajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.k_O5v8qwT7XIXuAAL-HpZi5pjKvx0r3yQM4eW3Za6Dc/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InEzZW5iYzNveHFlajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.k_O5v8qwT7XIXuAAL-HpZi5pjKvx0r3yQM4eW3Za6Dc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZ1dDh0ejYxeHNoOC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.nmqwu_fKgWHa1B7fVk-4_GThbDu-eSY6aAjYu7gY--s/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZvMjFkczhheDRmby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.22RZj8QLW05UPNH7P2WAXx9PP6w4NwmEUpJKE8neNQU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFpbWFjb2Rna3l5cjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.WBPCDVjtdfAy5cWbx-1jl5oNXHU-blC28wtcT8Rdiu4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFqbXgzZXhubXpqNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.OO4pkZrTvXBIb2nAuAN2A1lMtCLhzenZf5OCRLiGeMc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjM5ejFxcjlxZ2dscjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.iQSy1CrVEUpjXcCaahwch13jAYvct7W7_AsUQQ9_AHY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijh5MHJldGNlM3BvbjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3nGH7QCD-iXUs7wWfZ_GEekpVsRxg7DSu3YFQNkSlAY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImtxMTR6MjVheThnMDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BkIoW56VWFVJ9abm7xuzPqnsm9SNYMUh9sLsxNk00LU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZpbml5cXJkaDR0eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fCHvc8pfoAubbotNFKDqmIIc1O-l8l5oV-iTyK2b0zg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE0bG5zY2xrMHYzbTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lovzUerW_bzOYmDzEYTfQnRF761I3FR9C6f5g-oDTLU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImkydDYzamp2MjYxbzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ztH2VvoJXhUjfmvoRcq6p4lp16Oe-uTdD1TCB-dejNo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJkN3BjOXM4NGwzdDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.miwCdmk8UU81ZJCCOwZnAOwH0L1oXoZiG5FeVyPepvA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlnaGJhcGdzNnUyaDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8Yskh7KRCGmEpDGOfI0CS1r4t4fhL0iU7FkIvN3UZVM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlzcnFsbDNvc21xby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.uRleVaF1mY2ynHHoCJTSDlw4ceyZGNpa0GZKANcOxEo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNneXV1Ymp6YmJ1MzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.xxoNGrv38TLQKpf7zNh_EOBZfih_0ZNrABSHbVkKokU/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Elevador",
+      "Varanda"
+    ]
+  },
   "estado": null,
   "area_util_m2": 123.5,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }
