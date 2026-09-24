@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 44,
   "image": "https://images.century21.pt/31cdd84f-0930-46f7-bd33-a966772dc560/IMG20260426162440.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 37.5413447147066,
     "lng": -7.53642797470093
@@ -22,12 +22,33 @@
   "published_at": "2026-09-24",
   "last_seen_at": "2026-09-24",
   "images": [
-    "https://images.century21.pt/31cdd84f-0930-46f7-bd33-a966772dc560/IMG20260426162440.jpg"
+    "https://images.century21.pt/31cdd84f-0930-46f7-bd33-a966772dc560/IMG20260426162440.jpg",
+    "https://images.century21.pt/5741ca76-bbe5-46c3-a68c-7c2d463dbc0e/IMG20260426163210.jpg",
+    "https://images.century21.pt/1958cd6f-9ddf-4146-a697-760a6663f9a9/IMG20260426162432.jpg",
+    "https://images.century21.pt/4959a633-73d3-45d1-a45f-447bc7ce076e/IMG20260426162521.jpg",
+    "https://images.century21.pt/a08bafb3-7c10-4bd8-8ad7-c3c914a77a5d/IMG20260426162337.jpg",
+    "https://images.century21.pt/a933bb14-514c-4c9d-a607-18907bceab77/IMG20260426162543.jpg",
+    "https://images.century21.pt/624443cc-6b5e-41ae-9904-81c6231f22b3/IMG20260426163228.jpg",
+    "https://images.century21.pt/6725a206-4539-45d2-a12c-61cfd2441b97/IMG20260426163221.jpg",
+    "https://images.century21.pt/afe77a10-843e-459e-a6a5-22bc926d4362/IMG20260426163149.jpg",
+    "https://images.century21.pt/dac9e31e-5f66-40d7-955a-e5307e92550f/IMG20260426163300.jpg",
+    "https://images.century21.pt/b80aafee-fe8f-4659-8ce7-eb803b501da7/IMG20260426163256.jpg",
+    "https://images.century21.pt/bdfb4ea8-ba21-4adb-b24f-f23b91b994a7/IMG20260426163357.jpg",
+    "https://images.century21.pt/d10f56c8-54a8-4c19-ac72-bbaed3ab8ce2/IMG20260426163156.jpg",
+    "https://images.century21.pt/c1613096-2739-4b63-b83e-b25143faf23d/IMG20260426163335.jpg",
+    "https://images.century21.pt/00e1786d-b866-43b4-9266-cbc2541aed69/IMG20260426163321.jpg",
+    "https://images.century21.pt/86df65ed-3fc8-4a6e-878c-1eae4452b4f0/IMG20260426163325.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Zona tranquila",
+      "Água",
+      "Eletricidade"
+    ]
+  },
   "estado": null,
   "area_util_m2": 44,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 45,
+  "ano_construcao": 1950,
+  "certificacao_energetica": "EXEMPT"
 }
