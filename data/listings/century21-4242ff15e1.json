@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 88.09,
   "image": "https://images.century21.pt/4233a3b4-96d5-49fa-9073-6be30021cf56/SGCV11RF.jpg.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.1687007,
     "lng": -8.5909886
@@ -22,12 +22,53 @@
   "published_at": "2026-09-24",
   "last_seen_at": "2026-09-24",
   "images": [
-    "https://images.century21.pt/4233a3b4-96d5-49fa-9073-6be30021cf56/SGCV11RF.jpg.jpeg"
+    "https://images.century21.pt/4233a3b4-96d5-49fa-9073-6be30021cf56/SGCV11RF.jpg.jpeg",
+    "https://images.century21.pt/666c2cad-c627-447f-b88d-df19a11efc4f/SGCV10RF.jpg.jpeg",
+    "https://images.century21.pt/784efd0b-e619-4fb3-bc34-bfb29e79f8dc/SGCV7RF.jpg.jpeg",
+    "https://images.century21.pt/82a53a3d-1513-47c8-80ac-fb2db78f1da2/SGCV8RF.jpg.jpeg",
+    "https://images.century21.pt/c6811d58-e27e-4b3c-a1d7-8312e023bda2/SGCV9RF.jpg.jpeg",
+    "https://images.century21.pt/7f8927b3-1a48-4a6f-8a4a-b82ecb5a20cf/SGCV12RF.jpg.jpeg",
+    "https://images.century21.pt/3da06387-e159-42be-a7ec-b28fa8a4286e/SGCV3RF.jpg.jpeg",
+    "https://images.century21.pt/deed4143-d9c8-4e1a-8fc4-40c308fc99af/SGCV1RF.jpg.jpeg",
+    "https://images.century21.pt/9e8b398f-0987-4059-aecb-65e94689b9a7/SGCV2RF.jpg.jpeg",
+    "https://images.century21.pt/29a22579-1838-40be-887e-bf31a95cf50b/SGCV4RF.jpg.jpeg",
+    "https://images.century21.pt/dd7dd536-4b84-4228-a59c-7db9890cc311/SGCV6RF.jpg.jpeg",
+    "https://images.century21.pt/a8c5c3c9-ad76-4fd5-aa1b-7931f3fd48ef/SGCV5RF.jpg.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Vista cidade",
+      "Luxo",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Open space",
+      "Localização central",
+      "Perto de uma autoestrada",
+      "Perto de um banco",
+      "Perto de uma bomba de gasolina",
+      "Perto de comodidades",
+      "Perto de um complexo desportivo",
+      "Perto de espaços verdes",
+      "Perto de a polícia",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma estação de comboio",
+      "Perto de uma farmácia",
+      "Perto de uma igreja",
+      "Perto de um infantário",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de o metro",
+      "Perto de uma praça de táxis",
+      "Perto de um quartel de bombeiros",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de o centro da cidade"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 88.09,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 105.9,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "EXEMPT"
 }

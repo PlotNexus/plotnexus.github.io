@@ -8,7 +8,7 @@
   "bedrooms": 0,
   "bathrooms": 1,
   "area_m2": 47,
-  "image": "https://mediaredir2.era.pt/i/apartamento-estudio-setubal-setubal-sao-sebastiao_13_1_1578132_19191256_2_1_uxyIqrSh1dsYYZK5FdCOco4uQSDIG8o9iQYAOdMEF5%2fEB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/apartamento-estudio-setubal-setubal-sao-sebastiao_14_1_1578132_19191256_2_1_uxyIqrSh1dsYYZK5FdCOco4uQSDIG8o9iQYAOdMEF5%2fEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 38.534017046383276,
@@ -22,12 +22,17 @@
   "published_at": "2026-09-24",
   "last_seen_at": "2026-09-24",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-estudio-setubal-setubal-sao-sebastiao_13_1_1578132_19191256_2_1_uxyIqrSh1dsYYZK5FdCOco4uQSDIG8o9iQYAOdMEF5%2fEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-estudio-setubal-setubal-sao-sebastiao_14_1_1578132_19191256_2_1_uxyIqrSh1dsYYZK5FdCOco4uQSDIG8o9iQYAOdMEF5%2fEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 47,1"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 47,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 47,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

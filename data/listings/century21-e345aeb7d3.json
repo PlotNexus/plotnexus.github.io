@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 114,
   "image": "https://images.century21.pt/58a5013f-a46f-4cdb-9686-186a3db951a1/CEFracaoDpredio.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6539023,
     "lng": -9.0741662
@@ -22,12 +22,43 @@
   "published_at": "2026-09-24",
   "last_seen_at": "2026-09-24",
   "images": [
-    "https://images.century21.pt/58a5013f-a46f-4cdb-9686-186a3db951a1/CEFracaoDpredio.jpg"
+    "https://images.century21.pt/58a5013f-a46f-4cdb-9686-186a3db951a1/CEFracaoDpredio.jpg",
+    "https://images.century21.pt/3039c1ea-2b9f-45ef-802e-1c48bf6b885d/PlantaFracaoD.jpg",
+    "https://images.century21.pt/cbe0fae7-4919-4127-a6e1-47d85a06cdb3/DesenhoPedio.png",
+    "https://images.century21.pt/2e7e4273-a955-4808-a65e-97fa5563be46/Semnome.png",
+    "https://images.century21.pt/89391436-2ae6-4270-9601-f04018f11b37/Planta3.png",
+    "https://images.century21.pt/cb490631-ea15-46e6-8c1b-1d54d908edbe/CEFracaoD.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Primeira linha",
+      "Vista rio",
+      "Boa exposição solar",
+      "Boa localização",
+      "Localização central",
+      "Perto de uma autoestrada",
+      "Perto de um banco",
+      "Perto de comodidades",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma estação de comboio",
+      "Perto de uma farmácia",
+      "Perto de um infantário",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de um quartel de bombeiros",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de uma zona histórica",
+      "Perto de o centro da cidade",
+      "Hall de entrada",
+      "Kitchenette",
+      "Varandas"
+    ]
+  },
   "estado": null,
   "area_util_m2": 114,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 115,
+  "ano_construcao": 2027,
+  "certificacao_energetica": "A+"
 }

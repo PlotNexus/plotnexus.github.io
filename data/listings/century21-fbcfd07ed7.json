@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 90,
   "image": "https://images.century21.pt/1bcb97c2-9233-4669-a859-1d86a8136a32/PHOTO-2026-03-18-18-00-343.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.5274008,
     "lng": -8.8787487
@@ -22,12 +22,44 @@
   "published_at": "2026-09-24",
   "last_seen_at": "2026-09-24",
   "images": [
-    "https://images.century21.pt/1bcb97c2-9233-4669-a859-1d86a8136a32/PHOTO-2026-03-18-18-00-343.jpg"
+    "https://images.century21.pt/1bcb97c2-9233-4669-a859-1d86a8136a32/PHOTO-2026-03-18-18-00-343.jpg",
+    "https://images.century21.pt/9ddd5441-2219-4c6f-ad2d-cecc70c3549d/PHOTO-2026-03-18-18-00-354.jpg",
+    "https://images.century21.pt/497388d1-9d24-4da8-9c99-9b39495b1398/PHOTO-2026-03-18-18-00-362.jpg",
+    "https://images.century21.pt/fc8e00d5-ec0e-49a8-8043-64ffa4f3fa6a/PHOTO-2026-03-18-18-00-342.jpg",
+    "https://images.century21.pt/11376ba8-a9e4-488a-b1cd-7b535018973c/PHOTO-2026-03-18-18-00-353.jpg",
+    "https://images.century21.pt/176ccce6-1fbe-4745-a69e-ec7b92ccae42/PHOTO-2026-03-18-18-00-35.jpg",
+    "https://images.century21.pt/e4c43412-8d34-4120-b20f-55fa0eb3d2c8/PHOTO-2026-03-18-18-00-352.jpg",
+    "https://images.century21.pt/59a28913-8194-4afc-bbe2-954405825dbd/PHOTO-2026-03-18-18-00-36.jpg",
+    "https://images.century21.pt/8d1a96c2-cd9f-49e4-b905-aeaf53b23fbb/PHOTO-2026-03-18-18-00-34.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Casa de banho de suite",
+      "Cozinha",
+      "Hall de entrada",
+      "Quarto",
+      "Quarto em suite",
+      "Sala de estar",
+      "Suite",
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Exaustor",
+      "Fogão",
+      "Fogão elétrico",
+      "Forno",
+      "Frigorífico",
+      "Máquina de lavar loiça",
+      "Máquina de lavar roupa",
+      "Fogão de indução",
+      "Porta de alta segurança",
+      "Termoacumulador elétrico",
+      "Teto falso"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 90,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 91,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "B"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 94,
   "image": "https://images.century21.pt/ee4c5d68-8eed-4c29-9a14-58637d440921/Semnome.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6539023,
     "lng": -9.0741662
@@ -22,12 +22,20 @@
   "published_at": "2026-09-24",
   "last_seen_at": "2026-09-24",
   "images": [
-    "https://images.century21.pt/ee4c5d68-8eed-4c29-9a14-58637d440921/Semnome.jpg"
+    "https://images.century21.pt/ee4c5d68-8eed-4c29-9a14-58637d440921/Semnome.jpg",
+    "https://images.century21.pt/78449d35-e513-47c9-a724-a4a8a8883b10/DesenhoPedio.png",
+    "https://images.century21.pt/1cdc003a-d767-4da0-9e79-76252174e20d/Semnome.png",
+    "https://images.century21.pt/aeef8346-eb2a-45e3-badc-a63ff9bea3ca/Planta3.png"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Primeira linha",
+      "Vista rio"
+    ]
+  },
   "estado": null,
   "area_util_m2": 94,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 95,
+  "ano_construcao": 2027,
+  "certificacao_energetica": "A+"
 }

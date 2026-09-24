@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 146.11,
   "image": "https://images.century21.pt/94e4cce6-a532-4072-822b-5b11c30ca291/0026.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.726558,
     "lng": -9.14644
@@ -22,12 +22,44 @@
   "published_at": "2026-09-24",
   "last_seen_at": "2026-09-24",
   "images": [
-    "https://images.century21.pt/94e4cce6-a532-4072-822b-5b11c30ca291/0026.jpg"
+    "https://images.century21.pt/94e4cce6-a532-4072-822b-5b11c30ca291/0026.jpg",
+    "https://images.century21.pt/eba05f23-cc39-4f28-9791-cff91ad375ad/0006.jpg",
+    "https://images.century21.pt/b1370cbf-7124-4e29-8230-e80076f2bec9/0007.jpg",
+    "https://images.century21.pt/daed3b96-e91c-4835-9790-0edb6e07a71f/0008.jpg",
+    "https://images.century21.pt/9cb9f044-5266-4656-889e-34365a184a0c/0011.jpg",
+    "https://images.century21.pt/71f559e8-678d-411f-abea-420dbe593601/0013.jpg",
+    "https://images.century21.pt/f148f03c-8197-4d0d-974e-b110e39437df/0012.jpg",
+    "https://images.century21.pt/5f5ea98c-1df9-4987-a3b6-0ca0e79cb77e/0018.jpg",
+    "https://images.century21.pt/3065318f-737e-4f8b-b913-c34888527c77/0019.jpg",
+    "https://images.century21.pt/d9b7ce74-d601-4678-a2de-0b8b944dad9f/0040.jpg",
+    "https://images.century21.pt/31a401d4-76e3-4800-8b1e-c922c4666e20/0039.jpg",
+    "https://images.century21.pt/fb4ad7b0-81ce-49b8-8b61-c9ce7db5af78/0036.jpg",
+    "https://images.century21.pt/f312d75a-96e5-4301-92ee-b4b7c3f5aca7/0037.jpg",
+    "https://images.century21.pt/94243309-6bf0-4e39-83ec-0c95dde0ffb2/0038.jpg",
+    "https://images.century21.pt/86f3207b-b17e-4f20-9cdc-db76b47864ff/0015.jpg",
+    "https://images.century21.pt/301e68cc-1619-4a05-b8be-69188dda2b1f/0014.jpg",
+    "https://images.century21.pt/14d08675-a730-4b2d-b4ef-8b46cd44d5e0/0017.jpg",
+    "https://images.century21.pt/7daf0e30-54c4-4aae-b8bb-77019d22c3a3/0016.jpg",
+    "https://images.century21.pt/123ee440-c279-447b-a4a5-b49b7c0d90fa/0020.jpg",
+    "https://images.century21.pt/1cd60730-cdae-4d19-a6ad-bdf2c0579342/0021.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Elevador",
+      "Janelas duplas",
+      "Casa de banho",
+      "Corredor",
+      "Cozinha",
+      "Quarto",
+      "Sala de estar",
+      "Varanda"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 146.11,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 168,
+  "ano_construcao": 1999,
+  "certificacao_energetica": "C"
 }

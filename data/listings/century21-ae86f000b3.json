@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 175,
   "image": "https://images.century21.pt/6227ab8d-c4f1-45a3-9c54-0b9ec6e4d67e/DESFOCADO-24.png",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 37.1382316,
     "lng": -8.5484908
@@ -22,12 +22,47 @@
   "published_at": "2026-09-24",
   "last_seen_at": "2026-09-24",
   "images": [
-    "https://images.century21.pt/6227ab8d-c4f1-45a3-9c54-0b9ec6e4d67e/DESFOCADO-24.png"
+    "https://images.century21.pt/6227ab8d-c4f1-45a3-9c54-0b9ec6e4d67e/DESFOCADO-24.png",
+    "https://images.century21.pt/b0d60097-d19e-41dd-89fb-f4a91b722664/DESFOCADO-22.png",
+    "https://images.century21.pt/64695647-376d-4abd-a18d-cecc57335e61/DESFOCADO-21.png",
+    "https://images.century21.pt/3d053a35-abf8-4101-a96f-f15677898b14/DESFOCADO-25.png",
+    "https://images.century21.pt/25013856-f87d-452f-bd55-2dc3b9a694d3/DESFOCADO-17.png",
+    "https://images.century21.pt/1abce0e7-c5a3-4b71-aae7-2f5d31527aed/DESFOCADO-20.png",
+    "https://images.century21.pt/b3178905-2639-4e8d-afc3-993621dc794a/DESFOCADO-23.png",
+    "https://images.century21.pt/05bc2c19-5d24-458c-af7c-562eb1322456/DESFOCADO-6.jpg",
+    "https://images.century21.pt/0b80ae8c-7a67-4347-a95e-febb811b2354/DESFOCADO-9.jpg",
+    "https://images.century21.pt/54fc8c39-8283-4af3-8be5-8c9d1c687054/DESFOCADO-10.jpg",
+    "https://images.century21.pt/f6b008cf-85f8-4724-8ba5-df982d1d5642/DESFOCADO-8.jpg",
+    "https://images.century21.pt/63babf3f-a261-4eaa-9c38-1fc0ada56c27/DESFOCADO-7.jpg",
+    "https://images.century21.pt/f07022fc-40e6-4744-8321-02493030449e/DESFOCADO-14.jpg",
+    "https://images.century21.pt/756ac50f-7063-4900-9ee0-12fc19bba40a/DESFOCADO-11.jpg",
+    "https://images.century21.pt/d6494e87-f3c1-4dc9-a450-1b7f137777c7/DESFOCADO-27.jpg",
+    "https://images.century21.pt/f8716350-54b1-47a1-8049-6c5c06d24cbc/DESFOCADO-26.jpg",
+    "https://images.century21.pt/34846946-7d88-43e1-9cb6-109e750deb88/DESFOCADO-18.jpg",
+    "https://images.century21.pt/c91ceb46-8cea-46ac-b4e6-30ef1538502d/DESFOCADO-28.jpg",
+    "https://images.century21.pt/bbc94a56-c3ff-455d-b7fb-0f4fa8304767/DESFOCADO-19.jpg",
+    "https://images.century21.pt/e807fe83-867f-4ecd-9b2c-42ec28fefa75/DESFOCADO-12.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Terraço",
+      "Casa de banho",
+      "Suite",
+      "Piso flutuante",
+      "Perto de uma autoestrada",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma farmácia",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de a praia",
+      "Perto de o centro da cidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 175,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 185,
+  "ano_construcao": 2010,
+  "certificacao_energetica": "C"
 }

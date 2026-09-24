@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 86,
   "image": "https://images.century21.pt/0564bfc5-2646-4dc1-94fe-c48b8348af77/Fracao.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6539023,
     "lng": -9.0741662
@@ -22,12 +22,21 @@
   "published_at": "2026-09-24",
   "last_seen_at": "2026-09-24",
   "images": [
-    "https://images.century21.pt/0564bfc5-2646-4dc1-94fe-c48b8348af77/Fracao.jpg"
+    "https://images.century21.pt/0564bfc5-2646-4dc1-94fe-c48b8348af77/Fracao.jpg",
+    "https://images.century21.pt/03655738-d44d-4f59-93d1-eb071e65ab64/Semnome.png",
+    "https://images.century21.pt/443d79ca-c03e-4a70-b4fa-b9d6fdba58eb/DesenhoPedio.png",
+    "https://images.century21.pt/b560d25f-4ca4-48f2-af94-80a024b37523/planta.jpg",
+    "https://images.century21.pt/3c3e45ed-cd41-43d0-ad9a-46da2dd47160/Planta3.png",
+    "https://images.century21.pt/f04bcbf6-9242-472b-874a-afa70434d631/Semnome.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Primeira linha"
+    ]
+  },
   "estado": null,
   "area_util_m2": 86,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 87,
+  "ano_construcao": 2027,
+  "certificacao_energetica": "A+"
 }
