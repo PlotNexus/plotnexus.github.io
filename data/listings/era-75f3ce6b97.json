@@ -2,7 +2,7 @@
   "id": "era-75f3ce6b97",
   "title": "Moradia T2 / Arcos de Valdevez, Monte Redondo",
   "type": "venda",
-  "price": 155000,
+  "price": 145000,
   "currency": "EUR",
   "location": "Monte Redondo, Viana do Castelo",
   "bedrooms": 2,
@@ -10,7 +10,10 @@
   "area_m2": 84,
   "image": "https://mediaredir2.era.pt/i/moradia-t2-arcos-de-valdevez-monte-redondo_13_1_1543755_18775515_2_1_wYCzqCS7OGO2OfqmM9yNzorTC3myaumVi6ZE887l2nTEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.8414958895845,
+    "lng": -8.4481430053711
+  },
   "source": {
     "name": "ERA",
     "url": "https://www.era.pt"

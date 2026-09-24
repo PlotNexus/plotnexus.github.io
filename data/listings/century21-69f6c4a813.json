@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 300,
   "image": "https://images.century21.pt/020e0f83-e571-4fba-b71c-f7d09ef5e681/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-1.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 40.315801,
     "lng": -7.905503
@@ -22,12 +22,37 @@
   "published_at": "2026-09-24",
   "last_seen_at": "2026-09-24",
   "images": [
-    "https://images.century21.pt/020e0f83-e571-4fba-b71c-f7d09ef5e681/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-1.jpeg"
+    "https://images.century21.pt/020e0f83-e571-4fba-b71c-f7d09ef5e681/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-1.jpeg",
+    "https://images.century21.pt/baed5e07-54d2-46bc-ad5e-a55f82a8879f/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-2.jpeg",
+    "https://images.century21.pt/fdddbc3f-3aaa-406a-9c8e-dcf36a4f30d7/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-3.jpg",
+    "https://images.century21.pt/b9b72286-cbf7-45a6-b2e8-aa27c298f17f/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-4.jpeg",
+    "https://images.century21.pt/f818548f-a266-4589-94d3-bf3256b46464/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-10.png",
+    "https://images.century21.pt/88d3a3b1-1325-468b-975a-634c83669fe5/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-5.jpeg",
+    "https://images.century21.pt/65d09f0e-c874-44fb-a392-820da6bbc509/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-8.jpeg",
+    "https://images.century21.pt/fec4aa99-d664-45a4-87f8-b0916eaed6a6/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-9.jpeg",
+    "https://images.century21.pt/cfd38d5b-134e-4eea-817a-92daeb69505d/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-6.jpeg",
+    "https://images.century21.pt/3d54331d-b33a-4e6b-ab38-61c6a3d0ccdc/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-7.jpeg",
+    "https://images.century21.pt/2b7f1cab-67cf-4f8d-a8d3-40719bca53f3/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-14.jpeg",
+    "https://images.century21.pt/b3d92a11-9a52-46f0-8f47-e39bf81a58b8/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-12.png",
+    "https://images.century21.pt/5b0ca37f-2119-4963-a9fc-70c43fbf3d04/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-17.png",
+    "https://images.century21.pt/04a15897-b326-45b5-8492-fed7b1cc99d6/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-11.jpeg",
+    "https://images.century21.pt/a9b8f418-07f5-4674-b6cc-ca607f03285e/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-15.jpeg",
+    "https://images.century21.pt/9faf274c-00fa-423e-be70-96c4e2c36962/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-16.jpeg",
+    "https://images.century21.pt/3fe06a1e-03a4-474a-a6ab-d0c52f5938c4/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-13.png",
+    "https://images.century21.pt/e9fc151f-d5e6-4dda-94f2-4ff0f8a043f9/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-23.jpeg",
+    "https://images.century21.pt/d7839671-7cb3-4319-a4ea-14877926e897/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-22.jpg",
+    "https://images.century21.pt/927e03d5-5a38-4848-b58f-2f496b380422/asset-image-f53ea81e-6385-4655-bcd4-d2420a29e0fd-19.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Jardim",
+      "Piscina",
+      "Terraço"
+    ]
+  },
   "estado": null,
   "area_util_m2": 300,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 500,
+  "ano_construcao": 1979,
+  "certificacao_energetica": "E"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 129.7,
   "image": "https://images.century21.pt/9c9e56da-aa5c-4eff-ab06-4cfce8112815/740A4917.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.759664,
     "lng": -9.181437
@@ -22,12 +22,42 @@
   "published_at": "2026-09-24",
   "last_seen_at": "2026-09-24",
   "images": [
-    "https://images.century21.pt/9c9e56da-aa5c-4eff-ab06-4cfce8112815/740A4917.jpg"
+    "https://images.century21.pt/9c9e56da-aa5c-4eff-ab06-4cfce8112815/740A4917.jpg",
+    "https://images.century21.pt/35e0a466-c3f8-49e4-92e1-5d3b504ba432/740A4948.jpg",
+    "https://images.century21.pt/9d3aa7f2-d3d6-46f0-8756-f5d0a0958ba0/740A4923.jpg",
+    "https://images.century21.pt/3d8e61d1-7a29-4993-8742-fd430665d1b0/740A4685.jpg",
+    "https://images.century21.pt/5fec0959-e53e-4c18-a034-e117b803e8fd/740A4681.jpg",
+    "https://images.century21.pt/1466e963-6e5f-4741-9ec4-00ecdb47c3f6/740A4649.jpg",
+    "https://images.century21.pt/548c7fb9-2142-4241-b45c-8bbaefa9dc12/16-Saladejantar.jpg",
+    "https://images.century21.pt/af378aee-b22c-4426-8bf1-c1ef4ba52a59/740A4663.jpg",
+    "https://images.century21.pt/b7c95dad-53f2-404b-b3b2-63df366be088/740A4824.jpg",
+    "https://images.century21.pt/03cb7e2c-8c2d-45a1-92f7-8d6bc85bdb3b/740A4811.jpg",
+    "https://images.century21.pt/22a5dab1-f801-4d7c-ac4b-6e748e565a0b/740A4809.jpg",
+    "https://images.century21.pt/49fe5435-357f-4220-bfa6-7ae26c25a866/19-Saladejantar-varanda.jpg",
+    "https://images.century21.pt/b0f53caf-a07d-4230-87ff-5496527aa830/740A4847.jpg",
+    "https://images.century21.pt/0be90fb3-7b45-450c-b9e6-2047910e7a79/20-Corredor.jpg",
+    "https://images.century21.pt/26397790-9dc4-47e6-b077-d80ab56e3772/22-Corredor.jpg",
+    "https://images.century21.pt/04e9877e-ac2a-490c-aebd-bc3dea7a0352/32-Hallentrada.jpg",
+    "https://images.century21.pt/71dbe657-6cc1-4872-993a-9a7f51b56ad0/23-Quarto.jpg",
+    "https://images.century21.pt/f2f0ff3e-a178-471f-977a-2976ced9319b/30-WCSuite.jpg",
+    "https://images.century21.pt/1c907e93-bf7d-48ad-84cc-873cd33872bd/31-Corredor.jpg",
+    "https://images.century21.pt/c05bada6-c629-486d-9e11-02b89e76da14/31-WC.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador",
+      "Esquentador",
+      "Exaustor",
+      "Fogão",
+      "Forno",
+      "Janelas duplas",
+      "Máquina de lavar loiça",
+      "Micro-ondas"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 129.7,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 173.1,
+  "ano_construcao": 1968,
+  "certificacao_energetica": "E"
 }
