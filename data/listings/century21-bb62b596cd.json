@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 135.67,
   "image": "https://images.century21.pt/9f1be988-ed3e-4d6c-a1fe-2ed2e38af886/01Exterior02.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7070574,
     "lng": -9.2292252
@@ -22,12 +22,43 @@
   "published_at": "2026-09-25",
   "last_seen_at": "2026-09-25",
   "images": [
-    "https://images.century21.pt/9f1be988-ed3e-4d6c-a1fe-2ed2e38af886/01Exterior02.jpg"
+    "https://images.century21.pt/9f1be988-ed3e-4d6c-a1fe-2ed2e38af886/01Exterior02.jpg",
+    "https://images.century21.pt/d9b99a0f-2e5b-453b-ad4d-b99ac8c8359a/10Varanda02.jpg",
+    "https://images.century21.pt/e0a2255e-44be-492c-bc5a-d277286bf700/04Quarto101.jpg",
+    "https://images.century21.pt/7da733bd-a1db-4daf-9dbe-4db3c219e7f4/02Sala03.jpg",
+    "https://images.century21.pt/b135579b-b46f-4105-a7eb-8ad9001004b1/03Cozinha03.jpg",
+    "https://images.century21.pt/b2cf70b1-4fef-4b92-ae00-4e33a7b92d57/01Hall03.jpg",
+    "https://images.century21.pt/f711cb60-b0e0-4d4a-b624-468a0cabde92/01Hall01.jpg",
+    "https://images.century21.pt/40951b92-5248-40b3-b8e8-db77e27444c9/04Quarto102.jpg",
+    "https://images.century21.pt/993d36b3-8812-4cf7-a9dd-ec84ce68d1d5/02Sala01.jpg",
+    "https://images.century21.pt/439f91d8-5638-463e-9f3e-b525b90de8e9/03Cozinha02.jpg",
+    "https://images.century21.pt/74d54b42-ca6a-4dbd-addd-24390f044e04/01Hall02.jpg",
+    "https://images.century21.pt/b30d53be-f2ca-4df3-9daf-bcc07810987c/02Sala02.jpg",
+    "https://images.century21.pt/f1d18832-138b-4f96-99c3-61781b3e5ab8/03Cozinha01.jpg",
+    "https://images.century21.pt/04d2e9b2-8c6a-47f4-bbb3-55edb2dcc0cf/05Quarto201.jpg",
+    "https://images.century21.pt/d4654caa-c979-4306-b3b5-1232ad253f46/09I.S.Social01.jpg",
+    "https://images.century21.pt/9f26daed-265c-406c-ad54-5ac3bfa29a65/08I.S.Suite01.jpg",
+    "https://images.century21.pt/f0adf606-3baa-42ba-a9f5-37b02cf6e199/10Varanda01.jpg",
+    "https://images.century21.pt/bdc54e85-b68c-4cb6-9de6-09869e0a2fd8/07Suite02.jpg",
+    "https://images.century21.pt/9a50fa7a-9ba2-4f78-9d5d-0d85599972dc/09I.S.Social02.jpg",
+    "https://images.century21.pt/92e25c7c-05ea-475a-ae61-e26cf8778e93/05Quarto202.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Luxo",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Localização central",
+      "Garagem",
+      "Varandas",
+      "Estacionamento",
+      "Piscina comum",
+      "Elevador"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 135.67,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 190.31,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "IN_PROCESS"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 98.08,
   "image": "https://images.century21.pt/1476b36e-6969-486a-824e-f5dc39ff43c4/01Exterior02-Cpia.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7070574,
     "lng": -9.2292252
@@ -22,12 +22,43 @@
   "published_at": "2026-09-25",
   "last_seen_at": "2026-09-25",
   "images": [
-    "https://images.century21.pt/1476b36e-6969-486a-824e-f5dc39ff43c4/01Exterior02-Cpia.jpg"
+    "https://images.century21.pt/1476b36e-6969-486a-824e-f5dc39ff43c4/01Exterior02-Cpia.jpg",
+    "https://images.century21.pt/0d0c7333-93ae-46b3-838d-5edf0f93bfe6/09Varanda02.jpg",
+    "https://images.century21.pt/f6a48dd3-5285-44f4-b43f-fba3b4c7c93d/02Sala04.jpg",
+    "https://images.century21.pt/638a6202-8d4b-442d-aba0-0dccade0228e/03Cozinha03.jpg",
+    "https://images.century21.pt/68427e32-12a1-40ce-a656-7f184df1e227/01Hall03.jpg",
+    "https://images.century21.pt/26e92e38-0209-4c35-a709-949f1878874c/02Sala01(1).jpg",
+    "https://images.century21.pt/e58d01bf-dba0-4997-82ad-adbf495513dd/02Sala02.jpg",
+    "https://images.century21.pt/e39d8b66-fcf9-4630-b6af-938304fcbd2d/03Cozinha01B.jpg",
+    "https://images.century21.pt/5ece8fe6-2924-4bd9-944b-e9ab118726d5/02Sala02(1).jpg",
+    "https://images.century21.pt/2c3ddf92-f01f-4af6-b10e-854eee5e8973/01Hall02(1).jpg",
+    "https://images.century21.pt/a4818cda-c9bc-4874-bdf3-18c1c8ed4da9/03Cozinha01D.jpg",
+    "https://images.century21.pt/ab2c7ec1-7bb7-4706-bc66-4326d0943473/01Hall02.jpg",
+    "https://images.century21.pt/dfd52ad0-aaa1-4a34-9604-f1730c74032c/02Sala03.jpg",
+    "https://images.century21.pt/6197e158-ea16-485d-a78a-a74596379333/02Sala03(1).jpg",
+    "https://images.century21.pt/30727fbf-f9f5-4709-8073-48c0a3552153/03Cozinha01.jpg",
+    "https://images.century21.pt/75a35ac2-39c5-469f-a18d-44cdc834151a/01Hall01.jpg",
+    "https://images.century21.pt/a6a4eb2e-34da-46ac-bc9b-3d4a85a5cd27/03Cozinha01C.jpg",
+    "https://images.century21.pt/1e158f71-41a8-4b91-bce8-4f7321054f17/02Sala01.jpg",
+    "https://images.century21.pt/4356ef6a-33f0-4f71-be12-a234bd7d824b/03Cozinha01E.jpg",
+    "https://images.century21.pt/8adf5397-cb79-48de-b5a9-61486c624c1b/03Cozinha02E.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Luxo",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Localização central",
+      "Garagem",
+      "Varandas",
+      "Estacionamento",
+      "Piscina comum",
+      "Elevador"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 98.08,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 144.26,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "IN_PROCESS"
 }

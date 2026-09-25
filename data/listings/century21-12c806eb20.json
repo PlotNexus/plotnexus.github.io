@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 124.79,
   "image": "https://images.century21.pt/e66ff44f-8d63-4493-8720-5ade6c7615c7/IRISAOTEIA-TIAGOMAIA-PRVENDA01.jpg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 37.0388515024088,
     "lng": -7.83347727462194
@@ -22,12 +22,22 @@
   "published_at": "2026-09-25",
   "last_seen_at": "2026-09-25",
   "images": [
-    "https://images.century21.pt/e66ff44f-8d63-4493-8720-5ade6c7615c7/IRISAOTEIA-TIAGOMAIA-PRVENDA01.jpg"
+    "https://images.century21.pt/e66ff44f-8d63-4493-8720-5ade6c7615c7/IRISAOTEIA-TIAGOMAIA-PRVENDA01.jpg",
+    "https://images.century21.pt/1914cfff-c212-4b00-8dd8-1d290413c758/IRISAOTEIA-TIAGOMAIA-PRVENDA4.jpg",
+    "https://images.century21.pt/62591c73-6918-4593-9ec6-8d00303601f3/IRISAOTEIA-PRVENDA1.png",
+    "https://images.century21.pt/0a557ce4-1b9a-4817-893f-269ef642579c/IRISAOTEIA-TIAGOMAIA-PRVENDA1.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Luxo",
+      "Boa exposição solar",
+      "Boa localização",
+      "Open space"
+    ]
+  },
   "estado": null,
   "area_util_m2": 124.79,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 137.93,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }
