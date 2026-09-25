@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 97.7,
   "image": "https://images.century21.pt/9cff22fa-189a-4ad3-a923-c30bf7d95292/fachadaintegrada04.02.2025.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.1464279,
     "lng": -8.6101787
@@ -22,12 +22,26 @@
   "published_at": "2026-09-25",
   "last_seen_at": "2026-09-25",
   "images": [
-    "https://images.century21.pt/9cff22fa-189a-4ad3-a923-c30bf7d95292/fachadaintegrada04.02.2025.jpg"
+    "https://images.century21.pt/9cff22fa-189a-4ad3-a923-c30bf7d95292/fachadaintegrada04.02.2025.jpg",
+    "https://images.century21.pt/186a9e72-ea9e-4070-b255-1ef79a4d292c/facadebandeiraday.jpg",
+    "https://images.century21.pt/8060ee9f-402d-4e72-ab7d-4c6a0416fbb1/1.jpg",
+    "https://images.century21.pt/032e57af-5a36-4249-9818-9f417fd452dd/detail.jpg",
+    "https://images.century21.pt/83b25207-25f7-4710-86f2-624707f9456b/livingkitchen2.jpg",
+    "https://images.century21.pt/8caddcb3-11be-4fad-bb9b-5dae713ab2eb/livingkitchen1.jpg",
+    "https://images.century21.pt/30119b29-f3d2-42c8-aa2b-7dc6e9ae3082/quarto2.jpg",
+    "https://images.century21.pt/01aec0cd-3bbf-4c9e-9cc2-bc4f027139a1/quarto1.jpg",
+    "https://images.century21.pt/730fb100-97b6-4ec8-8f0a-0e6d3c0a3f4c/livingroom.jpg",
+    "https://images.century21.pt/eda87877-f907-4e54-a1e9-651ac4626fc7/wc.jpg",
+    "https://images.century21.pt/870fef63-6083-4994-929c-7ff0d168f1e5/Capturadeecr2026-04-17110708.png"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 97.7,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 101.2,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "EXEMPT"
 }

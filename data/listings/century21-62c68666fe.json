@@ -9,7 +9,7 @@
   "bathrooms": 0,
   "area_m2": 156,
   "image": "https://images.century21.pt/100b5d27-f597-4b6b-9db8-8e98681bd5ed/2.png",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 37.0625258,
     "lng": -7.7591196
@@ -22,12 +22,30 @@
   "published_at": "2026-09-25",
   "last_seen_at": "2026-09-25",
   "images": [
-    "https://images.century21.pt/100b5d27-f597-4b6b-9db8-8e98681bd5ed/2.png"
+    "https://images.century21.pt/100b5d27-f597-4b6b-9db8-8e98681bd5ed/2.png",
+    "https://images.century21.pt/601b8b97-5d14-40de-8d10-8e1d75d9440b/3.png",
+    "https://images.century21.pt/eb723c02-5388-4f2e-b727-b2b11c6b0f63/6.png",
+    "https://images.century21.pt/1ee3ea5c-bfcd-4362-967d-8bfff9a91f8d/5.png",
+    "https://images.century21.pt/597e8456-1064-4bb4-a3d8-82a174e2f602/4.png",
+    "https://images.century21.pt/db9d8618-bdf6-4e43-977a-9f597a3720cb/7.png",
+    "https://images.century21.pt/c89f5a2b-d401-430a-8094-eb92cb94fd45/8.png"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Acesso por caminho de terra",
+      "Boa exposição solar",
+      "Boa localização",
+      "Open space",
+      "Zona tranquila",
+      "Água canalizada",
+      "Arbustos",
+      "Árvores de fruto",
+      "Árvores centenárias"
+    ]
+  },
   "estado": null,
   "area_util_m2": 156,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 157,
+  "ano_construcao": 2000,
+  "certificacao_energetica": "EXEMPT"
 }
