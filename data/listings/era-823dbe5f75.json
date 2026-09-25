@@ -8,8 +8,8 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": 66,
-  "image": "https://mediaredir2.era.pt/i/moradia-t1-porto-foz-velha_13_1_1048613_13607933_2_1_FbcWt%2f2wNbswTRD5JedfiHmWzaHbvqm8oyhBPTVPjRTEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t1-porto-foz-velha_14_1_1048613_13607933_2_1_FbcWt%2f2wNbswTRD5JedfiHmWzaHbvqm8oyhBPTVPjRTEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia para recuperar com 65,70m² inserida num lote com 70,7m². 2 Frentes: Nascente / Poente. Imóvel com rentabilidade.",
   "geo": {
     "lat": 41.14961266142861,
     "lng": -8.671610965606698
@@ -22,12 +22,32 @@
   "published_at": "2026-09-25",
   "last_seen_at": "2026-09-25",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t1-porto-foz-velha_13_1_1048613_13607933_2_1_FbcWt%2f2wNbswTRD5JedfiHmWzaHbvqm8oyhBPTVPjRTEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t1-porto-foz-velha_14_1_1048613_13607933_2_1_FbcWt%2f2wNbswTRD5JedfiHmWzaHbvqm8oyhBPTVPjRTEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 65,7"
+    ],
+    "Geral": [
+      "Nº Frentes: 2",
+      "Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Exposição Solar": [
+      "Nascente, Poente"
+    ],
+    "Zona": [
+      "Acessos: Auto-Estrada, Bons, Transportes Púb.",
+      "Centralidade: Centro da Cidade",
+      "Proximidade: Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Praias, Supermercado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 66,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 66,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 78.15,
   "image": "https://images.century21.pt/24ecdb1f-218e-48c5-a44c-12c1aba6032e/CatiaMiranda-T2Quarteira-dronePIN.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 37.0730801,
     "lng": -8.1002205
@@ -22,12 +22,49 @@
   "published_at": "2026-09-25",
   "last_seen_at": "2026-09-25",
   "images": [
-    "https://images.century21.pt/24ecdb1f-218e-48c5-a44c-12c1aba6032e/CatiaMiranda-T2Quarteira-dronePIN.jpg"
+    "https://images.century21.pt/24ecdb1f-218e-48c5-a44c-12c1aba6032e/CatiaMiranda-T2Quarteira-dronePIN.jpg",
+    "https://images.century21.pt/8ffdac48-d109-4139-b212-c4aa5d77239e/CatiaMiranda-T2Quarteira-sala1.jpg",
+    "https://images.century21.pt/e8993485-9e57-4ba8-a1e3-58fd924b4a95/CatiaMiranda-T2Quarteira-quartoduplo1.jpg",
+    "https://images.century21.pt/a13ad8e6-50bc-43d1-b843-b337b27eeb4d/CatiaMiranda-T2Quarteira-corredor.jpg",
+    "https://images.century21.pt/2c78349f-9f6b-4e35-8e63-8d255a20db12/CatiaMiranda-T2Quarteira-salaentrada.jpg",
+    "https://images.century21.pt/f3dd4b42-2c10-4478-b039-93e8726dbb9f/CatiaMiranda-T2Quarteira-sala4.jpg",
+    "https://images.century21.pt/f4e09685-343f-49cf-a2bc-310078b88b36/CatiaMiranda-T2Quarteira-sala3.jpg",
+    "https://images.century21.pt/ee02e13e-8316-4f56-a8c3-b5d7580d1809/CatiaMiranda-T2Quarteira-sala2.jpg",
+    "https://images.century21.pt/7d9db684-191c-43dd-983c-db8949db3d0e/CatiaMiranda-T2Quarteira-casadebanho1.jpg",
+    "https://images.century21.pt/773396a0-2d56-4fd2-821e-f62063ffeed2/CatiaMiranda-T2Quarteira-Hallcorredor.jpg",
+    "https://images.century21.pt/22433f76-d0f8-4bee-86f5-5e42d4db8794/CatiaMiranda-T2Quarteira-quartoduplo2.jpg",
+    "https://images.century21.pt/53fafc9c-cac0-40cd-a5ef-36321f5e0cd4/CatiaMiranda-T2Quarteira-quartodecasal.jpg",
+    "https://images.century21.pt/0cfcdc82-83e9-454e-9848-508cf17f022d/CatiaMiranda-T2Quarteira-quartodecasal2.jpg",
+    "https://images.century21.pt/56b8dda8-b057-4586-988c-41e95d4e29ff/CatiaMiranda-T2Quarteira-varanda2.jpg",
+    "https://images.century21.pt/12ba0bd6-7d97-4e74-8a90-ac84d3e6a5a5/CatiaMiranda-T2Quarteira-Varanda.jpg",
+    "https://images.century21.pt/1011d6f1-daad-4c61-8487-648b90e189f0/CatiaMiranda-T2Quarteira-cozinha1.jpg",
+    "https://images.century21.pt/c0ed4f12-fb82-4e44-ba3f-a1cd3c9a9c5d/CatiaMiranda-T2Quarteira-cozinha3.jpg",
+    "https://images.century21.pt/646728b1-cf85-45d6-9dfe-9a639144f138/CatiaMiranda-T2Quarteira-cozinha2.jpg",
+    "https://images.century21.pt/2adc34f8-f44e-45a9-a13e-b6cbc93b9a06/CatiaMiranda-T2Quarteira-despensa.jpg",
+    "https://images.century21.pt/5a2b79c4-68b1-452d-b5ad-bdbec2701101/CatiaMiranda-T2Quarteira-terraco1.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Casa de banho",
+      "Quarto",
+      "Localização central",
+      "Sem cadeia de venda",
+      "Corredor",
+      "Hall de entrada",
+      "Garagem",
+      "Boa exposição solar",
+      "Boa localização",
+      "Cozinha",
+      "Sala de estar",
+      "Outra divisão",
+      "Despensa",
+      "Estacionamento"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 78.15,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 102.15,
+  "ano_construcao": 1987,
+  "certificacao_energetica": "E"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 22,
   "image": "https://images.century21.pt/e0ce9eeb-302b-4356-8194-7f5e0a0de167/DJI0475.JPG",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7172599769709,
     "lng": -9.12556150553376
@@ -22,12 +22,40 @@
   "published_at": "2026-09-25",
   "last_seen_at": "2026-09-25",
   "images": [
-    "https://images.century21.pt/e0ce9eeb-302b-4356-8194-7f5e0a0de167/DJI0475.JPG"
+    "https://images.century21.pt/e0ce9eeb-302b-4356-8194-7f5e0a0de167/DJI0475.JPG",
+    "https://images.century21.pt/558f8dd5-decc-4426-8ca5-0e82171ab26a/IMG20260811120159.jpg",
+    "https://images.century21.pt/758feeba-6c43-4ad3-bfd1-2dc39b3c2124/DJI0472delimitado1.jpg",
+    "https://images.century21.pt/0add7655-2dae-4f56-907c-d5c21ffa3a40/IMG20260811120129.jpg",
+    "https://images.century21.pt/a56171b1-6620-4773-966a-37cd61314be6/DJI0476.JPG",
+    "https://images.century21.pt/2e9f32e2-c3b6-4bea-999d-5bd69c144818/DJI0473.JPG",
+    "https://images.century21.pt/cbcb9c7d-0c18-493d-bd25-68fe6819bf54/DJI0472.JPG",
+    "https://images.century21.pt/38c9995b-63de-435c-9117-0f59392e68a2/DJI0473delimitado1.jpg",
+    "https://images.century21.pt/cf345b79-67e4-42e6-9199-5b790a06ff3c/IMG20260811120140.jpg",
+    "https://images.century21.pt/474ba4eb-7b2c-4529-a43f-ba8a302f2669/IMG20260811120252.jpg",
+    "https://images.century21.pt/4f25cca7-b91f-43be-8f18-101d6d71b8ce/1.jpg",
+    "https://images.century21.pt/52549739-c8b3-4e76-9ecc-574a21186328/DJI0478.JPG",
+    "https://images.century21.pt/a4124b2a-f5e8-48bd-b68e-1968d3b62242/2.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Eletricidade",
+      "Perto de uma igreja",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de uma zona histórica",
+      "Perto de um mercado",
+      "Perto de o metro",
+      "Perto de uma farmácia",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Perto de uma praça de táxis",
+      "Saneamento",
+      "Água canalizada"
+    ]
+  },
   "estado": null,
   "area_util_m2": 22,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 44,
+  "ano_construcao": 1970,
+  "certificacao_energetica": "D"
 }

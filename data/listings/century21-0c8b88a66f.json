@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 121,
   "image": "https://images.century21.pt/a3814ed5-01ce-467f-953c-44683b80e875/IMG8832.png",
-  "description": null,
+  "description": "Moradia T3, situada na União das Freguesias de Caparica e Trafaria, em Almada. Com uma área generosa de 150m², esta propriedade usada oferece um espaço acolhedor e versátil, ideal para famílias que procuram conforto e qualidade de vida.\n\nA casa apresenta um layout funcional, com três quartos espaçosos que proporcionam privacidade e tranquilidade. A sala de estar é iluminada e convidativa, perfeita para momentos em família. O espaço exterior é ideal para desfrutar de momentos ao ar livre. Jardim, com Piscina elevada, Alpendre e Garagem.\n\nLocalizada numa zona tranquila, esta propriedade beneficia de fácil acesso a transportes públicos, comércio local e serviços essenciais. Aproveite a oportunidade de viver perto da praia e de áreas verdes. Não perca a chance de visitar esta casa que pode ser o seu novo lar. Contacte-nos já para agendar uma visita!",
   "geo": {
     "lat": 38.6417401,
     "lng": -9.2038393
@@ -22,12 +22,40 @@
   "published_at": "2026-09-25",
   "last_seen_at": "2026-09-25",
   "images": [
-    "https://images.century21.pt/a3814ed5-01ce-467f-953c-44683b80e875/IMG8832.png"
+    "https://images.century21.pt/a3814ed5-01ce-467f-953c-44683b80e875/IMG8832.png",
+    "https://images.century21.pt/167ab3af-4989-4c7d-b449-fbecd9da3253/3(2).png",
+    "https://images.century21.pt/5bfa291d-9918-4eb4-a70b-3ed43dcc6904/1.jpeg",
+    "https://images.century21.pt/2cdeead8-de14-4f4b-8850-fbf9c82665fb/10(2).png",
+    "https://images.century21.pt/1221c18d-7e75-41d9-99e5-b1523aef8250/4.jpeg",
+    "https://images.century21.pt/fe337e8c-9c53-43eb-9954-09397fc527d0/11(2).png",
+    "https://images.century21.pt/ab124637-ec3e-4f67-9233-f51dbc5e094a/12.png",
+    "https://images.century21.pt/7771e558-4b83-4f55-aaf8-574384dc09ec/9(2).png",
+    "https://images.century21.pt/89431676-1bd2-4472-857e-75e088e189c0/8(2).png",
+    "https://images.century21.pt/faec5c18-1a15-4116-8dce-dc3329146363/7(2).png",
+    "https://images.century21.pt/87964ded-0f2b-41bd-b53c-5a730fe41cc9/13.png",
+    "https://images.century21.pt/130375b8-fb18-42b6-88bd-e2b6a7f47c37/14.png",
+    "https://images.century21.pt/5dd0993a-bf88-43a2-9e2d-6215e2873846/25.png",
+    "https://images.century21.pt/de83f4e9-74e5-439c-afa0-4cda43118de3/16.png",
+    "https://images.century21.pt/0377f05b-35c7-4854-a9af-15db13b90594/18.png",
+    "https://images.century21.pt/a85e3369-2bfa-4492-9c2f-7942decdd45e/24.png",
+    "https://images.century21.pt/934abcb7-68ed-483d-a86c-c6e174707916/26.png",
+    "https://images.century21.pt/d55e5ba0-68dc-4de4-9ec8-5551e8b5c1e9/17.png",
+    "https://images.century21.pt/b688500c-66f3-4058-b548-f0d177dacfc5/27.png",
+    "https://images.century21.pt/33211d7f-a87c-4bf8-8f95-8c62f47ad27c/15.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Churrasqueira",
+      "Jardim",
+      "Boa localização",
+      "Zona tranquila",
+      "Arrecadação"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 121,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 150,
+  "ano_construcao": 1997,
+  "certificacao_energetica": "E"
 }

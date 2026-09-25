@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 88.3,
   "image": "https://images.century21.pt/b2e00cfb-82ca-42c7-a8ba-bc9b3b242a3f/WhatsAppImage2026-04-16at00.23.15(3).jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7489942,
     "lng": -9.318697
@@ -22,12 +22,36 @@
   "published_at": "2026-09-25",
   "last_seen_at": "2026-09-25",
   "images": [
-    "https://images.century21.pt/b2e00cfb-82ca-42c7-a8ba-bc9b3b242a3f/WhatsAppImage2026-04-16at00.23.15(3).jpeg"
+    "https://images.century21.pt/b2e00cfb-82ca-42c7-a8ba-bc9b3b242a3f/WhatsAppImage2026-04-16at00.23.15(3).jpeg",
+    "https://images.century21.pt/c8541785-bcdd-458e-a495-fe3f27dd43a6/WhatsAppImage2026-04-16at00.23.15.jpeg",
+    "https://images.century21.pt/2f67e13c-95a8-4464-b209-fd36ea086f1c/WhatsAppImage2026-04-16at00.23.15(1).jpeg",
+    "https://images.century21.pt/57096ff1-2e27-4cec-a9f8-af304a3926d5/WhatsAppImage2026-04-16at00.15.19(3).jpeg",
+    "https://images.century21.pt/041175e2-8d7e-4805-8a58-bd8e2911b569/WhatsAppImage2026-04-16at00.15.20.jpeg",
+    "https://images.century21.pt/834ee1d2-5492-42ac-bba2-01d5d6086256/WhatsAppImage2026-04-16at00.23.16.jpeg",
+    "https://images.century21.pt/b310ef9a-88f3-4360-bb83-6c64193646ef/WhatsAppImage2026-04-16at00.23.15(2).jpeg",
+    "https://images.century21.pt/c15aa1df-2d3a-4b14-8d7e-a3ff632cdbc2/WhatsAppImage2026-04-16at00.15.19.jpeg",
+    "https://images.century21.pt/6c9daaaf-5635-43e6-a7a4-b3bf51e49e25/PHOTO-2025-08-28-10-12-47.jpg",
+    "https://images.century21.pt/1efe521e-6b1d-4490-94a3-64463b85f790/PHOTO-2025-08-28-10-12-462.jpg",
+    "https://images.century21.pt/47619f48-02d3-40a1-8f9e-6417a0093c99/WhatsAppImage2026-04-16at00.16.34.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ginásio",
+      "Piscina",
+      "Luxo",
+      "Ar condicionado",
+      "Forno",
+      "Frigorífico",
+      "Janelas duplas",
+      "Máquina de lavar roupa",
+      "Micro-ondas",
+      "Fogão de indução",
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 88.3,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 94.2,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "A+"
 }
