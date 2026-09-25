@@ -6,25 +6,37 @@
   "currency": "EUR",
   "location": "Ílhavo (São Salvador), Ílhavo, Aveiro",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 105,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im55azJnY3hiNzF0ejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ikmadSMDR5fd0a7VrVROS_AjBhVMI9WQkk60doy4Xkk/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im55azJnY3hiNzF0ejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ikmadSMDR5fd0a7VrVROS_AjBhVMI9WQkk60doy4Xkk/image;s=2048x1536;q=80",
+  "description": "Apartamento T2+1 atualmente em construção, localizado na Gafanha da Nazaré, numa zona residencial tranquila e com bons acessos a Aveiro, Ílhavo e às principais vias rodoviárias.\n\nPensado para proporcionar conforto, eficiência e funcionalidade, este apartamento apresenta uma construção moderna e equipamentos que respondem às necessidades do dia a dia.\n\nPrincipais características:\n\n- Vista mar\n\n-Bomba de calor\n\n-Ar condicionado\n\n-Cozinhas equipada (placa elétrica, forno, frigorifico, exaustor, microondas, máquina lavar roupa)\n\n-Caixilharia em PVC com estores\n\n-Elevador\n\n-Videoporteiro\n\n-Lugar de estacionamento coberto\n\nUma excelente oportunidade para quem procura um apartamento novo, moderno e confortável, numa localização com bons acessos e próxima de todos os serviços e comodidades.\n\nPara mais informações, entre em contacto. \n\nCategoria Energética: A+",
+  "geo": {
+    "lat": 40.61186,
+    "lng": -8.69129
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-1-vista-mar-gafanha-da-nazare-ID1iWnM",
   "published_at": "2026-09-24",
-  "last_seen_at": "2026-09-24",
+  "last_seen_at": "2026-09-25",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im55azJnY3hiNzF0ejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ikmadSMDR5fd0a7VrVROS_AjBhVMI9WQkk60doy4Xkk/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im55azJnY3hiNzF0ejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ikmadSMDR5fd0a7VrVROS_AjBhVMI9WQkk60doy4Xkk/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Elevador",
+      "Ar condicionado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 105,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "APLUS"
 }
