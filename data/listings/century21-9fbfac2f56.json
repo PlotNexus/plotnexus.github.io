@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 107,
   "image": "https://images.century21.pt/7b4f8dce-09e2-496a-a165-7d66846dc4a4/WhatsAppImage2026-09-18at12.18.40.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 40.6566544,
     "lng": -8.5842681
@@ -22,12 +22,31 @@
   "published_at": "2026-09-26",
   "last_seen_at": "2026-09-26",
   "images": [
-    "https://images.century21.pt/7b4f8dce-09e2-496a-a165-7d66846dc4a4/WhatsAppImage2026-09-18at12.18.40.jpeg"
+    "https://images.century21.pt/7b4f8dce-09e2-496a-a165-7d66846dc4a4/WhatsAppImage2026-09-18at12.18.40.jpeg",
+    "https://images.century21.pt/a8e1a932-0c12-44f4-b059-94ac1a2e9fc8/teto.jpeg",
+    "https://images.century21.pt/266fa501-c224-469e-ba9a-1b6c7b0cc7da/WhatsAppImage2026-03-05at17.17.03(1).jpeg",
+    "https://images.century21.pt/809e72d3-5844-48a8-8d3e-dd62055d066c/WhatsAppImage2026-03-05at17.17.03.jpeg",
+    "https://images.century21.pt/987f69f3-4c42-4bdb-8d70-01437ffe0db3/WhatsAppImage2026-03-05at17.17.02.jpeg",
+    "https://images.century21.pt/87dcf0fa-6c60-4190-a5f7-bed332d3064c/WhatsAppImage2026-03-05at17.17.08(1).jpeg",
+    "https://images.century21.pt/b76c35d3-d0e4-40bc-a6a5-65881fe7bc14/salatav.jpeg",
+    "https://images.century21.pt/747fc901-0ca9-4c00-b73e-e64bf6e06022/cosintav.jpeg",
+    "https://images.century21.pt/ead6d612-aa7d-4a6d-aacd-d9f1b129a880/salatav2.jpeg",
+    "https://images.century21.pt/70e96a5f-2ef2-457b-925b-46f2dae0cb45/banho.jpeg",
+    "https://images.century21.pt/0f08e8d1-a54c-4749-a130-9f479ba550ad/corredor.jpeg",
+    "https://images.century21.pt/dbc54e04-006c-4f8b-9442-f758fce77ef5/garrag.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Rés-do-chão",
+      "Cozinha",
+      "Acesso por estrada"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 107,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 165,
+  "ano_construcao": 1981,
+  "certificacao_energetica": "D"
 }

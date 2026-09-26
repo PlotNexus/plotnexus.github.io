@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 75,
   "image": "https://images.century21.pt/a5cff7eb-04d2-4172-b64e-1de096481274/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-1.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6293385,
     "lng": -9.204893
@@ -22,12 +22,42 @@
   "published_at": "2026-09-26",
   "last_seen_at": "2026-09-26",
   "images": [
-    "https://images.century21.pt/a5cff7eb-04d2-4172-b64e-1de096481274/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-1.jpg"
+    "https://images.century21.pt/a5cff7eb-04d2-4172-b64e-1de096481274/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-1.jpg",
+    "https://images.century21.pt/6fb9dc76-25ee-47b5-8423-d5227aefa5cf/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-2.jpg",
+    "https://images.century21.pt/c0872e61-77c0-4ff5-afdb-ea4488a925d1/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-3.jpg",
+    "https://images.century21.pt/0552c976-6552-414d-8462-2f31f4d27f01/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-4.jpg",
+    "https://images.century21.pt/1bbed114-6c24-4bd1-bec9-ee19c2cea53a/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-5.jpg",
+    "https://images.century21.pt/abb96fc2-109d-4ad5-84bc-bc88f0a0f250/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-6.jpg",
+    "https://images.century21.pt/6771ed2f-d185-4ff4-b36c-4cf982707bc8/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-7.jpg",
+    "https://images.century21.pt/9e23312f-2ec8-46c7-aded-49117f0c584e/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-8.jpg",
+    "https://images.century21.pt/6694a6bb-e4c9-4129-8480-e0c776a48fcb/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-9.jpg",
+    "https://images.century21.pt/71a56d3e-b4ed-4fa5-9d52-5bcfcb38fc71/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-10.jpg",
+    "https://images.century21.pt/66d6dea4-1d9d-46a6-b369-1c7b2232fd5d/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-11.jpg",
+    "https://images.century21.pt/f52f7e0e-2ff4-42c7-a339-2ddc2db6787b/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-12.jpg",
+    "https://images.century21.pt/0d5edb9b-65c0-4911-8e8a-7949382f413b/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-13.jpg",
+    "https://images.century21.pt/10f67165-1f9e-4f3a-98be-3a8fe645e037/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-14.jpg",
+    "https://images.century21.pt/6cbd46af-76a7-4ba5-ae65-ee9dad2c7bdb/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-15.jpg",
+    "https://images.century21.pt/ea8ecfd4-ff6e-4d3e-9890-af579d545f38/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-16.jpg",
+    "https://images.century21.pt/d2a73114-ce72-4adb-a3ce-e4715d351641/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-18.jpg",
+    "https://images.century21.pt/f7f274d7-8545-4f21-a279-178613a4150d/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-27.jpg",
+    "https://images.century21.pt/3c80a63d-5057-4b3e-9696-39f82a0cd7d1/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-28.jpg",
+    "https://images.century21.pt/0a69e0b9-6a06-4c52-8b8e-6615892dd802/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-29.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Quarto em suite",
+      "Arrecadação",
+      "Garagem",
+      "Varanda",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila"
+    ]
+  },
   "estado": null,
   "area_util_m2": 75,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 80,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A+"
 }

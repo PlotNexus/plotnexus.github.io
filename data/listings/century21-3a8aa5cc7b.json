@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 312,
   "image": "https://hipoges.azureedge.net/imageshams/hams_pt_chaves/bcha0280/rech-1361/57686686_9c1201dee545c36bdc1f573f3b7f89db0654f1e6.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.6968961,
     "lng": -8.7348867
@@ -22,12 +22,24 @@
   "published_at": "2026-09-26",
   "last_seen_at": "2026-09-26",
   "images": [
-    "https://hipoges.azureedge.net/imageshams/hams_pt_chaves/bcha0280/rech-1361/57686686_9c1201dee545c36bdc1f573f3b7f89db0654f1e6.jpg"
+    "https://hipoges.azureedge.net/imageshams/hams_pt_chaves/bcha0280/rech-1361/57686686_9c1201dee545c36bdc1f573f3b7f89db0654f1e6.jpg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_chaves/bcha0280/rech-1361/57686688_e1a61b0fba20a72f51adba177c460d02b1a8f5a3.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_chaves/bcha0280/rech-1361/57686690_da2f7bf855c4022a954196382f8f33d2cb2133da.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_chaves/bcha0280/rech-1361/57686687_b3e8e6644392e013a20408c3d3e735851c147e28.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_chaves/bcha0280/rech-1361/57686684_cfa36d1ee8bc866ed6831e4d2f4b4c3e2426d93b.jpg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_chaves/bcha0280/rech-1361/57686685_69cdd22b6ebad189436efda263556236f5cdcf0d.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Jardim",
+      "Estacionamento",
+      "Arrecadação",
+      "Terraço"
+    ]
+  },
   "estado": null,
   "area_util_m2": 312,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 312,
+  "ano_construcao": 2003,
+  "certificacao_energetica": "NOT_INDICATED"
 }

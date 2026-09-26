@@ -8,8 +8,8 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 129,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_13_1_1232043_15398907_2_1_hzAMvp8DZ%2fZSFWaVLNvX2NptqPpKJnrTQ4oG2BMGsvfEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_14_1_1232043_15398907_2_1_hzAMvp8DZ%2fZSFWaVLNvX2NptqPpKJnrTQ4oG2BMGsvfEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Apartamento com 3 quartos todos contam com roupeiros embutidos, inserido em condomínio privado, com lugar de garagem, piscina comum, cozinhas equipadas com eletrodomésticos de marca Bosch, frigorifico combinado, exaustor, fogão, forno, micro-ondas, máquina de lavar roupa, lavatório em inox e Bancada da cozinha em granito.\nChão flutuante em toda a casa exceto nos WC que são equipados com loiças suspensas, base de duche/banheira( opção de escolha em construção ), instalação de ar condicionado LG, Painéis solares, 1 elevador por bloco 1 lugar de estacionamento coberto para cada apartamento. Possibilidade ainda de instalação de barbecue para os últimos pisos\nPiscina e espelho de água para crianças, zona de lazer em relvado sintético. . Pode ainda colocar sistema de instalação de domótica, encargo extra do cliente.",
   "geo": {
     "lat": 37.03795693171494,
     "lng": -7.832994679809568
@@ -22,12 +22,27 @@
   "published_at": "2026-09-26",
   "last_seen_at": "2026-09-26",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_13_1_1232043_15398907_2_1_hzAMvp8DZ%2fZSFWaVLNvX2NptqPpKJnrTQ4oG2BMGsvfEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_14_1_1232043_15398907_2_1_hzAMvp8DZ%2fZSFWaVLNvX2NptqPpKJnrTQ4oG2BMGsvfEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_14_1_1232043_15386276_2_1_vbAzTHl3s8GQg%2bVNnDGvXmoqqg0oJ1t4fZbaY49am0rEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_14_1_1232043_15386273_2_1_JcKVm2%2btn8QkYYaXx6nd1KpHu%2fZRkINOF8Hs2S4esAfEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_14_1_1232043_15386274_2_1_FtIwJ7dEEqPdCdmyQkpbddLDujv8GEDR%2bHZLZMnG2qLEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_14_1_1232043_15386275_2_1_7kTra%2fYTbwOEoYH8HXdeGcvDwzb94%2bom9sMTNMPqgU%2fEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_14_1_1232043_15398901_2_1_hzVB9mb7yDBnehhdsUqIKiIHjFAyH6xXoHKHeT6mBnPEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_14_1_1232043_15398903_2_1_OiaSomQFmJo21mazIMMQJvaGG0t8An3YQNb9Gu5KJibEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_14_1_1232043_15398904_2_1_2rySBWKhAPbRRk9er0CdF3Ldu6fdBu37kefZ96yknPfEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_14_1_1232043_15398905_2_1_SFeF%2bSz2B7l6th7N1I7YkGmfQzWMztPtnOy5trQeU1vEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_14_1_1232043_15398908_2_1_ca%2buuQg1Cp0grBNVxDKjTM5V9XWPcs%2fPyYYcLPShnuzEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t3-olhao-quelfes_14_1_1232043_15398909_2_1_Q3HPLVBmZXvbnfu6GtigYTusRVTuiinqdNeNIbiaxFTEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Construção",
+      "Área Bruta: 129"
+    ]
+  },
+  "estado": "Construção",
   "area_util_m2": 129,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 129,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }
