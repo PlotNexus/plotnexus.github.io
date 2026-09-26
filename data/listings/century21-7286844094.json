@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 116,
   "image": "https://images.century21.pt/1e867191-3d89-46c4-8a03-62fb7ae41adb/313A3136.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.8012947,
     "lng": -9.2284932
@@ -22,12 +22,43 @@
   "published_at": "2026-09-26",
   "last_seen_at": "2026-09-26",
   "images": [
-    "https://images.century21.pt/1e867191-3d89-46c4-8a03-62fb7ae41adb/313A3136.jpg"
+    "https://images.century21.pt/1e867191-3d89-46c4-8a03-62fb7ae41adb/313A3136.jpg",
+    "https://images.century21.pt/b0318ed3-4144-43d5-a5e8-0fefa4f7c7c2/313A3131.jpg",
+    "https://images.century21.pt/125e9d87-f5ee-4423-ae15-f56ae0001be8/313A3142.jpg",
+    "https://images.century21.pt/92ff160d-303e-45f9-a888-0aa73660c9f6/313A3148.jpg",
+    "https://images.century21.pt/b77a5717-3e96-4df1-846e-139def83a7bf/313A3007.jpg",
+    "https://images.century21.pt/9718eb3d-5284-4851-a6ea-7bf2f94c3a77/313A3011.jpg",
+    "https://images.century21.pt/a2721e04-7d5e-4edf-b2f6-519e6b26a7ce/313A3018.jpg",
+    "https://images.century21.pt/b0c376c2-c926-49b8-934d-c713a5be7c80/313A3014.jpg",
+    "https://images.century21.pt/d513ccf4-9d27-42cd-985a-d1be7e5df8f6/313A3036.jpg",
+    "https://images.century21.pt/1d94d676-46f7-4aeb-b48b-d09976e32bca/313A3042.jpg",
+    "https://images.century21.pt/f15ba835-0e05-43d9-838d-f905238c885c/313A3032.jpg",
+    "https://images.century21.pt/cce08bd8-d11b-4b04-82fc-59e5260be1c0/313A3022.jpg",
+    "https://images.century21.pt/7ea9fdb3-da49-4c6d-a6b7-bd386426f7f9/313A3060.jpg",
+    "https://images.century21.pt/49d7c439-d8ab-4474-be9c-971c6e6a1fbd/313A3053.jpg",
+    "https://images.century21.pt/8eacb7e5-6b37-4a3e-a8ef-af768ae7a1fa/313A3062.jpg",
+    "https://images.century21.pt/b3f3ca8e-b64d-4356-99ea-5b2e08c7cb1e/313A3068.jpg",
+    "https://images.century21.pt/6cae7047-12a0-469c-9f0a-3d7a60e005f7/313A3046.jpg",
+    "https://images.century21.pt/1fdb4c99-5403-4adc-b049-5f787fcece83/313A3092.jpg",
+    "https://images.century21.pt/19b61cfe-33a8-43a5-ac88-787a05d2cd5f/313A3079.jpg",
+    "https://images.century21.pt/04d92c7e-50f7-43d3-bc0f-9f873c7ea473/313A3096.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Arrecadação",
+      "Casa de banho",
+      "Despensa",
+      "Varandas",
+      "Elevador",
+      "Perto de uma bomba de gasolina",
+      "Perto de uma farmácia",
+      "Perto de uma igreja",
+      "Perto de restaurantes"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 116,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 117,
+  "ano_construcao": 2001,
+  "certificacao_energetica": "E"
 }
