@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 158,
   "image": "https://images.century21.pt/f8d5d13c-7e4d-4354-9169-206ede9a56a0/Sala.1.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7070367,
     "lng": -9.4090765
@@ -22,12 +22,35 @@
   "published_at": "2026-09-27",
   "last_seen_at": "2026-09-27",
   "images": [
-    "https://images.century21.pt/f8d5d13c-7e4d-4354-9169-206ede9a56a0/Sala.1.png"
+    "https://images.century21.pt/f8d5d13c-7e4d-4354-9169-206ede9a56a0/Sala.1.png",
+    "https://images.century21.pt/e57cba82-6d43-4796-9984-19d500f3112c/SalaVista.png",
+    "https://images.century21.pt/749d880a-4b03-4c5e-b595-191db825a5f2/Sala.png",
+    "https://images.century21.pt/ba9e1da8-a749-4ab8-be6f-81ba954e99ae/Quarto.png",
+    "https://images.century21.pt/estoril-50_8cafc7d3-0697-4d5f-88d1-f45e999e1af2.jpg",
+    "https://images.century21.pt/estoril-51_49a039a9-0e82-4bef-9c38-27fe93af6456.jpg",
+    "https://images.century21.pt/b0c4fa00-ef90-4abd-b4be-9ddda6a09d44/Quarto2.png",
+    "https://images.century21.pt/estoril-54_3120fc5f-95e9-43dd-944e-17c76c0b3b4b.jpg",
+    "https://images.century21.pt/estoril-55_557bf497-0766-43ae-8d20-bd6fc8f61c1c.jpg",
+    "https://images.century21.pt/estoril-57_f40e5828-f521-4140-b4ff-a9493856d4ac.jpg",
+    "https://images.century21.pt/estoril-58_d3d83f81-5b7d-494a-b1e3-b1fe78fbfe77.jpg",
+    "https://images.century21.pt/estoril-59_cc3c5e84-f65d-42f2-87ff-e674ed665539.jpg",
+    "https://images.century21.pt/estoril-47_1ed602b0-a6e0-40c9-854d-287f2b4f754d.jpg",
+    "https://images.century21.pt/estoril-62_1d8cce11-9803-4059-b1a1-087715be8e42.jpg",
+    "https://images.century21.pt/estoril-60_7737bf94-20f3-4138-9e20-9f463638079d.jpg",
+    "https://images.century21.pt/e3da079c-ad4a-4a29-ae91-8b3f886e49b1/SalaDuplex.png",
+    "https://images.century21.pt/estoril-56_275618a9-4db7-428d-b68a-f3e52f83dda1.jpg",
+    "https://images.century21.pt/aa8a9f01-36e1-4520-845e-3d7581463613/quarto3.png",
+    "https://images.century21.pt/estoril-75_3bcded82-c903-4dbd-adca-8ce8f494c053.jpg",
+    "https://images.century21.pt/201f32fe-ae26-44f7-b2dd-ec151d468553/Varanda.png"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 158,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 159,
+  "ano_construcao": 2024,
+  "certificacao_energetica": "B-"
 }
