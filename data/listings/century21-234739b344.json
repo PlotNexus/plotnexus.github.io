@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 162.4,
   "image": "https://images.century21.pt/064c0063-6e23-4c69-843e-8e2e1596bc94/aef778d7-6779-4601-9369-292e8d80f76d.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.7435536636012,
     "lng": -8.39171529951012
@@ -22,12 +22,40 @@
   "published_at": "2026-09-28",
   "last_seen_at": "2026-09-28",
   "images": [
-    "https://images.century21.pt/064c0063-6e23-4c69-843e-8e2e1596bc94/aef778d7-6779-4601-9369-292e8d80f76d.jpg"
+    "https://images.century21.pt/064c0063-6e23-4c69-843e-8e2e1596bc94/aef778d7-6779-4601-9369-292e8d80f76d.jpg",
+    "https://images.century21.pt/bc4bfb3e-9608-4626-a537-73b6c373c87a/01.jpg",
+    "https://images.century21.pt/985dab18-919b-4f3c-8ddf-4ed0e03d9fa2/02.jpg",
+    "https://images.century21.pt/fbfb87cf-0149-4719-abe3-9bc3284c68ab/03.jpg",
+    "https://images.century21.pt/9458fc7e-ddc0-46ec-ac09-25c125cab1a5/04.jpg",
+    "https://images.century21.pt/d893604b-8252-4d3c-a601-78ad8c85e404/05.jpg",
+    "https://images.century21.pt/13ac2d71-8780-4657-b875-006f9cb368bd/05.jpg",
+    "https://images.century21.pt/39e95650-fdc3-4e0c-a9bc-6b18c2c5f4dc/06.jpg",
+    "https://images.century21.pt/b236b4ee-c71b-4799-a3e5-a18ae7222988/07.jpg",
+    "https://images.century21.pt/3a90be2e-edb2-4f10-85ab-800fee2d9b9f/08.jpg",
+    "https://images.century21.pt/59b6da1d-2a55-4a29-a5b2-4bd7f1e56fae/09.jpg",
+    "https://images.century21.pt/eaceb10a-dc37-4d16-8c10-e8ce1450b020/10.jpg",
+    "https://images.century21.pt/72d06fc6-9366-486e-899d-a729a4126fee/11.jpg",
+    "https://images.century21.pt/5f02b51d-2381-4cd8-90fa-762ad27295f6/12.jpg",
+    "https://images.century21.pt/3c6b54a0-6ba8-4a9b-870b-d9430fdd9819/13.jpg",
+    "https://images.century21.pt/73a23bf7-5f10-43ba-9f8f-e1c9b2a266dc/14.jpg",
+    "https://images.century21.pt/410fba66-c7d4-474b-be0a-a3d494fdd06f/16.jpg",
+    "https://images.century21.pt/e19649ae-2ba6-49fb-aa95-b139adfbe2e0/15.jpg",
+    "https://images.century21.pt/774ef76b-f0a8-4eca-9d8c-b8892677f295/17.jpg",
+    "https://images.century21.pt/ae621ffa-c90d-47b2-bdb2-1dd30c4725e4/18.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Água canalizada",
+      "Vala",
+      "Poço"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 162.4,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 212,
+  "ano_construcao": 1965,
+  "certificacao_energetica": "F"
 }
