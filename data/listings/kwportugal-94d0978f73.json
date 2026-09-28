@@ -10,7 +10,10 @@
   "area_m2": 64,
   "image": "https://imgs.soukwportugal.pt/40417/properties/d86265b1-5eea-49ce-8e37-ab6066448288.jpg",
   "description": "T2 na Graça.\nExcelente localização, num dos bairros mais típicos de Lisboa.\nPrédio com dois elevadores.",
-  "geo": null,
+  "geo": {
+    "lat": 38.71862,
+    "lng": -9.12904
+  },
   "source": {
     "name": "KW Portugal",
     "url": "https://kwportugal.pt"

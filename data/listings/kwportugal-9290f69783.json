@@ -4,13 +4,16 @@
   "type": "venda",
   "price": 435000,
   "currency": "EUR",
-  "location": "Paul do Mar, Calheta (Madeira), Ilha da Madeira",
+  "location": "PAUL DO MAR, Paul do Mar, Calheta (Madeira), Ilha da Madeira",
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 53,
   "image": "https://imgs.soukwportugal.pt/35105/properties/494783aa-9e49-419b-bde6-a768afe804fe.jpg",
   "description": "Situada numa zona tranquila na Rua Serrado da Cruz, esta moradia independente de 78 m² de área bruta combina o charme rústico de outrora com um enorme potencial de modernização e ampliação.\n\nO que torna esta propriedade imperdível:\n\nLocalização Exclusiva: A poucos passos do mar, numa das aldeias piscatórias mais carismáticas da Madeira. Desfrute diariamente do melhor surf da ilha, de pores do sol inesquecíveis sobre o Atlântico e de um estilo de vida calmo e autêntico.\n\nEspaço Exterior e Possibilidade de Ampliação: Conta com um pátio interior coberto e, nas traseiras, um generoso terreno com grande potencial. A dimensão e o espaço permitem imaginar uma horta, um jardim ou uma zona de lazer ao ar livre, existindo ainda a possibilidade de ampliar a propriedade, ideal para valorizar ainda mais o seu investimento.\n\nPotencial de Personalização: O interior preserva detalhes de época, como o soalho em parquet nos quartos. A cozinha, a casa de banho e os três espaços de dormir aguardam a sua visão para serem transformados num espaço moderno, confortável e à sua exata medida.\n\nNão deixe escapar esta oportunidade única de unir o campo, a montanha e o mar num só lugar.\n\nMarque já a sua visita ou peça mais informações! Contacte-nos por telefone ou envie-nos uma mensagem ou email hoje mesmo.",
-  "geo": null,
+  "geo": {
+    "lat": 32.76088,
+    "lng": -17.23237
+  },
   "source": {
     "name": "KW Portugal",
     "url": "https://kwportugal.pt"
