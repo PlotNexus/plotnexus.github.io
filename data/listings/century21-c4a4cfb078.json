@@ -9,7 +9,7 @@
   "bathrooms": 10,
   "area_m2": 365.4,
   "image": "https://images.century21.pt/b699f951-c8eb-40c8-98ff-1d38b3300f30/Aereas-22.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7188836,
     "lng": -8.9672718
@@ -22,12 +22,43 @@
   "published_at": "2026-09-28",
   "last_seen_at": "2026-09-28",
   "images": [
-    "https://images.century21.pt/b699f951-c8eb-40c8-98ff-1d38b3300f30/Aereas-22.jpg"
+    "https://images.century21.pt/b699f951-c8eb-40c8-98ff-1d38b3300f30/Aereas-22.jpg",
+    "https://images.century21.pt/c21005f2-20c9-4967-87eb-f4ad3f01eb78/exterior(11).jpg",
+    "https://images.century21.pt/72e1c70e-ec10-4c3e-b32e-5780aff379c7/Entrada(3).jpg",
+    "https://images.century21.pt/413e1219-d0b8-4159-af82-6d88318664f8/exterior(37).jpg",
+    "https://images.century21.pt/a1e2d935-624e-4eee-95b5-a6f377910b65/Cozinha(7).jpg",
+    "https://images.century21.pt/8848dd31-9bc8-450b-9e20-e9d13b54bd7c/Cozinha(2).jpg",
+    "https://images.century21.pt/e9e65788-621d-487e-b4b2-7a78526e18a7/Cozinha(1).jpg",
+    "https://images.century21.pt/7447eea7-eb40-474b-82a9-1a5745e0721b/Cozinha(3).jpg",
+    "https://images.century21.pt/fc221c76-4d58-41c3-be3e-9ed8bc2af228/suite(3).jpg",
+    "https://images.century21.pt/f88795d3-4d5d-48ab-8e34-1d7c12838e28/suite(4).jpg",
+    "https://images.century21.pt/1a29c351-0eac-4b03-82c4-416ce5c46b35/suite(2).jpg",
+    "https://images.century21.pt/b6e4abfc-306b-47f2-b0c1-8cd4f4e4456f/suite4(2).jpg",
+    "https://images.century21.pt/b60a2168-5616-4ae1-96a9-d0e356833257/suite4(6).jpg",
+    "https://images.century21.pt/0ba0949e-1e55-443c-b8cc-5bb2fa4f1430/suite5(3).jpg",
+    "https://images.century21.pt/ca1d6ac5-2aec-4ab1-80b6-94ca59f6c752/suite5.jpg",
+    "https://images.century21.pt/3b5cfbfe-c4ca-4020-8fea-37eedc4f4742/suitetopo4(5).jpg",
+    "https://images.century21.pt/93aa7a6a-ba26-490d-ac40-ab870906efae/suitetopo3(1).jpg",
+    "https://images.century21.pt/0f1ae00d-fb8c-4f50-8f4a-cea36226be2c/suitetopo4.jpg",
+    "https://images.century21.pt/d70df5a0-af5c-4667-b67c-35e4ab4ee113/suitetopo3(4).jpg",
+    "https://images.century21.pt/f47f33de-83f6-474b-9904-d91192e52757/suitetopo4(2).jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Pré-instalação de ar condicionado",
+      "Estacionamento",
+      "Arrecadação",
+      "Casa de banho",
+      "Casa de banho de suite",
+      "Corredor",
+      "Cozinha",
+      "Quarto",
+      "Quarto em suite"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 365.4,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 406,
+  "ano_construcao": 1992,
+  "certificacao_energetica": "E"
 }
