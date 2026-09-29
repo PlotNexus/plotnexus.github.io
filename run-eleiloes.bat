@@ -10,6 +10,18 @@ REM ============================================================
 
 cd /d "%~dp0"
 
+if not exist ".git" (
+    echo ERRO: esta pasta nao e uma copia clonada do repositorio ^(nao tem ".git"^).
+    echo Este ficheiro tem de estar dentro de uma copia completa do repositorio,
+    echo nao sozinho numa pasta. Se ainda nao tens o repositorio, corre primeiro:
+    echo.
+    echo     git clone https://github.com/PlotNexus/plotnexus.github.io.git
+    echo.
+    echo e depois usa o run-eleiloes.bat que fica dentro dessa pasta.
+    pause
+    exit /b 1
+)
+
 where git >nul 2>nul
 if errorlevel 1 (
     echo ERRO: git nao encontrado no PATH. Instala o Git for Windows e tenta de novo.
@@ -28,8 +40,8 @@ echo A atualizar o repositorio local...
 git pull
 if errorlevel 1 (
     echo.
-    echo ERRO ao fazer "git pull". Resolve isso primeiro (ex.: alteracoes locais
-    echo por gravar) e corre este ficheiro de novo.
+    echo ERRO ao fazer "git pull". Resolve isso primeiro ^(ex.: alteracoes locais
+    echo por gravar^) e corre este ficheiro de novo.
     pause
     exit /b 1
 )
