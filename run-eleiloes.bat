@@ -6,6 +6,7 @@ REM  Corre o scraper do e-Leiloes e publica o resultado.
 REM  Corre isto a partir de uma ligacao residencial normal - nao
 REM  funciona a partir de redes de datacenter (ver README.md).
 REM  Duplo-clique neste ficheiro, ou corre-o num terminal.
+REM  (v2 - corrigidos erros de sintaxe do cmd.exe)
 REM ============================================================
 
 cd /d "%~dp0"
