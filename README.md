@@ -128,8 +128,17 @@ link directo para o anúncio original:
     os runners do GitHub Actions são exactamente o tipo de gama que essa
     filtragem costuma visar. Por isso, `run-eleiloes-manual.js` corre à
     parte do resto do scraper, à mão, a partir de uma ligação normal (ver
-    "Correr localmente" abaixo). Também é a única fonte com um modelo de
-    dados diferente: não é uma venda com preço fixo, é um leilão com valor
+    "Correr localmente" abaixo). Mesmo a partir de uma ligação residencial
+    normal, havia ainda um segundo problema, este sim corrigido: o
+    certificado TLS do site (`osae.pt`) só envia o certificado final na
+    negociação, sem o intermédio da Sectigo — os browsers toleram isto
+    (vão buscar o intermédio em falta sozinhos), o `fetch()` do Node não,
+    falhando com `UNABLE_TO_VERIFY_LEAF_SIGNATURE`. `sources/eleiloes.js`
+    contorna isto fixando o certificado intermédio em falta como âncora de
+    confiança extra, só para este pedido.
+
+    Também é a única fonte com um modelo de dados diferente: não é uma
+    venda com preço fixo, é um leilão com valor
     base, valor mínimo, licitação actual e prazo — guardado à parte em
     `listing.leilao`, sem forçar nenhum desses valores para o campo
     `price` normal das outras fontes (que aqui reflecte o valor base, o
