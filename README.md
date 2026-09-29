@@ -250,6 +250,7 @@ link directo para o anúncio original:
 │       ├── idealista.js
 │       └── eleiloes.js           # só corrido manualmente, ver "Correr localmente"
 ├── .github/workflows/scrape.yml  # agendamento do scraper
+├── run-eleiloes.bat              # atalho Windows para run-eleiloes-manual.js
 ├── LICENSE
 └── README.md
 ```
@@ -291,6 +292,11 @@ git add data/listings.json data/listings/ sitemap.xml
 git commit -m "chore: update e-leilões listings"
 git push
 ```
+
+Em Windows, `run-eleiloes.bat` (na raiz do repositório) faz os mesmos passos
+de um duplo-clique — instala dependências se for a primeira vez, atualiza o
+repositório antes de correr, e só faz commit/push se houver mesmo anúncios
+novos.
 
 Escreve exactamente os mesmos ficheiros que `finalize.js`, por isso é seguro
 correr isto entre execuções agendadas normais — só toca nos anúncios do
