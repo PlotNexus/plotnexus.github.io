@@ -40,11 +40,16 @@ export function createFetcher({ userAgent, retries = 4, retryBaseDelayMs = 8000,
           },
         });
       } catch (err) {
+        // fetch()/undici's own message is just "fetch failed" — the useful
+        // part (ECONNRESET, cert validation, DNS, etc.) is nested in
+        // err.cause. Surface it too, otherwise every network failure looks
+        // identical in the logs regardless of actual cause.
+        const detail = err.cause ? `${err.message}: ${err.cause.code || err.cause.message || err.cause}` : err.message;
         if (attempt === retries) {
-          throw new Error(`${url}: falha de rede persistente após ${retries} tentativas (${err.message})`);
+          throw new Error(`${url}: falha de rede persistente após ${retries} tentativas (${detail})`);
         }
         const wait = jitteredDelay(retryBaseDelayMs * (attempt + 1));
-        console.warn(`[http] falha de rede em ${url} (${err.message}), a aguardar ${wait}ms antes de repetir`);
+        console.warn(`[http] falha de rede em ${url} (${detail}), a aguardar ${wait}ms antes de repetir`);
         await sleep(wait);
         continue;
       }
