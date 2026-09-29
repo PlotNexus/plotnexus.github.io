@@ -288,7 +288,9 @@ function buildListingFromCard(card, hrefByReference) {
   };
 }
 
-async function fetchListingPage(pageNum) {
+// Exported (only) for debug-eleiloes.js — everything else here reaches the
+// page through scrapeELeiloes.
+export async function fetchListingPage(pageNum) {
   const url = pageNum > 1 ? `${LISTING_PAGE_URL}?page=${pageNum}` : LISTING_PAGE_URL;
   return fetchHtml(url);
 }
