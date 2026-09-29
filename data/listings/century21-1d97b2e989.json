@@ -9,7 +9,7 @@
   "bathrooms": 0,
   "area_m2": 80,
   "image": "https://images.century21.pt/e3dd41f9-e23c-4ed9-879a-5628f103a2a6/35292.heic",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 40.2270884666512,
     "lng": -7.2362029724095
@@ -22,12 +22,40 @@
   "published_at": "2026-09-29",
   "last_seen_at": "2026-09-29",
   "images": [
-    "https://images.century21.pt/e3dd41f9-e23c-4ed9-879a-5628f103a2a6/35292.heic"
+    "https://images.century21.pt/e3dd41f9-e23c-4ed9-879a-5628f103a2a6/35292.heic",
+    "https://images.century21.pt/90b85f29-bafe-40d0-8b19-f968667f371a/35307.heic",
+    "https://images.century21.pt/9fc363df-3493-43da-9942-f98520f0058e/35293.heic",
+    "https://images.century21.pt/c7fb1a5c-7a5f-4deb-9d02-0c4e908f4064/35291.heic",
+    "https://images.century21.pt/9c0808a8-7a02-4146-aea2-e249ea5cd022/35295.heic",
+    "https://images.century21.pt/00871c3a-5911-4465-9020-c458e2c02a27/WhatsAppImage2026-05-07at11.08.44(1).jpeg",
+    "https://images.century21.pt/fea4e978-4511-4a21-bc32-98a9101c9d54/WhatsAppImage2026-05-07at11.08.43.jpeg",
+    "https://images.century21.pt/c8209ee3-2ed7-4293-a5dd-2a720436cbef/WhatsAppImage2026-05-07at11.08.43(3).jpeg",
+    "https://images.century21.pt/d64ecf29-4f70-4ce5-af59-aac87234f660/WhatsAppImage2026-05-07at11.08.43(2).jpeg",
+    "https://images.century21.pt/58f47e7a-7e12-4aef-843a-15b51eb99143/WhatsAppImage2026-05-07at11.08.44.jpeg",
+    "https://images.century21.pt/494f8945-0bf6-450b-958b-f48746997f0d/WhatsAppImage2026-05-07at11.08.42.jpeg",
+    "https://images.century21.pt/568d25d1-72ec-4513-bf85-9f96aa2c7207/35297.heic",
+    "https://images.century21.pt/e7073ef1-6ecf-4235-beb6-c20abf31d757/35298.heic",
+    "https://images.century21.pt/c342aace-43d2-430b-8ce6-96b9619c15e5/35303.heic",
+    "https://images.century21.pt/e4125ee9-15a5-4976-89e0-71aaa3c97dcb/35296.heic",
+    "https://images.century21.pt/00676976-5139-4de5-b9c2-96843999d052/35299.heic",
+    "https://images.century21.pt/a9be49c7-955a-4a16-9930-460185ce7c40/35305.heic",
+    "https://images.century21.pt/1461cf38-6876-4b4f-b46b-50c5c7c8a94f/35302.heic",
+    "https://images.century21.pt/c00fd7ea-a38b-4dbb-8ce1-2ab447b85ae1/35304.heic",
+    "https://images.century21.pt/5839d72f-56e3-47a3-adf7-fa24babbe1b4/35300.heic"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Piso em madeira",
+      "Perto de um banco",
+      "Perto de uma igreja",
+      "Perto de uma zona comercial",
+      "Perto de uma zona histórica",
+      "Perto de o centro da cidade"
+    ]
+  },
   "estado": null,
   "area_util_m2": 80,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 80,
+  "ano_construcao": 1937,
+  "certificacao_energetica": "F"
 }
