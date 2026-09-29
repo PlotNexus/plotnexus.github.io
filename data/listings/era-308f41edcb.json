@@ -8,7 +8,7 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": 61,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t1-seixal-santa-marta-do-pinhal_13_1_1475158_18034594_2_1_nhQAci8N3Mt8piZSs4la%2bG4%2bs9KMvoZbiyRYW2vxmDTEB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/apartamento-t1-seixal-santa-marta-do-pinhal_14_1_1475158_18034594_2_1_nhQAci8N3Mt8piZSs4la%2bG4%2bs9KMvoZbiyRYW2vxmDTEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 38.63057,
@@ -22,12 +22,17 @@
   "published_at": "2026-09-29",
   "last_seen_at": "2026-09-29",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t1-seixal-santa-marta-do-pinhal_13_1_1475158_18034594_2_1_nhQAci8N3Mt8piZSs4la%2bG4%2bs9KMvoZbiyRYW2vxmDTEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t1-seixal-santa-marta-do-pinhal_14_1_1475158_18034594_2_1_nhQAci8N3Mt8piZSs4la%2bG4%2bs9KMvoZbiyRYW2vxmDTEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 61"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 61,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 61,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
