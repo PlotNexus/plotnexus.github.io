@@ -142,12 +142,13 @@ link directo para o anúncio original:
     base, valor mínimo, licitação actual e prazo — guardado à parte em
     `listing.leilao`, sem forçar nenhum desses valores para o campo
     `price` normal das outras fontes (que aqui reflecte o valor base, o
-    "preço de partida"). A extracção da página não usa selectores CSS
-    exactos (não foi possível obter o HTML real a partir de nenhum
-    ambiente automatizado) — em vez disso, procura por padrões de texto
-    conhecidos (referência `LO\d+`, `VB:`/`VM:`/`LA:`, datas `de:`/`a:`) que
-    são resistentes a não saber a estrutura DOM exacta, mas ainda por
-    validar contra a página real.
+    "preço de partida"). O site é uma SPA em Vue — o HTML inicial vem
+    vazio (`<div id="app">`), por isso não há extracção de HTML nenhuma:
+    o próprio site carrega os leilões através de uma API JSON própria
+    (`GET /api/Eventos/?tableParams=...`, filtrada a `tipo=1` para
+    "Imóveis"), descoberta a partir do separador Network do browser, e é
+    essa API que `sources/eleiloes.js` consulta directamente, paginando
+    até `pagination.total`.
 
   A recolha nacional é dividida em 4 execuções paralelas (cada uma cobrindo
   um subconjunto de distritos/localizações de cada fonte), para que nenhuma
