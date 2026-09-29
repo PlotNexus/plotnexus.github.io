@@ -115,7 +115,31 @@ link directo para o anúncio original:
     que deixam de responder sem a assinatura) — muito menos tempo do que o
     intervalo entre reforços de detalhe — por isso esta fonte não guarda
     fotografias; o botão para o anúncio original continua a mostrá-las.
-  
+  - **e-Leilões** (`sources/eleiloes.js`) — a única fonte que **não corre
+    automaticamente**: é a plataforma oficial de leilões judiciais (gerida
+    pela Ordem dos Solicitadores e dos Agentes de Execução), e está
+    inacessível a partir de qualquer rede de datacenter testada (este
+    ambiente de desenvolvimento, um runner real do GitHub Actions, e o
+    crawler da própria Anthropic — todos com o mesmo padrão: DNS e TCP
+    resolvem-se logo, mas o pedido HTTPS fica pendurado ~12s e depois é
+    interrompido), enquanto funciona instantaneamente a partir de uma
+    ligação residencial normal (confirmado directamente pelo utilizador).
+    Isto aponta para filtragem por gama de IP, não uma falha do site — e
+    os runners do GitHub Actions são exactamente o tipo de gama que essa
+    filtragem costuma visar. Por isso, `run-eleiloes-manual.js` corre à
+    parte do resto do scraper, à mão, a partir de uma ligação normal (ver
+    "Correr localmente" abaixo). Também é a única fonte com um modelo de
+    dados diferente: não é uma venda com preço fixo, é um leilão com valor
+    base, valor mínimo, licitação actual e prazo — guardado à parte em
+    `listing.leilao`, sem forçar nenhum desses valores para o campo
+    `price` normal das outras fontes (que aqui reflecte o valor base, o
+    "preço de partida"). A extracção da página não usa selectores CSS
+    exactos (não foi possível obter o HTML real a partir de nenhum
+    ambiente automatizado) — em vez disso, procura por padrões de texto
+    conhecidos (referência `LO\d+`, `VB:`/`VM:`/`LA:`, datas `de:`/`a:`) que
+    são resistentes a não saber a estrutura DOM exacta, mas ainda por
+    validar contra a página real.
+
   A recolha nacional é dividida em 4 execuções paralelas (cada uma cobrindo
   um subconjunto de distritos/localizações de cada fonte), para que nenhuma
   execução isolada precise de fazer todos os pedidos sozinha.
@@ -209,6 +233,7 @@ link directo para o anúncio original:
 │   ├── index.js                  # ponto de entrada para correr tudo localmente, sequencial
 │   ├── worker.js                 # ponto de entrada por shard (usado pelo GitHub Actions)
 │   ├── finalize.js               # combina os shards e escreve os ficheiros finais
+│   ├── run-eleiloes-manual.js    # equivalente ao finalize.js, só para o e-Leilões, correr à mão
 │   ├── lib/
 │   │   ├── http.js               # fetch com retry/backoff (429 e falhas de rede)
 │   │   ├── merge.js              # junção com dados anteriores + seleção de detalhe
@@ -222,7 +247,8 @@ link directo para o anúncio original:
 │       ├── century21.js
 │       ├── kwportugal.js
 │       ├── era.js
-│       └── idealista.js
+│       ├── idealista.js
+│       └── eleiloes.js           # só corrido manualmente, ver "Correr localmente"
 ├── .github/workflows/scrape.yml  # agendamento do scraper
 ├── LICENSE
 └── README.md
@@ -253,6 +279,22 @@ A variável de ambiente `SCRAPE_DISTRICTS` (lista separada por vírgulas, ex.
 da lista completa. A fonte Idealista precisa também de `RAPIDAPI_KEY`
 (a mesma usada em produção, guardada como *secret* do GitHub Actions) —
 sem ela, essa fonte é simplesmente ignorada em vez de falhar a execução.
+
+O e-Leilões fica de fora de `index.js`/`worker.js` (ver acima) e tem o seu
+próprio ponto de entrada, para correr manualmente a partir de uma ligação
+residencial normal:
+
+```bash
+cd scripts/scrape
+node run-eleiloes-manual.js
+git add data/listings.json data/listings/ sitemap.xml
+git commit -m "chore: update e-leilões listings"
+git push
+```
+
+Escreve exactamente os mesmos ficheiros que `finalize.js`, por isso é seguro
+correr isto entre execuções agendadas normais — só toca nos anúncios do
+e-Leilões, os das outras fontes ficam intactos.
 
 No GitHub Actions, o mesmo trabalho corre dividido: `worker.js` trata de um
 subconjunto de distritos (`SHARD_INDEX`/`SHARD_COUNT`) e escreve o seu próprio
