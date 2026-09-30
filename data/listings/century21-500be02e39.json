@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 150,
   "image": "https://images.century21.pt/36cfd43c-103e-46f0-a363-03fc4ecd2b03/07.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6701829,
     "lng": -8.7279626
@@ -22,12 +22,58 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/36cfd43c-103e-46f0-a363-03fc4ecd2b03/07.jpg"
+    "https://images.century21.pt/36cfd43c-103e-46f0-a363-03fc4ecd2b03/07.jpg",
+    "https://images.century21.pt/69c29fdd-52f9-4f77-a635-750600f967be/12.jpg",
+    "https://images.century21.pt/24715f48-f5c6-48c3-a781-ae1a48668d66/03.jpg",
+    "https://images.century21.pt/8626c853-eb13-431e-808c-a5ad81b54bf6/08.jpg",
+    "https://images.century21.pt/06cc3dae-2882-49e4-ba25-77c80f416929/65.jpg",
+    "https://images.century21.pt/3a7428cd-c925-47d5-8f7b-daa6b07fdc23/64.jpg",
+    "https://images.century21.pt/49a55312-e9c0-402a-9efd-d921137bb2f9/22.jpg",
+    "https://images.century21.pt/9ed2463e-b5b0-449a-b5ac-a82c578339e1/23.jpg",
+    "https://images.century21.pt/0abaa4eb-ce8f-438a-b8fa-9ebdea4f2f6e/20.jpg",
+    "https://images.century21.pt/d5819039-1306-4f4d-8bf8-0306a69910b1/53.jpg",
+    "https://images.century21.pt/4cd20958-43fb-4f0c-b770-2edf7aa50186/48.jpg",
+    "https://images.century21.pt/67f3021b-dfec-43df-9239-338797ca405d/46.jpg",
+    "https://images.century21.pt/5f1ae467-17e8-4760-90bb-ac321b9cd775/51.jpg",
+    "https://images.century21.pt/25622956-6bf5-4905-8d5a-d4c3e140bb89/42.jpg",
+    "https://images.century21.pt/54c0751f-43d8-4a6d-9840-2b63471f9c22/42.jpg",
+    "https://images.century21.pt/724c237d-2afa-40be-92b6-7b3e0fe02bb7/44.jpg",
+    "https://images.century21.pt/99b4190e-1f7c-473d-94b1-841e6f39486f/36.jpg",
+    "https://images.century21.pt/dcaef01d-bbfc-43d3-b868-718e48cfb831/37.jpg",
+    "https://images.century21.pt/b0f15187-8003-4300-a5c4-42f53df71656/38.jpg",
+    "https://images.century21.pt/6ac7c471-0d03-466d-ba9b-f62afd64986d/32.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Churrasqueira",
+      "Casa de banho",
+      "Arbustos",
+      "Sem cadeia de venda",
+      "Vista campo",
+      "Lareira",
+      "Alpendre",
+      "Árvores de fruto",
+      "Garagem",
+      "Jardim",
+      "Boa exposição solar",
+      "Cozinha",
+      "Lavandaria",
+      "Loft",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma zona comercial",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de restaurantes",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Arrecadação",
+      "Piso em azulejo",
+      "Horta"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 150,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 250,
+  "ano_construcao": 1972,
+  "certificacao_energetica": "D"
 }
