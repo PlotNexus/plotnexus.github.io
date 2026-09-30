@@ -34,7 +34,18 @@ const LISTINGS_DIR = path.join(__dirname, "..", "..", "data", "listings");
 const SITEMAP_PATH = path.join(__dirname, "..", "..", "sitemap.xml");
 
 async function main() {
-  const freshListings = await scrapeELeiloes();
+  const { listings: previousListings, rawById: previousRawById, files: previousFiles } = await loadPreviousListings(
+    LISTINGS_DIR
+  );
+  // Only e-leilões' own previous listings matter here — passed in so
+  // scrapeELeiloes can skip re-fetching per-listing detail (description,
+  // photos, area, coordinates) for anything already detailed in a past
+  // run. See the "Detail enrichment" comment in sources/eleiloes.js.
+  const previousEleiloesById = new Map(
+    previousListings.filter((l) => l.id.startsWith("eleiloes-")).map((l) => [l.id, l])
+  );
+
+  const freshListings = await scrapeELeiloes({ previousListingsById: previousEleiloesById });
 
   if (freshListings.length === 0) {
     console.warn(
@@ -43,9 +54,6 @@ async function main() {
     );
   }
 
-  const { listings: previousListings, rawById: previousRawById, files: previousFiles } = await loadPreviousListings(
-    LISTINGS_DIR
-  );
   const mergedListings = mergeWithPrevious(freshListings, previousListings);
   const dedupedListings = removeDuplicateListings(mergedListings);
 

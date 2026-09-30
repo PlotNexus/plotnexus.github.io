@@ -150,6 +150,22 @@ link directo para o anúncio original:
     essa API que `sources/eleiloes.js` consulta directamente, paginando
     até `pagination.total`.
 
+    Tem também o mesmo nível de detalhe (descrição, fotos, área,
+    coordenadas) que as outras fontes, obtido de um segundo endpoint por
+    anúncio (`GET /api/Eventos/<referência>/`). Para não obrigar cada
+    execução manual a repetir ~800 pedidos, só os anúncios ainda sem
+    detalhe (novos, ou cuja última tentativa falhou) são de facto pedidos
+    de novo — os já detalhados em execuções anteriores são reaproveitados
+    directamente do seu próprio `data/listings/<id>.json`. Isto significa
+    que a primeira execução depois de activar isto demora bastante mais
+    (~40 minutos, um pedido de cada vez, com a mesma pausa entre pedidos
+    do resto do scraper) — as seguintes só pagam esse custo para leilões
+    novos. Propositadamente não capturado desse endpoint: o nome e NIF do
+    executado (dados pessoais de alguém em dificuldade financeira, sem
+    qualquer relação com o imóvel em si); os ónus/encargos (ex.: um
+    arrendamento existente que sobrevive à venda) ficam, por serem sobre o
+    imóvel, não sobre uma pessoa.
+
   A recolha nacional é dividida em 4 execuções paralelas (cada uma cobrindo
   um subconjunto de distritos/localizações de cada fonte), para que nenhuma
   execução isolada precise de fazer todos os pedidos sozinha.

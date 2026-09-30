@@ -2,6 +2,7 @@ import https from "node:https";
 import tls from "node:tls";
 import { idFromUrl, toAbsoluteUrl, parseBedroomsFromText } from "../lib/normalize.js";
 import { sleep, jitteredDelay, sleepJittered } from "../lib/http.js";
+import { capImages } from "../lib/merge.js";
 
 // e-leilões.pt — the official judicial property-auction platform (run by
 // OSAE, the Order of Solicitors and Enforcement Agents). Not part of the
@@ -57,14 +58,29 @@ import { sleep, jitteredDelay, sleepJittered } from "../lib/http.js";
 // base), the closest equivalent to an "asking price" a judicial auction
 // has.
 //
-// Scope note: only what the Eventos/ list endpoint itself returns is
-// captured (title, VB/VM/LA, district/concelho, dates, one cover photo) —
-// there's a separate per-listing detail endpoint (seen when opening
-// /evento/<referencia>: area privada/dependente/total, a full photo
-// gallery, tipologia) that isn't fetched here, to keep a manual run's
-// runtime to the ~5 minutes a ~800-listing catalogue takes at one list
-// request per 12 listings. Worth adding later if the extra detail proves
-// worth ~800 more requests per run.
+// Detail enrichment: the list endpoint alone only gives title, VB/VM/LA,
+// district/concelho, dates and one cover photo — description, the full
+// photo gallery, area (privativa/dependente/total), tipologia and GPS
+// coordinates live on a separate per-listing endpoint,
+// api/Eventos/<referencia>/ (found the same way, via the browser's
+// Network tab while viewing /evento/<referencia>). Fetching that for
+// all ~800 listings on every run would mean ~800 more sequential
+// requests (at the same paced delay as everything else here, that's
+// close to 40 minutes) — instead, previousListingsById (the previous
+// run's own already-detailed listings, passed in by
+// run-eleiloes-manual.js) is checked first, and only listings that have
+// never been detailed before (or whose detail fetch previously failed)
+// actually hit the network. So the first run against a given catalogue
+// is the slow one; every run after that only pays for genuinely new
+// auctions.
+//
+// Deliberately NOT captured from that endpoint: `executados` (the
+// debtor's name and NIF) and the case-manager's contact details — that's
+// personal data about a named individual in financial distress, not
+// property information, and republishing it here serves no purpose this
+// site has. `onus` (liens/encumbrances, e.g. an existing lease that
+// survives the sale) is kept, since — unlike `executados` — it's about
+// the property, not a person, and matters to anyone actually bidding.
 
 const SOURCE_NAME = "e-Leilões";
 const SOURCE_URL = "https://www.e-leiloes.pt";
@@ -193,6 +209,10 @@ export async function fetchEventosPage(first) {
   return fetchText(buildEventosUrl(first));
 }
 
+export async function fetchEventoDetail(referencia) {
+  return fetchText(`${API_URL}${referencia}/`);
+}
+
 // Titles come back either plain ("Apartamento T2 sito em Santarém") or
 // wrapped in "**...**" (no discernible pattern for which) — strip the
 // markers either way rather than treating them as part of the title.
@@ -244,8 +264,62 @@ function buildListingFromEvento(evento) {
   };
 }
 
-export async function scrapeELeiloes({ maxPages = 100 } = {}) {
-  const all = [];
+// Merges a fully-detailed evento (from fetchEventoDetail) into a listing
+// built by buildListingFromEvento. Mutates in place — called right after
+// construction, in a loop, so there's no benefit to the immutable-update
+// style used elsewhere in this file.
+function applyEventoDetail(listing, detail) {
+  const images = capImages(
+    (detail.fotos || []).map((f) => toAbsoluteUrl(f.image, SOURCE_URL)).filter(Boolean)
+  );
+  if (images.length) {
+    listing.images = images;
+    listing.image = images[0];
+  }
+
+  listing.description = [detail.descricao, detail.observacoes].filter(Boolean).join("\n\n") || null;
+
+  const bedroomsFromTipologia = parseBedroomsFromText(detail.tipologia);
+  if (bedroomsFromTipologia != null) listing.bedrooms = bedroomsFromTipologia;
+
+  const areaUtil = Number.isFinite(detail.areaUtilPrivativa) ? detail.areaUtilPrivativa : null;
+  const areaTotal = Number.isFinite(detail.areaTotal) ? detail.areaTotal : null;
+  listing.area_util_m2 = areaUtil;
+  listing.area_bruta_m2 = areaTotal;
+  listing.area_m2 = areaUtil ?? areaTotal;
+
+  const lat = Number(detail.coordenadasLAT);
+  const lng = Number(detail.coordenadasLON);
+  listing.geo = Number.isFinite(lat) && Number.isFinite(lng) ? { lat, lng } : null;
+
+  listing.leilao.valor_abertura = detail.valorAbertura ?? null;
+  listing.leilao.onus = (detail.onus || []).map((o) => ({
+    tipo: o.tipoDesc || null,
+    valor: o.valor ?? null,
+    descricao: o.descricao || null,
+  }));
+}
+
+// Same shape of update as applyEventoDetail, but copying from this
+// listing's own previous run instead of a fresh API response — see the
+// "Detail enrichment" comment above for why this is the common case.
+function applyPreviousDetail(listing, previous) {
+  listing.description = previous.description ?? null;
+  if (previous.images?.length) {
+    listing.images = previous.images;
+    listing.image = previous.image ?? previous.images[0];
+  }
+  if (previous.bedrooms != null) listing.bedrooms = previous.bedrooms;
+  listing.area_util_m2 = previous.area_util_m2 ?? null;
+  listing.area_bruta_m2 = previous.area_bruta_m2 ?? null;
+  listing.area_m2 = previous.area_m2 ?? null;
+  listing.geo = previous.geo ?? null;
+  listing.leilao.valor_abertura = previous.leilao?.valor_abertura ?? null;
+  listing.leilao.onus = previous.leilao?.onus ?? [];
+}
+
+export async function scrapeELeiloes({ maxPages = 100, previousListingsById = new Map(), maxDetailFetches = 1000 } = {}) {
+  const entries = [];
   let first = 0;
   let total = Infinity;
 
@@ -278,7 +352,7 @@ export async function scrapeELeiloes({ maxPages = 100 } = {}) {
     for (const evento of items) {
       const listing = buildListingFromEvento(evento);
       if (!listing) continue;
-      all.push(listing);
+      entries.push({ listing, referencia: evento.referencia });
       addedThisPage++;
     }
     console.log(
@@ -290,6 +364,36 @@ export async function scrapeELeiloes({ maxPages = 100 } = {}) {
     if (first < total) await sleepJittered(DELAY_BETWEEN_QUERIES_MS);
   }
 
-  console.log(`[eleiloes] total: ${all.length} imóveis em leilão`);
-  return all;
+  console.log(`[eleiloes] total: ${entries.length} imóveis em leilão — a obter detalhe (descrição, área, fotos, coordenadas)...`);
+
+  let fetched = 0;
+  let reused = 0;
+  let failed = 0;
+  for (const { listing, referencia } of entries) {
+    const previous = previousListingsById.get(listing.id);
+    if (previous && previous.description != null) {
+      applyPreviousDetail(listing, previous);
+      reused++;
+      continue;
+    }
+    if (fetched >= maxDetailFetches) continue;
+
+    try {
+      const body = await fetchEventoDetail(referencia);
+      const json = JSON.parse(body);
+      if (json.errors) throw new Error(JSON.stringify(json.errorsList));
+      if (json.item) applyEventoDetail(listing, json.item);
+      fetched++;
+    } catch (err) {
+      console.warn(`[eleiloes] falhou o detalhe de ${referencia}: ${err.message}`);
+      failed++;
+    }
+    await sleepJittered(DELAY_BETWEEN_QUERIES_MS);
+  }
+
+  console.log(
+    `[eleiloes] detalhe: ${fetched} obtido(s) de novo, ${reused} reaproveitado(s) de execuções anteriores, ${failed} falhado(s)`
+  );
+
+  return entries.map((e) => e.listing);
 }
