@@ -9,7 +9,7 @@
   "bathrooms": 0,
   "area_m2": 40,
   "image": "https://images.century21.pt/388715b0-ecc7-44a9-9a2b-40465416e249/7.jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 37.8053761347616,
     "lng": -25.1453769207001
@@ -19,15 +19,35 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0519-00210",
-  "published_at": "2026-09-29",
-  "last_seen_at": "2026-09-29",
+  "published_at": "2026-09-30",
+  "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/388715b0-ecc7-44a9-9a2b-40465416e249/7.jpeg"
+    "https://images.century21.pt/388715b0-ecc7-44a9-9a2b-40465416e249/7.jpeg",
+    "https://images.century21.pt/bc94f81e-56dc-47c9-a614-eb673581b602/8.jpeg",
+    "https://images.century21.pt/5b57a791-a0f2-4e68-96e6-f3cf1215cdf4/9.jpeg",
+    "https://images.century21.pt/9c15f4c6-de88-4ad6-9caf-2589db52c65d/10.jpeg",
+    "https://images.century21.pt/84a079a8-9081-4173-9ef9-fa923c1d52fb/5.jpeg",
+    "https://images.century21.pt/42553061-2d35-4533-b7a0-368b7b8139b6/2.jpeg",
+    "https://images.century21.pt/8b787e38-8513-4a36-97af-d87f71a1e057/6.jpeg",
+    "https://images.century21.pt/90e0e83e-336e-4e7c-96a4-7d2e51816427/4.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Vista campo",
+      "Vista mar",
+      "Acesso por estrada",
+      "Boa localização",
+      "Zona tranquila",
+      "Água canalizada",
+      "Perto de uma igreja",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de uma zona histórica"
+    ]
+  },
   "estado": null,
   "area_util_m2": 40,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 40,
+  "ano_construcao": 1950,
+  "certificacao_energetica": "EXEMPT"
 }
