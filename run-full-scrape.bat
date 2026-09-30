@@ -8,9 +8,12 @@ REM  detalhe incluido, e publica o resultado.
 REM  NAO inclui o e-Leiloes - para esse usa o run-eleiloes.bat.
 REM  E o mesmo trabalho que o scrape agendado no GitHub Actions faz
 REM  em 4 execucoes paralelas (ver .github/workflows/scrape.yml),
-REM  mas tudo a serio numa maquina so - demora MUITO mais tempo
-REM  (pode ir a varias horas, sobretudo na primeira vez). Deixa
-REM  esta janela aberta a correr em segundo plano.
+REM  mas tudo a serio numa maquina so - por isso pausa mais entre
+REM  pedidos do que cada execucao paralela pausaria sozinha (senao
+REM  fontes como a CASA SAPO bloqueiam por excesso de pedidos vindos
+REM  do mesmo IP), e ainda assim demora MUITO mais tempo (pode ir a
+REM  varias horas, sobretudo na primeira vez). Deixa esta janela
+REM  aberta a correr em segundo plano.
 REM  Duplo-clique neste ficheiro, ou corre-o num terminal.
 REM ============================================================
 

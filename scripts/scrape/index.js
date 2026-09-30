@@ -58,6 +58,18 @@ import { buildSitemap } from "./lib/sitemap.js";
 // jobs (see .github/workflows/scrape.yml) so no single run/IP has to make
 // every request.
 
+// Every district, for every source, from this one process's single IP —
+// a much more sustained request pattern than any one worker.js shard ever
+// sees, even at the same per-request delay (each shard only gets a
+// quarter of the districts, from its own runner IP). In practice that's
+// enough to trip rate-limiting much more readily (confirmed against real
+// CASA SAPO runs). Slow every source's own pacing down uniformly to
+// compensate — see lib/http.js's delayMultiplier() — rather than tuning
+// each source's constant separately. `??=` so an explicit
+// SCRAPE_QUERY_DELAY_MULTIPLIER in the environment (e.g. to tune this
+// further) still wins.
+process.env.SCRAPE_QUERY_DELAY_MULTIPLIER ??= "3";
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, "..", "..", "data", "listings.json");
 const DETAIL_CACHE_PATH = path.join(__dirname, "..", "..", "data", "listings-detail.json");

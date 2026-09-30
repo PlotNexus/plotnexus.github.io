@@ -308,6 +308,17 @@ da lista completa. A fonte Idealista precisa também de `RAPIDAPI_KEY`
 (a mesma usada em produção, guardada como *secret* do GitHub Actions) —
 sem ela, essa fonte é simplesmente ignorada em vez de falhar a execução.
 
+`node index.js` corre tudo de um processo só, num único IP — muito mais
+pedidos sustentados vindos desse IP do que qualquer execução paralela do
+GitHub Actions vê (cada uma cobre só um quarto dos distritos, a partir do
+seu próprio IP), o que na prática bloqueia bastante mais fontes sensíveis
+a limites de pedidos, como a CASA SAPO (confirmado numa execução real:
+a maioria dos distritos falhou com 429 logo a seguir aos dois primeiros).
+Por isso, `index.js` pausa 3x mais entre pedidos do que cada execução
+paralela pausaria sozinha (`SCRAPE_QUERY_DELAY_MULTIPLIER`, aplicado em
+`lib/http.js`) — ajustável definindo essa variável de ambiente antes de
+correr, se precisares de ainda mais cautela.
+
 Em Windows, `run-full-scrape.bat` (na raiz do repositório) faz o mesmo com
 um duplo-clique — instala dependências se for a primeira vez, atualiza o
 repositório antes de correr, e só faz commit/push se houver mesmo anúncios

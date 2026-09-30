@@ -2,14 +2,33 @@ export function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+// worker.js's sharding gets each source's national sweep spread across 4
+// parallel GitHub Actions jobs — each on its own runner IP — so a source
+// like CASA SAPO only ever sees a quarter of the districts, at the usual
+// per-request delay, from any single IP. index.js (the unsharded, single-
+// process local runner — see run-full-scrape.bat) does the exact same
+// per-request delay but from *one* IP working through *every* district
+// sequentially, which is a very different, much more sustained request
+// pattern from that IP's point of view even though the steady-state
+// request rate hasn't changed — and in practice that's enough to trip
+// CASA SAPO's rate-limiting far more (confirmed: a real run failed most
+// districts with 429s after just the first couple succeeded). index.js
+// sets this to slow every delay down uniformly instead; worker.js never
+// sets it, so GitHub Actions' sharded runs are unaffected.
+function delayMultiplier() {
+  const raw = Number(process.env.SCRAPE_QUERY_DELAY_MULTIPLIER);
+  return Number.isFinite(raw) && raw > 0 ? raw : 1;
+}
+
 // A perfectly fixed interval between requests (always exactly 5000ms, say)
 // is itself a recognisable bot fingerprint for anti-abuse systems — real
 // browsing/traffic doesn't arrive on a metronome. Jittering the delay
 // randomly within +/-`jitter` of the base keeps the average pacing the
 // same while avoiding that dead giveaway.
 export function jitteredDelay(baseMs, jitter = 0.4) {
-  const min = baseMs * (1 - jitter);
-  const max = baseMs * (1 + jitter);
+  const scaled = baseMs * delayMultiplier();
+  const min = scaled * (1 - jitter);
+  const max = scaled * (1 + jitter);
   return Math.round(min + Math.random() * (max - min));
 }
 
