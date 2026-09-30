@@ -7,19 +7,26 @@
   "location": "Vagos, Aveiro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128011/06072026133527_800sm.jpg",
+  "area_m2": 81.3,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128011/06072026133527_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128011/06072026133527_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128011/06072026133527_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128011/06072026133516_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128011/06072026133536_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128011/06072026133546_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128011/06072026133629_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, fração autónoma designada pela Letra A destinado a COMÉRCIO, inserido no prédio em regime de propriedade horizontal, sito na Rua\r\nAntónio Carlos Vidal, n.º 80, rés do chão, Vagos inscrito na matriz predial urbana sob o n.º 1590 fração A, da freguesia de Vagos, concelho de Vagos\r\ne descrito na Conservatória do Registo Predial de Vagos sob o n.º 1747 da freguesia de Vagos. (Rés do chão esquerdo destinada a comércio).\n\nOs interessados em agendar uma visita ao imóvel deverão enviar e-mail para o escritório da Agente de Execução - 4682@solicitador.net.\r\nAs visitas serão realizadas por marcação prévia, sendo agendado UM ÚNICO DIA para a visita do imóvel e o pedido para a marcação de visitas SÓ DEVERÁ OCORRER até 15 dias antes do encerramento do leilão.  O bem é vendido no estado em que se encontra pelo que é da exclusiva responsabilidade do proponente a verificação do estado do mesmo devendo antes de apresentar proposta assegurar-se que o bem corresponde às suas expectativas e se se encontra nas condições pretendidas. A falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda. Deverá igualmente ter em consideração que, atendendo às especificidades da venda e ao facto de o bem não ser entregue no momento da adjudicação, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao fiel depositário. Entrega do bem: O proponente cuja proposta venha a ser aceite será responsável, após a liquidação do preço e eventuais impostos, pela recolha do bem adquirido junto do fiel depositário indicado. Caso se frustre a entrega dos bens pelo fiel depositário, poderá o adquirente, nos termos do art.º 828.º do CPC, “com base no título de transmissão… requerer contra o detentor, na própria execução, a entrega dos bens, nos termos prescritos no artigo 861.º do CPC, devidamente adaptados”. Documentos oficiais: Devem ser consultados os documentos oficiais (caderneta e descrição predial).  Ónus: Desconhece-se se o imóvel tem outros ónus além dos mencionados do documento oficial (descrição predial). Desconhece-se se o imóvel tem licença de utilização. Direito de Remição: O bem a vender pode ser objeto de reclamação do direito de remição até ao momento de entrega ao adquirente. ADVERTÊNCIA: As áreas e descrição do imóvel no presente anúncio, têm por base, as descritas na certidão predial e matricial respetivas. No entanto, os interessados em licitar, deverão aferir previamente, por todos os meios disponíveis, se o imóvel está de acordo com os seus interesses de aquisição. A falta desta averiguação, por parte dos licitantes, não determina nos termos legais, a anulação da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 81.3,
+  "area_bruta_m2": 96.1,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.55581494,
+    "lng": -8.68145125
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 92735,
     "licitacao_atual": 60500,
     "data_inicio": "2026-09-17T10:11:51",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 54550,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

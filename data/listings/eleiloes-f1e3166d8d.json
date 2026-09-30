@@ -5,21 +5,26 @@
   "price": 663000.01,
   "currency": "EUR",
   "location": "Torres Vedras, Lisboa",
-  "bedrooms": null,
+  "bedrooms": 4,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128875/01092026205517_800sm.jpg",
+  "area_m2": 189.68,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128875/01092026205517_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128875/01092026205517_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128875/01092026205517_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128875/01092026205344_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128875/01092026205409_800.jpg"
   ],
-  "description": null,
+  "description": "FRAÇÃO C- TERCEIRA MORADIA A CONTAR DO LADO SUL, DESTINADA A HABITAÇÃO, COMPOSTA DE CAVE, RÉS DO CHÃO, PRIMEIRO ANDAR, SOTÃO, E LOGRADOURO, COM A ÁREA COBERTA DE 94,84 m2, E ÁREA DESCOBERTA DE 349,06 m2, DO PRÉDIO SITO NA RUA DAS PEÇAS, CONDOMINIO \" VISTA ATLÂNTICO \", LUGAR DE ASSENTA, FREGUESIA DE S.PEDRO DA CADEIRA, CONCELHO DE TORRES VEDRAS. \r\ninscrito na matriz predial urbana sob o artigo 4449, freguesia de S. Pedro da Cadeira, e descrito na Conservatória do Registo Predial de Torres Vedras sob o nº 1214, freguesia de S. Pedro da Cadeira, concelho de Torres Vedras.\r\n\r\n\r\nO PRÉDIO EM PROPRIEDADE HORIZONTAL É CONSTITUIDO POR SETE FRAÇÕES AUTÓNOMAS, CORRESPONDENTES MORADIAS UNIFAMILIARES SUFICIENTES DISTINTAS E ISOLADASENTRE SI, COM SAÍDA PRÓPRIA PARA UM ESPAÇOCOMUM E DESTE PARA A VIA PUBLICA. SÃO COMUNS ÀS FRAÇÕES A SALA DE FESTAS E DO CONDOMINIO, PORTARIA E INSTALAÇÕES SANITÁRIAS, O CAMPO DE JOGOS, ZONAS VERDES, PARQUE INFANTIL, ARRUAMENTOS, ESTACIONAMENTOS E PASSEIOS.\n\nO EXEQUENTE REQUEREU A ADJUDICAÇÃO DO IMÓVEL PELO VALOR MÍNIMO EXIGIDO OU SEJA O CORRESPONDENTE A 85% DO VALOR BASE DE 780.000,00€. PELO QUE, SÓ SERÃI ACEITES PROPOSTAS ACIMA DO VALOR MÍNIMO DE 663.000.00€.\r\n\r\nA moradia está ocupada pela executada, não sendo permitida a obtenção de fotos do interior do imóvel, tendo sido verificado pela agente de execução de que, a mesma está em bom estado de conservação.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 189.68,
+  "area_bruta_m2": 349.06,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.06101607154608,
+    "lng": -9.413909912109375
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 663000.01,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-12T00:00:08",
-    "data_fim": "2026-10-14T10:30:00"
+    "data_fim": "2026-10-14T10:30:00",
+    "valor_abertura": 663000.01,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

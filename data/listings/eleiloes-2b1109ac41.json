@@ -7,19 +7,34 @@
   "location": "Vila de Rei, Castelo Branco",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162612_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162612_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162612_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162612_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162539_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162541_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162544_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162547_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162549_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162553_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162555_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162559_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162602_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162605_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162608_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112456/07112024162610_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 de Prédio rústico rústico composto de pinhal e pastagem, denominado Maxuqueira, confronta a Norte com Jorge Brás de Oliveira Dias, a Sul com Ribeiro, a Nascente com Estrada Municipal e José da Silva Ereira (Herd) e a Poente António da Silva Dias e outros. Descrito na Conservatória do Registo Predial de Vila de Rei sob a ficha 249 da freguesia de São João do Peso e inscrito na matriz predial rústica sob o artigo 677º referida freguesia.\n\nTratando-se de um Prédio Rústico, os interessados poderão, livremente deslocar-se ao local do mesmo, e verificar o estado de conservação. As áreas indicadas servem apenas como referência pois não foram feitas medições exatas no local. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características e de todos os outros aspetos que considerem relevantes. Com a apresentação da proposta, presume-se que o interessado tenha inspecionado o bem e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação. O bem é vendido no estado que se encontra pelo que os interessados devem proceder à verificação prévia do estado do bem.\r\nATENÇÃO* ADVERTEM-SE TODOS OS INTERESSADOS/PROPONENTES QUE SÓ SERÃO CONSIDERADAS AS PROPOSTAS SUBMETIDAS NESTA PLATAFORMA ATÉ AO DIA E HORA DO FECHO DA VENDA (as propostas apresentadas fora desta plataforma eletrónica não serão consideradas)*",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 6100,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.71382719,
+    "lng": -8.07139955
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +46,9 @@
     "valor_minimo": 2040,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-15T15:16:36",
-    "data_fim": "2026-11-24T14:30:00"
+    "data_fim": "2026-11-24T14:30:00",
+    "valor_abertura": 1200,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

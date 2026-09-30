@@ -7,19 +7,30 @@
   "location": "Braga, Braga",
   "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129159/16092026181914_800sm.jpg",
+  "area_m2": 126,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129159/16092026181914_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129159/16092026181914_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129159/16092026181914_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129159/16092026181857_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129159/16092026181859_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129159/16092026181902_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129159/16092026181904_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129159/16092026181906_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129159/16092026181908_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129159/16092026181910_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129159/16092026181912_800.jpg"
   ],
-  "description": null,
+  "description": "Fracção autónoma, designada pela letra “G”, correspondente ao primeiro andar esquerdocentro (com frente para norte e poente), destinada a habitação, com entrada em comum pela segunda porta do lado nascente, a contar do sul, com uma garagem na subcave, designada pelo número dez, integrante do prédio urbano em regime de propriedade horizontal, sito na Praça Cónego Francisco Pacheco Pereira, n.º 24 e 25, praceta João Beltrão, n.º 4. 5 e 6 e Rua\r\nCónego Rafael Álvares da Costa, n.º 3 e 5, freguesia de Braga (S. Vitor), concelho de Braga, descrito na primeira conservatória do registo predial de Braga sob o número setecentos e setenta e sete/Braga (S. Vitor), na matriz predial urbana sob o artigo n.º 4156º da freguesia de Braga (S. Vitor)\n\nTrata-se de venda em processo de divisão de coisa comum. Será agendada um único dia de visita, que terá lugar na semana anterior ao termo da data de leilão. Caso pretenda visitar o imóvel deverá submeter pedido de contacto na área reservada da plataforma. No pedido de visita indique os seus contatos (telefone e email). O imóvel encontra-se ocupado pela requerida.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 126,
+  "area_bruta_m2": 141,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.55026932,
+    "lng": -8.40446616
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +42,9 @@
     "valor_minimo": 198050,
     "licitacao_atual": 170000,
     "data_inicio": "2026-09-25T00:00:11",
-    "data_fim": "2026-10-20T10:00:00"
+    "data_fim": "2026-10-20T10:00:00",
+    "valor_abertura": 116500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -5,21 +5,37 @@
   "price": 88380,
   "currency": "EUR",
   "location": "Santarém, Santarém",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113155_800sm.jpg",
+  "area_m2": 126,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113155_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113155_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113155_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113158_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113201_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113203_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113206_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113208_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113211_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113213_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113217_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113220_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113223_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113226_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113228_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44326/14102022113231_800.jpg"
   ],
-  "description": null,
+  "description": "Fracção Autónoma designada pela letra D correspondente ao rés-do-chão esquerdo retaguarda para habitação do prédio em regime de propriedade horizontal sito em Salmeirim, Portela das Padeiras, Lote 1, Santarém, descrito na Conservatória do Registo Predial de Santarém sob o n.º 3463, da freguesia de Salvador e inscrito na matriz predial urbana sob o n.º 4961 da União das Freguesias da Cidade de Santarém.\n\nAdvertem-se os interessados que: \r\n1. É da sua única e exclusiva responsabilidade a verificação do estado do bem a adquirir pelo que deverá assegurar-se que o mesmo corresponde às suas expectativas e que se encontra nas condições pretendidas. A não verificação não é fundamento para anulação do procedimento de venda; \r\n2. O imóvel está habitado, contudo as visitas devem ser agendadas, previamente, junto do escritório do agente de execução através dos contactos disponibilizados em campo próprio; \r\n3. A presente venda não compreende o recheio visualizado nas fotos; \r\n4. O imóvel está arrendado pela quantia mensal de 300,00 euros, tendo tido início em 1997.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 126,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.2548774,
+    "lng": -8.69730042
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +47,9 @@
     "valor_minimo": 75123,
     "licitacao_atual": 75500.01,
     "data_inicio": "2026-07-28T11:26:00",
-    "data_fim": "2026-10-27T14:30:00"
+    "data_fim": "2026-10-27T14:30:00",
+    "valor_abertura": 44190,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

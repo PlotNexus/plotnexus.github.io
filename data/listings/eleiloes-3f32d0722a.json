@@ -5,21 +5,34 @@
   "price": 197500,
   "currency": "EUR",
   "location": "Fronteira, Portalegre",
-  "bedrooms": null,
+  "bedrooms": 6,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154359_800sm.jpg",
+  "area_m2": 180,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154359_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154359_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154359_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154131_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154143_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154158_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154214_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154217_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154225_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154236_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154302_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154305_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128962/07092026154345_800.jpg"
   ],
-  "description": null,
+  "description": "DESCRIÇÃO DO PRÉDIO\r\n\r\n Tipo de Prédio: Prédio em Prop. Total sem Andares nem Div. Susc. de Utiliz. Independente \r\n\r\nDescrição: Prédio de fachada caiada, pátios quintais e uma dependência que serve de celeiro e uma varanda. \r\n\r\nAfectação: Habitação Nº de pisos: 1 Tipologia/Divisões: 6 ÁREAS (em m²) \r\n\r\nÁrea total do terreno: 2.120,0000 m² \r\n\r\nÁrea de implantação do edifício: 223,0000 m² \r\n\r\nÁrea bruta de construção: 223,0000 m² \r\n\r\nÁrea bruta dependente: 43,0000 m² \r\n\r\nÁrea bruta privativa: 180,0000 m²\n\nOs eventuais interessados devem inteirar-se das qualidades e características, licenças e outros aspetos que considerem relevantes, do(s) bem(s). É da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. O imóvel é vendido no estado ( Físico e Jurídico )  em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisição que devem proceder à verificação prévia do estado do mesmo. A falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda. Não serão agendadas visitas nos últimos 5 dias úteis antes da data final do leilão.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 180,
+  "area_bruta_m2": 2120,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.13452283,
+    "lng": -7.59209911
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +44,9 @@
     "valor_minimo": 167875,
     "licitacao_atual": 98750,
     "data_inicio": "2026-09-18T00:00:04",
-    "data_fim": "2026-10-14T11:00:00"
+    "data_fim": "2026-10-14T11:00:00",
+    "valor_abertura": 98750,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

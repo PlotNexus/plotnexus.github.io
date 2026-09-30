@@ -7,19 +7,22 @@
   "location": "Loulé, Faro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128004/06072026214107_800sm.jpg",
+  "area_m2": 840,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128004/06072026214107_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128004/06072026214107_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128004/06072026214107_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, composto por terra de pastagem, horta e 1 laranjeira,  com a área de 840,00 m2, que confronta do norte com ribeiro Barros, do sul com Pias,  do nascente com Manuel Francisco Costa (herd.) e do poente com Álvaro Rosa de Sousa, sito em Porto Pinheiro, freguesia de Querença, concelho de Loulé, inscrito na respectiva  matriz predial  sob o artigo 3360 actual freguesia de Querença (antes artigo 9239, da União de Freguesias de Querença, Tor e Benafim e antes ainda art. 3427 freguesia de Querença), descrito na Conservatória do Registo Predial de Loulé sob o n. 132/2009092 - freguesia de Querença, com o valor patrimonial de € 10,19.\n\nVenda judicial, por negociação particular, ordenada no Processo de Inventário nº 2697/22.1T8LLE, em que foi nomeada Encarregada da Venda a Agente de Execução.\r\nÉ da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. A falta de verificação do estado do bem por parte do proponente não determina, nos termos legais a anulação da venda. Com a apresentação da proposta, presume-se que o interessado tenha visto o imóvel e conhece as suas características, declinando-se qualquer responsabilidade que exista entre a realidade documental e a realidade física.\r\nTratando-se de prédio rústico os interessados poderão efectuar a visita em qualquer momento pois o seu acesso é livre, podendo ser acompanhados se assim o pretenderem pela Encarregada da Venda.\r\nA publicação neste portal não se trata de um leilão mas apenas uma forma de divulgar a venda; apesar de ser possível registar propostas as mesmas só se tornam efectivas depois de entregues ao encarregado da venda, o que deve ser feito por qualquer via escrita até ao dia e hora em que termina esta publicação. Assim, as propostas devem ser apresentadas por escrito ao encarregado da venda, pelo que os proponentes devem ter tal circunstância em atenção, o que significa que poderão existir propostas mais elevadas do que as registadas no portal. \r\nAPENAS SERÃO ACEITES AS PROPOSTAS DE VALOR IGUAL OU SUPERIOR AO VALOR MÍNIMO. O «valor mínimo» é o valor a partir do qual o bem pode ser vendido e que corresponde, nos termos do n.º 2 do artigo 816.º do CPC, a 85 % do valor base. A transmissão do imóvel será efectuada em nome do proponente e não com terceiros que este possa vir a indicar. \r\nADVERTE-SE que após o términus do leilão, o/a proponente da proposta mais elevada (caso a mesma seja igual ou superior ao valor mínimo de venda) é notificado para, NO PRAZO DE 15 (QUINZE) dias, proceder ao depósito do valor integral do preço oferecido, bem como dos impostos a que haja lugar.\r\nADVERTE- SE AINDA QUE para as consequências previstas no artigo 825.º do Código de Processo Civil, caso o depósito de preço não seja efetuado no prazo de 15 dias, após ser notificado pelo Encarregado da Venda/Agente de Execução, nomeadamente por decisão do Juiz «o arresto em bens suficientes para garantir o valor em falta acrescido das custas e despesas, sem prejuízo de procedimento criminal e sendo aquele, simultaneamente, executado no próprio processo para pagamento daquele valor e acréscimos. \r\nEm caso de recurso a crédito bancário adverte-se que os 15 dias para o deposito de preço após ser notificado pelo Agente Execução, não suspendem excepto nos casos legalmente previstos.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 840,
+  "area_bruta_m2": 840,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.18009941986409,
+    "lng": -7.961890697479247
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 6460,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-14T11:00:05",
-    "data_fim": "2026-11-17T14:30:00"
+    "data_fim": "2026-11-17T14:30:00",
+    "valor_abertura": 3800,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

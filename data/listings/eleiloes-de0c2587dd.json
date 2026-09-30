@@ -7,19 +7,31 @@
   "location": "Loures, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153338_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153338_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153338_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153338_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153321_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153327_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153332_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153343_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153349_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153354_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153400_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153832_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127084/26052026153838_800.jpg"
   ],
-  "description": null,
+  "description": "Quota 26388/42560 do prédio rústico, composto por cultura arvense, mato e pastagem, denominado Casais, sito em Casalinhos, inscrito na matriz sob o artigo 12, Secção C, descrito na 2ª C.R.P. de Loures sob o nº 774, da freguesia de Fanhões, concelho de Loures. **** Confrontações: Norte: Joaquim José Pereira; Sul: José Jorge Parola; Nascente: Herdeiros de Luís Lapa Lopes; Poente: José Lopes Bexiga.\n\nAdvertem-se os interessados que: 1. É da sua única e exclusiva responsabilidade a verificação do estado do bem a adquirir pelo que deverá assegurar-se que o mesmo corresponde às suas expectativas e que se encontra nas condições pretendidas. A não verificação não é fundamento para anulação do procedimento de venda. 2. Nos termos do nº2 do artigo 824º do Código de Processo Civil, o preço terá de se mostrar integralmente pago no prazo de 15 dias após a notificação do Agente do Execução para o fazer. O prazo é corrido (contam sábados e domingos). 3. Nada obsta a que os interessados possam recorrer a crédito bancário parcial ou total para pagamento do preço, mas alerta-se que, não haverá lugar à celebração de escritura pública, pelo que deverão, antes de licitar, verificar esta situação junto da entidade bancária. O processo de financiamento bancário não suspende o prazo de pagamento. 4. Deverão os interessados, antes de efectuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se com Solicitador ou Advogado.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 4.256,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.88286943,
+    "lng": -9.16914279
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +43,9 @@
     "valor_minimo": 63977.8,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-07T09:50:09",
-    "data_fim": "2026-12-09T14:30:00"
+    "data_fim": "2026-12-09T14:30:00",
+    "valor_abertura": 37634,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

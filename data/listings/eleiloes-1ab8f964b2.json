@@ -7,19 +7,34 @@
   "location": "Povoação, Ilha de São Miguel",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205423_800sm.jpg",
+  "area_m2": 98603,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205423_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205423_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205423_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205435_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205449_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205500_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205512_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205524_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205536_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205546_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205556_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205607_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205618_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205627_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124205/11022026205640_800.jpg"
   ],
-  "description": null,
+  "description": "prédio rústico, composto de terra de pastagem e mata, situado em Feiteira do Labaçal, Faial da Terra, inscrito na matriz predial rústica da Freguesia do Faial da Terra sob o artigo 2780 e descrito na Conservatória do Registo Predial de Povoação sob o nº39.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 98603,
+  "area_bruta_m2": 98603,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.74,
+    "lng": -25.19
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +46,9 @@
     "valor_minimo": 170000,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-26T12:39:01",
-    "data_fim": "2026-10-13T14:30:00"
+    "data_fim": "2026-10-13T14:30:00",
+    "valor_abertura": 100000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

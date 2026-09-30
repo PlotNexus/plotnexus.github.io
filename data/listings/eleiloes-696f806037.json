@@ -7,19 +7,26 @@
   "location": "Tondela, Viseu",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113874/02012025114251_800sm.jpg",
+  "area_m2": 240,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113874/02012025114251_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113874/02012025114251_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113874/02012025114251_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113874/02012025114257_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113874/02012025114300_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113874/02012025114303_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113874/02012025114307_800.jpg"
   ],
-  "description": null,
+  "description": "Metade indivisa do prédio misto composto de cultura e pinhal e barracão destinado a aviário, situado em Furna, freguesia de Molelos, concelho de Tondela, com a área de 6 330 m2, sendo a área coberta de 240 m2 e descoberta de 6 090 m2, a confrontar do norte com Fernando Arede Chaves e Ana Cristina Arnault Matos Carvalho Mendes, do sul com Elisa Augusta dos Santos, do nascente com ribeiro e do poente com Junta de Freguesia de Molelos, inscrito na matriz predial urbana sob o artigo 1749 e na matriz predial rústica sob o artigo 4217, e descrito na CRP de Tondela sob o n.º 2262 da freguesia de Molelos.\n\n1. Sendo que do prédio faz parte um parte rústica, há que considerar a possibilidade de vir a ser exercido o direito de preferência na sua aquisição quer pelos comproprietários quer,  nos termos do disposto no artº 1380º do CC, e da Portaria 219/2016de 9 de Agosto, poderá ser exercido o direito de preferência pelos proprietários dos terrenos confinantes; 2. Deverá ser efetuado o LOGIN para acesso a todas as informações e documentos disponibilizados. 3. Com a apresentação da proposta, presume-se que o interessado tenha inspecionado o imóvel e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação. 4. O imóvel é vendido no estado físico, jurídico e documental em que se encontra. 5. Conforme disposto no artigo 827.º do Código Processo Civil, só após o pagamento do preço (disponível o valor líquido na conta executados da titularidade do agente de execução) e satisfeitas as obrigações fiscais inerentes à transmissão, será emitido pelo signatário o respetivo título de transmissão e comunicada a venda ao serviço de registo competente. 6. Encerrado o leilão e aceite a proposta, oportunamente, o proponente é notificado para depositar o preço oferecido, impreterivelmente, num prazo de 15 dias. (artigo 824º n.º 2 do Código de Processo Civil). No mesmo prazo, deverá comprovar a liquidação/pagamento dos impostos devidos pela transmissão. Os emolumentos devidos pelo registo junto da entidade competente são da responsabilidade do adquirente.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 240,
+  "area_bruta_m2": 6330,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.51244514700648,
+    "lng": -8.118231296539307
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 13903.59,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-10T16:21:07",
-    "data_fim": "2026-10-08T14:30:00"
+    "data_fim": "2026-10-08T14:30:00",
+    "valor_abertura": 8178.58,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

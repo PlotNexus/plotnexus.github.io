@@ -7,19 +7,41 @@
   "location": "Figueira da Foz, Coimbra",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018144804_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018144804_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018144804_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018144804_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018144824_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018144842_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018144900_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018144917_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018144932_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018144951_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018145006_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018145030_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018145051_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018145111_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018145136_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018145154_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018145212_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018145231_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018145253_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018145316_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018145335_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018145356_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28120/07092018151932_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, sito em Porto Carro de Baixo, composto por vinha, macieiras e pereiras e terreno de mato, com a área total de 3940 m2, da freguesia de Alhadas, inscrito na matriz predial sob o artigo 13074 e descrito na Conservatória do Registo Predial de Figueira da Foz sob o número  452.\n\nPrédio sito nas imediações da EN 109.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 3940,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.19393385,
+    "lng": -8.82562402
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 32924.3,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-28T16:09:16",
-    "data_fim": "2026-11-26T14:30:00"
+    "data_fim": "2026-11-26T14:30:00",
+    "valor_abertura": 19367.24,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

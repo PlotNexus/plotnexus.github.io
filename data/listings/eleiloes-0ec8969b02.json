@@ -5,21 +5,27 @@
   "price": 90000,
   "currency": "EUR",
   "location": "Vila do Conde, Porto",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127927/01072026162832_800sm.jpg",
+  "area_m2": 75,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127927/01072026162832_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127927/01072026162832_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127927/01072026162832_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127927/02092026155845_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127927/02092026155857_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127927/02092026155912_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano composto pela casa de habitação, de r/c e logradouro, situado em Casal de Pedro (Rua da Boavista nº 473), freguesia de Junqueira, concelho de Vila do Conde, inscrito na matriz predial respectiva sob o artigo 494, descrita na CRP sob o número 001441 / JUNQUEIRA\n\nAtendendo ao que se pode verificar o imóvel, está em estado razoável de conservação.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 75,
+  "area_bruta_m2": 695,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.37840258276893,
+    "lng": -8.668534755706785
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,15 @@
     "valor_minimo": 76500,
     "licitacao_atual": 46827.19,
     "data_inicio": "2026-09-18T00:00:02",
-    "data_fim": "2026-10-13T10:00:00"
+    "data_fim": "2026-10-13T10:00:00",
+    "valor_abertura": 45000,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Não são conhecidos quaisquer ónus e/ou encargos"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

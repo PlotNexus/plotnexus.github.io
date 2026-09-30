@@ -7,19 +7,24 @@
   "location": "Vila Real, Vila Real",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128805/24082026150546_800sm.jpg",
+  "area_m2": 3300,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128805/24082026150546_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128805/24082026150546_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128805/24082026150546_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128805/24082026150542_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128805/24082026150544_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 Prédio rústico sito em Agó, destinado a terra de centeio, fruteiras, pastagem e vinha, com área total de 3300 m2 e área descoberta de 3300 m2, da freguesia de Andrães, Concelho de Vila Real, descrito na conservatória do registo predial de Vila Real sob o nº 428 e inscrito na matriz predial sob o artigo 2799, valor patrimonial tributável determinado no ano de 1989 de 185,91€.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 3300,
+  "area_bruta_m2": 3300,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.26249783,
+    "lng": -7.69087528
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 8500,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-29T00:00:12",
-    "data_fim": "2026-10-06T10:00:00"
+    "data_fim": "2026-10-06T10:00:00",
+    "valor_abertura": 5000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

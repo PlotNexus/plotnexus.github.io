@@ -7,19 +7,41 @@
   "location": "Aveiro, Aveiro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155150_800sm.jpg",
+  "area_m2": 85,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155150_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155150_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155150_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155151_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155153_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155155_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155157_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155159_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155201_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155203_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155205_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155207_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155209_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155211_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155213_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155215_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155217_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155219_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155221_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155223_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155225_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125923/21042026155227_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano descrito na Conservatória do Registo Predial de Aveiro sob o n.º 2638 da freguesia de Eixo, inscrito na matriz predial urbana sob o artigo 1142 da união de freguesias de Eixo e Eirol sito na Rua José Estêvão, n.º 136, Eixo.\n\nA fiel depositária pretende ser contactada via telemóvel entre as 09:00 e as 18:00 sendo este o horário para visitas.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 85,
+  "area_bruta_m2": 1312,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.62404181,
+    "lng": -8.56468297
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 153000,
     "licitacao_atual": 91000,
     "data_inicio": "2026-07-02T15:26:49",
-    "data_fim": "2026-09-30T14:30:00"
+    "data_fim": "2026-09-30T14:30:00",
+    "valor_abertura": 90000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

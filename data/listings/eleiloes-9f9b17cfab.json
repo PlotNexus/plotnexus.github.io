@@ -7,19 +7,27 @@
   "location": "Serpa, Beja",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127553/18062026150655_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127553/18062026150655_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127553/18062026150655_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127553/18062026150655_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127553/17092026173732_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127553/17092026173734_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127553/17092026173735_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127553/17092026173737_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127553/17092026173739_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico composto por cultura arvense, com a área total de 6,0875 hectares, sito em Zorras, Vila Nova de São Bento, a confrontar a norte com Francisco Maria Martins, a Sul e Poente com Maria Rufina e a Nascente com Gonçalves Palma Lopes, inscrito na matriz predial rústica sob o art. 207, secção BB, da freguesia de Vila Nova de São Bento, concelho de Serpa e descrito na Conservatória do Registo Predial sob o n.º 3026/20020321, da mesma freguesia e concelho.\n\nO bem é vendido no estado físico e jurídico em que se encontra, livre de ónus ou encargos. A falta de vistoria do bem por parte dos potenciais interessados, não implica, nos termos da Lei, a anulação da venda, presumindo-se que os mesmos tiveram pleno conhecimento do estado de conservação e características do bem colocado em venda, aceitando o mesmo no estado em que se encontra. Em caso de adjudicação do bem, o adjudicatário deverá efetuar, no prazo de 8 dias após a notificação de adjudicação, o pagamento de caução de 20% do valor oferecido, sendo o remanescente do preço pago na data da escritura compra e venda, a qual deverá celebrar-se apenas com o apresentante da proposta e não com terceiros que este possa vir a indicar. A transmissão do bem será feita através de escritura pública ou casa pronta, a agendar pelo Administrador da Insolvência e deverá ser realizada em Cartório Notarial/Conservatória da área do domicílio profissional do Administrador da Insolvência, no prazo máximo de 60 dias, contados da data da adjudicação. Todos os custos inerentes à celebração da respetiva escritura de compra e venda serão suportados pelo adquirente; Nos termos das disposições conjugadas do n.º 6, do artigo 164º, do Código da Insolvência e da Recuperação de Empresas, e n.º 6 do artigo 833º, do Código de Processo Civil, a presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que, nos termos das mesmas disposições legais, constitui ónus do adquirente a respetiva legalização do imóvel, se for caso disso. Dispensa de marcação de visita, uma vez que o imóvel é acessível por caminho de terra batida a partir da via pública (alcatroada).",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 60875,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.80544394934271,
+    "lng": -7.4267578125
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +39,9 @@
     "valor_minimo": 25500,
     "licitacao_atual": 15000,
     "data_inicio": "2026-09-25T00:00:06",
-    "data_fim": "2026-10-21T10:00:00"
+    "data_fim": "2026-10-21T10:00:00",
+    "valor_abertura": 15000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

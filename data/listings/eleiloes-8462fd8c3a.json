@@ -7,19 +7,25 @@
   "location": "Porto, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114275/06032025135521_800sm.jpg",
+  "area_m2": 16,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114275/06032025135521_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114275/06032025135521_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114275/06032025135521_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114275/06032025135523_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114275/06032025135526_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114275/06032025135528_800.jpg"
   ],
-  "description": null,
+  "description": "Direito de usufruto do prédio urbano, correspondente à fracção designada pelas letras A5, sita na Rua da Areosa, n.º 1333, Cave, freguesia de paranhos, Concelho do Porto, inscrita na matriz predial urbana sob o art.º 10582 e descrita na Conservatória do Registo Predial do Porto sob o n.º 1267- A5.\n\nEm venda encontra-se apenas o direito de usufruto registado a favor da Executada, incidente sobre o imóvel descrito. A raíz do imóvel não se encontra em venda. A idade da usufrutuária é de46 anos. Advertem-se os eventuais interessados que a usufrutuária e Executada é uma pessoa de trato difícil, que poderá não atender chamadas e recusar agendamentos, pelo que eventuais visitas não se encontram garantidas. Atendendo à reserva de vida privada, o Agente de Execução não tem competência para garantir essas visitas. Advertem-se os eventuais interessados que a responsabilidade do Agente de Execução termina com o título de transmissão. Qualquer diligência posterior, incluindo registo de aquisição e  qualquer diligência para o reconhecimento do direito em venda, será da responsabilidade do adquirente. Nenhum dos factos anteriormente referidos constitui motivo invocável para a nulidade da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 16,
+  "area_bruta_m2": 16,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.17756077,
+    "lng": -8.58664447
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 3826.11,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-02T12:34:58",
-    "data_fim": "2026-09-30T14:30:00"
+    "data_fim": "2026-09-30T14:30:00",
+    "valor_abertura": 2250.66,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

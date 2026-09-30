@@ -7,19 +7,29 @@
   "location": "Matosinhos, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102627/20092024122024_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102627/20092024122024_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102627/20092024122024_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102627/20092024122024_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102627/20112023155055_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102627/20112023155126_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102627/20112023155130_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102627/20112023155135_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102627/20112023155143_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102627/20112023155150_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102627/20112023155157_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico composto por bouça, confronta a norte e a sul com caminho público, a nascente com António Martins Barbosa e a poente com Manuel Martins da Silva Barros, denominado «Bouça da Cortinha de Fora», sito no Lugar de Custóias, freguesia de Custóias, concelho de Matosinhos, descrito na Conservatória do Registo Predial de Matosinhos sob o n.º 386 e inscrito na respetiva matriz predial sob o artigo 375, sendo que, atualmente pertence à União das freguesias de Custóias, Leça do Balio e Guifões.\n\n**** AÇÃO PARA DIVISÃO DE COISA COMUM **** Através de diligências desenvolvidas no local, foi possível apurar que o prédio corresponde a um terreno composto por pinhal e mato, conforme registo fotográfico em anexo. **** Terreno após o n.º de polícia 704. **** Segundo consta do relatório de avaliação junto aos autos, o prédio possui acesso automóvel e infraestruturas em serviço na Rua de Trás. **** Aconselham-se todos os interessados a consultarem o PDM atualizado do concelho de Matosinhos, de forma a verificarem a classificação e qualificação atual dos solos. **** O mapa em anexo corresponde a uma representação (mais ou menos) grosseira dos limites do prédio em venda. **** Os interessados poderão verificar, no local, o estado atual estado do bem. As coordenadas GPS indicadas correspondem à localização aproximada do prédio em questão.  *** A apresentação de propostas através da plataforma é facultativa, podendo ser apresentadas propostas escritas, junto do Agente de Execução, de valor inferior aos valores aqui anunciados. Encerrada a publicitação irá o Agente de Execução verificar todas as propostas apresentadas no âmbito da venda por negociação particular, com vista à notificação às partes da proposta de maior valor e posterior aceitação da mesma, nos termos da lei.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 4990,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.19745833956236,
+    "lng": -8.65121841430664
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,9 @@
     "valor_minimo": 190358.52,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-25T17:16:32",
-    "data_fim": "2026-10-15T14:30:00"
+    "data_fim": "2026-10-15T14:30:00",
+    "valor_abertura": 111975.6,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

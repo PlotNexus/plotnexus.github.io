@@ -7,19 +7,30 @@
   "location": "Cantanhede, Coimbra",
   "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_3620/22122016172558_1_800sm.jpg",
+  "area_m2": 77,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_3620/22122016172558_1_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_3620/22122016172558_1_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_3620/22122016172558_1_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_3620/28042021171105_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_3620/28042021171108_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_3620/28042021171110_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_3620/28042021171114_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_3620/28042021171117_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_3620/28042021171120_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_3620/28042021171122_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_3620/28042021171124_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano, destinado a habitação, composto por casa de rés-do-chão tipo T2, com a área total de 97 m2, sito em Montouro - Cantanhede- Inscrito na caderneta predial urbana da união de freguesias de Covões e Camarneira com o artigo 1891º e descrito na conservatória do registo predial de Cantanhede sob o nº 12487 da freguesia de covões.\n\nO imóvel aparenta estar desocupado. \r\nO mesmo encontra-se em mau estado de conservação.\r\nEncontrando-se o imóvel em venda por negociação particular, não se deve ter em conta a data final de leilão, uma vez que é possível apresentar propostas a qualquer momento, e estas são imediatamente notificadas às partes para aceitação ou não aceitação das mesmas, podendo ocorrer a negociação particular terminar antes mesmo da data final que consta aqui na plataforma.\r\nAlerta-se para o facto de em negociação particular, ser possível apresentar propostas quer via plataforma e-leilões, quer via ctt para o escritório da encarregada de venda/Agente de Execução, sendo que as propostas apresentadas via ctt, não estão reflectidas no e-leilões.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 77,
+  "area_bruta_m2": 97,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.46575594018434,
+    "lng": -8.617143630981445
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +42,9 @@
     "valor_minimo": 25649.56,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-13T19:50:17",
-    "data_fim": "2026-11-11T14:30:00"
+    "data_fim": "2026-11-11T14:30:00",
+    "valor_abertura": 15087.98,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -5,21 +5,25 @@
   "price": 65000,
   "currency": "EUR",
   "location": "Portalegre, Portalegre",
-  "bedrooms": null,
+  "bedrooms": 1,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109816/17072024124423_800sm.jpg",
+  "area_m2": 90.55,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109816/17072024124423_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109816/17072024124423_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109816/17072024124423_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109816/17072024124427_800.jpg"
   ],
-  "description": null,
+  "description": "Fração autónoma designada pela letra A, rés-do-chão para habitação (Tipo T1), com logradouro à frente, sito na da Boavista, n.º 12, na freguesia de Fortios, do concelho de Portalegre, descrita na Conservatória do Registo Predial sob o n.º 612/19970407 e inscrito na respetiva matriz predial pelo artigo 1.998º\n\nSó são aceites propostas de valor superior à última proposta apresentada Valor da última proposta apresentada: 46.500,00 € **\r\n*****\r\nA fiel depositária não autorizou o registo fotográfico do interior do imóvel.\r\n****\r\nÉ da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir, devendo assegurar-se que o mesmo corresponde às suas expectativas e se encontra nas condições desejadas. \r\nO imóvel é vendido no estado em que se encontra, pelo que, os interessados na sua aquisição deverão proceder à prévia verificação do seu estado de conservação. \r\nA falta de verificação, por parte do proponente, não determina, nos termos legais, a anulação da venda, nem poderá ser invocada como motivo de nulidade da mesma.\r\n****\r\n O imóvel em venda tem álvara de autorização de utilização.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 90.55,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.32522676081099,
+    "lng": -7.498807311058045
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,9 @@
     "valor_minimo": 55250,
     "licitacao_atual": 32500,
     "data_inicio": "2026-09-03T14:58:04",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 32500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,25 @@
   "location": "Almada, Setúbal",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128416/22072026110252_800sm.jpg",
+  "area_m2": 67.3,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128416/22072026110252_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128416/22072026110252_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128416/22072026110252_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128416/22072026110247_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128416/22072026110249_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128416/22072026110250_800.jpg"
   ],
-  "description": null,
+  "description": "Direito de usufruto registado sobre a fração designada pela letra “L”, composta por QUINTO ANDAR ESQUERDO – destinado a habitação, que faz parte do prédio urbano sito na Avenida General Humberto Delgado, n. 43, na freguesia de Costa da Caparica, concelho de Almada, descrita na Conservatória do Registo Predial com o número QUATROCENTOS E TRINTA E SEIS / COSTA DA CAPARICA, e inscrito na respetiva matriz com o artigo 1273.º\n\nNão foi autorizada a obtenção de fotografias do interior, mas foi verificado o seu estado de conservação.\r\nPressupostos Especiais:\r\no valor atual usufruto tem por base a informação que a usufrutuária nasceu em 18/07/1979, possuindo de acordo com a esperança média de vida indicada pelo INE (84 anos), 37 anos de vida estimados. Esta idade foi a considerada para efeitos de cálculo do valor do imóvel.\r\n\r\nNão serão agendadas visitas nos últimos 5 dias úteis antes da data do fim do leilão e deve ser previamente agendada com o Administrador da Insolvência; Com a apresentação da proposta, presume-se que o interessado tenha inspecionado o imóvel e conhece as suas caraterísticas, declinando-se qualquer responsabilidade pelo seu estado de conservação; Todos os custos inerentes à celebração da respetiva escritura de compra e venda serão suportados pelo adquirente; Nos termos das disposições conjugadas do no 6 do artigo 164º, do Código da Insolvência e da Recuperação de Empresas, e nº 6 do artigo 833º, do Código de Processo Civil, a presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que, nos termos das mesmas disposições legais, constitui ónus do adquirente a respetiva legalização dos imóveis, se for caso disso; A escritura de compra e venda apenas será realizada com o apresentante da proposta e não com terceiros que este possa vir a indicar; A escritura de compra e venda será realizada em local, data e hora a designar pelo Administrador da Insolvência; Na venda via E-Leilões, não são cobrados quaisquer valores a título de comissões ou afins.\r\nA adjudicação final será sempre feita pelo Administrador da Insolvência, com a concordância dos credores reclamantes e insolventes, reservando-se àquele a faculdade de:\r\n i) proceder a licitação entre todos os proponentes, convocando-os para o efeito;\r\n ii)\tnão aceitar ou rejeitar qualquer proposta que considere não se adequar aos interesses da massa insolvente;\r\nsendo que no caso de inexistência de propostas e/ou de ofertas abaixo do valor mínimo ou de não aceitação das propostas apresentadas, a venda prosseguirá nos termos a definir.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 67.3,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.641650030145776,
+    "lng": -9.23676609992981
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 175440,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-29T12:34:43",
-    "data_fim": "2026-10-29T14:30:00"
+    "data_fim": "2026-10-29T14:30:00",
+    "valor_abertura": 103200,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

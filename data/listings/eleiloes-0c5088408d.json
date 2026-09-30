@@ -7,19 +7,23 @@
   "location": "Lagoa (São Miguel), Ilha de São Miguel",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_86456/09062022154934_800sm.jpg",
+  "area_m2": 1.204,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_86456/09062022154934_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_86456/09062022154934_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_86456/09062022154934_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_86456/09062022155008_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Rústico sito em Morais, freguesia de Santa Cruz, concelho de Lagoa, com artigo matricial 35, secção T",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 1.204,
+  "area_bruta_m2": 1.204,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.76073652,
+    "lng": -25.57570989
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,9 @@
     "valor_minimo": 46750,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-29T16:17:29",
-    "data_fim": "2026-11-17T14:30:00"
+    "data_fim": "2026-11-17T14:30:00",
+    "valor_abertura": 27500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

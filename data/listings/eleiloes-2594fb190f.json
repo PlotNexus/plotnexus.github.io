@@ -7,19 +7,22 @@
   "location": "Terras de Bouro, Braga",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64851/30102020181903_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64851/30102020181903_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64851/30102020181903_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64851/30102020181903_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Rústico – composto por pinhal e mato denominado de “Bouça da Foz e Aforado das Fontelhas”, sito no Lugar de Assento, freguesia de Valdosende, concelho de Terras de Bouro, descrito na Conservatória do Registo Predial de sob os números  483/Valdosende e inscrito na respetiva matriz predial pelo artigo 1811º - rústica (parte).\n\nO presente processo de execução foi remunerado, pelo que, anterior era o n. º de execução 2864/03.7TBGDM-B.\r\n\r\nA penhora efetuada à ordem do presente processo encontra-se registada na descrição predial sob a AP. 2385 de 2012/01/05.\r\n\r\nO fiel depositário do imóvel penhorado é o executado - Manuel Maximino Pereira Guedes     \r\nO regime de visitas é fixado com dia e hora certos - Quartas-feiras entre as 18:00h e as 19:00h.\r\nO contacto telefónico do agente de execução, indicado na fixação do regime de visitas, destina-se a assegurar que, potenciais interessados, possam reportar, caso tal venha a suceder, qualquer dificuldade de acesso/visita ao imóvel nos dias designados.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 16000,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.65581179,
+    "lng": -8.21145701
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 25500,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-29T18:08:08",
-    "data_fim": "2026-11-10T14:30:00"
+    "data_fim": "2026-11-10T14:30:00",
+    "valor_abertura": 15000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

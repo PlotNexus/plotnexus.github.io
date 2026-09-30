@@ -7,19 +7,26 @@
   "location": "Paredes, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128866/01092026144626_800sm.jpg",
+  "area_m2": 1044,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128866/01092026144626_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128866/01092026144626_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128866/01092026144626_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128866/01092026144629_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128866/01092026144632_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128866/01092026144634_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128866/01092026144637_800.jpg"
   ],
-  "description": null,
+  "description": "Dois prédios urbanos, uma Casa de cave, rés do chão, para industria de moveis com logradouro e uma casa rés do chão, primeiro e segundo andar para industria de móveis e habitação\n\nO imóvel encontra-se em mau estado de conservação, a necessitar de obras e situa-se numa zona tranquila. \r\nNÃO DISPONHO DE FOTOGRAFIAS DO INTERIOR. \r\nHÁ CONTRATOS DE ARRENDAMENTO, DESCONHEÇO OS TERMOS DOS MESMO, APENAS SE SABE O VALOR DAS RENDAS, cinco contratos habitacionais, com o valor da renda de 100,00 euros, mês, cada um, e dois contratos comerciais, um no valor de 150,00 euros e outro no valor de 260,00 euros. Os imóveis são vendidos no estado físico e jurídico em que se encontram e a eventual regularização das áreas ou legalização do imóvel é responsabilidade do adquirente.\r\na) O pedido de marcação para visita será feito para o contacto telefónico do fiel depositário indicado; \r\nb) Com a apresentação da proposta, presume-se que os interessados tenham inspecionado o imóvel e conhecem as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação, assim como, qualquer descrição incorreta da informação que possa induzir em erro, devendo ainda o interessado inteirar-se junto das entidades competentes das demais características, licenças e/ou outros aspetos que considerem relevantes. A sua não verificação não é fundamento para anulação da venda. \r\nc) Advertem-se ainda os potenciais interessados que os bens que se encontram no interior do imóvel não fazem parte do objeto negociável. \r\nd) Deverão igualmente, ter em consideração que, atendendo às especificidades da venda e ao facto de o bem não ser entregue no momento da conclusão do leilão, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao fiel depositário. \r\ne) Todos os custos inerentes ao registo de aquisição serão suportados pelo adquirente; \r\nf) A presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que, nos termos das mesmas disposições legais, constitui ónus do adquirente a respetiva legalização dos imóveis, se for caso disso; \r\ng) Na ausência dos pagamentos nos prazos estipulados, será considerada desistência e consequente denúncia no portal “e-leilões.pt”, assim como serão tomadas as medidas previstas no art.º 825º do Código do Processo Civil; \r\nh) Cabe aos interessados o dever de se informarem juridicamente sobre as circunstâncias do(s) bem(ns) a ser(em) adquirido(s), recorrendo para o efeito (caso assim o entendam), a consulta jurídica a profissional devidamente habilitado – jurista, solicitador ou advogado – uma vez que o ora signatário, enquanto titular do processo, não presta aconselhamento jurídico.\r\nVISITAS ao mesmo terão de ser previamente agendadas, em que se solicita aos interessados que entrem em contacto com o Agente de Execução, através de telefone 255781157 ou por e-mail 3229@solicitador.net",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 1044,
+  "area_bruta_m2": 1178,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.24894887,
+    "lng": -8.40594473
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,15 @@
     "valor_minimo": 272000,
     "licitacao_atual": 161600,
     "data_inicio": "2026-09-12T00:00:08",
-    "data_fim": "2026-10-13T10:00:00"
+    "data_fim": "2026-10-13T10:00:00",
+    "valor_abertura": 160000,
+    "onus": [
+      {
+        "tipo": "arrendamento",
+        "valor": 910,
+        "descricao": "O imóvel encontra-se arrendado a sete inquilinos (contratos verbais), cinco contratos habitacionais, com o valor da renda de 100,00 euros, mês, cada um, e dois contratos comerciais, um no valor de 150,00 euros e outro no valor de 260,00 euros"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

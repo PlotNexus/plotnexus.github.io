@@ -5,21 +5,25 @@
   "price": 25000,
   "currency": "EUR",
   "location": "Vila Nova de Paiva, Viseu",
-  "bedrooms": null,
+  "bedrooms": 5,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126858/11062026130209_800sm.jpg",
+  "area_m2": 153,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126858/11062026130209_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126858/11062026130209_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126858/11062026130209_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126858/11062026130211_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 do Prédio urbano, correspondente a casa de habitação de rés do chão, tipologia T5, sito na Rua do Senhorio, n.º5, descrito na Conservatória do Registo Predial de Vila Nova de Paiva sob o nº 2491/20170720, da freguesia de Pendilhe, inscrito na matriz predial urbana daquela freguesia sob o artigo 268.\n\nTrata-se de um imóvel com uma construção aparentemente sólida, em bom estado de conservação. Não se tiraram fotografias do interior do imóvel uma vez que a detentora do imóvel não permitiu o acesso ao interior do mesmo.\r\nO executado foi notificado dos deveres de fiel depositário do direito penhorado, nos termos do artigo 818.º do CPC sob pena das cominações previstas no disposto no artigo 761.º do C.P.C. O imóvel encontra-se habitado pela comproprietária.\r\nÉ da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. O bem é vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisição que devem proceder à verificação prévia do estado do bem. A falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda.\r\nAo valor da venda acrescem o Imposto Municipal sobre Transmissões Onerosas e o Imposto do Selo que se mostrem devidos. \r\nO regime de visitas encontra-se definido no respetivo campo, ficando este a cargo do executado. O mesmo deverá ser agendado conforme a disponibilidade de todas as partes.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 153,
+  "area_bruta_m2": 364.5,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.90368522733339,
+    "lng": -7.835676670074463
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,9 @@
     "valor_minimo": 21250,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-16T09:12:55",
-    "data_fim": "2026-10-14T14:30:00"
+    "data_fim": "2026-10-14T14:30:00",
+    "valor_abertura": 12500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,39 @@
   "location": "Gondomar, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144631_800sm.jpg",
+  "area_m2": 206,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144631_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144631_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144631_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144730_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144733_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144736_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144738_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144741_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144744_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144746_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144749_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144751_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144754_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144756_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144759_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144801_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144804_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144807_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144809_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120468/23092025144812_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano composto por casa de rés-do-chão e andar, tendo no rés-do-chão: 1 divisão utilizada a garagem; 1 divisão utilizada a oficina de ourivesaria; 1 arrumos e lavados; no anda:, 4 quartos, cozinha, despensa e quarto de banho, com a área coberta de 103 m2 e descoberta de 585 m2, situado no lugar do Pinheiro, presentemente Rua Central do Pinheiro, 29,  Jovim, concelho de Gondomar, descrito na Conservatória do Registo Predial de Gondomar sob o nº 526/19900518 e inscrito no artigo 5513º da matriz predial urbana da união de freguesias de Gondomar (s. Cosme), Valbom e Jovim, concelho de Gondomar.\n\nAção Divisão Coisa Comum: presentemente encontram-se edificadas duas moradias no prédio a vender e cuja legalização será da inteira responsabilidade do proponente vencedor. Não são efetuadas visitas nos 10 dias anteriores ao encerramento do leilão. Não está incluído o recheio visualizado nas fotos. É da responsabilidade dos interessados / proponentes a verificação do estado de conservação do bem a adquirir, pelo que, deverão previamente à apresentação da proposta assegurar-se que o mesmo corresponde às suas expectativas e condições pretendidas. Com a apresentação da proposta, presume-se que o interessado tenha inspecionado o imóvel e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação. O imóvel é vendido no estado em que se encontra pelo que a falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda.\r\nAcrescem ao valor da proposta os impostos inerentes à transmissão, emolumentos notariais e do registo predial.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 206,
+  "area_bruta_m2": 688,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.11756916788415,
+    "lng": -8.512558937072754
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +51,9 @@
     "valor_minimo": 255000,
     "licitacao_atual": 180000,
     "data_inicio": "2026-07-03T18:06:19",
-    "data_fim": "2026-10-01T14:30:00"
+    "data_fim": "2026-10-01T14:30:00",
+    "valor_abertura": 150000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

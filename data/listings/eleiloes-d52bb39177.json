@@ -5,21 +5,27 @@
   "price": 7866.25,
   "currency": "EUR",
   "location": "Montalegre, Vila Real",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115056/09092026153604_800sm.jpg",
+  "area_m2": 110,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115056/09092026153604_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115056/09092026153604_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115056/09092026153604_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115056/09092026153610_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115056/09092026153619_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115056/09092026153742_800.jpg"
   ],
-  "description": null,
+  "description": "1/3 do Prédio urbano composto pela casa de r/c, situada na Rua da Estrada Principal, nº 8, freguesia de Salto, concelho de Montalegre, inscrito na matriz predial respectiva sob o artigo 1038, descrito na CRP sob o número 002796 / SALTO.\n\nSão co-proprietário dos restantes 2/3, João Carlos da Silva Ferreira e Helder Filipe da Silva Ferreira.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 110,
+  "area_bruta_m2": 138,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.67262932787767,
+    "lng": -7.977788150310516
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,15 @@
     "valor_minimo": 6686.31,
     "licitacao_atual": 4175.09,
     "data_inicio": "2026-09-18T00:00:00",
-    "data_fim": "2026-10-13T10:00:00"
+    "data_fim": "2026-10-13T10:00:00",
+    "valor_abertura": 3933.13,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Não são conhecidos."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

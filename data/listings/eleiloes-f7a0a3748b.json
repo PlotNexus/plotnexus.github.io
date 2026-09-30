@@ -5,21 +5,43 @@
   "price": 152940,
   "currency": "EUR",
   "location": "Almeida, Guarda",
-  "bedrooms": null,
+  "bedrooms": 4,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165503_800sm.jpg",
+  "area_m2": 160,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165503_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165503_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165503_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165433_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165451_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165516_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165528_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165541_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165557_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165619_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165632_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165643_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165654_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165705_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165717_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165729_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165738_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165751_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165801_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165816_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165829_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124496/24022026165839_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano sito em Estação, Freguesia de Vilar Formoso, Concelho de Almeida, composto de casa de r/ch e 1º andar que se destina a habitação, inscrito na matriz sob o artº 458 , omisso na CRP.\n\nImóvel no centro da Vila a precisar de obras no seu interior.\r\nA venda foi ordenada no âmbito do Processo de Inventário nº 153/23.0T8ALD- Tribunal Judicial da Comarca da Guarda- Juízo de C. Genérica de Almeida",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 160,
+  "area_bruta_m2": 80,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.60736857,
+    "lng": -6.82926621
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 129999,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-03T16:45:28",
-    "data_fim": "2026-11-03T14:30:00"
+    "data_fim": "2026-11-03T14:30:00",
+    "valor_abertura": 76470,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

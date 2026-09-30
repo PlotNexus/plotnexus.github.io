@@ -5,21 +5,27 @@
   "price": 60690,
   "currency": "EUR",
   "location": "Reguengos de Monsaraz, Évora",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88929/09092022141018_800sm.jpg",
+  "area_m2": 258000,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88929/09092022141018_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88929/09092022141018_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88929/09092022141018_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88929/24092026145919_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88929/28092026122547_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88929/28092026122632_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio em Propriedade Total, sem Andares, nem Divisões, Suscetíveis de Utilização Independente, destinado a comércio, tipologia/divisões 4, composto por 1 salsicharia, 1 secagem, 1 estufa, 1armazém, 1 retrete e 1 quintal, sito na Rua S. João de Deus nº 18, Reguengos de Monsaraz, descrito na Conservatória do Registo Predial de Reguengos de Monsaraz sob o número mil novecentos e quatro da Freguesia e Concelho de Reguengos de Monsaraz, inscrito na atual matriz predial urbana sob o artigo 3440 da Freguesia e Concelho de Reguengos de  Monsaraz, que proveio do artigo 2556 da mesma Freguesia e Concelho.\n\nImóvel situado no centro de Reguengos de Monsaraz, próximo de  comercio.\r\nA AE. constatou que o imóvel encontra-se em mau estado de conservação.\r\nAs visitas ao imóvel podem ocorrer em qualquer dia útil, com a fiel depositária aquando do agendamento prévio cujo mesmo não seja inferior a 72 horas de antecedência.\r\n Sobre o prédio encontra-se registado um direito de superfície e uma servidão de passagem, com a AP 8 e AP 9 ambas de 7 de julho de 1998, pelo que venda ocorre pela nua-propriedade.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 258000,
+  "area_bruta_m2": 344000,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.42293788,
+    "lng": -7.53472638
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,15 @@
     "valor_minimo": 51586.5,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-28T12:28:21",
-    "data_fim": "2026-12-02T14:30:00"
+    "data_fim": "2026-12-02T14:30:00",
+    "valor_abertura": 30345,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Sobre o prédio encontra-se registado um direito de superfície e uma servidão de passagem, com a AP 8 e AP 9 ambas de 7 de julho de 1998."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

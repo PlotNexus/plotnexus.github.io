@@ -5,21 +5,34 @@
   "price": 15800,
   "currency": "EUR",
   "location": "Alvaiázere, Leiria",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152648_800sm.jpg",
+  "area_m2": 40,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152648_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152648_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152648_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152605_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152609_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152612_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152616_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152620_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152625_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152629_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152633_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152637_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116799/04042025152643_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 do prédio urbano, sito em Maçãs de Dona Maria, composto por casa alta, loja ampla, 1º andar para habitação, freguesia de Maçãs de D. Maria e concelho de Alvaiázere,  pertencente aos executados David da Silva Godinho e Maria de Lurdes Santos Godinho, descrito na Conservatória do Registo Predial de Alvaiázere sob nº 5646, inscrito na matriz sob o artº 963, da referida freguesia, com o valor patrimonial de 9.390,70 euros, penhorado em 26/03/2012.\n\nImóvel a necessitar de obras, com algumas infiltrações, a necessitar de  pintura tanto a nível interior como exterior.\r\n\r\nAlerta-se que é da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir, e sua real tipologia, pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. Deverá, igualmente, ter em consideração que, atendendo às especificidades da venda e ao facto de o bem não ser entregue no momento da conclusão do leilão, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao fiel depositário.\r\n\r\n\r\nADVERTÊNCIA: As áreas e descrição do imóvel no presente anúncio, têm por base, as descritas na certidão predial e matricial respetivas. No entanto, os interessados em licitar, deverão aferir previamente, por todos meios disponíveis, se o imóvel está de acordo com os seus interesses de aquisição. A falta desta averiguação, por parte dos licitantes, não determina nos termos legais, a anulação da venda. Os interessados em licitar o bem, devem consultar previamente o site www.e-leiloes.pt, por forma a informarem-se, de forma consciente, das regras dos leilões e consequências legais das suas licitações.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 40,
+  "area_bruta_m2": 40,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.87567316,
+    "lng": -8.33348282
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +44,9 @@
     "valor_minimo": 13430,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-18T15:34:40",
-    "data_fim": "2026-11-17T14:30:00"
+    "data_fim": "2026-11-17T14:30:00",
+    "valor_abertura": 7900,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

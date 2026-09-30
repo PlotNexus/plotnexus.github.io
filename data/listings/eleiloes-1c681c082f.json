@@ -7,19 +7,31 @@
   "location": "Santarém, Santarém",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150559_800sm.jpg",
+  "area_m2": 60,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150559_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150559_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150559_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150624_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150631_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150640_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150648_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150656_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150704_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150711_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150718_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106831/03042024150725_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano composto por casa baixa para habitação e logradouro, sito em Casével, descrito na Conservatória do Registo Predial de Santarém sob o n.º 1887 da freguesia de Casével, concelho de Santarém e inscrito na respetiva matriz sob o art.º 164 da União das Freguesias de Casével e Vaqueiros.\n\nPor favor ler as observações até ao final\r\n\r\n******Procuram-se propostas******\r\n\r\nComposição do imóvel: \r\nterreno, com uma parede em ruínas rodeada de ervas e vegetação alta.\r\n\r\nLocalização do bem imóvel: 39.40509211320314,-8.586560719304478 (coordenadas indicadas na caderneta predial).\r\n\r\nO imóvel, não estando fechado, por ser visitado a qualquer momento. Se, porém, pretender que essa visita seja acompanhada, para visitar o bem imóvel deve contactar directamente o fiel depositário e agendar com este a visita. \r\n\r\nNegociações particulares\r\nAdvertência geral: os bens são vendidos no estado em que se encontram pelo que, previamente à apresentação de proposta, é obrigação do licitante verificar o seu estado. \r\n\r\nApós apresentada uma proposta, a mesma não pode ser retirada. \r\n\r\nO prazo para a conclusão da negociação particular é meramente indicativo, ou seja, a negociação particular poderá ser concluída antes do prazo indicado pelo site e-leiloes, caso seja apresentada proposta de valor superior ao valor a anunciar para a venda. \r\n\r\nManifeste o seu interesse, mediante a apresentação de proposta, no imediato (é inútil aguardar pelos últimos dias, uma vez que a negociação particular pode concluir-se antes, caso seja apresentada proposta de valor superior ao valor a anunciar para a venda).\r\n\r\nAs propostas de valor inferior ao valor a anunciar para a venda ficam registadas, mas têm a sua aceitação condicionada à apreciação pelas partes e, caso seja devido, de submissão a despacho judicial.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 60,
+  "area_bruta_m2": 210,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.40519561221472,
+    "lng": -8.586673736572266
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +43,9 @@
     "valor_minimo": 51748,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-17T16:28:49",
-    "data_fim": "2026-11-17T14:30:00"
+    "data_fim": "2026-11-17T14:30:00",
+    "valor_abertura": 30440,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

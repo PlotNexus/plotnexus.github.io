@@ -5,21 +5,25 @@
   "price": 53081.78,
   "currency": "EUR",
   "location": "Sabrosa, Vila Real",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127077/26052026141101_800sm.jpg",
+  "area_m2": 112,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127077/26052026141101_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127077/26052026141101_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127077/26052026141101_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127077/26052026141108_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano destinado a habitação, com 2 pisos com a área privativa de 112,00 m2, sito na Rua Cimo de Vila, Lugar e freguesia de Provesende, concelho de Sabrosa. Inscrito na matriz predial urbana sob o Art.º 637 da União das freguesias de Provesende, Gouvões do Douro e São Cristovão do Douro e descrito na Conservatória de Registo Predial de Sabrosa sob o n.º 63 da freguesia de Provesende.\n\nAS VISITAS AO BEM REALIZAR-SE-ÃO NA QUINTA-FEIRA DA SEMANA ANTERIOR À DATA DO LEILÃO, NA MORADA DO ANÚNCIO, ENTRE AS 10:00 E AS 12:00.\r\n\r\nO imóvel encontra-se habitado e em razoável estado de conservação. Tratando-se de imóvel habitado, não decorre, direta e imediatamente, para o agente de execução a obrigação de proceder à entrega do bem devoluto de pessoas e bens ao adquirente, sendo a este quem incumbe contactar e interpelar o residente/ocupante do imóvel à sua saída voluntária e/ou com ele convencionar data para o efeito. Se verificada recusa de entrega voluntária do imóvel ou falta de colaboração caberá ao adquirente requerer formalmente nos autos a entrega do bem, caso em que o agente de execução diligenciará pela entrega coerciva, se necessária. Nos termos do disposto no nº 6 do artigo 833º, do Código de Processo Civil, a venda judicial (e posterior registo de aquisição) encontra-se dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que caberá ao novo proprietário a obtenção de tal documentação, se dela necessitar. É da única e exclusiva responsabilidade dos proponentes a verificação do estado do prédio a adquirir, pelo que, antes de apresentar proposta, deverá verificar se o mesmo corresponde às suas expectativas e condições previstas pelo dquirente. Deverá ter em consideração que, atendendo à natureza da venda e ao facto de o bem não ser entregue no momento da adjudicação, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao fiel depositário. Adverte-se os potenciais interessados que o recheio da habitação não faz parte do objeto negocial. Nos termos do disposto no nº 6 do artigo 833º, do Código de Processo Civil, a presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que, constitui ónus do adquirente a respetiva legalização do imóvel, se for caso disso. Todos os pedidos de informações deverão ser solicitados no campo \"informações\", previsto na plataforma do E-Leilões.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 112,
+  "area_bruta_m2": 112,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.21819032,
+    "lng": -7.56489657
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,9 @@
     "valor_minimo": 45119.51,
     "licitacao_atual": 26806.3,
     "data_inicio": "2026-09-15T00:00:03",
-    "data_fim": "2026-10-13T10:00:00"
+    "data_fim": "2026-10-13T10:00:00",
+    "valor_abertura": 26540.89,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

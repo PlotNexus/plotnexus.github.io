@@ -5,21 +5,30 @@
   "price": 82800,
   "currency": "EUR",
   "location": "Santarém, Santarém",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44328/07052019180650_800sm.jpg",
+  "area_m2": 117.1,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44328/07052019180650_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44328/07052019180650_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44328/07052019180650_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44328/07052019180653_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44328/07052019180705_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44328/07052019180708_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44328/07052019180711_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44328/07052019180714_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44328/07052019180717_800.jpg"
   ],
-  "description": null,
+  "description": "Fracção Autónoma designada pela letra H correspondente ao r/c  esquerdo rectaguarda para habitação do prédio em regime de propriedade horizontal sito em Salmeirim, Portela das Padeiras, Lt 1, Santarém, descrito na Conservatória do Registo Predial de Santarém sob o n.º 3463 da freguesia de Salvador e inscrito na matriz predial urbana  sob o n.º 4961 da União de Freguesias da Cidade de Santarém-\n\nAdvertem-se os interessados que: 1. É da sua única e exclusiva responsabilidade a verificação do estado do bem a adquirir pelo que deverá assegurar-se que o mesmo corresponde às suas expectativas e que se encontra nas condições pretendidas. A não verificação não é fundamento para anulação do procedimento de venda; 2. O imóvel está habitado, as visitas devem, contudo, ser agendadas, previamente, junto do escritório do agente de execução através dos contactos disponibilizados em campo próprio.3. A presente venda não compreende os bens móveis constantes nas fotografias.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 117.1,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.22084244,
+    "lng": -8.70123491
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +40,9 @@
     "valor_minimo": 70380,
     "licitacao_atual": 72000,
     "data_inicio": "2026-07-28T10:40:21",
-    "data_fim": "2026-10-27T14:30:00"
+    "data_fim": "2026-10-27T14:30:00",
+    "valor_abertura": 41400,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

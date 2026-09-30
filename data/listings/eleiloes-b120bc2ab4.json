@@ -7,19 +7,41 @@
   "location": "Maia, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095905_800sm.jpg",
+  "area_m2": 220,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095905_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095905_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095905_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095901_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095903_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095907_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095909_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095912_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095914_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095916_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095918_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095920_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095922_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095924_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095926_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095928_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095930_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095932_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095933_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095936_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095938_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121074/14102025095940_800.jpg"
   ],
-  "description": null,
+  "description": "Na área de construção do imóvel estão inseridas três habitações e um espaço comercial\n\nAs 3 habitações encontram-se arrendadas, com os seguintes arrendamentos:\r\n1º andar - Contrato iniciado em 11-2017 - renda de 250,00€\r\nR/C ft   - contrato iniciado em 2014 - renda de 200,00€\r\nR/C trs. - contrato iniciado em 2021 - renda de 200,00€\r\n\r\nVenda realiza-se no âmbito de processo de inventário judicial",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 220,
+  "area_bruta_m2": 885,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.27391612,
+    "lng": -8.63377311
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 224400,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-02T11:26:34",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 132000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

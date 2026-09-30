@@ -7,19 +7,26 @@
   "location": "Águeda, Aveiro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89713/29092022164858_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89713/29092022164858_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89713/29092022164858_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89713/29092022164858_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89713/29092022164848_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89713/29092022164905_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89713/29092022164911_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89713/29092022164918_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 do Prédio rústico, composto por terreno a eucaliptal, sito no lugar de Arrota da Gândara, freguesia de Valongo do Vouga, concelho de Águeda, com a área de 4700m2, confrontando do Norte com Estrada, do Sul com caminho, do Nascente com Albertina Rodrigues de Melo e do Poente com Élio da Glória Fernandes, inscrito na matriz sob o artigo nº 2953, descrito na Conservatória do Registo Predial de Águeda sob o nº 994.\n\nÉ da única responsabilidade do proponente a verificação do estado do bem a adquirir, devendo antes de apresentar qualquer proposta inteirar-se das qualidades e características, licenças e outros aspectos relevantes do bem.\r\n\r\nA não verificação não é fundamento para anulação do procedimento de venda.\r\n\r\nAdvertem-se ainda os potenciais interessados que os bens que se encontram no interior do imóvel não fazem parte do objecto negociável.\r\n\r\nDeverá igualmente, ter em consideração que, atendendo às especificidades da venda e ao facto de o bem não ser entregue no momento da conclusão do leilão, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao fiel depositário.\r\n\r\nQualquer pedido de informações deverá ser efectuado através do campo designado para esse efeito.\r\n\r\nAs visitas são efectuadas por marcação, devendo para tal enviar email ao Agente de execução que posteriormente irá marcar dia e hora com o fiel depositário para se efetivarem as visitas. Alertam-se ainda os interessados antes de efectuarem quaisquer propostas, deverão consultar as regras de funcionamento constantes no site.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 4700,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.62995351,
+    "lng": -8.43724166
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 5248.75,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-25T17:45:56",
-    "data_fim": "2026-10-27T14:30:00"
+    "data_fim": "2026-10-27T14:30:00",
+    "valor_abertura": 3087.5,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

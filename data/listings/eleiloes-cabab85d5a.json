@@ -7,19 +7,23 @@
   "location": "Tomar, Santarém",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122693/09122025151415_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122693/09122025151415_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122693/09122025151415_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122693/09122025151415_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122693/09122025151445_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, composto por terra de cultura arvense, pinhal e eucaliptal, sito em Horta Velha, freguesia de Serra, Concelho de Tomar, descrito na Conservatória do Registo Predial de Tomar sob o n.º 2739/19930720 e inscrito na matriz daquela freguesia sob o n.º 34, secção AA. \r\nCOORDENADAS GOOGLE: 39º34'55.9''N 8º17'29.0''W\n\nO imóvel é vendido no estado físico e jurídico em que se encontra e a eventual regularização das áreas ou legalização do imóvel é responsabilidade do adquirente\r\na) Regime de visitas é de livre acesso por caminhos públicos, pese embora os mesmos sejam de difícil acesso e circulação;\r\nb) Com a apresentação da proposta, presume-se que os interessados tenham inspecionado o imóvel e conhecem as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação, assim como, qualquer descrição incorreta da informação que possa induzir em erro, devendo ainda o interessado inteirar-se junto das entidades competentes das demais características, licenças e/ou outros aspetos que considerem relevantes. A sua não verificação não é fundamento para anulação da venda. \r\nc) Advertem-se ainda os potenciais interessados que os bens que se encontram no interior do imóvel não fazem parte do objecto negociável. \r\nd) Deverão igualmente, ter em consideração que, atendendo às especificidades da venda e ao facto de o bem não ser entregue no momento da conclusão do leilão, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao fiel depositário. \r\ne) Todos os custos inerentes ao registo de aquisição serão suportados pelo adquirente; \r\nf) A presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que, nos termos das mesmas disposições legais, constitui ónus do adquirente a respetiva legalização dos imóveis, se for caso disso; \r\ng) Na ausência dos pagamentos nos prazos estipulados, será considerada desistência e consequente denúncia no portal “e-leilões.pt”, assim como serão tomadas as medidas previstas no art.º 825º do Código do Processo Civil;\r\nh) Cabe aos interessados o dever de se informarem juridicamente sobre as circunstâncias do(s) bem(ns) a ser(em) adquirido(s), recorrendo para o efeito (caso assim o entendam), a consulta jurídica a profissional devidamente habilitado – jurista, solicitador ou advogado – uma vez que o ora signatário, enquanto titular do processo, não presta aconselhamento jurídico.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 840,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.581977142594,
+    "lng": -8.2912015914917
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,9 @@
     "valor_minimo": 17085,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-04T17:38:45",
-    "data_fim": "2026-12-03T14:30:00"
+    "data_fim": "2026-12-03T14:30:00",
+    "valor_abertura": 10050,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

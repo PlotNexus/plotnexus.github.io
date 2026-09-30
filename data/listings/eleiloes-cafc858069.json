@@ -7,19 +7,26 @@
   "location": "Calheta (São Jorge), Ilha de São Jorge",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109022/19072024164913_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109022/19072024164913_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109022/19072024164913_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109022/19072024164913_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109022/19072024164914_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109022/19072024164916_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109022/19072024164918_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109022/19072024164920_800.jpg"
   ],
-  "description": null,
+  "description": "1/4 do Prédio Rústico sito nas Gramas, Santo Antão, concelho da Calheta, S. Jorge, inscrito na rescpectiva matriz sob o artigo 1335, descrito sob o nº 774/Santo Antão, daquela freguesia e concelho.\n\nA venda decorre no âmbito de um processo de inventário.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 4840,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.54717853,
+    "lng": -27.80220643
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 13175,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-19T10:46:16",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 7750,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,26 @@
   "location": "Figueiró dos Vinhos, Leiria",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125429/31032026152838_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125429/31032026152838_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125429/31032026152838_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125429/31032026152838_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125429/31032026152847_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125429/31032026152857_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125429/31032026152904_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125429/31032026152913_800.jpg"
   ],
-  "description": null,
+  "description": "1/6 (parte respeitante à propriedade da Executada) do Terreno de cultura sequeiro, com oliveiras,\r\nterra de vinha, videiras em cordão, latada e uma laranjeira , rústico, Área total 4890 M2, sito em Brejo de Baixo, Rua Brejos de Lá, na\r\nfreguesia de Arega, concelho de Figueiro dos Vinhos, inscrito na matriz predial rústica da Freguesia de Arega sob\r\no artigo 3925 e descrito na Conservatória do Registo Predial de Figueiró dos Vinhos sob o n.º 1643/19950411,\r\nda Freguesia Arega.\r\n\r\nContacto da Sra. Carolina- 967662035, da parte dos herdeiros, indicou que o imóvel se localiza na Rua Principal em Arega, o terreno fica nas traseiras das casas, Porto de referência, uma casa com um portão de garagem em Madeira. Contacto da Esmeraldina 214198126\n\nÉ da única e exclusiva responsabilidade do proponente a verificação das características dos bens a adquirir, pelo que deverá antes de apresentar proposta assegurar-se se os mesmos correspondem às suas expectativas e se, se encontram nas condições pretendidas. Com a apresentação da proposta presume-se que o interessado tenha verificado os bens e que conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação. Os bens  são vendidos no estado em que se encontram pelo que, os interessados na aquisição devem proceder à verificação prévia do estado dos bens. A falta desta verificação por parte dos proponentes não determina, nos termos legais, a anulação da venda, não poderá assim ser motivo invocável de nulidade de venda. Deverá ter em consideração que, atendendo à natureza da venda e ao facto de os bens não serem entregues no momento da adjudicação, os mesmos poderão sofrer deteriorações ou alterações cuja responsabilidade se declina.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 4890,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.83711253946054,
+    "lng": -8.31364631652832
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 709.75,
     "licitacao_atual": 710,
     "data_inicio": "2026-09-01T16:31:11",
-    "data_fim": "2026-12-02T14:30:00"
+    "data_fim": "2026-12-02T14:30:00",
+    "valor_abertura": 417.5,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

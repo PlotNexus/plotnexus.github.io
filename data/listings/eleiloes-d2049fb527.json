@@ -7,19 +7,41 @@
   "location": "Porto, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135750_800sm.jpg",
+  "area_m2": 52,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135750_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135750_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135750_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135730_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135733_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135735_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135737_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135739_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135741_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135743_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135746_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135748_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135752_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135754_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135756_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135758_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135800_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135802_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135804_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135807_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135809_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128550/03082026135811_800.jpg"
   ],
-  "description": null,
+  "description": "Loja, destinada a Comércio ou outras atividades económicas, rés-do-chão, Bloco B, identificada com o nº 13 - 52m2 - acesso pelo nº 516 da Rua Nova de S. Crispim, freguesia de Bonfim, concelho do Porto, descrito na Conservatória do Registo Predial do Porto sob o n.º 1155, fração BZ, inscrito na respetiva matriz com o artigo 11306-BZ.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 52,
+  "area_bruta_m2": 52,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.1597878,
+    "lng": -8.59583043
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 129000,
     "licitacao_atual": 78181.67,
     "data_inicio": "2026-09-22T00:00:00",
-    "data_fim": "2026-10-13T10:30:00"
+    "data_fim": "2026-10-13T10:30:00",
+    "valor_abertura": 75882.36,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

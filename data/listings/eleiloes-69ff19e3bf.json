@@ -5,21 +5,33 @@
   "price": 94412.5,
   "currency": "EUR",
   "location": "Sintra, Lisboa",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153647_800sm.jpg",
+  "area_m2": 65,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153647_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153647_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153647_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153641_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153643_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153645_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153649_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153651_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153653_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153654_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153657_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128584/04082026153659_800.jpg"
   ],
-  "description": null,
+  "description": "Metade indivisa da Fracção Autónoma, designada pelas letras “AG”, destinada a habitação, situada no 5º andar Letra A, Tipo T-2, com a área de 65 m2, que integra o prédio constituído em regime de propriedade horizontal situado na Rua da Fonte Nova (nºs 1 e 3 tornejando para a Av. Bons Amigos nº 41, 43, 45 e 45 A), nº 1, Agualva, inscrito na matriz predial urbana da união das freguesias de Agualva e Mira-Sintra com o artigo 2368/AG e descrita na Conservatória do Registo Predial de Agualva-Cacém sob o nº 514-AG da freguesia de Agualva.\n\nNota 1 - o imóvel está a ser ocupado, gratuitamente, pela ex-mulher e filhos do insolvente.\r\n\r\nNota 2 - O bem é vendido no estado físico e jurídico em que se encontra; recai sobre o interessado o ónus da verificação das qualidades e estado de conservação do bem.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 65,
+  "area_bruta_m2": 65,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.76971207,
+    "lng": -9.29625885
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +43,9 @@
     "valor_minimo": 80250.63,
     "licitacao_atual": 49123.01,
     "data_inicio": "2026-08-16T00:00:03",
-    "data_fim": "2026-09-30T10:30:00"
+    "data_fim": "2026-09-30T10:30:00",
+    "valor_abertura": 47206.25,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,25 @@
   "location": "Cascais, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124031/05022026124941_800sm.jpg",
+  "area_m2": 2288,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124031/05022026124941_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124031/05022026124941_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124031/05022026124941_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124031/05022026124943_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124031/05022026124945_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124031/05022026124946_800.jpg"
   ],
-  "description": null,
+  "description": "Terreno localizado junto à Rua Aquilino Ribeiro em Alvide, Cascais. O terreno encontra-se vedado. No terreno objeto desta\r\navaliação existem diversas hortas e desconhece-se o seu uso. De acordo com as consultas o terreno encontra-se\r\nclassificado como zona de Património Cultural Classificado.\r\nLocalizado na Rua aquilino Ribeiro (junqueiras) - Abuxarda, Alvide, 2755-063 Alcabideche, Cascais\r\ndescrito na Conservatória do Registo Predial de Cascais com o número 2959, inscrito na caderneta predial rustica com o artigo matricial 3884, secção 46",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 2288,
+  "area_bruta_m2": 2280,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.72255376,
+    "lng": -9.42261366
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 275940.01,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-25T11:14:36",
-    "data_fim": "2026-11-10T14:30:00"
+    "data_fim": "2026-11-10T14:30:00",
+    "valor_abertura": 275940.01,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

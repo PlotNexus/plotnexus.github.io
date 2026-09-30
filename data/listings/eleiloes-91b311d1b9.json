@@ -7,19 +7,41 @@
   "location": "Santa Maria da Feira, Aveiro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185513_800sm.jpg",
+  "area_m2": 900,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185513_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185513_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185513_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185516_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185520_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185523_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185526_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185529_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185531_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185535_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185538_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185541_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185544_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185547_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185549_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185552_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185555_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185557_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185600_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185603_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185606_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125168/26032026185607_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rustico, denominado por \"Cortinhas\" situado no distrito de Aveiro, Concelho de Santa Maria da Feira, na união de freguesias de Canedo, Vale e Vila Maior, Localizado em Bouças , com o artigo matricial 910 ( que teve origem no artigo 2409 e antes no artigo 1031), com as confrontações a norte - caminho, a sul- regato, a nascente - caminho e a poente- José Pinto Fontes. Este prédio tem um valor patrimonial de € 5.59 e melhor descrito na Conservatória do registo Predial de Santa Maria da Feira com o numero 23/19850411.\r\nO TERRENO TEM A ÁREA TOTAL 900M2, com poço de água e junto a habitações.\n\nVENDA EM PROCESSO DECLARATIVO( Inventário) - Tratando-se de um prédio rústico, os interessados poderão livremente deslocar-se ao local e verificar o mesmo. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características, licenças e outros aspetos que considerem relevantes, do(s) bem(ns). A não verificação não é fundamento para anulação do procedimento de venda. Os interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq constantes no site www.e-leiloes.pt. ATENÇÃO* ADVERTEM-SE TODOS OS INTERESSADOS/PROPONENTES QUE SÓ SERÃO CONSIDERADAS AS PROPOSTAS SUBMETIDAS NESTA PLATAFORMA ATÉ AO DIA E HORA DO FECHO DA VENDA (as propostas apresentadas fora desta plataforma eletrónica não serão consideradas)",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 900,
+  "area_bruta_m2": 900,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.023676174625784,
+    "lng": -8.457525372505188
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 38250,
     "licitacao_atual": 23000,
     "data_inicio": "2026-07-06T16:06:59",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 22500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

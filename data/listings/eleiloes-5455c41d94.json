@@ -7,19 +7,28 @@
   "location": "Carregal do Sal, Viseu",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_84608/04012023120536_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_84608/04012023120536_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_84608/04012023120536_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_84608/04012023120536_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_84608/21042022133111_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_84608/21042022133113_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_84608/04012023120530_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_84608/04012023120532_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_84608/04012023120533_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_84608/04012023120535_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Rústico, situado em Beijos, descrito na Conservatória do Registo Predial de Carregal do Sal sob a ficha n.º 3772 na freguesia de Beijos e inscrito na matriz predial rústica sob o 4035º da referida freguesia.\r\nComposição: Pinhal\r\nConfrontações:  Norte - José Joaquim Rodrigues; Sul - Américo Tomás dos Santos; Nascente - José Joaquim Rodrigues; Poente - José Joaquim Rodrigues;\n\nTratando-se de um Prédio Rústico, os interessados poderão, livremente deslocar-se ao local do mesmo, e verificar o estado de conservação.\r\nNão foi possível à signatária identificar o local em concreto de localização do Prédio Rústico, pelo que os interessados deverão, consultar as Entidades competentes para o efeito. \r\nAs áreas indicadas servem apenas como referência pois não foram feitas medições exatas no local. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características e de todos os outros aspetos que considerem relevantes. Com a apresentação da proposta, presume-se que o interessado tenha inspecionado o bem e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação. O bem é vendido no estado que se encontra pelo que os interessados devem proceder à verificação prévia do estado do bem. A falta desta, por parte do proponente não determina, nos termos legais a anulação da venda. Nos termos do nº 6 do artigo 833º do CPC, a venda de imóvel em que tenha sido, ou esteja sendo, feita construção urbana, ou de fração dele, pode efetuar-se no estado em que se encontre, com dispensa da licença de utilização ou de construção, cuja falta de apresentação a entidade com competência para a formalização do ato faz consignar no documento, constituindo ónus do adquirente a respetiva legalização\r\n\r\n\r\nATENÇÃO* ADVERTEM-SE TODOS OS INTERESSADOS/PROPONENTES QUE SÓ SERÃO CONSIDERADAS AS PROPOSTAS SUBMETIDAS NESTA PLATAFORMA ATÉ AO DIA E HORA DO FECHO DA VENDA (as propostas apresentadas fora desta plataforma eletrónica não serão consideradas)*",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 290,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.50307389,
+    "lng": -7.95844844
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +40,9 @@
     "valor_minimo": 4930,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-12T10:19:50",
-    "data_fim": "2026-10-20T14:30:00"
+    "data_fim": "2026-10-20T14:30:00",
+    "valor_abertura": 2900,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

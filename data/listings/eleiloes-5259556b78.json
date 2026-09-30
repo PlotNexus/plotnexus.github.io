@@ -5,21 +5,27 @@
   "price": 225000,
   "currency": "EUR",
   "location": "Arouca, Aveiro",
-  "bedrooms": null,
+  "bedrooms": 5,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129191/17092026153008_800sm.jpg",
+  "area_m2": 125,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129191/17092026153008_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129191/17092026153008_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129191/17092026153008_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129191/17092026153004_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129191/17092026153011_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129191/17092026153018_800.jpg"
   ],
-  "description": null,
+  "description": "Nua propriedade do prédio urbano, sito em Pousadouro, freguesia de Várzea, concelho de Arouca, descrito na Conservatória do Registo Predial de Arouca, sob o número 154/19960125 - Várzea, inscrito na respectiva matriz sob o artigo 290 - PENHORA INCIDE SOBRE A PROPRIEDADE LIMITADA POR DIREITO DE HABITAÇÃO.\n\nFoi verificado o estado de conservação do imóvel (exterior) aquando da afixação do edital imóvel penhorado, tendo-se verificado que o mesmo encontra-se em razoável estado de conservação. \r\n\r\nInformo que não reside ninguém no referido imóvel.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 125,
+  "area_bruta_m2": 504.4,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.93000748,
+    "lng": -8.30454621
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 191250,
     "licitacao_atual": 113625,
     "data_inicio": "2026-09-27T00:00:05",
-    "data_fim": "2026-10-20T10:30:00"
+    "data_fim": "2026-10-20T10:30:00",
+    "valor_abertura": 112500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

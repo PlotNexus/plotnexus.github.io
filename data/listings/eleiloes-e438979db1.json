@@ -7,19 +7,24 @@
   "location": "Lisboa, Lisboa",
   "bedrooms": 1,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127515/16062026185953_800sm.jpg",
+  "area_m2": 75,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127515/16062026185953_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127515/16062026185953_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127515/16062026185953_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127515/16062026185957_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127515/16062026190005_800.jpg"
   ],
-  "description": null,
+  "description": "Fracção GS do prédio urbano  sito na R. Luís Piçarra nº4, 2ºA, destinado á habitação, com arrecadação com o nº14  e estacionamento com o nº107 ambos no  no piso-2,descrito na Conservatória do Registo Predial de Lisboa, freguesia do Lumiar com o nº2271 e inscrito na competente matriz sob o art. 3511º.\n\nO prédio é vendido nas suas actuais condições e estado, devendo os interessados visitá-la para aferir das mesmas, não sendo aceites quaisquer reclamações por não ir de encontro ás expectativas do adquirente. Devem igualmente ter em atenção FAQ's do Portal E-Leilões, os quais esclarecem quase todas, senão todas, as dúvidas que eventualmente poderão ter.\r\nNão foi permitida a divulgação de fotos interiores pela inquilina/fiel depositária por questões de segurança e reserva de sua intimidade tendo o AE visitado o imóvel a  31/3/2026, e verificado o seu razoável/bom estado de conservação.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 75,
+  "area_bruta_m2": 87.5,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.77586703044824,
+    "lng": -9.150656461715696
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,15 @@
     "valor_minimo": 365500,
     "licitacao_atual": 320170,
     "data_inicio": "2026-08-14T00:00:03",
-    "data_fim": "2026-09-30T10:30:00"
+    "data_fim": "2026-09-30T10:30:00",
+    "valor_abertura": 215000,
+    "onus": [
+      {
+        "tipo": "arrendamento",
+        "valor": 830,
+        "descricao": "Teve o contrato início em 1/11/2022 p0elo prazo de 3 anos, tendo-se renovado em 2025"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

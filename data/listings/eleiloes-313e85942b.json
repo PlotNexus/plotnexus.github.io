@@ -7,19 +7,33 @@
   "location": "Póvoa de Varzim, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141236_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141236_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141236_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141236_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141216_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141219_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141222_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141225_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141227_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141230_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141232_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141238_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141242_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141244_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123662/27012026141248_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, com a área total de 4.446,36 m2., sito no lugar de Chamosinhos (ao fim da Rua Cova da Andorinha, a 100m do número 1080, com acesso por caminho de terra), a confrontar do norte com António Ferreira da Costa e José Silva Azevedo Sousa, do sul com caminho público, do nascente com José da Silva Azevedo Sousa e do poente com António Ferreira da Costa, da freguesia de Laúndos, concelho da Póvoa de Varzim. \r\nInscrito na Matriz Predial Rústica com o artigo 259 da freguesia de Laúndos  e descrito na Conservatória do Registo Predial da Póvoa de Varzim sob a descrição 1492 da referida freguesia de Laúndos.\r\nSobre este prédio está edificada  uma habitação, não licenciada, constituída por quarto, cozinha e sala em open space, instalação sanitária e alpendre, com as áreas de 77,8 m2. (habitação) e 27,1m2. (alpendre). Possui como acabamentos o pavimento em material, a caixilharia em alumínio com vidro duplo, os tetos forrados a madeira. Uma garagem, com uma área de 28,2m2, constituída por espaço amplo e acesso por portão de ferro pintado, e ainda um alpendre com 9,1m2. \r\nO terreno tem acesso por caminho estreito em terra batida e sem redes de água, esgotos e pluviais.\n\nEsta venda é feita no âmbito do processo de inventário 1322/20.0T8VCD.B a correr termo no Tribunal Judicial da Comarca do Porto, Juizo de Familia e Menores de Vila do Conde.\r\nConsideram-se notificados os titulares do direito de preferência legal.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.44221165399739,
+    "lng": -8.700056076049805
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +45,15 @@
     "valor_minimo": 160000.6,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-10T14:35:34",
-    "data_fim": "2026-12-09T14:30:00"
+    "data_fim": "2026-12-09T14:30:00",
+    "valor_abertura": 94118,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "sem onus"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

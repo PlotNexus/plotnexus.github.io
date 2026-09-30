@@ -7,19 +7,24 @@
   "location": "Oleiros, Castelo Branco",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128253/13072026174304_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128253/13072026174304_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128253/13072026174304_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128253/13072026174304_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128253/22072026144910_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128253/22072026144912_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Rústico, composto por pinhal, com a área de 39.000 m2, que confronta do norte com Joaquim Mateus Ferreira, do sul com Francisco Mateus Alves, do nascente com barroco e do poente com viso, situado em Servo, inscrito na matriz predial rústica sob o artigo n.º 9720 da União das freguesias de Estreito e Vilar Barroco e descrito na C.R.P. de Oleiros sob o número 6167 da freguesia de Estreito.\n\n***Existe divergência na área nos dados constantes da plataforma BUPI em relação dados constantes da caderneta predial e registo predial, sendo responsabilidade do adquirente a correção de tal divergência.\r\n***Imóvel registado na plataforma BUPI, sendo a área constante desta plataforma a utilizada no anúncio\r\n***Poderá verificar a área constante da plataforma BUPI e respetivo número de registo seguindo o documento disponível em anexo\r\n*** As visitas ao bem realizar-se-ão sob marcação prévia\r\n.***Deverão os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt, devendo ainda: \r\n*** Informar-se das qualidades e características, licenças e outros aspetos que considerem relevantes, sendo da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas, sendo que a falta de verificação do bem não determina, nos termos legais, a anulação da venda; *** Estar registados na plataforma e-leilões, de forma a terem acesso aos contactos do fiel depositário, caso pretendam ver o imóvel;",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 26266,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.88945545072523,
+    "lng": -7.79651641845703
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 11050,
     "licitacao_atual": 6500,
     "data_inicio": "2026-09-03T00:00:02",
-    "data_fim": "2026-10-08T10:00:00"
+    "data_fim": "2026-10-08T10:00:00",
+    "valor_abertura": 6500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

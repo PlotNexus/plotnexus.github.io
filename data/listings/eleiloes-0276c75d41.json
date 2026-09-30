@@ -7,19 +7,25 @@
   "location": "Carregal do Sal, Viseu",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94187/16032023143800_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94187/16032023143800_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94187/16032023143800_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94187/16032023143800_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94187/16032023143803_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94187/16032023143806_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94187/16032023143808_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, composto por terreno destinado a construção urbana, com a área total de 596 m2, sito em Ribeiro do Fojo, na freguesia de Cabanas de Viriato, concelho de Carregal do Sal, confrontando a norte com lote 35, a sul com lote 37, a nascente e poente com arruamento, inscrito na matriz predial urbana sob o artigo 2030 e descrito na Conservatória do Registo Predial de Carregal do Sal sob o nº 3432/20020923, com valor patrimonial de 29.989,33 euros, penhorado à ordem dos presentes autos pela Ap. 2209 de 2020/01/10, podendo ser consultada a certidão com o código de acesso PP-2634-91013-180202-003432.\n\n**Excelente localização e excelente acessibilidade. \r\nÉ fiel depositário do imóvel o executado. Os interessados deverão contactar previamente a Agente de Execução para o agendamento de visitas, para os contactos no quadro em anexo.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 596,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.46618038540892,
+    "lng": -7.977254390716553
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 59500,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-07T09:34:59",
-    "data_fim": "2026-12-09T14:30:00"
+    "data_fim": "2026-12-09T14:30:00",
+    "valor_abertura": 35000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

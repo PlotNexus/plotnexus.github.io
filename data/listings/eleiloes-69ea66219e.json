@@ -5,21 +5,43 @@
   "price": 180000,
   "currency": "EUR",
   "location": "Vila Franca do Campo, Ilha de São Miguel",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121546_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121546_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121546_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121546_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121549_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121551_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121555_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121558_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121602_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121604_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121607_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121609_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121612_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121615_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121618_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121621_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121625_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121628_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121631_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121634_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121638_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121640_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125612/10042026121643_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano, sito Canada da Ribeira, nº.13, freguesia de Ponta Garça, concelho de Vila Franca do Campo, com o artigo matricial 1101, descrito sob o nº 3287/Ponta Garça (Vila Franca do Campo), daquela freguesia e concelho.\n\nA venda decorre no âmbito de um processo de inventário",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 660,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.7190056,
+    "lng": -25.37849953
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 153000,
     "licitacao_atual": 90500,
     "data_inicio": "2026-08-19T10:34:35",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 90000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

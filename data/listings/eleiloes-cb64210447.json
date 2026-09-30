@@ -7,19 +7,30 @@
   "location": "Leiria, Leiria",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122147/14112025111237_800sm.jpg",
+  "area_m2": 39.3,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122147/14112025111237_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122147/14112025111237_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122147/14112025111237_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122147/14112025111240_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122147/14112025111242_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122147/14112025111245_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122147/14112025111248_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122147/14112025111251_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122147/14112025111254_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122147/14112025111257_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122147/14112025111300_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 da Fração Autónoma, designada pela letra Y, destinada a comércio, composta por loja ampla no primeiro andar com 39,3m2, designada pelo n.º 23 e integrada num Centro Comercial, situada na Av. D. João III, Edifício 2002, Entrada A, Lote A, 1.º andar, lugar de Carpalho, 2400-164 Leiria, inscrita na matriz predial urbana sob o artigo nº 7403-Y da União das freguesias de Leiria, Pousos, Barreira e Cortes e descrita na 1.ª C.R.P. de Leiria sob o n.º 367/Y da freguesia de Leiria.\n\n***Verificou-se a falta de correspondência entre o número afixado na porta da loja com o número constante do registo, não tendo a executada conhecimento do motivo de tal divergência bem como a administração do condomínio. É responsabilidade do adquirente a regularização da situação exposta.\r\n***A depositária alertou para o facto de não ter a certeza que a letra da fração corresponda, é responsabilidade do adquirente a verificação da condição.\r\n***As visitas ao bem realizar-se-ão na quinta feira da semana anterior à data do leilão, na morada do anúncio.\r\n***Os bens móveis constantes das fotografias não fazem parte da venda.\r\n***Deverão os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt, devendo ainda: \r\n*** Informar-se das qualidades e características, licenças e outros aspetos que considerem relevantes, sendo da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas, sendo que a falta de verificação do bem não determina, nos termos legais, a anulação da venda; *** Estar registados na plataforma e-leilões, de forma a terem acesso aos contactos da fiel depositária, caso pretendam ver o imóvel;\r\n*** Para a impossibilidade de marcação com a Depositário, deverão contactar a agente de execução, através de email (3338@solicitador.net) ou telefone (234622466).",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 39.3,
+  "area_bruta_m2": 39.3,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.74974302280473,
+    "lng": -8.804426193237305
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +42,9 @@
     "valor_minimo": 32300,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-17T11:36:30",
-    "data_fim": "2026-11-10T14:30:00"
+    "data_fim": "2026-11-10T14:30:00",
+    "valor_abertura": 19000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

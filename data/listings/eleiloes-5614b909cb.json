@@ -5,21 +5,38 @@
   "price": 157405.44,
   "currency": "EUR",
   "location": "Trancoso, Guarda",
-  "bedrooms": null,
+  "bedrooms": 4,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163341_800sm.jpg",
+  "area_m2": 164,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163341_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163341_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163341_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163402_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163404_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163406_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163409_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163411_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163413_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163415_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163417_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163442_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163444_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163446_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163448_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163452_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116010/12032025163456_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano destinado a habitação sito na Rua da Bispa, s/n, em Tamanhos, inscrito na matriz predial urbana sob o art.º 476 da freguesia de Tamanhos, concelho de Trancoso, e descrito na Conservatória do Registo Predial de Trancoso sob o n.º 516 da dita freguesia.\n\n---------- NOTA IMPORTANTE: 1. Sendo as letras iniciais da referência do leilão “LO”, quaisquer propostas inferiores ao valor mínimo não serão sequer consideradas e o bem será novamente colocado em leilão com a referência inicial \"NP\" - pelo que será acto inútil licitar em valor inferior ao valor mínimo; 2. Sendo as letras iniciais da referência do leilão “NP”, propostas abaixo do valor mínimo poderão ser consideradas, dependendo no entanto de aceitação de todas as partes ou de despacho judicial, procedimento que poderá prolongar-se por vários meses até à decisão. ---------- NOTA IMPORTANTE: não serão respondidas questões cuja resposta decorre do anúncio do leilão. ---------- O vencedor do leilão tem o prazo de 15 dias para pagar a totalidade do preço e liquidar os impostos referentes à transmissão (IMT e IS), sendo que, não sendo pago o preço, o proponente fica sujeito ao arresto dos seus bens para garantir o valor em falta, acrescido das custas e despesas, sem prejuízo de procedimento criminal. ---------- O imóvel encontra-se em razoável estado de conservação, o que foi verificado pelo agente de execução. ---------- Área total do terreno: 2.516,00m2. ---------- O imóvel encontra-se ocupado. ---------- Após a emissão do título de transmissão, o depositário será notificado para proceder à entrega voluntária das chaves; caso não o faça voluntariamente, o adquirente poderá requerer a entrega coerciva, nos termos do art.º 828.º CPC, com recurso a arrombamento e autoridade policial se necessário (custo da diligência: € 102 + IVA) ---------- A presente venda está dispensada da apresentação de licença de utilização, certificado energético e ficha técnica de habitação, pelo que constitui ónus do adquirente a respectiva obtenção/legalização, se for caso disso. ---------- O recheio do imóvel não faz parte do objecto negocial. ---------- Todos os pedidos de informação dirigidos ao agente de execução deverão ser solicitados no campo \"informações\", previsto na plataforma do e-leiloes.pt. ----------- Vendido livre de ónus ou encargos.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 164,
+  "area_bruta_m2": 2516,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.76159679,
+    "lng": -7.31157246
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +48,9 @@
     "valor_minimo": 133794.62,
     "licitacao_atual": 79000,
     "data_inicio": "2026-09-09T15:16:47",
-    "data_fim": "2026-12-09T14:30:00"
+    "data_fim": "2026-12-09T14:30:00",
+    "valor_abertura": 78702.72,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

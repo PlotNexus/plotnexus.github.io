@@ -7,19 +7,41 @@
   "location": "Tábua, Coimbra",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155444_800sm.jpg",
+  "area_m2": 110,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155444_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155444_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155444_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155201_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155314_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155317_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155319_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155338_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155340_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155343_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155354_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155357_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155400_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155404_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155407_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155410_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155415_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155418_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155421_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155423_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155426_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127990/03072026155434_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano composto por casa de habitação de 2 pisos, com a superfície coberta de cinquenta e cinco metros quadrados, sito na Rua Dr. João Dinis de Abreu, da freguesia e concelho de Tábua, descrito na Conservatória do Registo Predial de Tábua sob o número QUATRO MIL CENTO E VINTE E UM/TÁBUA e inscrito na respetiva matriz predial sob o artigo 2708º\n\nNão serão agendadas visitas nos últimos 5 dias úteis antes da data do fim do leilão e deve ser previamente agendada com o Administrador da Insolvência; Com a apresentação da proposta, presume-se que o interessado tenha inspecionado o imóvel e conhece as suas caraterísticas, declinando-se qualquer responsabilidade pelo seu estado de conservação; Todos os custos inerentes à celebração da respetiva escritura de compra e venda serão suportados pelo adquirente; Nos termos das disposições conjugadas do no 6 do artigo 164º, do Código da Insolvência e da Recuperação de Empresas, e nº 6 do artigo 833º, do Código de Processo Civil, a presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que, nos termos das mesmas disposições legais, constitui ónus do adquirente a respetiva legalização dos imóveis, se for caso disso; A escritura de compra e venda apenas será realizada com o apresentante da proposta e não com terceiros que este possa vir a indicar; A escritura de compra e venda será realizada em local, data e hora a designar pelo Administrador da Insolvência; Na venda via E-Leilões, não são cobrados quaisquer valores a título de comissões ou afins.\r\nA adjudicação final será sempre feita pelo Administrador da Insolvência, com a concordância dos credores reclamantes e insolventes, reservando-se àquele a faculdade de:\r\n i) proceder a licitação entre todos os proponentes, convocando-os para o efeito;\r\n ii)\tnão aceitar ou rejeitar qualquer proposta que considere não se adequar aos interesses da massa insolvente;\r\nsendo que no caso de inexistência de propostas e/ou de ofertas abaixo do valor mínimo ou de não aceitação das propostas apresentadas, a venda prosseguirá nos termos a definir.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 110,
+  "area_bruta_m2": 110,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.35803578013213,
+    "lng": -8.026548027992249
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 53550,
     "licitacao_atual": 32000,
     "data_inicio": "2026-09-03T17:17:48",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 31500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

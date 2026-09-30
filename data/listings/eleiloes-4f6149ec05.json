@@ -7,19 +7,25 @@
   "location": "Sintra, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124132/09022026191245_800sm.jpg",
+  "area_m2": 100,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124132/09022026191245_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124132/09022026191245_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124132/09022026191245_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124132/09022026191257_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124132/09022026191305_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124132/09022026191315_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano,  armazém destinado a actividade industrial, com 1 piso, sito na Amoreira, da freguesia de S.João das Lampas e Terrugem, com a área total de 170 m2, com a área de implantação de 100 m2, a confrontar do norte com Evangelina Maria, do sul com Joaquim Miguel Bicho e serventia, do nascente com Joaquim Manuel e do poente com serventia, inscrito na matriz predial urbana sob o artigo matricial 6458º ( anterior 4926-S.João das Lampas) e descrito na CRP sob o nº 3662, com o VPT de 26.078,17€-COORDENADAS DE GPS-O imóvel encontra-se nas coordenadas 38.884138, -9.384619 em Amoreira, São João das Lampas, Sintra, Lisboa (Fonte Google Maps.)\n\nO IMOVEL ESTÁ INSCRITO NO CADASTRO FISCAL COM A SEGUINTE AFECTAÇAO: armazéns e actividade industrial-1 piso- tipolagia-2 divisões;\r\nE, ESTÁ DEWCRITO NA C.R.PREDIAL COMO: CASA DE r/c E LOGRADOURO. \r\nESTADO ACTUAL-  NÃO POSSUI JÁ QUALQUER EDIFICAÇÃO.\r\nCOORDENADAS DE GPS-O imóvel encontra-se nas coordenadas 38.884138, -9.384619 em Amoreira, São João das Lampas, Sintra, Lisboa (Fonte Google Maps)\r\nRua da Poça, S/N.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 100,
+  "area_bruta_m2": 170,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.8789506,
+    "lng": -9.38711679
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 46734.91,
     "licitacao_atual": 27491.13,
     "data_inicio": "2026-09-13T00:00:01",
-    "data_fim": "2026-10-14T10:30:00"
+    "data_fim": "2026-10-14T10:30:00",
+    "valor_abertura": 27491.13,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

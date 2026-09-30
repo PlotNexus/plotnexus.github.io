@@ -7,19 +7,27 @@
   "location": "Lisboa, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101855/27102023124315_800sm.jpg",
+  "area_m2": 274,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101855/27102023124315_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101855/27102023124315_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101855/27102023124315_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101855/27102023164414_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101855/27102023164425_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101855/27102023164440_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101855/27102023164455_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101855/27102023164504_800.jpg"
   ],
-  "description": null,
+  "description": "Direito a 14/16 avos do Prédio Misto, antiga \"Quinta do Coxo\" no Alto do Varejão, com 17.360m2 de área total, sendo 274m2 de área coberta relativa à parte urbana composta por cinco construções abarracadas e 17.086m2 de área descoberta relativa à parte rústica, com acesso/serventia pela Rua Lopes nº 38, descrito na Conservatória do Registo Predial de Lisboa com a ficha 2398 da freguesia de Santa Engrácia, inscrito na matriz predial rústica sob o artigo 2 da freguesia de Penha de França, e na matriz predial urbana com os artigos 98, 99, 100 e 101 da mesma freguesia.\n\nTerreno atualmente classificado como urbano, inserido no Plano de Pormenor Urbanístico da Calçada das Lajes, aprovado pela Câmara Municipal de Lisboa conforme publicação no Diário da República - DR, 2ª Série nº 194 (Pag. 226 e seg) de 06-10-2021, sendo comproprietário (2/14 avos) a Fábrica da Igreja de São Francisco de Assis, cuja Templo e espaço circundante está já edificado.\r\nToda a informação sobre a capacidade de construção atribuída ao terreno em venda, bem como encargos e obrigações considerados, está patente na página internet da Câmara Municipal de Lisboa com o link \r\nhttps://www.lisboa.pt/cidade/urbanismo/planeamento-urbano/planos-de-pormenor/detalhe/calcada-das-lajes",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 274,
+  "area_bruta_m2": 17360,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.724094644101164,
+    "lng": -9.119853973388672
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +39,15 @@
     "valor_minimo": 4789750,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-06T11:03:26",
-    "data_fim": "2026-11-04T14:30:00"
+    "data_fim": "2026-11-04T14:30:00",
+    "valor_abertura": 2817500,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Terreno inserido em Plano de Pormenor Urbanístico aprovado pela Câmara Municipal de Lisboa"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

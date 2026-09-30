@@ -7,19 +7,22 @@
   "location": "Ponte de Sor, Portalegre",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_68391/09022021173646_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_68391/09022021173646_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_68391/09022021173646_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_68391/09022021173646_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, terreno de cultura arvense e olival, sito em Vale de Nogueira, freguesia de Vale de Açor, concelho de Ponte de Sor, descrito na Conservatória do Registo Predial de Ponte de Sor sob o nº 802/Vale de Açor e inscrito na respetiva matriz pelo art.422º, secção G-G1 da União das Freguesias de Ponte de Sor, Tramaga e Vale de Açor\r\n\r\nConfrontações:\r\nNorte: Simplicio João Alves\r\nSul: José Rico Pintão\r\nNascente: José Marques Lopes\r\nPoente: Manuel António Lopes, herdeiros\n\nA fiel depositária do imóvel penhorado é a executada Maria Alice Gomes Teixeira\r\nO regime de visitas é fixado com dia e hora certos - Quartas-feiras entre as 18:00h e as 19:00h.\r\nO contacto telefónico do agente de execução, indicado na fixação do regime de visitas, destina-se a assegurar que, potenciais interessados, possam reportar, caso tal venha a suceder, qualquer dificuldade de acesso/visita ao imóvel nos dias designados.\r\n\r\n\r\nÉ da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir, devendo assegurar-se que o mesmo corresponde às suas expectativas e se encontra nas condições desejadas. \r\nO bem é vendido no estado em que se encontra pelo que os interessados na sua aquisição deverão proceder à prévia verificação do seu estado de conservação. A falta desta verificação, por parte do proponente, não determina, nos termos legais, a anulação da venda, nem poderá ser invocada como motivo de nulidade da mesma.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 1750,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.252195348416436,
+    "lng": -7.895994186401366
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 17000,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-09T13:41:49",
-    "data_fim": "2026-10-14T14:30:00"
+    "data_fim": "2026-10-14T14:30:00",
+    "valor_abertura": 10000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

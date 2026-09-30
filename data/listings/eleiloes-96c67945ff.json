@@ -7,19 +7,23 @@
   "location": "Vila Nova de Gaia, Porto",
   "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128957/07092026141124_800sm.jpg",
+  "area_m2": 86.5,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128957/07092026141124_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128957/07092026141124_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128957/07092026141124_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128957/07092026141121_800.jpg"
   ],
-  "description": null,
+  "description": "Fração autónoma designada pela letra “AZ”, descrita como sendo uma habitação no quarto andar esquerdo (corpo I I I), com entrada pelo nº 278, área 86,5 m2, terraço com 12 m2, lugar de garagem com 11,5 m2 e arrumo com 4 m2, na cave devidamente assinalados com a respetiva letra. Esta encontra-se localizada na Rua da Rasa, 256 a 324, inscrita na matriz urbana sob o artigo 5098, freguesia de Mafamude, concelho de Vila Nova de Gaia e descrita na 2ª Conservatória do Registo Predial de Vila Nova de Gaia sob o nº 67/19850503-AZ.\n\nA verba é vendida no estado físico, jurídico e documental em que se encontra. É da única e exclusiva responsabilidade do proponente a verificação das caraterísticas do bem a adquirir, pelo que deverá antes de ser apresentada a proposta assegurar-se se o mesmo corresponde às suas expectativas e se encontra nas condições pretendidas. Com a apresentação da proposta, presume-se que o interessado tenha visto o bem e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação.\r\n\r\nNOTA: A executada Deolinda Martins é fiel depositária não tendo sido obtidas fotografias do interior, devendo a mesmo ser contactada para visitas. Imóvel com humidade e infiltrações nos tetos de todas as divisões. É da inteira responsabilidade dos interessados da verificação do estado do bem, devendo previamente às propostas contactar com o fiel depositário para visita ao bem. a) Não serão agendadas visitas nos últimos 5 dias úteis antes da data do fim do leilão; b)As visitas serão agendadas previamente com o depositário através dos contactos indicados no regime de visitas. c) É da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. d) Com a apresentação da proposta, presume-se que o interessado tenha inspeccionado o bem e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação; e) O bem é vendido no estado em que se encontra pelo que a falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda. f) Todos os custos inerentes ao registo serão suportados pelo adquirente;",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 86.5,
+  "area_bruta_m2": 114,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.11884932,
+    "lng": -8.6106803
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,9 @@
     "valor_minimo": 204145.04,
     "licitacao_atual": 133975.39,
     "data_inicio": "2026-09-23T00:00:01",
-    "data_fim": "2026-10-13T10:30:00"
+    "data_fim": "2026-10-13T10:30:00",
+    "valor_abertura": 120085.32,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

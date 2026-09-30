@@ -7,19 +7,28 @@
   "location": "Santarém, Santarém",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109286/12072024105000_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109286/12072024105000_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109286/12072024105000_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109286/12072024105000_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109286/12072024105008_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109286/12072024105014_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109286/12072024105038_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109286/12072024105043_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109286/12072024105051_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109286/12072024105058_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Rústico composto por montado de sobro, cultura arvense de sequeiro, olival, solo subjacente de cultura arvense e olival e mato, sito em Sardinheira, com a área total de 95.785,00m2, inscrito na matriz no ano de 1986, com o valor patrimonial atual de 5.869,00 Euros, determinado no ano de 1989, melhor descrito na Conservatória do Registo Predial de Santarém sob o número MIL OITOCENTOS E TRINTA E SETE / Santarém (São Nicolau), inscrito na matriz predial rústica sob o artigo matricial rústico com o número 26 Secção \"Q\" da freguesia de União das Freguesias da Cidade de Santarém.\n\nConsigna-se o seguinte:\r\n1. Serao rejeitadas todas as propostas apresentadas por proponentes que anteriormente nao tenham depositado o preço\r\n2. Caso suceda novamente, sera imediatamente notificada a administraçao do e-leiloes para cancelamento das credenciais de acesso do proponente em causa, alem de eventual participaçao ao Ministerio Publico\r\n3 - Existem condicionantes no imovel como rodovias e serventias ferroviarias, pelo que o proponente deverá apurar junto das entidades competentes da viabilidade de construçao",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 95785,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.23099373,
+    "lng": -8.70306504
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +40,9 @@
     "valor_minimo": 81417.25,
     "licitacao_atual": 47892.5,
     "data_inicio": "2026-09-21T09:23:46",
-    "data_fim": "2026-12-22T14:30:00"
+    "data_fim": "2026-12-22T14:30:00",
+    "valor_abertura": 47892.5,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

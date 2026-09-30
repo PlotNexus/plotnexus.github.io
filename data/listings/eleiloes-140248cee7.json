@@ -7,19 +7,30 @@
   "location": "Montemor-o-Velho, Coimbra",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95938/13102023092540_800sm.jpg",
+  "area_m2": 64,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95938/13102023092540_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95938/13102023092540_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95938/13102023092540_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95938/13102023092534_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95938/13102023092546_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95938/13102023092552_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95938/13102023092558_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95938/13102023092603_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95938/13102023092609_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95938/13102023092615_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95938/13102023092621_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano destinado a armazéns e actividade industrial, sito em Cavada, freguesia de Arazede, concelho de Montemor-o-Velho, composto por edifício de um pavimento e logradouro, confronta do norte com José Dias, a sul com Joaquim de Matos e outro, nascente com Manuel Simões Fragão, poente com Saul Oliveira, área total do terreno 1.400 m2, AC. 764 m2, AD. 636 m2, inscrito na matriz predial respectiva sob o Art. 4837 e descrito na Conservatória do Registo Predial de Montemor-o-Velho com o n.º 15999/Arazede.\n\nO imóvel é vendido no estado em que se encontra, pelo que os interessados em apresentar propostas devem proceder à prévia verificação, certificando-se que o mesmo corresponde às suas expectativas. Nos termos e para os efeitos do disposto no Art. 838.º do Código de Processo Civil, presume-se que o proponente inspecionou o imóvel, conhece as suas características, o seu estado de manutenção e conservação, declinando-se toda e qualquer responsabilidade pela falta de verificação daqueles pressupostos, sendo que esta falta de verificação não constitui motivo para anulação da venda. As áreas indicadas do imóvel são baseadas na descrição/caderneta predial de cada um, pelo que existindo quaisquer divergências com as áreas reais, será da responsabilidade do adquirente a sua eventual correcção.\r\n\r\n\r\nFoi constituída fiel depositário a executada Maria dos Santos Melo Rebola, tendo sido informada dos deveres inerentes à função, designadamente o dever de administrar o bem, o dever de prestar contas e o dever de apresentação do bem quando lhe for solicitado, nos termos do disposto nos Art.s 760º e 771º do CPC.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 64,
+  "area_bruta_m2": 1400,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.27794423,
+    "lng": -8.69620946
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +42,15 @@
     "valor_minimo": 58344.37,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-29T12:48:17",
-    "data_fim": "2026-10-27T14:30:00"
+    "data_fim": "2026-10-27T14:30:00",
+    "valor_abertura": 34320.22,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Não são conhecidos outros, além dos constantes da descrição predial anexa."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

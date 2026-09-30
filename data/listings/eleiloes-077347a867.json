@@ -7,19 +7,23 @@
   "location": "Cuba, Beja",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_54091/11122019162253_800sm.jpg",
+  "area_m2": 13250,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_54091/11122019162253_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_54091/11122019162253_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_54091/11122019162253_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_54091/11122019162256_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, descrito sob o n.º 171 junto da Conservatória do Registo Predial de Cuba, freguesia de Vila Ruiva, inscrito na respectiva matriz predial rústica sob o art.º 52 - Secção C, sito em Outeiro do Zambujal, composto por Olival, solo subjacente - cultura arvense de olival, cultura arvense.\n\n- Oposição à Execução: não é conhecida.\r\n- Encargos com a compra e venda: venda sujeita a IMT e Imposto de selo (se aplicáveis nos termos dos respectivos códigos).\r\n- O terreno encontra-se em zona de difícil acesso.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 13250,
+  "area_bruta_m2": 13250,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.24785356507704,
+    "lng": -7.945947647094726
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,15 @@
     "valor_minimo": 14014,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-07T15:00:47",
-    "data_fim": "2026-11-05T14:30:00"
+    "data_fim": "2026-11-05T14:30:00",
+    "valor_abertura": 8243.53,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "* Não são conhecidos."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

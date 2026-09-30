@@ -5,21 +5,36 @@
   "price": 88235.3,
   "currency": "EUR",
   "location": "Entroncamento, Santarém",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161725_800sm.jpg",
+  "area_m2": 74.3,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161725_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161725_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161725_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161657_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161700_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161704_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161707_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161711_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161715_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161718_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161722_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161729_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161734_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161738_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129204/17092026161742_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 da Fração autónoma designada pela letra C, correspondente ao primeiro andar direito, para habitação, do prédio urbano em regime de propriedade horizontal, sito no Gaveto da Rua 1.º de Dezembro, números 2-J, 2-L e 2-M com a Rua António Amílcar Correia, n.º 2, freguesia de Nossa Senhora de Fátima, concelho do Entroncamento, descrito na Conservatória do Registo Predial do Entroncamento sob o número 249 da freguesia de Nossa Senhora de Fátima, inscrito na matriz sob o artigo 1.261 da referida freguesia.\n\nEncontra-se em venda 1/2 (metade) do imóvel, correspondente à quota-parte da propriedade pertencente ao Executado. A restante 1/2 (metade) do imóvel foi anteriormente vendida no âmbito de processo de insolvência relativo à outra Executada.\r\n\r\nO imóvel é vendido no estado físico, jurídico e documental em que atualmente se encontra, cabendo aos interessados proceder, previamente à apresentação de qualquer proposta, à verificação das suas características, condições e situação.\r\nA presente venda dispensa a apresentação de certificado energético, licença de utilização e ficha técnica de habitação, competindo ao adquirente diligenciar pela respetiva obtenção, quando aplicável.\r\nRecomenda-se aos interessados que visitem o imóvel antes de licitar, devendo verificar, designadamente, o seu estado de conservação, características, composição, áreas, ocupação e demais elementos que considerem relevantes para a decisão de aquisição. Após a apresentação da proposta, não poderá ser invocada a falta de visita ou de inspeção do imóvel como fundamento para desistência da aquisição, anulação ou resolução da compra.\r\n\r\nTratando-se de um imóvel habitado, a adjudicação do bem não determina, direta e imediatamente, para o Agente de Execução, a obrigação de proceder à sua entrega ao adquirente livre de pessoas e bens.\r\n\r\nCaso, após a adjudicação, o imóvel não seja voluntariamente entregue, caberá ao adquirente requerer, nos termos legalmente previstos, a respetiva entrega coerciva, sendo da sua responsabilidade os custos inerentes a essa diligência, nos termos da legislação processual civil aplicável.\r\n\r\nAs visitas ao imóvel poderão ser realizadas mediante marcação prévia, através de contacto telefónico com o fiel depositário. O contacto telefónico encontra-se indicado no campo “Visitas por Marcação”.\r\n\r\nÉ da exclusiva responsabilidade do proponente assegurar-se, antes da apresentação da proposta, do estado e das condições do imóvel, bem como da sua adequação às suas expectativas e finalidade pretendida.\r\nO proponente deverá ainda ter em consideração que, atendendo à especificidade da presente venda e ao facto de o imóvel não ser necessariamente entregue no momento da adjudicação, poderão ocorrer, até à efetiva entrega, deteriorações, alterações ou modificações no estado do bem, sem prejuízo das responsabilidades legalmente aplicáveis ao fiel depositário.\r\nAntes de apresentar qualquer proposta, os interessados deverão consultar atentamente as regras de funcionamento e as FAQ disponíveis no sítio oficial do e-leilões, bem como toda a documentação e informação disponibilizada relativamente ao imóvel.\r\nRecomenda-se igualmente, em caso de dúvida quanto às condições, efeitos ou consequências jurídicas da aquisição, que os interessados obtenham previamente aconselhamento junto de um Solicitador ou Advogado.\r\nA apresentação de uma proposta implica que o proponente se encontra devidamente informado sobre as condições da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 74.3,
+  "area_bruta_m2": 103.1,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.46780202,
+    "lng": -8.47694975
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +46,9 @@
     "valor_minimo": 75000.01,
     "licitacao_atual": 44558.83,
     "data_inicio": "2026-09-27T00:00:06",
-    "data_fim": "2026-10-21T11:00:00"
+    "data_fim": "2026-10-21T11:00:00",
+    "valor_abertura": 44117.65,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

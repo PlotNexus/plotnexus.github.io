@@ -5,21 +5,36 @@
   "price": 189517.87,
   "currency": "EUR",
   "location": "Vila Nova de Famalicão, Braga",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026161746_800sm.jpg",
+  "area_m2": 52,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026161746_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026161746_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026161746_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026152223_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026152522_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026152556_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026152619_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026152635_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026152649_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026152703_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026152721_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026152741_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026152802_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026162033_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129102/14092026162143_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano em Prop. Total sem Andares nem Div. Suc. De Util. Independente, destinado a Habitação e descrito como Casa de Habitação de cave e rés do chão com um fogo e quintal, sito na Rua do Forno nº 95, freguesia de Bairro, Vila Nova de Famalicão, inscrito na matriz predial urbana sob o artigo 997 da Freguesia de Bairro, Concelho de Vila Nova de Famalicão e descrito na CRPredial de Vila Nova de Famalicão com o nº 1485 da freguesia de Bairro, Concelho de Vila Nova de Famalicão.\n\nMoradia de rés-do chão e semicave, com logradouro na parte frontal e posterior do terreno. O rés-do-chão é constituído por cozinha, sala de jantar e sala de estar em continuidade, instalação sanitária de serviço (sem possibilidade de banho) e três quartos, não possui ligação interna à semicave.\r\nA semicave, situada no rés-do chão, é composta por diversas unidades funcionais autónomas: cozinha e adega, lavandaria, instalação sanitária com duche e uma sala/quarto.\r\nExistem ainda construções complementares: instalação sanitária completa num anexo, casa do lixo, sala destinada a “passar roupa a ferro” e alpendre.\r\nA garagem situa-se ao nível do rés-do chão, junto à fachada lateral direita.Existe uma diferença entre a área bruta de construção registada na Caderneta Predial (104m2) e a área bruta dependente estimada após relatório pericial (134m2).\r\nEncontra-se registado pela AP. 1932 de 2016-11-02 o Usufruto, contudo o mesmo já caducou, sendo posteriormente cancelado aquando à concretização da venda.\r\nO imóvel é vendido sem o recheio constante das fotografias.\r\nÉ da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá assegurar-se que o mesmo corresponde às suas expectativas e que se encontra nas condições pretendidas. O bem é vendido no estado em que se encontra, pelo que a falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 52,
+  "area_bruta_m2": 425,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.37662339957113,
+    "lng": -8.418456315994263
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +46,15 @@
     "valor_minimo": 161090.19,
     "licitacao_atual": 102646.54,
     "data_inicio": "2026-09-25T00:00:00",
-    "data_fim": "2026-10-20T10:00:00"
+    "data_fim": "2026-10-20T10:00:00",
+    "valor_abertura": 94758.94,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Direito de Usufruto já caducado. Registo será cancelado aquando à venda."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

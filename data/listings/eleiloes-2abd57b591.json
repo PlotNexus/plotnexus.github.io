@@ -5,21 +5,43 @@
   "price": 313647.06,
   "currency": "EUR",
   "location": "Cascais, Lisboa",
-  "bedrooms": null,
+  "bedrooms": 1,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135215_800sm.jpg",
+  "area_m2": 254,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135215_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135215_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135215_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135217_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135219_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135220_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135222_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135224_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135226_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135227_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135230_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135232_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135234_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135236_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135239_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135244_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135247_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135250_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135252_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135255_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135257_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98410/30112023135300_800.jpg"
   ],
-  "description": null,
+  "description": "1/3 da Fracção Autonóma designada pela letra B do Prédio Urbano sito na Rua Miguel Bombarda N.º 344, com artigo matricial 6022, Concelho de Cascais, Freguesia União de Freguesias de Carcavelos e Parede descrito na Conservatória do Registo Predial de Cascais sob o número 493-B/ Parede, daquela freguesia e concelho;",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 254,
+  "area_bruta_m2": 1691.21,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.68962886,
+    "lng": -9.35451829
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 266600,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-19T10:23:33",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 156823.53,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

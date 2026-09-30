@@ -5,21 +5,31 @@
   "price": 70000,
   "currency": "EUR",
   "location": "Bragança, Bragança",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_100576/15092023121830_800sm.jpg",
+  "area_m2": 43,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_100576/15092023121830_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_100576/15092023121830_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_100576/15092023121830_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_100576/15092023121842_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_100576/15092023122016_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_100576/15092023122032_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_100576/15092023122038_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_100576/15092023122110_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_100576/12102023123058_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_100576/12102023123231_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano composto por rés-do-chão com duas divisões, uma cozinha, uma arrecadação, tem anexo e tem logradouro, quarto de banho, um vestíbulo, sito no lugar de Terroso, freguesia de Espinhosela, concelho de Bragança, descrito na Conservatória do Registo Predial de Bragança, freguesia de Espinhosela sob a ficha n.º 564/20070702 e inscrito na matriz predial urbana da freguesia de Espinhosela sob o artigo 433º.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 43,
+  "area_bruta_m2": 143,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.88175525,
+    "lng": -6.84821791
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,9 @@
     "valor_minimo": 59500,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-11T11:43:38",
-    "data_fim": "2026-11-05T14:30:00"
+    "data_fim": "2026-11-05T14:30:00",
+    "valor_abertura": 35000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

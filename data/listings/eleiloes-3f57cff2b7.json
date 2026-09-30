@@ -7,19 +7,25 @@
   "location": "Montijo, Setúbal",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122435/25112025151945_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122435/25112025151945_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122435/25112025151945_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122435/25112025151945_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122435/25112025151948_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122435/25112025151950_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122435/25112025151956_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, composto de cultura arvense de regadio, sito em Nucho das Faias, inscrito na matriz predial rustica sob o artigo 75º da secção B da União das freguesias de Pegões, Concelho Montijo, Distrito Setúbal, descrito na Conservatória do Registo Predial de Santo Isidro de Pegões sob a ficha 858 da freguesia. de Santo Isidro de Pegões, Confronta a Norte - Caminho; Sul - Carlos Alberto Gonçalves Martins; Nascente - Hélder & Martins, Ldª ;Poente - caminho.\n\nTratando-se de um prédio rústico, os interessados poderão livremente deslocar-se ao local e verificar o mesmo. A localização exata do prédio encontra-se indicada no relatório em anexo emitido pelo Sistema de informação cadastral simplificada. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características, licenças e outros aspetos que considerem relevantes, do(s) bem(ns). A não verificação não é fundamento para anulação do procedimento de venda. Os interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq constantes no site www.e-leiloes.pt. ATENÇÃO* ADVERTEM-SE TODOS OS INTERESSADOS/PROPONENTES QUE SÓ SERÃO CONSIDERADAS AS PROPOSTAS SUBMETIDAS NESTA PLATAFORMA ATÉ AO DIA E HORA DO FECHO DA VENDA (as propostas apresentadas fora desta plataforma eletrónica não serão consideradas)*",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 25000,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.68579984,
+    "lng": -8.75608936
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 170000,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-03T14:54:19",
-    "data_fim": "2026-11-05T14:30:00"
+    "data_fim": "2026-11-05T14:30:00",
+    "valor_abertura": 100000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

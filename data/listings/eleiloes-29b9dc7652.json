@@ -7,19 +7,24 @@
   "location": "Mealhada, Aveiro",
   "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126479/06052026171517_800sm.jpg",
+  "area_m2": 180,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126479/06052026171517_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126479/06052026171517_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126479/06052026171517_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126479/06052026171545_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126479/06052026171649_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano situado em Cavaleiros, Rua do Cerco, nº 1, freguesia de Barcouço e concelho da Mealhada, composto de casa de habitação de rés-do-chão, 1º andar e anexos com logradouro, com área total de 690m2, inscrito na respectiva matriz predial sob o art. 1352º e descrito junto da CRP da Mealhada na ficha nº 3004/Barcouço.\n\nA morada do imóvel é a seguinte: Rua Cerco 1, Cavaleiros, 3050-100 Barcouço\r\n*\r\nO imóvel encontra-se em mau estado de conservação.\r\n*\r\nNão tem mobília de cozinha e a casa de banho não tem lavatório.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 180,
+  "area_bruta_m2": 334,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.29710458,
+    "lng": -8.50002189
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 134853.89,
     "licitacao_atual": 91809,
     "data_inicio": "2026-09-27T00:00:01",
-    "data_fim": "2026-10-20T10:00:00"
+    "data_fim": "2026-10-20T10:00:00",
+    "valor_abertura": 79325.82,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

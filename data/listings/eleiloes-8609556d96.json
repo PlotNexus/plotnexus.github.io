@@ -7,19 +7,25 @@
   "location": "Câmara de Lobos, Ilha da Madeira",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127270/04062026122901_800sm.jpg",
+  "area_m2": 585,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127270/04062026122901_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127270/04062026122901_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127270/04062026122901_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127270/04062026122906_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127270/04062026122910_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127270/04062026122914_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, com área total de 585 m2, situado em Casa Caída, freguesia do Estreito de Câmara de Lobos, concelho de Câmara de Lobos, confrontando a Norte e Oeste a com Estrada Nova do Castelejo; Sul com José Francisco dos Santos e Leste com o Ribeiro, inscrito na matriz predial rústica sob os artigos cadastrais 1/1 e 1/2, ambos da Secção DE, da referida freguesia e descrito na Conservatória do Registo Predial de Câmara de Lobos, sob o nº 7267/20181126, da sobredita freguesia (Resulta da anexação dos prédios nºs. 2643/19990624 e 2920/20000404).\n\nO bem em venda encontra-se em estado razoável de conservação. Antes de efectuarem propostas, os eventuais interessados devem inteirar-se das qualidades, características e outros aspectos que considerem relevantes, do bem. É da única e exclusiva responsabilidade dos proponentes a verificação do estado do bem a adquirir pelo que deverão antes de apresentarem propostas assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. O bem imóvel é vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisição que devem proceder à verificação prévia do estado do bem. A falta desta verificação por parte dos proponentes não determina, nos termos legais, a anulação da venda. Quem pretender licitar deve conhecer o funcionamento e regras da venda em leilão eletrónico. Antes de decidir por realizar uma licitação leia atentamente as regras funcionamento da plataforma https://www.e-leiloes.pt/regras Cabe aos interessados o dever de se informarem juridicamente sobre as circunstâncias do(s) bem(ns) a ser(em) adquirido(s), recorrendo para o efeito (caso assim o entendam), a consulta jurídica a profissional devidamente habilitado – jurista, solicitador ou advogado – uma vez que o ora signatário, enquanto titular do processo, não presta aconselhamento jurídico.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 585,
+  "area_bruta_m2": 585,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 32.687371634356786,
+    "lng": -16.972975730895996
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 27846,
     "licitacao_atual": 16380,
     "data_inicio": "2026-09-28T16:24:39",
-    "data_fim": "2026-12-29T14:30:00"
+    "data_fim": "2026-12-29T14:30:00",
+    "valor_abertura": 16380,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

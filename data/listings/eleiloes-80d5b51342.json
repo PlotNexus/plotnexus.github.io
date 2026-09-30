@@ -7,19 +7,24 @@
   "location": "Nazaré, Leiria",
   "bedrooms": 4,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128979/08092026144642_800sm.jpg",
+  "area_m2": 165,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128979/08092026144642_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128979/08092026144642_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128979/08092026144642_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128979/08092026144640_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128979/08092026144644_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano destinado a habitação, composto por moradia de cave para garagem e arrumos, RC e primeiro andar e quintal, sito na Quinta do Lagar, Calhau, lote 5, inscrito na matriz urbana com o artigo 8808 da freguesia de Nazaré e descrito na competente Conservatória do Registo Predial de Nazaré com o número 4739/2000040.\n\nA fiel depositária não permitiu a divulgação de fotos do interior. O imóvel é um T4 e está em bom estado de conservação.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 165,
+  "area_bruta_m2": 226.1,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.6100359742689,
+    "lng": -9.06569480895996
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 209950,
     "licitacao_atual": 209950,
     "data_inicio": "2026-09-18T00:00:05",
-    "data_fim": "2026-10-08T10:30:00"
+    "data_fim": "2026-10-08T10:30:00",
+    "valor_abertura": 123500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

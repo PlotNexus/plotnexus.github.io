@@ -7,19 +7,24 @@
   "location": "Amarante, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125932/21042026160827_800sm.jpg",
+  "area_m2": 2530,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125932/21042026160827_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125932/21042026160827_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125932/21042026160827_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125932/21042026160830_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125932/21042026160833_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, denominado Bouça do Rechão, pinhal e mato, sito no lugar de Igreja, freguesia de Aboadela, concelho de Amarante, inscrito na matriz rústica da União de Freguesias de Aboadela, Sanche e Várzea, no artigo 621 (antigo 637 de Aboadela), descrito na respetiva Conservatória sob o número 922.\n\nO terreno encontra-se a cato com vegetação considerável e sem produção rústica.\r\nVenda em processo de inventário.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 2530,
+  "area_bruta_m2": 2530,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.27396839892681,
+    "lng": -7.979421615600586
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 5376.25,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-23T00:00:00",
-    "data_fim": "2026-10-13T10:30:00"
+    "data_fim": "2026-10-13T10:30:00",
+    "valor_abertura": 3162.5,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

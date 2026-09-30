@@ -7,19 +7,33 @@
   "location": "Benavente, Santarém",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160259_800sm.jpg",
+  "area_m2": 1,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160259_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160259_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160259_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160226_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160228_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160230_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160232_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160236_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160238_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160240_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160242_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160244_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160246_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_121534/04092026160257_800.jpg"
   ],
-  "description": null,
+  "description": "Usufruto do prédio urbano sito na Rua Manuel Martins Alves, Nº 66, em Santo Estêvão, inscrito na matriz predial urbana sob o artigo 2216 da \r\nfreguesia de Santo Estêvão, concelho de Benavente e descrito na Conservatória do Registo Predial de Benavente sob a ficha nº 151.\n\nUsufrutuário tem 71 anos",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 1,
+  "area_bruta_m2": 1,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.85934112628496,
+    "lng": -8.743655383586884
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +45,9 @@
     "valor_minimo": 49045,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-12T00:00:00",
-    "data_fim": "2026-10-14T10:00:00"
+    "data_fim": "2026-10-14T10:00:00",
+    "valor_abertura": 28850,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

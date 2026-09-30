@@ -7,19 +7,35 @@
   "location": "Benavente, Santarém",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122540_800sm.jpg",
+  "area_m2": 681.87,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122540_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122540_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122540_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122542_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122543_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122545_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122546_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122548_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122549_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122551_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122552_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122554_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122555_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122557_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122558_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107597/02052024122600_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano composto por armazém, destinado a atividade industrial, com área coberta de 681,87 m2 e área descoberta de 540,73 m2, sito na Rua do Pinheiro, nº 22, da freguesia e concelho de Benavente, inscrito na matriz predial urbana sob o artigo nº 7330, descrito na Conservatória do Registo Predial de Benavente sob o n.º 5344/20150303",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 681.87,
+  "area_bruta_m2": 1222.6,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.98346308,
+    "lng": -8.8119196
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +47,15 @@
     "valor_minimo": 422675.47,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-16T15:23:37",
-    "data_fim": "2026-10-01T14:30:00"
+    "data_fim": "2026-10-01T14:30:00",
+    "valor_abertura": 248632.63,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Livre de ónus e encargos"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

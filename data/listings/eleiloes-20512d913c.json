@@ -7,19 +7,22 @@
   "location": "Ansião, Leiria",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123242/09012026175325_800sm.jpg",
+  "area_m2": 290,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123242/09012026175325_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123242/09012026175325_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123242/09012026175325_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, composto por eucaliptal, sito em Amieira, freguesia de Chão de Couce, concelho de Ansião, descrito na CRP daquele concelho sob o nº 6762, e inscrita na matriz predial rústica sob o art. 8257.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 290,
+  "area_bruta_m2": 290,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.894715532393434,
+    "lng": -8.386151790618896
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 2975,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-18T00:00:01",
-    "data_fim": "2026-10-08T10:00:00"
+    "data_fim": "2026-10-08T10:00:00",
+    "valor_abertura": 1750,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

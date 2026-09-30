@@ -7,19 +7,27 @@
   "location": "Alcanena, Santarém",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101035/29092023110044_800sm.jpg",
+  "area_m2": 172.7,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101035/29092023110044_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101035/29092023110044_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101035/29092023110044_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101035/29092023110033_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101035/29092023110037_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101035/29092023110041_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101035/29092023110047_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_101035/29092023110050_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano correspondente ao Lote n.º1 – lote de terreno para construção urbana, situado em Selado ou Selado do Arieiro, freguesia de Moitas Vendas, concelho de Alcanena, distrito de Santarém, descrito na Conservatória do Registo Predial de Alcanena sob o número 250 da freguesia de Moitas Vendas e inscrito na matriz predial urbana sob o artigo 754 da dita freguesia.\n\nNota: As áreas indicadas servem apenas como referência pois não foram feitas medições exatas no local. No local, não é visível a divisão de lotes mas existe a indicação que dadas as confrontações o prédio situa-se junto à Estrada Nacional 243, de acordo com registo fotográfico que se junta. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características e todos os outros aspetos que considerem relevantes. Com a apresentação da proposta, presume-se que o interessado tenha inspecionado o imóvel e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação e localização exata. O imóvel é vendido no estado que se encontra pelo que os interessados devem proceder à verificação prévia do estado do bem. A falta desta por parte do proponente não determina nos termos legais a anulação da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 172.7,
+  "area_bruta_m2": 172.7,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.499719375711386,
+    "lng": -8.661260604858397
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +39,9 @@
     "valor_minimo": 34000,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-24T15:06:43",
-    "data_fim": "2026-10-22T14:30:00"
+    "data_fim": "2026-10-22T14:30:00",
+    "valor_abertura": 20000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

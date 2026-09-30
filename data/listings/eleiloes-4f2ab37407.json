@@ -7,19 +7,24 @@
   "location": "Povoação, Ilha de São Miguel",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_83179/09062022160652_800sm.jpg",
+  "area_m2": 142.7,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_83179/09062022160652_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_83179/09062022160652_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_83179/09062022160652_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_83179/09062022160655_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_83179/09062022160658_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano, com artigo matricial 503, sito na Rua Dr. Frederico Moniz Pereira N.º44, Freguesia Furnas, Concelho Povoação.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 142.7,
+  "area_bruta_m2": 78,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.77330185,
+    "lng": -25.30966666
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 148750,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-29T16:16:56",
-    "data_fim": "2026-11-17T14:30:00"
+    "data_fim": "2026-11-17T14:30:00",
+    "valor_abertura": 87500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

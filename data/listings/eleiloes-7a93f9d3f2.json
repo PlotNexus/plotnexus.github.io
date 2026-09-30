@@ -5,21 +5,40 @@
   "price": 160000,
   "currency": "EUR",
   "location": "Abrantes, Santarém",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173218_800sm.jpg",
+  "area_m2": 51.5,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173218_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173218_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173218_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173120_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173127_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173131_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173134_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173141_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173148_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173151_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173158_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173201_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173204_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173208_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173211_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173214_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173227_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173233_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128748/18082026173236_800.jpg"
   ],
-  "description": null,
+  "description": "Fracção Autónoma com a letra B do 1º andar e sótão, composta de 4 divisões, do Prédio em Regime de Propriedade Horizontal composto de Cave, R/C e 1º andar, sito Sentieiras, Lugar: S. Vicente, União das Freguesias de Abrantes (São Vicente e São João e Alferrarede, Concelho de Abrantes, Distrito de Santarém, inscrito na matriz sob o Artº. 3642, descrito na Conservatória do Registo Predial de Abrantes sob nº 3142 da Freguesia de Abrantes (São Vicente) (extinta), Concelho de Abrantes.\n\nFoi aferido o estado de conservação do imóvel encontrando-se em bom estado de conservação. Não foi permitido tirar fotografias do interior. É da única responsabilidade do proponente a verificação do estado do bem a adquirir, pelo que deverá, se assim entender, antes de apresentar proposta assegurar-se que o mesmo corresponde as suas expectativas e que se encontra nas condições pretendidas, uma vez que, com apresentação de proposta, presume-se que o proponente tenha inspecionado o bem supra descrito, e conhece as suas características e consequentemente, declina qual responsabilidade pelo seu estado de conservação. A não verificação não é fundamento para anulação do procedimento de venda. Deverá, igualmente, ter em consideração que, atendendo às especificidades da venda e ao facto do bem não estar na posse do Agente de Execução, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao executado, que deverá mostrar o imóvel às 16h horas da 5ª feira anterior ao encerramento do leilão.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 51.5,
+  "area_bruta_m2": 74,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.46447224,
+    "lng": -8.21850207
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +50,9 @@
     "valor_minimo": 136000,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-26T00:00:02",
-    "data_fim": "2026-09-30T11:00:00"
+    "data_fim": "2026-09-30T11:00:00",
+    "valor_abertura": 80000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

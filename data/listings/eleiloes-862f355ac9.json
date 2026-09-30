@@ -7,19 +7,41 @@
   "location": "Terras de Bouro, Braga",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143052_800sm.jpg",
+  "area_m2": 145,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143052_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143052_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143052_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143056_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143100_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143104_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143117_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143127_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143131_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143135_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143145_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143150_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143202_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143207_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143215_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143219_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143222_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143225_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143229_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143232_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143236_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129231/18092026143239_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, correspondente a uma habitação com dois pisos. Composta por quatro divisões.  Sito no Lugar da Aldeia, nº 199, em Chorense, Terras do Bouro. Descrito na Conservatória do registo Predial de Terras do Bouro com o número 207/19960131 e inscrito na matriz sob o artigo matricial 90º, da União de Freguesias de Chorense e Monte e concelho de Terras de Bouro.\n\nTrata-se de um imóvel antigo, a necessitar de várias obras de remodelação. \r\nOs bens constantes das fotografias não são objeto da presente venda. \r\nOs executados foram notificados dos deveres de fiel depositários do bem, nos termos do artigo 818.º do CPC sob pena das cominações previstas no disposto no artigo 761.º do C.P.C. \r\n\r\nNão foram deduzidos embargos. \r\nForam reclamados créditos por parte da Bankinter, S.A..\r\n\r\nVenda sujeita a IMT e Imposto de selo (se aplicáveis nos termos dos respetivos códigos). \r\nO regime de visitas encontra-se definido no respetivo campo, ficando este a cargo do executado. O mesmo deverá ser agendado conforme a disponibilidade de todas as partes. \r\nA presente descrição não dispensa a constatação presencial do estado de conservação do bem, sendo o agente de execução alheio a qualquer alteração das condições físicas do imóvel. \r\nA verba é vendida no estado físico, jurídico e documental em que se encontra. Com a apresentação da proposta, presume-se que o interessado tenha visto o imóvel e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação. APENAS SERÃO ACEITES AS PROPOSTAS DE VALOR IGUAL OU SUPERIOR VALOR MÍNIMO. O «valor mínimo» é o valor a partir do qual o bem pode ser vendido e que corresponde, nos termos do n.º 2 do artigo 816.º do CPC, a 85 % do valor base.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 145,
+  "area_bruta_m2": 145,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.69127,
+    "lng": -8.29296237
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 103872.42,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-27T00:00:06",
-    "data_fim": "2026-10-20T10:30:00"
+    "data_fim": "2026-10-20T10:30:00",
+    "valor_abertura": 61101.43,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,25 @@
   "location": "Tarouca, Viseu",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56287/30012020182032_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56287/30012020182032_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56287/30012020182032_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56287/30012020182032_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56287/30012020182034_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56287/30012020182039_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56287/30012020182041_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico com a área de 1060 m2,  sito no Lugar de Casas, inscrito na matriz rústica sob o artigo 6469 da União de Freguesias de Tarouca e Dálvares, descrito na Conservatória do Registo Predial de Tarouca sob o nº.2501- a confrontar do Norte com Irene de Melo e outro do Sul com Daniel  Augusto dos Santos, Nascente com José Luis Pereira e Outro e Poente com Caminho\n\nREFª. LEILÃO ONLINE: LO587362020",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 1060,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.98864508386164,
+    "lng": -7.7872467041015625
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 5950,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-17T15:16:02",
-    "data_fim": "2026-11-17T14:30:00"
+    "data_fim": "2026-11-17T14:30:00",
+    "valor_abertura": 3500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

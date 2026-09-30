@@ -5,21 +5,39 @@
   "price": 89807.66,
   "currency": "EUR",
   "location": "Lisboa, Lisboa",
-  "bedrooms": null,
+  "bedrooms": 4,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124445_800sm.jpg",
+  "area_m2": 102,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124445_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124445_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124445_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124529_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124539_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124552_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124601_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124613_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124623_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124632_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124644_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124653_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124732_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124800_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124809_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124820_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124832_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128956/09092026124841_800.jpg"
   ],
-  "description": null,
+  "description": "FRAÇÃO AUTÓNOMA designada pela letra \"I\", correspondente ao SEGUNDA ANDAR B, para habitação, do prédio urbano em regime da propriedade horizontal, sito  em Azinhaga da Cidade (anteriormente Várzea de Cima), Torre B, Ameixoeira, Lisboa, descrito na Conservatória do Registo Predial de Lisboa sob a ficha nº 683/20090114-I da freguesia de Ameixoeira e inscrito na respetiva matriz predial urbana sob o artigo 413 da freguesia de Santa Clara.\n\nO imóvel é habitado  e encontra-se no estado  de conservação que se pode calcular  pelas fotos que se anexam.\r\nContudo é da responsabilidade dos proponentes  a verificação do estado do imóvel a adquirir, pelo que, antes de apresentar qualquer proposta, deverá assegurar-se se o mesmo corresponde ás suas expectativas e se se encontra nas condições pretendidas.\r\nO imóvel é vendido no estado em que se encontra, pelo que se recomenda  aos interessados que devem proceder à verificação prévia do estado do mesmo. Adverte-se que a falta de verificação das condições do imóvel em venda por parte do proponente não permite, nos termos da lei, a anulação da venda.\r\nOs interessados que pretendam ver o imóvel, devem encontrar-se registados na plataforma e-leilões de modo a ter acesso aos contactos do fiel depositário e/ou responsável pela venda.\r\nCom a apresentação da proposta presume-se que o proponente tenha inspecionado o  imóvel e que conhece o estado em que se encontra, declinando-se qualquer responsabilidade pelo seu estado de conservação.\r\nNão é possivel anular uma licitação depois de concretizada. \r\nA licitação é definitiva e não pode ser revogada, anulada ou por qualquer forma alterada.\r\nAdverte-se que após o fim do leilão, o/a proponente da proposta mais alta (se for igual ao superior ao valor mínimo) é notificado para, no prazo de 15 dias, proceder ao depósito do valor integral da proposta apresentada.\r\nEfetuado o depósito do preço, é emitido título de transmissão a favor do comprador. Caso o depósito do preço não seja efetuado no referido prazo de 15 dias, adverte-se para as consequências previstas no artigo 825º do Código de Processo Civil, nomeadamente, e por decisão do Juiz \"o arresto em bens suficientes para garantir o valor em falta, acrescido das custas e demais despesas, sem prejuizo de procedimento criminal e sendo aquele, simultaneamente, executado no próprio processo para pagamento daquele valor e acréscimos legais.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 102,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.78188371,
+    "lng": -9.15844038
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +49,9 @@
     "valor_minimo": 76336.51,
     "licitacao_atual": 91809,
     "data_inicio": "2026-09-25T00:00:07",
-    "data_fim": "2026-10-21T10:30:00"
+    "data_fim": "2026-10-21T10:30:00",
+    "valor_abertura": 44903.83,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

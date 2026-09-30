@@ -7,19 +7,22 @@
   "location": "Vieira do Minho, Braga",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128996/09092026172441_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128996/09092026172441_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128996/09092026172441_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128996/09092026172441_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico denominado Penedo da Era, com a área total de 6000 m2, inscrito na matriz predial rústica sob o artigo n.º 2684 e descrito na Conservatória do Registo Predial sob o n.º 1107/19990215, da freguesia de Rossas, concelho de Vieira do Minho.\n\nO bem é vendido no estado físico e jurídico em que se encontra, livre de ónus ou encargos. O bem é vendido em conjunto com o processo de inventário nº 202/08.1TBNLS-A que corre termos no Juiz 1 do Juízo de Família e Menores de Viseu. A falta de vistoria do bem por parte dos potenciais interessados, não implica, nos termos da Lei, a anulação da venda, presumindo-se que os mesmos tiveram pleno conhecimento do estado de conservação e características do bem colocado em venda, aceitando o mesmo no estado em que se encontra. Em caso de adjudicação do bem, o adjudicatário deverá efetuar, no prazo de 8 dias após a notificação de adjudicação, o pagamento de caução de 20% do valor oferecido, sendo o remanescente do preço pago na data da escritura compra e venda, a qual deverá celebrar-se apenas com o apresentante da proposta e não com terceiros que este possa vir a indicar. A transmissão do bem será feita através de escritura pública ou casa pronta, a agendar pelo Administrador da Insolvência e deverá ser realizada em Cartório Notarial/Conservatória da área do domicílio profissional do Administrador da Insolvência, no prazo máximo de 60 dias, contados da data da adjudicação. Todos os custos inerentes à celebração da respetiva escritura de compra e venda serão suportados pelo adquirente; Nos termos das disposições conjugadas do n.º 6, do artigo 164º, do Código da Insolvência e da Recuperação de Empresas, e n.º 6 do artigo 833º, do Código de Processo Civil, a presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que, nos termos das mesmas disposições legais, constitui ónus do adquirente a respetiva legalização do imóvel, se for caso disso. Dispensa de marcação de visita, uma vez que o imóvel é acessível pela via pública sem qualquer impedimento.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 6000,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.57667257,
+    "lng": -8.10774035
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 425,
     "licitacao_atual": 1122.11,
     "data_inicio": "2026-09-13T00:00:03",
-    "data_fim": "2026-10-13T10:00:00"
+    "data_fim": "2026-10-13T10:00:00",
+    "valor_abertura": 250,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

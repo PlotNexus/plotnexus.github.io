@@ -7,19 +7,24 @@
   "location": "Soure, Coimbra",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88311/01082022163924_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88311/01082022163924_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88311/01082022163924_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88311/01082022163924_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88311/01082022163930_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88311/01082022163936_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 do prédio rústico, composto de pinhal e mato numa área total de 2400 m2, sito em Ferreiras ou Barreiras, freguesia de Vila Nova de Anços e concelho de Soure,  descrito na Conservatória do Registo Predial de Soure sob nº 3514, inscrito na matriz sob o art.º 3271, da referida freguesia, com o valor o valor tributável de 10,06 euros, penhorada em 03.02.2022.\n\nTerreno na localidade de  Barroco, em difícil acesso ao mesmo.\r\n\r\nAlerta-se que é da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir,  pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. Deverá, igualmente, ter em consideração que, atendendo às especificidades da venda e ao facto de o bem não ser entregue no momento da conclusão do leilão, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao fiel depositário.\r\n\r\n\r\nADVERTÊNCIA: As áreas e descrição do imóvel no presente anúncio, têm por base, as descritas na certidão predial e matricial respetivas. No entanto, os interessados em licitar, deverão aferir previamente, por todos meios disponíveis, se o imóvel está de acordo com os seus interesses de aquisição. A falta desta averiguação, por parte dos licitantes, não determina nos termos legais, a anulação da venda. Os interessados em licitar o bem, devem consultar previamente o site www.e-leiloes.pt, por forma a informarem-se, de forma consciente, das regras dos leilões e consequências legais das suas licitações. A presente venda, por ser concretizada em processo executivo, está dispensada da obrigação da Obtenção de Certificado Energético dos Edifícios, assim como da obtenção/exibição da Licença de Utilização.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 2400,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.10530379,
+    "lng": -8.6341723
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 2437.8,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-01T15:39:28",
-    "data_fim": "2026-12-02T14:30:00"
+    "data_fim": "2026-12-02T14:30:00",
+    "valor_abertura": 1434,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

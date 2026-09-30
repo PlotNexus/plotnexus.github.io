@@ -7,19 +7,23 @@
   "location": "Montemor-o-Velho, Coimbra",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95923/24032023150442_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95923/24032023150442_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95923/24032023150442_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95923/24032023150442_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95923/24032023150448_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico denominado por Montelérios, sito em Arazede, freguesia de Arazede, concelho de Montemor-o-Velho, composto por pinhal e mato, confronta a norte com Joaquim da Costa Tabanez, do sul com Manuel Fernando, do nascente com caminho de servidão e do poente com José Jorge Buco, área 6.890 m2, inscrito na matriz predial respectiva sob o artigo 16377 e descrito na CRP de Montemor-o-Velho com o nº 9110/Arazede.\r\n\r\nTerreno de pinhal e mato, plantação de eucalipto de 2º corte, boa aptidão florestal, bons acessos.\n\nTratando-se de um prédio rústico, os interessados em apresentar propostas devem proceder à prévia verificação, deslocando-se ao imóvel e certificando-se que o mesmo corresponde às suas expectativas. Nos termos e para os efeitos do disposto no Art. 838.º do Código de Processo Civil, presume-se que o proponente inspecionou o imóvel, conhece as suas características, declinando-se toda e qualquer responsabilidade pela falta de verificação daqueles pressupostos, sendo que esta falta de verificação não constitui motivo para anulação da venda. As áreas indicadas do imóvel são baseadas na descrição/caderneta predial, pelo que existindo quaisquer divergências com as áreas reais, será da responsabilidade do adquirente a sua eventual correcção.\r\n\r\nAdvertem-se os interessados que não foi possível concretizar a notificação de eventuais confinantes, pelo que poderão estes vir a exercer, mais tarde, o direito de preferência.\r\n\r\nFoi constituída fiel depositário a executada Maria dos Santos Melo Rebola, tendo sido informada dos deveres inerentes à função, designadamente o dever de administrar o bem, o dever de prestar contas e o dever de apresentação do bem quando lhe for solicitado, nos termos do disposto nos Art.s 760º e 771º do CPC.\r\n\r\nO regime de visitas passa pelo agendamento prévio com o fiel depositário, através do contacto que consta no respectivo campo das visitas.\r\n\r\nO valor mínimo é o constante do campo «VALOR MÍNIMO» e não o valor de abertura.\r\n\r\nEncerrado o Leilão e aceite a proposta, oportunamente, o proponente é notificado para depositar o preço oferecido, impreterivelmente, num prazo de 15 dias (artigo 824º n.º 2 do Código de Processo Civil).\r\n\r\n A adjudicação final deste bem pode vir a ser prejudicada por via do exercício do direito de remição, preferência, ou outro direito aplicável, nos termos legais.\r\n\r\nTodos os pedidos de informação deverão ser remetidos para: fernanda.jorge-5246c@adv.oa.pt",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 6890,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.27219149074575,
+    "lng": -8.642807006835938
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,15 @@
     "valor_minimo": 7660.2,
     "licitacao_atual": 4507,
     "data_inicio": "2026-07-29T12:55:08",
-    "data_fim": "2026-10-27T14:30:00"
+    "data_fim": "2026-10-27T14:30:00",
+    "valor_abertura": 4506,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Não são conhecidos outros, além dos constantes da descrição predial anexa."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

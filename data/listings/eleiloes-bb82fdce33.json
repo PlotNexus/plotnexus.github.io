@@ -5,21 +5,38 @@
   "price": 1117647.06,
   "currency": "EUR",
   "location": "Vila do Conde, Porto",
-  "bedrooms": null,
+  "bedrooms": 4,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174046_800sm.jpg",
+  "area_m2": 161.5,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174046_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174046_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174046_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174053_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174103_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174109_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174125_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174140_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174149_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174156_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174204_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174212_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174221_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174229_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174238_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174245_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128838/28082026174252_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano afeto a habitação, descrito como lote nº17, moradia com três pisos, tipologia T4, sita na Rua das Flores, nº185, em Azurara, confrontando a norte, sul e poente com Irmãos Borges, Lda. e a nascente com arruamento, descrita na Conservatória do Registo Predial de Vila do Conde, sob o nº434 e inscrita na respectiva matriz predial com o artº839, da Freguesia de Vila do Conde, com o valor patrimonial de 285.064,65 €, determinado no ano de 2024.\n\nA venda do prédio urbano, é feita em conjunto no presente processo, pela venda das duas metades indivisas pertencentes ao insolvente e à sua mulher, apreendidas em cada um dos respetivos processos de insolvência (Procº837/26.0T8STS, que corre termos no Juízo de Comércio de Santo Tirso-Juiz 7 e Procº1047/26.2T8STS, que corre termos no Juízo de Comércio de Santo Tirso-Juiz 1) garantindo deste modo, a transmissão de 100% do direito de propriedade sobre o prédio, livre de quaisquer ónus ou encargos.\r\nA moradia em venda, deve ser visitada por quem pretender apresentar propostas de aquisição, uma vez que a mesma é vendida no estado em que se encontra e sem quaisquer documentos, não havendo lugar neste tipo de vendas, a qualquer direito a reparação de defeitos e/ou outro tipo de responsabilidade por parte da massa insolvente, nomeadamente por áreas incorretas na certidão de registo predial e/ou caderneta predial.\r\nAssim sendo, os proponentes devem estar cientes de que as propostas que apresentarem, os vinculam e que a massa insolvente não tem qualquer tipo de responsabilidade.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 161.5,
+  "area_bruta_m2": 715,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.34872511,
+    "lng": -8.73538053
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +48,9 @@
     "valor_minimo": 950000,
     "licitacao_atual": 575756.45,
     "data_inicio": "2026-09-15T00:00:04",
-    "data_fim": "2026-10-13T10:00:00"
+    "data_fim": "2026-10-13T10:00:00",
+    "valor_abertura": 558823.53,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

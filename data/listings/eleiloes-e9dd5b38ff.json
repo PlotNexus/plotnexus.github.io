@@ -7,19 +7,32 @@
   "location": "Vila Nova de Foz Coa, Guarda",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162605_800sm.jpg",
+  "area_m2": 1695000,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162605_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162605_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162605_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162619_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162627_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162635_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162642_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162650_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162659_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162708_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162715_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162724_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_119015/01072025162731_800.jpg"
   ],
-  "description": null,
+  "description": "terreno rústico com cerca de 16.950m2, sito na Tapada da Parreira, com o artigo matricial rústico nº 1063 da freguesia de Almendra, concelho de Vila Nova de Foz Coa, distrito da Guarda e descrito na Conservatória do Registo Predial de Vila Nova de Foz Coa sob o nº1174\n\nos interessados deverão visitar préviamente o imóvel antes de apresentarem as suas propostas.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 1695000,
+  "area_bruta_m2": 1695000,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.992337919312305,
+    "lng": -7.0442962646484375
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +44,9 @@
     "valor_minimo": 18247.21,
     "licitacao_atual": 20000,
     "data_inicio": "2026-08-13T15:48:53",
-    "data_fim": "2026-10-13T14:30:00"
+    "data_fim": "2026-10-13T14:30:00",
+    "valor_abertura": 10733.65,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

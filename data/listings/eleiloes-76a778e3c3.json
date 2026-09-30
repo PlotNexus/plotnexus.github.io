@@ -7,19 +7,23 @@
   "location": "Ovar, Aveiro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111131/02102024142212_800sm.jpg",
+  "area_m2": 3100,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111131/02102024142212_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111131/02102024142212_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111131/02102024142212_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111131/02102024142223_800.jpg"
   ],
-  "description": null,
+  "description": "Verba 6 - Prédio rústico composto por cultura e pinhal, sito na Soalheira, a confrontar de norte com Serafim Pinho Reis, de sul com António Joaquim da Silva Ferreira, nascente com caminho e poente com rio, em S. Vicente Pereira, inscrito na matriz sob o art.º 3746 da União de Freguesias de Ovar, S. João, Arada e S. Vicente de Pereira, que proveio do art.º 1073 da extinta freguesia de S. Vicente de Pereira e descrito na CRP de Ovar sob o n.º 1185\n\nOs presentes autos consistem num processo de inventário que corre termos pelo Juízo Local Cível de Ovar e no qual o Agente de Execução desempenha as funções de Encarregado de Venda. \r\nOs valores base atribuídos aos imóveis em venda nestes autos têm por base o valor determinado por perícia aos mesmos.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 3100,
+  "area_bruta_m2": 3100,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.87060323,
+    "lng": -8.55472755
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,9 @@
     "valor_minimo": 27412.5,
     "licitacao_atual": 20000,
     "data_inicio": "2026-07-03T10:31:34",
-    "data_fim": "2026-10-01T14:30:00"
+    "data_fim": "2026-10-01T14:30:00",
+    "valor_abertura": 16125,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

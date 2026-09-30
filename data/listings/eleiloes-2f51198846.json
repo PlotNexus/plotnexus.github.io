@@ -7,19 +7,23 @@
   "location": "Mirandela, Bragança",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_96777/20042023161045_800sm.jpg",
+  "area_m2": 177.4,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_96777/20042023161045_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_96777/20042023161045_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_96777/20042023161045_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_96777/20042023161114_800.jpg"
   ],
-  "description": null,
+  "description": "35/490 do prédio urbano, correspondente a casa de habitação, sito na Rua S. Sebastião, no lugar e freguesia de Vale de Salgueiro, no concelho de Mirandela, inscrito na matriz predial urbana daquela freguesia sob o artigo 425º e descrito na Conservatória do Registo Predial de Mirandela na ficha 1128/20160613/Vale de Salgueiro.\n\nPrédio em ruínas.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 177.4,
+  "area_bruta_m2": 210.62,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.59094930967228,
+    "lng": -7.2353821992874146
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,9 @@
     "valor_minimo": 5397.5,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-21T11:35:08",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 3175,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

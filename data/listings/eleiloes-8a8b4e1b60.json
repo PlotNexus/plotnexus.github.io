@@ -7,19 +7,29 @@
   "location": "Santa Maria da Feira, Aveiro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124609/26022026164021_800sm.jpg",
+  "area_m2": 100,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124609/26022026164021_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124609/26022026164021_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124609/26022026164021_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124609/26022026164113_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124609/26022026164142_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124609/26022026164222_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124609/26022026164318_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124609/26022026164352_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124609/26022026164420_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124609/26022026164446_800.jpg"
   ],
-  "description": null,
+  "description": "Lote composto pelas verbas nºs 4 e 5, sendo que a verba 4 é um armazém e a verba 5 um terreno rustico.\r\n\r\nA Verba 4 é composta por um edifício amplo com acesso através de um logradouro frontal que confronta com a Rua Lapa de Cima, nº 65 e nas traseiras, encontra-se um terreno rústico com cerca de 170 m de comprimento e uma largura variável de 19 m na zona frontal e 10 m na zona posterior, denominado por verba 5.\r\nNeste terreno encontra-se implantado um armazém que funciona como oficina e zonas de arrumos. \r\nO armazém possui na zona frontal, uma zona destinada a receção e WC no R/C e sala de reuniões e escritórios no 1º piso. \r\nNa zona lateral do armazém existe uma zona técnica de mecânica, arrumos e WC.\r\nO imóvel encontra-se em razoável estado de conservação.\r\nLocaliza-se a cerca de 1,5 Km do centro de S. Paio de Oleiros, possuindo abastecimento de água, eletricidade, saneamento e telefone.\r\nApresenta boas acessibilidades rodoviárias, estando o nó de Esmoriz de acesso à A29 a cerca de 1,5 Km. \r\nO apeadeiro da Lapa da Linha do Vouga situa-se a cerca de 200 metros.\r\nO imóvel encontra-se a cerca de 6 Km do centro de Espinho.\n\nA venda realiza-se no âmbito de um processo de inventário/divisão de coisa comum.\r\n\r\nÉ da única e exclusiva responsabilidade do proponente a verificação do estado de conservação do bem imóvel, pelo que deverá assegurar-se que o mesmo corresponde às suas expectativas e se encontra nas condições desejadas. \r\nO imóvel em causa é vendido no estado físico e jurídico em que se encontra pelo que se alerta aos interessados na aquisição, que devem proceder à verificação prévia do mesmo antes da apresentação de qualquer proposta. \r\nA falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda e não poderá assim ser motivo invocável de nulidade de venda\r\n Após o fecho do leilão, o/a proponente da proposta mais elevada é notificado para, no prazo de 15 dias, proceder ao depósito do valor integral do preço oferecido, bem como dos impostos a que haja lugar. \r\nFica obrigado ao depósito do preço com as consequências previstas no artigo 825.º do Código de Processo Civil, nomeadamente por decisão do Juiz “o arresto em bens suficientes para garantir o valor em falta acrescido das custas e despesas, sem prejuízo de procedimento criminal e sendo aquele, simultaneamente, executado no próprio processo para pagamento daquele valor e acréscimos”\r\n\r\nTenha em atenção que existem vários procedimentos previstos na lei que podem ditar um desfecho diverso do expectável, a saber: \r\na) Exercício do direito de remissão; b) Exercício do direito de preferência; c) Insolvência do(s) executado(s); d) Pagamento da dívida ou acordo de pagamento; e) Eventual verificação de irregularidade que dita a invalidade da venda.\r\n\r\nAS VISITAS AO IMÓVEL SERÃO REALIZADAS NA TERÇA-FEIRA DA SEMANA ANTERIOR AO TÉRMINO DO LEILÃO, ENTRE AS 11H00 E AS 12H00.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 100,
+  "area_bruta_m2": 200,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.98175148,
+    "lng": -8.60344762
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,15 @@
     "valor_minimo": 150000,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-22T17:36:22",
-    "data_fim": "2026-11-24T14:30:00"
+    "data_fim": "2026-11-24T14:30:00",
+    "valor_abertura": 88235.3,
+    "onus": [
+      {
+        "tipo": "arrendamento",
+        "valor": 766.8,
+        "descricao": null
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

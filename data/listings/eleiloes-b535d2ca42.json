@@ -7,19 +7,28 @@
   "location": "Torres Novas, Santarém",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125173/19032026220502_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125173/19032026220502_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125173/19032026220502_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125173/19032026220502_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125173/19032026220454_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125173/19032026220500_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125173/19032026220504_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125173/19032026220507_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125173/19032026220509_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125173/19032026220515_800.jpg"
   ],
-  "description": null,
+  "description": "Lote de dois prédios rústicos compostos de Cultura arvense e oliveiras, sitos em LAMEIRANCHA, ambos da freguesia de Parceiros de Igreja, concelho de Torres Novas e distrito de Santarém, um inscrito na matriz com o n.º 194, Secção G e descrito na Conservatória do Registo Predial de Torres Novas, sob o número 1421/20040813; e o segundo prédio inscrito na matriz com o\r\nn.º 195, Secção G e descrito na Conservatória do Registo Predial de Torres Novas, sob o número 510/19910315.\n\nO bem é vendido no estado em que se encontra, pelo que os interessados devem proceder à verificação prévia do estado do bem.\r\nCabe aos interessados o dever de se informarem juridicamente sobre as circunstâncias dos bens/ direitos a serem adquiridos, recorrendo para o efeito (caso assim o entendam), a consulta jurídica a profissional devidamente habilitado. Com a apresentação de proposta, presume-se que o interessado tenha inspecionado o bem/ direito ou conheça todas as atuais caraterísticas do mesmo ou do direito a adquirir, bem como todos os outros aspetos que considere relevantes, declinando-se qualquer responsabilidade do AE pelo estado de conservação do bem ou pela falta de verificação do proponente de outros aspetos relevantes à presente venda. A falta de verificação por parte do proponente, não determina, nos termos legais a anulação da venda. \r\n\r\nO valor patrimonial e as áreas correspondem à soma das duas verbas.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 12720,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.438463388907174,
+    "lng": -8.624632358551025
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +40,9 @@
     "valor_minimo": 29192.4,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-24T16:29:16",
-    "data_fim": "2026-11-03T14:30:00"
+    "data_fim": "2026-11-03T14:30:00",
+    "valor_abertura": 17172,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

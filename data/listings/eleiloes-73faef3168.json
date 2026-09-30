@@ -5,21 +5,40 @@
   "price": 100000,
   "currency": "EUR",
   "location": "Ílhavo, Aveiro",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110818_800sm.jpg",
+  "area_m2": 129,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110818_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110818_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110818_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110816_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110820_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110821_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110823_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110825_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110827_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110828_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110830_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110832_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110834_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110836_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110838_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110840_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110842_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110844_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128861/01092026110846_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano destinado a habitação, sito na Rua da Esperança, n.º 14, em Ílhavo, inscrito na matriz urbana sob o artigo 180 da freguesia de Ílhavo (São Salvador) e descrita na Conservatória do Registo Predial de Ílhavo sob o n.º 10810/20050503 da dita freguesia de Ílhavo (São Salvador).",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 129,
+  "area_bruta_m2": 495,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.59385157,
+    "lng": -8.65489524
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +50,9 @@
     "valor_minimo": 85000,
     "licitacao_atual": 55231.11,
     "data_inicio": "2026-09-11T00:00:03",
-    "data_fim": "2026-10-06T10:30:00"
+    "data_fim": "2026-10-06T10:30:00",
+    "valor_abertura": 50000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

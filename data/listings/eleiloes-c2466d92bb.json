@@ -5,21 +5,28 @@
   "price": 44818.84,
   "currency": "EUR",
   "location": "Santa Maria da Feira, Aveiro",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128878/02092026121818_800sm.jpg",
+  "area_m2": 95.9,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128878/02092026121818_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128878/02092026121818_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128878/02092026121818_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128878/02092026121826_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128878/02092026123457_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128878/02092026123504_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128878/02092026123538_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 da fracção autónoma designada pela letra \"V\", 2º Andar recuado, do prédio urbano, sito na Rua Joaquim Aires Lopes, nº 267,  habitação nº 24, da freguesia de Escapães, do concelho de Santa Maria da Feira, descrito na Conservatória de Santa Maria da Feira na ficha n.º 808/19980320 e inscrito na respectiva matriz predial urbana sob o artigo 1442.º.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 95.9,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.92319955,
+    "lng": -8.51806935
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 38096.01,
     "licitacao_atual": 38476.97,
     "data_inicio": "2026-09-16T00:00:00",
-    "data_fim": "2026-10-13T10:00:00"
+    "data_fim": "2026-10-13T10:00:00",
+    "valor_abertura": 22409.42,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

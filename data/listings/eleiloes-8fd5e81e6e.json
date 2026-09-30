@@ -7,19 +7,27 @@
   "location": "Oliveira do Hospital, Coimbra",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114304/17012025155449_800sm.jpg",
+  "area_m2": 71.205,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114304/17012025155449_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114304/17012025155449_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114304/17012025155449_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114304/17012025155456_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114304/17012025155458_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114304/17012025155459_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114304/17012025155501_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114304/17012025155503_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano correspondente a Armazéns de atividade industrial com 1 piso, sito na Quinta da Cobrançã, freguesia de Oliveira do Hospital, Concelho de Oliveira do Hospital, descrito na Conservatória do Registo Predial de Oliveira do Hospital sob o n.º 2377/20191122 e inscrito na matriz daquela freguesia sob o n.º 2086.\n\nO imóvel é vendido no estado físico e jurídico em que se encontra e a eventual regularização das áreas ou legalização do imóvel é responsabilidade do adquirente\r\na) Regime de visitas: Qualquer data e horário, em virtude do imóvel estar devoluto;\r\nb) Com a apresentação da proposta, presume-se que os interessados tenham inspecionado o imóvel e conhecem as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação, assim como, qualquer descrição incorreta da informação que possa induzir em erro, devendo ainda o interessado inteirar-se junto das entidades competentes das demais características, licenças e/ou outros aspetos que considerem relevantes. A sua não verificação não é fundamento para anulação da venda. \r\nc) Advertem-se ainda os potenciais interessados que os bens que se encontram no interior do imóvel não fazem parte do objecto negociável. \r\nd) Deverão igualmente, ter em consideração que, atendendo às especificidades da venda e ao facto de o bem não ser entregue no momento da conclusão do leilão, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao fiel depositário. \r\ne) Todos os custos inerentes ao registo de aquisição serão suportados pelo adquirente; \r\nf) A presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que, nos termos das mesmas disposições legais, constitui ónus do adquirente a respetiva legalização dos imóveis, se for caso disso; \r\ng) Na ausência dos pagamentos nos prazos estipulados, será considerada desistência e consequente denúncia no portal “e-leilões.pt”, assim como serão tomadas as medidas previstas no art.º 825º do Código do Processo Civil;\r\nh) Cabe aos interessados o dever de se informarem juridicamente sobre as circunstâncias do(s) bem(ns) a ser(em) adquirido(s), recorrendo para o efeito (caso assim o entendam), a consulta jurídica a profissional devidamente habilitado – jurista, solicitador ou advogado – uma vez que o ora signatário, enquanto titular do processo, não presta aconselhamento jurídico.\r\n\r\nPARA VISITAR O LOCAL (verificar al. a)) utilizar as coordenadas google 40.360759, -7.868622.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 71.205,
+  "area_bruta_m2": 194.5,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.36052517707598,
+    "lng": -7.868657112121581
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +39,9 @@
     "valor_minimo": 11231,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-13T15:20:27",
-    "data_fim": "2026-10-13T14:30:00"
+    "data_fim": "2026-10-13T14:30:00",
+    "valor_abertura": 6606.47,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,33 @@
   "location": "Aveiro, Aveiro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233651_800sm.jpg",
+  "area_m2": 92,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233651_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233651_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233651_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233643_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233647_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233655_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233658_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233701_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233704_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233708_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233712_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233715_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233723_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124661/01032026233728_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, totalmente murado, atualmente corresponde às ruínas de uma habitação composta de propriedade total sem andares, nem divisões, sita na Estrada Nova do Canal, na cidade de Aveiro, com área total de 900,0000 m², a confrontar do norte com Estrada, do sul com Herdeiros de Jaime de Morais Sarmento, do Nascente com Vários e do Poente com Dr. André dos Reis, com o VPA de €71.661,21, inscrito na matriz predial urbana da freguesia de Esgueira sob o artigo 542.º, corresponde ao antigo artigo urbano 1018.º da freguesia de Esgueira por renumeração da freguesia de Esgueira e omisso na descrição predial, conforme certidão negativa anexa.\n\nA presente venda judicial é realizada no âmbito de processo de inventário e segue os trâmites da venda em ação executiva.\r\nCoordenadas de localização do imóvel: 40.648080938935834, -8.642598613983893.\r\nO imóvel está inserido em zona habitacional tranquila, com boa localização e com bons acessos.\r\nRelativamente à avaliação do terreno e respetiva capacidade edificativa os interessados poderão consultar o relatório anexo, mormente da página 1 à página 28.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 92,
+  "area_bruta_m2": 900,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.64825597436032,
+    "lng": -8.642887473106384
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +45,9 @@
     "valor_minimo": 425000,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-26T15:10:23",
-    "data_fim": "2026-11-24T14:30:00"
+    "data_fim": "2026-11-24T14:30:00",
+    "valor_abertura": 250000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

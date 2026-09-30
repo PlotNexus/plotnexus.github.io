@@ -5,21 +5,42 @@
   "price": 260000,
   "currency": "EUR",
   "location": "Caldas da Rainha, Leiria",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155431_800sm.jpg",
+  "area_m2": 604,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155431_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155431_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155431_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155334_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155609_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155621_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155635_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155659_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155710_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155731_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155757_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155817_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026155917_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026160041_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026160045_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026160048_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026160056_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026160101_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026160106_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026160159_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127606/19062026160210_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano destinado à habitação, composto por cave, r/c com 4 divisões, cozinha e casa de banho e anexo, sito em Venda da Costa, Alvorninha, Caldas da Rainha, inscrito na matriz predial urbana da freguesia de Alvorninha sob o artigo n.º 2071 e descrito na CRP de Caldas da Rainha sob o n.º 3851 da referida freguesia.\r\nPrédio urbano destinado a armazéns e actividade industrial, sito na Rua do Mercado, Venda da Costa, Alvorninha, Caldas da Rainha, inscrito na matriz predial urbana da freguesia de Alvorninha sob o artigo n.º 3661 e descrito na CRP de Caldas da Rainha sob o n.º 4632 da referida freguesia\n\nSeão facultadas outras fotografias aos interessados.\r\nOs imóves são vendidos em lote no estado fisico e juridico em que se encontram.\r\nOs interessados deverão visitar o imóvel para se inteirarem das condições fisicas do imóvel.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 604,
+  "area_bruta_m2": 2843,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.37785135,
+    "lng": -8.98940045
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +52,9 @@
     "valor_minimo": 221000,
     "licitacao_atual": 130000,
     "data_inicio": "2026-09-02T15:18:14",
-    "data_fim": "2026-11-03T14:30:00"
+    "data_fim": "2026-11-03T14:30:00",
+    "valor_abertura": 130000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

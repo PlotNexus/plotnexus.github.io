@@ -5,21 +5,30 @@
   "price": 125000,
   "currency": "EUR",
   "location": "Montemor-o-Velho, Coimbra",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66419/04122020173759_800sm.jpg",
+  "area_m2": 128.5,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66419/04122020173759_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66419/04122020173759_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66419/04122020173759_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66419/04122020173823_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66419/04122020174011_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66419/04122020174016_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66419/04122020174028_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66419/04122020174031_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66419/04122020174038_800.jpg"
   ],
-  "description": null,
+  "description": "Fração autónoma designada pela letra «F», correspondente ao primeiro andar direito, tipologia T-3, destinado a habitação, com área bruta de 163,20 m2, área útil de 128,50 m2, composto de sala comum, três quartos, cozinha, duas instalações sanitárias e arrumo n.º 2 no sótão, do prédio urbano em regime de propriedade horizontal sito em Alhastro, da freguesia de Carapinheira, concelho de Montemor-o-Velho, descrito na Conservatória dos Registos Civil, Predial, Comercial e Automóveis de Montemor-o-Velho sob o n.º 1279 - «F» e inscrito na matriz predial urbana sob o art.º. 2046 - «F» da mencionada freguesia.\n\nA  habitação encontra-se em razoável estado de conservação, necessitando de obras ao nível de pintura; Está localizado no centro da localidade e bem servido de transportes públicos e equipamentos escolares.\r\nÉ da exclusiva responsabilidade dos proponentes a verificação do estado de conservação do imóvel. \r\nAs visitas ao imóvel devem ser agendadas com a fiel depositária.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 128.5,
+  "area_bruta_m2": 163.2,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.20546773,
+    "lng": -8.65042924
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +40,9 @@
     "valor_minimo": 106250,
     "licitacao_atual": 116200,
     "data_inicio": "2026-07-06T15:52:35",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 62500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

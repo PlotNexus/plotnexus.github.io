@@ -7,19 +7,41 @@
   "location": "Porto, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026095941_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026095941_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026095941_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026095941_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093414_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093417_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093422_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093424_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093427_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093429_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093431_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093433_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093436_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093439_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093444_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093446_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093452_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093454_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093457_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093500_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093504_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026093512_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129211/18092026095936_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, sito na Rua de Gondim, freguesia de Campanhã, concelho do Porto, inscrito na matriz sob o artigo 49 de Campanhã, descrito na Conservatória do Registo Predial sob o n.º 7840, com área total de 1.935,41m2.\n\nNo prédio rústico encontram-se instalados um armazém com área de implantação no terreno de 1.065,00m2, um escritório com área de implantação no terreno de 89,50m2 e caminho de acesso com área de implantação de 425,00m2.\r\n\r\nA presente venda é efetuada em processo de Divisão de Coisa Comum.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 1935.41,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.15412832,
+    "lng": -8.58712059
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 425000,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-30T00:00:02",
-    "data_fim": "2026-10-20T10:30:00"
+    "data_fim": "2026-10-20T10:30:00",
+    "valor_abertura": 250000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

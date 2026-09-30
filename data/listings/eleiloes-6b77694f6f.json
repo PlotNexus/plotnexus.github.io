@@ -7,19 +7,27 @@
   "location": "Loures, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127054/25052026160552_800sm.jpg",
+  "area_m2": 158.4,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127054/25052026160552_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127054/25052026160552_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127054/25052026160552_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127054/25052026160508_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127054/25052026160513_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127054/25052026160534_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127054/25052026160541_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127054/25052026160546_800.jpg"
   ],
-  "description": null,
+  "description": "Fracção Autónoma designada pela letra C, que corresponde à cave - Loja 3, do prédio urbano sito em Praceta das Urmeiras, n.º1, no lugar, freguesia e concelho de Loures. Esta fracção encontra-se inscrita na matriz predial sob o artigo 7533 da freguesia de Loures e descrita na 1.ª Conservatória do Registo Predial de Loures sob o número 1615/Loures.\n\nA loja encontra-se totalmente fechada a tijolo e está pintada da mesma cor que o prédio, não sendo visível na rua.\r\nO acesso à loja faz-se pela loja nº2 que serve de armazém à loja 1, tendo sido o proprietário desta a mostrar e dar acesso à loja 3.\r\nA loja encontra-se em muito mau estado de conservação.\r\nAntes de apresentarem as suas propostas, os eventuais interessados devem inteirar-se das qualidades e características e outros aspetos que considerem relevantes, do bem. A não verificação não é fundamento para a desistência/anulação do procedimento de venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 158.4,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.8268743,
+    "lng": -9.17570477
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +39,9 @@
     "valor_minimo": 86985.46,
     "licitacao_atual": 66000,
     "data_inicio": "2026-09-17T11:20:35",
-    "data_fim": "2026-12-16T14:30:00"
+    "data_fim": "2026-12-16T14:30:00",
+    "valor_abertura": 51167.92,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

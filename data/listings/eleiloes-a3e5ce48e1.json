@@ -7,19 +7,25 @@
   "location": "Santa Cruz da Graciosa, Ilha da Graciosa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98406/30062023182607_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98406/30062023182607_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98406/30062023182607_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98406/30062023182607_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98406/30062023182610_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98406/30062023182612_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_98406/30062023182615_800.jpg"
   ],
-  "description": null,
+  "description": "-½ do Prédio Rústico, sito na Canada do Poço das Courelas, com artigo matricial 468, Concelho de Santa Cruz da Graciosa, Freguesia Guadalupe descrito na Conservatória do Registo Predial de Santa Cruz da Graciosa sob o número 2366/ Guadalupe, daquela freguesia e concelho;\n\nDeverá ter em consideração as coordenadas da caderneta, uma vez que pelo código postal não é possível chegar a localização da Rua.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 3872,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.0558877,
+    "lng": -28.05033823
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 15451,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-09T13:04:10",
-    "data_fim": "2026-10-27T14:30:00"
+    "data_fim": "2026-10-27T14:30:00",
+    "valor_abertura": 9088.83,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -5,21 +5,43 @@
   "price": 237000,
   "currency": "EUR",
   "location": "Odemira, Beja",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185502_800sm.jpg",
+  "area_m2": 110.21,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185502_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185502_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185502_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185500_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185504_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185508_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185510_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185514_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185518_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185520_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185522_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185526_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185528_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185531_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185533_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185535_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185537_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185539_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185541_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185543_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185545_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125518/03042026185547_800.jpg"
   ],
-  "description": null,
+  "description": "Urbano destinado a habitação com tipologia T2 composto por 2 pisos, descrito na Conservatória do Registo Predial de Odemira,\r\nsob o número 4340, freguesia de S.Teotónio, inscrito actualmente\r\nna matriz predial urbana sob o artigo nº4928 C, o qual proveio do artigo 7356 C\r\nda extinta freguesia.\n\nA saber\r\nvenda realiza-se no âmbito de um processo de Divisão de coisa comum.\r\na)Com a apresentação da proposta, presume-se que o interessado tenha inspeccionado os imóveis e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação;\r\nb)A presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que constitui ónus do adquirente a respectiva legalização dos imóveis, se for caso disso;\r\nc) O titulo de transmissão apenas será realizado com o apresentante da proposta e não com terceiros que este possa vir a indicar;",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 110.21,
+  "area_bruta_m2": 110.21,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.5116236935651,
+    "lng": -8.711112141609192
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 201450,
     "licitacao_atual": 119000.01,
     "data_inicio": "2026-09-02T15:33:14",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 118500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

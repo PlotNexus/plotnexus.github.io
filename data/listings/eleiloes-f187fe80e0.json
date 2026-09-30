@@ -7,19 +7,22 @@
   "location": "Vale de Cambra, Aveiro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_69581/14042021155531_800sm.jpg",
+  "area_m2": 3375,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_69581/14042021155531_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_69581/14042021155531_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_69581/14042021155531_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico com 3375m2 situado em Função , freguesia de Rôge , composto por terra de cultura e pinhal .Confronta a Norte com José Tavares da Silva e outro, a Sul com Manuel Barbosa Tavares e outro, a nascente com Alberto Fernandes e outro e a Poente com caminho.\r\nEncontra-se descrito na Conservatória de Vale de Cambra pelo nº 376/19920323 e inscrito na matriz pelo artigo rústico 2592 da freguesia de Rôje, concelho de Vale de cambra.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 3375,
+  "area_bruta_m2": 3375,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.851734958237735,
+    "lng": -8.333215713500977
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 8500,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-11T16:38:57",
-    "data_fim": "2026-11-10T14:30:00"
+    "data_fim": "2026-11-10T14:30:00",
+    "valor_abertura": 5000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,26 @@
   "location": "Vila de Rei, Castelo Branco",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108810/07062024125920_800sm.jpg",
+  "area_m2": 28,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108810/07062024125920_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108810/07062024125920_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108810/07062024125920_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108810/07062024125931_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108810/07062024125938_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108810/07062024125945_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108810/07062024130022_800.jpg"
   ],
-  "description": null,
+  "description": "Quota parte de 1/7, propriedade do executado, do prédio urbano sito em Relva, descrito na Conservatória do Registo Predial de Vila de Rei sob o n.º 16719 da freguesia e concelho de Vila Rei, inscrito na respetiva matriz sob o art.º 282.\n\nComposição do imóvel: \r\ncasa em ruínas, estando apenas algumas parede em pé, conforme fotos.\r\n\r\nLocalização do bem imóvel: 39.71085553791672,-8.111276020833381586560719304478 (coordenadas indicadas na caderneta predial) - a localização constante no mapa é apenas indicativa da zona.\r\n\r\nO imóvel, não estando fechado, pode ser visitado a qualquer momento, sem necessidade de contacto prévio. \r\n\r\nRecomendação geral - leilões eletrónicos - previamente à apresentação de proposta, deve visitar o bem imóvel, uma vez que este é vendido no estado em que se encontra. \r\n\r\nApós apresentada proposta, a mesma não pode ser retirada. \r\n\r\nÉ OBRIGATÓRIO o depósito do preço no prazo de quinze dias. Não sendo depositado o preço no referido prazo, a Agente de Execução poderá promover, com autorização judicial prévia, o arresto dos bens do proponente que vença o leilão e não proceda ao depósito do preço - ler atentamente o disposto no artigo 825º, n.º 1 al. c) do Código de Processo Civil.\r\n\r\nNegociação particular - Importante - O prazo para a conclusão da negociação particular é meramente indicativo, ou seja, a negociação particular poderá ser concluído antes do prazo indicado pelo site e-leiloes. \r\nManifeste o seu interesse, mediante a apresentação de proposta, no imediato (é inútil aguardar pelos últimos dias, uma vez que a negociação particular até pode concluir-se antes, caso seja apresentada proposta de valor superior ao valor a anunciar para a venda).",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 28,
+  "area_bruta_m2": 28,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.70956373965779,
+    "lng": -8.113124370574951
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 607.15,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-07T15:39:33",
-    "data_fim": "2026-11-10T14:30:00"
+    "data_fim": "2026-11-10T14:30:00",
+    "valor_abertura": 357.15,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

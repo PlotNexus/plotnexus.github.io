@@ -7,19 +7,25 @@
   "location": "Vila Nova de Gaia, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113281/06122024134700_800sm.jpg",
+  "area_m2": 6400,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113281/06122024134700_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113281/06122024134700_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113281/06122024134700_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113281/06122024134702_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113281/06122024134704_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113281/06122024134706_800.jpg"
   ],
-  "description": null,
+  "description": "artigo rústico, sito na Travessa das Bocas, da freguesia de Pedroso, concelho de Vila Nova de Gaia, inscrito na matriz sob o art. 5978.\n\nSendo da inteira responsabilidade dos proponentes a verificação do estado de conservação dos bens, objeto da presente venda, devendo por conseguinte, antes de apresentar a sua proposta, assegurar-se que tal bem corresponde de facto às suas expectativas e que o mesmo se encontra no estado pretendido, uma vez que o mesmo será vendido no estado em que se encontra. A falta de verificação não determinará a anulação da venda, nos termos legais. AS VISITAS SERÃO AGENDADAS PARA A SEMANA ANTERIOR AO DIA DO FIM DO LEILÃO, PELO QUE OS INTERESSADOS DEVERÃO ENTRAR EM CONTACTO POR TELEFONE OU E-MAIL COM O AGENTE DE EXECUÇÃO (966898066/4395@solicitador.net). - A venda ocorre em sede de processo de divisão de coisa comum.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 6400,
+  "area_bruta_m2": 6400,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.05280404,
+    "lng": -8.54150524
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 51000,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-17T11:29:01",
-    "data_fim": "2026-10-20T14:30:00"
+    "data_fim": "2026-10-20T14:30:00",
+    "valor_abertura": 30000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -5,21 +5,42 @@
   "price": 94117.65,
   "currency": "EUR",
   "location": "Funchal, Ilha da Madeira",
-  "bedrooms": null,
+  "bedrooms": 1,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/15022023144115_800sm.jpg",
+  "area_m2": 85.6,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/15022023144115_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/15022023144115_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/15022023144115_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/15022023144113_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/15022023144117_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/15022023144118_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123730_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123732_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123733_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123735_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123737_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123739_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123740_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123742_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123743_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123745_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123747_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123748_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123750_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123752_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94441/14042024123754_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio misto situado em Trapiche, Vereda do Boliqueime, n.º 11-A, 9020-264 Funchal, composto por terra de cultivo e casa térrea, descrito na Conservatória do Registo Predial de Funchal sob o n.º 5251, da freguesia de Santo António, inscrito na matriz predial urbana pelo artigo 1179 e na matriz predial rústica pelo artigo 49 secção Y.\n\nO imóvel encontra-se em mau estado de conservação, necessitando de obras profundas de beneficiação/conservação. Os interessados deverão aferir cabalmente das características do imóvel, uma vez que qualquer desconformidade a este nível não poderá ser invocado para efeitos de anulação da venda. O regime de visitas passa pelo prévio agendamento com o agente de execução o qual tentará agilizar com o Ilustre Mandatário do executado, fiel depositário do bem, o dia e hora para as visitas.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 85.6,
+  "area_bruta_m2": 200,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 32.67961183,
+    "lng": -16.94743671
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +52,9 @@
     "valor_minimo": 80000,
     "licitacao_atual": 47150.01,
     "data_inicio": "2026-08-11T17:36:35",
-    "data_fim": "2026-10-13T14:30:00"
+    "data_fim": "2026-10-13T14:30:00",
+    "valor_abertura": 47058.83,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

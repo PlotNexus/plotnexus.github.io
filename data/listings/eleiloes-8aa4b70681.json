@@ -5,21 +5,24 @@
   "price": 18420.15,
   "currency": "EUR",
   "location": "Beja, Beja",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127033/22052026171209_800sm.jpg",
+  "area_m2": 70,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127033/22052026171209_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127033/22052026171209_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127033/22052026171209_800.jpg"
   ],
-  "description": null,
+  "description": "DIREITO A 1/4 INDIVISO sobre o prédio urbano, descrito sob o n.º 236, junto da Conservatória do Registo Predial de Beja, freguesia de Santa Clara de Louredo, inscrito na matriz predial urbana sob o artigo 516, da freguesia de Santa Clara de Louredo, sito em Rua Nova da Fonte, nº 10, composto por rés-do-chão.\n\n- ESTADO DE CONSERVAÇÃO: O estado de conservação do imóvel é razoável. \r\n- FOTOS: Não foi autorizada a recolha de fotos do interior.\r\n- VERIFICAÇÃO DO BEM:  A venda dos bens é concretizada no estado físico, jurídico e documental em que se encontram. É da única e exclusiva responsabilidade do proponente a verificação do estado dos bens ou direitos a adquirir pelo que deverá antes de apresentar proposta assegurar-se se os mesmos, correspondem às suas expectativas e se se encontram nas condições pretendidas. Com a apresentação da proposta, presume-se que o interessado tenha inspecionado os bens/ direitos, tendo tido absoluto conhecimento das suas características. A falta de verificação das características e estado dos bens/ direitos não determina legalmente a anulação da venda. As áreas indicadas servem apenas como referência pois não foram feitas medições exatas no local. É da única e exclusiva responsabilidade dos proponentes a verificação do estado do bem a adquirir pelo que deverá assegurar-se que o mesmo corresponde às suas expectativas e que se encontra nas condições pretendidas. A não verificação não é fundamento para anulação do procedimento de venda. \r\n- ENCARGOS COM A COMPRA E VENDA: Venda sujeita a IMT e Imposto de selo (se aplicáveis nos termos dos respetivos códigos).\r\n- VISITAS: As visitas serão feitas mediante marcação via contacto telefónico com o fiel depositário, conforme disponibilidade daquele para o efeito e sempre com a antecedência de pelo menos 5 dias úteis antes da data designada como fim do leilão.\r\n- OUTRAS INFORMAÇÕES: O imóvel encontra-se habitado pelo fiel depositário e o seu agregado familiar.\r\n- NOTA: Não se trata da venda total do imóvel, mas sim do direito a 1/4 indiviso.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 70,
+  "area_bruta_m2": 70,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.970294640388985,
+    "lng": -7.871910631656646
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 15657.13,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-09T16:41:41",
-    "data_fim": "2026-12-09T14:30:00"
+    "data_fim": "2026-12-09T14:30:00",
+    "valor_abertura": 9210.08,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

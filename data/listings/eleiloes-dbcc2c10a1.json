@@ -7,19 +7,26 @@
   "location": "Loulé, Faro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109629/09072024151531_800sm.jpg",
+  "area_m2": 15,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109629/09072024151531_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109629/09072024151531_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109629/09072024151531_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109629/09072024151533_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109629/09072024151535_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109629/09072024151537_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109629/09072024151541_800.jpg"
   ],
-  "description": null,
+  "description": "Fracção autónoma designada pela letra \"Q\", rés do chão - destinada a comércio - loja - porta nº 15 - uma divisão e instalação sanitária - 15 m2, do prédio urbano constituído em regime de propriedade horizontal, denominado Lote nº 3, do Sector 1A, sito em Vilamoura, freguesia de Quarteira, concelho de Loulé, inscrito na matriz urbana sob o artigo 8685, descrito na Conservatória do Registo Predial de Loulé com o nº 4107 - freguesia Quarteira\n\nDe acordo com a descrição predial genérica, a fracção tem o lugar de estacionamento com o nº 38, mas a executada informou que trocou \"verbalmente\" o mesmo pelo lugar nº 54, passando a utilizar este último. Alerta-se que não há conhecimento de qualquer título que legitime/fundamente esta troca.\r\nApesar de a descrição predial indicar que a fração possui instalação sanitária, isso não se verifica estando a ser utilizada como arrecadação.\r\nAdverte-se que:\r\nCabe exclusivamente ao proponente a responsabilidade de verificar se o estado e as características do bem a adquirir correspondem às suas expectativas, o que deverá efectuar antes da apresentação da proposta; AS PROPOSTAS DEVEM SER APRESENTADAS EXCLUSIVAMENTE ATRAVÉS DESTA PLATAFORMA, NÃO SENDO CONSIDERADAS AS OFERECIDAS POR OUTRO MEIO.\r\nAconselha-se a prévia leitura atenta das regras e faq's disponíveis em https://www.e-leiloes.pt/regras.aspx e https://www.e-leiloes.pt/faqs.aspx.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 15,
+  "area_bruta_m2": 15,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.07444229,
+    "lng": -8.11624615
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 45900,
     "licitacao_atual": 30000,
     "data_inicio": "2026-09-07T10:41:36",
-    "data_fim": "2026-12-09T14:30:00"
+    "data_fim": "2026-12-09T14:30:00",
+    "valor_abertura": 27000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

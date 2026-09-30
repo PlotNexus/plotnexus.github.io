@@ -7,19 +7,24 @@
   "location": "Penedono, Viseu",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64264/28102020192213_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64264/28102020192213_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64264/28102020192213_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64264/28102020192213_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64264/28102020192217_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64264/28102020192221_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico composto por terra de sequeiro, situado em Relva, inscrito na matriz rústica sob o número 155 da freguesia de Castainço, concelho de Penedono e descrito na Conservatória do Registo Predial de Penedono sob o número 638 da freguesia de Castainço.\n\nEncontra-se inscrita pela Ap. 1914 de 2012/10/30  uma hipoteca a favor do Banco Santander Totta, S.A.. Notificado o banco, nos termos do artigo 786, n.º 1 al. b), para querendo, reclamar créditos não o fez.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 7600,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.99661357564705,
+    "lng": -7.450876235961913
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 21250,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-15T15:47:08",
-    "data_fim": "2026-11-17T14:30:00"
+    "data_fim": "2026-11-17T14:30:00",
+    "valor_abertura": 12500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

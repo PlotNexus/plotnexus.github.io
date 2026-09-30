@@ -7,19 +7,35 @@
   "location": "Góis, Coimbra",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162233_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162233_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162233_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162233_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162212_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162213_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162215_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162217_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162218_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162220_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162222_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162223_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162225_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162227_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162228_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162230_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109566/07072024162232_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico sito Pereirinho, Freguesia e Concelho de Góis, inscrito na respectiva matriz sob o artigo 8631 e descrito na Conservatória do Registo Predial de Góis sob o n.º 9049. \r\nCom 310 m2, descrito como \"pastagem\". \r\nConfronta de Nascente com Estrada e Poente com caminho.\n\nO prédio rústico encontra-se a 1 minuto de carro da localidade de Ponte do Sótão (da freguesia e concelho de Góis). Na mesma encontram-se localizados vários cafés, mini-mercado, zona de praia fluvial, etc. Fica a 11 minutos de carro da sede de concelho (Góis), onde podem ser encontrados os mais variados serviços e comércio (supermercado, CTT, finanças, bancos, vários cafés e restaurantes, biblioteca, escolas, ginásio, centro de saúde, bares, papelarias/tabacarias, etc) parques/espaços verdes , bem como várias praias fluviais.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 310,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.14477261488589,
+    "lng": -8.14410924911499
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +47,9 @@
     "valor_minimo": 4700.5,
     "licitacao_atual": 2766,
     "data_inicio": "2026-07-08T12:58:44",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 2765,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

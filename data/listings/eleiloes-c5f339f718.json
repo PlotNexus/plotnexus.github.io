@@ -7,19 +7,34 @@
   "location": "Lamego, Viseu",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165438_800sm.jpg",
+  "area_m2": 78.5,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165438_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165438_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165438_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165405_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165408_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165411_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165415_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165418_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165421_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165425_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165429_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165432_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165435_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165441_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_34963/06122018165445_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano sito no lugar de Eido , Freguesia de Almacave , concelho de Lamego, composta de casa de R/C e andar, destinado a habitação  com área de 78.50m2, descrito na Conservatória de Registo Predial de Lamego sob o nº1472/Almacave , inscrito na matriz predial urbana sob artigo 1519º Lamego ( Almacave e Sé)\n\nO bem encontra-se em estado razoável de conservação na parte interior do imóvel.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 78.5,
+  "area_bruta_m2": 78.5,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.09409282491565,
+    "lng": -7.82673954963684
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +46,15 @@
     "valor_minimo": 59500,
     "licitacao_atual": 35100,
     "data_inicio": "2026-07-08T08:19:36",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 35000,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Não são conhecidos"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

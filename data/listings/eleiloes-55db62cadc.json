@@ -5,21 +5,34 @@
   "price": 40900,
   "currency": "EUR",
   "location": "Abrantes, Santarém",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026142948_800sm.jpg",
+  "area_m2": 68.2,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026142948_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026142948_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026142948_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026142950_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026142952_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026142953_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026142955_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026142957_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026142959_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026143001_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026143002_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026143004_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126449/06052026143006_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, correspondente a casa térrea com quintal , destinado a habitação, sito na Rua Nova do Pinhal, 71, Arreciadas, descrito na Conservatória do Registo Predial de Abrantes, sob o nº 814, da Freguesia São Miguel do Rio Torto, Concelho de Abrantes, e inscrito na respetiva matriz predial urbana sob o nº 933 da União das Freguesias de",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 68.2,
+  "area_bruta_m2": 68.2,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.41786211,
+    "lng": -8.1676306
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +44,9 @@
     "valor_minimo": 34765,
     "licitacao_atual": 39666.59,
     "data_inicio": "2026-09-12T00:00:04",
-    "data_fim": "2026-10-14T10:00:00"
+    "data_fim": "2026-10-14T10:00:00",
+    "valor_abertura": 20450,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

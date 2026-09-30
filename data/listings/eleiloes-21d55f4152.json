@@ -5,21 +5,43 @@
   "price": 700000,
   "currency": "EUR",
   "location": "Trofa, Porto",
-  "bedrooms": null,
+  "bedrooms": 5,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026170633_800sm.jpg",
+  "area_m2": 430,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026170633_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026170633_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026170633_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026170656_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026170744_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026170802_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171042_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171112_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171134_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171219_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171246_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171657_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171721_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171748_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171753_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171828_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171855_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171859_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171903_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171938_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026171942_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128968/07092026172005_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano composto de casa de rés-do-chão, andar, quintal com árvores de frutos, anexos, piscina com balneário de apoio com sauna/banho turco e court de ténis, destinado a habitação, com a área coberta de 270m2 e descoberta de 6820m2, sito na Rua S. Tomé e Príncipe, nº 171, inscrito na matriz predial urbana da União de freguesias de Bougado (São Martinho e Santiago), concelho da Trofa, sob o artigo 9387 e descrito na Conservatória do Registo Predial da Trofa, sobre o nº 2476 - São Martinho do Bougado.\n\nA moradia encontra-se em bom estado de conservação e está inserida numa zona habitacional, calma,  só existem moradias. Situa-se perto da Nacional 14 e Nacional 104, perto do Hospital da Trofa e de fácil acesso à auto-estrada. A presente descrição não dispensa a constatação presencial do estado de conservação do bem, sendo a agente de execução alheia a qualquer alteração das condições fisicas do imóvel. O imóvel é vendido no estado fisico, juridico e documental em que se encontra, pelo que se recomenda aos interessados antes de apresentar propostas devem proceder à verificação prévia do estado do bem. A falta desta  verificação por parte do proponente, não determina, nos termos legais, a anulação da venda. É da unica e exclusiva responsabilidade do proponente, a verificação do estado bem a adquirir e se o mesmo corresponde às suas expectativas. Os bens móveis não são parte integrante da venda. As visitas devem ser previamente agendadas com o fiel depositário",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 430,
+  "area_bruta_m2": 7090,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.34144801,
+    "lng": -8.52689849
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 595000,
     "licitacao_atual": 590000,
     "data_inicio": "2026-09-18T00:00:05",
-    "data_fim": "2026-10-13T10:30:00"
+    "data_fim": "2026-10-13T10:30:00",
+    "valor_abertura": 350000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

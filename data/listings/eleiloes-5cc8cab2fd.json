@@ -5,21 +5,31 @@
   "price": 200000,
   "currency": "EUR",
   "location": "Torre de Moncorvo, Bragança",
-  "bedrooms": null,
+  "bedrooms": 4,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78262/20112021125910_800sm.jpg",
+  "area_m2": 175,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78262/20112021125910_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78262/20112021125910_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78262/20112021125910_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78262/20112021125958_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78262/16062026170145_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78262/16062026170149_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78262/16062026170152_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78262/16062026170155_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78262/16062026170159_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78262/16062026170203_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano sito na Rua  Campo da Bola, s/ nº, Carvalhal, Felgar, descrito na Conservatória do registo Predial de Torre de Moncorvo com o nº1203 e inscrita na competente matriz da união de Freguesias de Felgar e Souto da Velha sob o art. 1520º.\r\nNão estão todos os acabamentos concluídos (escadas de acesso ao 2º piso, por ex.), existindo garagem autónoma. \r\nDesconhece-se existência de licença de utilização, sendo incumbência dos proponentes verificarem esse facto pelos motivos expostos em \"Observações\".\r\nNão serão tidas em consideração proposta abaixo de 75% do valor base (150.000,00€).\n\nO prédio é vendido nas suas actuais condições e estado, incluindo desconhecimento da licença de utilização, devendo os interessados visitá-la para aferir das mesmas, não sendo aceites quaisquer reclamações por não ir de encontro ás expectativas do adquirente",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 175,
+  "area_bruta_m2": 474,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.183797652680056,
+    "lng": -6.980609893798828
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,9 @@
     "valor_minimo": 170000,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-27T11:41:01",
-    "data_fim": "2026-11-26T14:30:00"
+    "data_fim": "2026-11-26T14:30:00",
+    "valor_abertura": 100000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -5,21 +5,31 @@
   "price": 20580,
   "currency": "EUR",
   "location": "Serpa, Beja",
-  "bedrooms": null,
+  "bedrooms": 0,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106513/21032024142927_800sm.jpg",
+  "area_m2": 36,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106513/21032024142927_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106513/21032024142927_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106513/21032024142927_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106513/21032024142924_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106513/21032024142925_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106513/21032024142928_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106513/21032024142930_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106513/21032024142932_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106513/21032024142934_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_106513/21032024142938_800.jpg"
   ],
-  "description": null,
+  "description": "Quota-parte de 1/2 do Prédio URBANO - sito em Rua das Portelas, composto por casa de rés-do-chão e quintal - descrito na Conservatória do Registo Predial de Serpa sob o n.º 1489 da freguesia de Brinches, inscrito na matriz urbana sob o artigo n.º 319 da mesma freguesia, concelho de Serpa.\n\n* O comproprietário do imóvel, foi constituído fiel depositário do bem.\r\n* É da única e exclusiva responsabilidade do interessado a verificação do estado de conservação do bem a adquirir. Assim, antes de apresentar proposta de aquisição, o interessado deverá assegurar-se que o mesmo corresponde às suas expectativas e que se encontra nas condições pretendidas.\r\n* Ficam os interessados advertidos que o agente de execução agendará junto do fiel depositário, uma visita única ao bem, em data próxima do encerramento do presente leilão electrónico. Logo que seja designada a referida data e hora para a visita ao bem, a mesma será inserida/publicada junto da plataforma e-leilões, pelo que DEVERÃO EFECTUAR O LOGIN de acesso ao PORTAL e consultar o respectivo REGIME DE VISITAS.\r\nCom efeito, após o pagamento do preço (disponível o valor líquido na conta executados da titularidade do agente de execução) e satisfeitas as obrigações fiscais inerentes à transmissão, será emitido pelo signatário o respetivo título de transmissão.\r\nA venda poderá ser prejudicada, caso se verifique, entre outras, alguma das seguintes situações: \r\na)\texercício do direito de preferência;\r\nb)\texercício do direito de remissão (artigo 842º do CPC);\r\nc)\tpela regularização integral da dívida por parte do executado ou qualquer outra pessoa fazer cessar a execução (artigo 846º nº 1 do CPC).\r\nCabe aos interessados o dever de se informarem juridicamente sobre as circunstâncias do(s) bem(ns) a ser(em) adquirido(s), recorrendo para o efeito (caso assim o entendam), a consulta jurídica a profissional devidamente habilitado – jurista, solicitador ou advogado – uma vez que o ora signatário, enquanto titular do processo, não presta aconselhamento jurídico.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 36,
+  "area_bruta_m2": 42,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.03606716,
+    "lng": -7.60643753
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,15 @@
     "valor_minimo": 17493,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-23T09:12:44",
-    "data_fim": "2026-11-24T14:30:00"
+    "data_fim": "2026-11-24T14:30:00",
+    "valor_abertura": 10290,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "A venda incide apenas sobre a quota-parte de 1/2 do imóvel."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

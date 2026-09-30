@@ -7,19 +7,36 @@
   "location": "Guimarães, Braga",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162258_800sm.jpg",
+  "area_m2": 256,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162258_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162258_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162258_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162227_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162230_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162232_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162234_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162237_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162239_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162242_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162244_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162246_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162249_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162251_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162253_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162255_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127131/27052026162300_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Misto, sendo a parte URBANA, corresponde a Habitação - prédio em propriedade total sem andares nem divisões suscetíveis de Utilização Independente, R/C e em parte do 1º andar destinado a uma habitação e arrumos, com duas divisões e cozinha no R/C; 3 divisões no 1º andar e dependência e, a parte RÚSTICA corresponde ao Campo dos laranjais - cultura arvense de regadio e vinha em ramada, 6 fruteiras.\n\nA venda realiza-se no âmbito de um processo de Inventário.\r\nRecomenda-se aos interessados em apresentar proposta de aquisição, que devem proceder à verificação prévia da localização e estado do bem. Adverte-se os interessados que a falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda.\r\nMais se recomenda que os interessados devem conhecer das regras e do funcionamento da plataforma e-leilões. Para tal, aconselha-se a leitura atenta das perguntas e respostas em https://www.e-leiloes.pt/faqs.aspx.\r\nIMPORTANTE:\r\n-Todos os bens móveis que se encontram no imóvel em venda, NÃO estão incluídos na venda.\r\n- A venda em processo judicial está dispensada da apresentação da licença de utilização ou ocupação, bem como de certificado energético e ficha técnica, ficando o/a adquirente advertido(a) do ónus da legalização do imóvel, caso assim seja necessário.\r\n - Com a apresentação da proposta, presume-se que o interessado tenha inspecionado o imóvel e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação. É da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. Deverá igualmente ter em consideração que, atendendo à especificidade da venda judicial e ao facto de o bem não ser entregue no momento do depósito do preço, o mesmo poderá sofrer deteriorações ou alterações. Tratando-se de bem sujeito a registo há ainda lugar ao pagamento dos emolumentos devidos pelo registo, bem como à liquidação dos respetivos impostos decorrentes da venda.\r\nAs visitas são efetuadas mediante agendamento prévio para os contactos telefónicos indicados no campo visitas, sendo que mediante o número de interessados poderá ser agendada uma única visita.\r\nADVERTÊNCIAS:\r\nAdvertem-se todos os licitantes que a apresentação de proposta constitui uma declaração de vontade obrigacional. Assim, caso a sua proposta seja aceite e não proceda ao depósito do preço no prazo legal, a venda ficará sem efeito, ficando sujeito às consequências legais expressamente previstas no Artigo 825.º do Código de Processo Civil.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 256,
+  "area_bruta_m2": 4878,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.42363202,
+    "lng": -8.31573495
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +48,9 @@
     "valor_minimo": 500000.01,
     "licitacao_atual": 294117.65,
     "data_inicio": "2026-07-08T18:11:45",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 294117.65,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,28 @@
   "location": "Moita, Setúbal",
   "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129097/14092026113103_800sm.jpg",
+  "area_m2": 81.98,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129097/14092026113103_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129097/14092026113103_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129097/14092026113103_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129097/14092026113112_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129097/14092026113138_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129097/14092026113148_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129097/14092026113158_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129097/14092026113207_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129097/14092026113217_800.jpg"
   ],
-  "description": null,
+  "description": "Fracção autónoma designada pela letra \"M\", destinada a habitação, composta de 2º andar direito com varandas, do prédio  urbano em propriedade horizontal sito na Rua José Pedro Nunes, 47, Vale da Amoreira, descrito na Conservatória do Registo Predial da Moita com o nº 560/19840620 , freguesia de Vale da Amoreira e inscrito na matriz urbana 973 da União de freguesias de Baixa da Banheira e Vale da Amoreira.\n\nCom a apresentação da proposta, presume-se que o interessado tenha inspecionado o imóvel e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação.\r\nDesconhece-se a existência de licença de habitabilidade, assim como de certificado energético. É da única e exclusiva responsabilidade do proponente a verificação do estado do imóvel a adquirir, pelo que, deverá antes de apresentar proposta, verificar se o mesmo corresponde às expectativas e condições previstas pelo eventual adquirente. Deverá ser tido em consideração que, atendendo ao facto de se tratar de uma venda judicial e ao facto de o bem não ser entregue no momento da adjudicação, poderá vir a sofrer deteriorações ou alterações da exclusiva responsabilidade do fiel depositário.\r\nO imóvel encontra-se habitado pelo primo do Executado - MALAN SANÓ - que não possui qualquer título de ocupação, pelo que foi advertido que em caso de venda, teria de entregar o imóvel ao comprador.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 81.98,
+  "area_bruta_m2": 88.98,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.6459481,
+    "lng": -9.0369738
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +40,9 @@
     "valor_minimo": 75650,
     "licitacao_atual": 83945.14,
     "data_inicio": "2026-09-25T00:00:10",
-    "data_fim": "2026-10-21T10:30:00"
+    "data_fim": "2026-10-21T10:30:00",
+    "valor_abertura": 44500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

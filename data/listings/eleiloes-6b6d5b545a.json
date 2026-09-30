@@ -7,19 +7,26 @@
   "location": "Viana do Castelo, Viana do Castelo",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109197/24062024103955_800sm.jpg",
+  "area_m2": 837.6,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109197/24062024103955_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109197/24062024103955_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109197/24062024103955_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109197/24062024103947_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109197/24062024103949_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109197/24062024103951_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_109197/24062024103953_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico composto por pinhal, situado em Granja, freguesia de Serreleis, concelho de Viana do Castelo, inscrito na matriz com o artigo 2284 e descrito na competente Conservatória do Registo Predial de Viana do Castelo com o número 925/20081210.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 837.6,
+  "area_bruta_m2": 837.6,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.71200981,
+    "lng": -8.75374836
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 38250,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-08T15:08:53",
-    "data_fim": "2026-12-02T14:30:00"
+    "data_fim": "2026-12-02T14:30:00",
+    "valor_abertura": 22500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

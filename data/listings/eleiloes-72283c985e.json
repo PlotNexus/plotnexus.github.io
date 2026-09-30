@@ -7,19 +7,32 @@
   "location": "Elvas, Portalegre",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114437_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114437_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114437_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114437_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114439_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114443_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114447_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114449_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114452_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114455_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114457_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114500_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114503_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123650/26012026114505_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano sito em E.N. 4 - Olival das Pias Lote 2 - A, freguesia Caia e São Pedro, descrito na Conservatória do Registo Predial de Elvas sob o número 1567 da freguesia Caia e São Pedro, inscrito na matriz predial urbana sob o artigo 2323 da União de Freguesias de Caia, São Pedro e Alcáçova.\n\nO imóvel encontra-se em razoável estado de conservação. \r\nÉ da responsabilidade do proponente a verificação do estado de conservação, pois deverá garantir que a sua proposta se enquadra dentro das suas expectativas e do que realmente pretende.  \r\nA venda não é anulável na falta de verificação do estado de conservação prévio do imóvel. \r\nO bem não será entregue logo que se encerre o leilão. \r\nO fiel depositário é o Dr. Adélio Sardinha que garante o acesso ao imóvel através de contacto prévio. \r\nO imóvel é vendido nas condições em que se encontra, devendo o proponente confirmar todas as questões de legalidade, licenciamento e registral nas entidades competentes. \r\nO Encarregado de Venda não conseguiu determinar a delimitação do presente lote, pois os limites não se encontram identificados no local. \r\nO presente processo é uma execução comum, sendo o fiel depositário apenas Encarregado de Venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 19,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.88520056,
+    "lng": -7.15625958
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +44,9 @@
     "valor_minimo": 72.08,
     "licitacao_atual": 151,
     "data_inicio": "2026-09-18T14:31:25",
-    "data_fim": "2026-10-20T14:30:00"
+    "data_fim": "2026-10-20T14:30:00",
+    "valor_abertura": 42.4,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

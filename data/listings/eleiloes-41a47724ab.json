@@ -7,19 +7,41 @@
   "location": "Sintra, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112957_800sm.jpg",
+  "area_m2": 14200,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112957_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112957_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112957_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112928_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112930_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112931_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112933_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112935_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112937_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112939_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112941_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112943_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112945_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112947_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112948_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112950_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112952_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112955_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020112958_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020113000_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020113002_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58869/24032020113003_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico denominado \"Vale do Outeiro\" situado em Casais da Cabrela, composto de cultura arvense e pastagem, descrito na 2ª Conservatória do Registo Predial de Sintra pelo n.º 76 da freguesia da Terrugem, inscrito na matriz pelo artigo 251, secção 1H da União das freguesias de São João das Lampas e Terrugem\n\n1.\tDeverá ser efetuado o LOGIN para acesso a todas as informações e documentos disponibilizados.\r\n2.\tAs áreas indicadas servem apenas como referência pois não foram feitas medições exatas no local. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características e todos os outros aspetos que considerem relevantes. A falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda. \r\n3.\tCom a apresentação da proposta, presume-se que o interessado tenha inspecionado o imóvel e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação. \r\n4.\tO imóvel é vendido no estado físico, jurídico e documental em que se encontra. \r\n5.\tEncerrado o leilão e aceite a proposta, oportunamente, o proponente é notificado para depositar o preço oferecido, impreterivelmente, num prazo de 15 dias. (artigo 824º n.º 2 do Código de Processo Civil). No mesmo prazo, deverá comprovar a liquidação/pagamento dos impostos devidos pela transmissão. Os emolumentos devidos pelo registo junto da entidade competente é da responsabilidade do adquirente.\r\n6.\tConforme disposto no artigo 827.º do Código Processo Civil, só após o pagamento do preço (disponível o valor líquido na conta executados da titularidade do agente de execução) e satisfeitas as obrigações fiscais inerentes à transmissão, será emitido pelo signatário o respetivo título de transmissão e comunicada a venda ao serviço de registo competente.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 14200,
+  "area_bruta_m2": 14200,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.85974422600681,
+    "lng": -9.354279041290283
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 92128.11,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-17T10:57:10",
-    "data_fim": "2026-10-15T14:30:00"
+    "data_fim": "2026-10-15T14:30:00",
+    "valor_abertura": 54193.01,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,33 @@
   "location": "Golegã, Santarém",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110809_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110809_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110809_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110809_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110535_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110546_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110550_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110606_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110610_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110617_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110647_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110803_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110805_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110807_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_115216/17022025110823_800.jpg"
   ],
-  "description": null,
+  "description": "1/4 do prédio urbano, situado em Pombalinho, concelho de Golegã, distrito de Santarém, terreno para construção urbana com a área total de 332,50m2, confronta a norte com Rua, a sul com Herdeiros de José Guilherme, a nascente com Maria Celestina Meira e a poente com Herdeiros de Manuel Jorge Saraiva, inscrito na matriz predial com o artigo 312, da freguesia de Pombalinho, concelho de Golegã e distrito de Santarém, descrito na Conservatória do Registo Predial de Santarém sob o n.º195/Freguesia de Pombalinho.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 332.5,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.3437278519949,
+    "lng": -8.561018407344818
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +45,9 @@
     "valor_minimo": 6321.45,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-14T16:52:56",
-    "data_fim": "2026-10-13T14:30:00"
+    "data_fim": "2026-10-13T14:30:00",
+    "valor_abertura": 3718.5,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

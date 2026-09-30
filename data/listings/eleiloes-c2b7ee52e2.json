@@ -7,19 +7,24 @@
   "location": "Nordeste, Ilha de São Miguel",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88279/29072022172311_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88279/29072022172311_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88279/29072022172311_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88279/29072022172311_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88279/29072022172312_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88279/29072022172313_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico sito em Cabeços na freguesia de São Pedro Nordestinho, inscrito na respectiva matriz sob o artigo 5134, descrito na Conservatória do Registo Predial do Nordeste sob o n.º 292/Nordeste\n\nTerra de cultivo\r\nA localização exata do imóvel consta do relatório de avaliação",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 2437,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.82,
+    "lng": -25.14
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 6120,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-26T12:56:16",
-    "data_fim": "2026-10-13T14:30:00"
+    "data_fim": "2026-10-13T14:30:00",
+    "valor_abertura": 3600,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

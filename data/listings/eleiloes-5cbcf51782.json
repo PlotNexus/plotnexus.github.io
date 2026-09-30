@@ -7,19 +7,26 @@
   "location": "Moura, Beja",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128364/17072026124136_800sm.jpg",
+  "area_m2": 53,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128364/17072026124136_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128364/17072026124136_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128364/17072026124136_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128364/17072026121929_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128364/17072026121931_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128364/17072026121933_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128364/17072026124138_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 do Prédio urbano sito em Avenida 1º de Maio, nº 26, Moura (Santo Agostinho), freguesia de Moura (Santo Agostinho), descrito na Conservatória do Registo Predial de Moura sob o nº 1754 da referida freguesia, inscrito na respetiva matriz predial urbana sob o artigo n.º 1226 da união das freguesias de Santo Agostinho e São João Baptista e Santo Amador.\n\nO imóvel, na presente data apresenta apenas uma tira de terreno que a câmara municipal já não autoriza construir.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 53,
+  "area_bruta_m2": 79,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.13730771,
+    "lng": -7.44357617
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 47600,
     "licitacao_atual": 28000,
     "data_inicio": "2026-08-08T00:00:08",
-    "data_fim": "2026-09-30T10:00:00"
+    "data_fim": "2026-09-30T10:00:00",
+    "valor_abertura": 28000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,24 @@
   "location": "Aguiar da Beira, Guarda",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66854/17122020145906_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66854/17122020145906_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66854/17122020145906_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66854/17122020145906_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66854/17122020145909_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66854/07012021162917_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano, composto de parcela de terreno para construção urbana, com a área de 800 m2, que confronta do norte com estrada municipal; do\r\nnascente com lote nº17, do sul com António Luís Cid da Costa Alvares e do poente com lote nº15, sito em Ribeira da Vila ou Ribeira, na Av. General Costa\r\nAlvares, lote nº16, inscrito na matriz predial urbana sob o artigo nº 1929 da freguesia de Aguiar da Beira e Coruche, descrito na C.R. Predial de Aguiar da\r\nBeira sob o nº 2729, da freguesia de Aguiar da Beira.\n\n***Excelente localização\r\n***Excelente acessibilidade",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 800,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.81631013911377,
+    "lng": -7.540397644042968
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 38250,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-08T17:26:37",
-    "data_fim": "2026-12-09T14:30:00"
+    "data_fim": "2026-12-09T14:30:00",
+    "valor_abertura": 22500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

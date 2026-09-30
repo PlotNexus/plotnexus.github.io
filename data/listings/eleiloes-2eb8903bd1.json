@@ -7,19 +7,25 @@
   "location": "Rio Maior, Santarém",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127609/19062026161515_800sm.jpg",
+  "area_m2": 900,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127609/19062026161515_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127609/19062026161515_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127609/19062026161515_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127609/19062026161532_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127609/19062026161552_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127609/19062026161615_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano destinado a armazéns e actividade industrial, sito em Serrada, Rio Maior, inscrito na matriz predial urbana da freguesia de Rio Maior sob o artigo n.º 8244 e descrito na CRP de Caldas da Rainha sob o n.º 10258 da referida freguesia, em mau estado de conservação.\n\nO prédio é vendido no estado fisico e juridico em que se encontra.\r\nOs interessados deverão visitar o imóvel, inteirando-se do estado de conservação do mesmo.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 900,
+  "area_bruta_m2": 1200,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.3750933,
+    "lng": -8.98449896
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 46750,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-02T15:20:08",
-    "data_fim": "2026-11-03T14:30:00"
+    "data_fim": "2026-11-03T14:30:00",
+    "valor_abertura": 27500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

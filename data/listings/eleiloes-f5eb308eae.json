@@ -7,19 +7,24 @@
   "location": "Vila do Conde, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128533/31072026124342_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128533/31072026124342_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128533/31072026124342_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128533/31072026124342_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128533/31072026124354_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128533/31072026124632_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano composto por parcela de terreno destinada a construção, com a área total de 797 m2, sita na Rua do Norte em Mindelo, imediatamente ao lado esquerdo do n.º 276 da mesma Rua.\r\nInscrito na Matriz Predial sob o art.º 1819 da freguesia de Mindelo, no concelho de Vila do Conde, e descrito na respetiva Conservatória do Registo Predial sob a descrição 915 da identificada freguesia e concelho.\n\nEste imóvel é vendido no âmbito do Processo de Inventário a correr termos no Tribunal Judicial da Comarca do Porto - Juizo Local Cível de Vila do Conde - Juiz 2.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 797,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.31260833,
+    "lng": -8.73599378
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,15 @@
     "valor_minimo": 169405,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-29T13:30:22",
-    "data_fim": "2026-12-29T14:30:00"
+    "data_fim": "2026-12-29T14:30:00",
+    "valor_abertura": 99650,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "sem onus"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

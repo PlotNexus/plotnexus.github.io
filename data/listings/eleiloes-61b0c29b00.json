@@ -7,19 +7,26 @@
   "location": "Lisboa, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128545/03082026112743_800sm.jpg",
+  "area_m2": 222.14,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128545/03082026112743_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128545/03082026112743_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128545/03082026112743_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128545/03082026112745_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128545/03082026112747_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128545/03082026112749_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128545/03082026112751_800.jpg"
   ],
-  "description": null,
+  "description": "Trata-se de um terreno não edificado, inserido numa zona urbana consolidada de carácter predominantemente habitacional, com envolvente marcada pela coexistência de edifícios multifamiliares de construção modesta, com cerca de cinco a seis pisos, e edificações mais antigas de menor cércea, implantadas em banda ao longo dos arruamentos. O terreno apresenta uma configuração aparentemente irregular e uma topografia acidentada, com diferenças de cota relevantes entre o arruamento e as zonas interiores. A área mais próxima da via forma uma plataforma parcialmente aplanada, em terra batida, utilizada de modo informal para estacionamento de automóvel. Nas zonas mais elevadas existem taludes de terreno natural, parcialmente delimitados por muros e estruturas de contenção associadas aos prédios confinantes. Numa das extremidades observa-se uma escadaria pedonal que assegura a ligação entre diferentes cotas da envolvente urbana.\n\n•\tO prédio é vendido no estado físico e jurídico em que se encontra.\r\n•\tNos termos do disposto no nº 6 do 833º do CPC a venda está dispensada da apresentação do alvará de licença de utilização, certificado energético e ficha técnica de habitação, pelo que caberá ao novo proprietário a obtenção de tal documentação se dela necessitar.\r\n•\tAs áreas indicadas servem apenas como referência pois não foram feitas medições exatas no local.\r\n•\tÉ da única e exclusiva responsabilidade dos proponentes a verificação do estado do prédio a adquirir, pelo que, antes de apresentar proposta, deverá verificar se o mesmo corresponde às suas expectativas.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 222.14,
+  "area_bruta_m2": 222.14,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.78858343,
+    "lng": -9.15632696
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 121000,
     "licitacao_atual": 76310.8,
     "data_inicio": "2026-09-12T00:00:05",
-    "data_fim": "2026-10-14T10:00:00"
+    "data_fim": "2026-10-14T10:00:00",
+    "valor_abertura": 71176.47,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,39 @@
   "location": "Tondela, Viseu",
   "bedrooms": 5,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144939_800sm.jpg",
+  "area_m2": 179,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144939_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144939_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144939_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144914_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144916_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144918_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144920_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144922_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144923_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144925_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144927_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144929_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144931_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144932_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144934_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144935_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144937_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144941_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144943_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124114/09022026144945_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano destinado a habitação com três pisos, sito no Poço da Rua - Lajeosa do Dão, freguesia de Lajeosa, concelho de Tondela, inscrito na matriz urbana com o artigo 1842 da dita freguesia de Lajeosa e descrito na competente Conservatória do Registo Predial de Tondela com o número 6199.\n\nO imóvel tem muita humidade e cinco quartos.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 179,
+  "area_bruta_m2": 105,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.53027254,
+    "lng": -7.987622
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +51,9 @@
     "valor_minimo": 76500,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-23T17:59:44",
-    "data_fim": "2026-12-22T14:30:00"
+    "data_fim": "2026-12-22T14:30:00",
+    "valor_abertura": 45000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

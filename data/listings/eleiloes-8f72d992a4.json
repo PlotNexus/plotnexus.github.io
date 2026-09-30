@@ -5,21 +5,37 @@
   "price": 15000,
   "currency": "EUR",
   "location": "Idanha-a-Nova, Castelo Branco",
-  "bedrooms": null,
+  "bedrooms": 5,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020120001_800sm.jpg",
+  "area_m2": 30,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020120001_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020120001_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020120001_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020115828_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020115853_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020115902_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020115911_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020115922_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020115933_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020115943_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020115953_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020120012_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020120031_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020120039_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020120047_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62036/26082020120054_800.jpg"
   ],
-  "description": null,
+  "description": "½ Prédio urbano sito na freguesia de Rosmaninhal , concelho de Idanha-a-Nova, descrito na CRP de Idanha-a-Nova sob o nº 5138 e inscrito na matriz sob o artigo667\n\nImóvel parcialmente em ruínas, não sendo possível conferir o número exacto de divisões .\r\n \r\nAdvertem-se os proponentes que os pedidos para verificação dos bens deverão ser efetuados com antecedência mínima de 8 dias que antecedem à data de terminus do leilão.\r\n\r\nNota: As áreas indicadas servem apenas como referência pois não foram feitas medições exatas no local. \r\nAntes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características e de todos os outros aspetos que considerem relevantes. \r\nCom a apresentação da proposta, presume-se que o interessado tenha inspecionado o bem e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação.\r\n\r\n O bem é vendido no estado que se encontra pelo que os interessados devem proceder à verificação prévia do estado do bem. A falta desta, por parte do proponente não determina, nos termos legais a anulação da venda.\r\n\r\nNos termos do nº 6 do artigo 833º do CPC, a venda de imóvel em que tenha sido, ou esteja sendo, feita construção urbana, ou de fração dele, pode efetuar-se no estado em que se encontre, com dispensa da licença de utilização ou de construção, cuja falta de apresentação a entidade com competência para a formalização do ato faz consignar no documento, constituindo ónus do adquirente a respetiva legalização.\r\n\r\n- - A PRESENTE VENDA IRÁ SER PUBLICITADA NA PLATAFORMA E-LEILÕES, NO ENTANTO, DADA A NATUREZA DA VENDA, TAL PLATAFORMA APENAS SERVIRÁ PARA EFEITOS DE PUBLICIDADE, NÃO OBSTACULIZANDO A APRESENTAÇÃO DE PROPOSTAS POR OUTRAS VIAS, QUER VIA CTT, QUER VIA E-MAIL, DESIGNANDO-SE COMO DATA DE ENCERRAMENTO DA PRESENTE VENDA POR NEGOCIAÇÃO PARTICULAR O DIA UTIL SEGUINTE AO INDICADO NO ANÚNCIO, PELAS 14:00 HORAS.\r\n- ADVERTEM-SE OS PROPONENTES QUE APRESENTEM AS SUAS PROPOSTAS FORA DA PRESENTE PLATAFORMA, DE QUE NA MESMA DEVERÁ CONSTAR DE FORMA CLARA E INEQUÍVOCA A IDENTIFICAÇÃO DO PROPONENTE (nome completo, NIF, número de identificação civil, naturalidade, estado civil, se casado nome e NIF do cônjuge e regime de bens e residência, SENDO QUE NO CASO DE SE TRATAR DE PESSOA COLETIVA, DEVERÁ CONSTAR PARA ALÉM DA IDENTIFICAÇÃO DA PESSOA COLETIVA (certidão comercial ou identificação do código de acesso) A LEGITIMIDADE DE QUEM A REPRESENTA, BEM COMO A IDENTIFICAÇÃO DO BEM EM VENDA E NÚMERO DO PROCESSO JUDICIAL.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 30,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.72847002,
+    "lng": -7.08507009
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +47,9 @@
     "valor_minimo": 12750,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-25T10:00:40",
-    "data_fim": "2026-10-27T14:30:00"
+    "data_fim": "2026-10-27T14:30:00",
+    "valor_abertura": 7500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

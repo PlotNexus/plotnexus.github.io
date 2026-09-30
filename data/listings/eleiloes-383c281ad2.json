@@ -5,21 +5,43 @@
   "price": 88235.3,
   "currency": "EUR",
   "location": "Águeda, Aveiro",
-  "bedrooms": null,
+  "bedrooms": 0,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026154952_800sm.jpg",
+  "area_m2": 60,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026154952_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026154952_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026154952_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026154943_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026154945_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026154947_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026154950_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026154955_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026154957_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026154959_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026155001_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026155003_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026155005_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026155008_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026155011_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026155014_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026155016_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026155019_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026155021_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026155024_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026155026_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108227/18092026155028_800.jpg"
   ],
-  "description": null,
+  "description": "Casa de rés-do-chão destinado a arrecadação e arrumos, situada na Rua da Landiosa, em Landiosa, Freguesia Aguada de Baixo, Concelho de Águeda, descrito na Conservatória de Águeda, sob o nº. 2007, inscrito na matriz predial urbana sob o artigo 566, da Freguesia actualmente designada por União das Freguesias de Barrô e Aguada de Baixo.\n\nO imóvel é composto por armazém sem divisões em avançado estado de degradação.\r\nMAIS SE INFORMA QUE POR INICIATIVA DA EXEQUENTE PROCEDEU AO LEVANTAMENTO TOPOGRÁFICO DO IMÓVEL, O QUAL SE ANEXA, TENDO VERIFICADO QUE EXISTE UMA DIVERGÊNCIA ENTRE A ÁREA QUE CONSTA NA MATRIZ PREDIAL E A ÁREA QUE CONSTA AQUANDO DO LEVANTAMENTO TOPOGRÁFICO.\r\nNESSA CONFORMIDADE, A ÁREA INSCRITA NA MATRIZ É DE 60 M², QUANDO FOI EFETUADO O REFERIDO LEVANTAMENTO VERIFICOU A EXEQUENTE QUE A ÁREA APROXIMADA É DE 496 M².\r\nPOR ULTIMO INFORMA-SE QUE AS INFORMAÇÕES PRESTADAS PELA EXEQUENTE E RELATIVAS AO LEVANTAMENTO TOPOGRÁFICO SÃO UNICAMENTE DA SUA RESPONSABILIDADE.\r\nNa presente execução não se encontra pendente qualquer oposição, nem foram reclamados créditos. \r\nAdvertem-se os interessados que é da sua única e exclusiva responsabilidade a verificação do estado do bem a adquirir pelo que deverá assegurar-se que o mesmo corresponde às suas expectativas e que se encontra nas condições pretendidas. A não verificação não é fundamento para anulação do procedimento de venda.\r\nAs fotografias foram obtidas pela Exequente e são da sua inteira responsabilidade.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 60,
+  "area_bruta_m2": 60,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.51856651391082,
+    "lng": -8.452928066253662
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 75000.01,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-18T15:57:49",
-    "data_fim": "2026-10-20T14:30:00"
+    "data_fim": "2026-10-20T14:30:00",
+    "valor_abertura": 44117.65,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

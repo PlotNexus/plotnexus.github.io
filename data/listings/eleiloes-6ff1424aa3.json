@@ -7,19 +7,27 @@
   "location": "Vieira do Minho, Braga",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105683/26022024181152_800sm.jpg",
+  "area_m2": 940,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105683/26022024181152_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105683/26022024181152_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105683/26022024181152_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105683/26022024181143_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105683/26022024181145_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105683/26022024181147_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105683/26022024181150_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105683/26022024181154_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico denominado \"Horta\", sito no Lugar de Lages, freguesia de Mosteiro, concelho de Vieira do Minho, a confrontar do Norte com Maximino de Jesus Fernandes, Sul com José Maria Gaudêncio Ribeiro, Nascente e Poente com caminho, com área de 940 m2.\n\nA venda realiza-se no âmbito de um processo Executivo a correr termos por Oficial de Justiça, sendo o signatário o encarregado da venda por e-leilões.\r\n*****************************************************************************\r\nAdverte-se o(s) interessado(s) que é da única responsabilidade do(s) proponente(s) a verificação do estado do bem a adquirir. Assim, se lhes convier e entenderem oportuno, antes de apresentar proposta deverão assegurar-se que o(s) mesmo(s) corresponde(m) as suas expetativas e que se encontra(m) nas condições pretendidas, uma vez que, com apresentação de proposta, presume-se que o proponente tenha inspecionado o(s) bem(ns) supra descrito(s) e conhece(m) as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação;\r\nO presente bem é vendido no estado físico e jurídico em que se encontra.\r\nAs visitas são efetuadas mediante agendamento prévio para os contactos indicados no campo visitas.\r\n*****************************************************************************\r\nUma vez que se trata de prédio Rústico serão oportunamente aferido os eventuais direitos de preferência, referentes aos proprietários dos prédios rústicos confinantes.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 940,
+  "area_bruta_m2": 940,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.61287552704954,
+    "lng": -8.090829849243164
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +39,9 @@
     "valor_minimo": 17000,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-16T13:42:44",
-    "data_fim": "2026-12-15T14:30:00"
+    "data_fim": "2026-12-15T14:30:00",
+    "valor_abertura": 10000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

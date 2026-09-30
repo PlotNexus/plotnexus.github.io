@@ -5,21 +5,43 @@
   "price": 575000,
   "currency": "EUR",
   "location": "Cascais, Lisboa",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152842_800sm.jpg",
+  "area_m2": 105,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152842_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152842_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152842_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026151816_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026151819_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026151822_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026151825_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026151857_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026151859_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026151902_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026151905_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026151942_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026151945_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152013_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152015_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152057_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152100_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152103_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152106_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152109_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152112_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129078/14092026152123_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, composto por fracção autónoma designada pela letra “E”, correspondente ao segundo andar direito, destinado à habitação, com uma arrecadação e um lugar de estacionamento na cave, sito na Alameda Da Guia Nº 368, 2º Dto, Torre 2750-369 Cascais, descrito na 1ª Conservatória do Registo Predial de Cascais com número 3707-E, da Freguesia de Cascais, com aquisição a favor dos Insolventes averbada pela AP. 15 de 1999/09/20 e inscrito na matriz predial urbana sob o número 13100-E da União das Freguesias de Cascais e Estoril.\n\nAs visitas serão agendadas mediante solicitação, sendo não serão agendadas visitas nos últimos 5 dias úteis antes da data do fim do leilão.\r\nCom a apresentação da proposta, presume-se que o interessado tenha inspeccionado o imóvel e/ou conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação.\r\nTodos os custos inerentes à celebração da respectiva escritura de compra e venda serão suportados pelo adquirente.\r\nNos termos das disposições conjugadas do número 6 do artigo 164º, do Código da Insolvência e da Recuperação de Empresas e nº 6 do artigo 833º, do Código de Processo Civil, a presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que, nos termos das mesmas disposições legais, constitui ónus do adquirente a respectiva legalização dos imóveis, se necessário; A escritura de compra e venda apenas será realizada com o apresentante da proposta e não com terceiros que este possa vir a indicar.\r\nA escritura de compra e venda será realizada em local, data e hora a designar pelo Administrador da Insolvência. \r\nA adjudicação final será sempre feita pelo Administrador da Insolvência, com a concordância da Comissão de Credores, Credor Garantido e/ou quórum creditício. reservando-se àquele a faculdade de:\r\na) proceder a licitação entre todos os proponentes, convocando-os para o efeito; \r\nb) não aceitar ou rejeitar qualquer proposta que considere não se adequar aos interesses da massa insolvente, sendo que no caso de inexistência de propostas e/ou de ofertas abaixo do valor mínimo ou de não aceitação das propostas apresentadas, a venda prosseguirá nos termos a definir.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 105,
+  "area_bruta_m2": 123,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.70050746563873,
+    "lng": -9.439659118652344
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 488750,
     "licitacao_atual": 428854.14,
     "data_inicio": "2026-09-20T00:00:01",
-    "data_fim": "2026-10-14T11:00:00"
+    "data_fim": "2026-10-14T11:00:00",
+    "valor_abertura": 287500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

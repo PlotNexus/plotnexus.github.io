@@ -7,19 +7,26 @@
   "location": "Tondela, Viseu",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120233/16092025155735_800sm.jpg",
+  "area_m2": 1506,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120233/16092025155735_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120233/16092025155735_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120233/16092025155735_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120233/16092025155737_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120233/16092025155741_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120233/16092025155742_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_120233/16092025155744_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano, composto por edifício destinado a fábrica de serração de madeiras, uma dependência anexa destinada a escritórios e logradouro, sito na Rua da Fábrica, n.º 600, na freguesia de Tourigo, do concelho de Tondela, descrito na Conservatória do Registo Predial sob o número 164/19951220 e inscrito na respetiva matriz predial pelo artigo 189º\r\n**\r\nO atual artigo matricial do imóvel penhorado é o art. 189º, que teve origem no art. 509º da União das Freguesias de Barreiro de Besteiro e Tourigo. \r\nContudo, a plataforma eletrónica ainda não procedeu a desagregação das Freguesias, pelo que no campo \"Artigo Matricial\" não é possível colocar o atual artigo matricial.\n\nO contacto telefónico do agente de execução, indicado na fixação do regime de visitas, destina-se a assegurar que, potenciais interessados, possam reportar, caso tal venha a suceder, qualquer dificuldade de acesso/visita nos dias designados.\r\n***\r\nÉ da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir, devendo assegurar-se que o mesmo corresponde às suas expectativas e se encontra nas condições desejadas. \r\nO imóvel é vendido no estado em que se encontra, pelo que, os interessados na sua aquisição deverão proceder à prévia verificação do seu estado de conservação. \r\nA falta de verificação, por parte do proponente, não determina, nos termos legais, a anulação da venda, nem poderá ser invocada como motivo de nulidade da mesma.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 1506,
+  "area_bruta_m2": 3611,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.49191144609419,
+    "lng": -8.190264701843262
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,15 @@
     "valor_minimo": 146164.64,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-08T14:51:11",
-    "data_fim": "2026-10-20T14:30:00"
+    "data_fim": "2026-10-20T14:30:00",
+    "valor_abertura": 85979.2,
+    "onus": [
+      {
+        "tipo": "arrendamento",
+        "valor": 250,
+        "descricao": "Contrato de arrendamento para fins não habitacionais\nO contrato é celebrado pelo período de 20 anos , com início em 22-06-2021 e fim em 21-06-2041, renovando-se por períodos de cinco anos.\nRenda mensal: 250,00 € (duzentos e cinquenta euros), a ser liquidada até ao dia 8 do mês anterior a que respeitar.\nArrendatária: Travessia Ponderada - Transportes Unipessoal, Lda."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

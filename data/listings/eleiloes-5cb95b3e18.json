@@ -7,19 +7,29 @@
   "location": "Freixo Espada à Cinta, Bragança",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128894/03092026110828_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128894/03092026110828_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128894/03092026110828_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128894/03092026110828_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128894/03092026105122_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128894/03092026110933_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128894/03092026115501_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128894/03092026115518_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128894/03092026120135_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128894/03092026120312_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128894/03092026120519_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, sito em Vale Travesso, composto de terra de trigo com amendoeiras, com área de 3000 m2, inscrito na matriz predial rústica da união de  freguesias de Lagoaça e Fornos, sob artigo 2370 e descrito na Conservatória do Registo Predial de Freixo de Espada à Cinta com o n.º 172 da freguesia Fornos\n\nOs interessados que queiram visitar o imóvel ou licitar, têm necessariamente de estarem registados na plataforma e-leilões e conhecerem o funcionamento e regras da venda em leilão eletrónico. Para tal, aconselha-se a leitura atenta das perguntas e respostas em https://www.e-leiloes.pt/faqs.aspx. - Previamente à apresentação de proposta, deve verificar o estado do bem, uma vez que este é vendido no estado físico e jurídico em que se encontra. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características e de todos os outros aspetos que considerem relevantes, declinando-se qualquer responsabilidade pelo seu estado de conservação.\r\nAdvertem-se os proponentes que os pedidos para verificação dos bens deverão ser efetuados com antecedência mínima de 10 dias que antecedem à data de terminus do leilão. \r\nO imóvel é vendido no estado físico e jurídico em que se encontra e a eventual regularização das áreas ou legalização do imóvel é responsabilidade do adquirente --a) O imóvel tem acesso pela via pública, pelo que se dispensa a marcação de visita; --b) Com a apresentação da proposta, presume-se que os interessados tenham inspecionado o imóvel e conhecem as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação, assim como, qualquer descrição incorreta da informação que possa induzir em erro, devendo ainda o interessado inteirar-se junto das entidades competentes das demais características, licenças e/ou outros aspetos que considerem relevantes. A sua não verificação não é fundamento para anulação da venda. --c) Advertem-se ainda os potenciais interessados que os bens que se encontram no interior do imóvel não fazem parte do objeto negociável. --d) Deverão igualmente, ter em consideração que, atendendo às especificidades da venda e ao facto de o bem não ser entregue no momento da conclusão do leilão, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao fiel depositário. --e) Todos os custos inerentes ao registo de aquisição serão suportados pelo adquirente; \r\n- Após apresentada proposta, a mesma não pode ser retirada. - No valor atribuído ao bem em venda, não se encontram incluídos os impostos devidos pela transmissão, sejam estas IMT, IS, IVA ou outros impostos especiais, competindo ao adquirente, apresentar declaração que comprove o pagamento dos mesmos ou de que a transmissão dos bens a eles não está sujeita. - É OBRIGATÓRIO o depósito do preço no prazo de quinze dias. Não sendo depositado o preço no referido prazo, a Agente de Execução poderá promover, com autorização judicial prévia, o arresto dos bens do proponente que vença o leilão e não proceda ao depósito do preço - ler atentamente o disposto no artigo 825º, n.º 1 al. c) do Código de Processo Civil.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 3000,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.1881860150304,
+    "lng": -6.739034056663513
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,15 @@
     "valor_minimo": 5100,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-15T00:00:04",
-    "data_fim": "2026-10-13T10:00:00"
+    "data_fim": "2026-10-13T10:00:00",
+    "valor_abertura": 3000,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Adverte-se que não são conhecidos os proprietários dos prédios confinantes, pelo que não poderão ser notificados para exercício do direito de preferência que eventualmente lhes caiba, podendo assim o comprador estar sujeito a uma ação de preferência - vide artº 1410º do Código Civil."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

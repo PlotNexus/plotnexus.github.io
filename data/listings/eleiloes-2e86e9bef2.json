@@ -7,19 +7,28 @@
   "location": "Paredes, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111345/08102024175303_800sm.jpg",
+  "area_m2": 27,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111345/08102024175303_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111345/08102024175303_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111345/08102024175303_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111345/08102024175237_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111345/08102024175238_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111345/08102024175240_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111345/08102024175242_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111345/08102024175243_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_111345/08102024175245_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, composto por casa de moinho de rés-do-chão com 3 rosas e terreno (em ruína / destruída por intempéries), sito no Lugar da Senhora do Salto, na freguesia de Aguiar de Sousa, do concelho de Paredes, descrito na Conservatória do Registo Predial sob o n.º 455/19910412 e inscrito na respetiva matriz predial pelo art. 291º\n\nÉ um prédio de difícil acesso. \r\nNo local apurou-se apurou-se que a construção \"casa de moinho de rés-do-chão com 3 rodas\", foi destruída pelas intempéries.\r\n\r\n\r\n***\r\nÉ da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir, devendo assegurar-se que o mesmo corresponde às suas expectativas e se encontra nas condições desejadas. \r\nO bem é vendido no estado em que se encontra, pelo que, os interessados na sua aquisição deverão proceder à prévia verificação do seu estado de conservação. \r\nA falta de verificação, por parte do proponente, não determina, nos termos legais, a anulação da venda, nem poderá ser invocada como motivo de nulidade da mesma.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 27,
+  "area_bruta_m2": 1127,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.12950622278263,
+    "lng": -8.434560298919678
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +40,9 @@
     "valor_minimo": 25732.75,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-27T11:04:45",
-    "data_fim": "2026-09-30T14:30:00"
+    "data_fim": "2026-09-30T14:30:00",
+    "valor_abertura": 15136.91,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

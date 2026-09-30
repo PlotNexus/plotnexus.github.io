@@ -7,19 +7,24 @@
   "location": "Alcobaça, Leiria",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44964/17052019181723_800sm.jpg",
+  "area_m2": 4800,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44964/17052019181723_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44964/17052019181723_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44964/17052019181723_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44964/17052019181726_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_44964/17052019181729_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Rústico, designado por Lama Gorda, sito em Aljubarrota (Prazeres) descrito na Conservatória do Registo Predial de Alcobaça sob a ficha n.º 1588 da Freguesia de Aljubarrota (Prazeres), Concelho de Alcobaça e Distrito de Leiria, e inscrito na matriz rústica sob o artigo 3714º da mesma Freguesia.\n\nTratando-se de um Prédio Rústico, os interessados poderão, livremente deslocar-se ao local do mesmo, e verificar o estado de conservação.\r\nO bem localiza-se na estrada que liga a povoação de Chiqueda, em Alcobaça, ao Itinerário Complementar 2 (IC2), no lugar do Carrascal.\r\nNão foi possível à signatária identificar o local em concreto de localização do Prédio Rústico, pelo que os interessados deverão, consultar as Entidades competentes para o efeito.\r\nAntes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características, licenças e outros aspetos que considerem relevantes, do(s) bem(ns). \r\nA não verificação não é fundamento para anulação do procedimento de venda. \r\nOs interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq constantes no site www.e-leiloes.pt.\r\nOs interessados deverão ter em consideração que, sendo apresentada proposta de valor igual ou superior a 85% do Valor Base, não obstante a data de conclusão do Leilão, a A.E. poderá determinar o cancelamento do mesmo e prosseguir com as diligências de venda pela mais elevada proposta apresentada.\r\n\r\n\r\nATENÇÃO* ADVERTEM-SE TODOS OS INTERESSADOS/PROPONENTES QUE SÓ SERÃO CONSIDERADAS AS PROPOSTAS SUBMETIDAS NESTA PLATAFORMA ATÉ AO DIA E HORA DO FECHO DA VENDA (as propostas apresentadas fora desta plataforma eletrónica não serão consideradas)*",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 4800,
+  "area_bruta_m2": 4800,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.52689257,
+    "lng": -8.9438863
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 6120,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-11T09:32:29",
-    "data_fim": "2026-11-24T14:30:00"
+    "data_fim": "2026-11-24T14:30:00",
+    "valor_abertura": 3600,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

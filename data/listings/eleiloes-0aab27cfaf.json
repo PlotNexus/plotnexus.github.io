@@ -5,21 +5,24 @@
   "price": 118548.51,
   "currency": "EUR",
   "location": "Trofa, Porto",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66299/16042021141841_800sm.jpg",
+  "area_m2": 706.1,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66299/16042021141841_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66299/16042021141841_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66299/16042021141841_800.jpg"
   ],
-  "description": null,
+  "description": "Penhora do Usufruto do Prédio Urbano – Edifício de r/c, 1º andar, sótão, logradouro e parque, sito na Rua Eça de Queirós, n.º 56, na freguesia de São Martinho do Bougado, concelho de Trofa, descrito na Conservatória do Registo Predial sob o número 3143 e inscrito na respetiva matriz predial urbana pelo artigo 225.º da União das freguesias de Bougado (São Martinho e Santiago).\n\nA executada não permitiu a recolha fotográfica de fotos do interior do imóvel, sendo que o Agente de Execução verificou o estado de conservação do imóvel - razoável.\r\n\r\n***\r\nIdade dos usufrutuários:\r\nAlda Maria Azevedo Campos  - 55 anos\r\nVasco Manuel Azevedo Campos  - 62 anos",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 706.1,
+  "area_bruta_m2": 867.9,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.34166965,
+    "lng": -8.56039059
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 100766.23,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-11T11:37:40",
-    "data_fim": "2026-10-20T14:30:00"
+    "data_fim": "2026-10-20T14:30:00",
+    "valor_abertura": 59274.26,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

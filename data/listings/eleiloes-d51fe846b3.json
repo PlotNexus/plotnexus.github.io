@@ -7,19 +7,32 @@
   "location": "Mirandela, Bragança",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171210_800sm.jpg",
+  "area_m2": 11420,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171210_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171210_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171210_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171212_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171214_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171216_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171219_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171221_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171223_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171225_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171228_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171230_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_55253/16012020171232_800.jpg"
   ],
-  "description": null,
+  "description": "Direito de Usufruto titulado pelo executado José António Gonçalves, sobre o prédio rústico , composto de Terra de oliveiras e cereal e 7 oliveiras decrépitas, situado em Vacaria, com a área de 11420m2, inscrito na matriz predial respectiva sob o artigo 1111.º da Freguesia de Múrias e descrito na Conservatória dos Registos Civil, Predial, Comercial e Automóveis de Mirandela com o n.º 134 da Freguesia de Múrias.\n\nLocalização exata do prédio rústico 41.588829, -7.128954\r\nO usufrutuário nasceu a 22.10.1942",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 11420,
+  "area_bruta_m2": 11420,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.58969753353309,
+    "lng": -7.129429578781128
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +44,9 @@
     "valor_minimo": 2975,
     "licitacao_atual": 1800,
     "data_inicio": "2026-09-09T17:53:15",
-    "data_fim": "2026-10-20T14:30:00"
+    "data_fim": "2026-10-20T14:30:00",
+    "valor_abertura": 1750,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

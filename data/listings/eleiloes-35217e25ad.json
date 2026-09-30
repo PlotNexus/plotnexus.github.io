@@ -5,21 +5,43 @@
   "price": 70000,
   "currency": "EUR",
   "location": "Belmonte, Castelo Branco",
-  "bedrooms": null,
+  "bedrooms": 6,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025165103_800sm.jpg",
+  "area_m2": 82,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025165103_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025165103_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025165103_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164129_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164146_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164206_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164226_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164236_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164247_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164301_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164318_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164328_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164353_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164403_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164414_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164426_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164437_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164459_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164509_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164522_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164533_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_116891/08042025164543_800.jpg"
   ],
-  "description": null,
+  "description": "Edifício de rés-do-chão e primeiro andar sito em Lgo de S. Sebastião, Rua Pedro Alvares Cabral, Freguesia de Belmonte inscrito na matriz sob o artº 1170 e descrito na CRP de Belmonte com o nº 55\n\nCentro de Belmonte ( Junto ao Hotel Sinai) . Razoável estado de conservação. Com garagem .",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 82,
+  "area_bruta_m2": 132,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.35104003,
+    "lng": -7.35453834
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 59500,
     "licitacao_atual": 35101,
     "data_inicio": "2026-09-28T15:55:47",
-    "data_fim": "2026-12-02T14:30:00"
+    "data_fim": "2026-12-02T14:30:00",
+    "valor_abertura": 35000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

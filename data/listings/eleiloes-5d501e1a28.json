@@ -5,21 +5,29 @@
   "price": 143833.42,
   "currency": "EUR",
   "location": "Barcelos, Braga",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129229/18092026141833_800sm.jpg",
+  "area_m2": 252,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129229/18092026141833_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129229/18092026141833_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129229/18092026141833_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129229/18092026141818_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129229/18092026141821_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129229/18092026141824_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129229/18092026141828_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129229/18092026141830_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, correspondente a casa destinada a habitação de um pavimento, com anexo para arrumos e logradouro. Sito na Rua do Fontelo, n.º 240, na freguesia de Tamel (S. Veríssimo), concelho de Barcelos. Descrito na Conservatória do Registo Predial de Tamel (S. Veríssimo) sob o número 696 e inscrito na respetiva matriz predial urbana da freguesia de Tamel (S. Veríssimo) sob o artigo 1898.\n\nO estado de conservação é razoável . \r\n*\r\nAs visitas serão efetuadas, se solicitadas, obrigatoriamente até 5 dias úteis antes da data designada para o fim do leilão. As mesmas deverão ser agendadas diretamente com o fiel depositário, através do contacto disponível no campo das visitas, salvo se no campo das visita constar informação diferente. \r\nAssim, e para os casos em que conste a informação de data e hora agendada para as visitas, no campo “VISITA COM DATA MARCADA”, prevalecerá o referido agendamento, bem assim as informações constantes do referido campo (visita com data marcada).\r\n*\r\nInforma-se que o imóvel encontra-se habitado / ocupado.\r\n*\r\nAlerta-se que é da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir, a sua real tipologia, e localização exacta, pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. \r\nDeverá, igualmente, ter em consideração que, atendendo às especificidades da venda e ao facto de o bem não ser entregue no momento da conclusão do leilão, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao fiel depositário. ADVERTÊNCIA: As áreas e descrição do imóvel no presente anúncio, têm por base as descritas na certidão predial e matricial respetivas. No entanto, os interessados em licitar deverão aferir previamente, por todos meios disponíveis, se o imóvel está de acordo com os seus interesses de aquisição. \r\nA falta desta averiguação, por parte dos licitantes, não determina, nos termos legais, a anulação da venda. Os interessados em licitar o bem devem consultar previamente o site www.e-leiloes.pt, por forma a informarem-se, de forma consciente, das regras dos leilões e consequências legais das suas licitações.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 252,
+  "area_bruta_m2": 5969,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.55208334,
+    "lng": -8.59859593
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +39,9 @@
     "valor_minimo": 122258.41,
     "licitacao_atual": 81847.92,
     "data_inicio": "2026-09-27T00:00:06",
-    "data_fim": "2026-10-20T10:30:00"
+    "data_fim": "2026-10-20T10:30:00",
+    "valor_abertura": 71916.71,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

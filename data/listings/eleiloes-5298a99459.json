@@ -7,19 +7,29 @@
   "location": "Vila Franca de Xira, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128851/31082026125102_800sm.jpg",
+  "area_m2": 100,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128851/31082026125102_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128851/31082026125102_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128851/31082026125102_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128851/31082026125044_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128851/31082026125047_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128851/31082026125050_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128851/31082026125053_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128851/31082026125056_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128851/31082026125059_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128851/31082026125104_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano sito em Trancoso de cima, freguesia de S. João dos Montes, concelho de Vila Franca de Xira, descrito na 1ª Conservatória do Registo Predial de Vila Franca de Xira sob a ficha 567 da freguesia de S. João dos Montes, inscrito na matriz predial urbana sob o artigo 3550 da união de freguesias de Alhandra, São João dos Montes e Calhandriz.\n\n- O imóvel encontra-se devoluto e em ruínas.\r\n\r\nO bem é vendido no estado em que se encontra, pelo que se recomenda aos interessados em apresentar propostas de aquisição, que devem proceder à verificação prévia do estado do bem. \r\n\r\n\r\nA falta desta verificação por parte do proponente, não determina nos termos legais, a anulação da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 100,
+  "area_bruta_m2": 280,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.95398772,
+    "lng": -9.08397847
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,9 @@
     "valor_minimo": 11730.82,
     "licitacao_atual": 7039.17,
     "data_inicio": "2026-09-25T00:00:06",
-    "data_fim": "2026-10-21T10:00:00"
+    "data_fim": "2026-10-21T10:00:00",
+    "valor_abertura": 6900.48,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

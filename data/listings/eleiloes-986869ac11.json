@@ -7,19 +7,22 @@
   "location": "Figueira de Castelo, Guarda",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_50808/22102019090106_800sm.jpg",
+  "area_m2": 200,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_50808/22102019090106_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_50808/22102019090106_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_50808/22102019090106_800.jpg"
   ],
-  "description": null,
+  "description": "1/3 do Prédio Urbano respeitante a prédio em propriedade total sem andares nem divisões suscetíveis de utilização independente, inerente a Lagar de Azeite, sito em São Sebastião, Lugar de Vilar Torpim, 6440-281 Vilar Torpim, com área total do terreno, área de implantação do edifício, área bruta de construção e área bruta privativa de 200.00m2, e área bruta dependente de 00.00m2, inscrito na matriz no ano de 1970, conforme Modelo 1 do IMI com o número 4179473, entregue em 2012/08/18, com o valor patrimonial atual (CIMI) de 11.247,50 Euros, determinado no ano de 2016, melhor descrito na Conservatória do Registo Predial de Figueira de Castelo Rodrigo sob o número MIL TREZENTOS E TRINTA E CINCO / Vilar Torpim, inscrito na matriz predial urbana sob o artigo matricial urbano com o número 794 da freguesia de União das Freguesias do Colmeal e Vilar Torpim.\n\nAconselha-se cautela na visita ao local, atendendo ao estado do imovel",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 200,
+  "area_bruta_m2": 200,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.82421153,
+    "lng": -6.95202863
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 2436.01,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-21T14:32:26",
-    "data_fim": "2026-10-20T14:30:00"
+    "data_fim": "2026-10-20T14:30:00",
+    "valor_abertura": 1432.95,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -5,21 +5,28 @@
   "price": 16824.27,
   "currency": "EUR",
   "location": "Beja, Beja",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127445/12062026155506_800sm.jpg",
+  "area_m2": 101,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127445/12062026155506_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127445/12062026155506_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127445/12062026155506_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127445/12062026155647_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127445/12062026155656_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127445/12062026155705_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127445/12062026155713_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 do Prédio urbano sito na Rua de Mértola n.º 58, freguesia da Salvada, concelho de Beja, destinado a habitação, composto por um piso e 3 divisões, com área coberta de 98 m2 e área descoberta de 77 m2. O prédio encontra-se descrito na Conservatória do Registo Predial de Beja sob o n.º 612/19980306 e inscrito na matriz predial urbana sob o artigo 362.\n\nOs eventuais interessados devem inteirar-se das qualidades e características, licenças e outros aspectos que considerem relevantes, do(s) bem(ns). É da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá antes de apresentar proposta assegurar-se que o mesmo corresponde às suas expectativas e se encontra nas condições pretendidas. O bem é vendido no estado em que se encontra, pelo que a falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 101,
+  "area_bruta_m2": 179.7,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.933108697566254,
+    "lng": -7.77404487133026
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,15 @@
     "valor_minimo": 14300.63,
     "licitacao_atual": 9292.23,
     "data_inicio": "2026-08-08T00:00:06",
-    "data_fim": "2026-09-30T10:00:00"
+    "data_fim": "2026-09-30T10:00:00",
+    "valor_abertura": 8412.14,
+    "onus": [
+      {
+        "tipo": "arrendamento",
+        "valor": 1,
+        "descricao": "O imovel encontra- se arrenda a uma empresa de prestação de serviços. \nDesconhec-se a duração do contrato bem como o valor ."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

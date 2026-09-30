@@ -7,19 +7,41 @@
   "location": "Monchique, Faro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155503_800sm.jpg",
+  "area_m2": 30000,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155503_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155503_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155503_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155306_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155310_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155312_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155315_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155318_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155320_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155323_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155325_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155328_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155332_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155335_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155337_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155340_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155343_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155347_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155351_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155355_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155357_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95855/23032023155402_800.jpg"
   ],
-  "description": null,
+  "description": "1/5  do Prédio rústico denominado Corsino, freguesia Marmelete, concelho de Monchique, composto de cultura arvense e sobreiros, com a área de 30.000 m2, a confrontar do norte Manuel Mareiro- Cabeça de Casal da Herança de, Manuel Duarte Ventura- Cabeça de Casal da Herança de, e Francisco Duarte Marreiro- Cabeça de Casal da Herança de, do sul com Albert Hermann Nergele, do nascente Klaus Dieter Schick e do poente barragem da Bravura, inscrito na matriz sob o artigo 44 Secção BX, descrito na Conservatória do Registo Predial de Monchique sob o nº 2813/Marmelete.\n\nAntes de apresentarem as suas propostas, os eventuais interessados devem inteirar-se das qualidades e características e outros aspectos que considerem relevantes, do bem. A não verificação não é fundamento para a desistência/anulação do procedimento de venda.\r\n\r\nCOORDENADAS EXATAS DO LOCAL 37.233856, -8.718895",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 30000,
+  "area_bruta_m2": 30000,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.23265188572733,
+    "lng": -8.718080520629883
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 10837.5,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-01T17:00:11",
-    "data_fim": "2026-10-20T14:30:00"
+    "data_fim": "2026-10-20T14:30:00",
+    "valor_abertura": 6375,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

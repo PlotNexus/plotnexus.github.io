@@ -7,19 +7,32 @@
   "location": "Alcanena, Santarém",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/16122024165256_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/16122024165256_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/16122024165256_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/16122024165256_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/16122024165250_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/16122024165252_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/16122024165254_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/03032025123529_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/03032025123531_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/03032025123534_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/03032025123536_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/03032025123539_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/03032025123541_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_107420/03032025123543_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio composto por lote de terreno para construção, com área total de 1896 m2, sito em Covão de Coelho, descrito na Conservatória do Registo Predial de Alcanena com o n.º 2819/19981222 da freguesia de Minde e inscrito na matriz predial urbana sob o artigo 2551.º da freguesia de Minde, concelho de Alcanena, com o valor patrimonial determinado no ano de 2021 de €17.995,95;\n\nCoordenadas GPS 39.53294, -8.67380\r\n\r\nConsigna-se que o imóvel é vendido na sua globalidade, em conjunto com o processo de insolvência n.º 2372/19.4T8LRA que corre termos no Juízo de Comércio de Leiria - Juiz 2, em que foi declarada a insolvência da comproprietária LILIANA MARIA DE CARVALHO PUGA (NIF 169373231)",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 1895,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.53304129749916,
+    "lng": -8.673588037490845
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +44,9 @@
     "valor_minimo": 29116.75,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-21T16:48:54",
-    "data_fim": "2026-12-02T14:30:00"
+    "data_fim": "2026-12-02T14:30:00",
+    "valor_abertura": 17127.5,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

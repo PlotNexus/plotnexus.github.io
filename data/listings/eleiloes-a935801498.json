@@ -7,19 +7,23 @@
   "location": "Óbidos, Leiria",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_92010/24112022122525_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_92010/24112022122525_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_92010/24112022122525_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_92010/24112022122525_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_92010/24112022122531_800.jpg"
   ],
-  "description": null,
+  "description": "Usufruto do prédio rústico, composto de eucaliptal, pinhal e cultura arvense, área total de 56520 m2, sito em Casal da Areia, freguesia A dos Negros e concelho de Óbidos, descrito na Conservatória do Registo Predial de Óbidos sob nº 220, inscrito na matriz sob o art.º 4 Secção A, da referida freguesia, com o valor o valor tributável de 482,18 euros, penhorada em 29.01.2021.\n\nImóvel arrendado, conforme contrato de arrendamento anexo.\r\n\r\nAlerta-se que é da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir, e sua real tipologia, pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. Deverá, igualmente, ter em consideração que, atendendo às especificidades da venda e ao facto de o bem não ser entregue no momento da conclusão do leilão, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao fiel depositário.\r\n\r\n\r\nADVERTÊNCIA: As áreas e descrição do imóvel no presente anúncio, têm por base, as descritas na certidão predial e matricial respetivas. No entanto, os interessados em licitar, deverão aferir previamente, por todos meios disponíveis, se o imóvel está de acordo com os seus interesses de aquisição. A falta desta averiguação, por parte dos licitantes, não determina nos termos legais, a anulação da venda. Os interessados em licitar o bem, devem consultar previamente o site www.e-leiloes.pt, por forma a informarem-se, de forma consciente, das regras dos leilões e consequências legais das suas licitações. A presente venda, por ser concretizada em processo executivo, está dispensada da obrigação da Obtenção de Certificado Energético dos Edifícios, assim como da obtenção/exibição da Licença de Utilização.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 56520,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.35627837,
+    "lng": -9.10358444
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,15 @@
     "valor_minimo": 153734.4,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-09T15:56:14",
-    "data_fim": "2026-11-10T14:30:00"
+    "data_fim": "2026-11-10T14:30:00",
+    "valor_abertura": 90432,
+    "onus": [
+      {
+        "tipo": "arrendamento",
+        "valor": 100,
+        "descricao": null
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

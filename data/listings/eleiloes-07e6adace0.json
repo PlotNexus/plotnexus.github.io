@@ -7,19 +7,41 @@
   "location": "Figueira da Foz, Coimbra",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018114131_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018114131_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018114131_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018114131_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144125_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144143_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144200_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144219_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144236_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144253_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144312_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144325_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144343_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144402_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144418_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144437_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144452_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144508_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144527_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144546_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144605_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144623_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_28118/07092018144644_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, sito na Robaleta, composto por vinha com pereiras, área total de 2540 m2, da freguesia de Alhadas, inscrito na matriz predial sob o artigo 13073 e descrito na Conservatória do Registo Predial de Figueira da Foz sob o número  512.\n\nPrédio sito nas imediações da EN 109.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 2540,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.19393385,
+    "lng": -8.82562402
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 21225.31,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-28T16:10:05",
-    "data_fim": "2026-11-26T14:30:00"
+    "data_fim": "2026-11-26T14:30:00",
+    "valor_abertura": 12485.48,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

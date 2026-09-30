@@ -7,19 +7,29 @@
   "location": "Macedo de Cavaleiros, Bragança",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110265/21082024160246_800sm.jpg",
+  "area_m2": 67.64,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110265/21082024160246_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110265/21082024160246_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110265/21082024160246_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110265/21082024160222_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110265/21082024160229_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110265/21082024160233_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110265/21082024160237_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110265/21082024160242_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110265/21082024160250_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110265/21082024160254_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio em Prop. Total sem Andares nem Div. Susc. De Utiliz. Independente, composto de 1 pisos e 2 divisões, sito na Rua das Eiras, Lugar: Vilarinho do Monte, União das Freguesias de Ala e Vilarinho do Monte, Concelho de Macedo de Cavaleiros, Distrito de Bragança, inscrito na matriz sob o Artº. 1, descrito na Conservatória do Registo Predial de Macedo de Cavaleiros sob nº 852 da Freguesia de Vilarinho do Monte (extinta), Concelho de Macedo de Cavaleiros.\n\nNão foi permitido tirar fotografias do interior. É da única responsabilidade do proponente a verificação do estado do bem a adquirir, pelo que deverá, se assim entender, antes de apresentar proposta assegurar-se que o mesmo corresponde as suas expectativas e que se encontra nas condições pretendidas, uma vez que, com apresentação de proposta, presume-se que o proponente tenha inspecionado o bem supra descrito, e conhece as suas características e consequentemente, declina qual responsabilidade pelo seu estado de conservação. A não verificação não é fundamento para anulação do procedimento de venda. Deverá, igualmente, ter em consideração que, atendendo às especificidades da venda e ao facto do bem não estar na posse do Agente de Execução, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao executado, que deverá mostrar o imóvel às 16h horas da 5ª feira anterior ao encerramento do leilão.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 67.64,
+  "area_bruta_m2": 67.64,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.62718804,
+    "lng": -7.09075754
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,9 @@
     "valor_minimo": 4262.75,
     "licitacao_atual": 2507.5,
     "data_inicio": "2026-09-16T15:10:47",
-    "data_fim": "2026-12-15T14:30:00"
+    "data_fim": "2026-12-15T14:30:00",
+    "valor_abertura": 2507.5,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

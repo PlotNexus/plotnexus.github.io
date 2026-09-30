@@ -7,19 +7,25 @@
   "location": "Valpaços, Vila Real",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_59885/04062020123425_800sm.jpg",
+  "area_m2": 72,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_59885/04062020123425_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_59885/04062020123425_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_59885/04062020123425_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_59885/04062020123426_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_59885/04062020123428_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_59885/04062020123429_800.jpg"
   ],
-  "description": null,
+  "description": "Metade indivisa do prédio urbano composto por parcela de terreno destinada à construção urbana,\r\ncom área total de 72,00 m², sito em Povo, freguesia de Santa Maria de Emeres, concelho de Valpaços.\r\nConfrontações: a Norte com Fernando dos Santos Carvalho; a Sul com Eira; a Nascente com caminho e a\r\nPoente com Francisco de Carvalho dos Santos.\r\nInscrito na matriz predial urbana sob o artigo 426 e descrito na Conservatória do Registo Predial de Valpaços\r\nsob o nº 751.\n\nA presente descrição não dispensa a constatação presencial do estado de conservação do bem, sendo o agente de execução alheio a qualquer alteração das condições físicas do imóvel.\r\n\r\nA verba é vendida no estado físico, jurídico e documental em que se encontra. \r\n\r\nCom a apresentação da proposta, presume-se que o interessado tenha visto o imóvel e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação.\r\n\r\nAPENAS SERÃO ACEITES AS PROPOSTAS DE VALOR IGUAL OU SUPERIOR VALOR MÍNIMO. \r\n O «valor mínimo» é o valor a partir do qual o bem pode ser vendido e que corresponde, nos termos do n.º 2 do artigo 816.º do CPC, a 85 % do valor base.\r\n\r\n\r\nNão serão agendadas visitas nos últimos 5 dias úteis antes da data do fim do leilão.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 72,
+  "area_bruta_m2": 72,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.54726527,
+    "lng": -7.38356285
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 2800,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-23T19:10:38",
-    "data_fim": "2026-12-22T14:30:00"
+    "data_fim": "2026-12-22T14:30:00",
+    "valor_abertura": 1647.06,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

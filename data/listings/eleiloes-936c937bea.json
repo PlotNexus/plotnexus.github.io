@@ -5,21 +5,33 @@
   "price": 12150,
   "currency": "EUR",
   "location": "Vila Flor, Bragança",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026174846_800sm.jpg",
+  "area_m2": 50,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026174846_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026174846_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026174846_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026175324_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026175422_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026175651_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026175729_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026175837_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026184049_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026184149_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026184333_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125857/18042026184505_800.jpg"
   ],
-  "description": null,
+  "description": "1/7 do prédio urbano composto por casa de habitação de rés do chão e primeiro andar, situado em Sampaio - Rua do Terreiro -, inscrito na matriz predial urbana com o artigo 160, da freguesia de Sampaio, descrito na Conservatória de Registo Predial de Vila Flor com o nº 715, da freguesia de Sampaio, concelho de Vila Flor, distrito de Bragança.\n\nO imóvel encontra-se em deficiente estado de conservação, necessitando de bastantes obras.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 50,
+  "area_bruta_m2": 50,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.298182346353535,
+    "lng": -7.101089358329773
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +43,9 @@
     "valor_minimo": 10327.5,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-22T16:03:50",
-    "data_fim": "2026-12-22T14:30:00"
+    "data_fim": "2026-12-22T14:30:00",
+    "valor_abertura": 6075,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

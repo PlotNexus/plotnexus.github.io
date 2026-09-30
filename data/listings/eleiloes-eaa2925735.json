@@ -5,21 +5,43 @@
   "price": 500000,
   "currency": "EUR",
   "location": "Nazaré, Leiria",
-  "bedrooms": null,
+  "bedrooms": 4,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162726_800sm.jpg",
+  "area_m2": 199.75,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162726_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162726_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162726_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162647_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162718_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162736_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162804_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162818_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162826_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162838_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162845_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162936_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162945_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026162953_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026163020_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026163059_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026163130_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026163207_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026163231_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026163246_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026163314_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126747/14052026163411_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio em Prop. total sem andares nem div. susc. de utiliz. independente, correspondente a moradia unifamiliar para habitação, de cave, rés-do-chão, 1º andar, logradouro e piscina, com a área coberta de 122,40 m2, e área total de 457 m2, sito na Rua do Barqueirinho, nº 1, Casais de Baixo, freguesia de Famalicão, concelho de Nazaré, descrito na Conservatória do Registo Predial de Nazaré sob o nº 2087.\n\nOs eventuais interessados devem inteirar-se das qualidades e características, licenças e outros aspetos que considerem relevantes, do(s) bem(s). É da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. O imóvel é vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisição que devem proceder à verificação prévia do estado do bem. A falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 199.75,
+  "area_bruta_m2": 457,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.54834546,
+    "lng": -9.07484048
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 425000,
     "licitacao_atual": 350000,
     "data_inicio": "2026-09-17T09:51:04",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 250000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

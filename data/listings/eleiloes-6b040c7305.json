@@ -7,19 +7,26 @@
   "location": "Ponte de Sor, Portalegre",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122991/23122025112418_800sm.jpg",
+  "area_m2": 33,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122991/23122025112418_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122991/23122025112418_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122991/23122025112418_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122991/23122025112422_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122991/23122025112425_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122991/23122025112430_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122991/23122025112434_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano em propriedade total sem andares nem divisões suscetíveis de utilização independente, destinado a habitação, com 1 piso e 2 divisões, sito na Rua do Lagar, n.º 4, 7400-454 Longomel, distrito de Portalegre, concelho de Ponte de Sor, freguesia de Longomel, inscrito na matriz predial urbana sob o artigo 837º e descrito na Conservatória do Registo Predial de Ponte de Sor com o número 606 da mesma Freguesia.\n\nFaz-se saber que: - É da única responsabilidade do proponente a verificação do estado do bem a adquirir, pelo que deverá, antes de apresentar proposta assegurar-se que o mesmo corresponde às suas expectativas; com apresentação de proposta, presume-se que o proponente procedeu à verificação do bem e conhece as suas limitações; - O bem é vendido no estado físico e jurídico em que se encontra; - Para visitas ao bem, deverá o proponente agendar previamente junto do Fiel Depositário, através dos contactos enunciados; - As visitas são efectuadas de segunda-feira a sexta-feira, entre as 14:00 e as 18:00 horas (com agendamento prévio com a fiel depositária). Adverte-se que: - Se ao termo do leilão, o valor da melhor proposta for superior ao valor mínimo, fica o proponente obrigado ao depósito do valor proposto, podendo-se promover o arresto de bens suficientes para garantir o supra referido valor, nos termos da al. c), do n.º 1, do art.º 825.º, do C.P.C. – Código do Processo Civil, aprovado pela Lei n.º 41/2013, de 26 de junho, na sua versão dada pela Lei n.º 114/2017, de 29 de dezembro. Ónus e Limitações: 1.º - Nos termos do art.º 842.º e seguintes, do C.P.C. – Código do Processo Civil, aos descendentes ou ascendentes do executado é reconhecido o direito de remir o presente bem pelo preço por o qual tiver sido feita adjudicação ou a venda. 2.º - Nos termos análogos ao disposto no n.º 6, do art.º 833.º, do C.P.C. – Código do Processo Civil, a venda do presente bem pode efectuar-se no estado em que se encontra, constituindo ónus do adquirente a sua eventual legalização.\r\nNos termos do nº 4 do art. 817º do CPC, não se encontra pendente nenhuma oposição à execução ou à penhora.\r\nProferida Sentença de Graduação de Créditos",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 33,
+  "area_bruta_m2": 77,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.3346851,
+    "lng": -7.99159454
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 12500,
     "licitacao_atual": 7352.94,
     "data_inicio": "2026-09-02T12:17:59",
-    "data_fim": "2026-11-03T14:30:00"
+    "data_fim": "2026-11-03T14:30:00",
+    "valor_abertura": 7352.94,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

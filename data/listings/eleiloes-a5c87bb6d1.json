@@ -7,19 +7,22 @@
   "location": "Águeda, Aveiro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124283/17032026153339_800sm.jpg",
+  "area_m2": 150,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124283/17032026153339_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124283/17032026153339_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124283/17032026153339_800.jpg"
   ],
-  "description": null,
+  "description": "Nua propriedade do prédio urbano, sito em Calvário da Veiga, inscrito na respetiva matriz sob o artigo 2942.º da freguesia de Valongo do Vouga e descrito na Conservatória do Registo Predial de Águeda sob o n.º 4498 da referida freguesia. A aquisição em sede judicial fará caducar o direito de uso e habitação nos termos do Acórdão nº 50/2022 do Tribunal Constitucional, conferindo ao adquirente a aquisição plena do imóvel.\n\n• Com a apresentação da proposta, presume-se que o proponente tenha verificado o estado do imóvel, sendo da sua exclusiva responsabilidade a verificação do estado do bem a adquirir, pelo que deverá assegurar-se que o mesmo se encontra com as condições pretendidas • A falta desta por parte do proponente não determina, nos termos legais, a anulação da venda • Advertem-se os interessados que, o regime de visitas deverá ser previamente agendado através dos contactos que constam no respectivo campo das visitas • Não serão agendadas visitas nos últimos 5 dias úteis antes da data do fim do leilão • Não sendo depositado o preço no prazo de 15 (quinze) dias, o Agente de Execução poderá promover, com autorização judicial prévia, o arresto dos bens do proponente que vença o leilão, atento o disposto no artigo 825º, n.º 1 al. c) do Código de Processo Civil • Sendo a proposta mais elevada inferior ao valor mínimo de venda, mas de valor considerável, poderá a mesma ser objeto de apreciação pelas partes ou até mesmo submetida a apreciação pelo Mmo. Juiz, de forma a que possa ser considerada aceite • A venda poderá, eventualmente, suspender em caso de insolvência do(s) executado(s), pagamento da dívida ou eventual verificação de irregularidade que dita a invalidade da venda, podendo, ainda, ser exercido o direito de remição ou o direito de preferência. • Advertências a ter em atenção: 1) Nos termos do n.º 6 do art. 833º do Código de Processo Civil, a presente transmissão está dispensada da apresentação da licença de utilização ou construção, ficando a adquirente advertida do ónus da legalização do imóvel, caso haja necessidade. 2) Na eventualidade de estar a licitar em nome ou representação de terceiro, deve certificar-se de que tem efectivamente poderes bastantes para o acto, sendo que: - Caso esteja a licitar em representação de uma pessoa colectiva, deverá ser o legal representante da mesmo, de acordo com os respectivos estatutos da sociedade. - Caso se trate de pessoa singular, deverá estar munido da competente procuração, cuja procuração deverá ser posteriormente demonstrada no processo de execução respectivo.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 150,
+  "area_bruta_m2": 6013,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.611676043456434,
+    "lng": -8.433342576026917
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,15 @@
     "valor_minimo": 408749.7,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-08T16:56:52",
-    "data_fim": "2026-12-09T14:30:00"
+    "data_fim": "2026-12-09T14:30:00",
+    "valor_abertura": 240441,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "A aquisição em sede judicial fará caducar o direito de uso e habitação nos termos do Acórdão nº 50/2022 do Tribunal Constitucional, conferindo ao adquirente a aquisição plena do imóvel."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

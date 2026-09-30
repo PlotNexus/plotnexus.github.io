@@ -5,21 +5,41 @@
   "price": 200000,
   "currency": "EUR",
   "location": "Vila Nova de Famalicão, Braga",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161259_800sm.jpg",
+  "area_m2": 694,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161259_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161259_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161259_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161301_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161303_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161305_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161307_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161309_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161311_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161313_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161315_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161317_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161320_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161322_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161324_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161326_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161329_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161331_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161333_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129200/17092026161335_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano descrito na CRP de VN Famalicão sob o 300, da Freguesia de Carreira e inscrito na matriz sob o U-905º, da UF de Carreira e Bente, destinado a armazém, com R/C e andar para indústria e escritórios – pavilhão 3.\n\nO imóvel encontra-se em razoável estado de conservação. É da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir, pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. A falta de verificação do estado do bem por parte do proponente não determina, nos termos legais a anulação da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 694,
+  "area_bruta_m2": 477,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.36737697,
+    "lng": -8.44170842
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +51,9 @@
     "valor_minimo": 170000,
     "licitacao_atual": 160000,
     "data_inicio": "2026-09-27T00:00:06",
-    "data_fim": "2026-10-20T10:30:00"
+    "data_fim": "2026-10-20T10:30:00",
+    "valor_abertura": 100000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

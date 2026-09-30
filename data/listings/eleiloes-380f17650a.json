@@ -5,21 +5,40 @@
   "price": 87000,
   "currency": "EUR",
   "location": "Lamego, Viseu",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153347_800sm.jpg",
+  "area_m2": 48.6,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153347_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153347_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153347_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153224_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153227_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153231_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153233_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153245_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153248_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153250_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153253_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153305_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153307_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153310_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153313_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153336_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153339_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153342_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52310/04112019153345_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, sito em Magueijinha, composto por casa destinada a habitação de dois pavimentos, com a área global de 48,6 m2, inscrito na matriz sob o artigo 212 da União de freguesias  de Bigorne, Magueija e Pretarouca (antigo artigo 86, da extinta freguesia de Magueija) e descrito na Conservatória do Registo Predial de Lamego sob o nº 923, da freguesia de Magueija.\n\n***Já foi apresentada uma proposta no montante de € 50.000,00, a qual não foi aceite pelas partes, pelo que propostas iguais ou inferiores não serão consideradas.”\r\n***Imóvel desabitado\r\n***Imóvel foi recuperado em data imprecisa não tendo sido atualizado na caderneta predial\r\n***Imóvel apresenta sinais de humidade em várias divisões da casa\r\n***Azulejos partidos e danificados em zona onde estaria o fogão\r\n***O agendamento de visitas deve  ser coordenado com a Agente de Execução;",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 48.6,
+  "area_bruta_m2": 97.2,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.05178351385379,
+    "lng": -7.8708672523498535
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +50,9 @@
     "valor_minimo": 73950,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-24T16:34:02",
-    "data_fim": "2026-11-24T14:30:00"
+    "data_fim": "2026-11-24T14:30:00",
+    "valor_abertura": 43500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

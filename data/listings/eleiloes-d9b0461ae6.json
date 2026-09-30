@@ -5,21 +5,33 @@
   "price": 150000,
   "currency": "EUR",
   "location": "Vila do Conde, Porto",
-  "bedrooms": null,
+  "bedrooms": 1,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026170935_800sm.jpg",
+  "area_m2": 64,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026170935_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026170935_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026170935_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026140829_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026141119_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026141122_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026141301_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026141304_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026141311_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026141316_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026141321_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129237/21092026141327_800.jpg"
   ],
-  "description": null,
+  "description": "Fração Autónoma designada pela letra “A” destinada a habitação do Tipo T1, sita na Rua n.º 1, casa n.º 5 na freguesia de Árvore no concelho de Vila do Conde.\r\nInscrita na matriz predial sob o art.º 2459 A e descrita na respectiva Conservatória de Registo Predial sob a descrição 791 A, da freguesia de Árvore no concelho de Vila do Conde.\n\nEste imóvel é vendido no âmbito do Processo de Inventário com  o n.º 1026/24.4T8VCD, A correr termos no Tribunal Judicial da Comarca do Porto - Juizo Local Cível de Vila do Conde - Juiz 1.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 64,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.34358388,
+    "lng": -8.70287044
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +43,15 @@
     "valor_minimo": 127500,
     "licitacao_atual": 76507.5,
     "data_inicio": "2026-09-28T00:00:05",
-    "data_fim": "2026-10-20T10:30:00"
+    "data_fim": "2026-10-20T10:30:00",
+    "valor_abertura": 75000,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "SEM ONUS"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

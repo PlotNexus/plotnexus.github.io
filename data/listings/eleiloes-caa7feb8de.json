@@ -7,19 +7,24 @@
   "location": "Vila Velha de Rodão, Castelo Branco",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110973/25092024191808_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110973/25092024191808_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110973/25092024191808_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110973/25092024191808_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110973/25092024191812_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110973/25092024191813_800.jpg"
   ],
-  "description": null,
+  "description": "VERBA N.º 9 - Um prédio rústico, solo subjacente de cultura arvense, olival, pinhal, mato e leito de curso de água, com área de 13680,00m2, sito em Ponte do Ribeirão, da freguesia e concelho de Vila Velha de Rodão, inscrito na matriz predial rústica sob o art.º 83 secção n.º AB/Vila Velha de Rodão e descrito na Conservatória do Registo Predial de Vila Velha de Rodão sob o n.º 1110/Vila Velha de Rodão.\n\nA venda livre de ónus e encargos e no estado físico e jurídico em que se encontram. \r\nImpende sobre os interessados na aquisição dos bens o dever de verificação do estado de conservação, da quantidade e da qualidade e características dos bens, não se responsabilizando a massa insolvente por quaisquer falhas ou discrepâncias na descrição dos bens, ou registo fotográfico que possa induzir em erro. \r\nA transmissão do bem será feita através de escritura pública, a agendar pela Administradora da Insolvência e deverá ser realizada em Cartório Notarial da Área do domicílio profissional da Administradora da Insolvência.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 13680,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.67273039798543,
+    "lng": -7.691078782081604
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 10465.2,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-07T16:03:33",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 6156,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,22 @@
   "location": "Mafra, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102064/20122023162523_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102064/20122023162523_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102064/20122023162523_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_102064/20122023162523_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, terreno para construção, sito na Estrada Nacional nº 8, Lote 9, Barras, freguesia de Azueira e Sobral da Abelheira, concelho de Mafra, inscrito na respectiva matriz sob o artigo 2564, descrito na Conservatória do Registo Predial de Mafra sob o nº 1709 - freguesia Azueira\n\nEmbora o imóvel esteja registado em nome da Caixa Económica Montepio Geral, a data do registo da penhora à ordem dos presentes autos é anterior, prevalecendo assim sobre aquela aquisição.\r\nAdverte-se que:\r\nCabe exclusivamente ao proponente a responsabilidade de verificar se o estado e as características do bem a adquirir correspondem às suas expectativas, o que deverá efectuar antes da apresentação da proposta; NO SENTIDO DE ACAUTELAR A DEVIDA TRANSPARÊNCIA E ORGANIZAÇÃO DO PROCEDIMENTO DE VENDA, AS PROPOSTAS DEVEM SER APRESENTADAS EXCLUSIVAMENTE ATRAVÉS DESTA PLATAFORMA, NÃO SENDO CONSIDERADAS AS OFERECIDAS POR OUTRO MEIO.\r\nAconselha-se a prévia leitura atenta das regras e faq's disponíveis em https://www.e-leiloes.pt/regras.aspx e https://www.e-leiloes.pt/faqs.aspx.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 253,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.01034739110138,
+    "lng": -9.27022933959961
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 25500,
     "licitacao_atual": 19000,
     "data_inicio": "2026-09-07T12:07:59",
-    "data_fim": "2026-12-09T14:30:00"
+    "data_fim": "2026-12-09T14:30:00",
+    "valor_abertura": 15000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -5,21 +5,34 @@
   "price": 245000,
   "currency": "EUR",
   "location": "Sintra, Lisboa",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125457_800sm.jpg",
+  "area_m2": 72,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125457_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125457_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125457_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125434_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125437_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125440_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125442_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125445_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125447_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125450_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125452_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125454_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128441/24072026125459_800.jpg"
   ],
-  "description": null,
+  "description": "Fração autónoma designada pela letra F, correspondente ao 2º andar esquerdo, sito na Avenida Primeiro de Dezembro, nºs 3, 3-A e 3-B , em Pêro Pinheiro, inscrito na matriz sob o nº 2852, descrito na 2ª Conservatória do Registo Predial de Sintra sob o nº 419/19841127 - F, da freguesia de Pêro Pinheiro.\n\nA venda incide sobre a nua propriedade e o direito de usufruto que os Executados detêm sobre a referida fração autónoma.\r\nA penhora de direito de usufruto consta de auto de penhora datado de 20.07.2022, e a penhora da nua propriedade de auto de penhora de 04.09.2025.\r\nFoi efetuado nos autos respetivo relatório pericial de avaliação.\r\n\r\nPara visitar o bem, os interessados devem contatar previamente com o fiel depositário do bem, através do contato publicado na presente venda. Para visualizar o contato e os respetivos documentos deverá efetuar o login na plataforma.\r\n\r\n\r\nO bem é vendido no estado em que se encontra, pelo que os interessados devem proceder à verificação prévia do estado do\r\nbem. Cabe aos interessados o dever de se informarem juridicamente sobre as circunstâncias dos bens/ direitos a serem adquiridos, recorrendo para o efeito (caso assim o entendam), a consulta jurídica a profissional devidamente habilitado. Com a apresentação de proposta, presume-se que o interessado tenha inspecionado o bem/ direito ou conheça todas as atuais caraterísticas do mesmo ou do direito a adquirir, bem como todos os outros aspetos que considere relevantes, declinando-se\r\nqualquer responsabilidade do AE pelo estado de conservação do bem ou pela falta de verificação do proponente de outros aspetos relevantes à presente venda. A falta de verificação por parte do proponente, não determina, nos termos legais a anulação da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 72,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.85290656,
+    "lng": -9.32437446
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +44,9 @@
     "valor_minimo": 208250,
     "licitacao_atual": 133976.45,
     "data_inicio": "2026-08-12T00:00:02",
-    "data_fim": "2026-09-30T10:00:00"
+    "data_fim": "2026-09-30T10:00:00",
+    "valor_abertura": 122500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

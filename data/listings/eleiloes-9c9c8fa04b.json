@@ -5,21 +5,43 @@
   "price": 123530,
   "currency": "EUR",
   "location": "Lousã, Coimbra",
-  "bedrooms": null,
+  "bedrooms": 4,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020181914_800sm.jpg",
+  "area_m2": 145.2,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020181914_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020181914_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020181914_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020174821_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020174842_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020174855_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020174903_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020174911_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020174920_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020174928_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020174940_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020174946_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020175000_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020175013_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020175021_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020175029_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020180425_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020180434_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020180441_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020180448_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020180457_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62634/16092020180505_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano, sito Manguela, Rua de Santo António, n.º 42, 3200-225 Lousã, Freguesia e Concelho da Lousã, afecto a habitação (r/c e 1º andar, com garagem), inscrito na respectiva matriz sob o artigo 3585 (actual 3608 da União da Freguesias de Lousã e Vilarinho) e descrito na Conservatória do Registo Predial da Lousã sob o n.º 9053. - verba 1 do auto de penhora de 14-05-2019\n\nO imóvel em causa encontra-se bem situado, apenas a 4 minutos de carro da zona central da Lousã, bem como de vários serviços, comércio e indústria (desde vários supermercados, escolas, CTT, Finanças, Conservatória, Tribunal, restaurantes/bares, padarias/pastelarias, piscinas, ginásios, farmácias, gasolineiras, clínicas, lojas diversas, etc), bem como de vários espaços verdes/jardins. \r\nImporta referir que o terreno adjacente/envolvente à casa de habitação, não é propriedade dos executados, não fazendo o mesmo parte da moradia, tendo outro artigo distinto (o qual não se encontra penhorado no processo).",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 145.2,
+  "area_bruta_m2": 145.2,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.12137102,
+    "lng": -8.2427872
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 105000.5,
     "licitacao_atual": 64000,
     "data_inicio": "2026-09-13T16:10:33",
-    "data_fim": "2026-12-15T14:30:00"
+    "data_fim": "2026-12-15T14:30:00",
+    "valor_abertura": 61765,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

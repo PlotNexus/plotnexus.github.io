@@ -7,19 +7,24 @@
   "location": "Abrantes, Santarém",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128891/02092026183641_800sm.jpg",
+  "area_m2": 1481,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128891/02092026183641_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128891/02092026183641_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128891/02092026183641_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128891/02092026183642_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128891/02092026183644_800.jpg"
   ],
-  "description": null,
+  "description": "Verba n.º 1 - Prédio urbano descrito na CRP de Abrantes sob o n.º 948 da freguesia de Alferrarede, inscrito na matriz predial urbana sob o artigo n.º 3591 da União das Freguesias de Abrantes (São Vicente e São João) e Alferrarede, correspondente a edifício que se compõe de r/c com 7 divisões, 2 casas de banho, corredor e logradouro e 1º andar com 7 divisões e casa de banho e logradouro, destinados a serviços administrativos e escritórios tendo anexo 2 armazéns para guarda de máquinas e materiais, com 1 dependência para abastecimento de energia.\n\nAntes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades, características e outros aspetos que considerem relevantes. É da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. O imóvel é vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisição que devem proceder à verificação prévia do estado do bem. A falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 1481,
+  "area_bruta_m2": 13177,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.47607181,
+    "lng": -8.1915151
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 1087500,
     "licitacao_atual": 646102.94,
     "data_inicio": "2026-09-12T00:00:09",
-    "data_fim": "2026-10-14T10:30:00"
+    "data_fim": "2026-10-14T10:30:00",
+    "valor_abertura": 639705.88,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,41 @@
   "location": "Braga, Braga",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232455_800sm.jpg",
+  "area_m2": 502,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232455_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232455_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232455_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232457_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232459_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232500_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232502_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232504_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232506_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232508_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232510_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232511_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232513_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232515_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232517_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232519_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232521_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232522_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232524_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232526_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232528_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128854/31082026232530_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, destinado a comércio, composto por edifício de rés-do-chão e três andares, com área de 110,00m², sito em Avenida da Liberdade, n.º 811, União Das Freguesias De Braga (são José De São Lázaro E São João Do Souto), Braga, descrito na 2ª Conservatória do Registo Predial de Braga sob o n.º 268/União Das Freguesias De Braga (são José De São Lázaro E São João Do Souto) e inscrito na matriz predial urbana sob o artigo 933 da União Das Freguesias De Braga (são José De São Lázaro E São João Do Souto).\n\nNão serão agendadas visitas nos últimos 5 dias úteis antes da data do fim do leilão e deve ser previamente agendada com o Administrador da insolvência; com a apresentação da proposta presume-se que o interessado inspeccionou o imóvel e bens móveis e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação; todos os custos inerentes à celebração da respectiva escritura pública de compra e venda ou documento particular autenticado serão suportados pelo adquirente; nos termos das disposições conjugadas do n.º 6 do artigo 164º do Código da Insolvência e da Recuperação de Empresas, e n.º 6 do artigo 833º do Código de Processo Civil, a presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação pelo que, nos termos das mesmas disposições legais, constitui ónus do adquirente a respectiva legalização do imóvel, se for caso disso; a formalização da alienação apenas será realizada com o licitante e não com terceiros, excepto se tal for requerido e deferido pelo/a magistrado/a titular do processo; a escritura pública de compra e venda será realizada em local, data e hora a designar pelo administrador da insolvência; na venda via e-leilões, não são cobrados quaisquer valores a título de comissões ou afins; a adjudicação final será sempre feita pelo administrador de insolvência com a concordância dos credores, reservando-se àquela a faculdade de: i. proceder a licitação entre todos os proponentes, convocando-os para o efeito; ii. não aceitar ou rejeitar qualquer proposta que considere não se adequar aos interesses da massa insolvente; iii.no caso de inexistência de propostas e/ou de ofertas abaixo do valor mínimo ou de não aceitação das propostas apresentadas, a venda prosseguirá nos termos a definir;",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 502,
+  "area_bruta_m2": 578,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.55098698,
+    "lng": -8.4228459
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 1300000,
     "licitacao_atual": 836347.56,
     "data_inicio": "2026-09-10T00:00:03",
-    "data_fim": "2026-10-06T10:30:00"
+    "data_fim": "2026-10-06T10:30:00",
+    "valor_abertura": 764705.88,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

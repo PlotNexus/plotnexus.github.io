@@ -5,21 +5,43 @@
   "price": 322699,
   "currency": "EUR",
   "location": "Porto, Porto",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170718_800sm.jpg",
+  "area_m2": 115.43,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170718_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170718_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170718_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170706_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170708_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170710_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170712_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170714_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170716_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170721_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170723_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170725_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170727_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170729_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170731_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170733_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170735_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170737_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170739_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170741_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170743_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129081/11092026170745_800.jpg"
   ],
-  "description": null,
+  "description": "Fração autónoma designada pela letra S, terceiro andar duplex, destinado a habitação, tipo T3, com 2 aparcamentos e 1 arrumo, todos na 2ª cave, designados pela letra “F”, sita na Rua Álvaro Castelões, n.º 673 (hab. 3.3.), na freguesia de Paranhos, do concelho do Porto, descrito na Conservatória do Registo Predial sob o número 4375/20030319 e inscrita na respetiva matriz predial pelo artigo 13539\n\nÉ da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir, devendo assegurar-se que o mesmo corresponde às suas expectativas e se encontra nas condições desejadas. \r\nO imóvel é vendido no estado em que se encontra, pelo que, os interessados na sua aquisição deverão proceder à prévia verificação do seu estado de conservação. \r\nA falta de verificação, por parte do proponente, não determina, nos termos legais, a anulação da venda, nem poderá ser invocada como motivo de nulidade da mesma.\r\n***\r\nCaso seja apresentada proposta de valor igual ou superior ao valor mínimo o interessado fica vinculado à proposta apresentada no momento da licitação até decisão da Agente de Execução ou despacho judicial. \r\n***\r\nOs bens móveis ou qualquer outro bem exibido nas fotografias não se encontram penhorados nem à venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 115.43,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.16964146431044,
+    "lng": -8.60350728034973
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,15 @@
     "valor_minimo": 274294.15,
     "licitacao_atual": 257497.47,
     "data_inicio": "2026-09-27T00:00:03",
-    "data_fim": "2026-10-20T10:00:00"
+    "data_fim": "2026-10-20T10:00:00",
+    "valor_abertura": 161349.5,
+    "onus": [
+      {
+        "tipo": "arrendamento",
+        "valor": 1200,
+        "descricao": "Contrato de arrendamento pelo prazo de 3 anos, com  início em 01-02-2023 e com termo em 31-01-2026, prorrogado por sucessivos períodos de um ano, caso não seja denunciado por qualquer das partes.\nRenda mensal de 1.200,00 € (mil e duzentos euros)\nPoderá consultar o contrato de arrendamento no separador \"documentos anexos\"."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

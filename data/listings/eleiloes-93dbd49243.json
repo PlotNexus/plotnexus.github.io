@@ -5,21 +5,24 @@
   "price": 161941.74,
   "currency": "EUR",
   "location": "Mealhada, Aveiro",
-  "bedrooms": null,
+  "bedrooms": 4,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127547/10072026170439_800sm.jpg",
+  "area_m2": 422.7,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127547/10072026170439_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127547/10072026170439_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127547/10072026170439_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, sito na Rua da Fonte do Corgo n.º 3, Vimieira, da freguesia de Casal Comba, do concelho da Mealhada, descrito na Conservatória de Registo Predial da Mealhada na ficha n.º 3784/20000405 e inscrito na respectiva matriz predial urbana sob o artigo 3174.º",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 422.7,
+  "area_bruta_m2": 422.7,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.35671837,
+    "lng": -8.46559371
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 137650.48,
     "licitacao_atual": 100785.74,
     "data_inicio": "2026-09-15T00:00:03",
-    "data_fim": "2026-10-13T10:00:00"
+    "data_fim": "2026-10-13T10:00:00",
+    "valor_abertura": 80970.87,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

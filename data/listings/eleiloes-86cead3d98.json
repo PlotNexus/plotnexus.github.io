@@ -5,21 +5,35 @@
   "price": 90000,
   "currency": "EUR",
   "location": "Almada, Setúbal",
-  "bedrooms": null,
+  "bedrooms": 6,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026144015_800sm.jpg",
+  "area_m2": 190.8,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026144015_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026144015_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026144015_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026143953_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026143956_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026143959_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026144001_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026144004_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026144007_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026144010_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026144012_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026144017_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026144019_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128882/02092026144022_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 (metade) de prédio urbano composto por moradia de r/c, 1º andar e sótão, com logradouro, sito em Quinta do Balofo, Vale de Cavala, lote 56, freguesia de Charneca de Caparica, concelho de Almada, descrito na 2ª Conservatória do Registo Predial de Almada, sob o n.º 8801/19960411, freguesia Charneca de Caparica, e inscrito na matriz predial urbana da União das Freguesias de Charneca de Caparica e Sobreda sob o artigo 5903.\n\nEm diligência ao local, foi possível verificar que o imóvel se encontra em razoável estado de conservação. \r\nSegundo a informação que foi possível obter, o bem encontra-se ocupado, no rés do chão, pelos executados e filho, e o 1º andar encontra-se ocupado pelos contitulares, informação que deverá confirmar com o contacto constante no anúncio do leilão.\r\nNão se encontram juntas ao leilão fotografias do interior do imóvel uma vez que no interior do mesmo se encontram bens próprios dos executados, que não se encontram em venda. \r\nNota: As áreas indicadas servem apenas como referência pois não foram feitas medições exatas no local. Cuja regularização predial/finanças, quanto a áreas, tipologia, composição e a outras eventuais divergências entre as cadernetas prediais/finanças e o registo predial compete e é da total responsabilidade do adquirente, junto das entidades competentes.\r\nAntes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características e todos os outros aspetos que considerem relevantes. \r\nCom a apresentação da proposta, presume-se que o interessado tenha inspecionado o imóvel e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação. \r\n1/2 (metade) do imóvel é vendido no estado que se encontra pelo que os interessados devem proceder à verificação prévia do estado do bem. \r\nA falta desta por parte do proponente não determina nos termos legais a anulação da venda. Informo ainda que a tipologia tem por base a informação constante da caderneta predial urbana. \r\nCabe ao(s) interessado(s) o dever de se informarem juridicamente sobre as circunstâncias do bem a ser adquirido, recorrendo para o efeito (caso assim entendam), a consulta jurídica a profissional devidamente habilitado – jurista, solicitador ou advogado – uma vez que o ora signatário, enquanto titular do processo, não presta aconselhamento jurídico.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 190.8,
+  "area_bruta_m2": 352,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.603590826215374,
+    "lng": -9.190841317176819
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +45,9 @@
     "valor_minimo": 76500,
     "licitacao_atual": 56572.35,
     "data_inicio": "2026-09-18T00:00:04",
-    "data_fim": "2026-10-14T11:00:00"
+    "data_fim": "2026-10-14T11:00:00",
+    "valor_abertura": 45000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

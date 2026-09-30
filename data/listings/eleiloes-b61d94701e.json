@@ -7,19 +7,27 @@
   "location": "Vizela, Braga",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128855/31082026233731_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128855/31082026233731_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128855/31082026233731_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128855/31082026233731_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128855/31082026233729_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128855/31082026233733_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128855/31082026233735_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128855/31082026233738_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128855/31082026233741_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, destinado a construção, composto por parcela de terreno, com área de 752,98m², sito em Rua da Juventude, Lote 41, Bouçós, Infias, Vizela, descrito na Conservatória do Registo Predial de Vizela sob o n.º 756/Infias e inscrito na matriz predial urbana sob o artigo 852 da freguesia de Infias.\n\nNão serão agendadas visitas nos últimos 5 dias úteis antes da data do fim do leilão e deve ser previamente agendada com o Administrador da insolvência; com a apresentação da proposta presume-se que o interessado inspeccionou o imóvel e bens móveis e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação; todos os custos inerentes à celebração da respectiva escritura pública de compra e venda ou documento particular autenticado serão suportados pelo adquirente; nos termos das disposições conjugadas do n.º 6 do artigo 164º do Código da Insolvência e da Recuperação de Empresas, e n.º 6 do artigo 833º do Código de Processo Civil, a presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação pelo que, nos termos das mesmas disposições legais, constitui ónus do adquirente a respectiva legalização do imóvel, se for caso disso; a formalização da alienação apenas será realizada com o licitante e não com terceiros, excepto se tal for requerido e deferido pelo/a magistrado/a titular do processo; a escritura pública de compra e venda será realizada em local, data e hora a designar pelo administrador da insolvência; na venda via e-leilões, não são cobrados quaisquer valores a título de comissões ou afins; a adjudicação final será sempre feita pelo administrador de insolvência com a concordância dos credores, reservando-se àquela a faculdade de: i. proceder a licitação entre todos os proponentes, convocando-os para o efeito; ii. não aceitar ou rejeitar qualquer proposta que considere não se adequar aos interesses da massa insolvente; iii.no caso de inexistência de propostas e/ou de ofertas abaixo do valor mínimo ou de não aceitação das propostas apresentadas, a venda prosseguirá nos termos a definir;",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 752.98,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.39332348,
+    "lng": -8.310759
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +39,9 @@
     "valor_minimo": 180000,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-13T00:00:02",
-    "data_fim": "2026-10-13T10:00:00"
+    "data_fim": "2026-10-13T10:00:00",
+    "valor_abertura": 105882.36,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

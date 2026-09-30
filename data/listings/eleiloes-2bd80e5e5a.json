@@ -5,21 +5,29 @@
   "price": 85400,
   "currency": "EUR",
   "location": "Rio Maior, Santarém",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95543/15032023160351_800sm.jpg",
+  "area_m2": 96.5,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95543/15032023160351_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95543/15032023160351_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95543/15032023160351_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95543/15032023160341_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95543/15032023160343_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95543/15032023160345_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95543/15032023160347_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95543/15032023160349_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, sito na Rua Principal n.º 11 em Arrouquelas na Freguesia de Arrouquelas e concelho de Rio Maior, composto por casa de habitação de rés-do-chão e logradouro. Inscrito na matriz respetiva sob o artigo 172 e descrito na Conservatória do Registo Predial de Rio Maior sob o número 1580. ambos da freguesia de Arrouquelas.\n\nApesar de na Caderneta Predial constar em como o nº da descrição predial é o 63, o correto é o nº 1580 da freguesia de Arrouquelas.\r\nO imóvel tem entrada também pela Rua dos Arneiros n.º6, Arrouquelas.\r\nDesconhece o AE a existência de licença de utilização.  \r\nO executado não permitiu fotografar o interior do imóvel nem a sua publicidade online, mas constatou o AE que a habitação é antiga e está em razoável estado de conservação não estando acabada no seu interior. \r\n\r\nPara visitas contactar o fiel depositário (executado) entre as 18H30 e as 20H30, verificando os contactos do fiel depositário disponíveis na plataforma e-leilões e para o efeito o log in deve estar efetuado. \r\nCom a apresentação da proposta, presume-se que o interessado tenha inspecionado o imóvel e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação, sendo da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá antes de apresentar proposta assegurar-se que o mesmo corresponde às suas expectativas e se encontra nas condições pretendidas. \r\nO imóvel é vendido no estado em que se encontra e a falta da verificação do estado de conservação por parte do proponente não determina, nos termos legais, a anulação da venda. \r\nNos termos do disposto no nº 6 do artigo 833º, do Código de Processo Civil, a presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que, constitui ónus do adquirente a respetiva obtenção/legalização, se for caso disso. \r\nAdverte-se os potenciais interessados que o recheio da habitação não faz parte do objeto negocial.\r\nExistem dispositivos legais que podem ditar um desfecho diverso do expectável, a saber: \r\na)Exercício do direito de remissão; \r\nb)Exercício do direito de preferência; \r\nc)Insolvência do(s) executado(s); \r\nd)Pagamento da dívida; \r\ne)Eventual verificação de irregularidade que dita a invalidade da venda; \r\nf) Outras causas de suspensão/extinção\r\nEfetuada a venda e tendo em conta que o imóvel está na posse do fiel depositário, este vai ser notificado para o entregar voluntariamente. Se não o fizer, terá o adquirente que requerer a entrega coerciva do imóvel, diligência que terá custos que serão da responsabilidade desse mesmo adquirente.\r\nQuem pretender licitar deve conhecer o funcionamento e regras, aconselhando-se a leitura atenta das perguntas e respostas em https://www.e-leiloes.pt/faqs.aspx",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 96.5,
+  "area_bruta_m2": 322.45,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.25797426,
+    "lng": -8.89544463
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +39,9 @@
     "valor_minimo": 72590,
     "licitacao_atual": 43000,
     "data_inicio": "2026-08-19T15:45:06",
-    "data_fim": "2026-10-20T14:30:00"
+    "data_fim": "2026-10-20T14:30:00",
+    "valor_abertura": 42700,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

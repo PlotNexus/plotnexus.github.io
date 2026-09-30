@@ -7,19 +7,23 @@
   "location": "Pombal, Leiria",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_96317/04042023154817_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_96317/04042023154817_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_96317/04042023154817_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_96317/04042023154817_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_96317/04042023154814_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano composto de lote 1 - lote de terreno destinado a construção, comércio e habitação, sito em Leais, freguesia e concelho de Pombal, descrito na Conservatória do Registo Predial de Pombal sob o nº11605/19980512, freguesia de Pombal e inscrito na respectiva matriz predial urbana sob nº 9931.\n\nTerreno para construção.\r\nNota:\r\nAs áreas indicadas servem apenas como referência pois não foram feitas medições exatas no local. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características e todos os outros aspetos que considerem relevantes.\r\nCom a apresentação da proposta, presume-se que o interessado tenha inspecionado o imóvel e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação.\r\nO imóvel é vendido no estado que se encontra pelo que os interessados devem proceder à verificação prévia do estado do bem. A falta desta por parte do proponente não determina nos termos legais a anulação da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 1486.5,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.9359864,
+    "lng": -8.58880482
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,9 @@
     "valor_minimo": 56649.95,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-28T15:30:38",
-    "data_fim": "2026-10-28T14:30:00"
+    "data_fim": "2026-10-28T14:30:00",
+    "valor_abertura": 33323.5,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

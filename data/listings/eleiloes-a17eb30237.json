@@ -7,19 +7,34 @@
   "location": "Silves, Faro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163039_9_800sm.jpg",
+  "area_m2": 709,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163039_9_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163039_9_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163039_9_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163037_1_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163037_2_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163037_3_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163038_4_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163038_5_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163038_6_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163038_7_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163039_8_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017163039_10_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017165038_1_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017165052_2_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_6116/29032017165112_3_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio misto composto de terra de cultura arvense com 1840 m2 e edifício destinado a indústria com 3 pisos, sendo o 1.ª piso composto por 3 compartimentos, 2.º piso por 1 compartimento e 3.º piso por 3 compartimentos ;e logradouro com 658 m2; um edifício destinado a armazém e logradouro com 420 m2, descrito sob o n.º 1952 da freguesia de São Marcos da Serra, concelho de Silves, e inscrita a parte rústica sob o artigo 6 da Secção DS e a parte urbana sob os artigos 959, 1715 e 1716, da referida freguesia.\n\nNo prédio encontra-se instalado estabelecimento denominado \"Palácio do Trigo\", com diversas salas amplas para receção de grupos, cozinhas, e casas de banho, bem como espaço destinado a bar/café, terraço/esplanada e estacionamento.\r\n\r\nResulta da avaliação junta ao processo que a área edificada é sensivelmente o dobro da área edificada.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 709,
+  "area_bruta_m2": 1492,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.36273233442189,
+    "lng": -8.379250466823578
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +46,9 @@
     "valor_minimo": 84200.97,
     "licitacao_atual": 70001,
     "data_inicio": "2026-09-14T12:22:49",
-    "data_fim": "2026-10-27T14:30:00"
+    "data_fim": "2026-10-27T14:30:00",
+    "valor_abertura": 49529.99,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

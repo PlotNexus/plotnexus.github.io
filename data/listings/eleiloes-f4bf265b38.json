@@ -5,21 +5,31 @@
   "price": 182900,
   "currency": "EUR",
   "location": "Odemira, Beja",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52834/13112019155035_800sm.jpg",
+  "area_m2": 21.8,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52834/13112019155035_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52834/13112019155035_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52834/13112019155035_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52834/13112019155016_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52834/13112019155027_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52834/13112019155050_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52834/13112019155101_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52834/13112019155129_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52834/13112019155145_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_52834/13112019155159_800.jpg"
   ],
-  "description": null,
+  "description": "Lote composto por:\r\n\r\nPrédio descrito na Conservatória do Registo Civil, Predial, Comercial e Automóveis de Odemira sob a descrição nº 2104/20231123 da freguesia de Santa Maria e inscrito na matriz predial urbana sob o artigo matricial nº 1141 da freguesia de Boavista dos Pinheiros, sito na Rua dos Martírios, Boavista dos Pinheiros, 7630-033 Boavista dos Pinheiros;\r\n\r\n\r\nE, \r\n\r\n\r\nPrédio urbano descrito na Conservatória do Registo Civil, Predial, Comercial e Automóveis de Odemira sob o número 1484/20051230 na Conservatória do Registo Predial de Odemira, da Freguesia de Santa Maria, com o artigo matricial urbano número 1140, sito na Rua dos Martírios, nº 11,Boavista dos Pinheiros, 7630-033 Boavista dos Pinheiros - Odemira. (Desanexado do nº 2104/20231123).\n\nO presente lote é composto por dois imóveis, sendo que ambos são compostos por um edifício de um piso, destinado a habitação.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 21.8,
+  "area_bruta_m2": 449,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.57934893,
+    "lng": -8.66166994
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,9 @@
     "valor_minimo": 155465,
     "licitacao_atual": 92500,
     "data_inicio": "2026-07-08T09:23:14",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 91450,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,23 @@
   "location": "Vila Viçosa, Évora",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_48715/25092019124207_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_48715/25092019124207_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_48715/25092019124207_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_48715/25092019124207_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_48715/25092019124217_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano destinado a construção industrial, sito no Biquinha e Alamo - Parque Industrial, Lote de terreno nº 162, 7160 - 201 Vila Viçosa, inscrito na matriz urbana sob o artigo 1962, descrito na C.R.P. de Vila Viçosa sob o nº 1587, da freguesia de Vila Viçosa (Conceição), concelho de Vila Viçosa.\n\nAdvertem-se os interessados que: \r\nÉ da sua única e exclusiva responsabilidade a verificação do estado do bem a adquirir pelo que deverá assegurar-se que o mesmo corresponde às suas expectativas e que se encontra nas condições pretendidas. A não verificação não é fundamento para anulação do procedimento de venda. \r\n2. Qualquer esclarecimento poderá ser obtido junto do escritório do agente de execução através dos contactos 261818210, 968522950 ou 3578@solicitador.net",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 450,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.76964121,
+    "lng": -7.42139067
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,9 @@
     "valor_minimo": 41430.49,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-17T17:46:37",
-    "data_fim": "2026-12-16T14:30:00"
+    "data_fim": "2026-12-16T14:30:00",
+    "valor_abertura": 24370.88,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

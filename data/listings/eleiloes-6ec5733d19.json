@@ -7,19 +7,27 @@
   "location": "Loures, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58768/20032020125335_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58768/20032020125335_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58768/20032020125335_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58768/20032020125335_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58768/20032020125337_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58768/20032020125339_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58768/20032020125341_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58768/20032020125342_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_58768/20032020125344_800.jpg"
   ],
-  "description": null,
+  "description": "Lote de Terreno para construção com a área de 900m2, sito na Quinta Vale dos Clérigos, do Algueirinho ou do Borracho, 2680-050 Camarate, descrito na 2ª Conservatória do Registo Predial de Loures sob o n.º 9 e inscrito na matriz 6607 da União de Freguesias de Camarate, Unhos e Apelação, concelho de Loures.\n\nÉ da exclusiva responsabilidade do licitante a verificação do estado do lote, pelo que deverá assegurar-se de que o mesmo se encontra nas condições pretendidas, antes de licitar.\r\n\r\nMais se informa que, até ocorrer a entrega do imóvel o mesmo poderá sofrer deteriorações e/ou alterações, cuja responsabilidade não é imputável à Agente de Execução.\r\n\r\nNos termos do n.º 2 do artigo 824.º do Código de Processo Civil, o preço deverá ser depositado no prazo de 15 dias após a notificação do Agente do Execução para o efeito.\r\n\r\nO facto do licitante estar a aguardar resposta sobre eventual financiamento não suspende o prazo de pagamento supra indicado.\r\n\r\nPor fim, somos a advertir que a falta de depósito do preço poderá dar lugar à decretação do arresto de bens suficientes para garantir o valor em falta, tudo conforme consta do disposto no artigo 825.º do CPC, n.º 1, al.c).\r\n\r\nA PRESENTE VENDA FOI PUBLICITADA NA PLATAFORMA E-LEILÕES, PORÉM A APRESENTAÇÃO DE PROPOSTAS PODE SER REALIZADA POR OUTRAS VIAS, QUER VIA CTT, QUER VIA E-MAIL. \r\nOS PROPONENTES QUE APRESENTEM PROPOSTA VIA MAIL OU CTT, DEVEM FAZER CONSTAR DA MESMA,DE FORMA CLARA E INEQUÍVOCA, A IDENTIFICAÇÃO DO PROPONENTE (nome completo, NIF, número de identificação civil, naturalidade, estado civil, se casado nome e NIF do cônjuge e regime de bens e residência, SENDO QUE NO CASO DE SE TRATAR DE PESSOA COLETIVA, DEVERÁ CONSTAR PARA ALÉM DA IDENTIFICAÇÃO DA PESSOA COLETIVA (certidão comercial ou identificação do código de acesso) A LEGITIMIDADE DE QUEM A REPRESENTA, BEM COMO A IDENTIFICAÇÃO DO BEM EM VENDA E NÚMERO DO PROCESSO JUDICIAL.\r\n\r\n\r\nMais somos a informar que dispomos de despacho judicial a autorizar a venda pelo valor de 207.800,00€.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 900,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.78808319,
+    "lng": -9.14214331
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +39,9 @@
     "valor_minimo": 207800,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-08T09:00:12",
-    "data_fim": "2026-11-17T14:30:00"
+    "data_fim": "2026-11-17T14:30:00",
+    "valor_abertura": 122235.3,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

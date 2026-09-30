@@ -7,19 +7,26 @@
   "location": "Porto de Mós, Leiria",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127468/15062026153310_800sm.jpg",
+  "area_m2": 60,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127468/15062026153310_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127468/15062026153310_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127468/15062026153310_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127468/15062026153233_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127468/15062026153245_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127468/15062026153257_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127468/15062026153348_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio misto, descrito na Conservatória do Registo Predial de Porto de Mós sob o n.º 1280, freguesia de Calvaria de Cima, sito em Carqueijal, composto,\r\nquanto à parte urbana, por casa de habitação de rés-do-chão, páteo, palheiro e logradouro, e, quanto à parte rústica, por cultura arvense, mata e vinha, inscrito na matriz predial urbana sob o artigo 1873 e na matriz predial rústica sob o artigo 288, secção 006, da freguesia de Calvaria de Cima.\n\nA Certidão Permanente da Conservatória do Registo Predial informa que o prédio misto possui uma área total de 9.540m2 e que a parte urbana possui uma área de total de 1.680m2. A caderneta predial urbana confirma que o terreno do prédio urbano possui 1.680m2, que a área de implantação do edifício, igual à área bruta de construção, por possuir apenas um piso, é de 90 m2, que se divide em 30 m2 de área bruta dependente e 60 m2 de área bruta privativa. A caderneta predial rústica refere que a área total é de 1,003000 ha e se divide em 7 parcelas, com indicação das respetivas áreas e natureza da ocupação.  As áreas indicadas são as que constam das respetivas cadernetas prediais e certidão da conservatória do registo predial, pelo que os interessados devem verificar a conformidade dos dados, qualidades, características e todos os aspetos de considerem relevantes antes de efetuarem propostas. Com a apresentação da proposta, presume-se que o interessado tenha inspecionado o bem e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação. O bem é vendido no estado que se encontra pelo que os interessados devem proceder à verificação prévia do estado do bem. A falta desta, por parte do proponente não determina, nos termos legais a anulação da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 60,
+  "area_bruta_m2": 1680,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.62030412,
+    "lng": -8.85019784
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 175529.25,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-18T14:03:10",
-    "data_fim": "2026-10-20T14:30:00"
+    "data_fim": "2026-10-20T14:30:00",
+    "valor_abertura": 103252.5,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

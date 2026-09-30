@@ -7,19 +7,22 @@
   "location": "Belmonte, Castelo Branco",
   "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123576/22012026102211_800sm.jpg",
+  "area_m2": 142.5,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123576/22012026102211_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123576/22012026102211_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123576/22012026102211_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano, composto por fracção autónoma, designada pela letra \"F\",  destinado a habitação no segundo andar direito, com um espaço na cave para garagem designado por F1, e um meio da câmara de entrada para a fracção (corta-fogo), sito em Fonte Grande - Olival, freguesia e concelho de Belmonte, com as seguintes confrontações: a norte: Rua dos Bombeiros, a sul: Câmara Municipal de Belmonte, a nascente: Manuel Soares Amaro e a poente: Junta de freguesia de Belmonte; descrito na CRP de Belmonte sob o n.º 1635/19980701-F da freguesia Belmonte e inscrito na matriz urbana sob o n.º 1405-F, da freguesia e concelho de Belmonte, todavia, teve origem na matriz urbana sob o n.º 2286-F da freguesia de Belmonte e Colmeal da Torre (extinta), concelho de Belmonte  e com o valor patrimonial de 59.552,44 euros.\n\n- Imóvel em razoável estado de conservação atendendo à idade do mesmo;\r\n- O imóvel possui alvará de licença de utilização n.º 57/2000 de 31/07/2000.\r\n- As visitas ao imóvel deverão ser marcadas previamente, utilizando para o efeito o contacto do fiel depositário.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 142.5,
+  "area_bruta_m2": 683,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.35989757,
+    "lng": -7.35052582
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 140250,
     "licitacao_atual": 83000,
     "data_inicio": "2026-08-19T22:38:27",
-    "data_fim": "2026-10-20T14:30:00"
+    "data_fim": "2026-10-20T14:30:00",
+    "valor_abertura": 82500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

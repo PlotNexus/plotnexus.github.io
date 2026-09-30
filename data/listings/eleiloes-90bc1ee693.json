@@ -5,21 +5,24 @@
   "price": 20500,
   "currency": "EUR",
   "location": "Matosinhos, Porto",
-  "bedrooms": null,
+  "bedrooms": 6,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125628/27082026163721_800sm.jpg",
+  "area_m2": 124.6,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125628/27082026163721_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125628/27082026163721_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_125628/27082026163721_800.jpg"
   ],
-  "description": null,
+  "description": "1/12 do prédio urbano composto por casa com dois pavimentos, destinado a habitação e logradouro, sito na Rua de Morgunhão, n.º 186, freguesia de S. Mamede de Infesta, descrito na Conservatória do Registo Predial de Matosinhos com o n.º 4014 da freguesia de S.Mamede de Infesta, e inscrita na matriz predial urbano sob o artigo 4304 da freguesia de São Mamede de Infesta",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 124.6,
+  "area_bruta_m2": 136.6,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.181560968479786,
+    "lng": -8.627969026565552
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 17425,
     "licitacao_atual": 10666.2,
     "data_inicio": "2026-09-06T00:00:02",
-    "data_fim": "2026-10-06T10:00:00"
+    "data_fim": "2026-10-06T10:00:00",
+    "valor_abertura": 10250,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

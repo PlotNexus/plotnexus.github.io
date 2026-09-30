@@ -5,21 +5,28 @@
   "price": 176470.59,
   "currency": "EUR",
   "location": "Coruche, Santarém",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124876/09032026162731_800sm.jpg",
+  "area_m2": 60,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124876/09032026162731_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124876/09032026162731_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124876/09032026162731_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124876/09032026162737_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124876/09032026162745_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124876/09032026162752_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124876/09032026162758_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano, descrito como casa de habitação de rés-do-chão e 1º andar, sito na Rua Luís de Camões, nº 45, 2100-339 Couço, descrito na Conservatória do Registo Predial de Coruche, com o nº1805, e inscrito na respetiva matriz urbana sob o artº4168, da Freguesia de Couço, concelho de Coruche e distrito de Santarém, com o valor patrimonial actual de 37.260,46 €, determinado no ano de 2023.\n\nO imóvel, não obstante ter sido apreendido para a massa insolvente, tem no seu interior a residir uma senhora, com cerca de 70/75 anos de idade, que não permitiu o acesso ao seu interior para tirarmos fotografias, motivo pelo qual não juntamos fotografias do interior.\r\nFoi instaurada contra a massa insolvente e contra os credores no dia 01.04.2026, pela Sra. que reside no imóvel, uma ação de restituição do imóvel apreendido para a massa insolvente, que se encontra à venda neste anúncio, ação essa que tem  o nº766/24.2T8FND-Apenso F e que corre termos no juízo Local Cível da Guarda-Juiz 1 do Tribunal Judicial da Comarca da Guarda. Quem pretender apresentar propostas de aquisição para este imóvel, deverá tomar consciência de que existe esta ação em curso, a requerer a restituição do imóvel em venda, e que com a apresentação da sua proposta, aceita desde logo, ser da sua conta e responsabilidade, o resultado de tal ação, de acordo com o disposto no art.160º, alínea c) do CIRE, nomeadamente correndo o risco de o imóvel ter de ser eventualmente entregue a quem instaurou a ação .",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 60,
+  "area_bruta_m2": 106.55,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.98338998,
+    "lng": -8.28986212
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,15 @@
     "valor_minimo": 150000,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-10T15:40:18",
-    "data_fim": "2026-11-10T14:30:00"
+    "data_fim": "2026-11-10T14:30:00",
+    "valor_abertura": 88235.3,
+    "onus": [
+      {
+        "tipo": "os que não se extinguem com a venda judicial",
+        "valor": null,
+        "descricao": "O imóvel, não obstante ter sido apreendido para a massa insolvente, tem no seu interior a residir uma senhora, com cerca de 70/75 anos de idade, que não permitiu o acesso ao seu interior para tirarmos fotografias, motivo pelo qual não juntamos fotografias do interior.\nFoi instaurada contra a massa insolvente e contra os credores no dia 01.04.2026, pela Sra. que reside no imóvel, uma ação de restituição do imóvel apreendido para a massa insolvente, que se encontra à venda neste anúncio, ação essa que tem  o nº766/24.2T8FND-Apenso F e que corre termos no juízo Local Cível da Guarda-Juiz 1 do Tribunal Judicial da Comarca da Guarda. Quem pretender apresentar propostas de aquisição para este imóvel, deverá tomar consciência de que existe esta ação em curso, a requerer a restituição do imóvel em venda, e que com a apresentação da sua proposta, aceita desde logo, ser da sua conta e responsabilidade, o resultado de tal ação, de acordo com o disposto no art.160º, alínea c) do CIRE, nomeadamente correndo o risco de o imóvel ter de ser eventualmente entregue a quem instaurou a ação ."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -5,21 +5,37 @@
   "price": 400000,
   "currency": "EUR",
   "location": "Vila do Conde, Porto",
-  "bedrooms": 3,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191614_800sm.jpg",
+  "area_m2": 174,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191614_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191614_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191614_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191547_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191550_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191552_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191554_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191556_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191558_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191601_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191603_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191605_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191607_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191609_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191612_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124148/12022026191616_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano destinado a habitação do tipo T 3, composto de R/C,  1.º andar e anexo, sito na Rua Padre Joaquim Amorim n.º 144, na freguesia de Touguinha em Vila do Conde (4480-512).\r\nO rés do chão tem uma divisão, casa de banho e garagem, e o primeiro andar tem três quartos, a cozinha, uma casa de banho e varanda.\r\nInscrito na matriz predial sob o art.º 943 e descrito na respetiva Conservatória de Registo Predial sob a descrição 407 da freguesia de Touguinha no Concelho de Vila do Conde.\n\nEsta  venda é feita no âmbito do processo de inventário 974/24.6T8VCD.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 174,
+  "area_bruta_m2": 492,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.37326137,
+    "lng": -8.71690074
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +47,20 @@
     "valor_minimo": 340000,
     "licitacao_atual": 205000,
     "data_inicio": "2026-09-22T16:09:27",
-    "data_fim": "2026-12-22T14:30:00"
+    "data_fim": "2026-12-22T14:30:00",
+    "valor_abertura": 200000,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "sem onus"
+      },
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "sem onus"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,31 @@
   "location": "Baião, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122607_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122607_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122607_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122607_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122609_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122611_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122614_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122616_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122619_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122621_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122622_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122624_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_62829/21092020122626_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, cultura pinhal e mato - 3.450,00 m2, cultura - 1.660,00 m2, situado em Pedregais, freguesia de Grilo, concelho de Baião, inscrito na rústica matriz sob os artigos 356 e 1012, respectivamente com os valores patrimoniais de € 10,06 e € 149,64, descrito na Conservatória do Registo Civil, Predial, Comercial e Automóveis de Baião sob o nº 551 - freguesia Grilo\n\nAdverte-se que cabe exclusivamente ao proponente a responsabilidade de verificar se o estado e características do bem a adquirir correspondem às suas expectativas. O que deverá efectuar antes de apresentar a competente proposta.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 5110,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.14712092791222,
+    "lng": -8.07718276977539
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +43,9 @@
     "valor_minimo": 8500,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-07T10:30:12",
-    "data_fim": "2026-12-09T14:30:00"
+    "data_fim": "2026-12-09T14:30:00",
+    "valor_abertura": 5000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,22 @@
   "location": "Torres Vedras, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114787/15092026172241_800sm.jpg",
+  "area_m2": 109,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114787/15092026172241_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114787/15092026172241_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_114787/15092026172241_800.jpg"
   ],
-  "description": null,
+  "description": "Verba 1 - 1/5 indiviso da Fração Autónoma designada pela letra \"A\", correspondente ao rés-do-chão frente, destinado a comércio e serviços, dois espaços de estacionamento e um arrumo, ambos na cave, área coberta de 112 m2 e terraço com 35 m2, inscrito na matriz predial urbana sob o artigo 792-A da freguesia de Maceira, concelho de Torres Vedras e descrito na Conservatória do Registo Predial sob o n.º 193/20050902-A, da mesma freguesia e concelho.\n\nO bem é vendido no estado físico e jurídico em que se encontra, livre de ónus ou encargos. A falta de vistoria do bem por parte dos potenciais interessados, não implica, nos termos da Lei, a anulação da venda, presumindo-se que os mesmos tiveram pleno conhecimento do estado de conservação e características do bem colocado em venda, aceitando o mesmo no estado em que se encontra. Em caso de adjudicação do bem, o adjudicatário deverá efetuar, no prazo de 8 dias após a notificação de adjudicação, o pagamento de caução de 20% do valor oferecido, sendo o remanescente do preço pago na data da escritura compra e venda, a qual deverá celebrar-se apenas com o apresentante da proposta e não com terceiros que este possa vir a indicar. A transmissão do bem será feita através de escritura pública ou casa pronta, a agendar pelo Administrador da Insolvência e deverá ser realizada em Cartório Notarial/Conservatória da área do domicílio profissional do Administrador da Insolvência, no prazo máximo de 60 dias, contados da data da adjudicação. Todos os custos inerentes à celebração da respetiva escritura de compra e venda serão suportados pelo adquirente; Nos termos das disposições conjugadas do n.º 6, do artigo 164º, do Código da Insolvência e da Recuperação de Empresas, e n.º 6 do artigo 833º, do Código de Processo Civil, a presente venda está dispensada da apresentação do alvará de licença de utilização do prédio, certificado energético e ficha técnica de habitação, pelo que, nos termos das mesmas disposições legais, constitui ónus do adquirente a respetiva legalização do imóvel, se for caso disso. Não serão agendadas visitas nos últimos 5 dias úteis antes da data do fim da venda.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 109,
+  "area_bruta_m2": 119,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.183512153575805,
+    "lng": -9.32690441608429
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 10343.42,
     "licitacao_atual": 12000,
     "data_inicio": "2026-09-19T23:59:59",
-    "data_fim": "2026-10-14T11:00:00"
+    "data_fim": "2026-10-14T11:00:00",
+    "valor_abertura": 6084.37,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

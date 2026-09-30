@@ -7,19 +7,29 @@
   "location": "Palmela, Setúbal",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128522/31072026071846_800sm.jpg",
+  "area_m2": 75.6,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128522/31072026071846_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128522/31072026071846_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128522/31072026071846_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128522/31072026071833_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128522/31072026071835_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128522/31072026071837_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128522/31072026071840_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128522/31072026071842_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128522/31072026071844_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128522/31072026071849_800.jpg"
   ],
-  "description": null,
+  "description": "Fração autónoma designada pela letra “G” a que corresponde o rés-do-chão esquerdo, para comércio, do prédio urbano sito na Urb. Portais da Arrábida, Av. dos Descobrimentos, Lote 187, Quinta do Anjo, descrito na Conservatória do Registo Predial de Palmela sob o n.º 1814, da freguesia de Quinta do Anjo, inscrito na respetiva matriz predial urbana pelo artigo 5723.\n\nO imóvel encontra-se em bom estado de conservação. Foi junto aos autos um contrato de arrendamento por parte dos executados, contrato este datado de 01/01/2023, alegando que o imóvel está arrendado. No entanto, foi questionada a validade deste pretenso contrato de arrendamento, uma vez que a penhora do imóvel ocorreu em 06/01/2023. Efetivamente, os executados não lograram provar que o pretenso contrato de arrendamento era anterior à penhora do imóvel, uma vez que os recibos de renda que juntaram aos autos, estão datados de 27/10/2023, ou seja, em data posterior à citação dos executados. Nessa medida, foi proferida decisão por parte do agente de execução de não reconhecer a validade deste pretenso contrato de arrendamento, decisão esta que, devidamente notificada às partes, não foi objeto de reclamação ou impugnação. Os executados são os fiéis depositários do imóvel, sendo que, qualquer contacto, nomeadamente, para efeitos de visita ao imóvel, deverá ser feito em primeira linha para o agente de execução, o qual agilizará com os executados, através da sua Ilustre Mandatária, o dia e hora para o efeito.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 75.6,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.56936488,
+    "lng": -8.9537297
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,15 @@
     "valor_minimo": 52959.5,
     "licitacao_atual": 63756.25,
     "data_inicio": "2026-08-13T00:00:02",
-    "data_fim": "2026-09-30T10:30:00"
+    "data_fim": "2026-09-30T10:30:00",
+    "valor_abertura": 31152.65,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "No imóvel está a funcionar a Firma Transformarte - Comércio e Prestação de Serviços, Lda. No entanto, apesar de ter sido alegada a existência de um contrato de arrendamento com esta firma, foi decidido que esse pretenso contrato de arrendamento não é oponível à execução, uma vez que os executados não lograram fazer prova de que este contrato de arrendamento era anterior à penhora registada sobre o imóvel."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

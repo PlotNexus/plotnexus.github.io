@@ -5,21 +5,43 @@
   "price": 1000000,
   "currency": "EUR",
   "location": "Lisboa, Lisboa",
-  "bedrooms": null,
+  "bedrooms": 6,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163512_800sm.jpg",
+  "area_m2": 200,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163512_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163512_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163512_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163507_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163509_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163514_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163516_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163518_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163521_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163523_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163525_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163527_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163529_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163531_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163533_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163536_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163538_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163540_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163542_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163544_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163547_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124735/04032026163549_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano constituído por casa de habitação, composta de cinco pavimentos, sito na Rua da barroca, nº80 a 82, freguesia de Encarnação, na cidade de Lisboa, então omisso à CRP competente, inscrito na matriz sob o artigo 215, prédio que atualmente se encontra descrito na CRP de Lisboa sob o nº181/19911121 e inscrito na matriz sob o artigo 371 da freguesia de Misericórdia.\n\nA presente venda é realizada no âmbito de um processo de divisão de coisa comum. Visitas mediante marcação prévia com a pessoa melhor identificada no campo \"visitas por marcação\". Deverão os interessados visitar o imóvel, antes de licitarem e inteirar-se das qualidades, estado e características e outros aspetos que considerem relevantes, do bem - a não verificação não é fundamento para a desistência/anulação do procedimento de venda. Nos termos do artigo 833º, n.º 6 do CPC, a venda no âmbito duma execução, está dispensada da licença de utilização/construção, advertindo-se que a respetiva legalização, em caso disso, constitui ónus do comprador. Deverão ainda os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se junto de um Solicitador ou Advogado.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 200,
+  "area_bruta_m2": 44,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.71137133,
+    "lng": -9.14452548
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,15 @@
     "valor_minimo": 850000,
     "licitacao_atual": 531000,
     "data_inicio": "2026-08-17T12:42:45",
-    "data_fim": "2026-10-01T14:30:00"
+    "data_fim": "2026-10-01T14:30:00",
+    "valor_abertura": 500000,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "O rés-do-chão do imóvel encontra-se ocupado pela fiel depositária, a qual reside no local há mais de 50 anos, não reconhecendo os co-proprietários do imóvel qualquer título ou legitimidade que fundamente a referida ocupação."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

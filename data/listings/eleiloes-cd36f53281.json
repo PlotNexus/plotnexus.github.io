@@ -7,19 +7,32 @@
   "location": "Palmela, Setúbal",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122626_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122626_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122626_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122626_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122621_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122623_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122625_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122628_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122630_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122632_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122634_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122636_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122637_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_94044/03022023122639_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, composto de cultura arvense de segunda, sito em Herdade de Algeruz e de Bem Gordo, freguesia e concelho de Palmela, inscrito na matriz rústica sob o artigo 108 - Secção M3, descrito na Conservatória do Registo Predial de Palmela sob o nº 15145 - freguesia Palmela\n\nAdverte-se que:\r\nENCONTRAM-SE PENDENTES EMBARGOS DE TERCEIRO.\r\nCabe exclusivamente ao proponente a responsabilidade de verificar se o estado e as características do bem a adquirir correspondem às suas expectativas, o que deverá efectuar antes da apresentação da proposta; AS PROPOSTAS DEVEM SER APRESENTADAS EXCLUSIVAMENTE ATRAVÉS DESTA PLATAFORMA, NÃO SENDO CONSIDERADAS AS OFERECIDAS POR OUTRO MEIO.\r\nAconselha-se a prévia leitura atenta das regras e faq's disponíveis em https://www.e-leiloes.pt/regras.aspx e https://www.e-leiloes.pt/faqs.aspx.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 12400,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.5762189742413,
+    "lng": -8.832664489746094
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +44,9 @@
     "valor_minimo": 875500,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-07T10:11:16",
-    "data_fim": "2026-12-09T14:30:00"
+    "data_fim": "2026-12-09T14:30:00",
+    "valor_abertura": 515000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

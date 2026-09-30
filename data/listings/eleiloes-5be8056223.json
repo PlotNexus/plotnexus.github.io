@@ -7,19 +7,22 @@
   "location": "Montemor-o-Velho, Coimbra",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128548/04082026104234_800sm.jpg",
+  "area_m2": 500,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128548/04082026104234_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128548/04082026104234_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128548/04082026104234_800.jpg"
   ],
-  "description": null,
+  "description": "Terreno Rústico para cultura arvense ou permanente, parcialmente cultivado e parcialmente ocupado por pastagem ou pousio, com vegetação arbórea dispersa, com área de 500 m².\n\n•\tO prédio é vendido no estado físico e jurídico em que se encontra.\r\n•\tNos termos do disposto no nº 6 do 833º do CPC a venda está dispensada da apresentação do alvará de licença de utilização, certificado energético e ficha técnica de habitação, pelo que caberá ao novo proprietário a obtenção de tal documentação se dela necessitar.\r\n•\tAs áreas indicadas servem apenas como referência pois não foram feitas medições exatas no local.\r\n•\tÉ da única e exclusiva responsabilidade dos proponentes a verificação do estado do prédio a adquirir, pelo que, antes de apresentar proposta, deverá verificar se o mesmo corresponde às suas expectativas.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 500,
+  "area_bruta_m2": 500,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.27794423,
+    "lng": -8.69620946
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 2695,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-06T00:00:02",
-    "data_fim": "2026-10-08T10:00:00"
+    "data_fim": "2026-10-08T10:00:00",
+    "valor_abertura": 1585.3,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

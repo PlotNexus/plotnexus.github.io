@@ -7,19 +7,31 @@
   "location": "Meda, Guarda",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104534_800sm.jpg",
+  "area_m2": 600,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104534_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104534_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104534_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104537_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104540_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104542_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104544_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104547_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104550_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104552_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104555_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_99267/27102023104558_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico sito no Folgaroso, freguesia e concelho da Mêda, composto de terra de pastagem, com oliveiras, com a área de 600m2, descrito na CRP da Mêda sob o nº2994/20180516 e inscrito na matriz da actual freguesia da Mêda, Outeiro de Gatos e Fonte Longa sob o artigo 396.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 600,
+  "area_bruta_m2": 600,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.96410191110437,
+    "lng": -7.260063886642455
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +43,9 @@
     "valor_minimo": 510,
     "licitacao_atual": 300,
     "data_inicio": "2026-08-28T12:06:23",
-    "data_fim": "2026-11-26T14:30:00"
+    "data_fim": "2026-11-26T14:30:00",
+    "valor_abertura": 300,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

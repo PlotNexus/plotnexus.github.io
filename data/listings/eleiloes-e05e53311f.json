@@ -7,19 +7,33 @@
   "location": "Barcelos, Braga",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025180941_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025180941_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025180941_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025180941_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025181000_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025181003_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025181006_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025181015_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025181018_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025181020_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025181030_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025181033_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025181036_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025181044_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_122732/10122025181047_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, composto por Lavradio, situado no lugar de Sobreira, união de freguesia de Silveiros e Rio Côvo (Sta. Eulália), concelho de Barcelos, descrito na CRP sob o número 00218/SILVEIROS, inscrito na matriz predial respectiva sob o artigo 243.\n\nSituado muito perto do complexo desportivo de Silveiros.\r\nA área que consta da documentação, nomeadamente na matriz e registo predial, poderá não ser a correcta, pelo que se deverá proceder à medição do mesmo para aferir.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 7900,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.468103623942206,
+    "lng": -8.576803207397461
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +45,15 @@
     "valor_minimo": 102000,
     "licitacao_atual": 60000,
     "data_inicio": "2026-09-23T00:00:00",
-    "data_fim": "2026-10-13T10:30:00"
+    "data_fim": "2026-10-13T10:30:00",
+    "valor_abertura": 60000,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Não são conhecidos quaisquer ónus e/ou encargos"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

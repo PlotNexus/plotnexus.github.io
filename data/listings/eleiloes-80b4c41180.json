@@ -7,19 +7,34 @@
   "location": "Tavira, Faro",
   "bedrooms": 1,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026171612_800sm.jpg",
+  "area_m2": 48.2,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026171612_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026171612_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026171612_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026171632_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026171708_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026171730_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026171811_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026171830_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026171848_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026171908_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026171946_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026172006_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026172030_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026172052_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127715/24062026172110_800.jpg"
   ],
-  "description": null,
+  "description": "Apartamento de tipologia T1, sito na Rua Capitão Baptista Marçal - \"O Peixinho\", n.º 2, R/C, freguesia de  Cabanas de Tavira, concelho de Tavira, destinado à habitação, descrito na CRP de Tavira sob o n.º 227/19990504-D e inscrito na matriz predial urbana sob o artigo 495 - fração D.\r\nArea bruta privativa: 48,200m2; Area bruta dependente: 11,1000m2\n\nVenda em Processo Declarativo",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 48.2,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.13607745,
+    "lng": -7.60239351
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +46,15 @@
     "valor_minimo": 153000,
     "licitacao_atual": 101000,
     "data_inicio": "2026-09-23T00:00:00",
-    "data_fim": "2026-10-14T11:00:00"
+    "data_fim": "2026-10-14T11:00:00",
+    "valor_abertura": 90000,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Na fração autonoma em venda foi autorizado,  a nela habitar Paulo Miguel Maciel Tavares Taklim Gaspar por contrato de comodato gratuito, celebrado em 11/05/2026 com aditamento de 25/06/2026, no qual se obriga a entregar o espaço por si ocupado livre de pessoas e coisas e com o pagamentos dos consumos de energia e gas por si prestados até ao dia 31/12/2026"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

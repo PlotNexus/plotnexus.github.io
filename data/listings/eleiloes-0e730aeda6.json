@@ -7,19 +7,22 @@
   "location": "Vimioso, Bragança",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66410/04122020154310_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66410/04122020154310_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66410/04122020154310_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_66410/04122020154310_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico correspondente a terra de cultura de centeio, confronta a norte com João Santos João, a sul com Mário Esteves Gonçalves, a nascente com João Garcia Galhardo e a poente com João Tomé de Quina, sito em Chopeiro, freguesia de Avelanoso, concelho de Vimioso, descrito na Conservatória do Registo Predial de Vimioso sob o n.º 979 e inscrito na respectiva matriz sob o artigo 5738, atualmente correspondente à União das Freguesias de Vale de Frades e Avelanoso.\n\nAveriguou-se que o prédio rústico é distante do centro da localidade, com difícil acesso, estando coberto por mato alto. Os interessados poderão verificar, no local, o estado atual estado do bem. As coordenadas GPS indicadas correspondem à localização exata do prédio em questão.\r\n * A apresentação de propostas através da plataforma é facultativa, podendo ser apresentadas propostas escritas, junto da Agente de Execução, de valor inferior aos valores aqui anunciados. Encerrada a publicitação irá a Agente de Execução verificar todas as propostas apresentadas no âmbito da venda por negociação particular, com vista à notificação às partes da proposta de maior valor e posterior aceitação da mesma, nos termos da lei.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 7200,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.67535201565402,
+    "lng": -6.425532102584839
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 5418.75,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-25T17:14:13",
-    "data_fim": "2026-10-15T14:30:00"
+    "data_fim": "2026-10-15T14:30:00",
+    "valor_abertura": 3187.5,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,30 @@
   "location": "Lisboa, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127260/03062026180459_800sm.jpg",
+  "area_m2": 318.15,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127260/03062026180459_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127260/03062026180459_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127260/03062026180459_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127260/03062026180440_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127260/03062026180443_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127260/03062026180446_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127260/03062026180448_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127260/03062026180451_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127260/03062026180454_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127260/03062026180457_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127260/03062026180503_800.jpg"
   ],
-  "description": null,
+  "description": "1/3 da fracção autónoma designada pela letra C, correspondente ao primeiro andar do prédio urbano sito na Rua Castilho N 67A, 67B Nº 67 67 Lisboa 1250-193, freguesia de Santo António, concelho de Lisboa, descrito na Conservatória do Registo Predial de Lisboa sob o número 385, da freguesia de São Mamede, inscrito na respectiva matriz predial urbana sob o artigo 00756 da Freguesia Santo António.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 318.15,
+  "area_bruta_m2": 335,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.72390832,
+    "lng": -9.15254573
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +42,9 @@
     "valor_minimo": 561000,
     "licitacao_atual": 330000,
     "data_inicio": "2026-09-11T10:05:20",
-    "data_fim": "2026-10-01T14:30:00"
+    "data_fim": "2026-10-01T14:30:00",
+    "valor_abertura": 330000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

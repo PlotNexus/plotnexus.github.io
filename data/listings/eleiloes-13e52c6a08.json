@@ -7,19 +7,38 @@
   "location": "Tábua, Coimbra",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171617_800sm.jpg",
+  "area_m2": 290,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171617_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171617_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171617_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171641_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171718_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171730_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171742_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171755_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171807_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171832_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171843_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171855_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171907_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171918_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171927_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171948_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020171958_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020172008_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_64381/22102020172018_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 do Prédio Rústico, sito Moita, São Geraldo, União das Freguesias de Covas e Vila Nova de Oliveirinha, Concelho de Tábua, composto de pastagem com 6 oliveiras, inscrito na respectiva matriz predial sob o artigo 6 (antigo 4962 da Freguesia de Covas - extinta) com 290 m2 e descrito na Conservatória do Registo Predial de Tábua sob o n.º 3729/20050218.\n\nO imóvel encontra-se a poucos metros do centro de São Geraldo. O acesso é feito por uma estrada de terra batida, a qual permite a passagem de veículos (automóveis) e de tractores agrícolas. O imóvel encontra-se devidamente delimitado. Importa referir que apenas está a ser vendida uma parte (1/2) referente ao imóvel em causa.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 290,
+  "area_bruta_m2": 290,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.36637837223623,
+    "lng": -7.954659461975097
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +50,9 @@
     "valor_minimo": 59500,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-01T11:13:38",
-    "data_fim": "2026-12-02T14:30:00"
+    "data_fim": "2026-12-02T14:30:00",
+    "valor_abertura": 35000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

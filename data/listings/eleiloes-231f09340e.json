@@ -7,19 +7,23 @@
   "location": "Cuba, Beja",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_54100/11122019163904_800sm.jpg",
+  "area_m2": 6000,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_54100/11122019163904_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_54100/11122019163904_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_54100/11122019163904_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_54100/11122019163901_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, descrito sob o n.º 263 junto da Conservatória do Registo Predial de Cuba, freguesia de Vila Ruiva, inscrito na respectiva matriz predial rústica sob o art.º 130 - Secção C, sito em Concelho, composto por Terreno de Olival, solo subjacente - cultura arvense de olival.\n\n- Oposição à Execução: não é conhecida.\r\n- Encargos com a compra e venda: venda sujeita a IMT e Imposto de selo (se aplicáveis nos termos dos respectivos códigos).\r\n- O terreno encontra-se em zona de difícil acesso.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 6000,
+  "area_bruta_m2": 6000,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.2454943068686,
+    "lng": -7.941849231719971
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,15 @@
     "valor_minimo": 6200,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-07T15:00:16",
-    "data_fim": "2026-11-05T14:30:00"
+    "data_fim": "2026-11-05T14:30:00",
+    "valor_abertura": 3647.06,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "* Não são conhecidos."
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

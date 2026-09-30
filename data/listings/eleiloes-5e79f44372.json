@@ -7,19 +7,31 @@
   "location": "Alcoutim, Faro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141405_800sm.jpg",
+  "area_m2": 0.636,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141405_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141405_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141405_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141406_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141408_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141410_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141412_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141413_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141415_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141417_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141419_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128634/06082026141420_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico com o artigo matricial 162, Secção 078, descrito sob o n.º 2358 e sito na Cercado, Alcoutim, descrito na Conservatória de Registo Predial de Alcoutim, na União de freguesias de Alcoutim e Pereiro, concelho de Alcoutim e distrito de Faro.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0.636,
+  "area_bruta_m2": 0.636,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.42813142,
+    "lng": -7.51930651
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +43,9 @@
     "valor_minimo": 8585,
     "licitacao_atual": 5100.5,
     "data_inicio": "2026-08-25T00:00:04",
-    "data_fim": "2026-09-30T11:00:00"
+    "data_fim": "2026-09-30T11:00:00",
+    "valor_abertura": 5050,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

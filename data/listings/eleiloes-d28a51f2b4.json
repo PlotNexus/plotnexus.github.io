@@ -7,19 +7,22 @@
   "location": "Serpa, Beja",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128839/02092026132830_800sm.jpg",
+  "area_m2": 35875,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128839/02092026132830_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128839/02092026132830_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128839/02092026132830_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico denominado SESMO DA LOBATA, destinado a cultura arvense, coma área de 3,5875 ha, descrito na matriz sob o art.º 94 da secção 1H, da União de Freguesias de Salvador e Santa Maria, concelho de Serpa, e descrito no registo predial sob o n.º 1472 da freguesia de Santa Maria, concelho de Serpa.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 35875,
+  "area_bruta_m2": 35875,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.94,
+    "lng": -7.59
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 76500,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-15T00:00:00",
-    "data_fim": "2026-10-14T10:30:00"
+    "data_fim": "2026-10-14T10:30:00",
+    "valor_abertura": 45000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,29 @@
   "location": "Arganil, Coimbra",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112813/19112024181110_800sm.jpg",
+  "area_m2": 625,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112813/19112024181110_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112813/19112024181110_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112813/19112024181110_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112813/19112024181053_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112813/19112024181056_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112813/19112024181102_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112813/19112024181104_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112813/19112024181107_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112813/19112024181113_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112813/19112024181123_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, sito Vale de Zebras, n.º 8, Freguesia e Concelho de Arganil, composto de terreno para construção. \r\nInscrito na respectiva matriz sob o artigo 3596 e descrito na Conservatória do Registo Predial de Arganil sob o n.º 8380/20110131. \r\nÁrea total do terreno: 625 m2.\n\nTerreno com óptima localização em zona urbana/residencial, a 5 minutos de carro (10 minutos a pé) da zona central da Vila de Arganil (Distrito de Coimbra). A 5 minutos de carro existem vários serviços e comércio, desde Centro de Saúde, Escolas, Tribunal, Posto de CTT, Finanças, Piscinas Municipais, Posto de GNR, vários cafés/bar, restaurantes, padarias, vários supermercados, papelarias, Segurança Social, Centro de Emprego, lojas de vestuário, ginásios, etc.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 625,
+  "area_bruta_m2": 625,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.22767824253864,
+    "lng": -8.046863079071045
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,9 @@
     "valor_minimo": 36400.4,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-16T13:09:41",
-    "data_fim": "2026-12-15T14:30:00"
+    "data_fim": "2026-12-15T14:30:00",
+    "valor_abertura": 21412,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

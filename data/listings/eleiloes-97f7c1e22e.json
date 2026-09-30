@@ -5,21 +5,43 @@
   "price": 9500,
   "currency": "EUR",
   "location": "Nordeste, Ilha de São Miguel",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175324_800sm.jpg",
+  "area_m2": 134,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175324_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175324_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175324_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175325_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175329_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175333_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175336_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175338_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175339_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175342_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175344_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175346_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175348_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175350_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175352_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175354_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175356_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/09022026175400_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/11022026091458_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/11022026091500_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/11022026091502_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124130/08032026193001_800.jpg"
   ],
-  "description": null,
+  "description": "1/10 do prédio urbano situado em Beira da Rocha, concelho do Nordeste, distrito de Ponta Delgada, correspondente a prédio em propriedade total sem andares nem divisões suscetíveis de utilização independente, constituído por casa térrea coberta de telha, com duas divisões, destinada a habitação, inscrito na  matriz predial urbana sob o artigo 94 da freguesia de Nordeste e descrito na Conservatória do Registo Predial de Nordeste sob o n.º 315, da mesma freguesia.\n\n*** É da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir, pelo que deverá, antes de apresentar proposta, informar-se das qualidades e características, licenças e outros aspetos que considere relevantes, sendo da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir, pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas, sendo que a falta de verificação do bem não determina, nos termos legais, a anulação da venda. *** Deverão os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt, assim como estar registados na plataforma e-leilões, por forma a terem acesso aos contactos do fiel depositário e aos documentos anexos. *** Após o fecho do leilão, o proponente da proposta que reúna as condições de aceitação, será notificado para, no prazo de 15 dias, após a decisão de aceitação da proposta, proceder ao depósito do valor integral do preço oferecido, bem como dos impostos a que haja lugar.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 134,
+  "area_bruta_m2": 136,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.83155515,
+    "lng": -25.14730843
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 8075,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-04T08:32:32",
-    "data_fim": "2026-12-03T14:30:00"
+    "data_fim": "2026-12-03T14:30:00",
+    "valor_abertura": 4750,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

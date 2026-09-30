@@ -7,19 +7,41 @@
   "location": "Penafiel, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173405_800sm.jpg",
+  "area_m2": 323.7,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173405_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173405_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173405_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173407_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173410_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173413_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173415_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173417_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173420_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173422_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173424_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173426_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173429_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173431_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173433_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173435_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173438_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173440_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173442_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173444_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173447_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_89936/07102022173449_800.jpg"
   ],
-  "description": null,
+  "description": "Quota parte de 1/5, propriedade do executado, do prédio urbano, denominado de \"Adega Vitivinícola\", sito em Paço, descrito na Conservatória do Registo Predial de Penafiel sob o n.º 1359 da freguesia de Recezinhos (S. Martinho), concelho de Penafiel, inscrito na respetiva matriz sob o art.º 604.\n\nO imóvel é composto por dois andares, com uma escadaria em metal/ferro e cobertura de fibrocimento. Tem um espaço de arrumação/dispensa e é visível humidade nas paredes. Os proprietário dos outros 4/5 estão identificados na caderneta predial.\r\n\r\nSalienta-se que esta é uma venda judicial. Para visitar o bem imóvel deve contactar diretamente o fiel depositário. Caso haja algum obstáculo ao agendamento, deverá comunicar esse facto à Agente de Execução com a maior brevidade possível. Note-se que pode não ser possível agendar visitas nos últimos dias antes do encerramento do leilão. \r\n\r\nRecomendação geral - leilões eletrónicos - previamente à apresentação de proposta, deve visitar o bem imóvel, uma vez que este é vendido no estado em que se encontra. Após apresentada proposta, a mesma não pode ser retirada.\r\n\r\n É OBRIGATÓRIO o depósito do preço no prazo de quinze dias. Não sendo depositado o preço no referido prazo, a Agente de Execução poderá promover, com autorização judicial prévia, o arresto dos bens do proponente que vença o leilão e não proceda ao depósito do preço - ler atentamente o disposto no artigo 825º, n.º 1 al. c) do Código de Processo Civil. O ano de construção abaixo indicado poderá não estar correto - corresponde apenas ao ano de inscrição na matriz. Deverá visitar o bem imóvel.\r\n\r\nNegociação particular - Importante - O prazo para a conclusão da negociação particular é meramente indicativo, ou seja, a negociação particular poderá ser concluído antes do prazo indicado pelo site e-leiloes. Manifeste o seu interesse, mediante a apresentação de proposta, no imediato (é inútil aguardar pelos últimos dias, uma vez que a negociação particular até pode concluir-se antes, caso seja apresentada proposta de valor superior ao valor a anunciar para a venda).",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 323.7,
+  "area_bruta_m2": 876,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.22833123,
+    "lng": -8.2144203
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 10504.33,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-07T18:29:54",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 6179.02,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

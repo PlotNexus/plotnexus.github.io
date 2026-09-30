@@ -7,19 +7,24 @@
   "location": "Moimenta da Beira, Viseu",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108017/13052024132503_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108017/13052024132503_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108017/13052024132503_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108017/13052024132503_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108017/13052024132505_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_108017/13052024132506_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 do direito de usufruto que incide sobre o prédio rústico,  composto de terra de regadio, pastagem ou pasto e pomar de macieira, situado no lugar de Outures, Moimenta da Beira, Leomil (https://maps.app.goo.gl/DhJLjovSqj9Hak7q7), descrito na Conservatória do Registo Predial de Moimenta da Beira sob a ficha 3118 da freguesia de Leomil e inscrito na respectiva matriz predial rústica sob o artigo 5691º da freguesia de Leomil.\n\nA apresentação de uma proposta pressupõe que o proponente conhece e aceita a condição física e jurídica do prédio (do direito ao usufruto), pelo que a não verificação pelo proponente não é condição para anulação do procedimento de venda em curso ou a anulação ou ficar sem efeito a própria venda. 2) - De acordo com o n.º 6 do art.º 833.º do Código do Processo Civil, esta venda está dispensada da licença de utilização; nos termos da alínea b) do n.º 2 do 18.º do Decreto-Lei n.º 101-D/2020, de 07 de dezembro, está dispensada do certificado energético; e, como previsto no n.º 2 do art.º 19.º da Lei n.º 78/2017, de 17 de agosto, está igualmente dispensada da apresentação de representação gráfica georreferenciada (RGG), pelo que, se para obter financiamento bancário estes documentos/procedimentos forem exigidos, a sua obtenção fica a cargo do proponente.\r\n\r\nATENÇÃO* ADVERTEM-SE TODOS OS INTERESSADOS/PROPONENTES QUE SÓ SERÃO CONSIDERADAS AS PROPOSTAS SUBMETIDAS NESTA PLATAFORMA ATÉ AO DIA E HORA DO FECHO DA VENDA (as propostas apresentadas fora desta plataforma eletrónica não serão consideradas)*",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 5850,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.99,
+    "lng": -7.66
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 850,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-26T15:53:04",
-    "data_fim": "2026-10-27T14:30:00"
+    "data_fim": "2026-10-27T14:30:00",
+    "valor_abertura": 500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

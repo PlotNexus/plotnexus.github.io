@@ -7,19 +7,25 @@
   "location": "Fundão, Castelo Branco",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123417/15012026160712_800sm.jpg",
+  "area_m2": 2178,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123417/15012026160712_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123417/15012026160712_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123417/15012026160712_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123417/15012026160719_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123417/15012026160725_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_123417/15012026160732_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, sito em Vale das Lousas, registado na Conservatória dos Registos Civil, Predial, Comercial e Automóveis de Fundão com a descrição 498 e inscrito, na matriz, com o nº 27 freguesia de Lavacolhos\n\nO Agente de Execução verificou que o local encontra-se em razoável estado conservação.\r\n\r\nAs áreas indicadas servem apenas como referência pois não foram feitas medições exatas no local. Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características e de todos os outros aspetos que considerem relevantes. \r\n\r\nCom a apresentação da proposta, presume-se que o interessado tenha inspecionado o imóvel e conhece as suas características, declinando-se qualquer responsabilidade pelo seu estado de conservação.\r\n\r\nO imóvel é vendido no estado que se encontra pelo que os interessados devem proceder à verificação prévia do estado do bem. A falta desta, por parte do proponente não determina, nos termos legais a anulação da venda. Nos termos do nº 6 do artigo 833º do CPC, a venda de imóvel em que tenha sido, ou esteja sendo, feita construção urbana, ou de fração dele, pode efetuar-se no estado em que se encontre, com dispensa da licença de utilização ou de construção (se aplicável), cuja falta de apresentação a entidade com competência para a formalização do ato faz consignar no documento, constituindo ónus do adquirente a respetiva legalização.\r\n\r\nO proponente será notificado para, em 15 dias, proceder ao depósito do valor nos termos do artigo 824º do CPC. Se não proceder em conformidade aplica-se o artigo 825º do CPC.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 2178,
+  "area_bruta_m2": 2178,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.133412845966504,
+    "lng": -7.635841369628905
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +37,9 @@
     "valor_minimo": 8500,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-22T16:54:29",
-    "data_fim": "2026-11-24T14:30:00"
+    "data_fim": "2026-11-24T14:30:00",
+    "valor_abertura": 5000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

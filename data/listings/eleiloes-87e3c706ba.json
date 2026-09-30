@@ -7,19 +7,23 @@
   "location": "Vila Nova de Poiares, Coimbra",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113139/02122024145451_800sm.jpg",
+  "area_m2": 200,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113139/02122024145451_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113139/02122024145451_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113139/02122024145451_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113139/02122024145458_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, composto por casa que serve de palheiro, sito em Seladinha, inscrito na matriz predial rústica nº 2501, da freguesia de Lavegadas, concelho de Vila Nova de Poiares, descrito sob a ficha 593/19941006 da CRP de Vila Nova de Poiares.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 200,
+  "area_bruta_m2": 200,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.22343092234963,
+    "lng": -8.189626336097717
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,9 @@
     "valor_minimo": 12004.47,
     "licitacao_atual": 8000,
     "data_inicio": "2026-09-15T15:56:33",
-    "data_fim": "2026-12-15T14:30:00"
+    "data_fim": "2026-12-15T14:30:00",
+    "valor_abertura": 7061.46,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

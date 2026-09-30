@@ -7,19 +7,26 @@
   "location": "Tarouca, Viseu",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56283/30012020181944_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56283/30012020181944_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56283/30012020181944_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56283/30012020181944_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56283/30012020181948_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56283/30012020181952_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56283/30012020181954_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_56283/30012020181956_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico, com a área de 1070 m2, sito no Lugar de Violeiros, inscrito na matriz rústica sob o artigo 3059 da União de Freguesias de Tarouca e Dálvares e descrito na Conservatória do Registo Predial de Tarouca sob o número 2500 a confrontar a Norte com Joaquim de Carvalho a Sul, Nascente e Poente com José Vasco\n\nREFª. LEILÃO ONLINE: LO587382020",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 1070,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.98870987223097,
+    "lng": -7.788276672363281
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 5950,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-17T15:17:05",
-    "data_fim": "2026-11-17T14:30:00"
+    "data_fim": "2026-11-17T14:30:00",
+    "valor_abertura": 3500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

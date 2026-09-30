@@ -7,19 +7,33 @@
   "location": "Coruche, Santarém",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133351_800sm.jpg",
+  "area_m2": 12358.2,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133351_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133351_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133351_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133319_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133322_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133324_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133330_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133333_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133335_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133338_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133340_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133343_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133346_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_110533/06092024133349_800.jpg"
   ],
-  "description": null,
+  "description": "Terreno para construção com área total de 12.358.2000 m2, sito na Rua da Guiné, nº 44, Couço, concelho de Coruche, inscrito na matriz nº4589 da freguesia do Couço, descrito na Conservatória do Registo Predial de Coruche sob o nº 1559 da freguesia do Couço, com o valor patrimonial de 134.193,15€\n\nEste prédio que tinha inicialmente a área de 15419,60 m2 foi objecto de uma desanexação de uma parcela de terreno com a área total de 3061,4 m2 que deu origem a um prédio urbano independente. Esta parcela destacada é composta por casa de habitação com logradouro, pelo que, em consequência do destaque a parcela sobrante passou a ser materialmente um prédio rustico composto de terreno para construção",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 12358.2,
+  "area_bruta_m2": 12358.2,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.98773808,
+    "lng": -8.28483661
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +45,9 @@
     "valor_minimo": 382500,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-21T10:54:41",
-    "data_fim": "2026-10-21T14:30:00"
+    "data_fim": "2026-10-21T14:30:00",
+    "valor_abertura": 225000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

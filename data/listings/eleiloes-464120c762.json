@@ -7,19 +7,29 @@
   "location": "Vila Nova de Famalicão, Braga",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127525/17062026151657_800sm.jpg",
+  "area_m2": 920000,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127525/17062026151657_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127525/17062026151657_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127525/17062026151657_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127525/17062026151719_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127525/17062026151730_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127525/17062026151740_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127525/17062026151749_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127525/17062026151758_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127525/17062026151808_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127525/17062026151832_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 do Prédio Urbano, sito em Rua do Bairro nº 247 B, da freguesia Vale – S. Cosme (União das freguesias de Vale – S Cosme, Telhado e Portela), concelho de Vila Nova de Famalicão, destinado à habitação, tipologia/divisões: 6, com área total 657,3 M2, inscrito na respetiva matriz predial urbana sob o artigo 833º e descrito na Conservatória do Registo Predial de Vila Nova de Famalicão sob o n.º 2294/20170421.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 920000,
+  "area_bruta_m2": 657.3,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.45070122,
+    "lng": -8.47589722
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,9 @@
     "valor_minimo": 30998.65,
     "licitacao_atual": 18234.5,
     "data_inicio": "2026-09-15T00:00:03",
-    "data_fim": "2026-10-13T10:00:00"
+    "data_fim": "2026-10-13T10:00:00",
+    "valor_abertura": 18234.5,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

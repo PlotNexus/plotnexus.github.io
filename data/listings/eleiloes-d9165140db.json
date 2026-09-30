@@ -7,19 +7,41 @@
   "location": "Vila Nova de Gaia, Porto",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112244_800sm.jpg",
+  "area_m2": 82,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112244_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112244_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112244_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112241_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112246_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112250_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112253_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112256_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112258_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112300_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112303_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112306_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112308_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112310_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112312_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112315_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112317_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112320_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112323_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112326_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112329_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128737/17082026112332_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Urbano inscrito na matriz predial urbana sob o artigo2877 da  Freguesia de Madalena, Concelho de Vila Nova de Gaia , e descrito na 1ª Conservatória do Registo Predial de Vila Nova de Gaia com a descrição número 871/19940609-A ,composto Por habitação com 82,m2 e lugar de garagem na Cave com 15m2 e devidamente assinalada  com a respectiva letra, sito na Rua Nova Lisboa 239 R/C D Madalena 4405-767 Vila Nova de Gaia.\n\nTrata-se de venda em processo declarativo.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 82,
+  "area_bruta_m2": 118,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.11210718,
+    "lng": -8.63002269
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 158950,
     "licitacao_atual": 160539.5,
     "data_inicio": "2026-09-10T00:00:02",
-    "data_fim": "2026-10-06T10:00:00"
+    "data_fim": "2026-10-06T10:00:00",
+    "valor_abertura": 93500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

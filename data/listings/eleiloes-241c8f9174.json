@@ -7,19 +7,31 @@
   "location": "Póvoa de Lanhoso, Braga",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/02022022175336_800sm.jpg",
+  "area_m2": 4050,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/02022022175336_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/02022022175336_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/02022022175336_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/02022022175338_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/02022022175340_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/16092026154759_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/16092026154810_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/16092026154816_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/16092026154822_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/16092026154829_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/16092026154834_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_81316/16092026154848_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Rústico denominado \"Leira dos Alestides\", sito na Rua do Alto, nº350, 4830-782 Travassos, Póvoa de Lanhoso, descrito na Conservatória do Registo Predial de Póvoa do lanhoso, sob o nº 319/19941114, inscrito no artigo matricial nº 506 rústico da freguesia de Travassos, concelho da Póvoa de Lanhoso, com a a´rea de 4.050,00 (quatro mil e cinquenta metros quadrados) com hipoteca a favor da Hefesto STC, SA.\r\n\r\nO prédio tem um benfeitoria/moradia nele construida, que não se encontra legalizada, do tipo T4, de dois pisos, incluindo garagem e sala de jogos e logradouro.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 4050,
+  "area_bruta_m2": 4050,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.58322022,
+    "lng": -8.19172975
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +43,15 @@
     "valor_minimo": 153000,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-19T23:59:59",
-    "data_fim": "2026-10-13T10:30:00"
+    "data_fim": "2026-10-13T10:30:00",
+    "valor_abertura": 90000,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "hipoteca"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

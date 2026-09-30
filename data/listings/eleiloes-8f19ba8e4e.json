@@ -7,19 +7,24 @@
   "location": "Gouveia, Guarda",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78664/23112021104442_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78664/23112021104442_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78664/23112021104442_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78664/23112021104442_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78664/23112021104452_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_78664/23112021104501_800.jpg"
   ],
-  "description": null,
+  "description": "prédio rústico, composto de terra de batata, pinhal e pastagem  sito em Tapada da Cabra, Freguesia de Arcozelo, Concelho de Gouveia, inscrito na matriz sob o artº 88 descrito na CRP de Gouveia com o nº 566, com 38 750 M2",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 38750,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.55906926337533,
+    "lng": -7.6058435440063485
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 32937.5,
     "licitacao_atual": 19375,
     "data_inicio": "2026-09-03T12:54:53",
-    "data_fim": "2026-11-03T14:30:00"
+    "data_fim": "2026-11-03T14:30:00",
+    "valor_abertura": 19375,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

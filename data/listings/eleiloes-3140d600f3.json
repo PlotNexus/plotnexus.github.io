@@ -5,21 +5,30 @@
   "price": 51846.32,
   "currency": "EUR",
   "location": "Matosinhos, Porto",
-  "bedrooms": null,
+  "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129038/10092026135938_800sm.jpg",
+  "area_m2": 87.47,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129038/10092026135938_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129038/10092026135938_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129038/10092026135938_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129038/10092026135926_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129038/10092026135932_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129038/10092026135946_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129038/10092026135955_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129038/10092026140001_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_129038/10092026140006_800.jpg"
   ],
-  "description": null,
+  "description": "Fracção autónoma designada pela letra “Q” do prédio urbano, sito Rua Dr. Joaquim Gonçalves da Cruz, 231, 253, 255, 271, 273 e 295, da freguesia de Senhora da Hora, do concelho de Matosinhos, descrito na Conservatória de Registo Predial de Matosinhos na ficha n.º 1391/19930125 e inscrito na respectiva matriz predial urbana sob o artigo 8188.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 87.47,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.19264343,
+    "lng": -8.65345314
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +40,9 @@
     "valor_minimo": 44069.37,
     "licitacao_atual": 107000,
     "data_inicio": "2026-09-23T00:00:03",
-    "data_fim": "2026-10-13T10:30:00"
+    "data_fim": "2026-10-13T10:30:00",
+    "valor_abertura": 25923.16,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

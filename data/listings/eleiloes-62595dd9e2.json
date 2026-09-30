@@ -7,19 +7,26 @@
   "location": "Viseu, Viseu",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95667/20032023095147_800sm.jpg",
+  "area_m2": 5660,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95667/20032023095147_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95667/20032023095147_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95667/20032023095147_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95667/20032023095150_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95667/20032023095154_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95667/20032023095157_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_95667/20032023095201_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Rústico sito em Silveira ou Valongo na freguesia de Fragosela em Viseu. Terra de pinhal com área de 5660 M2. Confronta Norte, Rosa Rodrigues Nascente, António da Costa Coelho Sul, Rio Dão Poente, Estela Moreira de Melo. Descrito Conservatória dos Registos Predial, Comercial e Automóveis de Viseu sob o n.º 1597/19990511 e inscrito na matriz sob o n.º 273.\n\nO imóvel penhorado tem uma localização difícil ( +- 3 kms em terra batida até ao mesmo - desde o cemitério\r\nde Fragosela/junto à empresa JLS até à margem do Rio Dão - confrontação do imóvel).",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 5660,
+  "area_bruta_m2": 5660,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.62649363515348,
+    "lng": -7.8295183181762695
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 21420,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-02T13:54:04",
-    "data_fim": "2026-10-06T14:30:00"
+    "data_fim": "2026-10-06T14:30:00",
+    "valor_abertura": 12600,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

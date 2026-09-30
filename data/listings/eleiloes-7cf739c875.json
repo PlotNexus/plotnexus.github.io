@@ -7,19 +7,22 @@
   "location": "Guarda, Guarda",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_82679/04032022150222_800sm.jpg",
+  "area_m2": 30140,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_82679/04032022150222_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_82679/04032022150222_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_82679/04032022150222_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico composto de terra de cultura e pastagem composto sito em Senhora da Póvoa, na freguesia de Casal de Cinza, concelho da Guarda, inscrito na matriz predial rústica desta freguesia sob o artigo 2110º e descrito na Conservatória do Registo Predial da Guarda na ficha 790/19981124/Casal de Cinza.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 30140,
+  "area_bruta_m2": 30140,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.5481948354518,
+    "lng": -7.176454067230224
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +34,9 @@
     "valor_minimo": 35289.59,
     "licitacao_atual": 0,
     "data_inicio": "2026-07-15T15:49:05",
-    "data_fim": "2026-10-13T14:30:00"
+    "data_fim": "2026-10-13T14:30:00",
+    "valor_abertura": 20758.59,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

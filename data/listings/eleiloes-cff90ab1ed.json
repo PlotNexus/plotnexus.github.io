@@ -7,19 +7,30 @@
   "location": "Aljustrel, Beja",
   "bedrooms": 2,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127483/22092026165209_800sm.jpg",
+  "area_m2": 96.6,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127483/22092026165209_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127483/22092026165209_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127483/22092026165209_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127483/22092026165213_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127483/22092026165214_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127483/22092026165216_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127483/22092026165218_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127483/22092026165219_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127483/22092026165221_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127483/22092026165223_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_127483/22092026165224_800.jpg"
   ],
-  "description": null,
+  "description": "Fração autónoma designada pela letra B, composto por habitação tipo T2 com 98,6000m2, no 1º andar, sita na Rua 28 de Setembro, inscrito na matriz urbana com o artigo 2449, da União das freguesias de Aljustrel e Rio de Moinhos, concelho de Aljustrel e descrito na Conservatória do Registo Predial de Aljustrel com o numero 1124/19920103-B.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 96.6,
+  "area_bruta_m2": 116.2,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.87911857,
+    "lng": -8.16164284
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +42,9 @@
     "valor_minimo": 110500,
     "licitacao_atual": 65650,
     "data_inicio": "2026-09-28T00:00:02",
-    "data_fim": "2026-10-21T11:00:00"
+    "data_fim": "2026-10-21T11:00:00",
+    "valor_abertura": 65000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -5,21 +5,43 @@
   "price": 22352,
   "currency": "EUR",
   "location": "Mértola, Beja",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091052_800sm.jpg",
+  "area_m2": 114,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091052_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091052_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091052_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091049_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091054_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091057_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091059_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091102_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091104_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091106_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091108_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091110_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091112_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091114_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091117_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091119_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091122_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091125_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091128_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091130_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091132_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128697/12082026091134_800.jpg"
   ],
-  "description": null,
+  "description": "- 1/2 do Prédio urbano, sito no lugar de Azinhal, composto de seis compartimentos, cozinha, corredor, quatro quatros, sala e logradouro, destinada a habitação, com a área total de 147m2 , inscrito na matriz predial sob o artigo 1661, da freguesia de Alcaria Ruiva, concelho de Mértola, descrito na Conservatória do Registo Predial de Mértola sob o número 955/Alcaria Ruiva.\n\n- Imóvel composto por 3 quartos, sala com lareira, cozinha e 2 casas de banho. \r\n- Piso do imóvel em mosaico.\r\n- Pequeno logradouro.\r\n- Encontra-se em razoável estado de conservação. \r\n- Visitas mediante marcação prévia com a pessoa melhor identificada no campo \"visitas por marcação\". \r\n- Deverão ainda os interessados antes de efetuarem quaisquer propostas, consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt e/ou aconselhar-se junto de um Solicitador ou Advogado. \r\n- É da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. Deverá igualmente ter em consideração que, atendendo às especificidade da venda e ao facto de o bem não ser entregue no momento da adjudicação, o mesmo poderá sofrer deteriorações ou alterações cuja responsabilidade apenas será imputável ao fiel depositário. \r\n- Morada do Imóvel: Azinhal, 7750-020 | Coordenadas: 37.76100, -7.81543.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 114,
+  "area_bruta_m2": 147,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.76095778,
+    "lng": -7.81522774
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 18999.2,
     "licitacao_atual": 11176,
     "data_inicio": "2026-09-25T00:00:07",
-    "data_fim": "2026-10-21T10:30:00"
+    "data_fim": "2026-10-21T10:30:00",
+    "valor_abertura": 11176,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

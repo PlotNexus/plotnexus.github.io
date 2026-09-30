@@ -5,21 +5,43 @@
   "price": 507058.82,
   "currency": "EUR",
   "location": "Montemor-o-Velho, Coimbra",
-  "bedrooms": null,
+  "bedrooms": 6,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143511_800sm.jpg",
+  "area_m2": 325,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143511_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143511_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143511_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143407_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143409_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143411_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143413_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143415_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143417_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143419_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143421_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143423_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143425_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143427_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143429_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143431_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143435_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143437_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143439_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143441_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143443_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128517/30072026143445_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio de 3 pisos em propriedade total composto por 3 andares/divisões independentes (CAF, EST e HAB), sendo: \r\n- CAF ao nível do R/C e destinado a comércio com espaço amplo, casa de banho, arrumo e anexo.\r\n- EST ao nível destinado a serviços com escritório de apoio ao posto de combustível (com 2 colunas de abastecimento com 4 pontos de abastecimento de gasolina/gasóleo e 1 ponto de gasolina agrícola que não está em funcionamento)\r\n- HAB ao nível do R/C, andar e sótão. No R/C com vestíbulo, sala, corredor, 2 quartos, casa de banho e cozinha. No andar com vestíbulo, casa de banho, suite com WC, 2 quartos, sala, cozinha e varandas. Sótão para arrumos.\n\n•\tO prédio é vendido no estado físico e jurídico em que se encontra.\r\n•\tNos termos do disposto no nº 6 do 833º do CPC a venda está dispensada da apresentação do alvará de licença de utilização, certificado energético e ficha técnica de habitação, pelo que caberá ao novo proprietário a obtenção de tal documentação se dela necessitar.\r\n•\tAs áreas indicadas servem apenas como referência pois não foram feitas medições exatas no local.\r\n•\tÉ da única e exclusiva responsabilidade dos proponentes a verificação do estado do prédio a adquirir, pelo que, antes de apresentar proposta, deverá verificar se o mesmo corresponde às suas expectativas.\r\n\r\nO imóvel encontra-se ocupado pelo insolvente, sendo que o mesmo terá de efetuar a desocupação do imóvel (de pessoas e bens) previamente à escritura.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 325,
+  "area_bruta_m2": 2210,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.27794423,
+    "lng": -8.69620946
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,15 @@
     "valor_minimo": 431000,
     "licitacao_atual": 261211.6,
     "data_inicio": "2026-09-06T00:00:02",
-    "data_fim": "2026-10-08T10:00:00"
+    "data_fim": "2026-10-08T10:00:00",
+    "valor_abertura": 253529.41,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Tem hipoteca registada a favor de Abanca Portugal, SA., Ap. 3017 de 2018.03.28, até ao montante máximo assegurado de 228.800,00€"
+      }
+    ]
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

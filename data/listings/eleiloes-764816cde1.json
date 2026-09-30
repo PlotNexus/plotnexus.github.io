@@ -7,19 +7,26 @@
   "location": "Santa Maria da Feira, Aveiro",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124458/24022026203737_800sm.jpg",
+  "area_m2": 293,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124458/24022026203737_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124458/24022026203737_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124458/24022026203737_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124458/24022026203805_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124458/24022026203822_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124458/24022026203841_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_124458/24022026203914_800.jpg"
   ],
-  "description": null,
+  "description": "prédio urbano, terreno para construção,  designado por lote nº7, alvará de loteamento nº 5/99 de 22 de Março, sito lugar dos Ribeiros, inscrito na matriz  predial urbana da Freguesia de Fornos sob o artigo 1268, do Concelho de Santa Maria da Feira,  descrito na Conservatória do Registo Predial de Santa Maria da Feira sob nº 707 , com o valor patrimonial fiscal  de 48.390,53 euros.\r\n\r\nA presente venda realização no âmbito do processo judicial de inventário que corre termos no Tribunal Judicial da Comarca de Aveiro, Juízo Local Cível de santa Maria da Feira - Juíz 3.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 293,
+  "area_bruta_m2": 693,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 40.91262873,
+    "lng": -8.52745766
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +38,9 @@
     "valor_minimo": 62060,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-24T20:32:42",
-    "data_fim": "2026-10-27T14:30:00"
+    "data_fim": "2026-10-27T14:30:00",
+    "valor_abertura": 36505.89,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

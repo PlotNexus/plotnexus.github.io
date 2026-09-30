@@ -5,21 +5,38 @@
   "price": 435000,
   "currency": "EUR",
   "location": "Angra do Heroísmo, Ilha Terceira",
-  "bedrooms": null,
+  "bedrooms": 6,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026165030_800sm.jpg",
+  "area_m2": 295.1,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026165030_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026165030_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026165030_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164645_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164656_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164705_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164717_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164735_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164747_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164801_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164815_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164828_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164844_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164904_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164922_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164938_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128826/26082026164955_800.jpg"
   ],
-  "description": null,
+  "description": "Casa de moradia s.c. 200 m2, anexo 95,10 m2 e quintal 974,90m2\n\nMoradia com 2 pisos",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 295.1,
+  "area_bruta_m2": 1270,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.66003693,
+    "lng": -27.24970156
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +48,9 @@
     "valor_minimo": 369750,
     "licitacao_atual": 219675,
     "data_inicio": "2026-09-12T00:00:07",
-    "data_fim": "2026-10-14T10:30:00"
+    "data_fim": "2026-10-14T10:30:00",
+    "valor_abertura": 217500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

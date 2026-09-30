@@ -7,19 +7,30 @@
   "location": "Arruda dos Vinhos, Lisboa",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113468/10122024153143_800sm.jpg",
+  "area_m2": 100,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113468/10122024153143_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113468/10122024153143_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113468/10122024153143_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113468/17022025131753_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113468/17022025131801_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113468/17022025131810_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113468/17022025131820_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113468/17022025131828_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113468/17022025131843_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113468/17022025131849_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_113468/17022025131856_800.jpg"
   ],
-  "description": null,
+  "description": "Direito do executado Mário Dinis Branco Carreiro (1/7) quanto ao imóvel misto, com área total de 18640 m2, descrito na CRP de Arruda dos Vinhos sob a ficha  1138 da freguesia de Santiago dos Velhos e inscrito na matriz rústica nº 31, secção A e matriz urbana nº 1092 da mesma freguesia. Localizado no Casal Novo da Tojeira - 2630-520 Santiago dos Velhos\n\nÉ da única e exclusiva responsabilidade dos proponentes a verificação do estado do bem a adquirir pelo que deverá assegurar-se que o mesmo corresponde às suas expectativas e que se encontra nas condições pretendidas. A não verificação não é fundamento para anulação do procedimento de venda.\r\nIMPORTANTE: Nos termos do disposto no artigo 825º nº 1 c) do Código do Processo Civil, a falta de depósito do preço pode levar ao arresto em bens suficientes para garantir o valor em falta, acrescido das custas e despesas e sendo aquele, simultaneamente, executado no próprio processo para pagamento daquele valor e acréscimos. Adverte-se, ainda, que a falta de depósito do preço poderá levar à instauração de PROCEDIMENTO CRIMINAL contra o proponente.\r\nPagamento integral do preço: 1) Nos termos do nº2 do artigo 824º do Código de Processo Civil, o preço terá de se mostrar liquidado no prazo de 15 dias após a notificação do Agente do Execução para o fazer. 2) O prazo é corrido (contam sábados e domingos) mas interrompe nas férias judiciais. 3) Mais se indica que nada obsta a que o adquirente possa recorrer a crédito bancário parcial ou total para pagamento do preço mas alerta-se que por força do período de reflexão (7 dias), imperativo por força do nº 5 do artigo 13º do Dec Lei 74-A/2017, torna-se muito difícil o pagamento do preço,  no prazo indicado de 15 (quinze ) dias. 4) O facto do proponente estar a aguardar resposta do financiamento bancário não suspende o prazo de pagamento.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 100,
+  "area_bruta_m2": 18640,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.94763431,
+    "lng": -9.09634424
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +42,9 @@
     "valor_minimo": 90100,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-13T11:34:45",
-    "data_fim": "2026-10-13T14:30:00"
+    "data_fim": "2026-10-13T14:30:00",
+    "valor_abertura": 53000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

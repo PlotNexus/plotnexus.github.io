@@ -7,19 +7,29 @@
   "location": "Leiria, Leiria",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_25840/02072018153230_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_25840/02072018153230_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_25840/02072018153230_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_25840/02072018153230_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_25840/02072018151238_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_25840/02072018151242_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_25840/02072018151247_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_25840/02072018151251_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_25840/02072018151256_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_25840/02072018151300_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_25840/02072018151303_800.jpg"
   ],
-  "description": null,
+  "description": "Venda de Parte de Bem (2/10) do prédio rústico sito no lugar de Cerro, freguesia de Caranguejeira, concelho de Leiria, composto de terra pinhal, com a área de 16.190m2, confronta do norte com Cabeço do Cerro - extrema da freguesia, do sul com Manuel Lagoa e outros, e do nascente com Jacinto Carpalhoso e do poente com Francisco Pereira, inscrito na respetiva matriz predial sob o artigo 13964 da freguesia de Caranguejeira, concelho de Leiria e descrito na 2.ª Conservatória do Registo Predial de Leiria sob o número 1155/Caranguejeira.\n\nProcesso 550-B/1997, actual 2092/14.6T8PBL\r\nO terreno é atravessado por duas linhas de alta tensão.\r\nAntes de apresentarem as suas propostas, os eventuais interessados devem inteirar-se das qualidades e características e outros aspetos que considerem relevantes, do bem. A não verificação não é fundamento para a desistência/anulação do procedimento de venda.\r\nLocalização exata do prédio: 39.780366,-8.707471",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 16190,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.75109605,
+    "lng": -8.69121602
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +41,9 @@
     "valor_minimo": 2724.76,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-23T17:55:08",
-    "data_fim": "2026-11-10T14:30:00"
+    "data_fim": "2026-11-10T14:30:00",
+    "valor_abertura": 1602.8,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

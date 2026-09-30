@@ -5,21 +5,35 @@
   "price": 133647.06,
   "currency": "EUR",
   "location": "Felgueiras, Porto",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102705_800sm.jpg",
+  "area_m2": 385,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102705_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102705_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102705_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102708_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102710_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102712_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102715_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102717_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102719_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102722_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102724_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102726_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102729_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_105232/16022024102731_800.jpg"
   ],
-  "description": null,
+  "description": "1/3 do Prédio Urbano em Prop. Total sem Andares nem Div. Susc. de Utiliz. Independente sito na LUGAR DE RAPADIÇA Lugar: RAPADIÇA descrito na conservatória do registo predial de Felgueiras sob ficha 240 da freguesia de Revinhade e inscrito na matriz predial com o artigo 352 da referida freguesia.\n\nO imóvel encontra-se em bom  estado de conservação. É fiel depositário o  executado,  Não foram permitidas fotos do interior. \r\n\r\nAs visitas ao imóvel passam pelo agendamento prévio com o fiel depositário, através dos contactos constantes nos campos próprios (às Terças-Feiras  durante o período das 9h00 e 10h00 horas)\r\n\r\n Advertem-se os interessados que é da sua única e exclusiva responsabilidade a verificação do estado do bem a adquirir pelo que deverá, antes de apresentar proposta, assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. \r\nO bem é vendido no estado em que se encontra pelo que se recomenda aos interessados em apresentar propostas de aquisição que devem proceder à verificação prévia do estado do bem. \r\nA falta desta verificação por parte do proponente não determina, nos termos legais, a anulação da venda. A informação anterior não dispensa a consulta da documentação do imóvel disponibilizada.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 385,
+  "area_bruta_m2": 501,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.34535679,
+    "lng": -8.26630095
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +45,9 @@
     "valor_minimo": 113600,
     "licitacao_atual": 114000,
     "data_inicio": "2026-07-29T14:40:11",
-    "data_fim": "2026-10-27T14:30:00"
+    "data_fim": "2026-10-27T14:30:00",
+    "valor_abertura": 66823.53,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

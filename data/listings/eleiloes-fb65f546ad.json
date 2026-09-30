@@ -7,19 +7,40 @@
   "location": "Palmela, Setúbal",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161149_800sm.jpg",
+  "area_m2": 212,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161149_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161149_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161149_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161151_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161153_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161155_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161158_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161200_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161202_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161204_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161206_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161208_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161210_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161212_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161214_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161216_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161218_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161220_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161223_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161225_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_112617/13112024161227_800.jpg"
   ],
-  "description": null,
+  "description": "1/2 de Prédio misto, situado em Passarinhas, descrito na Conservatória do Registo Predial de Palmela sob  a ficha 676 da freguesia de Poceirão, inscrito nas matrizes urbanas sob o artigos 1179º e 2608º da freguesia de Poceirão e Marateca e inscrito na matriz predial rústica sob o artigo 18º da secção 1C da referida freguesia. Composto pela parte mista, cultura agrícola de regadio, vinha e pomar e pela  parte urbana: a) Edifício de rés do chão para habitação e garagem; b)  Edifício de rés do chão para habitação. Confrontando a Norte com Rua Pública 7, a Sul Talhão n.º 68, Nascente a Rua Pública C e a Poente Talhão nº 49.\n\nFoi constituído fiel depositário do bem em venda o Senhor Sérgio Dias, contitular do prédio, pelo que os interessados em visitar o mesmo deverão, previamente, contactá-lo para efeitos de agendamento de visitas, através do contacto disponível para o efeito no campo \"Visitas por Marcação\". Antes de efetuarem propostas, os eventuais interessados devem inteirar-se das qualidades e características, licenças e outros aspetos que considerem relevantes, do(s) bem(ns). A não verificação não é fundamento para anulação do procedimento de venda. Os interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as Faq constantes no site www.e-leiloes.pt.\r\n\r\n\r\nATENÇÃO* ADVERTEM-SE TODOS OS INTERESSADOS/PROPONENTES QUE SÓ SERÃO CONSIDERADAS AS PROPOSTAS SUBMETIDAS NESTA PLATAFORMA ATÉ AO DIA E HORA DO FECHO DA VENDA (as propostas apresentadas fora desta plataforma eletrónica não serão consideradas)*",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 212,
+  "area_bruta_m2": 60000,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.7062578,
+    "lng": -8.74616829
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +52,9 @@
     "valor_minimo": 115472.5,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-21T09:15:33",
-    "data_fim": "2026-11-24T14:30:00"
+    "data_fim": "2026-11-24T14:30:00",
+    "valor_abertura": 67925,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

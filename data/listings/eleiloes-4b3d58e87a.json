@@ -5,21 +5,43 @@
   "price": 131000,
   "currency": "EUR",
   "location": "Chamusca, Santarém",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092457_800sm.jpg",
+  "area_m2": 118.46,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092457_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092457_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092457_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092236_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092238_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092241_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092244_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092246_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092248_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092250_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092252_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092254_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092257_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092259_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092303_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092306_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092309_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092311_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092314_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092317_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092320_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_126002/23042026092323_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio urbano, destinada a habitação, correspondente a casa de rés do chão com sótão e logradouro, sito em Rua Nova Nº 5, freguesia Ulme e concelho de Chamusca,  descrito na Conservatória do Registo Predial de Chamusca sob o nº 209, inscrito na matriz sob o art.º 824, da referida freguesia, com o valor patrimonial de 87.434,92 euros, penhorada em 26.02.2025.\n\nPor sentença o Juiz habilitou os herdeiros filhos da executada como executados.\r\n\r\nImóvel situado em zona calma, a necessitar de obras e pinturas no exterior e interior.\r\n\r\nAlerta-se que é da única e exclusiva responsabilidade do proponente a verificação do estado do bem a adquirir, e sua real tipologia, pelo que deverá antes de apresentar proposta assegurar-se se o mesmo corresponde às suas expectativas e se se encontra nas condições pretendidas. Deverá, igualmente, ter em consideração que, atendendo às especificidades da venda e ao facto de o bem não ser entregue no momento da conclusão do leilão.\r\n\r\n\r\nADVERTÊNCIA: As áreas e descrição do imóvel no presente anúncio, têm por base, as descritas na certidão predial e matricial respetivas. No entanto, os interessados em licitar, deverão aferir previamente, por todos meios disponíveis, se o imóvel está de acordo com os seus interesses de aquisição. A falta desta averiguação, por parte dos licitantes, não determina nos termos legais, a anulação da venda. Os interessados em licitar o bem, devem consultar previamente o site www.e-leiloes.pt, por forma a informarem-se, de forma consciente, das regras dos leilões e consequências legais das suas licitações.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 118.46,
+  "area_bruta_m2": 0,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 39.31490477,
+    "lng": -8.43388197
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +53,9 @@
     "valor_minimo": 111350,
     "licitacao_atual": 70927.13,
     "data_inicio": "2026-09-27T00:00:00",
-    "data_fim": "2026-10-21T10:30:00"
+    "data_fim": "2026-10-21T10:30:00",
+    "valor_abertura": 65500,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

@@ -7,19 +7,24 @@
   "location": "Nordeste, Ilha de São Miguel",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88280/29072022172551_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88280/29072022172551_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88280/29072022172551_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88280/29072022172551_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88280/29072022172552_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_88280/29072022172554_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio rústico sito em Robalvo na freguesia da Lomba da Fazenda , inscrito na respectiva matriz sob o artigo 471, descrito na Conservatória do Registo Predial de Nordeste sob o n.º 1556/Nordeste\n\nTerra de cultivo\r\nA localização exata do imóvel consta do relatório de avaliação",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 1393,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.83,
+    "lng": -25.14
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +36,9 @@
     "valor_minimo": 2295,
     "licitacao_atual": 0,
     "data_inicio": "2026-08-26T12:55:55",
-    "data_fim": "2026-10-13T14:30:00"
+    "data_fim": "2026-10-13T14:30:00",
+    "valor_abertura": 1350,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

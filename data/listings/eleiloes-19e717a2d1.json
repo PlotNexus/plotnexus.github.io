@@ -5,21 +5,42 @@
   "price": 195500,
   "currency": "EUR",
   "location": "Valongo, Porto",
-  "bedrooms": null,
+  "bedrooms": 3,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095438_800sm.jpg",
+  "area_m2": 83.6,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095438_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095438_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095438_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095455_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095510_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095522_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095535_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095710_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095741_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095750_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095805_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095818_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095829_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095845_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095855_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095906_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095918_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026095930_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026100000_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026111123_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_128301/24082026111145_800.jpg"
   ],
-  "description": null,
+  "description": "Fração autónoma designada pela letra B, do prédio urbano, em regime de propriedade horizontal, destinado a habitação no 1.º Andar, com a área bruta privativa de 83,60 m2, área bruta dependente de 27,50 m2, possui garagem identificada em planta por B1, um anexo por B2, terraço por B3 e logradouro por B4, sito na Rua Bento de Jesus Caraça, n.º 65, da freguesia de Ermesinde, concelho de Valongo. Descrito na Conservatória do Registo Predial de Valongo sob o nº 3719/19950718 – B, da freguesia de Ermesinde, concelho de Valongo - inscrito na matriz urbana sob o artigo 8531- Fração B, da freguesia de Ermesinde.\n\nA presente venda realiza-se no âmbito do Processo de Inventário. O bem é vendido no estado físico, jurídico e documental em que se encontra, pelo que se recomenda aos interessados em apresentar propostas de aquisição que devem proceder à verificação prévia do estado do mesmo, assegurando-se que o mesmo corresponde às suas expectativas. A falta desta verificação, por parte do proponente, não determina, nos termos legais, a anulação da venda. Encerrado o Leilão e aceite a proposta, o proponente é notificado para, no prazo de 15 dias, depositar o preço oferecido (artigo 824.º n.º 2 do Código de Processo Civil). Advertem-se os interessados que, para agendamento de visitas ao imóvel, deverão contactar o mandatário da fiel depositária do imóvel com a devida antecedência, através do contacto disponível no separador próprio para o efeito (visitas), acessível após a devida autenticação na plataforma E - Leilões, tendo a fiel depositária a obrigatoriedade de mostrar o bem a pedido dos interessados. Não serão agendadas visitas nos últimos 5 (cinco) dias úteis antes da data do fim do leilão. A presente venda está dispensada da apresentação do alvará de licença de utilização, certificado energético e ficha técnica de habitação, constituindo ónus do adquirente a respetiva legalização, conforme disposto no n.º 6 do artigo 833.º, do Código de Processo Civil. Os interessados antes de efetuarem quaisquer propostas, devem consultar as regras de funcionamento e as FAQ constantes no site www.e-leiloes.pt.",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 83.6,
+  "area_bruta_m2": 117.7,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 41.21581811,
+    "lng": -8.55680137
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +52,9 @@
     "valor_minimo": 166175,
     "licitacao_atual": 113484.73,
     "data_inicio": "2026-09-10T00:00:02",
-    "data_fim": "2026-10-06T10:00:00"
+    "data_fim": "2026-10-06T10:00:00",
+    "valor_abertura": 97750,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }

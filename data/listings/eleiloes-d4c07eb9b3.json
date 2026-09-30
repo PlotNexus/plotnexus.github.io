@@ -7,19 +7,23 @@
   "location": "Santa Cruz, Ilha da Madeira",
   "bedrooms": null,
   "bathrooms": null,
-  "area_m2": null,
-  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_47956/25072019145851_800sm.jpg",
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_47956/25072019145851_800.jpg",
   "images": [
-    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_47956/25072019145851_800sm.jpg"
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_47956/25072019145851_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_47956/25072019145858_800.jpg"
   ],
-  "description": null,
+  "description": "Prédio Rústico, pinhal, sito em poiso onde chamam Achada do Curral, na freguesia e concelho de Santa Cruz, descrito na Conservatória do Registo Predial de Santa Cruz (Madeira) sob o número 3844/Santa Cruz e inscrito na respetiva matriz predial pelo artigo 50, da secção B, ARV 000.\n\nConfrontações:\r\nNorte: Suimade - Suinicultura da Madeira, Lda.;\r\nSul: Herdeiros de António de Freitas;\r\nLeste: José de Sousa Moleiro;\r\nOeste José Nunes\r\n*****\r\nO fiel depositário do imóvel penhorado é  o legal representante da executada - João Elias Telo\r\nO regime de visitas é fixado com dia e hora certos - Quartas-feiras entre as 18:00h e as 19:00h.\r\nO contacto telefónico do agente de execução, indicado na fixação do regime de visitas, destina-se a assegurar que, potenciais interessados, possam reportar, caso tal venha a suceder, qualquer dificuldade de acesso/visita ao imóvel nos dias designados.\r\n\r\n****\r\nver documentos anexos - localização do imóvel",
   "features": null,
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 400,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "geo": null,
+  "geo": {
+    "lat": 32.716352293365055,
+    "lng": -16.80535912513733
+  },
   "source": {
     "name": "e-Leilões",
     "url": "https://www.e-leiloes.pt"
@@ -31,7 +35,9 @@
     "valor_minimo": 17000,
     "licitacao_atual": 0,
     "data_inicio": "2026-09-10T17:09:08",
-    "data_fim": "2026-11-03T14:30:00"
+    "data_fim": "2026-11-03T14:30:00",
+    "valor_abertura": 10000,
+    "onus": []
   },
-  "last_seen_at": "2026-09-29"
+  "last_seen_at": "2026-09-30"
 }
