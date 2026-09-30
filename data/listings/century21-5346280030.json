@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 113,
   "image": "https://images.century21.pt/04_56d37d3d-b195-42a2-8c74-e26f40d5ab24.png",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.8044260964978,
     "lng": -9.12849548518042
@@ -22,30 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/04_56d37d3d-b195-42a2-8c74-e26f40d5ab24.png",
-    "https://images.century21.pt/03_cc2ed569-63f0-4b98-92ed-6298f98bb4e1.png",
-    "https://images.century21.pt/01_412f17af-4ae6-43a6-a048-00a733e0a135.png",
-    "https://images.century21.pt/02_fc2414df-62a1-49d3-a122-8c805db3c3c7.png",
-    "https://images.century21.pt/11_bf717418-3d93-4168-9964-18a0f1d827a3.png",
-    "https://images.century21.pt/12_1695c040-34bf-4655-a2d8-f0bf8a2cd0ed.png",
-    "https://images.century21.pt/05_e0f57db6-745a-42fe-98e5-c8bb9bdab4b7.png",
-    "https://images.century21.pt/06_045d99ae-b7d7-4e82-9fc1-475bce75ed17.png",
-    "https://images.century21.pt/09_41f286f1-53ba-47ac-887f-9b6960c8d0b1.png",
-    "https://images.century21.pt/10_efefb54f-92c4-441d-b0bc-dd82549a7d1c.png"
+    "https://images.century21.pt/04_56d37d3d-b195-42a2-8c74-e26f40d5ab24.png"
   ],
-  "features": {
-    "Características": [
-      "Elevador",
-      "Boa exposição solar",
-      "Boa localização",
-      "Luxo",
-      "Zona tranquila",
-      "Acesso por estrada"
-    ]
-  },
-  "estado": "Novo",
+  "features": null,
+  "estado": null,
   "area_util_m2": 113,
-  "area_bruta_m2": 166.17,
-  "ano_construcao": 2027,
-  "certificacao_energetica": "IN_PROCESS"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

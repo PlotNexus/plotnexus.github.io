@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 195,
   "image": "https://images.century21.pt/aa349ea5-6e9e-456d-97dd-cfdf0cb0ff57/image00001.jpg",
-  "description": "$1f",
+  "description": null,
   "geo": {
     "lat": 38.5462299,
     "lng": -9.0722665
@@ -22,42 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/aa349ea5-6e9e-456d-97dd-cfdf0cb0ff57/image00001.jpg",
-    "https://images.century21.pt/640f6bfd-cbce-4c80-9a7c-1e13899ce6c9/image00004.jpg",
-    "https://images.century21.pt/c1cca6de-4445-4c83-a12d-ebbceebf31d8/image00003.jpg",
-    "https://images.century21.pt/dd72b69c-ad61-4355-8ea2-b3b1aa20256d/image00008.jpg",
-    "https://images.century21.pt/132f48a6-cbac-49b5-a9f3-7ed0d22d6a16/image00005.jpg",
-    "https://images.century21.pt/5c4b8fe9-ec1e-453f-88e6-15abc7fd9b23/image00009.jpg",
-    "https://images.century21.pt/af604e0a-7598-482c-965a-531217c563da/image00010.jpg",
-    "https://images.century21.pt/eaf08f80-f7ec-425b-a20f-089d80df057e/image00002.jpg",
-    "https://images.century21.pt/4cef9143-7647-43fb-9a14-e11927833b85/image00007.jpg",
-    "https://images.century21.pt/8258d11d-7f95-4153-a1bf-17d60fd0a068/image00006.jpg"
+    "https://images.century21.pt/aa349ea5-6e9e-456d-97dd-cfdf0cb0ff57/image00001.jpg"
   ],
-  "features": {
-    "Características": [
-      "Varanda",
-      "Churrasqueira",
-      "Piscina comum",
-      "Jardim",
-      "Boa exposição solar",
-      "Perto de comodidades",
-      "Perto de a praia",
-      "Perto de uma paragem de autocarro",
-      "Perto de o centro da cidade",
-      "Perto de uma bomba de gasolina",
-      "Perto de espaços verdes",
-      "Perto de uma autoestrada",
-      "Perto de um infantário",
-      "Perto de um mercado",
-      "Perto de um espaço público",
-      "Perto de restaurantes",
-      "Estacionamento",
-      "Acesso por estrada"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 195,
-  "area_bruta_m2": 200,
-  "ano_construcao": 2011,
-  "certificacao_energetica": "EXEMPT"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 131.25,
   "image": "https://images.century21.pt/4f61d237-8bf4-44f1-bf7c-96af7d011b14/0427(9).png",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 41.1945945,
     "lng": -8.6924796
@@ -22,25 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/4f61d237-8bf4-44f1-bf7c-96af7d011b14/0427(9).png",
-    "https://images.century21.pt/065585e4-89de-4a54-a8bd-e4bc7251c750/salasol.png",
-    "https://images.century21.pt/495561d3-1e52-4c8d-9937-3d3132c19cdc/Sala.png",
-    "https://images.century21.pt/bab99a64-cb5d-4ece-9a05-e5d2f11cfaa9/sofa.png",
-    "https://images.century21.pt/2c6db818-60a2-473d-952d-1d90cb665e36/mesa.png",
-    "https://images.century21.pt/ac6d563e-50b2-49ca-add3-9bcc1ac33c18/paisagem2.png",
-    "https://images.century21.pt/e7b5b4d8-eb4f-4e66-b4bf-782a45f022ce/Paisagem.png",
-    "https://images.century21.pt/492d4f31-1e4d-4b9b-8a36-473c6d200ede/cozinha.png",
-    "https://images.century21.pt/56493a7d-df9c-4c6a-bd4b-22855c1f89d4/balcao.png",
-    "https://images.century21.pt/3e1622b2-aae9-4236-8ec9-5f40b3a89717/cozinha2.png"
+    "https://images.century21.pt/4f61d237-8bf4-44f1-bf7c-96af7d011b14/0427(9).png"
   ],
-  "features": {
-    "Características": [
-      "Elevador"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 131.25,
-  "area_bruta_m2": 147,
-  "ano_construcao": 2006,
-  "certificacao_energetica": "C"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

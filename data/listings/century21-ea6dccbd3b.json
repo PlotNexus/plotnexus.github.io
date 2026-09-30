@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 75,
   "image": "https://images.century21.pt/aec4bb8d-6497-45ce-8068-cd6086747d9d/WhatsAppImage2026-06-11at18.56.42.jpeg",
-  "description": "$20",
+  "description": null,
   "geo": {
     "lat": 41.5344314,
     "lng": -7.1742289
@@ -24,15 +24,10 @@
   "images": [
     "https://images.century21.pt/aec4bb8d-6497-45ce-8068-cd6086747d9d/WhatsAppImage2026-06-11at18.56.42.jpeg"
   ],
-  "features": {
-    "Características": [
-      "Perto de o metro",
-      "Boa localização"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 75,
-  "area_bruta_m2": 80,
-  "ano_construcao": 1960,
-  "certificacao_energetica": "C"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

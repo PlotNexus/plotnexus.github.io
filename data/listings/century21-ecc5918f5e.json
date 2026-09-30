@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 83,
   "image": "https://images.century21.pt/07ec9d17-8675-4875-a0e5-5ee09e9acb81/1786637291993.jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.6458674,
     "lng": -9.0624234
@@ -22,43 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/07ec9d17-8675-4875-a0e5-5ee09e9acb81/1786637291993.jpg",
-    "https://images.century21.pt/93f3fa9a-0c1a-4fa6-9ffe-562a3221b8f4/1786556624098.jpg",
-    "https://images.century21.pt/c1dbaa14-e75a-4dee-8516-e0a341db174d/1786556624054.jpg"
+    "https://images.century21.pt/07ec9d17-8675-4875-a0e5-5ee09e9acb81/1786637291993.jpg"
   ],
-  "features": {
-    "Características": [
-      "Varanda",
-      "Casa de banho",
-      "Quarto",
-      "Localização central",
-      "Vista cidade",
-      "Hall de entrada",
-      "Boa localização",
-      "Quarto de hóspedes",
-      "Cozinha",
-      "Sala de estar",
-      "Arrendamento de longa duração",
-      "Perto de um banco",
-      "Perto de uma paragem de autocarro",
-      "Perto de o centro da cidade",
-      "Perto de um quartel de bombeiros",
-      "Perto de uma bomba de gasolina",
-      "Perto de espaços verdes",
-      "Perto de uma autoestrada",
-      "Perto de um mercado",
-      "Perto de uma farmácia",
-      "Perto de a polícia",
-      "Perto de um espaço público",
-      "Perto de restaurantes",
-      "Outra divisão",
-      "Vista panorâmica",
-      "Vista rio"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 83,
-  "area_bruta_m2": 93,
-  "ano_construcao": 1976,
-  "certificacao_energetica": "C"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

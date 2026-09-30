@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 180,
   "image": "https://images.century21.pt/06bc5b9a-5530-4ba8-80cf-8276d4bfafc8/fachada1.png",
-  "description": "$20",
+  "description": null,
   "geo": {
     "lat": 38.4510933006086,
     "lng": -9.10343885421753
@@ -22,21 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/06bc5b9a-5530-4ba8-80cf-8276d4bfafc8/fachada1.png",
-    "https://images.century21.pt/56153acd-8f85-497f-80de-b8501f0fca05/hall.png",
-    "https://images.century21.pt/3e8a3dc5-dbb7-4caa-bc07-a3db0d0140ca/saladeestar.png",
-    "https://images.century21.pt/c231b74d-788b-4518-ab55-9daf74e84a4b/cozinha1.png",
-    "https://images.century21.pt/683e9afd-8df3-4dca-b48f-b5ccf1769876/cozinha.png",
-    "https://images.century21.pt/38abb49a-f6ae-4758-950c-1438fc542790/piscina3.png",
-    "https://images.century21.pt/1f24498b-c270-4e42-84d4-fcc46db36e4a/piscina.png",
-    "https://images.century21.pt/8caedd6b-62d5-4665-85a7-4aa0f291417f/escritrio.png",
-    "https://images.century21.pt/503fbecb-f8ad-46dd-b18b-51c6bdec8c8a/quarto1.png",
-    "https://images.century21.pt/b0ca3acb-a9b8-4706-98ee-63d71daefc5a/casadebanhosocial.png"
+    "https://images.century21.pt/06bc5b9a-5530-4ba8-80cf-8276d4bfafc8/fachada1.png"
   ],
-  "features": {},
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 180,
-  "area_bruta_m2": 235,
-  "ano_construcao": 1978,
-  "certificacao_energetica": "D"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

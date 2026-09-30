@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 227,
   "image": "https://images.century21.pt/a588c678-d5ab-420a-b9f3-745399053629/IMG4667.JPG",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 41.1435958,
     "lng": -8.5869064
@@ -22,31 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/a588c678-d5ab-420a-b9f3-745399053629/IMG4667.JPG",
-    "https://images.century21.pt/739e5d29-ae83-489d-a6f9-e400f1ed68ad/IMG4660.JPG",
-    "https://images.century21.pt/e4eba87b-f796-40b1-a74f-593dabe33913/DJI0033.JPG",
-    "https://images.century21.pt/a93160fb-f78e-482d-b8e6-7c7c98043ba5/DJI0022(3).JPG",
-    "https://images.century21.pt/2d1c1447-2b77-4a99-b60a-b973d6ab0069/DJI0025.JPG",
-    "https://images.century21.pt/b3a2059b-b01b-4b2c-a317-3a9e241d8d2a/DJI0034.JPG",
-    "https://images.century21.pt/5f89fc4c-b37f-4dd9-b22e-ffead84a50f0/DJI0023.JPG",
-    "https://images.century21.pt/0ccc5607-a9f5-40b0-9470-92c443e4b12f/DJI0032.JPG",
-    "https://images.century21.pt/7e748cdb-b016-42c9-8e4d-b15ef6bba538/DJI0029.JPG",
-    "https://images.century21.pt/8b3e8676-459c-4faa-ae71-50c46c3554a7/DJI0026.JPG"
+    "https://images.century21.pt/a588c678-d5ab-420a-b9f3-745399053629/IMG4667.JPG"
   ],
-  "features": {
-    "Características": [
-      "Varandas",
-      "Elevador",
-      "Hall de entrada",
-      "Garagem",
-      "Lavandaria",
-      "Arrecadação",
-      "Quarto em suite"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 227,
-  "area_bruta_m2": 329,
-  "ano_construcao": 1991,
-  "certificacao_energetica": "D"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

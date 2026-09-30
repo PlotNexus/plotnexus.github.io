@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 100,
   "image": "https://images.century21.pt/590b9295-c1e0-48e4-a29c-ac045fd7e8e8/VarandaIA.png",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.6266436,
     "lng": -9.0879815
@@ -22,21 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/590b9295-c1e0-48e4-a29c-ac045fd7e8e8/VarandaIA.png",
-    "https://images.century21.pt/377fe084-7d4f-4954-8f2c-b24432312edf/salaIA.png",
-    "https://images.century21.pt/95edb359-51de-4a9e-a952-6db88cc95b40/CozinhaIA.png",
-    "https://images.century21.pt/9bba7603-6d3d-47ea-80d6-6b0c6ded1f54/Quarto1IA.png",
-    "https://images.century21.pt/df446870-b876-449e-b9cc-c7e8084f7c36/quarto3IA.png",
-    "https://images.century21.pt/cca9478a-83b4-4a59-a1cc-9cc2bfba2b77/quarto2IA.png",
-    "https://images.century21.pt/5406f80d-21c7-4780-94c9-e4e01af4a42d/P1249762.jpg",
-    "https://images.century21.pt/f7b510a0-e2c4-44ee-8e44-ef1222c2ef85/P1249763.jpg",
-    "https://images.century21.pt/31b917ed-210d-4dc3-a3e6-007ec64f9dae/IMG0153.jpg",
-    "https://images.century21.pt/c4c5072c-75c0-4e1b-b99e-36cac6e5c8c9/IMG0154.jpg"
+    "https://images.century21.pt/590b9295-c1e0-48e4-a29c-ac045fd7e8e8/VarandaIA.png"
   ],
-  "features": {},
-  "estado": "Novo",
+  "features": null,
+  "estado": null,
   "area_util_m2": 100,
-  "area_bruta_m2": 108,
-  "ano_construcao": 2026,
-  "certificacao_energetica": "A+"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

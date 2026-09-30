@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 125,
   "image": "https://images.century21.pt/a3b69fe3-4f66-4c74-84ad-34d3b669df37/ExteriorCasa..jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.8089916,
     "lng": -9.4442465
@@ -22,44 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/a3b69fe3-4f66-4c74-84ad-34d3b669df37/ExteriorCasa..jpg",
-    "https://images.century21.pt/9f541d23-970d-412d-90da-6e43543b6119/ExteriorCasa....jpg",
-    "https://images.century21.pt/73c6a9e6-a296-433f-9cda-1777225f419b/ExteriorCasa...jpg",
-    "https://images.century21.pt/a280cb69-8369-4c04-baad-3761fb874144/HallEntrada.jpeg",
-    "https://images.century21.pt/367ab9cc-0c30-44c5-8808-51faf6696ca8/ExteriorApartamentoAnexo.jpg",
-    "https://images.century21.pt/83b99b0f-3b5e-4e8e-baca-da99701725c4/ExteriorApartamentoAnexo.jpg",
-    "https://images.century21.pt/68e2fca2-114d-4f70-9742-e9b8dc126343/Hall1piso.jpeg",
-    "https://images.century21.pt/3c804698-8e71-48a9-8510-1b969dc9cb89/Hall1Piso..jpeg",
-    "https://images.century21.pt/308ae44b-131d-44f6-87e2-0378d5548052/Jardim1.jpg",
-    "https://images.century21.pt/05eb8f6d-71f4-4851-b55a-7baf66e3269b/Jardim2.jpg"
+    "https://images.century21.pt/a3b69fe3-4f66-4c74-84ad-34d3b669df37/ExteriorCasa..jpg"
   ],
-  "features": {
-    "Características": [
-      "Varandas",
-      "Churrasqueira",
-      "Casa de banho",
-      "Quarto",
-      "Hall de quartos",
-      "Cave",
-      "Corredor",
-      "Eletricidade",
-      "Jardim",
-      "Boa exposição solar",
-      "Cozinha",
-      "Perto de uma zona comercial",
-      "Perto de espaços verdes",
-      "Perto de restaurantes",
-      "Despensa",
-      "Acesso por estrada",
-      "Salão",
-      "Saneamento",
-      "Água canalizada",
-      "Água"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 125,
-  "area_bruta_m2": 150,
-  "ano_construcao": 1970,
-  "certificacao_energetica": "C"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

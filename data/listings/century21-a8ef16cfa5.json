@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 129.7,
   "image": "https://images.century21.pt/9c9e56da-aa5c-4eff-ab06-4cfce8112815/740A4917.jpg",
-  "description": "$1f",
+  "description": null,
   "geo": {
     "lat": 38.759664,
     "lng": -9.181437
@@ -22,32 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/9c9e56da-aa5c-4eff-ab06-4cfce8112815/740A4917.jpg",
-    "https://images.century21.pt/35e0a466-c3f8-49e4-92e1-5d3b504ba432/740A4948.jpg",
-    "https://images.century21.pt/9d3aa7f2-d3d6-46f0-8756-f5d0a0958ba0/740A4923.jpg",
-    "https://images.century21.pt/3d8e61d1-7a29-4993-8742-fd430665d1b0/740A4685.jpg",
-    "https://images.century21.pt/5fec0959-e53e-4c18-a034-e117b803e8fd/740A4681.jpg",
-    "https://images.century21.pt/1466e963-6e5f-4741-9ec4-00ecdb47c3f6/740A4649.jpg",
-    "https://images.century21.pt/548c7fb9-2142-4241-b45c-8bbaefa9dc12/16-Saladejantar.jpg",
-    "https://images.century21.pt/af378aee-b22c-4426-8bf1-c1ef4ba52a59/740A4663.jpg",
-    "https://images.century21.pt/b7c95dad-53f2-404b-b3b2-63df366be088/740A4824.jpg",
-    "https://images.century21.pt/03cb7e2c-8c2d-45a1-92f7-8d6bc85bdb3b/740A4811.jpg"
+    "https://images.century21.pt/9c9e56da-aa5c-4eff-ab06-4cfce8112815/740A4917.jpg"
   ],
-  "features": {
-    "Características": [
-      "Elevador",
-      "Esquentador",
-      "Exaustor",
-      "Fogão",
-      "Forno",
-      "Janelas duplas",
-      "Máquina de lavar loiça",
-      "Micro-ondas"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 129.7,
-  "area_bruta_m2": 173.1,
-  "ano_construcao": 1968,
-  "certificacao_energetica": "E"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 110,
   "image": "https://images.century21.pt/dsc-1278-jpg_9f874209-1c23-4951-900e-41ec3693987d.jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.7570868845149,
     "lng": -9.38832171818073
@@ -22,25 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/dsc-1278-jpg_9f874209-1c23-4951-900e-41ec3693987d.jpg",
-    "https://images.century21.pt/dsc-1298-jpg_32a35887-91e5-4958-80f3-4ecf36e9e830.jpg",
-    "https://images.century21.pt/dsc-1398-jpg_395f0bc8-352d-49b4-a2f9-09fa843e695f.jpg",
-    "https://images.century21.pt/dsc-1386-jpg_fe9ac459-698a-4442-adf2-ee0648dca5c1.jpg",
-    "https://images.century21.pt/dsc-1402-jpg_19f58c30-d84e-4842-a076-7d4b0cf2afec.jpg",
-    "https://images.century21.pt/dsc-1417-jpg_a20e3141-e0a2-49dd-aaf9-64b0b71d5ec3.jpg",
-    "https://images.century21.pt/dsc-1428-jpg_953fe113-55e6-4b66-9aeb-972e67ef61e8.jpg",
-    "https://images.century21.pt/dsc-1492-jpg_e6be8a2b-5f1c-485d-ab33-232be916b7c0.jpg",
-    "https://images.century21.pt/dsc-1498-jpg_fd8b9fc3-facc-40bd-a6d5-017bb2034b96.jpg",
-    "https://images.century21.pt/dsc-1445-jpg_19493637-94a0-44e5-bd8c-3b350e5cf19c.jpg"
+    "https://images.century21.pt/dsc-1278-jpg_9f874209-1c23-4951-900e-41ec3693987d.jpg"
   ],
-  "features": {
-    "Características": [
-      "Piscina"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 110,
-  "area_bruta_m2": 3200,
-  "ano_construcao": 1949,
-  "certificacao_energetica": "D"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }
