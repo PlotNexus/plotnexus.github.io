@@ -87,6 +87,16 @@ export function removeDuplicateListings(listings) {
   const priceGroups = new Map();
   for (const listing of listings) {
     if (!listing.geo || listing.price == null) continue;
+    // e-Leilões' `price` is a judicial auction's starting bid, not a normal
+    // asking price — matching it against another source's price is
+    // comparing two different kinds of number, so an exact match is
+    // essentially always coincidence, never a real cross-posted duplicate.
+    // Confirmed the hard way: once e-Leilões listings got real geo
+    // coordinates (see sources/eleiloes.js's detail enrichment), this
+    // logic started treating unrelated listings that happened to share a
+    // price/location as duplicates and silently dropped over 1000 genuine
+    // listings from other sources in a single run.
+    if (listing.source.name === "e-Leilões") continue;
     const key = `${listing.type}|${listing.price}`;
     if (!priceGroups.has(key)) priceGroups.set(key, []);
     priceGroups.get(key).push(listing);
