@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": 57,
-  "image": "https://mediaredir2.era.pt/i/moradia-t2-guimaraes-serzedelo_13_1_1574159_19135343_2_1_Iyijj0czN3rpkfPCABXVWcujMxfEaLdEEl%2fxxN7IvovEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t2-guimaraes-serzedelo_14_1_1574159_19135343_2_1_Iyijj0czN3rpkfPCABXVWcujMxfEaLdEEl%2fxxN7IvovEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Andar moradia T2 localizado em Serzedelo, Guimarães.",
   "geo": null,
   "source": {
     "name": "ERA",
@@ -19,12 +19,27 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t2-guimaraes-serzedelo_13_1_1574159_19135343_2_1_Iyijj0czN3rpkfPCABXVWcujMxfEaLdEEl%2fxxN7IvovEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t2-guimaraes-serzedelo_14_1_1574159_19135343_2_1_Iyijj0czN3rpkfPCABXVWcujMxfEaLdEEl%2fxxN7IvovEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Renovado",
+      "Área Bruta: 66"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Zona": [
+      "Acessos: Auto-Estrada, Bons, Transportes Púb.",
+      "Centralidade: Periferia Cidade"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 57,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 66,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

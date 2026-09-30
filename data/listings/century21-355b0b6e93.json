@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 142,
   "image": "https://images.century21.pt/881751e1-a737-46f1-a922-0f43ad8714a0/10.png",
-  "description": "$25",
+  "description": null,
   "geo": {
     "lat": 38.7554342,
     "lng": -9.2812114
@@ -22,55 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/881751e1-a737-46f1-a922-0f43ad8714a0/10.png",
-    "https://images.century21.pt/792c0079-1856-4dd4-bbc6-ef78610389e8/18.png",
-    "https://images.century21.pt/7dfc081d-ba86-4a3d-805f-ded30ad0d87e/13.png",
-    "https://images.century21.pt/e833ac22-12b4-4ea9-97de-3e2834281f74/15.png",
-    "https://images.century21.pt/9cb0ba90-a4d1-44cc-83f3-0ebdef3cf419/23.png",
-    "https://images.century21.pt/bfb9e6f2-7833-4c79-b3ea-0546a2b11c5b/3.png",
-    "https://images.century21.pt/a6f2cfbc-20d8-4c7f-a95d-5c30a050bea1/1.png",
-    "https://images.century21.pt/6a7b893d-7ab3-42ee-a25b-161c5fe9cdb1/16.png",
-    "https://images.century21.pt/0f835fd8-6224-4832-9b89-50e0e75d8f51/17.png",
-    "https://images.century21.pt/608ec0bf-9c1f-4c6e-a49e-b48963ac1fea/24.png"
+    "https://images.century21.pt/881751e1-a737-46f1-a922-0f43ad8714a0/10.png"
   ],
-  "features": {
-    "Características": [
-      "Perto de uma autoestrada",
-      "Perto de um banco",
-      "Perto de uma bomba de gasolina",
-      "Perto de comodidades",
-      "Perto de um complexo desportivo",
-      "Perto de espaços verdes",
-      "Perto de a polícia",
-      "Perto de uma paragem de autocarro",
-      "Perto de uma estação de comboio",
-      "Perto de uma farmácia",
-      "Perto de uma igreja",
-      "Perto de um infantário",
-      "Perto de um espaço público",
-      "Perto de um mercado",
-      "Perto de uma praça de táxis",
-      "Perto de restaurantes",
-      "Perto de uma zona comercial",
-      "Elevador",
-      "Exaustor",
-      "Lareira",
-      "Casa de banho",
-      "Casa de banho privativa",
-      "Hall de quartos",
-      "Cozinha",
-      "Despensa",
-      "Garagem",
-      "Corredor",
-      "Quarto",
-      "Quarto em suite",
-      "Sala de estar",
-      "Terraço"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 142,
-  "area_bruta_m2": 168,
-  "ano_construcao": 1993,
-  "certificacao_energetica": "D"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

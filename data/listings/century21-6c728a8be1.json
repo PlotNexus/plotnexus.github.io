@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 299,
   "image": "https://images.century21.pt/d005c71a-207b-4c60-a7f5-f650cf4cb529/1.jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.6383292,
     "lng": -9.0457707
@@ -22,58 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/d005c71a-207b-4c60-a7f5-f650cf4cb529/1.jpg",
-    "https://images.century21.pt/9737ac38-93ae-4692-9656-ad1670c29f11/2.jpg",
-    "https://images.century21.pt/e835aa9c-11e2-4315-a59e-141ec7b24dfe/3.jpg",
-    "https://images.century21.pt/c10e60c6-163d-40a9-8da5-642b27105415/5.jpg",
-    "https://images.century21.pt/7ac237e7-bb86-46e4-896f-e60a977b1072/4.jpg",
-    "https://images.century21.pt/aec52ed0-6077-4201-857e-1888525ce5b9/6.jpg",
-    "https://images.century21.pt/daa813c4-a392-4612-a7d4-f0b583838516/7.jpg",
-    "https://images.century21.pt/0597be2a-8448-4bc1-b3f5-c55e0b26c496/8.jpg",
-    "https://images.century21.pt/f5ca49cb-97f7-4818-b14d-a63fdf8dfc6e/9.jpg",
-    "https://images.century21.pt/e52f4500-60a1-44e0-9d1d-3511aa112617/10.jpg"
+    "https://images.century21.pt/d005c71a-207b-4c60-a7f5-f650cf4cb529/1.jpg"
   ],
-  "features": {
-    "Características": [
-      "Casa de banho",
-      "Quarto",
-      "Arbustos",
-      "Vestiário",
-      "Corredor",
-      "Terraço coberto",
-      "Sala de jantar",
-      "Piso flutuante",
-      "Alpendre",
-      "Árvores de fruto",
-      "Garagem",
-      "Jardim",
-      "Boa exposição solar",
-      "Boa localização",
-      "Cozinha",
-      "Lavandaria",
-      "Sala de estar",
-      "Acesso para cargas e descargas",
-      "Piso em mosaico",
-      "Perto de uma paragem de autocarro",
-      "Perto de uma zona comercial",
-      "Perto de espaços verdes",
-      "Perto de uma autoestrada",
-      "Perto de um infantário",
-      "Perto de uma farmácia",
-      "Perto de restaurantes",
-      "Perto de um complexo desportivo",
-      "Open space",
-      "Despensa",
-      "Pátio",
-      "Acesso por estrada",
-      "Casa de banho de suite",
-      "Água canalizada",
-      "Poço"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 299,
-  "area_bruta_m2": 300,
-  "ano_construcao": 2002,
-  "certificacao_energetica": "E"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

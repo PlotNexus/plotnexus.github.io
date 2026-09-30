@@ -9,7 +9,7 @@
   "bathrooms": 5,
   "area_m2": 250,
   "image": "https://images.century21.pt/25221110-5083-4312-bf1c-cd3beca5233a/20.jpg",
-  "description": "$1f",
+  "description": null,
   "geo": {
     "lat": 39.6081531,
     "lng": -8.8310985
@@ -22,41 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/25221110-5083-4312-bf1c-cd3beca5233a/20.jpg",
-    "https://images.century21.pt/03917044-5045-495b-a01f-ff2ebc481789/28.jpg",
-    "https://images.century21.pt/8ad8e83a-b539-4925-a66b-f6da71a09b60/48.jpg",
-    "https://images.century21.pt/577a9d05-2bae-43f4-aca1-518310b0b012/1.jpg",
-    "https://images.century21.pt/8e27f24e-4ba3-4d1e-99b0-0906f82f7561/9.jpg",
-    "https://images.century21.pt/5634d726-2921-47d9-985b-b9d1448e0c70/10.jpg",
-    "https://images.century21.pt/ac9686ca-f7a5-465a-a08c-c5a0663eab09/4.jpg",
-    "https://images.century21.pt/d2d18a23-7ea8-4ec7-ba57-58414b46dedf/3.jpg",
-    "https://images.century21.pt/94c82fe8-4e24-4b35-8cdb-207f7f960562/6.jpg",
-    "https://images.century21.pt/13b310a9-c4c7-4507-bb64-e4f302e34d26/2.jpg"
+    "https://images.century21.pt/25221110-5083-4312-bf1c-cd3beca5233a/20.jpg"
   ],
-  "features": {
-    "Características": [
-      "Piso em madeira",
-      "Acesso por estrada",
-      "Zona tranquila",
-      "Alpendre",
-      "Casa de banho",
-      "Casa de banho partilhada",
-      "Casa de banho de suite",
-      "Churrasqueira",
-      "Cozinha",
-      "Despensa",
-      "Marquise",
-      "Sala de jantar",
-      "Salão",
-      "Suite",
-      "Aquecedor",
-      "Eletrodomésticos",
-      "Arbustos"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 250,
-  "area_bruta_m2": 338,
-  "ano_construcao": 2001,
-  "certificacao_energetica": "C"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

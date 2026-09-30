@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 85,
   "image": "https://images.century21.pt/d02108ec-5230-4ab9-b7e7-bcb14fa86ffc/102.jpg",
-  "description": "$1f",
+  "description": null,
   "geo": {
     "lat": 39.76043,
     "lng": -8.929798
@@ -22,28 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/d02108ec-5230-4ab9-b7e7-bcb14fa86ffc/102.jpg",
-    "https://images.century21.pt/354ad44b-b3ed-4482-9b27-8ddc40a540c4/101.jpg",
-    "https://images.century21.pt/7157c363-4aba-414d-8e9d-ed506474f8ff/104.jpg",
-    "https://images.century21.pt/4cf31ebb-c536-4261-96bd-403210aa478a/118.jpg",
-    "https://images.century21.pt/ed03ac51-f3f9-4ca0-9288-e59fccc0ae49/119.jpg",
-    "https://images.century21.pt/8576ab6c-a341-4aed-8d3c-01c906d0bc2a/117.jpg",
-    "https://images.century21.pt/578c33c8-2155-4805-a0d8-aa5d2bd40147/110.jpg",
-    "https://images.century21.pt/606241a1-4c8e-4062-a909-176c6c80e0e1/106.jpg",
-    "https://images.century21.pt/6bf1d2f4-6f67-4833-aeec-13ef4ac83ae4/105.jpg",
-    "https://images.century21.pt/b72a6137-f7ca-4b36-a293-d06ab501beeb/115.jpg"
+    "https://images.century21.pt/d02108ec-5230-4ab9-b7e7-bcb14fa86ffc/102.jpg"
   ],
-  "features": {
-    "Características": [
-      "Garagem",
-      "Varanda",
-      "Perto de uma zona comercial",
-      "Perto de o centro da cidade"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 85,
-  "area_bruta_m2": 105,
-  "ano_construcao": 1998,
-  "certificacao_energetica": "E"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

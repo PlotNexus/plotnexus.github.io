@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 159,
   "image": "https://images.century21.pt/13d87c6c-8e11-47d7-83ed-cc4b04dbb209/RS602076.jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.7469397,
     "lng": -9.2285249
@@ -22,37 +22,12 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/13d87c6c-8e11-47d7-83ed-cc4b04dbb209/RS602076.jpg",
-    "https://images.century21.pt/3333fb3e-d666-4be7-ab9e-cbbfe882764b/RS602080.jpg",
-    "https://images.century21.pt/7b6f1766-ca56-4b67-8157-833198b2d511/RS602079.jpg",
-    "https://images.century21.pt/980b833c-b028-424c-a18f-7a747d713dc1/RS602077.jpg",
-    "https://images.century21.pt/278656c2-863b-4b25-bd83-8434806475d3/RS602074.jpg",
-    "https://images.century21.pt/5f609706-1412-4a0c-b936-5942f3691ed5/RS602084.jpg",
-    "https://images.century21.pt/fc894f24-bd54-4fb5-8aec-df854569dd8f/RS602089.jpg",
-    "https://images.century21.pt/b5edfef5-f682-4edb-b5d2-ebf15726d517/RS602099.jpg",
-    "https://images.century21.pt/f751ea36-5e9d-43fa-ae96-a2a8c3045468/RS602110.jpg",
-    "https://images.century21.pt/c06d38fe-820d-486a-ab6f-3350a2794f2b/RS602113.jpg"
+    "https://images.century21.pt/13d87c6c-8e11-47d7-83ed-cc4b04dbb209/RS602076.jpg"
   ],
-  "features": {
-    "Características": [
-      "Varanda",
-      "Casa de banho",
-      "Quarto",
-      "Hall de quartos",
-      "Sala de jantar",
-      "Hall de entrada",
-      "Garagem",
-      "Corredor",
-      "Sala de estar",
-      "Outra divisão",
-      "Casa de banho partilhada",
-      "Suite",
-      "Casa de banho de suite"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 159,
-  "area_bruta_m2": 180,
-  "ano_construcao": 2007,
-  "certificacao_energetica": "D"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }
