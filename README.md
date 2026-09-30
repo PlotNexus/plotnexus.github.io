@@ -276,6 +276,7 @@ link directo para o anúncio original:
 │       ├── idealista.js
 │       └── eleiloes.js           # só corrido manualmente, ver "Correr localmente"
 ├── .github/workflows/scrape.yml  # agendamento do scraper
+├── run-full-scrape.bat           # atalho Windows para index.js (tudo excepto e-Leilões)
 ├── run-eleiloes.bat              # atalho Windows para run-eleiloes-manual.js
 ├── LICENSE
 └── README.md
@@ -306,6 +307,15 @@ A variável de ambiente `SCRAPE_DISTRICTS` (lista separada por vírgulas, ex.
 da lista completa. A fonte Idealista precisa também de `RAPIDAPI_KEY`
 (a mesma usada em produção, guardada como *secret* do GitHub Actions) —
 sem ela, essa fonte é simplesmente ignorada em vez de falhar a execução.
+
+Em Windows, `run-full-scrape.bat` (na raiz do repositório) faz o mesmo com
+um duplo-clique — instala dependências se for a primeira vez, atualiza o
+repositório antes de correr, e só faz commit/push se houver mesmo anúncios
+novos. É o mesmo trabalho que o GitHub Actions faz dividido por 4 execuções
+paralelas (ver abaixo), mas tudo a sério numa única máquina — por isso
+demora muito mais tempo (pode ir a várias horas, sobretudo na primeira
+execução, até o cache de detalhe apanhar o atraso). Não há problema em
+deixar a janela aberta em segundo plano.
 
 O e-Leilões fica de fora de `index.js`/`worker.js` (ver acima) e tem o seu
 próprio ponto de entrada, para correr manualmente a partir de uma ligação
