@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 65,
   "image": "https://images.century21.pt/06bee59a-ae52-4a60-870b-bf1e2dc393a3/IMG4235.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.168762,
     "lng": -8.619911
@@ -22,12 +22,28 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/06bee59a-ae52-4a60-870b-bf1e2dc393a3/IMG4235.jpeg"
+    "https://images.century21.pt/06bee59a-ae52-4a60-870b-bf1e2dc393a3/IMG4235.jpeg",
+    "https://images.century21.pt/05fa2e77-1e2b-4848-8f5a-e161a38e5bf0/IMG4225.jpeg",
+    "https://images.century21.pt/6d0c3a3c-f968-409e-a0f5-3bf0cb630903/IMG4224.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk2315/ztre-03593/36555993_af139acae7e86bdbd3fc4fad34a21d9f6761ae7a.jpg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk2315/ztre-03593/36555669_30b8612361f321f3466bda663324bbfbc3e6c295.jpg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk2315/ztre-03593/36555656_d5431732e58a7355937cd6e7be31ddb6bf33f900.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk2315/ztre-03593/36555667_3030e611d6aaffe632a0a0cd9b929b86a68925ef.jpg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk2315/ztre-03593/36555655_271efa39f4aee45f657fd9049c3a2be36f14543c.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk2315/ztre-03593/36555663_efd778102609a736eb5010d9e7cace814c855703.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk2315/ztre-03593/36555668_be2079ff82aa8dde2606b9b75955680403f46ffb.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Aquecimento central",
+      "Elevador",
+      "Estacionamento",
+      "Roupeiro"
+    ]
+  },
   "estado": null,
   "area_util_m2": 65,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 77,
+  "ano_construcao": 2006,
+  "certificacao_energetica": "E"
 }

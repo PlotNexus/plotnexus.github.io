@@ -8,8 +8,8 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": 60,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-a2-enxomil_13_1_1568904_19069817_2_1_Jy8WVZTVdwTHpSVcFLoePJDgTZBXt4BtmHyPw3l9wlnEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-a2-enxomil_14_1_1568904_19069817_2_1_Jy8WVZTVdwTHpSVcFLoePJDgTZBXt4BtmHyPw3l9wlnEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Apartamento T1 em construção com 60m2 e 10m2 de terraço, todo virado a nascente. Localizado no coração de Arcozelo no edifício já em construção AURA MARIS.\nCondomínio fechado, com todos os acessos e serviços à porta.",
   "geo": {
     "lat": 41.06472,
     "lng": -8.638424
@@ -22,12 +22,29 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-a2-enxomil_13_1_1568904_19069817_2_1_Jy8WVZTVdwTHpSVcFLoePJDgTZBXt4BtmHyPw3l9wlnEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-a2-enxomil_14_1_1568904_19069817_2_1_Jy8WVZTVdwTHpSVcFLoePJDgTZBXt4BtmHyPw3l9wlnEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Construção",
+      "Área Bruta: 60"
+    ],
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Edifício": [
+      "Tipo Empreendimento: Cond. Fechado, Habitação"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Garagem": [
+      "Local: Cave"
+    ]
+  },
+  "estado": "Construção",
   "area_util_m2": 60,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 60,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
