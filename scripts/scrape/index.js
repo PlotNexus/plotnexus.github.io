@@ -130,7 +130,6 @@ async function enrichListings(listings, fetchDetail, cache, delayMs, maxDetail =
     if (i < candidates.length - 1) await sleepJittered(delayMs);
   }
 
-  pruneDetailCache(cache, listings);
   return cache;
 }
 
@@ -161,6 +160,20 @@ async function main() {
     const sourceListings = mergedListings.filter((item) => item.id.startsWith(`${source.name}-`));
     await enrichListings(sourceListings, source.fetchDetail, detailCache, source.detailDelayMs, source.maxDetail);
   }
+
+  // Must run once, against every source's listings together, *after* the
+  // per-source loop above — not once per source inside enrichListings
+  // (which is how this shipped originally): pruning per source against
+  // only that source's own listings deletes every other source's cache
+  // entries too (their ids simply aren't in that source's list), and by
+  // the last source in the loop the shared cache is reduced to almost
+  // nothing. Confirmed the hard way: a real run wiped a 22,882-listing
+  // detail cache down to empty in one pass, silently stripping
+  // description/photos/features from ~17,800 already-enriched listings
+  // across every source when mergeDetailInto ran next with no cached
+  // detail left to find. finalize.js already calls this correctly, once,
+  // against the full deduped set — mirroring that here.
+  pruneDetailCache(detailCache, mergedListings);
 
   const enrichedListings = mergedListings.map((item) => mergeDetailInto(item, detailCache[item.id]));
 
