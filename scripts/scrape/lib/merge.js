@@ -31,7 +31,24 @@ export async function loadJson(filePath, fallback) {
   try {
     const raw = await fs.readFile(filePath, "utf-8");
     return JSON.parse(raw);
-  } catch {
+  } catch (err) {
+    // A missing file (first run, fresh checkout) is routine and silent on
+    // purpose — but a file that *exists* and fails to parse is different:
+    // for data/listings-detail.json specifically, this is one JSON
+    // document for the whole cache, so a single corrupted byte anywhere
+    // (confirmed: literal unresolved git conflict markers, committed by
+    // accident) fails the *entire* file, silently handing back an empty
+    // cache here. The next run then sees every listing as "never
+    // enriched" and, since fresh scrapes overwrite stale summaries
+    // unconditionally (mergeWithPrevious), strips description/photos back
+    // to null across the whole site — confirmed: one source alone went
+    // from 1433 enriched listings to 101 in a single run this way, and it
+    // took several cycles to notice. Logging loudly here (instead of
+    // staying silent) is the cheapest possible tripwire against this
+    // repeating unnoticed.
+    if (err.code !== "ENOENT") {
+      console.error(`[merge] ${filePath} existe mas falhou o parse (${err.message}) — a usar o valor por omissão`);
+    }
     return fallback;
   }
 }
