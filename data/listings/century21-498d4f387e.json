@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 111,
   "image": "https://images.century21.pt/eb706713-88c9-4c25-8204-34a4e390cf78/sala(6).jpg",
-  "description": "$1f",
+  "description": null,
   "geo": {
     "lat": 38.7045223,
     "lng": -9.2019052
@@ -22,29 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/eb706713-88c9-4c25-8204-34a4e390cf78/sala(6).jpg",
-    "https://images.century21.pt/e2b4ee91-a2ba-48db-bc33-f6743b78068b/sala(3).jpg",
-    "https://images.century21.pt/3b54e763-6cef-49e2-84f5-9060b09b5755/sala(4).jpg",
-    "https://images.century21.pt/bb9803e8-84da-466c-b1f9-2b88c97daea6/sala(1).jpg",
-    "https://images.century21.pt/39f16eb7-2a63-417d-be53-fb71fdd16702/sala(5).jpg",
-    "https://images.century21.pt/317b14be-6fee-437d-b8e7-8141dca1d0e5/sala(2).jpg",
-    "https://images.century21.pt/e3a60121-805d-4e9d-a1b8-daa6460ca83c/quarto1(1).jpg",
-    "https://images.century21.pt/128a4b98-4bb5-4a29-b9c6-42abe02ce455/quarto2(3).jpg",
-    "https://images.century21.pt/57729069-18df-43aa-ac45-5e8f3758b258/quarto1(2).jpg",
-    "https://images.century21.pt/83a6c8d5-ffbb-4076-a932-66547a1e188b/Banho02(1).jpg"
+    "https://images.century21.pt/eb706713-88c9-4c25-8204-34a4e390cf78/sala(6).jpg"
   ],
-  "features": {
-    "Características": [
-      "Jardim",
-      "Boa localização",
-      "Rés-do-chão",
-      "Suite",
-      "Casa de banho de suite"
-    ]
-  },
-  "estado": "Novo",
+  "features": null,
+  "estado": null,
   "area_util_m2": 111,
-  "area_bruta_m2": 112,
-  "ano_construcao": 2025,
-  "certificacao_energetica": "A"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 20,
   "image": "https://images.century21.pt/c4510218-a6cc-41db-880f-8ce5defd627d/WhatsAppImage2025-11-27at18.05.59.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.8257554,
     "lng": -7.4811277
@@ -22,12 +22,47 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/c4510218-a6cc-41db-880f-8ce5defd627d/WhatsAppImage2025-11-27at18.05.59.jpeg"
+    "https://images.century21.pt/c4510218-a6cc-41db-880f-8ce5defd627d/WhatsAppImage2025-11-27at18.05.59.jpeg",
+    "https://images.century21.pt/839ca8eb-a104-4bfc-9cae-62258f4579bc/WhatsAppImage2025-11-27at18.05.59(4).jpeg",
+    "https://images.century21.pt/5abef88a-7f52-4c5a-aac9-241a8ff27a11/WhatsAppImage2025-11-27at18.05.59(2).jpeg",
+    "https://images.century21.pt/1cd383f3-bd18-42b5-abfe-9a43c739a01e/WhatsAppImage2025-11-27at18.05.59(3).jpeg",
+    "https://images.century21.pt/93f23d76-b6ef-4e7c-af90-80e1899561fd/WhatsAppImage2025-11-27at18.05.59(5).jpeg",
+    "https://images.century21.pt/7c7b8298-301e-4fb6-8019-8c6d5de1ae23/WhatsAppImage2025-11-27at18.05.59(1).jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Alpendre",
+      "Casa de banho",
+      "Open space",
+      "Pátio",
+      "Terraço",
+      "Primeira linha",
+      "Vista cidade",
+      "Estacionamento",
+      "Perto de um banco",
+      "Perto de uma bomba de gasolina",
+      "Perto de comodidades",
+      "Perto de um complexo desportivo",
+      "Perto de espaços verdes",
+      "Perto de uma farmácia",
+      "Perto de uma igreja",
+      "Perto de um infantário",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de o centro da cidade",
+      "Piso em pedra",
+      "Água",
+      "Água canalizada",
+      "Eletricidade",
+      "Gás canalizado",
+      "Saneamento"
+    ]
+  },
   "estado": null,
   "area_util_m2": 20,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 40,
+  "ano_construcao": 1938,
+  "certificacao_energetica": "EXEMPT"
 }

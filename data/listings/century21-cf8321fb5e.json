@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 195.45,
   "image": "https://images.century21.pt/6e8d0e10-7bfe-483e-8c49-9da33fac0918/4.jpg",
-  "description": "$23",
+  "description": null,
   "geo": {
     "lat": 39.5719146355193,
     "lng": -8.29261779785156
@@ -22,56 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/6e8d0e10-7bfe-483e-8c49-9da33fac0918/4.jpg",
-    "https://images.century21.pt/6b20db22-be92-4227-be8d-d4c850c4ef9d/1.jpg",
-    "https://images.century21.pt/1449d6fc-a0a6-4b47-b4c6-7d060367bbff/2.jpg",
-    "https://images.century21.pt/de8eb5cd-7ff6-43ed-a478-d08f5aa3b484/1.jpg",
-    "https://images.century21.pt/99c55736-9167-4681-99c0-8e0db73f7879/5.jpg",
-    "https://images.century21.pt/7b9923e1-bfb4-4b99-a840-b27797a13644/10.jpg",
-    "https://images.century21.pt/ab48c1be-f9bf-44bd-8bd4-a62314947e27/11.jpg",
-    "https://images.century21.pt/78695237-2ccc-4094-92c9-763714577865/8.jpg",
-    "https://images.century21.pt/e06178b3-3ade-4429-80bb-56b8630cfc01/7.jpg",
-    "https://images.century21.pt/c7afe478-5f85-4711-8203-0c8c30c5beab/9.jpg"
+    "https://images.century21.pt/6e8d0e10-7bfe-483e-8c49-9da33fac0918/4.jpg"
   ],
-  "features": {
-    "Características": [
-      "Arrecadação",
-      "Casa de banho",
-      "Casa de banho de suite",
-      "Churrasqueira",
-      "Hall de quartos",
-      "Cozinha",
-      "Escritório",
-      "Garagem",
-      "Corredor",
-      "Jardim",
-      "Pátio",
-      "Quarto",
-      "Quarto em suite",
-      "Sala de jantar",
-      "Terraço",
-      "Terraço coberto",
-      "Luxo",
-      "Acesso por estrada",
-      "Boa exposição solar",
-      "Zona tranquila",
-      "Acesso para cargas e descargas",
-      "Água canalizada",
-      "Eletricidade",
-      "Estacionamento",
-      "Piscina",
-      "Aquecimento central",
-      "Ar condicionado",
-      "Caixilharia",
-      "Esquentador",
-      "Fogão",
-      "Janelas duplas",
-      "Recuperador de calor"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 195.45,
-  "area_bruta_m2": 341.45,
-  "ano_construcao": 2014,
-  "certificacao_energetica": "C"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

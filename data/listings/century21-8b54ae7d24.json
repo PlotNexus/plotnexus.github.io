@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 111,
   "image": "https://images.century21.pt/631f3e1a-b584-4703-b31e-b620ec705548/1.jpg",
-  "description": "$1f",
+  "description": null,
   "geo": {
     "lat": 40.1733809712373,
     "lng": -8.88508558273316
@@ -22,39 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/631f3e1a-b584-4703-b31e-b620ec705548/1.jpg",
-    "https://images.century21.pt/42d26cc3-9b9d-4dc4-883a-aaca020f1c2e/2.jpg",
-    "https://images.century21.pt/7a84652d-30ba-4ca0-927e-f8ecf2b0bc5e/3.jpg",
-    "https://images.century21.pt/09e57162-6edf-4bd3-956a-6e5ed04455d0/4.jpg",
-    "https://images.century21.pt/8341bf34-491f-45e3-b5a4-9f4cc2a0a806/5.jpg",
-    "https://images.century21.pt/11c814cd-3a4b-431c-a827-56df3c1b94b5/6.jpg",
-    "https://images.century21.pt/2ce2f72d-6000-40a4-9a6b-cc34940d821c/7.jpg",
-    "https://images.century21.pt/415a95fd-4e2b-4d30-8166-25dea9a0b121/8.jpg",
-    "https://images.century21.pt/ee6af44d-490b-4663-9c05-33e959c533c0/9.jpg",
-    "https://images.century21.pt/79b82acd-a03b-41cc-85db-5596926799de/10.jpg"
+    "https://images.century21.pt/631f3e1a-b584-4703-b31e-b620ec705548/1.jpg"
   ],
-  "features": {
-    "Características": [
-      "Aquecimento central",
-      "Perto de a praia",
-      "Boa exposição solar",
-      "Boa localização",
-      "Zona tranquila",
-      "Arrecadação",
-      "Garagem",
-      "Sótão",
-      "Suite",
-      "Varandas",
-      "Casa de banho de suite",
-      "Perto de espaços verdes",
-      "Vista cidade",
-      "Vista serra",
-      "Estacionamento"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 111,
-  "area_bruta_m2": 198,
-  "ano_construcao": 1999,
-  "certificacao_energetica": "B-"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

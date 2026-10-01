@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 97.96,
   "image": "https://images.century21.pt/d606c606-3773-4636-9b98-688e904b415f/sala4.jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.541301,
     "lng": -8.884903
@@ -22,28 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/d606c606-3773-4636-9b98-688e904b415f/sala4.jpg",
-    "https://images.century21.pt/dc2ee172-7270-416e-95c4-d547182574ae/cozinha2.jpg",
-    "https://images.century21.pt/045f5d97-c593-42e2-bb89-0c5f4ad90e2e/quartocasal4.jpg",
-    "https://images.century21.pt/e3d0a1f9-d06d-4908-bd3a-426e755001d1/vistarotunda1.jpg",
-    "https://images.century21.pt/fdc2be9c-9892-4ea7-b638-8eba079111af/006.jpg",
-    "https://images.century21.pt/c2c51d46-2750-4b09-8ac3-0cf2f1440fa5/hallentrada1.jpg",
-    "https://images.century21.pt/23ac9ba5-86f6-4139-a861-daee66a13016/hallentrada2.jpg",
-    "https://images.century21.pt/8c00c869-bbd8-472d-9cbd-45e103be9038/011.jpg",
-    "https://images.century21.pt/c409c7fa-6382-4318-8933-d241bc129a61/sala2.jpg",
-    "https://images.century21.pt/170b05c1-ece2-4adf-bee5-d5ff66939362/sala5.jpg"
+    "https://images.century21.pt/d606c606-3773-4636-9b98-688e904b415f/sala4.jpg"
   ],
-  "features": {
-    "Características": [
-      "Portão elétrico",
-      "Vídeo-porteiro",
-      "Gás canalizado",
-      "Elevador"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 97.96,
-  "area_bruta_m2": 111.97,
-  "ano_construcao": 2002,
-  "certificacao_energetica": "C"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

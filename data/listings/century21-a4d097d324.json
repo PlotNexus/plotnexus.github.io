@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 30,
   "image": "https://images.century21.pt/a0a6a2dc-c414-48fe-83fd-21df45c3f20c/001VistaAerea.png",
-  "description": "$25",
+  "description": null,
   "geo": {
     "lat": 38.6912843,
     "lng": -9.4234384
@@ -22,25 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/a0a6a2dc-c414-48fe-83fd-21df45c3f20c/001VistaAerea.png",
-    "https://images.century21.pt/7b6e1d39-2bc4-4161-89a0-544563530233/003I.S..png",
-    "https://images.century21.pt/63707c71-7def-48c6-9c5b-08fc40ef4b4c/002Quarto.png",
-    "https://images.century21.pt/ef71a204-b5dc-48ba-a2b7-75bea6e67308/004Quarto.png",
-    "https://images.century21.pt/b3bdf550-735e-4def-99bd-e4af48f38633/005Bar.png",
-    "https://images.century21.pt/adb6fb31-273d-4006-9884-fd2bf5935d3a/006VistaAerea.png"
+    "https://images.century21.pt/a0a6a2dc-c414-48fe-83fd-21df45c3f20c/001VistaAerea.png"
   ],
-  "features": {
-    "Características": [
-      "Piscina comum",
-      "Elevador",
-      "Ginásio",
-      "Kitchenette",
-      "Sauna"
-    ]
-  },
-  "estado": "Renovado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 30,
-  "area_bruta_m2": 36,
-  "ano_construcao": 1996,
-  "certificacao_energetica": "EXEMPT"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

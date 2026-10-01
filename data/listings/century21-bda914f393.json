@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 590,
   "image": "https://images.century21.pt/48aa7bb9-685e-4d31-9bc5-3b6780862fb6/1.jpeg",
-  "description": "$1f",
+  "description": null,
   "geo": {
     "lat": 39.4541577,
     "lng": -8.2515457
@@ -22,27 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/48aa7bb9-685e-4d31-9bc5-3b6780862fb6/1.jpeg",
-    "https://images.century21.pt/be93a580-da57-4d52-b3d4-272fca8770ec/2.jpeg",
-    "https://images.century21.pt/53f60d8f-6163-4b13-884c-28f15d6a1062/3.jpeg",
-    "https://images.century21.pt/fea9ed76-c8ea-40a1-b7ec-5db92eac5762/4.jpeg",
-    "https://images.century21.pt/56500c71-a868-4b7f-8ecd-99411616a002/5.jpeg",
-    "https://images.century21.pt/97c660ae-8d0c-42d2-9306-96dfcc4c637d/6.jpeg",
-    "https://images.century21.pt/78287dca-3c0c-4bc0-ac64-d2b815fa69bd/7.jpeg",
-    "https://images.century21.pt/5a07b300-b642-418d-a141-e8af69e7d891/8.png",
-    "https://images.century21.pt/450e029d-c002-46f6-8f5a-f509eb2760ba/9.jpeg",
-    "https://images.century21.pt/76c0eebf-6d8c-4e71-87ca-ee27b87e29a7/10.jpeg"
+    "https://images.century21.pt/48aa7bb9-685e-4d31-9bc5-3b6780862fb6/1.jpeg"
   ],
-  "features": {
-    "Características": [
-      "Garagem",
-      "Jardim",
-      "Piscina"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 590,
-  "area_bruta_m2": 656,
-  "ano_construcao": 1967,
-  "certificacao_energetica": "E"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

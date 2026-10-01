@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 70,
   "image": "https://images.century21.pt/f107b1e6-3898-4c81-a5da-3cefd1c1d587/ruaq.jpeg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.7224785,
     "lng": -9.1347627
@@ -22,52 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/f107b1e6-3898-4c81-a5da-3cefd1c1d587/ruaq.jpeg",
-    "https://images.century21.pt/c56f2301-531d-446a-9b20-b6f0d831cb43/fachada.jpeg",
-    "https://images.century21.pt/5be14c7d-c60d-48e5-b0f9-96c3fee44b5f/coz1.jpeg",
-    "https://images.century21.pt/ca158abd-ad07-4b18-9be6-d24556b973bc/varanda.jpeg",
-    "https://images.century21.pt/c00ebd62-b17b-42d1-a374-10a363661868/qtentrada.jpeg",
-    "https://images.century21.pt/90708c6c-c5f4-49cc-88c3-a236a7a94539/hall1.jpeg",
-    "https://images.century21.pt/a0e48e28-931f-416f-bc6b-f853043dfcce/hall.jpeg",
-    "https://images.century21.pt/eb95f825-cb33-44af-a362-8a34ec5aada3/cozmesa1.jpeg",
-    "https://images.century21.pt/72804564-8353-45cb-ba0a-5677895d9960/cozinhafo.jpeg",
-    "https://images.century21.pt/33707b41-befd-4d8d-87c6-927d62a30e04/coz.jpeg"
+    "https://images.century21.pt/f107b1e6-3898-4c81-a5da-3cefd1c1d587/ruaq.jpeg"
   ],
-  "features": {
-    "Características": [
-      "Perto de uma autoestrada",
-      "Perto de um banco",
-      "Perto de uma bomba de gasolina",
-      "Perto de comodidades",
-      "Perto de a polícia",
-      "Perto de uma paragem de autocarro",
-      "Perto de uma estação de comboio",
-      "Perto de uma farmácia",
-      "Perto de um infantário",
-      "Perto de um espaço público",
-      "Perto de um mercado",
-      "Perto de o metro",
-      "Perto de uma praça de táxis",
-      "Perto de restaurantes",
-      "Perto de uma zona comercial",
-      "Perto de uma zona histórica",
-      "Perto de o centro da cidade",
-      "Esquentador",
-      "Exaustor",
-      "Fogão",
-      "Janelas duplas",
-      "Máquina de lavar loiça",
-      "Máquina de lavar roupa",
-      "Micro-ondas",
-      "Portão elétrico",
-      "Escritório",
-      "Termoacumulador elétrico",
-      "Teto falso"
-    ]
-  },
-  "estado": "Renovado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 70,
-  "area_bruta_m2": 90,
-  "ano_construcao": 1951,
-  "certificacao_energetica": "D"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

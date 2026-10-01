@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 270,
   "image": "https://images.century21.pt/cae251e6-8c8b-4394-a720-bd3cc049c068/Olhalvo2.jpg",
-  "description": "$20",
+  "description": null,
   "geo": {
     "lat": 39.0915996883758,
     "lng": -9.05005216677733
@@ -22,28 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/cae251e6-8c8b-4394-a720-bd3cc049c068/Olhalvo2.jpg",
-    "https://images.century21.pt/c52e4661-fbdd-4951-820c-83d52d7e7bdb/Olhalvo3.jpg",
-    "https://images.century21.pt/b0d28328-b0fd-4074-831d-25a38883b335/Olhalvo11.jpg",
-    "https://images.century21.pt/014003c9-25c4-4303-bcc8-5095d08ba1b5/Olhalvo4.jpg",
-    "https://images.century21.pt/7b08d3d2-4419-4061-824e-e29a26e6f607/Olhalvo7.jpg",
-    "https://images.century21.pt/f7246ae7-4830-4e10-9035-f8a0773ff6be/Olhalvo10.jpg",
-    "https://images.century21.pt/63323b21-9a29-4176-98c8-0f09b3455599/Olhalvo8.jpg",
-    "https://images.century21.pt/a1e8db20-052a-41d5-b726-3f2733d4c246/Olhalvo6.jpg",
-    "https://images.century21.pt/4b373875-9651-4ed6-8b39-5380b3c8df22/Olhalvo1.jpg",
-    "https://images.century21.pt/c595f06a-5d04-40a0-9a84-3f34b124af9e/Olhalvo9.jpg"
+    "https://images.century21.pt/cae251e6-8c8b-4394-a720-bd3cc049c068/Olhalvo2.jpg"
   ],
-  "features": {
-    "Características": [
-      "Água",
-      "Saneamento",
-      "Vista panorâmica",
-      "Vista campo"
-    ]
-  },
+  "features": null,
   "estado": null,
   "area_util_m2": 270,
-  "area_bruta_m2": 280,
-  "ano_construcao": 2010,
-  "certificacao_energetica": "IN_PROCESS"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

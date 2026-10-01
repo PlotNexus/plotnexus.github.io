@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 50,
   "image": "https://images.century21.pt/image-000-png_a278711a-0503-4957-aeb2-6bb55cb2fda4.png",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 41.1415121083771,
     "lng": -8.64122797558619
@@ -22,21 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/image-000-png_a278711a-0503-4957-aeb2-6bb55cb2fda4.png",
-    "https://images.century21.pt/img-20240109-wa0032-jpg_ebd0cfef-7421-4bc0-8f8b-85ed027d1cb9.jpg",
-    "https://images.century21.pt/img-20240109-wa0039-jpg_c165a82e-6b44-4c3f-b262-a66ed65cc587.jpg",
-    "https://images.century21.pt/image-010-png_ee3dc794-0b6b-4f2f-8340-87dfc775988b.png",
-    "https://images.century21.pt/img-20240109-wa0028-jpg_bff7dfcc-5fec-437f-b610-054ec0926ea7.jpg",
-    "https://images.century21.pt/image-001-png_446f3c90-0ae5-4b0e-8224-3a673085c2a5.png",
-    "https://images.century21.pt/img-20240109-wa0027-jpg_7157e8be-9acd-4e7b-adb6-9e6326d18d71.jpg",
-    "https://images.century21.pt/img-20240109-wa0026-jpg_f9448dfd-f1f9-4eec-9d4a-e2f6046d0058.jpg",
-    "https://images.century21.pt/image-003-png_448387f3-c0cb-41ec-9bd0-8369c128c627.png",
-    "https://images.century21.pt/img-20240109-wa0025-jpg_4a4938f8-793b-40bf-a345-3a5299f72f05.jpg"
+    "https://images.century21.pt/image-000-png_a278711a-0503-4957-aeb2-6bb55cb2fda4.png"
   ],
-  "features": {},
+  "features": null,
   "estado": null,
   "area_util_m2": 50,
-  "area_bruta_m2": 57,
-  "ano_construcao": 2026,
-  "certificacao_energetica": "IN_PROCESS"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

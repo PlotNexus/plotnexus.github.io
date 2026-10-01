@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 169,
   "image": "https://images.century21.pt/d451a295-f7b7-46fd-8581-2d528a232702/Alcanena1001.png",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 39.4590071,
     "lng": -8.6665943
@@ -22,21 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/d451a295-f7b7-46fd-8581-2d528a232702/Alcanena1001.png",
-    "https://images.century21.pt/f7912021-9d46-4df3-acce-21191ac4ba67/Alcanena100.png",
-    "https://images.century21.pt/822b1fe0-2256-4feb-9a43-d7d1b2107d6c/Alcanena101.png",
-    "https://images.century21.pt/d6070b3d-23c3-42b4-82dd-414acc6ab352/Alcanena1011.png",
-    "https://images.century21.pt/33704492-3e37-4f7d-a96b-bf43271024ae/Alcanena102.png",
-    "https://images.century21.pt/9f76ce40-7309-4f08-bb1f-1a2ea9ccc658/Alcanena1022.png",
-    "https://images.century21.pt/02b0858c-e596-4864-917d-86026d53be64/Alcanena103.png",
-    "https://images.century21.pt/9b271c9b-a12c-4616-88b7-20c02bb27b0a/Alcanena104.png",
-    "https://images.century21.pt/5cd48bb2-a7ef-4355-80b5-0d6c8a2f35bc/Alcanena1042.jpg",
-    "https://images.century21.pt/eff5cdbb-a7a6-4cd1-a613-ac8cfb7ba08e/Alcanena105.png"
+    "https://images.century21.pt/d451a295-f7b7-46fd-8581-2d528a232702/Alcanena1001.png"
   ],
-  "features": {},
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 169,
-  "area_bruta_m2": 240,
-  "ano_construcao": 1960,
-  "certificacao_energetica": "D"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

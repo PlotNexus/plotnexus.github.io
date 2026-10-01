@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 130,
   "image": "https://images.century21.pt/00dbdcd6-9811-4fef-b5ad-d705aaf37d8c/1000140152.jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 37.8330905,
     "lng": -25.1464153
@@ -22,30 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/00dbdcd6-9811-4fef-b5ad-d705aaf37d8c/1000140152.jpg",
-    "https://images.century21.pt/53d7a141-b4c3-4d29-ae3e-9790c5322bd4/1000140149.jpg",
-    "https://images.century21.pt/57fc0351-5347-46e3-9115-3b0192712ba0/1000140156.jpg",
-    "https://images.century21.pt/85bb87f2-c5ac-428e-a8f1-b67a33442df7/04.jpeg",
-    "https://images.century21.pt/78ef4087-46d9-4610-841c-107a7782851f/05.jpeg",
-    "https://images.century21.pt/f4aee628-2d1b-44af-b0d0-e38614e0d80f/07.jpeg",
-    "https://images.century21.pt/ec8a776b-c16e-41cb-8612-7df5f2833e0c/06.jpeg",
-    "https://images.century21.pt/f16e1ff6-9e5f-4e02-b7ab-9cb604a711bd/08.jpeg",
-    "https://images.century21.pt/2692511c-ebc6-4381-b445-1967ba77cb32/09.jpeg",
-    "https://images.century21.pt/60d5e415-cc26-48f2-a125-2acb29fbd1f0/11.jpeg"
+    "https://images.century21.pt/00dbdcd6-9811-4fef-b5ad-d705aaf37d8c/1000140152.jpg"
   ],
-  "features": {
-    "Características": [
-      "Perto de comodidades",
-      "Perto de o centro da cidade",
-      "Perto de espaços verdes",
-      "Perto de uma zona histórica",
-      "Perto de uma farmácia",
-      "Perto de um espaço público"
-    ]
-  },
-  "estado": "Renovado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 130,
-  "area_bruta_m2": 131,
-  "ano_construcao": 1970,
-  "certificacao_energetica": "D"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

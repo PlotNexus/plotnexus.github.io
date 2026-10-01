@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 30,
   "image": "https://images.century21.pt/8530d59a-5329-43f7-8156-34916b81a640/IMG6854.jpg",
-  "description": "Este apartamento não dispõe de licença de utilização.\nApartamento T1 situado no Prior Velho, em excelentes condições, com possibilidade de ser transformado num T2. Dispõe ainda de um pequeno terraço, com possibilidade de ser fechado.\nSitua-se perto do Parque de Manutenção Urbano do Prior Velho, de escolas, do Jardim de Infância \"A Mãe Canguru\", da Escola Básica do Prior Velho e do Jardim de Infância da Associação Cantinho da Farmácia.\n\nÉ servido por inúmeros transportes públicos.",
+  "description": null,
   "geo": {
     "lat": 38.7916891,
     "lng": -9.1232811
@@ -22,29 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/8530d59a-5329-43f7-8156-34916b81a640/IMG6854.jpg",
-    "https://images.century21.pt/b59cb105-f11e-4693-8d6e-832d167dd64a/IMG6803.jpg",
-    "https://images.century21.pt/130fbb6e-baf2-4df8-9808-e40334d8be75/IMG6804.jpg",
-    "https://images.century21.pt/8e8d58f6-7617-4610-b707-df94773028a9/IMG6806.jpg",
-    "https://images.century21.pt/64e37cca-1954-4e3c-bad1-e1869b5ca704/IMG6801.jpg",
-    "https://images.century21.pt/418a312c-4dd7-4533-a1d2-fd83b69fec7a/IMG6796.jpg",
-    "https://images.century21.pt/9038b58b-7ce6-4223-ac56-21b7df893930/IMG6824.jpg",
-    "https://images.century21.pt/7072e825-681a-4e25-a5bd-b2aad9923ce6/IMG6810.jpg",
-    "https://images.century21.pt/76f42aa9-4355-4381-92a2-02b87084a51b/IMG6821.jpg",
-    "https://images.century21.pt/e93c912e-9fe8-4f80-a094-8ec415c872dc/IMG6815.jpg"
+    "https://images.century21.pt/8530d59a-5329-43f7-8156-34916b81a640/IMG6854.jpg"
   ],
-  "features": {
-    "Características": [
-      "Acesso por estrada",
-      "Rés-do-chão",
-      "Terraço",
-      "Água",
-      "Água canalizada"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 30,
-  "area_bruta_m2": 36,
-  "ano_construcao": 1950,
-  "certificacao_energetica": "E"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

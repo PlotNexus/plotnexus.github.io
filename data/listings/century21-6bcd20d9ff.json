@@ -4,15 +4,15 @@
   "type": "venda",
   "price": 495000,
   "currency": "EUR",
-  "location": "Rua Engenheiro Luis Aguiar de Matos, Rio de Mouro, Portugal",
+  "location": "R. Prof. Dr. Guilherme Braga da Cruz, Rio de Mouro, Portugal",
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 88.3,
   "image": "https://images.century21.pt/dba33e8e-1022-42d8-8e59-abdb03e1def0/PHOTO-2025-08-28-10-12-462.jpg",
-  "description": "$1f",
+  "description": null,
   "geo": {
-    "lat": 38.7489942,
-    "lng": -9.318697
+    "lat": 38.7512908,
+    "lng": -9.3148828
   },
   "source": {
     "name": "Century 21",
@@ -22,21 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/dba33e8e-1022-42d8-8e59-abdb03e1def0/PHOTO-2025-08-28-10-12-462.jpg",
-    "https://images.century21.pt/51f88623-c387-4d0b-94c9-00162dcb7f73/PHOTO-2025-08-28-10-12-474.jpg",
-    "https://images.century21.pt/6d43af20-5964-4ef8-9de1-4a7e1a030f56/WhatsAppImage2026-04-16at00.15.19.jpeg",
-    "https://images.century21.pt/e579b2e8-63ed-4915-aac1-061adeb8a208/PHOTO-2025-08-28-10-12-49.jpg",
-    "https://images.century21.pt/92e8ef58-6fdc-4fe9-a62e-aa26dc267992/WhatsAppImage2026-04-16at00.23.15(3).jpeg",
-    "https://images.century21.pt/5aff3c80-85ca-4d06-b5c6-8c5758b9a1e2/WhatsAppImage2026-04-16at00.15.19(3).jpeg",
-    "https://images.century21.pt/b0a0c761-1f17-41e0-8944-2d1290ffcdcc/WhatsAppImage2026-04-16at00.23.15(2).jpeg",
-    "https://images.century21.pt/79c8f1a5-491c-4e4a-abff-0aed3b322bc4/WhatsAppImage2026-04-16at00.15.20.jpeg",
-    "https://images.century21.pt/b204ed9d-0852-46b2-aeef-057c4d0b5c8f/PHOTO-2025-08-28-10-12-47.jpg",
-    "https://images.century21.pt/b2219939-6d89-4a4d-ab20-a4cca7b22e12/PHOTO-2025-08-28-10-12-53.jpg"
+    "https://images.century21.pt/dba33e8e-1022-42d8-8e59-abdb03e1def0/PHOTO-2025-08-28-10-12-462.jpg"
   ],
-  "features": {},
+  "features": null,
   "estado": null,
   "area_util_m2": 88.3,
-  "area_bruta_m2": 94.2,
-  "ano_construcao": 2025,
-  "certificacao_energetica": "EXEMPT"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

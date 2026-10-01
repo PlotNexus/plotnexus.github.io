@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 93,
   "image": "https://images.century21.pt/ff93bfab-13b1-4d0f-beff-4582c114faff/salahs.jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.7544271,
     "lng": -9.2023016
@@ -22,33 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/ff93bfab-13b1-4d0f-beff-4582c114faff/salahs.jpg",
-    "https://images.century21.pt/49ee9b49-a6db-4443-9af5-b41ac6a74cac/hs2.jpg",
-    "https://images.century21.pt/795b38bd-2862-4b29-b3fe-d24b4ea278bf/Quarto1hs2.jpg",
-    "https://images.century21.pt/192dc506-f185-4ae8-86a0-ea468dcd14c9/entrada.jpg",
-    "https://images.century21.pt/fc512a8f-dd99-406b-b958-d70ae49188b2/corredor.jpg",
-    "https://images.century21.pt/aa86762c-134d-4a71-a280-df626962fb2a/hs1.jpg",
-    "https://images.century21.pt/8c0bd9d7-e60c-47e8-bbbd-1d1893197333/hs.jpg",
-    "https://images.century21.pt/6e4d0b6c-7cff-4d5a-b070-a1fd7298532e/quarto1hs1.jpg",
-    "https://images.century21.pt/075d81cf-0dab-4df1-80ea-1c855a2424ea/varandahs.jpg",
-    "https://images.century21.pt/00040c7b-d608-4747-8164-f8655899881c/Quartohs2.jpg"
+    "https://images.century21.pt/ff93bfab-13b1-4d0f-beff-4582c114faff/salahs.jpg"
   ],
-  "features": {
-    "Características": [
-      "Varanda",
-      "Corredor",
-      "Elevador",
-      "Exaustor",
-      "Frigorífico",
-      "Garagem",
-      "Fogão a gás",
-      "Forno",
-      "Fogão"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 93,
-  "area_bruta_m2": 94,
-  "ano_construcao": 1994,
-  "certificacao_energetica": "C"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

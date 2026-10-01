@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 134,
   "image": "https://images.century21.pt/73f19eb3-918b-4c75-b309-9c1985828564/01ENTRADA.jpg",
-  "description": "$1f",
+  "description": null,
   "geo": {
     "lat": 38.9014586,
     "lng": -9.0412902
@@ -22,55 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/73f19eb3-918b-4c75-b309-9c1985828564/01ENTRADA.jpg",
-    "https://images.century21.pt/648e9af1-1dcb-47a1-a633-979c4d445daf/02PRDIO.jpg",
-    "https://images.century21.pt/2a88bc47-619e-4485-bd2c-639c4606b44d/03ENTRADAAPARTAMENTO.jpg",
-    "https://images.century21.pt/09b00b84-b984-4090-811f-4d5e2662e122/03ENTRADAELEVADORES.jpg",
-    "https://images.century21.pt/9944e928-d570-4c2d-8c3a-e2765db1d927/03HALL.jpg",
-    "https://images.century21.pt/86554512-185f-4d24-b605-8cd3cbf8fa5d/04SALA.jpg",
-    "https://images.century21.pt/bf08572a-e2fb-417d-a42f-63dfb5eabe7f/05.jpg",
-    "https://images.century21.pt/352c43bf-384f-4def-a1d6-f1b2a73985e3/06.jpg",
-    "https://images.century21.pt/b3443c33-ef8f-4a68-8f51-63d5fbba2eaf/07WCSERVIO.jpg",
-    "https://images.century21.pt/a65c4524-4abd-4c34-9100-2bb4bf46c144/08QUARTO1.jpg"
+    "https://images.century21.pt/73f19eb3-918b-4c75-b309-9c1985828564/01ENTRADA.jpg"
   ],
-  "features": {
-    "Características": [
-      "Localização central",
-      "Elevador",
-      "Garagem",
-      "Jardim",
-      "Boa localização",
-      "Rés-do-chão",
-      "Perto de comodidades",
-      "Perto de um banco",
-      "Perto de uma paragem de autocarro",
-      "Perto de uma igreja",
-      "Perto de o centro da cidade",
-      "Perto de uma zona comercial",
-      "Perto de um quartel de bombeiros",
-      "Perto de uma bomba de gasolina",
-      "Perto de espaços verdes",
-      "Perto de uma autoestrada",
-      "Perto de uma zona histórica",
-      "Perto de um infantário",
-      "Perto de um mercado",
-      "Perto de uma farmácia",
-      "Perto de a polícia",
-      "Perto de uma estação de comboio",
-      "Perto de restaurantes",
-      "Perto de um complexo desportivo",
-      "Perto de uma praça de táxis",
-      "Gás canalizado",
-      "Zona tranquila",
-      "Acesso por estrada",
-      "Casa de banho de suite",
-      "Quarto em suite",
-      "Vídeo-porteiro"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 134,
-  "area_bruta_m2": 135,
-  "ano_construcao": 2000,
-  "certificacao_energetica": "D"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

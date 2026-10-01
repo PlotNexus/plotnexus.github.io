@@ -9,7 +9,7 @@
   "bathrooms": 0,
   "area_m2": 30,
   "image": "https://images.century21.pt/34654081-2dae-44f1-94b4-ed5764b2d1c2/IMG-20250822-WA0011.jpg",
-  "description": "$1f",
+  "description": null,
   "geo": {
     "lat": 40.0247779,
     "lng": -7.2393408
@@ -22,28 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/34654081-2dae-44f1-94b4-ed5764b2d1c2/IMG-20250822-WA0011.jpg",
-    "https://images.century21.pt/5e963db9-47e7-48f3-b882-bf42accbc572/IMG-20250822-WA0012.jpg",
-    "https://images.century21.pt/c79fe3cb-4f2a-4329-ae62-5a28ec4a2674/IMG-20250822-WA0013.jpg",
-    "https://images.century21.pt/1a977584-8fa1-43fb-8a6d-aae5ceedf27b/IMG-20250822-WA0010.jpg",
-    "https://images.century21.pt/3a241fd7-45f2-4681-877e-0b5dc2364186/IMG-20250822-WA0009.jpg",
-    "https://images.century21.pt/f4684fdc-d6f6-4275-8f07-d50f4c29be5e/IMG-20250822-WA0008.jpg",
-    "https://images.century21.pt/778ff0b7-b790-47b6-8148-ddd60f2e7c33/IMG-20250822-WA0006.jpg"
+    "https://images.century21.pt/34654081-2dae-44f1-94b4-ed5764b2d1c2/IMG-20250822-WA0011.jpg"
   ],
-  "features": {
-    "Características": [
-      "Água canalizada",
-      "Boa localização",
-      "Vista campo",
-      "Vista cidade",
-      "Perto de uma igreja",
-      "Perto de uma zona histórica",
-      "Perto de o centro da cidade"
-    ]
-  },
+  "features": null,
   "estado": null,
   "area_util_m2": 30,
-  "area_bruta_m2": 31,
-  "ano_construcao": 1937,
-  "certificacao_energetica": "EXEMPT"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

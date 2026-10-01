@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 300,
   "image": "https://images.century21.pt/00bf4132-332b-4f20-a20e-bf5e2dc5476f/exterior6.3.png",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 40.0901981,
     "lng": -8.3296401
@@ -22,21 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/00bf4132-332b-4f20-a20e-bf5e2dc5476f/exterior6.3.png",
-    "https://images.century21.pt/ae8046c5-10cb-40f9-9d70-00b80bf59cff/sala3.4.png",
-    "https://images.century21.pt/db019e40-5c91-487f-8c3f-fe0708d15b9e/sala3.2.png",
-    "https://images.century21.pt/53c84b28-e600-4599-823f-1d0bf8ea4f02/cozinha1.1.png",
-    "https://images.century21.pt/78a71cfd-966c-4e00-86c5-4cb83d3fde16/cozinha1.2.png",
-    "https://images.century21.pt/3e2fb1c5-ff18-4bb6-850b-bb2e9d4e5e9c/quarto1.2.png",
-    "https://images.century21.pt/c621ceff-9662-41e1-9b94-9fac07a3d01c/escadas4.1.png",
-    "https://images.century21.pt/b10e9212-9299-4703-8842-0fbed3702d5e/quarto2.2.png",
-    "https://images.century21.pt/ad5915b0-eb21-4250-860e-417f541a61d1/quarto2.3.png",
-    "https://images.century21.pt/1021bb7e-f86f-4816-beaf-f841b7e4a313/quarto1.3.png"
+    "https://images.century21.pt/00bf4132-332b-4f20-a20e-bf5e2dc5476f/exterior6.3.png"
   ],
-  "features": {},
+  "features": null,
   "estado": null,
   "area_util_m2": 300,
-  "area_bruta_m2": 347.33,
-  "ano_construcao": 2026,
-  "certificacao_energetica": "IN_PROCESS"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 71,
   "image": "https://images.century21.pt/44ef51c0-302f-4f2b-8eda-1f6c2d307a03/SalaCozinha1.jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.6455101,
     "lng": -9.1468103
@@ -22,29 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/44ef51c0-302f-4f2b-8eda-1f6c2d307a03/SalaCozinha1.jpg",
-    "https://images.century21.pt/de9050f4-1aee-4a4f-a37f-3277c6ce9219/HallEntrada.png",
-    "https://images.century21.pt/02e57f01-e90b-4be3-abfb-e46ecadc60d3/Quarot1.png",
-    "https://images.century21.pt/9b55ac84-d1ef-43d2-8881-d0b1e8d115d4/Quarto1IA.png",
-    "https://images.century21.pt/c5a4b5bd-ceb3-4d88-bf03-42748e177ba8/Quarto2.png",
-    "https://images.century21.pt/84b38521-f132-46c7-adfe-51b75035ad3d/Quarto2IA.png",
-    "https://images.century21.pt/b5e60c66-9ddd-43da-b542-9c142806d38d/Quarto3.png",
-    "https://images.century21.pt/0f416d82-547b-4b06-a781-3831438a1302/Quarto3IA.png",
-    "https://images.century21.pt/fd730bb2-3973-4f54-b876-4b72a7506de4/Quarto3IA2.png",
-    "https://images.century21.pt/6defb022-0ed3-49cd-b290-4f33eb544514/SalaCozinha1IA.png"
+    "https://images.century21.pt/44ef51c0-302f-4f2b-8eda-1f6c2d307a03/SalaCozinha1.jpg"
   ],
-  "features": {
-    "Características": [
-      "Varanda",
-      "Localização central",
-      "Boa localização",
-      "Rés-do-chão",
-      "Despensa"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 71,
-  "area_bruta_m2": 85,
-  "ano_construcao": 1987,
-  "certificacao_energetica": "D"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

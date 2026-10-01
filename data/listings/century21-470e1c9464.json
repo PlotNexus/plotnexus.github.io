@@ -9,7 +9,7 @@
   "bathrooms": 5,
   "area_m2": 224,
   "image": "https://images.century21.pt/d7e97cff-2cd6-497d-854a-ecddbdcf1e50/20250916-8.jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.6974748,
     "lng": -9.3630529
@@ -22,27 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/d7e97cff-2cd6-497d-854a-ecddbdcf1e50/20250916-8.jpg",
-    "https://images.century21.pt/492d9131-71f2-429d-80d0-cc8fd2f8397e/20250916-34.jpg",
-    "https://images.century21.pt/03f7e96c-2b63-44e8-a72a-bfa413eadb53/20250916-6.jpg",
-    "https://images.century21.pt/0e466a9f-7b07-47d9-a002-9e8ddbad5c4d/20250916-1.jpg",
-    "https://images.century21.pt/b406397d-015e-46fc-948f-d6ad7eb3753c/20250916-4.jpg",
-    "https://images.century21.pt/86fefdcf-53d9-4435-937a-1a31d0d13780/20250916-7.jpg",
-    "https://images.century21.pt/8621f5ff-6c44-4773-9400-e28362a4c270/20250916-9.jpg",
-    "https://images.century21.pt/9c33c81a-dba9-42e3-a95e-dda552ff9cb8/20250916-10.jpg",
-    "https://images.century21.pt/f3fd154b-4de9-4ba5-9787-f58eee5cabfd/20250916-12.jpg",
-    "https://images.century21.pt/7295b205-c350-4e87-8c0f-f5054e00cc15/20250916-2.jpg"
+    "https://images.century21.pt/d7e97cff-2cd6-497d-854a-ecddbdcf1e50/20250916-8.jpg"
   ],
-  "features": {
-    "Características": [
-      "Piscina comum",
-      "Elevador",
-      "Ginásio"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 224,
-  "area_bruta_m2": 326,
-  "ano_construcao": 2001,
-  "certificacao_energetica": "D"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

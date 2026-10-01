@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 57.7,
   "image": "https://images.century21.pt/c0112e44-370b-43c8-a3af-a20a9a8442ee/20260626164526.jpg",
-  "description": "$1f",
+  "description": null,
   "geo": {
     "lat": 38.6673696,
     "lng": -9.1896219
@@ -22,50 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/c0112e44-370b-43c8-a3af-a20a9a8442ee/20260626164526.jpg",
-    "https://images.century21.pt/31f66ea8-6051-4c57-8f0c-3cebb4079d5c/20260626164550.jpg",
-    "https://images.century21.pt/35837a2e-dd14-4e1d-bbe1-b6c1b0a16263/20260626165936.jpg",
-    "https://images.century21.pt/96bb6c89-51cf-4043-b446-0047cc79ebfb/20260626164636.jpg",
-    "https://images.century21.pt/175d2917-0aac-46b3-a80c-2b8d27f77e86/20260626164653.jpg",
-    "https://images.century21.pt/e7677b29-1e87-4c4c-9eb7-91545549cdd5/20260626170932.jpg",
-    "https://images.century21.pt/ade2656c-0281-4808-b310-e642497c8474/20260626165221.jpg",
-    "https://images.century21.pt/3d493160-e81b-47fd-be49-675e0cdfbf7b/20260626170015.jpg",
-    "https://images.century21.pt/f9873f37-75f4-4dde-bd1c-87f66160040a/20260626170951.jpg",
-    "https://images.century21.pt/ba6537e6-7e5d-4e63-9ffb-c0744e5c1b7b/20260626170006.jpg"
+    "https://images.century21.pt/c0112e44-370b-43c8-a3af-a20a9a8442ee/20260626164526.jpg"
   ],
-  "features": {
-    "Características": [
-      "Ar condicionado",
-      "Casa de banho",
-      "Quarto",
-      "Localização central",
-      "Janelas duplas",
-      "Eletricidade",
-      "Elevador",
-      "Boa localização",
-      "Rés-do-chão",
-      "Perto de comodidades",
-      "Perto de um banco",
-      "Perto de a praia",
-      "Perto de uma paragem de autocarro",
-      "Perto de uma zona comercial",
-      "Perto de uma bomba de gasolina",
-      "Perto de uma autoestrada",
-      "Perto de um mercado",
-      "Perto de uma farmácia",
-      "Perto de a polícia",
-      "Perto de um espaço público",
-      "Perto de restaurantes",
-      "Perto de uma praça de táxis",
-      "Despensa",
-      "Gás canalizado",
-      "Água canalizada",
-      "Terraço"
-    ]
-  },
-  "estado": "Renovado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 57.7,
-  "area_bruta_m2": 60,
-  "ano_construcao": 1998,
-  "certificacao_energetica": "C"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

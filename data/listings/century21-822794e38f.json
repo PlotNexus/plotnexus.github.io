@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 87,
   "image": "https://images.century21.pt/54739884-0270-402a-8e13-6cfe37969717/Varanda2-3.JPG",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.7421143,
     "lng": -9.2223503
@@ -22,28 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/54739884-0270-402a-8e13-6cfe37969717/Varanda2-3.JPG",
-    "https://images.century21.pt/8169db9d-5ea5-482b-99e5-fdcf16c75f11/Sala-1.JPG",
-    "https://images.century21.pt/3c31e28e-a484-48ee-b9e2-b975dad3ee77/Sala-2.JPG",
-    "https://images.century21.pt/13da177a-5cb1-48cb-ad50-2cec19e754ba/Sala-3.JPG",
-    "https://images.century21.pt/566b654a-f40c-463b-b5eb-9f9ea49447db/Atrio-1.JPG",
-    "https://images.century21.pt/b7ffd583-569b-429e-a593-723bb39c2bf6/Cozinha-1.JPG",
-    "https://images.century21.pt/74f2a832-21ac-4d6f-8fae-1680a15b91c8/Cozinha-3.JPG",
-    "https://images.century21.pt/726c2571-cc4c-4607-bd11-f0cfdf2d7f3d/Cozinha-2.JPG",
-    "https://images.century21.pt/3a7eb63d-e041-4f60-bb87-c6f4d0514866/Atrio-3.JPG",
-    "https://images.century21.pt/e1f268e1-2fea-44fe-9a44-a7aa4628dda7/Quarto1-1.JPG"
+    "https://images.century21.pt/54739884-0270-402a-8e13-6cfe37969717/Varanda2-3.JPG"
   ],
-  "features": {
-    "Características": [
-      "Varandas",
-      "Varanda",
-      "Elevador",
-      "Garagem"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 87,
-  "area_bruta_m2": 90,
-  "ano_construcao": 1989,
-  "certificacao_energetica": "C"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 64,
   "image": "https://images.century21.pt/6476599f-fead-4668-95c9-a84509ea298e/11DSCF3442PauloEsteves.jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 38.7691429,
     "lng": -9.3115859
@@ -22,25 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/6476599f-fead-4668-95c9-a84509ea298e/11DSCF3442PauloEsteves.jpg",
-    "https://images.century21.pt/4c09fef3-ed0c-4d18-bda2-44ec2f719815/12DSCF3446PauloEsteves.jpg",
-    "https://images.century21.pt/d53cb694-8087-4d04-819f-2ae50f1da6f1/05DSCF3414PauloEsteves.jpg",
-    "https://images.century21.pt/12a1b747-5969-4fcb-961b-c4a8f9b43946/03DSCF3403PauloEsteves.jpg",
-    "https://images.century21.pt/c164ff35-df37-427c-974b-5c443c8d925e/04DSCF3410PauloEsteves.jpg",
-    "https://images.century21.pt/d5e4ff9d-8d0c-4e2a-a75b-8075e3b92770/01DSCF3397PauloEsteves.jpg",
-    "https://images.century21.pt/e5da9285-f930-4fc3-ab3a-56d19a673f1f/02DSCF3400PauloEsteves.jpg",
-    "https://images.century21.pt/ce69d918-55b1-4890-a39c-179e348fa852/09DSCF3433PauloEsteves.jpg",
-    "https://images.century21.pt/7e3c0935-7182-47cb-8e3c-2c155b5a0b1c/10DSCF3438PauloEsteves.jpg",
-    "https://images.century21.pt/ced6e913-94cf-48ac-b957-4412146d7636/08DSCF3428PauloEsteves.jpg"
+    "https://images.century21.pt/6476599f-fead-4668-95c9-a84509ea298e/11DSCF3442PauloEsteves.jpg"
   ],
-  "features": {
-    "Características": [
-      "Elevador"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 64,
-  "area_bruta_m2": 65,
-  "ano_construcao": 1980,
-  "certificacao_energetica": "D"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

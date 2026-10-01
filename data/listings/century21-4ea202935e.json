@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 150,
   "image": "https://images.century21.pt/58ebdf34-16ae-4688-9442-c37c4fc5a319/Semttulo-2-02(Grande).png",
-  "description": "$1f",
+  "description": null,
   "geo": {
     "lat": 40.108591,
     "lng": -8.252258
@@ -22,21 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/58ebdf34-16ae-4688-9442-c37c4fc5a319/Semttulo-2-02(Grande).png",
-    "https://images.century21.pt/21996d92-a74f-46a8-8d7f-456ee599afe9/Semttulo-2-04(Grande).png",
-    "https://images.century21.pt/75b3305a-196a-4883-85bf-73c1af53e44f/C2106355(Grande).jpg",
-    "https://images.century21.pt/6431ef62-09b7-4cb0-bcf7-f4d6cec67fa6/Semttulo-2-03(Grande).png",
-    "https://images.century21.pt/8e09d71a-cb69-43d9-a94a-ad37c678b4c2/C2106353(Grande).jpg",
-    "https://images.century21.pt/c495d3e9-356b-413b-8866-9cce476e4758/C2106339(Grande).jpg",
-    "https://images.century21.pt/7f399b53-fe3f-4aaa-90e3-7685141b657a/C2106345(Grande).jpg",
-    "https://images.century21.pt/ae844f88-99d9-49c2-aa3d-6bd60676b08a/C2106340(Grande).jpg",
-    "https://images.century21.pt/320c754a-6bd5-4f6d-b665-b1bbaac1b2a3/C2106351(Grande).jpg",
-    "https://images.century21.pt/6943635f-29a2-45d0-8f28-8e03044cf467/C2106348(Grande).jpg"
+    "https://images.century21.pt/58ebdf34-16ae-4688-9442-c37c4fc5a319/Semttulo-2-02(Grande).png"
   ],
-  "features": {},
+  "features": null,
   "estado": null,
   "area_util_m2": 150,
-  "area_bruta_m2": 160,
-  "ano_construcao": 1999,
-  "certificacao_energetica": "C"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

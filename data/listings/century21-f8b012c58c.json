@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 130,
   "image": "https://images.century21.pt/6e5db954-8ad1-4865-a7f4-1b86d4eea1c5/adriano00020.jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 41.1244212,
     "lng": -8.6019942
@@ -22,35 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/6e5db954-8ad1-4865-a7f4-1b86d4eea1c5/adriano00020.jpg",
-    "https://images.century21.pt/9b3b7c7d-8924-4be4-815d-f49c28bbea02/adriano00022.jpg",
-    "https://images.century21.pt/81cb3f43-b8db-4a53-b586-fd1057a43d83/adriano00023.jpg",
-    "https://images.century21.pt/c95b3fe8-dc2d-4421-93f6-31304d059a63/adriano00021.jpg",
-    "https://images.century21.pt/ea672eb5-018d-4e36-b805-e6df899c6ca4/Sala.png",
-    "https://images.century21.pt/664a6e18-7231-45b2-bbf8-5bab46029784/adriano00019.jpg",
-    "https://images.century21.pt/60ee3816-7de5-4bdc-b091-0f12e5d2383a/adriano00017.jpg",
-    "https://images.century21.pt/701f4243-24cc-4af9-abc3-96e2a5143a9e/image.png",
-    "https://images.century21.pt/ca52ab56-dc6d-4570-8573-cfe415f96d5f/adriano00018.jpg",
-    "https://images.century21.pt/c27514f5-117b-4ba5-87d7-a569588df0b1/adriano00014.jpg"
+    "https://images.century21.pt/6e5db954-8ad1-4865-a7f4-1b86d4eea1c5/adriano00020.jpg"
   ],
-  "features": {
-    "Características": [
-      "Elevador",
-      "Aquecedor",
-      "Esquentador",
-      "Exaustor",
-      "Fogão elétrico",
-      "Forno",
-      "Frigorífico",
-      "Lareira",
-      "Máquina de lavar loiça",
-      "Máquina de lavar roupa",
-      "Micro-ondas"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 130,
-  "area_bruta_m2": 162,
-  "ano_construcao": 1985,
-  "certificacao_energetica": "IN_PROCESS"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

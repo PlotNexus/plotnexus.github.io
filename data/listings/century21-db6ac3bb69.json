@@ -2,14 +2,14 @@
   "id": "century21-db6ac3bb69",
   "title": "Apartamento T2 | Carregado",
   "type": "venda",
-  "price": 270000,
+  "price": 266000,
   "currency": "EUR",
   "location": "Praceta João Gonçalves Zarco, Carregado, Portugal",
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 82,
   "image": "https://images.century21.pt/89eb8961-6986-4431-8fef-b39c11f96dab/14.jpg",
-  "description": "$20",
+  "description": null,
   "geo": {
     "lat": 39.0221688,
     "lng": -8.9720226
@@ -22,48 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/89eb8961-6986-4431-8fef-b39c11f96dab/14.jpg",
-    "https://images.century21.pt/e861342b-b813-40a8-a1ec-13bf4069e753/15.jpg",
-    "https://images.century21.pt/8f2d929c-3d36-4da7-b48e-14d15127b8f9/12.jpg",
-    "https://images.century21.pt/cb9d43c6-eedc-4406-aadf-b0f9f50589c7/11.jpg",
-    "https://images.century21.pt/73b5e339-1bba-475d-a1c0-41145f6ccbd8/10.jpg",
-    "https://images.century21.pt/465c399b-2dd7-44bb-8e58-dad07f673db4/09.jpg",
-    "https://images.century21.pt/dba9bcfb-6944-40a6-bf83-9a99ff646e10/21.jpg",
-    "https://images.century21.pt/73d69677-552a-4478-aea4-cfc511c77527/19.jpg",
-    "https://images.century21.pt/31e5ba20-20b7-4aa2-a194-7b273c36f640/20.jpg",
-    "https://images.century21.pt/6f2d065c-84af-4e9d-83a5-87a6c4344dcb/17.jpg"
+    "https://images.century21.pt/89eb8961-6986-4431-8fef-b39c11f96dab/14.jpg"
   ],
-  "features": {
-    "Características": [
-      "Varanda",
-      "Casa de banho",
-      "Corredor",
-      "Vista campo",
-      "Elevador",
-      "Hall de entrada",
-      "Exaustor",
-      "Lareira",
-      "Piso flutuante",
-      "Boa exposição solar",
-      "Boa localização",
-      "Piso em mosaico",
-      "Perto de uma paragem de autocarro",
-      "Perto de o centro da cidade",
-      "Perto de uma zona comercial",
-      "Perto de uma bomba de gasolina",
-      "Perto de espaços verdes",
-      "Perto de uma autoestrada",
-      "Perto de uma farmácia",
-      "Perto de um espaço público",
-      "Despensa",
-      "Gás canalizado",
-      "Arrecadação",
-      "Fogão"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 82,
-  "area_bruta_m2": 101.83,
-  "ano_construcao": 1999,
-  "certificacao_energetica": "E"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 56.01,
   "image": "https://images.century21.pt/89364859-5029-4384-b24b-587358a65148/Cozinha011.png",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.538656,
     "lng": -8.881929
@@ -22,12 +22,44 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/89364859-5029-4384-b24b-587358a65148/Cozinha011.png"
+    "https://images.century21.pt/89364859-5029-4384-b24b-587358a65148/Cozinha011.png",
+    "https://images.century21.pt/db49cf47-2282-40f0-a0ae-7ee68b5fdb82/Sala03.png",
+    "https://images.century21.pt/373b6203-d5de-4d9c-a4b9-149de2b9eaa3/Quarto02.png",
+    "https://images.century21.pt/011ad7db-7a06-4092-9067-cc9bb9a59e7b/Cozinha01.png",
+    "https://images.century21.pt/39d77538-ce11-479d-9178-a4da0752e9b6/Cozinha02.png",
+    "https://images.century21.pt/27a48619-e06f-4254-9673-f1274a20f331/Sala01.png",
+    "https://images.century21.pt/ca9b4f92-cf9d-4177-a1f9-6c9ea20f389b/Sala02.png",
+    "https://images.century21.pt/a716ccb5-da3e-4a7d-8ca3-d31422393d10/Quarto01.png",
+    "https://images.century21.pt/b0b7add0-6fcc-444e-bc10-6b1665b0e7c1/quarto002.png",
+    "https://images.century21.pt/c952e810-8874-4fba-a76a-3613c5ce768e/quarto001.png",
+    "https://images.century21.pt/7c623dde-4c45-45a7-a603-0ae92865942a/wc02.png",
+    "https://images.century21.pt/7b37cd86-54c2-47c0-b9e6-4ea8c893f51f/wc01.png",
+    "https://images.century21.pt/ee8d9d23-41a3-4ce9-a23b-998b23187ffd/DSC6153.jpg",
+    "https://images.century21.pt/d52f20d7-399e-4b64-ba8c-cf4f7deaf718/DSC6157.jpg",
+    "https://images.century21.pt/4853892c-5070-42cc-bc81-40f6c95ba7b7/DSC6170.jpg",
+    "https://images.century21.pt/69b6d69f-9c89-427b-82ed-d0d995dc8d4b/DSC6145.jpg",
+    "https://images.century21.pt/8caf4b58-9acb-45c8-a001-12bea9d3dbff/DSC6162.jpg",
+    "https://images.century21.pt/db8edf0a-398e-4ab4-97e0-6a1b77dd487c/DSC6152.jpg",
+    "https://images.century21.pt/8109dae7-b57a-473c-9881-bcb9aa6fc146/Sotao01.png",
+    "https://images.century21.pt/0cc00881-2112-402b-b34f-72c23b545f6f/Sotao02.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Sótão",
+      "Boa exposição solar",
+      "Boa localização",
+      "Gás canalizado",
+      "Vista cidade",
+      "Vista serra",
+      "Perto de uma autoestrada",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma estação de comboio",
+      "Perto de uma zona comercial"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 56.01,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 64,
+  "ano_construcao": 1973,
+  "certificacao_energetica": "E"
 }

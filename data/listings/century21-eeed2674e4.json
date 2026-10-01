@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 58,
   "image": "https://images.century21.pt/43a6a5a0-f263-4be0-a952-13d6b9023109/1.jpg",
-  "description": "$22",
+  "description": null,
   "geo": {
     "lat": 37.1006653,
     "lng": -7.6619526
@@ -22,40 +22,12 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/43a6a5a0-f263-4be0-a952-13d6b9023109/1.jpg",
-    "https://images.century21.pt/3a077264-bdb1-4637-bf53-92ab3140b5a5/2.jpg",
-    "https://images.century21.pt/2b04522b-8c4d-42d7-9ad2-cf9a84a6edfb/3.jpg",
-    "https://images.century21.pt/06e8d620-c7d1-4960-8f0d-cc1257f8121f/4.jpg",
-    "https://images.century21.pt/e4a51917-f64b-4698-b26b-01595c68d037/5.jpg",
-    "https://images.century21.pt/312f76c0-d76c-4d58-aa0c-58df6e1ba112/6.jpg",
-    "https://images.century21.pt/be43df73-3a63-4ea0-a7d3-7e047adc9d54/7.jpg",
-    "https://images.century21.pt/606c11e4-6b89-4844-86ee-66950badce34/8.jpg",
-    "https://images.century21.pt/b788c1fe-97d6-4d5f-a6bd-eba5bcbaf341/9.jpg",
-    "https://images.century21.pt/b4c3d46b-1323-4577-9fcd-ad265419990c/10.jpg"
+    "https://images.century21.pt/43a6a5a0-f263-4be0-a952-13d6b9023109/1.jpg"
   ],
-  "features": {
-    "Características": [
-      "Arrecadação",
-      "Casa de banho",
-      "Cozinha",
-      "Despensa",
-      "Corredor",
-      "Outro",
-      "Outra divisão",
-      "Quarto",
-      "Terraço",
-      "Varanda",
-      "Boa exposição solar",
-      "Boa localização",
-      "Zona tranquila",
-      "Paredes pintadas",
-      "Rés-do-chão",
-      "Tetos altos"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 58,
-  "area_bruta_m2": 59,
-  "ano_construcao": 1937,
-  "certificacao_energetica": "E"
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
 }
