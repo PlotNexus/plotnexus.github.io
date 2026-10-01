@@ -4,6 +4,17 @@
   "type": "venda",
   "price": 470000,
   "currency": "EUR",
+<<<<<<< HEAD
+  "location": "Rua da Olaria, Caniço, Portugal",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area_m2": 94,
+  "image": "https://images.century21.pt/3b7c0b2d-7cea-457c-bc70-9ceb037ddd33/ALX04982.jpg",
+  "description": null,
+  "geo": {
+    "lat": 32.6461923,
+    "lng": -16.851433
+=======
   "location": "Funchal, Portugal",
   "bedrooms": 2,
   "bathrooms": 2,
@@ -13,6 +24,7 @@
   "geo": {
     "lat": 32.6506129,
     "lng": -16.9082357
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
   },
   "source": {
     "name": "Century 21",
@@ -22,6 +34,16 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
+<<<<<<< HEAD
+    "https://images.century21.pt/3b7c0b2d-7cea-457c-bc70-9ceb037ddd33/ALX04982.jpg"
+  ],
+  "features": null,
+  "estado": null,
+  "area_util_m2": 94,
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
+=======
     "https://images.century21.pt/3b7c0b2d-7cea-457c-bc70-9ceb037ddd33/ALX04982.jpg",
     "https://images.century21.pt/e9bb0a3c-2800-4671-b1b5-0c432bcd3cb6/ALX04978.jpg",
     "https://images.century21.pt/10e2905f-c8df-4399-9b7e-ea8a05ea19de/ALX04979.jpg",
@@ -49,4 +71,5 @@
   "area_bruta_m2": 115,
   "ano_construcao": 2009,
   "certificacao_energetica": "C"
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
 }

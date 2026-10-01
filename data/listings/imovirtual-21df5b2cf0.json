@@ -6,6 +6,13 @@
   "currency": "EUR",
   "location": "Atouguia da Baleia, Peniche, Leiria",
   "bedrooms": 2,
+<<<<<<< HEAD
+  "bathrooms": null,
+  "area_m2": 75,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImM0cTNkM3JmZTcyeTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.n6q5uS4aUVW8AcQSswM-B_y29qvujQ5R0qC4-oKj-Dk/image;s=1280x1024;q=80",
+  "description": null,
+  "geo": null,
+=======
   "bathrooms": 2,
   "area_m2": 75,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImM0cTNkM3JmZTcyeTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.n6q5uS4aUVW8AcQSswM-B_y29qvujQ5R0qC4-oKj-Dk/image;s=2048x1536;q=80",
@@ -14,11 +21,25 @@
     "lat": 39.32666,
     "lng": -9.355103
   },
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-novo-com-vista-mar-a-1-minuto-da-praia-da-consolacao-ID1iWxB",
+<<<<<<< HEAD
+  "published_at": "2026-10-01",
+  "last_seen_at": "2026-10-01",
+  "images": [
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImM0cTNkM3JmZTcyeTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.n6q5uS4aUVW8AcQSswM-B_y29qvujQ5R0qC4-oKj-Dk/image;s=1280x1024;q=80"
+  ],
+  "features": null,
+  "estado": null,
+  "area_util_m2": 75,
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
+=======
   "published_at": "2026-09-24",
   "last_seen_at": "2026-10-01",
   "images": [
@@ -49,4 +70,5 @@
   "area_bruta_m2": null,
   "ano_construcao": 2027,
   "certificacao_energetica": "APLUS"
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
 }

@@ -9,7 +9,11 @@
   "bathrooms": 3,
   "area_m2": 105.45,
   "image": "https://images.century21.pt/d748725e-744c-47de-ac8a-ad9bf110da20/DSC3806.jpg",
+<<<<<<< HEAD
+  "description": null,
+=======
   "description": "Descubra esta magnífica moradia, situada em Algés. \nEste imóvel diferencia-se pelo seu estilo único, é ideal para quem procura conforto, elegância e exclusividade.\n\nA remodelação esteve a cargo de um conceituado gabinete de arquitetura onde a principal preocupação foi manter a traça original da casa sem nunca esquecer ou abdicar, das necessidades da vida atual.\n\nA moradia tem dois pisos, a sala de jantar, as duas salas de estar (que podem ser transformados em quartos), o wc social e a cozinha estão no piso 0 e através dele podemos ter acesso à zona exterior, um terraço com ambiente único. No piso 1 encontramos duas suítes, ambas com vista rio e uma luminosidade incrível. \n\nLocalizada numa zona privilegiada, a propriedade beneficia de uma excelente exposição solar e proximidade a serviços, transportes e áreas de lazer. \n\nNão perca a oportunidade de viver neste paraíso urbano; agende a sua visita hoje mesmo!\n\nA informação disponibilizada não dispensa a sua confirmação e não pode ser considerada vinculativa.",
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
   "geo": {
     "lat": 38.700403,
     "lng": -9.235875
@@ -22,6 +26,16 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
+<<<<<<< HEAD
+    "https://images.century21.pt/d748725e-744c-47de-ac8a-ad9bf110da20/DSC3806.jpg"
+  ],
+  "features": null,
+  "estado": null,
+  "area_util_m2": 105.45,
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
+=======
     "https://images.century21.pt/d748725e-744c-47de-ac8a-ad9bf110da20/DSC3806.jpg",
     "https://images.century21.pt/99d9de3c-0ef6-4b3d-aa76-0e4ebd91f864/DSC3730.jpg",
     "https://images.century21.pt/c45f9075-5280-4c52-b664-964fa8b7db69/DSC3724.jpg",
@@ -80,4 +94,5 @@
   "area_bruta_m2": 136,
   "ano_construcao": 1938,
   "certificacao_energetica": "D"
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
 }

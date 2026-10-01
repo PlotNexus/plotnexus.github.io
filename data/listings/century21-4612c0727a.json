@@ -9,7 +9,11 @@
   "bathrooms": 3,
   "area_m2": 118.2,
   "image": "https://images.century21.pt/dfbd7d68-4a7c-4561-89fb-66821458eb14/CAM.15-Piso5e6SalaPost-Logo.jpg",
+<<<<<<< HEAD
+  "description": null,
+=======
   "description": "$23",
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
   "geo": {
     "lat": 38.7259213,
     "lng": -9.16941
@@ -22,6 +26,15 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
+<<<<<<< HEAD
+    "https://images.century21.pt/dfbd7d68-4a7c-4561-89fb-66821458eb14/CAM.15-Piso5e6SalaPost-Logo.jpg"
+  ],
+  "features": null,
+  "estado": null,
+  "area_util_m2": 118.2,
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+=======
     "https://images.century21.pt/dfbd7d68-4a7c-4561-89fb-66821458eb14/CAM.15-Piso5e6SalaPost-Logo.jpg",
     "https://images.century21.pt/0661ab86-64d1-44db-8a47-687e464b74a6/CAM.12-Piso5e6SalaPost-Logo.jpg",
     "https://images.century21.pt/156f7ed0-322a-4f75-b726-eb0344cac5f0/CAM.14-Piso5e6CozinhaPost-Logo.jpg",
@@ -62,5 +75,6 @@
   "area_util_m2": 118.2,
   "area_bruta_m2": 171.7,
   "ano_construcao": 2024,
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
   "certificacao_energetica": null
 }

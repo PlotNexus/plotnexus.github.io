@@ -1,5 +1,20 @@
 {
   "id": "era-6f7157e854",
+<<<<<<< HEAD
+  "title": "Apartamentos T2 / Matosinhos, Leça da Palmeira",
+  "type": "venda",
+  "price": 265000,
+  "currency": "EUR",
+  "location": "Leça da Palmeira, Matosinhos",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area_m2": 73,
+  "image": "https://mediaredir2.era.pt/i/apartamentos-t2-matosinhos-leca-da-palmeira_13_1_1558054_18941833_2_1_BuDepGLjdG0iF16MEgAn8gfnYaY8FtUbHjCPpTGIGJPEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": null,
+  "geo": {
+    "lat": 41.20982,
+    "lng": -8.697223
+=======
   "title": "Apartamentos T2 / Matosinhos, Custóias, Leça do Balio e Guifões",
   "type": "venda",
   "price": 250000,
@@ -13,6 +28,7 @@
   "geo": {
     "lat": 41.19463,
     "lng": -8.633663
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
   },
   "source": {
     "name": "ERA",
@@ -22,11 +38,19 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
+<<<<<<< HEAD
+    "https://mediaredir2.era.pt/i/apartamentos-t2-matosinhos-leca-da-palmeira_13_1_1558054_18941833_2_1_BuDepGLjdG0iF16MEgAn8gfnYaY8FtUbHjCPpTGIGJPEB8h4ZPpqcw%3d%3d_.jpg"
+  ],
+  "features": null,
+  "estado": null,
+  "area_util_m2": 73,
+=======
     "https://mediaredir2.era.pt/i/apartamentos-t2-matosinhos-custoias-leca-do-balio-e-guifoes_13_1_1552923_19118973_2_1_QQRD%2b2ZFwS8RIWfakxp5S4DBgoMRvwNkVuhDre1toh7EB8h4ZPpqcw%3d%3d_.jpg"
   ],
   "features": null,
   "estado": null,
   "area_util_m2": 66,
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

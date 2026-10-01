@@ -8,8 +8,8 @@
   "bedrooms": 8,
   "bathrooms": null,
   "area_m2": 560,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1089846/P200379903/Tphoto/ID528635a6-6afa-4191-ab07-7b995ff18008.jpg",
-  "description": "Exclusiva vivenda em Ribeira de Pena, Alto Tâmega. \nÚltima oportunidade antes de ir para imobiliária. \nVistas desafogadas sobre a vila. \n\nUma oportunidade única, vivenda composto por 4 artigos. 2 casas e 2 ru",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/ID528635a6-6afa-4191-ab07-7b995ff18008.jpg",
+  "description": "Exclusiva vivenda em Ribeira de Pena, Alto Tâmega. \nÚltima oportunidade antes de ir para imobiliária. \nVistas desafogadas sobre a vila. \n\nUma oportunidade única, vivenda composto por 4 artigos. 2 casas e 2 ruínas para restauro. \n\nExcelente exposição solar.\nO espaço ideal para viver, ou para projeto de sonho. A escassos metros do Pena Aventura Park e da Albufeira. \n\nEdifício Principal (380 m²): Habitável, este edifício inclui T2+2, 2 casas de banho, 1 garagem interior que conta com varanda e janelas, possibilitando a ampliação para outro T2, além de 1 garagem exterior. Dispõe ainda de um tanque/piscina, ideal para momentos de lazer e de um lagar.\n\nSegundo Edifício (124 m²): A ser recuperado, apresenta um T3+2 com estrutura sólida, telhado e paredes intactos, apesar das janelas partidas e sinais de abandono.\n\nTerceiro Edifício (25 m²): Uma ruína com potencial de reconstrução, mantendo as paredes de pedra originais de um antigo T1.\n\nQuarto Edifício (20 m²): Uma pequena e antiga habitação T0, com telhado e paredes, oferecendo um cenário pitoresco e autêntico se recuperado.\n\nInclui poço de água na vivenda. \n#ref:34928412",
   "geo": {
     "lat": 41.51852,
     "lng": -7.7964
@@ -22,12 +22,38 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S6/C1089846/P200379903/Tphoto/ID528635a6-6afa-4191-ab07-7b995ff18008.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/ID528635a6-6afa-4191-ab07-7b995ff18008.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/ID19fc4dd5-f12f-49b0-9824-74cbe82a3ad5.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/ID8ce81716-47c0-4d89-9d0c-7bfc10af6b28.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/ID3e0251d4-1016-42f2-b280-6eeffddf5092.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/ID971838b9-7f1f-478f-9345-add4a5d22add.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/ID056ebfb1-97e9-489f-8ba8-b9bd0c57d975.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/IDf05654de-e9f1-46fc-a37c-d9bcd2a054b4.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/ID78bece64-2d88-4732-a33a-5bdca61de6bd.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/IDa2988b2f-63aa-4d0a-b2c8-430bcbef0823.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/ID5dcf43cc-c655-45bd-98f1-aaee06c0ac3a.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/IDaec89614-61f8-4365-9bd5-5135d45d0ba5.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/IDdc5d1e98-059b-439c-8324-da2a7d0ca3bd.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/ID4a02e500-1f4b-4c9a-92d8-a0e904fb263c.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/IDfd2e1de1-c34a-4a45-bc72-2bd28ce43acc.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1089846/P200379903/Tphoto/ID6ba57570-7374-410b-ba22-d12bfce174b4.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 2",
+      "Varandas"
+    ],
+    "Infraestruturas": [
+      "Garagem",
+      "Jardim",
+      "Piscina",
+      "Terraço",
+      "Arrecadação"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 560,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "Isento"
 }

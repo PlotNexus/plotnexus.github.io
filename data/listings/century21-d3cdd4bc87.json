@@ -9,7 +9,11 @@
   "bathrooms": 3,
   "area_m2": 144.37,
   "image": "https://images.century21.pt/526d09ed-9d26-4057-a095-ad5385688b7e/DSCF1015.jpg",
+<<<<<<< HEAD
+  "description": null,
+=======
   "description": "$22",
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
   "geo": {
     "lat": 38.8098442,
     "lng": -9.1684091
@@ -22,6 +26,16 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
+<<<<<<< HEAD
+    "https://images.century21.pt/526d09ed-9d26-4057-a095-ad5385688b7e/DSCF1015.jpg"
+  ],
+  "features": null,
+  "estado": null,
+  "area_util_m2": 144.37,
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
+=======
     "https://images.century21.pt/526d09ed-9d26-4057-a095-ad5385688b7e/DSCF1015.jpg",
     "https://images.century21.pt/26f1b1b3-66b0-4581-bb7b-f2fdd8d2631f/DSCF1032.jpg",
     "https://images.century21.pt/1ff8916d-2c05-45cd-aece-f261eb810875/26706038-f4a3-42be-96ef-bafedb16bfee.jpeg",
@@ -104,4 +118,5 @@
   "area_bruta_m2": 219.2,
   "ano_construcao": 2026,
   "certificacao_energetica": "A"
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
 }

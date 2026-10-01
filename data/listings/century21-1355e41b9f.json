@@ -9,7 +9,11 @@
   "bathrooms": 1,
   "area_m2": 50,
   "image": "https://images.century21.pt/e57fc876-e76f-4566-827c-266a056a62f7/4.jpg",
+<<<<<<< HEAD
+  "description": null,
+=======
   "description": "Bonito apartamento T1, remodelado, com boas áreas e boa localização, junto da Escola Básica de Monte Abraão. Fica num 1º andar e com boa exposição solar.\nCozinha e sala em Open Space, com cerca de 20m2, varanda 4,5m2.\nTem facilidade de estacionamento e pequeno comércio à porta.\nPrédio com condomínio organizado",
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
   "geo": {
     "lat": 38.763619,
     "lng": -9.2639364
@@ -22,6 +26,16 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
+<<<<<<< HEAD
+    "https://images.century21.pt/e57fc876-e76f-4566-827c-266a056a62f7/4.jpg"
+  ],
+  "features": null,
+  "estado": null,
+  "area_util_m2": 50,
+  "area_bruta_m2": null,
+  "ano_construcao": null,
+  "certificacao_energetica": null
+=======
     "https://images.century21.pt/e57fc876-e76f-4566-827c-266a056a62f7/4.jpg",
     "https://images.century21.pt/ddc9c141-7138-4350-81db-d8359a3ba904/5.jpg",
     "https://images.century21.pt/890b606d-d73a-4fa6-b033-e77fb3a08ef5/11.jpg",
@@ -41,4 +55,5 @@
   "area_bruta_m2": 52.38,
   "ano_construcao": 1977,
   "certificacao_energetica": "C"
+>>>>>>> afd6c168e0c1dd7b5e63d1037c69b503b4bdf573
 }
