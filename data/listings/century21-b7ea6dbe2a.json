@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 130,
   "image": "https://images.century21.pt/344a3a37-bd55-4d72-ac89-7ac4741a3246/DSCF0733-HDR.jpg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 32.6706018913173,
     "lng": -16.912668844058
@@ -22,12 +22,53 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/344a3a37-bd55-4d72-ac89-7ac4741a3246/DSCF0733-HDR.jpg"
+    "https://images.century21.pt/344a3a37-bd55-4d72-ac89-7ac4741a3246/DSCF0733-HDR.jpg",
+    "https://images.century21.pt/b962eb0c-2a31-4955-84d8-e29caff61e14/DSCF0712-HDR.jpg",
+    "https://images.century21.pt/440f9cae-6098-4972-ac52-3aa537354cc1/DSCF0706-HDR.jpg",
+    "https://images.century21.pt/490aa0cc-6aa9-42ed-a8d1-962ef4117f13/DSCF0688-HDR.jpg",
+    "https://images.century21.pt/51777b05-4a56-4ca4-a2c9-c0c4b7d31960/DSCF0691-HDR.jpg",
+    "https://images.century21.pt/f4e06426-b735-46f6-b379-770b864b5273/DSCF0703-HDR.jpg",
+    "https://images.century21.pt/52d4c5f7-31f9-42d4-9cc6-2d84d5a45d14/DSCF0667-HDR.jpg",
+    "https://images.century21.pt/fc0cfd56-91ea-4d4e-9869-b36eccd14854/DSCF0673-HDR.jpg",
+    "https://images.century21.pt/8d97be52-2fab-4f4c-b5e5-5f2878ec1509/DSCF0736-HDR.jpg",
+    "https://images.century21.pt/882143bb-e4cc-4314-904b-3cccd33722e6/DSCF0751-HDR.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Sótão",
+      "Varanda",
+      "Churrasqueira",
+      "Casa de banho",
+      "Quarto",
+      "Hall de quartos",
+      "Vista cidade",
+      "Corredor",
+      "Sala de jantar",
+      "Hall de entrada",
+      "Primeira linha",
+      "Garagem",
+      "Boa exposição solar",
+      "Boa localização",
+      "Sala de estar",
+      "Perto de uma igreja",
+      "Perto de o centro da cidade",
+      "Perto de espaços verdes",
+      "Perto de uma farmácia",
+      "Perto de restaurantes",
+      "Outra divisão",
+      "Despensa",
+      "Pátio",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Vista mar",
+      "Casa de banho de suite",
+      "Quarto em suite",
+      "Terraço"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 130,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 230,
+  "ano_construcao": 2014,
+  "certificacao_energetica": "D"
 }

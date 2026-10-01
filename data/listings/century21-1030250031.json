@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 82.2,
   "image": "https://images.century21.pt/9087f96a-243f-408c-8315-96d9929da635/moradia-rio-novo00103.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 39.605472,
     "lng": -9.057471
@@ -22,12 +22,42 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/9087f96a-243f-408c-8315-96d9929da635/moradia-rio-novo00103.jpg"
+    "https://images.century21.pt/9087f96a-243f-408c-8315-96d9929da635/moradia-rio-novo00103.jpg",
+    "https://images.century21.pt/3c598adc-f5ff-4196-876e-59fb01b03876/moradia-rio-novo00049.jpg",
+    "https://images.century21.pt/eb2e1418-e009-412e-a6d9-95f9783bc825/moradia-rio-novo00033.jpg",
+    "https://images.century21.pt/34484c54-d06a-4fad-ab1f-2a3e2a4ab923/moradia-rio-novo00035.jpg",
+    "https://images.century21.pt/03fc7c1f-630b-431d-8792-d1724e7c62fe/moradia-rio-novo00040.jpg",
+    "https://images.century21.pt/ed7756de-d032-47e1-8f9f-9bfacc8cae53/moradia-rio-novo00041.jpg",
+    "https://images.century21.pt/abe557b3-60fb-4912-a931-e104282edf10/moradia-rio-novo00044.jpg",
+    "https://images.century21.pt/40dd7dc7-6c8a-446a-9d81-c5a4fe9702a0/moradia-rio-novo00042.jpg",
+    "https://images.century21.pt/b30a80ee-7ec6-4c89-9b87-14c67ca72ba5/moradia-rio-novo00043.jpg",
+    "https://images.century21.pt/45cbd9a5-a5e6-4542-b3ba-f90e4872182f/moradia-rio-novo00046.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Rés-do-chão",
+      "Casa de banho",
+      "Casa de banho de suite",
+      "Cozinha",
+      "Open space",
+      "Corredor",
+      "Hall de entrada",
+      "Outra divisão",
+      "Quarto em suite",
+      "Sala de estar",
+      "Terraço",
+      "Painéis solares",
+      "Saneamento",
+      "Isolamento térmico",
+      "Água canalizada",
+      "Zona tranquila",
+      "Estacionamento"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 82.2,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 106.4,
+  "ano_construcao": 1987,
+  "certificacao_energetica": "E"
 }

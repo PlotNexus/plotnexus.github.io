@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 55,
   "image": "https://images.century21.pt/a85a9c0f-9701-45ac-9a34-a68a1c19c55b/5.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6543135,
     "lng": -9.046
@@ -22,12 +22,57 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/a85a9c0f-9701-45ac-9a34-a68a1c19c55b/5.jpeg"
+    "https://images.century21.pt/a85a9c0f-9701-45ac-9a34-a68a1c19c55b/5.jpeg",
+    "https://images.century21.pt/8e599ceb-9fb5-4af7-a308-eca9f3faa2c6/1.jpeg",
+    "https://images.century21.pt/b2189c0e-deaf-4079-8b0c-bfad1757548e/10.jpeg",
+    "https://images.century21.pt/2ec703e2-a5b5-4b3b-b19c-58aa94371942/19.jpeg",
+    "https://images.century21.pt/5d697187-1982-4e9d-a08a-777a12dea55e/21.jpeg",
+    "https://images.century21.pt/63e73f36-8bde-423e-8d78-86d41ebb8b93/23.jpeg",
+    "https://images.century21.pt/4f6896c1-332c-4cf3-8912-e0385d3189ae/4.jpeg",
+    "https://images.century21.pt/5c97122c-3aa1-4dd0-b264-b76231734f9c/3.jpeg",
+    "https://images.century21.pt/93f80339-9faa-49ea-b0c7-92affab7a30c/2.jpeg",
+    "https://images.century21.pt/12126f38-8bd2-44ea-9558-af0401233c87/WhatsAppImage2026-08-13at16.51.49.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Eletrodomésticos",
+      "Varanda",
+      "Casa de banho",
+      "Quarto",
+      "Localização central",
+      "Máquina de lavar loiça",
+      "Exaustor",
+      "Teto falso",
+      "Frigorífico",
+      "Gás",
+      "Boa exposição solar",
+      "Boa localização",
+      "Tetos altos",
+      "Cozinha",
+      "Sala de estar",
+      "Marquise",
+      "Micro-ondas",
+      "Perto de uma igreja",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de uma farmácia",
+      "Perto de restaurantes",
+      "Outra divisão",
+      "Forno",
+      "Paredes pintadas",
+      "Gás canalizado",
+      "Zona tranquila",
+      "Iluminação embutida",
+      "Acesso por estrada",
+      "Fogão",
+      "Água canalizada",
+      "Esquentador"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 55,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 62,
+  "ano_construcao": 1986,
+  "certificacao_energetica": "E"
 }

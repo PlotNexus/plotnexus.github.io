@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 111,
   "image": "https://images.century21.pt/54b653f6-855a-42c2-b77d-4d621bb5f912/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-1.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6293385,
     "lng": -9.204893
@@ -22,12 +22,32 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/54b653f6-855a-42c2-b77d-4d621bb5f912/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-1.jpg"
+    "https://images.century21.pt/54b653f6-855a-42c2-b77d-4d621bb5f912/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-1.jpg",
+    "https://images.century21.pt/a8a8d253-1e7f-43b7-adce-2f3be0ffbb79/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-5.jpg",
+    "https://images.century21.pt/6ad63c4b-65e5-4ba1-82a4-e950f8a354cc/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-2.jpg",
+    "https://images.century21.pt/45bf140c-95a3-45c3-8a41-9c9b942e9b40/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-3.jpg",
+    "https://images.century21.pt/8a896ae9-ba64-46de-822c-5b6c9c5ecba4/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-4.jpg",
+    "https://images.century21.pt/301d38ee-dd4f-4f38-9464-e1d5c83b92ac/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-11.jpg",
+    "https://images.century21.pt/f7e34d9a-607e-414a-9786-1b4d11895407/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-10.jpg",
+    "https://images.century21.pt/63447ab9-fb50-4689-b67a-0559d9cf43c1/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-9.jpg",
+    "https://images.century21.pt/64833803-0ce5-443c-a47a-79d7a3a85a07/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-8.jpg",
+    "https://images.century21.pt/3cab4faa-4a14-4264-a72b-b65297dba2ae/asset-image-5f40d176-cf7a-4d4f-be65-f367aaad76ff-7.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Quarto em suite",
+      "Arrecadação",
+      "Garagem",
+      "Varanda",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila"
+    ]
+  },
   "estado": null,
   "area_util_m2": 111,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 120,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A"
 }

@@ -8,7 +8,7 @@
   "bedrooms": 2,
   "bathrooms": null,
   "area_m2": 119,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t2-paredes-paredes_13_1_1575992_19222666_2_1_04vc6IM3KNg3%2boGbKGByAZdK9mWzXZ716E26cB25nkPEB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/apartamento-t2-paredes-paredes_14_1_1575992_19222666_2_1_04vc6IM3KNg3%2boGbKGByAZdK9mWzXZ716E26cB25nkPEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 41.2071,
@@ -22,12 +22,16 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t2-paredes-paredes_13_1_1575992_19222666_2_1_04vc6IM3KNg3%2boGbKGByAZdK9mWzXZ716E26cB25nkPEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t2-paredes-paredes_14_1_1575992_19222666_2_1_04vc6IM3KNg3%2boGbKGByAZdK9mWzXZ716E26cB25nkPEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 119,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

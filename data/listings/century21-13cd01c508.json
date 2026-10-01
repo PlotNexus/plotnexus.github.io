@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 80,
   "image": "https://images.century21.pt/c6c254e0-0e1e-410a-9a0c-48d3ef5cddf6/DJI0122.jpg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 41.8045819898799,
     "lng": -6.75634503364563
@@ -22,12 +22,45 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/c6c254e0-0e1e-410a-9a0c-48d3ef5cddf6/DJI0122.jpg"
+    "https://images.century21.pt/c6c254e0-0e1e-410a-9a0c-48d3ef5cddf6/DJI0122.jpg",
+    "https://images.century21.pt/215108fd-a53f-49e5-9c30-1bb1282fb24e/IMG2610.jpg",
+    "https://images.century21.pt/0a0ec9bb-ed80-44db-8bf8-1f31801c87c5/hf20260408150437c086ee3e-a1f5-4f58-8933-ca998e48bf3a.png",
+    "https://images.century21.pt/08c96c97-1c01-40f3-8848-963f6f2fc6cb/IMG2589-HDR.jpg",
+    "https://images.century21.pt/7eb0dff9-08f8-4bba-a843-3ebfa7212ef9/hf20260408150507d9054dd8-98ee-4584-9422-1d83f7cc60f2.png",
+    "https://images.century21.pt/eed52dd0-6a04-4cd0-b09b-60d75d470195/hf202604081507452e0c8ab4-0657-487b-8bc5-1a3830f3fe81.png",
+    "https://images.century21.pt/12085991-8b30-45ff-a634-0024822b30ed/IMG2568-HDR.jpg",
+    "https://images.century21.pt/a1c19f64-ca4e-4b57-bd62-74eaaf03082e/IMG2547-HDR.jpg",
+    "https://images.century21.pt/5b1109bc-9230-4e1b-879f-b71f56ddfc01/hf202604081511158f86bd77-6ff5-4d95-9d6b-dbbd1e4cf252.png",
+    "https://images.century21.pt/c509f61a-9e16-44ff-a1ab-6bde4eb6f5ce/IMG2526-HDR.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Garagem",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Vista cidade",
+      "Perto de um banco",
+      "Perto de uma bomba de gasolina",
+      "Perto de comodidades",
+      "Perto de espaços verdes",
+      "Perto de a polícia",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma farmácia",
+      "Perto de uma igreja",
+      "Perto de um infantário",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de uma praça de táxis",
+      "Perto de restaurantes",
+      "Perto de uma zona histórica",
+      "Perto de o centro da cidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 80,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 80,
+  "ano_construcao": 1978,
+  "certificacao_energetica": "E"
 }

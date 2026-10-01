@@ -8,7 +8,7 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": 94,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t4-amadora-reboleira-aguas-livres_13_1_1426613_17503632_2_1_5C7ZtnVEogHVG3FnXhCu%2b8AB%2bFoNooG0I2bDSKl8f6LEB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/apartamento-t4-amadora-reboleira-aguas-livres_14_1_1426613_17503632_2_1_5C7ZtnVEogHVG3FnXhCu%2b8AB%2bFoNooG0I2bDSKl8f6LEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 38.74852,
@@ -22,12 +22,19 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t4-amadora-reboleira-aguas-livres_13_1_1426613_17503632_2_1_5C7ZtnVEogHVG3FnXhCu%2b8AB%2bFoNooG0I2bDSKl8f6LEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t4-amadora-reboleira-aguas-livres_14_1_1426613_17503632_2_1_5C7ZtnVEogHVG3FnXhCu%2b8AB%2bFoNooG0I2bDSKl8f6LEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t4-amadora-reboleira-aguas-livres_14_1_1426613_17503633_2_1_b6temoiZm%2fVpdvHOD5DGD8SSVPqlOmzit7c4hmiN%2bkfEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t4-amadora-reboleira-aguas-livres_14_1_1426613_17503634_2_1_NjY%2b%2b1wKv7o5u9LBLj5SjMr3Nj0RsL0ms%2fNqz%2bpqWODEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 100"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 94,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 100,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

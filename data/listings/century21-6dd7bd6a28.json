@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 145,
   "image": "https://images.century21.pt/e3b56597-acf9-4099-89fc-cdc124214bcd/DSC06498.JPG",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7168835,
     "lng": -9.3519956
@@ -22,12 +22,38 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/e3b56597-acf9-4099-89fc-cdc124214bcd/DSC06498.JPG"
+    "https://images.century21.pt/e3b56597-acf9-4099-89fc-cdc124214bcd/DSC06498.JPG",
+    "https://images.century21.pt/3ac6e929-7386-43a3-b57b-3ddfc915ea75/DSC06485.JPG",
+    "https://images.century21.pt/9818bacf-825b-48e8-b909-4f86e166787c/DSC06496.JPG",
+    "https://images.century21.pt/fa585430-7206-43b3-b153-71066dc34c8d/DSC06499.JPG",
+    "https://images.century21.pt/c4f7a81d-07a7-4d3f-bd2f-962adbe5e1d1/DSC06493.JPG",
+    "https://images.century21.pt/fb1168b7-ff96-400d-9572-f00052735f1f/DSC06497.JPG",
+    "https://images.century21.pt/ff21c854-26b8-43e7-9b3d-669275dc6c9f/DSC06504.JPG",
+    "https://images.century21.pt/f762104b-99fa-42c0-8806-d008c3055eb9/DSC06506.JPG",
+    "https://images.century21.pt/ba24a85a-0f0b-4c97-9702-5d450594309f/DSC06505.JPG",
+    "https://images.century21.pt/b458a7d7-9e13-43ed-a815-a99c82880ce2/DSC06508.JPG"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Sótão",
+      "Casa de banho",
+      "Máquina de lavar loiça",
+      "Janelas duplas",
+      "Portão elétrico",
+      "Fogão elétrico",
+      "Termoacumulador elétrico",
+      "Boa exposição solar",
+      "Fogão de indução",
+      "Cozinha",
+      "Sala de estar",
+      "Casa de banho partilhada",
+      "Painéis solares",
+      "Quarto em suite"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 145,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 169,
+  "ano_construcao": 2024,
+  "certificacao_energetica": "B"
 }

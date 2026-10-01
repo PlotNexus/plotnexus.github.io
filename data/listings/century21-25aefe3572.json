@@ -6,10 +6,10 @@
   "currency": "EUR",
   "location": "Rua Afonso Lopes Vieira 37, Lisbon, Portugal",
   "bedrooms": 2,
-  "bathrooms": 2,
+  "bathrooms": 1,
   "area_m2": 79,
-  "image": "https://images.century21.pt/bbae28ff-e3a0-4684-bb2a-2163423edeee/013.jpg",
-  "description": null,
+  "image": "https://images.century21.pt/d2486f99-334e-4bcb-a9fd-86145a7b9d51/014.jpg",
+  "description": "$22",
   "geo": {
     "lat": 38.7536868,
     "lng": -9.149393
@@ -22,12 +22,21 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/bbae28ff-e3a0-4684-bb2a-2163423edeee/013.jpg"
+    "https://images.century21.pt/d2486f99-334e-4bcb-a9fd-86145a7b9d51/014.jpg",
+    "https://images.century21.pt/bbae28ff-e3a0-4684-bb2a-2163423edeee/013.jpg",
+    "https://images.century21.pt/708f0c42-7837-4ad7-a94d-60cab160de88/008.jpg",
+    "https://images.century21.pt/8042f74b-5c58-4b4b-8092-ce76eedccd58/015.jpg",
+    "https://images.century21.pt/ac77bc0a-2d4e-42d0-8e55-c6ff45242c25/012.jpg",
+    "https://images.century21.pt/140c28ba-3d5c-4151-ae4c-b05c05eaf1fd/011.jpg",
+    "https://images.century21.pt/c00722c1-baad-40a4-98fa-2e64b6e01382/009.jpg",
+    "https://images.century21.pt/6260b542-99ed-4744-b69c-60ea34ba7f4a/010.jpg",
+    "https://images.century21.pt/08d7739b-9a94-45e3-b1eb-65fa6cbbc495/016.jpg",
+    "https://images.century21.pt/e44417c2-a36b-40c1-baf8-ca950bd39a9e/023.jpg"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 79,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {},
+  "estado": "Renovado",
+  "area_util_m2": 70,
+  "area_bruta_m2": 79,
+  "ano_construcao": 1984,
+  "certificacao_energetica": "F"
 }

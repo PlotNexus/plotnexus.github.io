@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 75,
-  "image": "https://mediaredir2.era.pt/i/moradia-t2-porto-porto_13_1_1484711_18133607_2_1_R8rwQMpdNP4gLIQOv8dE691Y5LptI%2fSRZU7v9fze7QHEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t2-porto-porto_14_1_1484711_18133607_2_1_R8rwQMpdNP4gLIQOv8dE691Y5LptI%2fSRZU7v9fze7QHEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia restaurada na zona nobre do Porto, perto da estação de Campanhã, todos os serviços perto. A 3 minutos do Centro do Porto.",
   "geo": {
     "lat": 41.15377,
     "lng": -8.591031
@@ -22,12 +22,17 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t2-porto-porto_13_1_1484711_18133607_2_1_R8rwQMpdNP4gLIQOv8dE691Y5LptI%2fSRZU7v9fze7QHEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t2-porto-porto_14_1_1484711_18133607_2_1_R8rwQMpdNP4gLIQOv8dE691Y5LptI%2fSRZU7v9fze7QHEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Novo",
+      "Área Bruta: 87"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 75,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 87,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

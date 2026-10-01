@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 77,
   "image": "https://images.century21.pt/bf33e8f2-7aeb-432b-b572-46c96b929bb0/Edificio.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.8264915,
     "lng": -9.1016585
@@ -22,12 +22,51 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/bf33e8f2-7aeb-432b-b572-46c96b929bb0/Edificio.jpg"
+    "https://images.century21.pt/bf33e8f2-7aeb-432b-b572-46c96b929bb0/Edificio.jpg",
+    "https://images.century21.pt/ad5a0b84-e47e-440d-b8a4-a2389b379ed1/Sala2.jpg",
+    "https://images.century21.pt/f14f08b9-8758-4d2b-a093-5eae3fd54ff9/Sala1.jpg",
+    "https://images.century21.pt/e0c3ef2e-a2e4-41e5-a139-461ba55e66a9/Sala3.jpg",
+    "https://images.century21.pt/64a9478b-494f-49c6-b77b-ebbdc2211946/Hall1.jpg",
+    "https://images.century21.pt/ebf8dff1-45fd-4d74-8a42-afd892a6350f/Hall2.jpg",
+    "https://images.century21.pt/b1d5a924-b2b1-418c-8b53-df52ef3394f2/Cozinha1.jpg",
+    "https://images.century21.pt/eed6cedc-d271-4ce4-8a7d-2bdbf8cbbc3c/Cozinha2.jpg",
+    "https://images.century21.pt/683c4dad-3395-49ec-beda-0a732025f2b0/Cozinha3.jpg",
+    "https://images.century21.pt/6902d07b-2ef2-4dbd-a246-e959fff36460/Cozinha4.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Arrecadação",
+      "Casa de banho",
+      "Casa de banho partilhada",
+      "Cozinha",
+      "Despensa",
+      "Corredor",
+      "Hall de entrada",
+      "Marquise",
+      "Quarto",
+      "Sala de jantar",
+      "Varanda",
+      "Perto de uma autoestrada",
+      "Perto de uma bomba de gasolina",
+      "Perto de comodidades",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma farmácia",
+      "Perto de uma praça de táxis",
+      "Perto de restaurantes",
+      "Caixilharia",
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Janelas duplas",
+      "Fogão de indução"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 77,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 87,
+  "ano_construcao": 1982,
+  "certificacao_energetica": "C"
 }

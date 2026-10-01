@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 90,
   "image": "https://images.century21.pt/83e46afa-f13c-44f5-aa13-7f78cd569c1a/MG8124-HDR-Edit.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6289925,
     "lng": -9.1809809
@@ -22,12 +22,27 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/83e46afa-f13c-44f5-aa13-7f78cd569c1a/MG8124-HDR-Edit.jpg"
+    "https://images.century21.pt/83e46afa-f13c-44f5-aa13-7f78cd569c1a/MG8124-HDR-Edit.jpg",
+    "https://images.century21.pt/6431bf68-d7a8-42b9-b09b-8da6a7cbd000/MG8139-HDR.jpg",
+    "https://images.century21.pt/dd8fef45-d0f6-4808-9f14-44070046f8c5/MG8187-HDR.jpg",
+    "https://images.century21.pt/fd29c98a-a4a4-4831-9b59-5d9fd69ce5e0/MG8112-HDR.jpg",
+    "https://images.century21.pt/e67e939d-078f-45d6-b7e7-4915e9355449/MG8118-HDR-Edit.jpg",
+    "https://images.century21.pt/ddebda1a-6365-475b-bb9e-37a2f15a2bf0/MG8136-HDR-Edit.jpg",
+    "https://images.century21.pt/400c6917-3ae8-4a37-b6a6-a5cb3c5c8db7/MG8163-HDR-Edit-Edit.jpg",
+    "https://images.century21.pt/f77d9952-e347-4488-8bad-a0eeb3c257a7/MG8142-HDR.jpg",
+    "https://images.century21.pt/b1f7590e-f726-465e-bf96-135b4ed2f780/MG8130-HDR-Edit.jpg",
+    "https://images.century21.pt/c5c273f5-00d2-4b48-b30a-920fc64d4809/MG8181-HDR-Edit.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Localização central",
+      "Boa exposição solar",
+      "Boa localização"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 90,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 95,
+  "ano_construcao": 1992,
+  "certificacao_energetica": "C"
 }

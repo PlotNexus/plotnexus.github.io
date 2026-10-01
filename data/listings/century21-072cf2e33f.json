@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 200,
   "image": "https://images.century21.pt/a54410e0-d623-45d5-84c6-73e53c218228/IMG8606.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7489151,
     "lng": -9.1882311
@@ -22,12 +22,46 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/a54410e0-d623-45d5-84c6-73e53c218228/IMG8606.jpg"
+    "https://images.century21.pt/a54410e0-d623-45d5-84c6-73e53c218228/IMG8606.jpg",
+    "https://images.century21.pt/d1b0b4fe-cbd6-41c0-a9f0-187e7e7854b0/IMG8627.jpg",
+    "https://images.century21.pt/02aa04e8-c921-49d6-997b-0e9baa799398/IMG8628.jpg",
+    "https://images.century21.pt/2baaa16d-f319-491c-a1f9-5428e67d063b/IMG8623.jpg",
+    "https://images.century21.pt/17803a4d-dea7-4afc-9e9a-ebea5f9cca2a/IMG8624.jpg",
+    "https://images.century21.pt/b2d2dd1c-7daa-4dde-8ab3-49150851ef06/IMG8620.jpg",
+    "https://images.century21.pt/cbc22e48-e034-44b1-9d02-ecb0dc6effb8/IMG8626.jpg",
+    "https://images.century21.pt/2b4f8541-5cd5-4146-8e4b-04f1085033fe/IMG8607.jpg",
+    "https://images.century21.pt/26f2545d-8be4-45b7-91d1-04b951e3d155/IMG8612.jpg",
+    "https://images.century21.pt/be171c2c-152b-4317-9194-b499a2b1602b/IMG8615.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Vista cidade",
+      "Casa de banho",
+      "Casa de banho partilhada",
+      "Casa de banho privativa",
+      "Casa de banho de suite",
+      "Hall de quartos",
+      "Cozinha",
+      "Corredor",
+      "Quarto",
+      "Quarto em suite",
+      "Sala de estar",
+      "Sala de jantar",
+      "Suite",
+      "Varanda",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Água canalizada",
+      "Gás",
+      "Gás canalizado",
+      "Iluminação pública"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 200,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 210,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

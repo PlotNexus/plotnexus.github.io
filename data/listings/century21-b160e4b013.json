@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 60,
   "image": "https://images.century21.pt/628e3c76-a944-4cd6-bf03-8578407d4e56/DSC09664.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.8530073,
     "lng": -9.0814078
@@ -22,12 +22,25 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/628e3c76-a944-4cd6-bf03-8578407d4e56/DSC09664.jpg"
+    "https://images.century21.pt/628e3c76-a944-4cd6-bf03-8578407d4e56/DSC09664.jpg",
+    "https://images.century21.pt/d2712204-66ce-4ce9-b150-d99530947884/DSC09802.jpg",
+    "https://images.century21.pt/6c1b616c-9792-4173-a92a-ce2a86539e53/DSC09829.jpg",
+    "https://images.century21.pt/ea5343b3-0356-4d99-85b3-911194eccbd6/DSC09818.jpg",
+    "https://images.century21.pt/4a773f72-b58b-40e4-8adc-3c71e15d33cb/DSC09748.jpg",
+    "https://images.century21.pt/edd625a1-1101-4d6a-b259-171afd135e83/DSC09746.jpg",
+    "https://images.century21.pt/4bdbd6c5-98a6-4f64-870a-c449e9442ec4/DSC09701.jpg",
+    "https://images.century21.pt/a4959d3f-3bd7-498a-9c60-b9294505b418/DSC09685.jpg",
+    "https://images.century21.pt/1b54ea4c-29f8-419b-96f9-4102a2fbd883/DSC09739.jpg",
+    "https://images.century21.pt/f2197684-67d3-431c-a0ae-8832550246ad/DSC09705.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Churrasqueira"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 60,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 74,
+  "ano_construcao": 1985,
+  "certificacao_energetica": "E"
 }

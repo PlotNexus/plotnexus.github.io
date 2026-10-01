@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": 95,
-  "image": "https://images.century21.pt/538c682e-7443-4128-a5c6-871784064668/51.jpg",
-  "description": null,
+  "image": "https://images.century21.pt/a1735cc8-ffd0-483a-93c0-975007d81de8/50.jpg",
+  "description": "$22",
   "geo": {
     "lat": 38.7469982,
     "lng": -9.2306856
@@ -22,12 +22,54 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/538c682e-7443-4128-a5c6-871784064668/51.jpg"
+    "https://images.century21.pt/a1735cc8-ffd0-483a-93c0-975007d81de8/50.jpg",
+    "https://images.century21.pt/538c682e-7443-4128-a5c6-871784064668/51.jpg",
+    "https://images.century21.pt/d191ab82-9454-4aff-8c3f-44b194d52ab1/52.jpg",
+    "https://images.century21.pt/e65fd6e7-5b10-41b4-8ea5-6cc6ded78a6a/53.jpg",
+    "https://images.century21.pt/b8ee4496-d5d4-43f4-b2b3-b93c6d68de93/54.jpg",
+    "https://images.century21.pt/8c3bcaab-6106-45fe-bc07-b957e0618b43/55.jpg",
+    "https://images.century21.pt/ed7217f3-70a2-4abe-880c-d7c884e2824c/56.jpg",
+    "https://images.century21.pt/a52d18f4-713b-490d-a426-22e01e555aa9/57.jpg",
+    "https://images.century21.pt/c87efbeb-32a6-40de-b53f-e89df5aede28/58.jpg",
+    "https://images.century21.pt/4bacc1ac-4628-4a39-9022-2d8249517013/59.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Quarto",
+      "Hall de quartos",
+      "Aquecimento central",
+      "Corredor",
+      "Máquina de lavar loiça",
+      "Janelas duplas",
+      "Estores elétricos",
+      "Elevador",
+      "Exaustor",
+      "Frigorífico",
+      "Garagem",
+      "Boa exposição solar",
+      "Boa localização",
+      "Porta de alta segurança",
+      "Fogão de indução",
+      "Cozinha",
+      "Sala de estar",
+      "Micro-ondas",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de o metro",
+      "Perto de uma estação de comboio",
+      "Forno",
+      "Casa de banho privativa",
+      "Arrecadação",
+      "Quarto em suite",
+      "Terraço",
+      "Máquina de lavar roupa"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 95,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 107,
+  "ano_construcao": 2009,
+  "certificacao_energetica": "C"
 }

@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 74,
-  "image": "https://images.century21.pt/66600a9c-2e82-4f01-b107-b1a5b1a4195a/Sala(5).jpg",
-  "description": null,
+  "image": "https://images.century21.pt/dceccf7e-683f-47c3-91b6-f55cca28a875/Sala(6).jpg",
+  "description": "$22",
   "geo": {
     "lat": 38.6519404,
     "lng": -9.2353639
@@ -22,12 +22,31 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/66600a9c-2e82-4f01-b107-b1a5b1a4195a/Sala(5).jpg"
+    "https://images.century21.pt/dceccf7e-683f-47c3-91b6-f55cca28a875/Sala(6).jpg",
+    "https://images.century21.pt/35c9ad0f-4e92-4989-b0f2-55aa185a4192/Sala(2).jpg",
+    "https://images.century21.pt/067cb624-61f8-4afe-a077-d79cbf76326e/Sala(4).jpg",
+    "https://images.century21.pt/4a88104a-e94f-437c-bc77-316a69acdd55/Sala(3).jpg",
+    "https://images.century21.pt/66600a9c-2e82-4f01-b107-b1a5b1a4195a/Sala(5).jpg",
+    "https://images.century21.pt/dc50444a-34dc-424c-8f66-ebd351461dcd/Sala(1).jpg",
+    "https://images.century21.pt/0d1ff069-bb4a-4434-af9b-48de7764160b/Cozinha(2).jpg",
+    "https://images.century21.pt/2e177930-8841-4cc3-8a14-5ca8a5437072/Cozinha(3).jpg",
+    "https://images.century21.pt/7e5af384-e7cf-4c50-a3ca-b435b01d55a7/Cozinha(1).jpg",
+    "https://images.century21.pt/40478de0-9f98-4e66-a95d-1db485a92ed4/Corredor(2).jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Quarto",
+      "Vista cidade",
+      "Eletricidade",
+      "Elevador",
+      "Boa localização",
+      "Cozinha",
+      "Água canalizada"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 74,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 76,
+  "ano_construcao": 1996,
+  "certificacao_energetica": "D"
 }

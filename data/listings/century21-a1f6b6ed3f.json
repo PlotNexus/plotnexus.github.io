@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 110,
   "image": "https://images.century21.pt/1f9436eb-09cb-488f-ba00-dc17667e6a5c/IMG4719.HEIC",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7130832,
     "lng": -9.1456191
@@ -22,12 +22,46 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/1f9436eb-09cb-488f-ba00-dc17667e6a5c/IMG4719.HEIC"
+    "https://images.century21.pt/1f9436eb-09cb-488f-ba00-dc17667e6a5c/IMG4719.HEIC",
+    "https://images.century21.pt/92770c88-b233-4125-a2ea-671e34fa6fec/IMG46803.HEIC",
+    "https://images.century21.pt/0e6915b7-4c0f-4386-8493-d535d894141e/IMG47343.HEIC",
+    "https://images.century21.pt/116df6f6-d6f9-4d62-96cc-80c547434d1d/IMG47243.HEIC",
+    "https://images.century21.pt/0d2210be-104a-40ec-b3d8-1687be5d107d/IMG46773.HEIC",
+    "https://images.century21.pt/74eb6b76-d4ed-4e70-8506-4331c271162d/IMG46753.HEIC",
+    "https://images.century21.pt/ccd2206c-5583-43bb-9700-e9207cabe1e3/IMG47293.HEIC",
+    "https://images.century21.pt/37ce021a-fd96-43b8-97e9-3b0273ab49c3/IMG47283.HEIC",
+    "https://images.century21.pt/6685d077-32f1-4f3a-b3c3-3ef9b4cec71d/IMG47273.HEIC",
+    "https://images.century21.pt/60a7ee4c-d410-4b7b-ad1f-50a56eb45c60/IMG46793.HEIC"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Cozinha",
+      "Varanda",
+      "Perto de comodidades",
+      "Perto de espaços verdes",
+      "Perto de a polícia",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma estação de comboio",
+      "Perto de uma farmácia",
+      "Perto de uma igreja",
+      "Perto de um infantário",
+      "Perto de um mercado",
+      "Perto de uma praça de táxis",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de uma zona histórica",
+      "Perto de o centro da cidade",
+      "Boa localização",
+      "Tetos altos",
+      "Água canalizada",
+      "Eletricidade",
+      "Gás",
+      "Gás canalizado"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 110,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 124,
+  "ano_construcao": 1950,
+  "certificacao_energetica": "D"
 }

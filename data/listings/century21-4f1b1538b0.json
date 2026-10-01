@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 122,
   "image": "https://images.century21.pt/752eb033-6b32-44d0-8d4e-603fbaad968e/image00011.jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.1172139901244,
     "lng": -8.65417957305908
@@ -22,12 +22,37 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/752eb033-6b32-44d0-8d4e-603fbaad968e/image00011.jpeg"
+    "https://images.century21.pt/752eb033-6b32-44d0-8d4e-603fbaad968e/image00011.jpeg",
+    "https://images.century21.pt/c05855ed-6549-4b74-b496-6e3ffb048f3d/image00002.jpeg",
+    "https://images.century21.pt/b59d6011-3568-47bb-8c65-bedcdbf66ce9/image00007.jpeg",
+    "https://images.century21.pt/a3eac4b1-4ddf-468e-8cc8-c50fe2834c7c/image00004.jpeg",
+    "https://images.century21.pt/c063f751-9643-4259-a2f2-f64c99de3321/image00009.jpeg",
+    "https://images.century21.pt/f9755a9c-d0da-41b7-8d4b-5c3c7728ca53/image00006.jpeg",
+    "https://images.century21.pt/27fbaded-55ed-402e-a6ff-adc92c23e003/image00008.jpeg",
+    "https://images.century21.pt/131f4481-634e-43a1-88fa-3be689c42944/image00005.jpeg",
+    "https://images.century21.pt/1d967dbf-38cd-416a-aef2-a6653baab5ad/image00018.jpeg",
+    "https://images.century21.pt/90c70ac3-aef4-4872-85cd-9130b667bb17/image00010.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Quarto",
+      "Vista cidade",
+      "Corredor",
+      "Terraço coberto",
+      "Boa exposição solar",
+      "Boa localização",
+      "Cozinha",
+      "Sala de estar",
+      "Vista mar",
+      "Casa de banho de suite",
+      "Quarto em suite",
+      "Terraço"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 122,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 166,
+  "ano_construcao": 2001,
   "certificacao_energetica": null
 }

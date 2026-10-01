@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 42,
   "image": "https://images.century21.pt/cc582d8d-253f-4460-839f-527911ca2d96/WEBSITELISBOARua1CaboJoseMartinsSilvestre14-2Esq-1800-310Lisboa-7.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7781169701742,
     "lng": -9.11727905273438
@@ -22,12 +22,25 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/cc582d8d-253f-4460-839f-527911ca2d96/WEBSITELISBOARua1CaboJoseMartinsSilvestre14-2Esq-1800-310Lisboa-7.jpg"
+    "https://images.century21.pt/cc582d8d-253f-4460-839f-527911ca2d96/WEBSITELISBOARua1CaboJoseMartinsSilvestre14-2Esq-1800-310Lisboa-7.jpg",
+    "https://images.century21.pt/f9f4fedc-4e00-4d13-8ec8-ac223c01e2e9/WEBSITELISBOARua1CaboJoseMartinsSilvestre14-2Esq-1800-310Lisboa-8.jpg",
+    "https://images.century21.pt/bb3b92e1-d4d2-4589-b063-6336cb3c28b8/WEBSITELISBOARua1CaboJoseMartinsSilvestre14-2Esq-1800-310Lisboa-6.jpg",
+    "https://images.century21.pt/aa4340e1-5c6d-42a3-8afd-d57cdee4f7ff/WEBSITELISBOARua1CaboJoseMartinsSilvestre14-2Esq-1800-310Lisboa-5.jpg",
+    "https://images.century21.pt/b94a7816-f083-45c4-aa25-2ef0433f7bcb/WEBSITELISBOARua1CaboJoseMartinsSilvestre14-2Esq-1800-310Lisboa-4.jpg",
+    "https://images.century21.pt/0ec6caba-c423-4118-a8e1-72378a6d0f80/WEBSITELISBOARua1CaboJoseMartinsSilvestre14-2Esq-1800-310Lisboa-3.jpg",
+    "https://images.century21.pt/9ac9c590-602d-4b8f-b48f-6ddd585b027e/WEBSITELISBOARua1CaboJoseMartinsSilvestre14-2Esq-1800-310Lisboa-15.jpg",
+    "https://images.century21.pt/86f4b007-74c3-4999-9c64-32d252e1db63/WEBSITELISBOARua1CaboJoseMartinsSilvestre14-2Esq-1800-310Lisboa-17.jpg",
+    "https://images.century21.pt/9068327c-7673-4a76-a9fa-1b866ad02740/WEBSITELISBOARua1CaboJoseMartinsSilvestre14-2Esq-1800-310Lisboa-18.jpg",
+    "https://images.century21.pt/2b86b3c4-e061-43fa-beda-d761f022d935/WEBSITELISBOARua1CaboJoseMartinsSilvestre14-2Esq-1800-310Lisboa-16.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Arrecadação"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 42,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 50,
+  "ano_construcao": 1967,
+  "certificacao_energetica": "D"
 }

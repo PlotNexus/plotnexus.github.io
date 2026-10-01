@@ -9,7 +9,7 @@
   "bathrooms": 5,
   "area_m2": 237,
   "image": "https://images.century21.pt/f2a045c4-80d5-42d3-9dad-12ffa6ea2612/(37).png",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 41.1299772,
     "lng": -8.6139425
@@ -22,12 +22,32 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/f2a045c4-80d5-42d3-9dad-12ffa6ea2612/(37).png"
+    "https://images.century21.pt/f2a045c4-80d5-42d3-9dad-12ffa6ea2612/(37).png",
+    "https://images.century21.pt/2bb790d9-9b24-4728-bbb2-6f1e7a19280f/(24).png",
+    "https://images.century21.pt/a7d53988-44fa-48bc-a507-bd5099a4cbcf/(36).png",
+    "https://images.century21.pt/ff656efe-1d1c-44c3-a40c-3bb58f1b1da0/(5).png",
+    "https://images.century21.pt/fe0dbcec-a7af-4937-bf29-b795f85cfa00/(25).png",
+    "https://images.century21.pt/09c9197d-0c50-4c5b-93ce-914715f7231e/(26).png",
+    "https://images.century21.pt/5c05f2f7-0b92-4ca2-b584-d41607e0e573/(27).png",
+    "https://images.century21.pt/45651080-3344-4e22-9920-3f68f9660a6f/(9).png",
+    "https://images.century21.pt/d36f2566-75c5-4d18-9a5c-455f5d512a33/(7).png",
+    "https://images.century21.pt/97710fba-0204-409a-9c7c-cd2146c37c60/(4).png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Bar",
+      "Jardim",
+      "Boa exposição solar",
+      "Boa localização",
+      "Tetos altos",
+      "Cozinha",
+      "Luxo",
+      "Escritório"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 237,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 334,
+  "ano_construcao": 2022,
   "certificacao_energetica": null
 }

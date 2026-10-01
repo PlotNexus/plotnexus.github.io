@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 138,
   "image": "https://images.century21.pt/80ef3b71-9edb-4e3c-ac79-1662b7d4c8b0/DSC3820.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 37.1205898339386,
     "lng": -8.34227085113526
@@ -22,12 +22,44 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/80ef3b71-9edb-4e3c-ac79-1662b7d4c8b0/DSC3820.jpg"
+    "https://images.century21.pt/80ef3b71-9edb-4e3c-ac79-1662b7d4c8b0/DSC3820.jpg",
+    "https://images.century21.pt/3b84d2f9-f949-475e-a29b-c43bce4867d6/DJI202603161446440544D-2.jpg",
+    "https://images.century21.pt/344c608b-b1b2-4c78-8a01-1ac12fa46a9d/DJI202603161456100557D.jpg",
+    "https://images.century21.pt/90abd094-ead1-4022-b409-0442eef46356/DSC3818.jpg",
+    "https://images.century21.pt/93651858-fa11-463a-94eb-a18ba3ab731f/TerracePeraT3ai-dining2.jpeg",
+    "https://images.century21.pt/4f90b1d1-511c-4f32-adb6-5be143c0fe88/DSC3828.jpg",
+    "https://images.century21.pt/93399e7b-a43c-49ac-b5b6-630a642834a2/IMG5210.jpg",
+    "https://images.century21.pt/fee676d4-06ce-4320-aa37-3c6e093cdfde/DJI202603161501290559D.jpg",
+    "https://images.century21.pt/1c6b9d35-2748-4688-9f57-f38f191253f8/DSC3896-HDR.jpg",
+    "https://images.century21.pt/a0425d04-b0a1-4989-8952-f1a80e0b96d6/DSC3891.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Estores elétricos",
+      "Elevador",
+      "Garagem",
+      "Condomínio fechado",
+      "Piso radiante",
+      "Perto de uma igreja",
+      "Perto de um campo de golfe",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Open space",
+      "Vista panorâmica",
+      "Despensa",
+      "Zona tranquila",
+      "Vista mar",
+      "Painéis solares",
+      "Arrecadação",
+      "Suite",
+      "Casa de banho de suite",
+      "Terraço"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 138,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 158,
+  "ano_construcao": 2024,
+  "certificacao_energetica": "A+"
 }

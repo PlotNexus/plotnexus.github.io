@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 82,
   "image": "https://images.century21.pt/27b1ee78-22ee-4f19-81b5-dae3b035609f/PHOTO-2025-12-05-09-37-448.jpg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 32.855716,
     "lng": -17.180386
@@ -22,12 +22,34 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/27b1ee78-22ee-4f19-81b5-dae3b035609f/PHOTO-2025-12-05-09-37-448.jpg"
+    "https://images.century21.pt/27b1ee78-22ee-4f19-81b5-dae3b035609f/PHOTO-2025-12-05-09-37-448.jpg",
+    "https://images.century21.pt/9b67f8d3-dde0-4fe4-a8fe-c7067d999e20/PHOTO-2025-12-05-09-37-43.jpg",
+    "https://images.century21.pt/52f3901e-e6ab-4f1c-9093-2e0203e42abc/PHOTO-2025-12-05-09-37-443.jpg",
+    "https://images.century21.pt/6184ec03-5bfe-4a07-9a89-cd70f0242163/PHOTO-2025-12-05-09-37-447.jpg",
+    "https://images.century21.pt/7f8cd60c-75dc-49eb-aeb8-2a8a080163e4/PHOTO-2025-12-05-09-37-446.jpg",
+    "https://images.century21.pt/138213ef-3cb3-454c-be43-8de29f6f683b/PHOTO-2025-12-05-09-37-445.jpg",
+    "https://images.century21.pt/00e37a0c-ec26-405f-b0f4-f71f2bb572f5/PHOTO-2025-12-05-09-37-44.jpg",
+    "https://images.century21.pt/e303d1ef-1cb1-4f76-baae-d0e6f8d6855b/PHOTO-2025-12-05-09-37-449.jpg",
+    "https://images.century21.pt/95cbbb24-58f4-4871-92c6-62bbb182bce4/PHOTO-2025-12-05-09-37-4410.jpg",
+    "https://images.century21.pt/2e5a9807-fe13-45c4-93a4-6824fd04be87/IMG5389.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Piso em madeira",
+      "Vista campo",
+      "Perto de uma autoestrada",
+      "Perto de uma igreja",
+      "Perto de um mercado",
+      "Vista mar",
+      "Vista serra"
+    ]
+  },
   "estado": null,
   "area_util_m2": 82,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 438,
+  "ano_construcao": 1960,
+  "certificacao_energetica": "F"
 }

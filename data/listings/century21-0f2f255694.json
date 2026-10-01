@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": 120,
-  "image": "https://images.century21.pt/9fb13b42-314e-4487-99a0-2acc4fd0e6bb/TORRAP-39.jpg",
-  "description": null,
+  "image": "https://images.century21.pt/cccc0372-856c-4554-99db-8fce2e8c20ba/TORRAP-35.jpg",
+  "description": "$22",
   "geo": {
     "lat": 38.2941175,
     "lng": -8.2243224
@@ -22,12 +22,38 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/9fb13b42-314e-4487-99a0-2acc4fd0e6bb/TORRAP-39.jpg"
+    "https://images.century21.pt/cccc0372-856c-4554-99db-8fce2e8c20ba/TORRAP-35.jpg",
+    "https://images.century21.pt/39cf2f0a-a860-4500-bda6-0ebd552c819f/TORRAP-1.jpg",
+    "https://images.century21.pt/0ac09fe1-fe7e-469e-8ed6-1611c774bc0f/TORRAP-3.jpg",
+    "https://images.century21.pt/bd8df940-fc5c-4efb-acce-0ae9c36f2543/TORRAP-5.jpg",
+    "https://images.century21.pt/db552ee3-7dae-4aaa-afab-7fbbc8d17fd8/TORRAP-8.jpg",
+    "https://images.century21.pt/544500ab-694e-4816-8a61-5d03c3525994/TORRAP-10.jpg",
+    "https://images.century21.pt/ced411f9-ee96-4a0e-bcf1-a2794fba99a7/TORRAP-6.jpg",
+    "https://images.century21.pt/e241d78e-48d3-4581-b983-1c55bde0c5d8/TORRAP-2.jpg",
+    "https://images.century21.pt/26880233-ee6e-46bd-86ae-734bd0001d47/TORRAP-9.jpg",
+    "https://images.century21.pt/5441857c-dae4-4f1f-8239-f4b8e034984c/TORRAP-13.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Sótão",
+      "Casa de banho",
+      "Sala de jantar",
+      "Janelas duplas",
+      "Exaustor",
+      "Boa exposição solar",
+      "Fogão de indução",
+      "Cozinha",
+      "Sala de estar",
+      "Zona tranquila",
+      "Casa de banho de suite",
+      "Quarto em suite",
+      "Terraço",
+      "Vídeo-porteiro"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 120,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 146,
+  "ano_construcao": 1945,
+  "certificacao_energetica": "F"
 }

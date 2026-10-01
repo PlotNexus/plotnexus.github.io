@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 0,
   "image": "https://images.century21.pt/c836aa4c-5d9b-413b-8794-99ea68ee689e/WhatsAppImage2026-04-24at08.39.24(1).jpeg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 38.7058966,
     "lng": -8.9775003
@@ -22,12 +22,45 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/c836aa4c-5d9b-413b-8794-99ea68ee689e/WhatsAppImage2026-04-24at08.39.24(1).jpeg"
+    "https://images.century21.pt/c836aa4c-5d9b-413b-8794-99ea68ee689e/WhatsAppImage2026-04-24at08.39.24(1).jpeg",
+    "https://images.century21.pt/c29d0e56-d883-4ea9-90e2-4f2b7819c5ab/1.jpeg",
+    "https://images.century21.pt/219a86b9-bedf-44ed-9737-fceb7c896a61/2.jpeg",
+    "https://images.century21.pt/9ded10c8-cb59-4048-9294-3db4a4221c44/3.jpeg",
+    "https://images.century21.pt/160f77ad-0ac5-4103-b2a0-1a4ec722631f/4.jpeg",
+    "https://images.century21.pt/f5a9b246-b25d-47d6-b698-052720ef083a/5.jpeg",
+    "https://images.century21.pt/a96ef4e5-213d-4fb8-ba29-cd47afbf6f09/6.jpeg",
+    "https://images.century21.pt/cca4af5e-6649-4c88-8cd8-fed186b6eebf/23.jpeg",
+    "https://images.century21.pt/fb0a3dde-cdc8-4aed-82ca-3c235ea49028/10.jpeg",
+    "https://images.century21.pt/fcc3e1e9-fb14-453c-b981-e9d23fd264f0/14.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Aquecedor",
+      "Eletrodomésticos",
+      "Elevador",
+      "Estores elétricos",
+      "Iluminação embutida",
+      "Janelas duplas",
+      "Painéis solares",
+      "Perto de um banco",
+      "Perto de comodidades",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma farmácia",
+      "Perto de um infantário",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de uma praça de táxis",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de uma zona histórica",
+      "Perto de o centro da cidade",
+      "Varanda"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 0,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 75,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "IN_PROCESS"
 }

@@ -2,14 +2,14 @@
   "id": "century21-a0270783cf",
   "title": "Moradia Isolada com 5 Quartos em Odivelas",
   "type": "venda",
-  "price": 747000,
+  "price": 797000,
   "currency": "EUR",
   "location": "Rua Domingos Bontempo 141, Famões, Portugal",
   "bedrooms": 5,
   "bathrooms": 3,
   "area_m2": 159,
   "image": "https://images.century21.pt/7a8b2d09-d3f3-4045-a372-3cc74ba1b9d5/IMGM0145.JPG",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.8013401,
     "lng": -9.2055367
@@ -22,12 +22,39 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/7a8b2d09-d3f3-4045-a372-3cc74ba1b9d5/IMGM0145.JPG"
+    "https://images.century21.pt/7a8b2d09-d3f3-4045-a372-3cc74ba1b9d5/IMGM0145.JPG",
+    "https://images.century21.pt/24ec2214-b5ae-4f18-8596-3fe14aa59f8c/IMGM0144.JPG",
+    "https://images.century21.pt/70c4db52-ac57-475e-ac74-1b1f67d98f2d/IMGM0146.JPG",
+    "https://images.century21.pt/79340ace-c608-43d3-b00e-b94ca0edb34c/IMGM0148.JPG",
+    "https://images.century21.pt/3ce56286-cf9c-40f2-a9ac-619a924cd751/IMGM0274.JPG",
+    "https://images.century21.pt/4de73981-3126-461b-b49a-33ea008ccca5/IMGM0270.JPG",
+    "https://images.century21.pt/a1edcce0-44c9-4195-bce9-a9d4bbb95b72/IMGM0271.JPG",
+    "https://images.century21.pt/dbcd6bb6-cb96-4f28-b577-f0822eb3ea04/IMGM0272.JPG",
+    "https://images.century21.pt/5f4178ba-13e1-4a2a-89dd-8267a3da0ef2/IMGM0264.JPG",
+    "https://images.century21.pt/bb3fdd55-a547-4804-a440-bc6fbd4b9587/IMGM0268.JPG"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Sótão",
+      "Varandas",
+      "Vestiário",
+      "Piso flutuante",
+      "Alpendre",
+      "Garagem",
+      "Jardim",
+      "Recuperador de calor",
+      "Porta de alta segurança",
+      "Cozinha",
+      "Lavandaria",
+      "Piso em pedra",
+      "Casa de banho de suite",
+      "Quarto em suite",
+      "Vídeo-porteiro"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 159,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 322,
+  "ano_construcao": 2010,
+  "certificacao_energetica": "C"
 }

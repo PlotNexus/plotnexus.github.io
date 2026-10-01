@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 211,
   "image": "https://images.century21.pt/e7000acd-4656-4263-81ad-31c5e45ae9b4/DJI202605061226090035D-Editar.jpg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 39.8292681,
     "lng": -8.7601741
@@ -22,12 +22,31 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/e7000acd-4656-4263-81ad-31c5e45ae9b4/DJI202605061226090035D-Editar.jpg"
+    "https://images.century21.pt/e7000acd-4656-4263-81ad-31c5e45ae9b4/DJI202605061226090035D-Editar.jpg",
+    "https://images.century21.pt/96394a10-f0e3-4df8-9ae0-5f31a5904834/DSC7689-HDR.jpg",
+    "https://images.century21.pt/3240c655-ba6d-4d54-a880-58482c978864/DSC7467-HDR.jpg",
+    "https://images.century21.pt/7d9fa8ed-3914-42c9-95d0-dd446ff4e1b3/DSC7474-HDR.jpg",
+    "https://images.century21.pt/6c76043c-92a5-473c-a366-5864f5b949a2/DSC7480-HDR.jpg",
+    "https://images.century21.pt/3989427b-0c85-437d-aa77-c552b6f52eaf/DSC7504-HDR.jpg",
+    "https://images.century21.pt/dab2d6b6-0e56-4c2c-8b2c-fff527f0d1a6/DSC7487-HDR.jpg",
+    "https://images.century21.pt/4b20bbde-0755-46ed-b418-48a660a73fc8/4d527b5b-720e-421f-845d-67dab7b990f5.JPG",
+    "https://images.century21.pt/9cadd96e-efef-4644-bf01-67205ed0739b/DSC7493-HDR.jpg",
+    "https://images.century21.pt/7a2c3184-5ec5-4694-b24d-44d57cb22502/DSC7646-HDR.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Arbustos",
+      "Vista campo",
+      "Janelas duplas",
+      "Portão elétrico",
+      "Árvores de fruto",
+      "Boa exposição solar",
+      "Serviço de segurança"
+    ]
+  },
   "estado": null,
   "area_util_m2": 211,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 212,
+  "ano_construcao": 2013,
+  "certificacao_energetica": "B"
 }

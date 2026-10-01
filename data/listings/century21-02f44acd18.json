@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 54,
   "image": "https://images.century21.pt/53f47410-1cbf-45e0-a5f0-074bbb4997cc/1.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.87365631596,
     "lng": -8.96990233212664
@@ -22,12 +22,36 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/53f47410-1cbf-45e0-a5f0-074bbb4997cc/1.jpeg"
+    "https://images.century21.pt/53f47410-1cbf-45e0-a5f0-074bbb4997cc/1.jpeg",
+    "https://images.century21.pt/c231571a-16eb-4b35-8c88-1a217265468e/e.jpeg",
+    "https://images.century21.pt/b0675be6-4ac5-4526-8aae-a1c89e7db8af/2.jpeg",
+    "https://images.century21.pt/f8f1bb2b-5f3f-42d2-bb83-e8ba0d8cd79d/3.jpeg",
+    "https://images.century21.pt/20d70f2e-b06b-42f0-bdb0-37779e80bfe8/4.jpeg",
+    "https://images.century21.pt/f9d3d6e0-feae-4481-9f05-ebfa9eb8861a/5.jpeg",
+    "https://images.century21.pt/4b2fb5a8-e80d-4454-bc41-362b5aba892b/6.jpeg",
+    "https://images.century21.pt/d0931d72-f83e-47fb-9f24-7ac588f8f381/7.jpeg",
+    "https://images.century21.pt/06b321f8-1201-4438-b6c3-83ff399f0d1d/8.jpeg",
+    "https://images.century21.pt/198c5f5e-5238-40f5-96da-8c6eb5122147/9.jpeg",
+    "https://images.century21.pt/7ca38451-7d4c-462e-b9e0-538cd26a749c/10.jpeg",
+    "https://images.century21.pt/97f95172-4200-40e7-91f9-565c036bc64a/11.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Localização central",
+      "Fogão elétrico",
+      "Exaustor",
+      "Lareira",
+      "Frigorífico",
+      "Boa exposição solar",
+      "Boa localização",
+      "Perto de a praia",
+      "Forno",
+      "Acesso por estrada"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 54,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 78,
+  "ano_construcao": 1995,
+  "certificacao_energetica": "E"
 }

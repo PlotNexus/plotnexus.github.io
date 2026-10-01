@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 60,
   "image": "https://images.century21.pt/b9a7f36e-bdf7-4fe9-abd0-dc427d80697b/WEBSITESACAVEMRuaManueldaSilva2-R-c-2685Sacavm-1.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7917107,
     "lng": -9.1071819
@@ -22,12 +22,39 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/b9a7f36e-bdf7-4fe9-abd0-dc427d80697b/WEBSITESACAVEMRuaManueldaSilva2-R-c-2685Sacavm-1.jpg"
+    "https://images.century21.pt/b9a7f36e-bdf7-4fe9-abd0-dc427d80697b/WEBSITESACAVEMRuaManueldaSilva2-R-c-2685Sacavm-1.jpg",
+    "https://images.century21.pt/19f99dd2-8cc8-4a4f-8a6f-1b41bc41235a/WEBSITESACAVEMRuaManueldaSilva2-R-c-2685Sacavm-2.jpg",
+    "https://images.century21.pt/6652a296-82cd-49c8-8c54-9f5151a9a90e/WEBSITESACAVEMRuaManueldaSilva2-R-c-2685Sacavm-3.jpg",
+    "https://images.century21.pt/050185a7-efb2-420c-b1e0-41972e813879/WEBSITESACAVEMRuaManueldaSilva2-R-c-2685Sacavm-5.jpg",
+    "https://images.century21.pt/7e447425-11fc-4ac6-9fb8-179f3d1f267a/WEBSITESACAVEMRuaManueldaSilva2-R-c-2685Sacavm-4.jpg",
+    "https://images.century21.pt/58ced439-23c3-44ae-b18c-923e7262d04a/WEBSITESACAVEMRuaManueldaSilva2-R-c-2685Sacavm-12.jpg",
+    "https://images.century21.pt/3b5fe6b9-c059-4431-b7f4-cb2887cfaed5/WEBSITESACAVEMRuaManueldaSilva2-R-c-2685Sacavm-7.jpg",
+    "https://images.century21.pt/6bd44764-93a9-4757-9393-c4f543e6db1b/WEBSITESACAVEMRuaManueldaSilva2-R-c-2685Sacavm-6.jpg",
+    "https://images.century21.pt/3f8df8b5-93d6-4c16-ad30-aff12e147797/WEBSITESACAVEMRuaManueldaSilva2-R-c-2685Sacavm-10.jpg",
+    "https://images.century21.pt/8ff2e4a9-3144-444c-bd74-6cd2f82128a2/WEBSITESACAVEMRuaManueldaSilva2-R-c-2685Sacavm-11.jpg"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 60,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Características": [
+      "Varanda",
+      "Casa de banho",
+      "Quarto",
+      "Corredor",
+      "Sala de jantar",
+      "Elevador",
+      "Cozinha",
+      "Sala de estar",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de o metro",
+      "Perto de restaurantes",
+      "Outra divisão",
+      "Despensa",
+      "Casa de banho privativa"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 66.8,
+  "area_bruta_m2": 66.8,
+  "ano_construcao": 1965,
+  "certificacao_energetica": "C"
 }

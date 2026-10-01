@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 216,
   "image": "https://images.century21.pt/3458bb56-f688-4ae1-9cc7-2b115416d15f/1.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.7284619348708,
     "lng": -8.78487825881393
@@ -22,12 +22,44 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/3458bb56-f688-4ae1-9cc7-2b115416d15f/1.jpg"
+    "https://images.century21.pt/3458bb56-f688-4ae1-9cc7-2b115416d15f/1.jpg",
+    "https://images.century21.pt/5eed5e27-efcb-4718-9385-469c78e6cc78/2.jpg",
+    "https://images.century21.pt/fd79a52b-9051-4f9a-ac5a-cbd93b05f002/3.jpg",
+    "https://images.century21.pt/303093b1-34df-473a-9e55-6da5b831eb22/4.jpg",
+    "https://images.century21.pt/b8a66df6-53fc-40f2-98d4-b6ec19ab7daa/5.jpg",
+    "https://images.century21.pt/93904963-f7d7-488e-a07d-e9b97057ca99/6.jpg",
+    "https://images.century21.pt/28bc93f9-9657-4d06-8ff2-06e95e190f9e/7.jpg",
+    "https://images.century21.pt/df5b820e-65fd-4f16-ac74-30d6f5053672/8.jpg",
+    "https://images.century21.pt/131e8696-3f65-4f8e-8a86-275be9487b00/9.jpg",
+    "https://images.century21.pt/1fcc8540-8603-45cb-8a83-8162b649fb4e/10.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Varandas",
+      "Churrasqueira",
+      "Cave",
+      "Casa de banho",
+      "Quarto",
+      "Aquecimento central",
+      "Máquina de lavar loiça",
+      "Janelas duplas",
+      "Estores elétricos",
+      "Termoacumulador elétrico",
+      "Exaustor",
+      "Garagem",
+      "Fogão de indução",
+      "Lavandaria",
+      "Micro-ondas",
+      "Forno",
+      "Piscina",
+      "Casa de banho de suite",
+      "Quarto em suite"
+    ]
+  },
   "estado": null,
   "area_util_m2": 216,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 301,
+  "ano_construcao": 2007,
   "certificacao_energetica": null
 }

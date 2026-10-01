@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 44,
   "image": "https://images.century21.pt/b54388cc-a1ee-48ca-9554-31db242ba7d5/WhatsAppImage2026-09-03at16.21.03(1).jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.1475592,
     "lng": -9.3578829
@@ -22,12 +22,49 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/b54388cc-a1ee-48ca-9554-31db242ba7d5/WhatsAppImage2026-09-03at16.21.03(1).jpeg"
+    "https://images.century21.pt/b54388cc-a1ee-48ca-9554-31db242ba7d5/WhatsAppImage2026-09-03at16.21.03(1).jpeg",
+    "https://images.century21.pt/513c07d1-d5f6-4af2-9e63-db5d588918ea/WhatsAppImage2026-09-02at11.55.15.jpeg",
+    "https://images.century21.pt/d38361ab-3df4-4393-b808-458427613355/Moradia-13.jpg",
+    "https://images.century21.pt/d2edc82c-e5ad-4a5f-b934-f764223a98ef/frente(4).jpg",
+    "https://images.century21.pt/1c19f091-d404-448d-a098-5d578da47e0b/frente(3).jpg",
+    "https://images.century21.pt/880288eb-b199-44b9-8550-8eef6454e7df/frente(9).jpg",
+    "https://images.century21.pt/6e3c0e5f-e1e1-4469-8a6f-43f33ab38ccf/frente(10).jpg",
+    "https://images.century21.pt/4c768528-3d08-4a96-a93b-8b1f5d4fd5b4/DSC14112.jpeg",
+    "https://images.century21.pt/74b501f9-d7ad-4e3c-9bc7-c44f5b973f37/DSC1405.jpeg",
+    "https://images.century21.pt/1361eb7a-79dd-4dbe-a069-0ab8d179af8d/DSC1406.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Eletrodomésticos",
+      "Casa de banho",
+      "Janelas duplas",
+      "Estores elétricos",
+      "Eletricidade",
+      "Piso flutuante",
+      "Boa localização",
+      "Rés-do-chão",
+      "Sala de estar",
+      "Perto de comodidades",
+      "Perto de a praia",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma igreja",
+      "Perto de uma bomba de gasolina",
+      "Perto de uma autoestrada",
+      "Perto de um infantário",
+      "Perto de um mercado",
+      "Perto de uma farmácia",
+      "Perto de um espaço público",
+      "Perto de restaurantes",
+      "Open space",
+      "Pátio",
+      "Pré-instalação de ar condicionado",
+      "Saneamento",
+      "Água"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 44,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 48,
+  "ano_construcao": 1950,
+  "certificacao_energetica": "EXEMPT"
 }

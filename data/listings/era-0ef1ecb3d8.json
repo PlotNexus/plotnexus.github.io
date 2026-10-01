@@ -8,7 +8,7 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": 86,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t2-gondomar-fanzeres_13_1_1527100_18610273_2_1_N2OxQjXcDEe%2bFA5vmPsNTbtENZDSHYZcS%2bjuBFNvj7fEB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/apartamento-t2-gondomar-fanzeres_14_1_1527100_18610273_2_1_N2OxQjXcDEe%2bFA5vmPsNTbtENZDSHYZcS%2bjuBFNvj7fEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 41.15586,
@@ -22,12 +22,17 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t2-gondomar-fanzeres_13_1_1527100_18610273_2_1_N2OxQjXcDEe%2bFA5vmPsNTbtENZDSHYZcS%2bjuBFNvj7fEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t2-gondomar-fanzeres_14_1_1527100_18610273_2_1_N2OxQjXcDEe%2bFA5vmPsNTbtENZDSHYZcS%2bjuBFNvj7fEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Planta",
+      "Área Bruta: 86"
+    ]
+  },
+  "estado": "Planta",
   "area_util_m2": 86,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 86,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

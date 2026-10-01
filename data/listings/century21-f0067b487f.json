@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 99.1,
   "image": "https://images.century21.pt/596a94d9-ea18-4aac-b329-aa2a09fd3669/Semttulo5.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.1401007,
     "lng": -8.6405379
@@ -22,12 +22,27 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/596a94d9-ea18-4aac-b329-aa2a09fd3669/Semttulo5.jpg"
+    "https://images.century21.pt/596a94d9-ea18-4aac-b329-aa2a09fd3669/Semttulo5.jpg",
+    "https://images.century21.pt/f474810b-e04e-465f-a618-9a4d85c3e263/Semttulo.jpg",
+    "https://images.century21.pt/9395bc9a-dd38-4cbe-b64d-9a00aec0dd05/Semttulo6.jpg",
+    "https://images.century21.pt/b6441055-127b-49d9-92f2-f64b165eb6d3/Semttulo4.jpg",
+    "https://images.century21.pt/e4494b13-e53a-4130-b0a6-d34910c1ca95/Semttulo3.jpg",
+    "https://images.century21.pt/74db5d37-d153-4386-b581-b21def2f9cd9/Semttulo2.jpg",
+    "https://images.century21.pt/c5faa8ff-1795-4f93-87d5-5559822c441c/asset-image-ce5b5dca-c0ea-455a-92dd-c6123abbf54e-2.jpg",
+    "https://images.century21.pt/e83e8587-3bcf-4f19-ad81-797dedab3341/asset-image-ce5b5dca-c0ea-455a-92dd-c6123abbf54e-4.jpg",
+    "https://images.century21.pt/e3a61e2d-3cba-42d8-94f8-ee12e5285e2e/asset-image-ce5b5dca-c0ea-455a-92dd-c6123abbf54e-1.jpg",
+    "https://images.century21.pt/b21b6376-75b2-40bd-91d2-0f5ed5521e21/Semttulo7.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Estacionamento",
+      "Ginásio",
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 99.1,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 111.9,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "IN_PROCESS"
 }

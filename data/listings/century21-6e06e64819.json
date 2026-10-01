@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 48.8,
   "image": "https://images.century21.pt/47aeefa1-7147-4161-a93b-907a7cc6f47c/2afcff95-0db0-4c42-9f30-b79977be2011.JPG",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 38.709895,
     "lng": -9.130334
@@ -22,12 +22,30 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/47aeefa1-7147-4161-a93b-907a7cc6f47c/2afcff95-0db0-4c42-9f30-b79977be2011.JPG"
+    "https://images.century21.pt/47aeefa1-7147-4161-a93b-907a7cc6f47c/2afcff95-0db0-4c42-9f30-b79977be2011.JPG",
+    "https://images.century21.pt/5b543901-7359-4de4-b535-6fddeeab983a/Copilot20260422103601.png",
+    "https://images.century21.pt/4e43ab55-f9c5-4104-ab44-2788eae88adf/3ff1c9e5-8f07-42a6-a290-d2b56eeca4b1.JPG",
+    "https://images.century21.pt/76c463e1-7a5f-4bea-ac49-ff3f5e75941d/Copilot20260422095832.png",
+    "https://images.century21.pt/09b7fa15-f14f-4186-b747-ab7ea422cad7/6cb10ec7-7eee-473e-9f9d-7da86dc63f91.JPG",
+    "https://images.century21.pt/39b8cc07-e891-4568-bfc7-bb080bad1952/4.HEIC",
+    "https://images.century21.pt/242c2635-5c3a-4ce7-95fe-16c46713c610/f6415216-73b1-4aca-9cd2-3084d1bcede0.JPG",
+    "https://images.century21.pt/92c50a95-c8f0-4614-8d6f-32d3d806dea0/328fbaaa-6db7-4af9-9168-c2648a043a34.JPG",
+    "https://images.century21.pt/9d4c9ad2-aa4b-4e48-b6d2-e4f7ae0e81d5/Copilot20260422100047.png",
+    "https://images.century21.pt/b43953f3-f650-4a43-b61d-fd6d5d412601/Copilot20260422095651.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Cama de casal",
+      "Boa exposição solar",
+      "Boa localização",
+      "Fogão"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 48.8,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 69.52,
+  "ano_construcao": 1954,
+  "certificacao_energetica": "F"
 }

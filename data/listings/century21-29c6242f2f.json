@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 48,
   "image": "https://images.century21.pt/8dcb7994-1da1-43b8-a869-e8d4aaac11f3/RS601477.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7218241,
     "lng": -9.1605243
@@ -22,12 +22,47 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/8dcb7994-1da1-43b8-a869-e8d4aaac11f3/RS601477.jpg"
+    "https://images.century21.pt/8dcb7994-1da1-43b8-a869-e8d4aaac11f3/RS601477.jpg",
+    "https://images.century21.pt/b1ebec24-8f53-420f-a5ac-bcef44e4e503/RS601476.jpg",
+    "https://images.century21.pt/73098295-e6d9-46b9-a25b-1ed39516ad35/RS601474.jpg",
+    "https://images.century21.pt/dae16314-09d5-4614-b4b7-40a2f91984c8/RS601473.jpg",
+    "https://images.century21.pt/0d0075c6-4b0e-45a8-8306-d3ebd973ebaf/RS601520.jpg",
+    "https://images.century21.pt/027b2c3d-05d9-49da-8bc8-ccaf70ac47c8/RS601439.jpg",
+    "https://images.century21.pt/889dcf0c-135b-4dba-955f-5aea13fbf34e/RS601432.jpg",
+    "https://images.century21.pt/b3e571e0-9230-461d-9010-8c347f1459a7/RS601431.jpg",
+    "https://images.century21.pt/2d6016c5-b813-4214-948a-134328d1d7f9/RS601433.jpg",
+    "https://images.century21.pt/f862189e-39d8-47c4-bab2-865aea8fcf91/RS601517.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Quarto",
+      "Vista cidade",
+      "Máquina de lavar loiça",
+      "Termoacumulador elétrico",
+      "Exaustor",
+      "Frigorífico",
+      "Fogão de indução",
+      "Cozinha",
+      "Marquise",
+      "Perto de comodidades",
+      "Perto de um banco",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma zona comercial",
+      "Perto de espaços verdes",
+      "Perto de um mercado",
+      "Perto de uma farmácia",
+      "Perto de um espaço público",
+      "Perto de restaurantes",
+      "Perto de uma praça de táxis",
+      "Forno",
+      "Casa de banho partilhada",
+      "Máquina de lavar roupa"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 48,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 48,
+  "ano_construcao": 1951,
+  "certificacao_energetica": "E"
 }

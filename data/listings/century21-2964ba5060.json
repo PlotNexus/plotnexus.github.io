@@ -4,15 +4,15 @@
   "type": "venda",
   "price": 470000,
   "currency": "EUR",
-  "location": "Funchal, Portugal",
+  "location": "Rua da Olaria, Caniço, Portugal",
   "bedrooms": 2,
-  "bathrooms": 2,
+  "bathrooms": 1,
   "area_m2": 94,
   "image": "https://images.century21.pt/3b7c0b2d-7cea-457c-bc70-9ceb037ddd33/ALX04982.jpg",
   "description": null,
   "geo": {
-    "lat": 32.6506129,
-    "lng": -16.9082357
+    "lat": 32.6461923,
+    "lng": -16.851433
   },
   "source": {
     "name": "Century 21",
@@ -22,12 +22,31 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/3b7c0b2d-7cea-457c-bc70-9ceb037ddd33/ALX04982.jpg"
+    "https://images.century21.pt/3b7c0b2d-7cea-457c-bc70-9ceb037ddd33/ALX04982.jpg",
+    "https://images.century21.pt/e9bb0a3c-2800-4671-b1b5-0c432bcd3cb6/ALX04978.jpg",
+    "https://images.century21.pt/10e2905f-c8df-4399-9b7e-ea8a05ea19de/ALX04979.jpg",
+    "https://images.century21.pt/6e232280-e8b5-4056-aee2-1b4e8217cfc0/ALX04977.jpg",
+    "https://images.century21.pt/f087c240-b308-4085-8ceb-b3c286081584/ALX04975.jpg",
+    "https://images.century21.pt/6ad6bbdf-da50-41df-8ffc-b0b49eeeb5e6/ALX04976.jpg",
+    "https://images.century21.pt/e61759a3-1180-4a3c-a60a-3887bae853ab/ALX04980.jpg",
+    "https://images.century21.pt/2cb912bf-eb0b-4b2e-8341-2feb3798b4a0/ALX04981.jpg",
+    "https://images.century21.pt/7c0a3cf7-63ab-4179-a8d5-430ce4b8682f/ALX04983.jpg",
+    "https://images.century21.pt/e2c7603e-387d-48e4-b863-d6df946ef384/ALX04963.jpg",
+    "https://images.century21.pt/a336c9b4-25e0-4c17-97f7-989be506a041/ALX04968.jpg",
+    "https://images.century21.pt/b6eeaf71-a360-4658-81d9-6d91b3704aab/ALX04962.jpg",
+    "https://images.century21.pt/ee76ee1f-c156-4e1e-80be-959ed18e480b/ALX04964.jpg",
+    "https://images.century21.pt/05fe2a55-d840-4677-82e2-01f72af3551e/ALX04966.jpg",
+    "https://images.century21.pt/887d1163-d1e3-4dae-a342-2af208f1c906/ALX04967.jpg",
+    "https://images.century21.pt/be7e557e-a9f1-41ac-b6d1-a4a0741ec5b7/ALX04969.jpg",
+    "https://images.century21.pt/9911e381-a43d-4107-9068-c7337d4ca9b3/ALX04985.jpg",
+    "https://images.century21.pt/240d929a-8c47-4457-8bfe-7e59999892e4/ALX04945.jpg",
+    "https://images.century21.pt/5d25834f-054b-4142-a83d-cf6188cfdb29/ALX04944.jpg",
+    "https://images.century21.pt/ee350995-25b8-46ec-a6fe-effcd8e51358/ALX04949.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 94,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 115,
+  "ano_construcao": 2009,
+  "certificacao_energetica": "C"
 }

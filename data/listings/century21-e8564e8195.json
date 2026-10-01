@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 73,
   "image": "https://images.century21.pt/2f3ca335-215d-400e-9cce-495cd0d7516d/WhatsAppImage2026-05-13at20.35.14(6).jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7945744,
     "lng": -9.3501019
@@ -22,12 +22,40 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/2f3ca335-215d-400e-9cce-495cd0d7516d/WhatsAppImage2026-05-13at20.35.14(6).jpeg"
+    "https://images.century21.pt/2f3ca335-215d-400e-9cce-495cd0d7516d/WhatsAppImage2026-05-13at20.35.14(6).jpeg",
+    "https://images.century21.pt/c5dbc2f1-b7b5-4df0-b7f3-d5e43106e361/WhatsAppImage2026-05-13at20.35.11(2).jpeg",
+    "https://images.century21.pt/4d4cb7c3-3172-408c-84b3-872033237828/WhatsAppImage2026-05-13at20.35.11.jpeg",
+    "https://images.century21.pt/ab6bb588-6cb5-460c-a65a-71eb9b0a435f/WhatsAppImage2026-05-13at20.35.11(3).jpeg",
+    "https://images.century21.pt/a3dd5af6-f928-4c44-a146-62a4192018ec/WhatsAppImage2026-05-13at20.35.11(5).jpeg",
+    "https://images.century21.pt/6d40d094-f898-4308-a4ab-81f7ec224821/WhatsAppImage2026-05-13at20.35.12(3).jpeg",
+    "https://images.century21.pt/a795497a-e866-49c2-bf80-85d1a5c6d18d/WhatsAppImage2026-05-13at20.35.13(1).jpeg",
+    "https://images.century21.pt/2e83e686-6b46-4021-895a-8181c095bc66/WhatsAppImage2026-05-13at20.35.12(7).jpeg",
+    "https://images.century21.pt/dfb46550-af9e-4ebb-8057-42ed6351c8b8/WhatsAppImage2026-05-13at20.35.12(2).jpeg",
+    "https://images.century21.pt/f319c663-ff8a-4a3b-b1c9-26c2bb25e74e/WhatsAppImage2026-05-13at20.35.12(5).jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Corredor",
+      "Cozinha",
+      "Despensa",
+      "Quarto",
+      "Sala de jantar",
+      "Varandas",
+      "Perto de uma autoestrada",
+      "Perto de um banco",
+      "Perto de a polícia",
+      "Perto de uma estação de comboio",
+      "Perto de uma farmácia",
+      "Perto de um infantário",
+      "Perto de um quartel de bombeiros",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 73,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 93,
+  "ano_construcao": 1989,
   "certificacao_energetica": null
 }

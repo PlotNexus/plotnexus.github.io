@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 71,
   "image": "https://images.century21.pt/8e2d8f47-d338-4f08-9c25-8ba27e9301c4/IMG20260902154702.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.9769223,
     "lng": -8.8029335
@@ -22,12 +22,48 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/8e2d8f47-d338-4f08-9c25-8ba27e9301c4/IMG20260902154702.jpg"
+    "https://images.century21.pt/8e2d8f47-d338-4f08-9c25-8ba27e9301c4/IMG20260902154702.jpg",
+    "https://images.century21.pt/349741f9-325a-454f-9e64-fcac948f87d9/IMG20260902155710.jpg",
+    "https://images.century21.pt/2abdcd3f-23f0-4603-9c76-4409ff6125b4/IMG20260902155846.jpg",
+    "https://images.century21.pt/4d9b25ed-42a1-4e52-9600-8eb78caf6418/IMG20260902155852.jpg",
+    "https://images.century21.pt/af8b4b89-b636-49b9-a9df-f8a28a7a15bf/IMG20260902155743.jpg",
+    "https://images.century21.pt/c51a8dd4-f361-4f6b-9847-d21c0c870128/IMG20260902155754.jpg",
+    "https://images.century21.pt/197e1782-34a9-4c63-a46d-e0a9e713406d/IMG20260902155811.jpg",
+    "https://images.century21.pt/f1fbd3ce-e8c7-4f84-986e-3bfed07945c0/IMG20260902155539.jpg",
+    "https://images.century21.pt/e3d4de24-0d28-4d48-82bb-e0aa3107ec7e/IMG20260902155638.jpg",
+    "https://images.century21.pt/4e94979c-61cc-4a15-a2bc-3a386459aaa7/IMG20260902155835.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Quarto",
+      "Sem cadeia de venda",
+      "Vista cidade",
+      "Vista campo",
+      "Eletricidade",
+      "Exaustor",
+      "Piso flutuante",
+      "Gás",
+      "Fogão a gás",
+      "Boa localização",
+      "Cozinha",
+      "Sala de estar",
+      "Piso em mosaico",
+      "Perto de um banco",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Forno",
+      "Despensa",
+      "Zona tranquila",
+      "Casa de banho partilhada",
+      "Água canalizada",
+      "Caixilharia"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 71,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 72,
+  "ano_construcao": 1980,
+  "certificacao_energetica": "C"
 }

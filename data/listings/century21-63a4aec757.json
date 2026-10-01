@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 110,
   "image": "https://images.century21.pt/910687fe-5fef-4307-95d3-91b2d9f1ca6d/06.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.708265,
     "lng": -9.143409
@@ -22,12 +22,21 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/910687fe-5fef-4307-95d3-91b2d9f1ca6d/06.jpg"
+    "https://images.century21.pt/910687fe-5fef-4307-95d3-91b2d9f1ca6d/06.jpg",
+    "https://images.century21.pt/1d2b7179-7170-47d0-86e3-a8ce8f584ba7/05.jpg",
+    "https://images.century21.pt/523ac6af-d08b-469f-a9c5-2b25a730c483/01.jpg",
+    "https://images.century21.pt/ab4616f5-3476-4302-b765-ff7f36379834/07.jpg",
+    "https://images.century21.pt/a1797b9e-230c-4e6b-90cb-bcd11c6c91eb/FraccaoH.jpg",
+    "https://images.century21.pt/bfac4788-a03b-402b-9722-f92f7f1d49ae/04.jpg",
+    "https://images.century21.pt/b3ed1d7c-24ee-40e3-b153-114dc9ee51f3/03.jpg",
+    "https://images.century21.pt/a666227e-95ed-45ec-9ff4-3aa775ee3e1b/02.jpg",
+    "https://images.century21.pt/bf03aa9c-99bd-44d6-bfb8-74ce01057914/Cam08001F.jpg",
+    "https://images.century21.pt/611fcfd8-4714-4bfc-a351-98422f6eaeab/Cam00001F.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Novo",
   "area_util_m2": 110,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 111,
+  "ano_construcao": 1945,
+  "certificacao_energetica": "B"
 }

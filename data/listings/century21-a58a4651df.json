@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 85,
   "image": "https://images.century21.pt/bcbbb497-a413-4fb1-8f18-23e1d208d339/T2Rinchoa006.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7843942,
     "lng": -9.3157247
@@ -22,12 +22,30 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/bcbbb497-a413-4fb1-8f18-23e1d208d339/T2Rinchoa006.jpg"
+    "https://images.century21.pt/bcbbb497-a413-4fb1-8f18-23e1d208d339/T2Rinchoa006.jpg",
+    "https://images.century21.pt/7e39a72e-142d-4f6d-b69f-f6903d64b0f1/T2Rinchoa005.jpg",
+    "https://images.century21.pt/9569de42-a3ea-47e0-b760-9abf0bcaa659/T2Rinchoa003.jpg",
+    "https://images.century21.pt/3694d89d-f4a5-411d-b20e-e875dd7551ad/T2Rinchoa002.jpg",
+    "https://images.century21.pt/3b497e9a-6596-4a4f-950b-fa976688a33c/T2Rinchoa001.jpg",
+    "https://images.century21.pt/944cb9cc-5ef7-4d49-a0c2-3face774d7d1/T2Rinchoa007.jpg",
+    "https://images.century21.pt/4e7c3e3b-424a-4aad-be57-af286ae20dac/T2Rinchoa009.jpg",
+    "https://images.century21.pt/0880d1fe-7c87-4237-9c55-fb51d9b949d2/T2Rinchoa008.jpg",
+    "https://images.century21.pt/4762231c-e309-43f7-8f04-6145c608342b/T2Rinchoa010.jpg",
+    "https://images.century21.pt/26bf689c-cbd8-4c46-9fc0-7f469de8f855/T2Rinchoa012.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Perto de um banco",
+      "Perto de uma bomba de gasolina",
+      "Perto de uma autoestrada",
+      "Perto de uma farmácia",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 85,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 90,
+  "ano_construcao": 1994,
+  "certificacao_energetica": "C"
 }

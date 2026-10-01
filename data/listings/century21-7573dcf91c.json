@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 0,
   "image": "https://images.century21.pt/64bc0763-588b-4d52-8711-7a6b53830820/Salamobilada.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7211174,
     "lng": -9.1641374
@@ -22,12 +22,45 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/64bc0763-588b-4d52-8711-7a6b53830820/Salamobilada.png"
+    "https://images.century21.pt/64bc0763-588b-4d52-8711-7a6b53830820/Salamobilada.png",
+    "https://images.century21.pt/17d399a9-389f-446e-83eb-5c280242d6f1/CozinhaMobilada.png",
+    "https://images.century21.pt/7e270374-c10d-499a-93af-afde928ec33b/Quarto2Mobilado.png",
+    "https://images.century21.pt/85ec6593-e3ae-4716-9887-f1148f0d8d68/Quarto1Mobilado.png",
+    "https://images.century21.pt/3e701a0c-6647-4a99-b392-43b7ea1085e3/Exteriormobilado.png",
+    "https://images.century21.pt/6dcf15db-3928-41c8-a724-64ff770eff47/BDS21.jpg",
+    "https://images.century21.pt/44e281b0-7598-457c-a862-0536b89e507d/BDS12.jpg",
+    "https://images.century21.pt/4b4c6d5c-6ea4-4495-8a69-58acf61768aa/BDS14.jpg",
+    "https://images.century21.pt/7c109945-a1b5-48f8-9e8b-959f7e2235a5/BDS2.jpg",
+    "https://images.century21.pt/e576029d-23c9-440f-a109-699a4392b2a2/BDS1.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Tetos altos",
+      "Casa de banho",
+      "Cozinha",
+      "Terraço",
+      "Vista cidade",
+      "Perto de uma autoestrada",
+      "Perto de um banco",
+      "Perto de comodidades",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma farmácia",
+      "Perto de uma igreja",
+      "Perto de um infantário",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de uma zona histórica",
+      "Perto de o centro da cidade"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 0,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 60,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

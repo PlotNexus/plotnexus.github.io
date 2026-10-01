@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 100,
   "image": "https://images.century21.pt/4108e4d9-185e-40cb-98c5-f909a90dcd6b/Foto-3.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.8987378,
     "lng": -9.0421225
@@ -22,12 +22,28 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/4108e4d9-185e-40cb-98c5-f909a90dcd6b/Foto-3.jpg"
+    "https://images.century21.pt/4108e4d9-185e-40cb-98c5-f909a90dcd6b/Foto-3.jpg",
+    "https://images.century21.pt/25041ab5-a0a9-4356-8274-d13bcbd22cff/Foto.jpg",
+    "https://images.century21.pt/775d1934-92f9-48af-bed5-4965b01b8054/Foto-5.jpg",
+    "https://images.century21.pt/49839476-6e33-44a6-acdc-364204d37570/Foto-4.jpg",
+    "https://images.century21.pt/54aae29f-77fa-4f52-99a9-e2dbf90cb170/Foto-6.jpg",
+    "https://images.century21.pt/babe2d2c-2c7f-4151-9040-9e35a0d3e111/Foto-8.jpg",
+    "https://images.century21.pt/472fa074-6c11-48a2-a8b4-6fceb11f3f5d/Foto-9.jpg",
+    "https://images.century21.pt/2e08407c-463f-402f-b569-bcbd8337041b/Foto-10.jpg",
+    "https://images.century21.pt/54886c48-9962-47c2-a804-5b240cd9089b/Foto-25.jpg",
+    "https://images.century21.pt/531e91ab-ebad-4f3e-8880-02238cb5d8da/Foto-22.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Localização central",
+      "Boa exposição solar",
+      "Boa localização",
+      "Tetos altos"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 100,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 108,
+  "ano_construcao": 1995,
+  "certificacao_energetica": "D"
 }

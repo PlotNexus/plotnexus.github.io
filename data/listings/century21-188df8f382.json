@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 291,
   "image": "https://images.century21.pt/1210d2ab-d582-45fa-be0a-5c1774f207c5/LOGRADOUROABERTO70PostVAR01.jpg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 38.557853,
     "lng": -8.981709
@@ -22,12 +22,27 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/1210d2ab-d582-45fa-be0a-5c1774f207c5/LOGRADOUROABERTO70PostVAR01.jpg"
+    "https://images.century21.pt/1210d2ab-d582-45fa-be0a-5c1774f207c5/LOGRADOUROABERTO70PostVAR01.jpg",
+    "https://images.century21.pt/edacb894-71cb-4168-a3d1-042765545377/LOGRADOUROABERTO68Post.jpg",
+    "https://images.century21.pt/979a45c3-e73c-4bac-bdad-ff76f95f2f7b/SALAESTAR65Post.jpg",
+    "https://images.century21.pt/87dc7ce4-53ad-401b-bbd1-14f2555bddee/DINNER26Post.jpg",
+    "https://images.century21.pt/a090e7a9-c9db-4db4-baa1-b2cf926f8a58/CIRCULACAO29Post.jpg",
+    "https://images.century21.pt/420b3532-4216-4b2b-9f3c-1358534e9918/004ILHAPost.jpg",
+    "https://images.century21.pt/48a932b7-6c49-4c87-9770-23bea0ead626/002ZONAJANTARPost.jpg",
+    "https://images.century21.pt/3b287fdb-3c5c-494b-9b7f-3a4f2be7c6d9/001ZONASOCIALPost.jpg",
+    "https://images.century21.pt/0c49f6aa-1814-4823-9c16-b0f6ac90df04/003DETALHEPost.jpg",
+    "https://images.century21.pt/3a3eee36-a25d-4667-a4b3-559cc31c0ad4/COZINHA12Post.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Luxo"
+    ]
+  },
   "estado": null,
   "area_util_m2": 291,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 440,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

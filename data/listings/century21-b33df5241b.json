@@ -4,15 +4,15 @@
   "type": "venda",
   "price": 1380000,
   "currency": "EUR",
-  "location": "Mafra, Portugal",
+  "location": "Rua da Estrada Velha 16, Mafra, Portugal",
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 180.05,
-  "image": "https://images.century21.pt/4e2a5824-f9f8-456f-9507-b53ad4477fd6/Capa.jpeg",
-  "description": null,
+  "image": "https://images.century21.pt/72653474-0e43-4636-8d9f-e6060d6c7892/2.png",
+  "description": "$25",
   "geo": {
-    "lat": 38.9443106,
-    "lng": -9.3320856
+    "lat": 38.9698536,
+    "lng": -9.3701245
   },
   "source": {
     "name": "Century 21",
@@ -22,12 +22,43 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/4e2a5824-f9f8-456f-9507-b53ad4477fd6/Capa.jpeg"
+    "https://images.century21.pt/72653474-0e43-4636-8d9f-e6060d6c7892/2.png",
+    "https://images.century21.pt/f08b2a34-a613-4d90-ace7-55325ee888a3/4.png",
+    "https://images.century21.pt/97d757c7-2b85-478c-aa13-c1930e13be46/1.png",
+    "https://images.century21.pt/aaad21c2-a3e9-4570-84f0-b9350958c042/3.png",
+    "https://images.century21.pt/794bfcf5-4ba1-4cf8-ad1d-bcab9e74da64/6.png",
+    "https://images.century21.pt/33a70d3a-f0a1-4f9a-81a8-8011eac64382/7.png",
+    "https://images.century21.pt/2e9c7ec1-4da0-4273-9d93-30d879d6fe69/5.png",
+    "https://images.century21.pt/eb30e9e8-6835-4d8a-8e79-b2bb4593188b/8.png",
+    "https://images.century21.pt/59b0a7fc-1cef-4644-8037-89942f4d4e07/9.png",
+    "https://images.century21.pt/e4ff0511-424d-4dc2-b27d-969b751e9c98/10.png",
+    "https://images.century21.pt/88405b43-fc4b-4302-a61d-0356d21f03f7/19.png",
+    "https://images.century21.pt/ae7aeeb8-ffc8-43f7-94f7-fce9b82cf5b4/20.png",
+    "https://images.century21.pt/4bba1ac4-0396-4b32-955f-c3948f0deed2/18.png",
+    "https://images.century21.pt/959a1d27-1abe-4f14-ae55-55e15b3e39c1/17.png",
+    "https://images.century21.pt/e3630a72-5a24-4dd6-a346-7c3ff5bfe9fe/16.png",
+    "https://images.century21.pt/dfd34679-f95d-44e4-a101-e4c78ec86b75/11.png",
+    "https://images.century21.pt/9394d860-7501-437c-8b6e-7c3693573ca1/13.png",
+    "https://images.century21.pt/971bdc6f-3d5c-474c-abab-7b16b147ffd1/12.png",
+    "https://images.century21.pt/ed68137f-6c54-477a-bdb7-996433d31c97/14.png",
+    "https://images.century21.pt/04ee1c58-fe28-4753-a5b0-aa08ef16edb3/15.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Boa exposição solar",
+      "Boa localização",
+      "Aquecedor",
+      "Luxo",
+      "Open space",
+      "Piscina",
+      "Zona tranquila",
+      "Painéis solares"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 180.05,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 225.82,
+  "ano_construcao": 2006,
+  "certificacao_energetica": "B-"
 }

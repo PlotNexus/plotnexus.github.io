@@ -9,7 +9,7 @@
   "bathrooms": 8,
   "area_m2": 164,
   "image": "https://images.century21.pt/0d89997d-5b50-4164-984a-1d77f9e7f120/CoralSuits121.JPG",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 37.0898992,
     "lng": -8.2320957
@@ -22,12 +22,41 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/0d89997d-5b50-4164-984a-1d77f9e7f120/CoralSuits121.JPG"
+    "https://images.century21.pt/0d89997d-5b50-4164-984a-1d77f9e7f120/CoralSuits121.JPG",
+    "https://images.century21.pt/3ac63d72-9cfc-4a0a-9c3e-0af882b994d2/20260128123846.jpg",
+    "https://images.century21.pt/8920b9da-146c-455a-a9fd-ebf0ed794a95/CoralSuits113.JPG",
+    "https://images.century21.pt/27857271-3d1e-40bd-bdf5-73d674e8c085/CoralSuits099.JPG",
+    "https://images.century21.pt/b6a8241d-0c3e-418a-984b-5058de104537/CoralSuits111.JPG",
+    "https://images.century21.pt/e977d072-f7ef-44bd-9b50-449eab446a48/CoralSuits089.JPG",
+    "https://images.century21.pt/a42e3f60-9987-4cf9-ae2a-d988511590b5/CoralSuits086.JPG",
+    "https://images.century21.pt/7d372e8d-4ced-4289-8be2-941f30a4effe/CoralSuits108.JPG",
+    "https://images.century21.pt/cbdc7a1e-7b96-4a72-9f6d-fe03fea86fe9/CoralSuits092.JPG",
+    "https://images.century21.pt/37aa1cc4-b1aa-49f5-a365-299cd002b9b7/20260128125300.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Piscina",
+      "Sauna",
+      "Acesso por estrada",
+      "Acesso por caminho de terra",
+      "Boa exposição solar",
+      "Boa localização",
+      "Condomínio fechado",
+      "Zona tranquila",
+      "Paredes pintadas",
+      "Rés-do-chão",
+      "Bar",
+      "Jardim",
+      "Quarto em suite",
+      "Terraço",
+      "Perto de a praia",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 164,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 225,
+  "ano_construcao": 1985,
+  "certificacao_energetica": "B-"
 }

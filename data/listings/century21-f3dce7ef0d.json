@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 166,
   "image": "https://images.century21.pt/b4b46629-4f94-49a9-967c-321c2b5309d4/JoaoBandeiraCentury21(20de31).jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.902005,
     "lng": -8.218462
@@ -22,12 +22,30 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/b4b46629-4f94-49a9-967c-321c2b5309d4/JoaoBandeiraCentury21(20de31).jpg"
+    "https://images.century21.pt/b4b46629-4f94-49a9-967c-321c2b5309d4/JoaoBandeiraCentury21(20de31).jpg",
+    "https://images.century21.pt/bba3e9c1-2d5c-4348-b17f-bcf42e482677/JoaoBandeiraCentury21(31de58).jpg",
+    "https://images.century21.pt/60f82919-9b76-4e04-981f-f3c41aa472b4/grok-image-dfe595e8-35d7-4d5d-8f08-e2b2c89eb6ff.png",
+    "https://images.century21.pt/1b4760a2-8ab4-4f53-a4b4-460617493d0b/WdR9x.jpg",
+    "https://images.century21.pt/fb8dced4-6ca2-4cd1-81e0-8e669ef28762/AelFK.jpg",
+    "https://images.century21.pt/a586c088-ba28-4c4f-b369-258f76382384/JoaoBandeiraCentury21(8de58).jpg",
+    "https://images.century21.pt/bfb40f85-4c07-41d6-a98a-f356b4051008/JoaoBandeiraCentury21(10de58).jpg",
+    "https://images.century21.pt/051ab8fc-aef6-4a0e-9571-74b32868efdd/FullSizeRender(24).heic",
+    "https://images.century21.pt/f6262d08-0262-43e2-93d5-71d7c3e15442/CnR61.jpg",
+    "https://images.century21.pt/d77fa3fe-625f-40e8-909b-798aeb362faa/FullSizeRender(14).heic"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Bar",
+      "Cave",
+      "Boa exposição solar",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Arrecadação"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 166,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 332,
+  "ano_construcao": 1986,
+  "certificacao_energetica": "F"
 }

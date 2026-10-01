@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 182,
   "image": "https://images.century21.pt/e5b5d0e1-aca4-42a7-93e5-d29fbee822cb/DESFOCADO-50.jpg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 37.1703710655108,
     "lng": -8.36011290550232
@@ -22,12 +22,33 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/e5b5d0e1-aca4-42a7-93e5-d29fbee822cb/DESFOCADO-50.jpg"
+    "https://images.century21.pt/e5b5d0e1-aca4-42a7-93e5-d29fbee822cb/DESFOCADO-50.jpg",
+    "https://images.century21.pt/b68f83eb-35c1-42a4-a32a-7b2c0acebf7c/DESFOCADO-35.jpg",
+    "https://images.century21.pt/3a598828-6ace-4eb4-b5ec-de1df67f6577/DESFOCADO-18.jpg",
+    "https://images.century21.pt/2bd5f052-e731-4a70-ae40-a28b593583f5/DESFOCADO-17.jpg",
+    "https://images.century21.pt/52a8642f-a885-4ab3-84e6-dfd0c41de61e/DESFOCADO-15.jpg",
+    "https://images.century21.pt/c58a749a-60a8-4ae2-9c23-16f25cdec3cb/DESFOCADO-27.jpg",
+    "https://images.century21.pt/b3aca23a-cbbd-45ff-9083-1a29129ecef6/DESFOCADO-34.jpg",
+    "https://images.century21.pt/d4571d2a-46f4-4001-a29e-2c7a0ea49b61/DESFOCADO-30.jpg",
+    "https://images.century21.pt/0bd1d655-6b4c-4be4-b7e3-5acf7add493a/DESFOCADO-39.jpg",
+    "https://images.century21.pt/fbd007c7-fd25-4547-bc0a-5752efb1d055/DESFOCADO-37.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Alpendre",
+      "Boa exposição solar",
+      "Tetos altos",
+      "Open space",
+      "Paredes pintadas",
+      "Piscina",
+      "Zona tranquila",
+      "Vista mar"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 182,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 232,
+  "ano_construcao": 2008,
+  "certificacao_energetica": "E"
 }

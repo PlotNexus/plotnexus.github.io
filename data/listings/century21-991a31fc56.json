@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 80,
   "image": "https://images.century21.pt/8d1265d2-50e9-43a6-a8ca-2df5a8468ff0/IMG4326.jpeg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 39.3620281,
     "lng": -8.6946629
@@ -22,12 +22,33 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/8d1265d2-50e9-43a6-a8ca-2df5a8468ff0/IMG4326.jpeg"
+    "https://images.century21.pt/8d1265d2-50e9-43a6-a8ca-2df5a8468ff0/IMG4326.jpeg",
+    "https://images.century21.pt/a240188d-c236-49a6-9921-8c8bf058bbb0/IMG4325.jpeg",
+    "https://images.century21.pt/1c59f810-166e-43a4-b61c-c136f6dc549f/IMG4324.jpeg",
+    "https://images.century21.pt/4432756b-fa23-4955-ba39-2f8b1d2776fb/IMG4506.jpeg",
+    "https://images.century21.pt/574ddfeb-fe2f-4e3c-9dfe-a812ede72dd6/IMG4308.jpeg",
+    "https://images.century21.pt/4ce704ed-bb3c-4590-bc4c-670c8e561fe7/IMG4307.jpeg",
+    "https://images.century21.pt/6161871e-eccb-424c-91ca-2ecf95d909a4/IMG4300.jpeg",
+    "https://images.century21.pt/8a682ef6-2040-4a46-a2d4-7b0d59c7dc34/IMG4301.jpeg",
+    "https://images.century21.pt/a5bd68ea-567d-4184-b0d9-7a3af7cbb89a/IMG4305.jpeg",
+    "https://images.century21.pt/7ad31a29-0f2c-4363-8d1c-0431367d9323/IMG4303.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Cave",
+      "Vista campo",
+      "Alpendre",
+      "Boa exposição solar",
+      "Rés-do-chão",
+      "Pátio",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Arrecadação"
+    ]
+  },
   "estado": null,
   "area_util_m2": 80,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 171,
+  "ano_construcao": 1984,
+  "certificacao_energetica": "EXEMPT"
 }

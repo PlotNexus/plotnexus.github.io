@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 720,
   "image": "https://images.century21.pt/89761682-d9b1-4807-afc5-5fd2b6b4a32f/QC%2031.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 37.3154203553695,
     "lng": -8.56040954589844
@@ -22,12 +22,41 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/89761682-d9b1-4807-afc5-5fd2b6b4a32f/QC%2031.jpg"
+    "https://images.century21.pt/89761682-d9b1-4807-afc5-5fd2b6b4a32f/QC%2031.jpg",
+    "https://images.century21.pt/bd616444-ff0f-4275-9e17-5fa51bc443a6/QC%2044.jpg",
+    "https://images.century21.pt/08f55ff6-3ba4-42e2-8003-8c048134f45d/QC%2040.jpg",
+    "https://images.century21.pt/90cb87b2-5bf2-4140-81b3-b25314c68500/QC%2033.jpg",
+    "https://images.century21.pt/fa991ebc-36f3-4f56-bc2a-b7c830a4a585/QC%2043.jpg",
+    "https://images.century21.pt/0e4001a3-3d76-49f0-ba7e-0d8c04d8b418/QC%2022.jpg",
+    "https://images.century21.pt/59c8fe4f-81cf-40fb-9c92-008421a64516/QC%201.jpg",
+    "https://images.century21.pt/2b9aba64-7c84-413b-a8fb-0205cea2d342/QC%204.jpg",
+    "https://images.century21.pt/92ba0eeb-5b02-43d5-ae13-97d15bf5b223/QC%2017.jpg",
+    "https://images.century21.pt/f6bad096-f7bc-401b-bf32-3672b97ace8f/QC%202.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Árvores centenárias",
+      "Vista panorâmica",
+      "Vista campo",
+      "Vista serra",
+      "Água",
+      "Árvores de fruto",
+      "Horta",
+      "Perto de o centro da cidade",
+      "Perto de uma farmácia",
+      "Perto de um espaço público",
+      "Perto de uma praça de táxis",
+      "Perto de restaurantes",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Terraço",
+      "Varandas"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 720,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 979,
+  "ano_construcao": 1992,
+  "certificacao_energetica": "F"
 }

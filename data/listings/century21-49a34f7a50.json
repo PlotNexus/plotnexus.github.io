@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 81.7,
   "image": "https://images.century21.pt/358eb30c-5476-4882-9d73-f3e3bf48a17e/23.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.727955,
     "lng": -9.238029
@@ -22,12 +22,29 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/358eb30c-5476-4882-9d73-f3e3bf48a17e/23.jpeg"
+    "https://images.century21.pt/358eb30c-5476-4882-9d73-f3e3bf48a17e/23.jpeg",
+    "https://images.century21.pt/a7caa68a-8612-4c4f-9393-93f079af2f1b/1.jpeg",
+    "https://images.century21.pt/4c379a68-d624-4e04-911e-12b0c044b3e3/2.jpeg",
+    "https://images.century21.pt/c722c1d5-daf2-49f2-9073-0d4f73defb2c/3.jpeg",
+    "https://images.century21.pt/6da7b03d-8384-4e28-a0e7-cb57ecd21387/5.jpeg",
+    "https://images.century21.pt/2d57519c-1c68-4e9f-9bca-e1c249db78e9/8.jpeg",
+    "https://images.century21.pt/3f48145c-0987-408f-8b09-579a4e79dc89/10.jpeg",
+    "https://images.century21.pt/9d7bc70b-f487-480d-9004-bfaceebb8ef8/11.jpeg",
+    "https://images.century21.pt/a103593a-e024-4d60-a25c-9ab6cb98cd0f/12.jpeg",
+    "https://images.century21.pt/f7be13c1-90e0-4f8b-b455-0e701881d4b3/17.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Localização central",
+      "Elevador",
+      "Boa exposição solar",
+      "Vídeo-porteiro"
+    ]
+  },
   "estado": null,
   "area_util_m2": 81.7,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 106,
+  "ano_construcao": 1987,
+  "certificacao_energetica": "C"
 }

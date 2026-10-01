@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 168.65,
   "image": "https://images.century21.pt/871b219a-b78d-430d-aa6e-682e4e67f203/002.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 39.637108,
     "lng": -8.303572
@@ -22,12 +22,32 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/871b219a-b78d-430d-aa6e-682e4e67f203/002.jpg"
+    "https://images.century21.pt/871b219a-b78d-430d-aa6e-682e4e67f203/002.jpg",
+    "https://images.century21.pt/ac6950f8-e9d1-4d5b-b952-b934b4842f2b/003.jpg",
+    "https://images.century21.pt/638f8ee3-511b-497c-9e77-60a3e55eb729/001.jpg",
+    "https://images.century21.pt/e85c4f39-4d3f-42fa-ac92-8f4709cd8f2a/004.1.jpg",
+    "https://images.century21.pt/1919db79-a328-4a12-bdda-7aa4e413d8e1/031.jpg",
+    "https://images.century21.pt/44c1be14-d6d3-4da7-9403-679e0fec28e8/032.jpg",
+    "https://images.century21.pt/ef0fe3f0-c12b-4d35-abed-6db1a763a3b5/033.jpg",
+    "https://images.century21.pt/491a708f-0603-4e98-97f8-95be3b9f72e8/025.jpg",
+    "https://images.century21.pt/9b658b7c-b78d-47af-98d4-c92e547d3a94/022.jpg",
+    "https://images.century21.pt/1a94c288-f97e-433b-962b-8d21960d52f5/021.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Churrasqueira",
+      "Árvores de fruto",
+      "Garagem",
+      "Jardim",
+      "Boa exposição solar",
+      "Boa localização",
+      "Acesso por estrada",
+      "Horta"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 168.65,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 206,
+  "ano_construcao": 2000,
+  "certificacao_energetica": "E"
 }

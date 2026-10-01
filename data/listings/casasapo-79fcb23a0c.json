@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": null,
   "area_m2": 95,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1049065/P200381668/Tphoto/IDb829979c-8edd-4dc6-9370-1db828ea4e29.jpg",
-  "description": "Apartamento T2 com excelentes áreas para vender em Viseu. \nSituado proximo do centro da cidade (2 km), com escolas primárias, comercio e serviços.\nSituado mum piso alto com uma varanda virada a poente com muito sol o",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1049065/P200381668/Tphoto/IDb829979c-8edd-4dc6-9370-1db828ea4e29.jpg",
+  "description": "Apartamento T2 com excelentes áreas para vender em Viseu. \nSituado proximo do centro da cidade (2 km), com escolas primárias, comercio e serviços.\nSituado mum piso alto com uma varanda virada a poente com muito sol onde pode desfrutar das suas belas tardes de verão ou o sol quente do inverno.\nCozinha equipada com: placa, forno, micro-ondas, maquina de loiça e combinado. \nPainel solar para aguas quentes.\nRoupeiros nos quartos. Wc muito espaçoso com lugar para maquina de roupa já com resguardo e movel. \nAr condicionado para aquecimento e arrefecimento.\nBomba de Calor.\nLugar de garagem, arrumo e elevador. \nPronto a habitar em outubro de 2025.\nUltimo T2 disponivel.\nExiste um T3 disponivel, Valor 395,000. 00. \n#ref:34498477",
   "geo": {
     "lat": 40.6534,
     "lng": -7.9288
@@ -22,12 +22,24 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S6/C1049065/P200381668/Tphoto/IDb829979c-8edd-4dc6-9370-1db828ea4e29.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1049065/P200381668/Tphoto/IDb829979c-8edd-4dc6-9370-1db828ea4e29.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 1",
+      "Varandas"
+    ],
+    "Equipamentos": [
+      "Ar Condicionado",
+      "Elevador"
+    ],
+    "Infraestruturas": [
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 95,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 117,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "B"
 }

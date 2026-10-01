@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 99,
   "image": "https://images.century21.pt/74834631-3c53-4299-8555-107b3680143d/BX6A464678-Editar.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6814949,
     "lng": -9.3271846
@@ -22,12 +22,27 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/74834631-3c53-4299-8555-107b3680143d/BX6A464678-Editar.jpg"
+    "https://images.century21.pt/74834631-3c53-4299-8555-107b3680143d/BX6A464678-Editar.jpg",
+    "https://images.century21.pt/dfcc2333-ca69-4ccd-b89c-4d18ef35157d/BX6A464345-Editar.jpg",
+    "https://images.century21.pt/fd7a1c74-453c-4456-bd6b-330554efc86b/BX6A457123-Editar.jpg",
+    "https://images.century21.pt/df9aebf6-323a-4b10-96ee-bc58b83bf523/BX6A456234-Editar.jpg",
+    "https://images.century21.pt/192dfd6f-3b18-41ee-950a-7565852bc50b/BX6A453456-Editar.jpg",
+    "https://images.century21.pt/8b33c6bb-ae18-42bb-b27f-3499c3acca78/BX6A454578-Editar.jpg",
+    "https://images.century21.pt/1381d49e-20d0-4296-a8f9-360e4ffeb70f/BX6A45495152-Editar.jpg",
+    "https://images.century21.pt/c43830b1-9767-41ff-aea9-e99726f1a7f4/BX6A453789-Editar.jpg",
+    "https://images.century21.pt/9903d28e-24b5-4496-8afe-1eda139c1be5/BX6A455678-Editar.jpg",
+    "https://images.century21.pt/8709e815-7859-46c6-97ee-a798aafb64b8/BX6A455345-Editar.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Elevador",
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 99,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 123.5,
+  "ano_construcao": 2004,
+  "certificacao_energetica": "C"
 }
