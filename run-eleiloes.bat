@@ -72,24 +72,59 @@ if errorlevel 1 (
 
 cd /d "%~dp0"
 
-git add data/listings.json data/listings/ sitemap.xml
-git diff --cached --quiet
-if errorlevel 1 (
-    git commit -m "chore: update e-leiloes listings"
-    git push
-    if errorlevel 1 (
-        echo.
-        echo O "git push" falhou - provavelmente o repositorio remoto avancou
-        echo entretanto ^(ex.: uma execucao agendada^). Corre "git pull" e depois
-        echo "git push" manualmente neste terminal.
-    ) else (
-        echo.
-        echo Feito - anuncios do e-Leiloes atualizados e enviados.
-    )
-) else (
-    echo.
-    echo Sem alteracoes novas do e-Leiloes desta vez.
-)
+call :commit_and_push "chore: update e-leiloes listings" "data/listings.json data/listings/ sitemap.xml"
 
 echo.
 pause
+exit /b 0
+
+REM ------------------------------------------------------------
+REM  Faz commit+push dos ficheiros indicados; se o push falhar
+REM  por o remoto ter avancado entretanto - ex.: uma execucao
+REM  agendada - sincroniza automaticamente, usando "git fetch" e
+REM  "git reset" para a ultima versao sem tocar nos ficheiros ja
+REM  escritos no disco, e tenta de novo, ate 3 vezes. Nunca usa
+REM  "git pull" nem "git merge", que podem deixar marcadores de
+REM  conflito do git por resolver dentro dos ficheiros JSON se
+REM  alguem os aceitar sem reparar - ja aconteceu e partiu o site.
+REM  Parametro 1: mensagem do commit. Parametro 2: caminhos a
+REM  adicionar.
+REM ------------------------------------------------------------
+:commit_and_push
+set "commit_msg=%~1"
+set "add_paths=%~2"
+set attempt=1
+
+:commit_and_push_loop
+git add %add_paths%
+git diff --cached --quiet
+if not errorlevel 1 (
+    echo.
+    echo Sem alteracoes novas desta vez.
+    goto :eof
+)
+git commit -m "%commit_msg%"
+git push
+if not errorlevel 1 (
+    echo.
+    echo Feito - anuncios atualizados e enviados.
+    goto :eof
+)
+if %attempt% GEQ 3 (
+    echo.
+    echo O "git push" continua a falhar depois de %attempt% tentativas. Corre
+    echo "git fetch origin main" e "git reset origin/main" manualmente neste
+    echo terminal para investigar.
+    goto :eof
+)
+echo.
+echo O "git push" falhou - provavelmente o repositorio remoto avancou entretanto
+echo ^(ex.: uma execucao agendada^). A sincronizar e a tentar de novo automaticamente...
+git fetch origin main
+if errorlevel 1 (
+    echo ERRO ao fazer "git fetch". Corre "git pull" manualmente para investigar.
+    goto :eof
+)
+git reset origin/main
+set /a attempt+=1
+goto :commit_and_push_loop
