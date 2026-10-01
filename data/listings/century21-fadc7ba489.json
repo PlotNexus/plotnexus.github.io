@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 34.24,
   "image": "https://images.century21.pt/fb2189fe-3afd-4e83-96b8-8582a4379c65/IMG20260529141037edit57623040928017.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7508542,
     "lng": -9.2281239
@@ -22,12 +22,37 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/fb2189fe-3afd-4e83-96b8-8582a4379c65/IMG20260529141037edit57623040928017.jpg"
+    "https://images.century21.pt/fb2189fe-3afd-4e83-96b8-8582a4379c65/IMG20260529141037edit57623040928017.jpg",
+    "https://images.century21.pt/dcefbce4-7195-4bcd-847e-e82899c16717/IMG20260529140937.jpg",
+    "https://images.century21.pt/b740730f-8e05-48b1-a539-3704e7d9a6c3/IMG20260529140729.jpg",
+    "https://images.century21.pt/18960958-463a-44a8-a271-ebf0c492812b/djimimo2026052914184201780060838099photo.jpg",
+    "https://images.century21.pt/586d24d2-d067-4bbe-843e-69cc058b5e08/djimimo2026052914224801780331603522photo.jpg",
+    "https://images.century21.pt/98d71bdf-0cef-4fa6-8679-43a8dd7c1926/IMG20260529140654.jpg",
+    "https://images.century21.pt/b1494b91-1bc6-4cd6-8dde-b37740871fb2/IMG20260529141145.jpg",
+    "https://images.century21.pt/3c69f9c6-466e-4fa4-8dc7-f4e9affab699/IMG20260529140841.jpg",
+    "https://images.century21.pt/03d6a637-861e-4b4d-a0a6-1f30748a3dd9/IMG20260529141118.jpg",
+    "https://images.century21.pt/f7dbcad8-4ae2-4518-b3ec-2ded56da769d/IMG20260602153806(1).jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador",
+      "Localização central",
+      "Casa de banho",
+      "Cozinha",
+      "Quarto",
+      "Varanda",
+      "Perto de um banco",
+      "Perto de comodidades",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma farmácia",
+      "Perto de um infantário",
+      "Perto de um espaço público",
+      "Perto de o centro da cidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 34.24,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 45.45,
+  "ano_construcao": 1974,
+  "certificacao_energetica": "C"
 }

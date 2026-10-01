@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 62,
   "image": "https://images.century21.pt/5ee11d33-b3ec-4e07-a00b-8e6ea5f1d6b8/Image19092026114014.png",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 38.6499451,
     "lng": -9.1603399
@@ -22,12 +22,45 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/5ee11d33-b3ec-4e07-a00b-8e6ea5f1d6b8/Image19092026114014.png"
+    "https://images.century21.pt/5ee11d33-b3ec-4e07-a00b-8e6ea5f1d6b8/Image19092026114014.png",
+    "https://images.century21.pt/766c06cb-5b38-4c89-b14a-39387e0eb42a/IMG6086.jpg",
+    "https://images.century21.pt/788ac887-d461-4371-9556-6b3556076247/IMG6085.jpg",
+    "https://images.century21.pt/7789f0f6-111c-409f-adbf-63228160bfeb/IMG6088.jpg",
+    "https://images.century21.pt/213a5f1b-5744-413c-a426-1edf7fa0572a/IMG6087.jpg",
+    "https://images.century21.pt/8d75c9e6-aaa3-4a72-a632-cac169e0ffc5/IMG6089.jpg",
+    "https://images.century21.pt/82e70648-6c9a-4697-b949-77171b2ef6bd/Image19092026113728.png",
+    "https://images.century21.pt/c68c9d9b-98f9-48fc-a217-27b4819e8d9b/IMG6091.jpg",
+    "https://images.century21.pt/a461a368-8996-448c-a7f2-79168ada0708/IMG6093.jpg",
+    "https://images.century21.pt/228e274b-9be2-443a-b843-4799eb0dbe47/IMG6098.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Quarto",
+      "Vista cidade",
+      "Hall de entrada",
+      "Marquise",
+      "Perto de comodidades",
+      "Perto de um banco",
+      "Perto de uma paragem de autocarro",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de um infantário",
+      "Perto de um mercado",
+      "Perto de o metro",
+      "Perto de uma farmácia",
+      "Perto de um espaço público",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Perto de um complexo desportivo"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 62,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 72,
+  "ano_construcao": 1974,
+  "certificacao_energetica": "E"
 }

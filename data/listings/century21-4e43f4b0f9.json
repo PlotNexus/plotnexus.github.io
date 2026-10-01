@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 300,
   "image": "https://images.century21.pt/8e5e176e-8cab-455c-bdf2-bf9aa85452b9/exterior6.5.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 40.1024898952408,
     "lng": -8.31240178074287
@@ -22,12 +22,28 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/8e5e176e-8cab-455c-bdf2-bf9aa85452b9/exterior6.5.png"
+    "https://images.century21.pt/8e5e176e-8cab-455c-bdf2-bf9aa85452b9/exterior6.5.png",
+    "https://images.century21.pt/ec54dae0-b2b8-4eed-b3a6-10c339865ab3/cozinha1.1.png",
+    "https://images.century21.pt/2759bc3c-e131-462b-a39b-65c90892a7b1/cozinha1.2.png",
+    "https://images.century21.pt/5bf22261-9da2-4a3b-b24b-d4662b278fd0/quarto2.2.png",
+    "https://images.century21.pt/9b79d5eb-fc67-45cc-98bd-682cff4518a6/sala3.4.png",
+    "https://images.century21.pt/3f86de53-22d4-4120-85fd-8bb6333c795e/garagem5.2.png",
+    "https://images.century21.pt/d1a11112-90fc-4ca0-a04c-2d5e09b18658/garagem5.1.png",
+    "https://images.century21.pt/6b51c905-dfcb-4df8-893b-646788f3bf7a/escritorio1.1.png",
+    "https://images.century21.pt/442afdac-4fae-4dad-aa6e-a83de5474713/sala3.3.png",
+    "https://images.century21.pt/ca2f7737-1866-411d-960b-9ae10f45fe92/quarto1.2.png"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Acesso por estrada"
+    ]
+  },
   "estado": null,
   "area_util_m2": 300,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 347.33,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "IN_PROCESS"
 }

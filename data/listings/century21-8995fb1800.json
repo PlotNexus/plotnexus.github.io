@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 98,
   "image": "https://images.century21.pt/2ba9f283-9b38-4612-a4f0-458738cd4b52/121delimitada.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.4041474,
     "lng": -9.1466721
@@ -22,12 +22,25 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/2ba9f283-9b38-4612-a4f0-458738cd4b52/121delimitada.jpg"
+    "https://images.century21.pt/2ba9f283-9b38-4612-a4f0-458738cd4b52/121delimitada.jpg",
+    "https://images.century21.pt/dc08c1ea-7e94-4640-990b-8b4c243b9901/122delimitada.jpg",
+    "https://images.century21.pt/a77aacc5-5160-4c95-8f01-391a0cd222c6/107.jpg",
+    "https://images.century21.pt/f155faf2-2eba-4013-9584-d096a2e5fdd4/106.jpg",
+    "https://images.century21.pt/507b10ac-2d42-47f6-a5d1-65eb9707f515/120.jpg",
+    "https://images.century21.pt/9498b308-ca10-4da5-9f50-b8e5b4aee6be/123.jpg",
+    "https://images.century21.pt/9d27d3cd-bbbc-4aef-ae08-b6a096013d54/124.jpg",
+    "https://images.century21.pt/58682289-bdc4-4ecd-97b5-66527292fb1f/119.jpg",
+    "https://images.century21.pt/22cd6056-65a6-44fe-a777-77f259394388/126.jpg",
+    "https://images.century21.pt/edbe2564-dfa0-4ef8-bcb7-e43a6c2f70cb/118.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 98,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 107,
+  "ano_construcao": 1983,
+  "certificacao_energetica": "D"
 }

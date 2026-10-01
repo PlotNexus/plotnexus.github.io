@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 69,
   "image": "https://images.century21.pt/465900ed-5036-49ee-b6aa-1f9c3dc78d31/IMG8324.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 37.0915492039387,
     "lng": -8.2224190235138
@@ -22,12 +22,38 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/465900ed-5036-49ee-b6aa-1f9c3dc78d31/IMG8324.jpeg"
+    "https://images.century21.pt/465900ed-5036-49ee-b6aa-1f9c3dc78d31/IMG8324.jpeg",
+    "https://images.century21.pt/a36a3ab0-40f8-44ae-b4ff-ff8d8b3bfef0/IMG8303.jpeg",
+    "https://images.century21.pt/6bbd192e-d737-4cf3-89ee-c88dba8346d4/9d34ffa1-1413-4f3b-8e09-089ef2208f8b.jpeg",
+    "https://images.century21.pt/55d92e7d-a18b-4196-8955-4885a19916fd/bc84f62d-cd5b-4f44-87ee-033b0d05fbb3.jpeg",
+    "https://images.century21.pt/4df684e8-4368-40f9-b00f-87b6ce5cbaf5/d8a0650b-d4bc-4d18-b40f-ed107afa8499.jpeg",
+    "https://images.century21.pt/0e1049b8-1d78-47fb-b30f-b5feb49709d3/IMG8305.jpeg",
+    "https://images.century21.pt/31245b49-b92f-4ba5-9db3-b15ce61fd6b9/IMG8308.jpeg",
+    "https://images.century21.pt/c97c7c0e-a6e4-4406-8848-b03d02f76839/de81089c-ad6e-42a9-a0eb-8c3d2f914dc5.jpeg",
+    "https://images.century21.pt/f15913fe-23a7-40b8-88d9-0f85ea69cafc/bdc81097-1cf2-4dd0-96a9-9b7c63823b5f.jpeg",
+    "https://images.century21.pt/a27e7c23-64b8-4e4e-9210-acd3d5c4184f/279ea68d-ee2c-4c4f-93ec-0605101f430b.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Perto de um banco",
+      "Perto de uma bomba de gasolina",
+      "Perto de comodidades",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma farmácia",
+      "Perto de um espaço público",
+      "Perto de uma praça de táxis",
+      "Perto de a praia",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de uma zona histórica",
+      "Perto de o centro da cidade",
+      "Vista cidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 69,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 78,
+  "ano_construcao": 1995,
+  "certificacao_energetica": "D"
 }

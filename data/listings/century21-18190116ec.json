@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 54,
   "image": "https://images.century21.pt/5e4450ab-8181-4db9-858e-1366da5869f1/MG5454.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7773991,
     "lng": -9.0997492
@@ -22,12 +22,27 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/5e4450ab-8181-4db9-858e-1366da5869f1/MG5454.jpg"
+    "https://images.century21.pt/5e4450ab-8181-4db9-858e-1366da5869f1/MG5454.jpg",
+    "https://images.century21.pt/8ea237c1-3859-443b-ac5e-461b580e3784/MG5439.jpg",
+    "https://images.century21.pt/720f119f-6bf3-4189-bcf1-9130446b684f/MG5437.jpg",
+    "https://images.century21.pt/319d4208-5a2e-4a30-9a13-32a586c9cbfc/MG5428-Edit.jpg",
+    "https://images.century21.pt/bc9330f1-009b-4619-976f-ed41f4da4cc6/MG5436.jpg",
+    "https://images.century21.pt/734fa3d8-77c6-4a6f-a78f-79cc02196002/MG5435.jpg",
+    "https://images.century21.pt/687a8248-6eda-4185-8385-5eb42cb8a055/MG5432.jpg",
+    "https://images.century21.pt/1485383e-7e5c-47d4-bdd4-3a523295ab76/MG5433-Edit.jpg",
+    "https://images.century21.pt/53c166a7-5743-4368-ac41-3d8989172d2d/MG5434.jpg",
+    "https://images.century21.pt/cb6358f4-8111-4a75-99be-3a7881b84757/MG5421-Edit.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Rés-do-chão"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 54,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 55,
+  "ano_construcao": 2010,
+  "certificacao_energetica": "D"
 }

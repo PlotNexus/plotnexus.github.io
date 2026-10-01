@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 94.5,
   "image": "https://images.century21.pt/b4e084d9-3e6e-4ff3-9da7-b88a5d5afe0d/SalaeCozinha4.jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.683288,
     "lng": -9.152406
@@ -22,12 +22,27 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/b4e084d9-3e6e-4ff3-9da7-b88a5d5afe0d/SalaeCozinha4.jpeg"
+    "https://images.century21.pt/b4e084d9-3e6e-4ff3-9da7-b88a5d5afe0d/SalaeCozinha4.jpeg",
+    "https://images.century21.pt/7750a399-669b-4f25-b115-2dd113b5b974/SalaeCozinha2.jpeg",
+    "https://images.century21.pt/5cb9f61e-0780-4344-b5d9-81e52bc74e2d/Sala03.jpeg",
+    "https://images.century21.pt/e7ebc576-0d82-40ae-8890-d929a2a8fa2a/Sala01.jpeg",
+    "https://images.century21.pt/f6fbddaf-425e-4fde-85f9-5e660b9ee1ff/WC.jpg",
+    "https://images.century21.pt/6d0e7da6-5827-4d49-a85b-4ae05c0a0042/Suite2.jpeg",
+    "https://images.century21.pt/92b311ac-d339-478e-a6ed-9f4c10d107b7/WC2.png",
+    "https://images.century21.pt/9143bb15-ebef-4a5d-8d96-68b7808d7027/WC3.png",
+    "https://images.century21.pt/beb9f203-b9dc-4f15-9fd8-67d721dad14d/Suite1.jpeg",
+    "https://images.century21.pt/9745ea75-d68d-481e-a9d3-9a234016152f/Suite3.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Rés-do-chão"
+    ]
+  },
   "estado": null,
   "area_util_m2": 94.5,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 189,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A+"
 }

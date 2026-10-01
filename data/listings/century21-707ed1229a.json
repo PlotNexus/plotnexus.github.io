@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 117,
   "image": "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk0403/ztre-00729/59293749_f057bf138d6b6c7faae50c96a3abf8e8a910acdb.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.155280555556,
     "lng": -8.5920444444445
@@ -22,12 +22,30 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk0403/ztre-00729/59293749_f057bf138d6b6c7faae50c96a3abf8e8a910acdb.jpeg"
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk0403/ztre-00729/59293749_f057bf138d6b6c7faae50c96a3abf8e8a910acdb.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk0403/ztre-00729/59293722_c0396527697d71a234e25e086175988780404588.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk0403/ztre-00729/59293723_a9b88f33bb82f73681ec8693e2b47a5d75a8e34b.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk0403/ztre-00729/59293744_dc785d904412366382468e62206c7c3b3a86f8fc.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk0403/ztre-00729/59293745_849c1fd72a29233b8e3a8ad5e397ce6699ec80f0.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk0403/ztre-00729/59293738_cc6e682b4d1ea0b6e8419dc28e7d13597e940165.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk0403/ztre-00729/59293740_5f505e9c1810f95ea207d327b9b53cd3694581ad.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk0403/ztre-00729/59293739_1f6872cb1522a8b77248b55fac5729c202f6f579.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk0403/ztre-00729/59293724_eeef4190fa9db7f15e6db7bb84d72b33024c662f.jpeg",
+    "https://hipoges.azureedge.net/imageshams/hams_pt_zip_tko/rztk0403/ztre-00729/59293726_9fdf281ff0672a5abb2a00b74dc6535b5fbe6b24.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Aquecimento central",
+      "Elevador",
+      "Estacionamento",
+      "Arrecadação",
+      "Roupeiro"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 117,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 154,
+  "ano_construcao": 2012,
+  "certificacao_energetica": "E"
 }

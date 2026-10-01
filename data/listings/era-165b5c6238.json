@@ -8,8 +8,8 @@
   "bedrooms": 0,
   "bathrooms": 1,
   "area_m2": 36,
-  "image": "https://mediaredir2.era.pt/i/apartamento-estudio-viseu-viseu_13_1_1421186_17443184_2_1_C6urnBdWC8w5oaVjVAYJPiiM6iqSUnCzsL94tt%2fy7ePEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-estudio-viseu-viseu_14_1_1421186_17443184_2_1_C6urnBdWC8w5oaVjVAYJPiiM6iqSUnCzsL94tt%2fy7ePEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Apartamento T0 inserido num empreendimento no centro da cidade. Ar condicionado, estores elétricos, painel Solar e lugar de garagem. Rodeado de comercio, serviços, transportes públicos e escolas.\nPossibilidade de escolha de acabamentos. Empreendimento em início de construção.",
   "geo": {
     "lat": 40.6600527,
     "lng": -7.921921900000001
@@ -22,12 +22,50 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-estudio-viseu-viseu_13_1_1421186_17443184_2_1_C6urnBdWC8w5oaVjVAYJPiiM6iqSUnCzsL94tt%2fy7ePEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-estudio-viseu-viseu_14_1_1421186_17443184_2_1_C6urnBdWC8w5oaVjVAYJPiiM6iqSUnCzsL94tt%2fy7ePEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-estudio-viseu-viseu_14_1_1421186_17443185_2_1_OoViMsqBhKpjxw4dFrummZkV70ffeRqYoclv9s3zjBTEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-estudio-viseu-viseu_14_1_1421186_17443186_2_1_5duFEU7BJ9%2fAbJRAgpgqP84FJNRadakxRCMlKLSKZbPEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Construção",
+      "Área Bruta: 45"
+    ],
+    "Geral": [
+      "Nº Frentes: 2",
+      "Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores: Eléctricos"
+    ],
+    "Climatização": [
+      "Ar Condicionado: Completo"
+    ],
+    "Edifício": [
+      "Equipamento: Gás Canalizado",
+      "Hall de Entrada - Tecto: Falso Pladur",
+      "Isolamento: Térmico",
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Exposição Solar": [
+      "Nascente, Sul"
+    ],
+    "Garagem": [
+      "Local: Cave"
+    ],
+    "Zona": [
+      "Acessos: Bons, Porto de Mar",
+      "Centralidade: Centro da Cidade",
+      "Proximidade: Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Jardins, Padaria, Supermercado"
+    ]
+  },
+  "estado": "Construção",
   "area_util_m2": 36,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 45,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 39.9,
   "image": "https://images.century21.pt/9552230d-5d6d-454c-8d3a-e38585991de5/IMG0809-HDR.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.661492,
     "lng": -9.161765
@@ -22,12 +22,56 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/9552230d-5d6d-454c-8d3a-e38585991de5/IMG0809-HDR.jpg"
+    "https://images.century21.pt/9552230d-5d6d-454c-8d3a-e38585991de5/IMG0809-HDR.jpg",
+    "https://images.century21.pt/a540eddd-31e0-4b84-9e25-5b5c0f330cf6/IMG0757-HDR.jpg",
+    "https://images.century21.pt/96f160de-b736-4b76-b070-91989fe15657/IMG0775-HDR.jpg",
+    "https://images.century21.pt/547e81a2-6f07-41c9-ad1d-4a930064e135/IMG0763-HDR.jpg",
+    "https://images.century21.pt/99c51a45-41b3-4c46-8ee6-0e9c11a38406/IMG0769-HDR.jpg",
+    "https://images.century21.pt/dfbd9819-2737-457d-ab47-4e1c04dd8f52/IMG0781-HDR.jpg",
+    "https://images.century21.pt/793123da-245f-4b42-8874-58c4b9b423c2/IMG0787-HDR.jpg",
+    "https://images.century21.pt/9ea9e307-463d-4f53-a1cd-17eab4c0ffbf/COZINHAT1.jpg",
+    "https://images.century21.pt/7b65c01b-fb44-4539-916d-cef371fa52c4/IMG0793-HDR.jpg",
+    "https://images.century21.pt/7c88ef34-2bfb-4367-9921-558c481b385f/IMG0805-HDR.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Quarto",
+      "Vista cidade",
+      "Sala de jantar",
+      "Exaustor",
+      "Fogão a gás",
+      "Boa exposição solar",
+      "Boa localização",
+      "Cozinha",
+      "Piso em mosaico",
+      "Perto de comodidades",
+      "Perto de um banco",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma igreja",
+      "Perto de uma zona comercial",
+      "Perto de um quartel de bombeiros",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de um infantário",
+      "Perto de um mercado",
+      "Perto de uma farmácia",
+      "Perto de a polícia",
+      "Perto de um espaço público",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Perto de um complexo desportivo",
+      "Perto de uma praça de táxis",
+      "Acesso por estrada",
+      "Saneamento",
+      "Esquentador",
+      "Caixilharia"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 39.9,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 44,
+  "ano_construcao": 1992,
+  "certificacao_energetica": "E"
 }

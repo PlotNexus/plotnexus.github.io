@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 97.75,
   "image": "https://images.century21.pt/e423bf90-2ad0-44d2-be55-2d81dbe5031b/fachada3.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.774353,
     "lng": -9.113755
@@ -22,12 +22,35 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/e423bf90-2ad0-44d2-be55-2d81dbe5031b/fachada3.jpg"
+    "https://images.century21.pt/e423bf90-2ad0-44d2-be55-2d81dbe5031b/fachada3.jpg",
+    "https://images.century21.pt/caf666ef-c9a2-490f-8eb8-1657c883ce88/fachada5.jpg",
+    "https://images.century21.pt/535c8de9-e878-4685-949c-d44745d0b8f7/cozinha3.jpg",
+    "https://images.century21.pt/1f168f7b-dd6e-4524-8076-84a1c0b7a9af/cozinha4.jpg",
+    "https://images.century21.pt/ab258e3b-ef9c-4ed8-9bea-c8dd7aa1c3c6/cozinhadespensa.jpg",
+    "https://images.century21.pt/8e0a519e-9b07-48f7-8bd2-dbdbfb23ddb9/cozinha1.jpg",
+    "https://images.century21.pt/ac307c7a-e1d0-47d6-8a50-76860bc79209/sala1.jpg",
+    "https://images.century21.pt/bb155eae-df85-4ff4-baa8-549f93206e82/sala2.jpg",
+    "https://images.century21.pt/ef96eca1-60d1-4035-a0bb-8b45f2d32431/sala4.jpg",
+    "https://images.century21.pt/462e5eab-9159-46e7-ab95-66751e445435/sala5.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador",
+      "Boa localização",
+      "Marquise",
+      "Perto de comodidades",
+      "Perto de um banco",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma igreja",
+      "Perto de uma autoestrada",
+      "Perto de o metro",
+      "Arrecadação",
+      "Soalho à portuguesa"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 97.75,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 109,
+  "ano_construcao": 1972,
+  "certificacao_energetica": "C"
 }

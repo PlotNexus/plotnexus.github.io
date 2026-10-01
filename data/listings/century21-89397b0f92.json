@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 94,
   "image": "https://images.century21.pt/bd065748-2abc-4c4e-b333-572d7585ad63/POMt3PacodArcos20260630-2.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.6954044,
     "lng": -9.2978174
@@ -22,12 +22,26 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/bd065748-2abc-4c4e-b333-572d7585ad63/POMt3PacodArcos20260630-2.jpg"
+    "https://images.century21.pt/bd065748-2abc-4c4e-b333-572d7585ad63/POMt3PacodArcos20260630-2.jpg",
+    "https://images.century21.pt/0889fa4c-8dc8-4e78-bac3-f58bcff92ebc/POMt3PacodArcos20260630-17.jpg",
+    "https://images.century21.pt/2aa89f69-3bae-4f50-90ec-30ece9a782bd/POMt3PacodArcos20260630-44.jpg",
+    "https://images.century21.pt/d4cb0a63-134a-45fc-854f-e2f5a2703f45/POMt3PacodArcos20260630-76.jpg",
+    "https://images.century21.pt/702de134-1c7e-4d59-a031-a8470e862a5a/POMt3PacodArcos20260630-20.jpg",
+    "https://images.century21.pt/07ed1f7a-7a71-4cca-b1ab-1507126f7147/POMt3PacodArcos20260630-37.jpg",
+    "https://images.century21.pt/1f358d0d-1b0d-470e-a8b0-1d81dd6989df/POMt3PacodArcos20260630-59.jpg",
+    "https://images.century21.pt/06635eb7-e347-4e70-adcc-2ac718544e8b/POMt3PacodArcos20260630-78.jpg",
+    "https://images.century21.pt/29e294f5-c1f8-4474-bf5e-58e29c4c8e05/POMt3PacodArcos20260630-30.jpg",
+    "https://images.century21.pt/f0363cf3-5197-4872-9104-4124483f38c3/POMt3PacodArcos20260630-27.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Eletrodomésticos",
+      "Termoacumulador elétrico"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 94,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 95,
+  "ano_construcao": 1985,
+  "certificacao_energetica": "D"
 }

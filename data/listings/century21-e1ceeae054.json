@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 180,
   "image": "https://images.century21.pt/c1feb8e2-10a1-4cea-94ba-2aed05e1cb64/RS606678.jpg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 38.4748235,
     "lng": -9.1561087
@@ -22,12 +22,40 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/c1feb8e2-10a1-4cea-94ba-2aed05e1cb64/RS606678.jpg"
+    "https://images.century21.pt/c1feb8e2-10a1-4cea-94ba-2aed05e1cb64/RS606678.jpg",
+    "https://images.century21.pt/6071e3a4-c876-48e2-879f-2e5d4d2eafec/hf20260817201037ab265d3c-f2a8-4c2b-8e55-55761fd8e1d6.jpg",
+    "https://images.century21.pt/685c322a-3d67-463a-a7e9-f4e1af8afd54/hf20260817164515916f5ca1-f01f-4e0e-a353-8fdc90bb9564.jpg",
+    "https://images.century21.pt/02638ebe-b46b-4aca-9fc1-ca6afea8eb9b/hf202608171650226a09299f-fc6b-4675-bd60-84cf2b72f345.jpg",
+    "https://images.century21.pt/fa798936-5b69-4ddf-8b72-9dcfcbd9dbce/hf20260817165433eecf6f0f-478f-4463-94eb-123dcbf6861b.jpg",
+    "https://images.century21.pt/5315cda7-a97a-4b5c-8371-a1aa20727778/RS606614.jpg",
+    "https://images.century21.pt/c2d7c77e-8d3c-4fe6-ab84-c0322d1a4f13/RS606615.jpg",
+    "https://images.century21.pt/eeac1e6f-5848-41fd-b274-070448cb52d8/RS606613.jpg",
+    "https://images.century21.pt/f3a46670-cb47-4f55-b195-cc0e729436ee/hf20260817174450fa060f72-4c59-4957-b294-871ae0e73125.jpg",
+    "https://images.century21.pt/c1e7a777-f146-40a0-9b9c-9370fe24dd94/hf2026081716314642a6e337-520f-487d-9ae9-6b4e2178907e.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Churrasqueira",
+      "Localização central",
+      "Garagem",
+      "Condomínio fechado",
+      "Boa exposição solar",
+      "Boa localização",
+      "Perto de um banco",
+      "Perto de a praia",
+      "Perto de espaços verdes",
+      "Perto de um mercado",
+      "Perto de uma farmácia",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Arrecadação",
+      "Terraço"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 180,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 181,
+  "ano_construcao": 2000,
+  "certificacao_energetica": "E"
 }

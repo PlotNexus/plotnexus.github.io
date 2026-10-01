@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 72,
   "image": "https://images.century21.pt/b3b6f679-a9f1-42c4-8e12-b76611311c84/01.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 39.0897347,
     "lng": -9.3188728
@@ -22,12 +22,49 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/b3b6f679-a9f1-42c4-8e12-b76611311c84/01.png"
+    "https://images.century21.pt/b3b6f679-a9f1-42c4-8e12-b76611311c84/01.png",
+    "https://images.century21.pt/572f9b5d-6490-4cd4-9a7b-16c288687d3b/3.png",
+    "https://images.century21.pt/99a3d635-42c4-4027-b24b-08976b7a2f4d/6.png",
+    "https://images.century21.pt/54dc8b22-7efb-4eb6-9cdb-3926ea611637/4.png",
+    "https://images.century21.pt/c67443c0-9b01-4833-ab22-09880dcce4d0/5.png",
+    "https://images.century21.pt/0bc9c8c9-62aa-4324-ab89-c6a59b7cbb5f/7.png",
+    "https://images.century21.pt/b321e5b3-18d0-4c09-a5c4-9f30c9b87ed0/8.png",
+    "https://images.century21.pt/5a9b8772-742f-41b7-a7bf-2a8b7096ae81/9.png",
+    "https://images.century21.pt/ee575800-ce22-4cac-9463-ed43e04369e8/10.png",
+    "https://images.century21.pt/bd3ae909-5e7c-4390-9d8b-b1274e8540bf/11.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Vista cidade",
+      "Vista campo",
+      "Boa exposição solar",
+      "Boa localização",
+      "Perto de comodidades",
+      "Perto de um banco",
+      "Perto de a praia",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma igreja",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de uma bomba de gasolina",
+      "Perto de um campo de golfe",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de um infantário",
+      "Perto de um mercado",
+      "Perto de uma farmácia",
+      "Perto de um espaço público",
+      "Perto de restaurantes",
+      "Perto de uma praça de táxis",
+      "Paredes pintadas",
+      "Vista panorâmica",
+      "Zona tranquila",
+      "Acesso por estrada"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 72,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 142,
+  "ano_construcao": 2006,
+  "certificacao_energetica": "D"
 }

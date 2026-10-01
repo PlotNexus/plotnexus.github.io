@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 103,
   "image": "https://images.century21.pt/eda6f95f-6c84-4202-8e25-9ea64f9c8aa1/SONIAGOMESC21MORADIABOAVISTA31.08.26-43.png",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.1260321,
     "lng": -9.3733415
@@ -22,12 +22,48 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/eda6f95f-6c84-4202-8e25-9ea64f9c8aa1/SONIAGOMESC21MORADIABOAVISTA31.08.26-43.png"
+    "https://images.century21.pt/eda6f95f-6c84-4202-8e25-9ea64f9c8aa1/SONIAGOMESC21MORADIABOAVISTA31.08.26-43.png",
+    "https://images.century21.pt/31025459-49ff-40d7-b831-9b7a553d4688/SONIAGOMESC21MORADIABOAVISTA31.08.26-42.png",
+    "https://images.century21.pt/3f8f0bd8-4de0-48c2-adc2-0051b1ab7e3d/SONIAGOMESC21MORADIABOAVISTA31.08.26-4.png",
+    "https://images.century21.pt/ba06c046-5fac-44f8-b95f-4f33de6ea434/SONIAGOMESC21MORADIABOAVISTA31.08.26-11.png",
+    "https://images.century21.pt/45edd1ec-b40e-4064-a47f-755c4e3d004c/SONIAGOMESC21MORADIABOAVISTA31.08.26-52.png",
+    "https://images.century21.pt/158cc06a-04fb-41ea-9f45-19fae725d918/SONIAGOMESC21MORADIABOAVISTA31.08.26-17.png",
+    "https://images.century21.pt/c3d34dc1-9832-40f6-8a54-6f08322849ec/SONIAGOMESC21MORADIABOAVISTA31.08.26-15.png",
+    "https://images.century21.pt/4afccab0-d4f1-48d2-9e7d-0d6ac47e2497/SONIAGOMESC21MORADIABOAVISTA31.08.26-18.png",
+    "https://images.century21.pt/528cf2b2-85c0-4dbd-b10d-829a83b84204/SONIAGOMESC21MORADIABOAVISTA31.08.26-16.png",
+    "https://images.century21.pt/2e1821d9-62a3-4419-9d13-00f39f56e531/SONIAGOMESC21MORADIABOAVISTA31.08.26-13.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Alarme",
+      "Sótão",
+      "Churrasqueira",
+      "Casa de banho",
+      "Quarto",
+      "Portão elétrico",
+      "Eletricidade",
+      "Lareira",
+      "Frigorífico",
+      "Garagem",
+      "Gás em botija",
+      "Fogão a gás",
+      "Cozinha",
+      "Lavandaria",
+      "Sala de estar",
+      "Perto de a praia",
+      "Despensa",
+      "Estacionamento",
+      "Piscina",
+      "Iluminação pública",
+      "Arrecadação",
+      "Água canalizada",
+      "Máquina de lavar roupa",
+      "Esquentador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 103,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 128,
+  "ano_construcao": 1980,
+  "certificacao_energetica": "D"
 }

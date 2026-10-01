@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 101.33,
   "image": "https://images.century21.pt/dca72e76-1cd2-4f80-93bf-c99b8f548091/T-12.JPG",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 38.7804414,
     "lng": -9.2044997
@@ -22,12 +22,53 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/dca72e76-1cd2-4f80-93bf-c99b8f548091/T-12.JPG"
+    "https://images.century21.pt/dca72e76-1cd2-4f80-93bf-c99b8f548091/T-12.JPG",
+    "https://images.century21.pt/3b687158-b8f3-4d6d-a6ce-526dcd6a5642/T-13.JPG",
+    "https://images.century21.pt/9a232471-b859-44b6-b4aa-01f8e3facc91/T-11.JPG",
+    "https://images.century21.pt/0cc5f5da-6e95-47b9-b715-d61693382667/T-14.JPG",
+    "https://images.century21.pt/8960b990-7423-4250-a3be-03bfcdfe1523/T-15.JPG",
+    "https://images.century21.pt/9c5b9d2d-7f21-4ccf-9cd9-b646296e8343/T-10.JPG",
+    "https://images.century21.pt/9433afa8-4173-4720-b5c3-7dbbf2548575/T-3.JPG",
+    "https://images.century21.pt/f4f6eeb3-4b97-4753-9dd5-a429b723b2f1/T-4.JPG",
+    "https://images.century21.pt/eb1b3dc0-a487-4c71-afdb-a088a2a94eb3/T-5.JPG",
+    "https://images.century21.pt/445c8e83-4161-411a-b2e7-0469958897c8/T-16.JPG"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Varanda",
+      "Janelas duplas",
+      "Elevador",
+      "Piso flutuante",
+      "Frigorífico",
+      "Garagem",
+      "Boa exposição solar",
+      "Quarto de hóspedes",
+      "Cozinha",
+      "Sala de estar",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma zona comercial",
+      "Perto de uma bomba de gasolina",
+      "Perto de uma autoestrada",
+      "Outra divisão",
+      "Forno",
+      "Despensa",
+      "Estacionamento",
+      "Gás canalizado",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Cofre",
+      "Arrecadação",
+      "Fogão",
+      "Quarto em suite",
+      "Máquina de lavar roupa",
+      "Esquentador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 101.33,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 119.55,
+  "ano_construcao": 2010,
+  "certificacao_energetica": "C"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 64,
   "image": "https://images.century21.pt/79ad5b5a-a119-4730-ba5f-f7317eb6011b/IMG-20250728-WA0032.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7544674,
     "lng": -9.1989689
@@ -22,12 +22,29 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/79ad5b5a-a119-4730-ba5f-f7317eb6011b/IMG-20250728-WA0032.jpg"
+    "https://images.century21.pt/79ad5b5a-a119-4730-ba5f-f7317eb6011b/IMG-20250728-WA0032.jpg",
+    "https://images.century21.pt/58f4ffbf-36ed-4161-9b27-76f439779990/IMG-20250612-WA0010.jpg",
+    "https://images.century21.pt/a8829758-824a-425b-8807-4f1a73e4b45c/IMG-20250728-WA0038.jpg",
+    "https://images.century21.pt/24a6cb35-ec2f-44cd-a837-05a7a1616e41/unnamed(2).jpg",
+    "https://images.century21.pt/0eba60fa-7343-4b4f-b8d8-1b18d74225e2/IMG-20250728-WA0030.jpg",
+    "https://images.century21.pt/3f6c2d0a-ad80-4947-8ad7-222404440269/IMG-20250728-WA0040.jpg",
+    "https://images.century21.pt/eb4a50bd-1ca9-460b-81f0-cb7a501b7558/unnamed.jpg",
+    "https://images.century21.pt/f1f5b300-ea01-42bf-8cfd-dc45654174e9/unnamed(1).jpg",
+    "https://images.century21.pt/b6713d51-cb01-4327-a266-7bebe3a8d7a4/IMG-20250728-WA0035.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Arbustos",
+      "Vista cidade",
+      "Vista campo",
+      "Arrecadação",
+      "Casa de banho de suite"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 64,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 68,
+  "ano_construcao": 1976,
+  "certificacao_energetica": "E"
 }

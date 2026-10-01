@@ -9,7 +9,7 @@
   "bathrooms": 5,
   "area_m2": 244,
   "image": "https://images.century21.pt/e4d9a2b4-26b3-4900-b801-f4a09be9197b/CostaDrona-2.jpg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 38.6455633,
     "lng": -9.2391345
@@ -22,12 +22,54 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/e4d9a2b4-26b3-4900-b801-f4a09be9197b/CostaDrona-2.jpg"
+    "https://images.century21.pt/e4d9a2b4-26b3-4900-b801-f4a09be9197b/CostaDrona-2.jpg",
+    "https://images.century21.pt/1a750b0e-b5bf-4f19-9542-b484f3a90669/Costa-14.jpg",
+    "https://images.century21.pt/3805d706-5ac2-4b85-92f7-ea0e44b73185/Costa-27.jpg",
+    "https://images.century21.pt/b69b8a6a-44e0-42b8-b83b-cd5d40691c72/Costa-2.jpg",
+    "https://images.century21.pt/b72e18c9-a109-4e94-a9e2-853739e6be7e/Costa-3.jpg",
+    "https://images.century21.pt/ee3f29a5-5bf5-425d-a3b1-4c45243af3e8/Costa-15.jpg",
+    "https://images.century21.pt/f51663a4-9256-49df-ac74-b31d69a4d15d/Costa-16.jpg",
+    "https://images.century21.pt/14bc5b29-a646-45eb-b5bd-bd699963f5cd/Costa-17.jpg",
+    "https://images.century21.pt/81854ce5-3901-42be-91a5-d29a3765359e/Costa-18.jpg",
+    "https://images.century21.pt/2aa74fb8-f677-495f-9ad2-f90d595d9060/Costa-7.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Jardim",
+      "Suite",
+      "Estacionamento",
+      "Primeira linha",
+      "Garagem",
+      "Vista cidade",
+      "Vista mar",
+      "Vista praia",
+      "Perto de uma autoestrada",
+      "Perto de um banco",
+      "Perto de uma bomba de gasolina",
+      "Perto de comodidades",
+      "Perto de um complexo desportivo",
+      "Perto de espaços verdes",
+      "Perto de a polícia",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma farmácia",
+      "Perto de um infantário",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de a praia",
+      "Perto de um quartel de bombeiros",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de o centro da cidade",
+      "Piscina",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Localização central"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 244,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 288,
+  "ano_construcao": 2008,
+  "certificacao_energetica": "E"
 }

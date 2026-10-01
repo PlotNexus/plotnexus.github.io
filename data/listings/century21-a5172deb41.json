@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 114,
   "image": "https://images.century21.pt/c120eb53-8799-452c-ae1b-ca21f85c0aa4/DJI0214-Editar.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 40.187643746378,
     "lng": -8.75697255134583
@@ -22,12 +22,35 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/c120eb53-8799-452c-ae1b-ca21f85c0aa4/DJI0214-Editar.jpg"
+    "https://images.century21.pt/c120eb53-8799-452c-ae1b-ca21f85c0aa4/DJI0214-Editar.jpg",
+    "https://images.century21.pt/3d84975d-648e-47ea-bfcd-5a38d4869e02/DJI0228.jpg",
+    "https://images.century21.pt/aa05e919-cc05-4737-bdd7-2ec2e8b83f50/DJI0215.jpg",
+    "https://images.century21.pt/45740b34-278e-4132-a835-4472d03c3f2d/DJI0229.jpg",
+    "https://images.century21.pt/2206d6e1-5968-43aa-8bfe-81a2562d30ca/DJI0230.jpg",
+    "https://images.century21.pt/5f0f2eae-846c-4e75-b9ba-a69dd4e0f3ea/DJI0220.jpg",
+    "https://images.century21.pt/8635ef1f-2b3f-4fb8-a0f4-92dd93379493/DJI0225.jpg",
+    "https://images.century21.pt/038ec663-cfb8-4048-91a0-0acc8acba2d1/DJI0226.jpg",
+    "https://images.century21.pt/62fe6422-8a04-4643-8426-456a3924d475/DJI0233.jpg",
+    "https://images.century21.pt/a4d32167-8950-4b45-8554-093c854af18f/DJI0227.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Arrecadação",
+      "Perto de uma autoestrada",
+      "Perto de espaços verdes",
+      "Perto de a praia",
+      "Água canalizada",
+      "Poço",
+      "Sem cadeia de venda",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Vista campo"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 114,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 162,
+  "ano_construcao": 1950,
+  "certificacao_energetica": "E"
 }

@@ -8,8 +8,8 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 100,
-  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-matosinhos-sao-mamede-de-infesta_13_1_1572419_19118969_2_1_q8bNMcG0WN4egmPuKnD7QmdXU8JIrR7%2fWXIAsZvsEd7EB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-matosinhos-sao-mamede-de-infesta_14_1_1572419_19118969_2_1_q8bNMcG0WN4egmPuKnD7QmdXU8JIrR7%2fWXIAsZvsEd7EB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia para recuperar, com jardim, exposição solar Nascente e Poente. Exclusivo ERA.",
   "geo": {
     "lat": 41.2044,
     "lng": -8.614486
@@ -22,10 +22,28 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-em-banda-matosinhos-sao-mamede-de-infesta_13_1_1572419_19118969_2_1_q8bNMcG0WN4egmPuKnD7QmdXU8JIrR7%2fWXIAsZvsEd7EB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-em-banda-matosinhos-sao-mamede-de-infesta_14_1_1572419_19118969_2_1_q8bNMcG0WN4egmPuKnD7QmdXU8JIrR7%2fWXIAsZvsEd7EB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Exposição Solar": [
+      "Nascente, Poente"
+    ],
+    "Zona": [
+      "Acessos: Aeroporto, Auto-Estrada, Bons, Transportes Púb.",
+      "Centralidade: Centro da Cidade",
+      "Proximidade: Bombeiros, Centros Comerciais, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 100,
   "area_bruta_m2": null,
   "ano_construcao": null,

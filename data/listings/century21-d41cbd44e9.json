@@ -9,7 +9,7 @@
   "bathrooms": 5,
   "area_m2": 192,
   "image": "https://images.century21.pt/0c353c2d-2bea-483a-a6b6-f9b236b85af2/SemTitulo-14.png",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 33.084295,
     "lng": -16.3472973
@@ -22,12 +22,25 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/0c353c2d-2bea-483a-a6b6-f9b236b85af2/SemTitulo-14.png"
+    "https://images.century21.pt/0c353c2d-2bea-483a-a6b6-f9b236b85af2/SemTitulo-14.png",
+    "https://images.century21.pt/75c8e088-c7cb-4a73-a685-80f84ead95df/SemTitulo-17.png",
+    "https://images.century21.pt/6dcdab3e-a93d-4105-8922-3b1f2a261633/SemTitulo-12.png",
+    "https://images.century21.pt/7b705419-418f-4eb8-b516-cd0334853a2d/IMG8709.HEIC",
+    "https://images.century21.pt/506aa6ac-4e76-4602-adca-e87fdf929780/IMG8757.HEIC",
+    "https://images.century21.pt/e55db9a7-07a4-4a4f-a156-ee0665c3d3d9/IMG8714.HEIC",
+    "https://images.century21.pt/2798dbef-9cfb-4828-942a-cef9568b5287/SemTitulo-16.png",
+    "https://images.century21.pt/152cd451-d258-41e6-813c-1d57520209fe/IMG8713.HEIC",
+    "https://images.century21.pt/ebd813bb-01f5-4211-9a25-22a3e30e1db8/IMG8715.HEIC",
+    "https://images.century21.pt/decba497-99b4-4ffc-9b9a-6d09ae925a3a/IMG8727.HEIC"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa localização"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 192,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 280,
+  "ano_construcao": 2007,
+  "certificacao_energetica": "E"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 105.2,
   "image": "https://images.century21.pt/81d7d16b-7aa2-4b38-9691-bd501d1b374f/Arruda37.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.989061,
     "lng": -9.092742
@@ -22,12 +22,39 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/81d7d16b-7aa2-4b38-9691-bd501d1b374f/Arruda37.jpg"
+    "https://images.century21.pt/81d7d16b-7aa2-4b38-9691-bd501d1b374f/Arruda37.jpg",
+    "https://images.century21.pt/8105777d-82ec-41ba-a90e-6fff2f494128/Arruda17.jpg",
+    "https://images.century21.pt/c067fa30-2a2d-4b89-b35c-ded75df1e3fa/Arruda40.jpg",
+    "https://images.century21.pt/28b48809-8ebe-4223-bbce-3b33532decc3/Arruda23.jpg",
+    "https://images.century21.pt/9f397d3e-0459-4e3f-86bc-30158a68c306/Arruda27.jpg",
+    "https://images.century21.pt/68b5ea41-1bf8-4457-b8cf-da5bd55d0259/Arruda24.jpg",
+    "https://images.century21.pt/0e18d141-2dc6-4759-8ee6-d100e6fa1688/Arruda25.jpg",
+    "https://images.century21.pt/39093633-9574-4d22-963b-980657966794/Arruda28.jpg",
+    "https://images.century21.pt/2f459b01-14c5-4461-8976-dbe1a604308e/Arruda30.jpg",
+    "https://images.century21.pt/c3e9d730-2cdc-480d-b308-44ce588bb571/Arruda29.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Alpendre",
+      "Arrecadação",
+      "Casa de banho",
+      "Cozinha",
+      "Jardim",
+      "Varanda",
+      "Varandas",
+      "Piscina",
+      "Poço",
+      "Arbustos",
+      "Árvores centenárias",
+      "Árvores de fruto",
+      "Horta",
+      "Vista panorâmica",
+      "Vista campo"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 105.2,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 198,
+  "ano_construcao": 1995,
+  "certificacao_energetica": "D"
 }

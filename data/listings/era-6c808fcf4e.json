@@ -8,8 +8,8 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": 55,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-a2-enxomil_13_1_1565852_19024705_2_1_XGzYrrAqezRBbAZ2IsH1JZD3fB5OyCUI3GFz%2bPeHuYvEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-a2-enxomil_14_1_1565852_19024705_2_1_XGzYrrAqezRBbAZ2IsH1JZD3fB5OyCUI3GFz%2bPeHuYvEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Apartamento T1 em construção com 55 m2 e 9,40 m2 de área de varanda e terraço, localizado no centro de Arcozelo.\nCondomínio fechado, com todos os serviços e acessos à porta.",
   "geo": {
     "lat": 41.06813,
     "lng": -8.638906
@@ -22,12 +22,26 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-a2-enxomil_13_1_1565852_19024705_2_1_XGzYrrAqezRBbAZ2IsH1JZD3fB5OyCUI3GFz%2bPeHuYvEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-a2-enxomil_14_1_1565852_19024705_2_1_XGzYrrAqezRBbAZ2IsH1JZD3fB5OyCUI3GFz%2bPeHuYvEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-a2-enxomil_14_1_1565852_19024706_2_1_BCBTLY%2b1JtpIf8Z9agnPVYueTEVtHogxXa1XqfH30vjEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-a2-enxomil_14_1_1565852_19024707_2_1_8kX7%2f16EOPR5x48QsiSb49Arw5vasSdvmvhPUyPhbzPEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-a2-enxomil_14_1_1565852_19024708_2_1_9o66XWSGNGjZzc7s7qBsTmSYRH%2b%2boQjzGOLsRaCc4lPEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Construção",
+      "Área Bruta: 55"
+    ],
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Exposição Solar": [
+      "Norte"
+    ]
+  },
+  "estado": "Construção",
   "area_util_m2": 55,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 55,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

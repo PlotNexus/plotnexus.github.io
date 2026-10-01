@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 76,
   "image": "https://images.century21.pt/44d36606-0dad-47fe-8102-8d1f3191b4d2/A(2).jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7438846,
     "lng": -9.217615
@@ -22,12 +22,33 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/44d36606-0dad-47fe-8102-8d1f3191b4d2/A(2).jpg"
+    "https://images.century21.pt/44d36606-0dad-47fe-8102-8d1f3191b4d2/A(2).jpg",
+    "https://images.century21.pt/07d8e511-bd5c-41ca-b292-23358ff1ec30/C.jpg",
+    "https://images.century21.pt/58f4481f-243e-4834-beee-f6c49b582f97/D.jpg",
+    "https://images.century21.pt/7722b1b1-a788-456a-b5ae-707f65057eca/A.jpg",
+    "https://images.century21.pt/8332e7da-a0af-42d9-a606-40e3e99a91ce/B.jpg",
+    "https://images.century21.pt/ec1c1ce6-c984-45d9-b9b2-4f49afe42bf2/F.jpg",
+    "https://images.century21.pt/f84592ef-4988-40e5-9378-b24e1241e449/G.jpg",
+    "https://images.century21.pt/e02273a7-24b9-4dbd-9171-7b018f2d1c7f/I.jpg",
+    "https://images.century21.pt/1f93a5a8-825f-4680-8c36-ebc74496631d/K.jpg",
+    "https://images.century21.pt/d6533ceb-3803-4278-b7e0-6c863af24768/J.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Máquina de lavar loiça",
+      "Janelas duplas",
+      "Termoacumulador elétrico",
+      "Exaustor",
+      "Frigorífico",
+      "Fogão de indução",
+      "Forno",
+      "Despensa",
+      "Máquina de lavar roupa"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 76,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 80,
+  "ano_construcao": 1986,
+  "certificacao_energetica": "D"
 }

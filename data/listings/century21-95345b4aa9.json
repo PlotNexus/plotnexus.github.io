@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 157.1,
   "image": "https://images.century21.pt/1754c0da-ca76-4486-a0f3-099558679905/1.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7136017175761,
     "lng": -9.40542342621579
@@ -22,12 +22,56 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/1754c0da-ca76-4486-a0f3-099558679905/1.png"
+    "https://images.century21.pt/1754c0da-ca76-4486-a0f3-099558679905/1.png",
+    "https://images.century21.pt/ae9eb9e7-59ac-408f-aacf-91fbe64b3757/2.png",
+    "https://images.century21.pt/dccf29bc-cd43-4153-8a46-c238ab98d7c4/5.png",
+    "https://images.century21.pt/30f37787-ba71-412a-817f-fcd9b9e57481/4.png",
+    "https://images.century21.pt/2127a07f-f897-4477-ae19-3a2c2355bcb1/3.png",
+    "https://images.century21.pt/fc8fb5bd-df56-44a2-b022-10740c8b01d5/6.png",
+    "https://images.century21.pt/5241b4f7-4417-4210-8b32-506d7354d075/7.png",
+    "https://images.century21.pt/ef930dd6-c4c3-4e85-950e-0d5d685b8a9d/8.png",
+    "https://images.century21.pt/a1fc3b8a-5a18-4cf2-8108-97b3fa6b8c1a/9.png",
+    "https://images.century21.pt/ec51c7c6-a21e-4e66-960e-ba4da3d9e8cd/10.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Alarme",
+      "Varandas",
+      "Quarto",
+      "Aquecimento central",
+      "Máquina de lavar loiça",
+      "Janelas duplas",
+      "Estores elétricos",
+      "Elevador",
+      "Hall de entrada",
+      "Exaustor",
+      "Garagem",
+      "Boa exposição solar",
+      "Boa localização",
+      "Porta de alta segurança",
+      "Sala de estar",
+      "Micro-ondas",
+      "Perto de um banco",
+      "Perto de a praia",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de um infantário",
+      "Perto de uma farmácia",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Perto de um complexo desportivo",
+      "Outra divisão",
+      "Despensa",
+      "Suite",
+      "Vídeo-porteiro",
+      "Máquina de lavar roupa"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 157.1,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 218.67,
+  "ano_construcao": 2006,
+  "certificacao_energetica": "C"
 }

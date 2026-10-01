@@ -9,7 +9,7 @@
   "bathrooms": 5,
   "area_m2": 346,
   "image": "https://images.century21.pt/363510fe-7b4f-4470-8e59-9aa576a5a61c/20240806161248.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.8070178284497,
     "lng": -9.27607105782761
@@ -22,12 +22,57 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/363510fe-7b4f-4470-8e59-9aa576a5a61c/20240806161248.jpg"
+    "https://images.century21.pt/363510fe-7b4f-4470-8e59-9aa576a5a61c/20240806161248.jpg",
+    "https://images.century21.pt/600bc74d-3f8e-4d95-93a1-abea265ba518/20240806160935.jpg",
+    "https://images.century21.pt/917b1e9b-589b-4f0d-941d-b5928fa147d0/18.jpg",
+    "https://images.century21.pt/81448695-1b02-44a5-917c-28372fbc72a4/02-HCD(1).jpg",
+    "https://images.century21.pt/d266d415-3e56-41ad-ac7f-cabfff82c0bd/03-HCD.jpg",
+    "https://images.century21.pt/52dc8c98-bb4e-4e0b-902d-958a112b8fea/04.jpg",
+    "https://images.century21.pt/ab8c31d7-6303-4a7d-9fcf-1a203717f6b2/05.jpg",
+    "https://images.century21.pt/3ea35d52-bc7a-46c1-a97c-a01e38452ef7/06.jpg",
+    "https://images.century21.pt/51b908ad-a441-4712-8480-80da07182abf/16.jpg",
+    "https://images.century21.pt/d34a3bee-daa1-42a4-8f66-1c365e33fac4/14.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Eletrodomésticos",
+      "Varandas",
+      "Arbustos",
+      "Aquecimento central",
+      "Vestiário",
+      "Vista campo",
+      "Primeira linha",
+      "Garagem",
+      "Jardim",
+      "Manutenção de jardim",
+      "Campo de golfe",
+      "Boa exposição solar",
+      "Boa localização",
+      "Ginásio",
+      "Corredor",
+      "Cozinha",
+      "Lavandaria",
+      "Perto de uma zona comercial",
+      "Perto de um campo de golfe",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de um infantário",
+      "Despensa",
+      "Estacionamento",
+      "Parque infantil",
+      "Piscina",
+      "Zona tranquila",
+      "Saneamento",
+      "Serviço de segurança",
+      "Isolamento acústico",
+      "Água canalizada",
+      "Campo de ténis",
+      "Isolamento térmico"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 346,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 570,
+  "ano_construcao": 2007,
+  "certificacao_energetica": "A"
 }

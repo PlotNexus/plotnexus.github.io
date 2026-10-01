@@ -9,10 +9,10 @@
   "bathrooms": 2,
   "area_m2": 200,
   "image": "https://images.century21.pt/629b3aee-0a6d-49c6-b114-74474d7a8a5b/Capturadeecr2026-09-07100939.png",
-  "description": null,
+  "description": "$1f",
   "geo": {
-    "lat": 41.2143849161235,
-    "lng": -8.14095497131348
+    "lat": 38.9779396,
+    "lng": -9.3661441
   },
   "source": {
     "name": "Century 21",
@@ -22,12 +22,45 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/629b3aee-0a6d-49c6-b114-74474d7a8a5b/Capturadeecr2026-09-07100939.png"
+    "https://images.century21.pt/629b3aee-0a6d-49c6-b114-74474d7a8a5b/Capturadeecr2026-09-07100939.png",
+    "https://images.century21.pt/6019c0b2-a2df-4447-bedb-cc44ed0b1063/Capturadeecr2026-09-07100928.png",
+    "https://images.century21.pt/05015cfd-f0cd-43eb-aa55-5dea7d7793bc/Capturadeecr2026-09-07100948.png",
+    "https://images.century21.pt/ad55d0ce-1c8a-47be-a8f1-fec2441374bc/Capturadeecr2026-09-07101016.png",
+    "https://images.century21.pt/1e987e40-eb28-4cff-8a59-dabd1cbe086d/Capturadeecr2026-09-07101006.png",
+    "https://images.century21.pt/aca9f411-bdf7-4c61-81cf-441cd7a0ca7b/Capturadeecr2026-09-07101001.png",
+    "https://images.century21.pt/e54710a9-0e72-493c-9659-4ca6fd46ea46/Capturadeecr2026-09-07101223.png",
+    "https://images.century21.pt/09405989-cd1e-42ff-91ef-e4fccdf0afca/Capturadeecr2026-09-07101212.png",
+    "https://images.century21.pt/00987863-b3b0-4dd3-b7e3-db2dc814b657/Capturadeecr2026-09-07101251.png",
+    "https://images.century21.pt/d1a06e7d-7833-4adb-af1f-3b3b09a551e9/Capturadeecr2026-09-07101228.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Varanda",
+      "Arbustos",
+      "Vista cidade",
+      "Vista campo",
+      "Sala de jantar",
+      "Lareira",
+      "Árvores de fruto",
+      "Jardim",
+      "Boa exposição solar",
+      "Boa localização",
+      "Lavandaria",
+      "Sala de estar",
+      "Perto de uma igreja",
+      "Perto de uma autoestrada",
+      "Perto de uma estação de comboio",
+      "Vista panorâmica",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Terraço",
+      "Piso em azulejo"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 200,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 202,
+  "ano_construcao": 1938,
+  "certificacao_energetica": "D"
 }

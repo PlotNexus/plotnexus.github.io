@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 66,
   "image": "https://images.century21.pt/e50f2118-1684-404b-8ed5-07bf91cade72/DSC0251.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7905906,
     "lng": -9.178618
@@ -22,12 +22,52 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/e50f2118-1684-404b-8ed5-07bf91cade72/DSC0251.jpg"
+    "https://images.century21.pt/e50f2118-1684-404b-8ed5-07bf91cade72/DSC0251.jpg",
+    "https://images.century21.pt/6d6f8aa3-efda-4d35-b433-8a24e051324b/DSC0255.jpg",
+    "https://images.century21.pt/d0441a7a-1b6c-4121-9dee-6575ce2a0501/DSC0254.jpg",
+    "https://images.century21.pt/0fc14be9-e0a0-43fd-a913-ed117eac0e20/DSC0252.jpg",
+    "https://images.century21.pt/cbf62c4a-dc14-4d6a-b6a4-aaddccf7585a/DSC0256.jpg",
+    "https://images.century21.pt/67286a74-ecc9-4241-bf7b-cb419587aae4/DSC0242.jpg",
+    "https://images.century21.pt/a2de0c5f-a369-4fa9-8a74-56d9ce8e4e5b/DSC0245.jpg",
+    "https://images.century21.pt/0de5d60f-ab12-49ac-9b1e-8836c144b6d8/DSC0246.jpg",
+    "https://images.century21.pt/bac8d6fe-9b88-49d2-b653-abbf817eef44/DSC0247.jpg",
+    "https://images.century21.pt/a8019b2e-9885-40ce-8bf3-9cf2183957b4/DSC0235.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Quarto",
+      "Localização central",
+      "Vista cidade",
+      "Sala de jantar",
+      "Elevador",
+      "Boa exposição solar",
+      "Boa localização",
+      "Corredor",
+      "Cozinha",
+      "Lavandaria",
+      "Marquise",
+      "Perto de comodidades",
+      "Perto de um banco",
+      "Perto de uma paragem de autocarro",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de um infantário",
+      "Perto de um mercado",
+      "Perto de o metro",
+      "Perto de uma farmácia",
+      "Perto de um espaço público",
+      "Perto de restaurantes",
+      "Perto de uma praça de táxis",
+      "Zona tranquila"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 66,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 70,
+  "ano_construcao": 1988,
+  "certificacao_energetica": "C"
 }

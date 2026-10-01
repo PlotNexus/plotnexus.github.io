@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 250.5,
   "image": "https://images.century21.pt/e5b17f0a-74bd-4501-aa61-090367803d9c/10.jpeg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 38.7911677295578,
     "lng": -27.3041903972626
@@ -22,12 +22,45 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/e5b17f0a-74bd-4501-aa61-090367803d9c/10.jpeg"
+    "https://images.century21.pt/e5b17f0a-74bd-4501-aa61-090367803d9c/10.jpeg",
+    "https://images.century21.pt/21c01b3f-7013-48a7-af72-ae7f8e8dd9e0/55.jpeg",
+    "https://images.century21.pt/9d17d672-efe2-4aba-b441-718b800df0d2/36.jpeg",
+    "https://images.century21.pt/88c6c44d-160b-45c1-bba7-405f2b734fe5/17.jpeg",
+    "https://images.century21.pt/fb6eab60-0186-4cf6-9169-1f6cd3c64424/59.jpeg",
+    "https://images.century21.pt/bc3b7637-4818-41ce-b603-4f782d2738c9/32.jpeg",
+    "https://images.century21.pt/e8b7c62b-b23b-4033-ad60-e5c13366aeda/28.jpeg",
+    "https://images.century21.pt/c935d138-bd11-4556-b322-e4b86d459c7f/43.jpeg",
+    "https://images.century21.pt/57689915-0c97-4774-a7d2-8749880381af/24.jpeg",
+    "https://images.century21.pt/3bb6ea52-51e4-4df4-9869-31040a36be57/21.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Quarto",
+      "Vista campo",
+      "Janelas duplas",
+      "Garagem",
+      "Jardim",
+      "Boa exposição solar",
+      "Tetos altos",
+      "Cozinha",
+      "Lavandaria",
+      "Sala de estar",
+      "Escritório",
+      "Open space",
+      "Paredes pintadas",
+      "Despensa",
+      "Estacionamento",
+      "Casa de banho privativa",
+      "Zona tranquila",
+      "Vista mar",
+      "Casa de banho de suite",
+      "Quarto em suite"
+    ]
+  },
   "estado": null,
   "area_util_m2": 250.5,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 358.93,
+  "ano_construcao": 2007,
   "certificacao_energetica": null
 }

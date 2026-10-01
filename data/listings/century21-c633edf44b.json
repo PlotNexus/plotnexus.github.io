@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 56,
   "image": "https://images.century21.pt/9d0b3519-3530-432a-9a2f-35b1500521a3/120.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.5299952,
     "lng": -8.9386614
@@ -22,12 +22,32 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/9d0b3519-3530-432a-9a2f-35b1500521a3/120.jpg"
+    "https://images.century21.pt/9d0b3519-3530-432a-9a2f-35b1500521a3/120.jpg",
+    "https://images.century21.pt/31e29e09-89f4-4b77-ab0c-e529b3e53912/105.jpg",
+    "https://images.century21.pt/1ea5ea0e-0a5d-455a-a527-847ba43748b4/101.jpg",
+    "https://images.century21.pt/52614978-591f-4af8-be6b-6a832624291d/102.jpg",
+    "https://images.century21.pt/6b745971-e366-4ad9-b988-f215c61ee534/121.jpg",
+    "https://images.century21.pt/c4608751-cc94-4b8c-8834-65ade2de1634/119.jpg",
+    "https://images.century21.pt/845eede8-e903-4aaf-981b-59368ce4f299/118.jpg",
+    "https://images.century21.pt/1df0de4d-62dd-46e7-8458-e7ce10f2218e/117.jpg",
+    "https://images.century21.pt/4830f6f1-269d-4adb-93fc-d8bacd1d7cc6/116.jpg",
+    "https://images.century21.pt/4509a854-79cf-4dc6-8773-57b33242b291/115.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Alpendre",
+      "Arrecadação",
+      "Cozinha",
+      "Quarto",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 56,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 13800,
+  "ano_construcao": 1970,
   "certificacao_energetica": null
 }

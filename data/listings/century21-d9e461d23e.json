@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 180.08,
   "image": "https://images.century21.pt/e29ac4b1-e04b-4090-906c-110aeba938d4/DJI0042-2(Grande).jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 40.125759,
     "lng": -8.243043
@@ -22,12 +22,38 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/e29ac4b1-e04b-4090-906c-110aeba938d4/DJI0042-2(Grande).jpg"
+    "https://images.century21.pt/e29ac4b1-e04b-4090-906c-110aeba938d4/DJI0042-2(Grande).jpg",
+    "https://images.century21.pt/c13475e7-d795-4333-853e-5603d8c7cf49/DJI0044-2(Grande).jpg",
+    "https://images.century21.pt/b9c0639f-4a03-4395-8a71-2d3cf0c4b6d4/DJI0043-2(Grande).jpg",
+    "https://images.century21.pt/bb381cb9-3f5a-418c-b61f-8aab9c6ea3de/C2104734(Grande).jpg",
+    "https://images.century21.pt/b58f60b3-96fb-441a-9890-ed5e66176987/C2104738(Grande).jpg",
+    "https://images.century21.pt/ae1f30b8-306e-4014-9888-e6f4155ecdd0/DJI0041-2(Grande).jpg",
+    "https://images.century21.pt/d0bd63ab-3584-4046-8733-e412f4cefe08/C2104689-HDR(Grande).jpg",
+    "https://images.century21.pt/09a31460-3fcd-4708-a057-bdfb0e6e6793/C2104695(Grande).jpg",
+    "https://images.century21.pt/3612700c-4627-4582-a455-31e914e16527/C2104693(Grande).jpg",
+    "https://images.century21.pt/5a9126bc-878d-4996-ae2a-186a8f0281d3/C2104730(Grande).jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Varanda",
+      "Churrasqueira",
+      "Casa de banho",
+      "Localização central",
+      "Alpendre",
+      "Jardim",
+      "Boa exposição solar",
+      "Boa localização",
+      "Rés-do-chão",
+      "Cozinha",
+      "Acesso por estrada",
+      "Suite",
+      "Casa de banho de suite"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 180.08,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 300,
+  "ano_construcao": 2006,
+  "certificacao_energetica": "A"
 }

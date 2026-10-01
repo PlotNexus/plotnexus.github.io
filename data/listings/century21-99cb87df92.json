@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 80,
   "image": "https://images.century21.pt/99ac1d82-c685-4c41-94ec-17d987a8f365/SalaA1.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.6534954,
     "lng": -9.1509702
@@ -22,12 +22,27 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/99ac1d82-c685-4c41-94ec-17d987a8f365/SalaA1.jpg"
+    "https://images.century21.pt/99ac1d82-c685-4c41-94ec-17d987a8f365/SalaA1.jpg",
+    "https://images.century21.pt/26690c65-feb9-4465-9529-1cf999fa2791/SalaA2.jpg",
+    "https://images.century21.pt/f933222b-30af-4255-afa3-15a2be68cfed/CozinhaA1.jpg",
+    "https://images.century21.pt/83708936-0c1c-4b0f-a5c7-683350b51574/CozinhaA2.jpg",
+    "https://images.century21.pt/065d700c-0885-4b3c-8ad9-397e5f5249d5/CozinhaA3.jpg",
+    "https://images.century21.pt/b1d34718-8669-491d-87be-bbaff45be5c3/WcA1.jpg",
+    "https://images.century21.pt/eb37223b-b92a-4a2c-ae52-e81c56303704/WcA2copiar.jpg",
+    "https://images.century21.pt/48fc3987-b399-49ff-b05a-1ff2ba8698f5/QuartoA1copiar.jpg",
+    "https://images.century21.pt/ae4daec4-a421-4de0-bd4a-87c223dc7c63/QuartoA2.jpg",
+    "https://images.century21.pt/948dffea-3449-4ec6-95f7-8f8260dca58b/QuartoB1.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Acesso por estrada"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 80,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 88,
+  "ano_construcao": 1982,
   "certificacao_energetica": null
 }

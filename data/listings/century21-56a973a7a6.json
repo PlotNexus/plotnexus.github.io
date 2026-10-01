@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 85.22,
   "image": "https://images.century21.pt/26031ade-f4fe-49e3-80c3-8edbc2cc0259/AptPortimao-13.jpg",
-  "description": null,
+  "description": "Descubra este magnífico apartamento renovado em Portimão, Faro, com uma área generosa de 121,5m². Com um preço atrativo, esta propriedade é ideal para quem procura conforto e modernidade em uma localização privilegiada.\n\nO apartamento dispõe de 3 quartos espaçosos e 2 casas de banho, proporcionando um ambiente perfeito para famílias ou para quem gosta de receber. A entrada é acolhedora, e a marquise oferece um espaço adicional para relaxar e desfrutar da luz natural.\n\nLocalizado em Portimão, este imóvel beneficia de uma excelente localização, perto de serviços, comércio e das belas praias da região. Não perca a oportunidade de viver neste espaço encantador; agende a sua visita hoje mesmo e venha conhecer o seu novo lar!",
   "geo": {
     "lat": 37.131347,
     "lng": -8.538721
@@ -22,12 +22,30 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/26031ade-f4fe-49e3-80c3-8edbc2cc0259/AptPortimao-13.jpg"
+    "https://images.century21.pt/26031ade-f4fe-49e3-80c3-8edbc2cc0259/AptPortimao-13.jpg",
+    "https://images.century21.pt/0883d1c4-66d6-4c82-a78f-830eb39c0e41/AptPortimao-14.jpg",
+    "https://images.century21.pt/b59690f0-311b-4f72-9b77-c38b3aa2a233/AptPortimao-7.jpg",
+    "https://images.century21.pt/870655dc-ea2e-40f2-a01c-57654bd17c6b/AptPortimao-5.jpg",
+    "https://images.century21.pt/bc8bf243-e25d-4e74-abff-edd451d1bd91/AptPortimao-6.jpg",
+    "https://images.century21.pt/7def73cd-7c62-4fec-b732-21d5ec3cfbea/AptPortimao-3.jpg",
+    "https://images.century21.pt/e5f282c8-7639-41d5-85e2-1d38a998cb52/AptPortimao-9.jpg",
+    "https://images.century21.pt/3192d0e2-002f-4c4b-a955-a1e3722e083f/AptPortimao-4.jpg",
+    "https://images.century21.pt/21663e1f-089a-494e-aed3-2e48a1cf7b02/AptPortimao-5.jpg",
+    "https://images.century21.pt/5acdbb21-7180-4bad-8c06-273658291886/AptPortimao-10.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa localização",
+      "Casa de banho",
+      "Hall de entrada",
+      "Marquise",
+      "Quarto",
+      "Elevador"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 85.22,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 121.5,
+  "ano_construcao": 1975,
+  "certificacao_energetica": "C"
 }

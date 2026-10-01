@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 50,
   "image": "https://images.century21.pt/cb3d3fd4-5554-447f-952e-96c305145681/1.jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.3877342,
     "lng": -8.767608
@@ -22,12 +22,38 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/cb3d3fd4-5554-447f-952e-96c305145681/1.jpeg"
+    "https://images.century21.pt/cb3d3fd4-5554-447f-952e-96c305145681/1.jpeg",
+    "https://images.century21.pt/1c54553e-61a1-4bc1-945c-66b9a1637782/9.jpeg",
+    "https://images.century21.pt/3ecadecc-f28a-4681-bf95-061742ef50db/3.jpeg",
+    "https://images.century21.pt/8eb0b912-d8e0-465b-83ac-072357147277/10.jpeg",
+    "https://images.century21.pt/406a16dd-3fad-4083-94b8-3cc192fb5e32/5.jpeg",
+    "https://images.century21.pt/ed1a8c3e-9a5c-4a36-8f3b-3d1cea407f9e/8.jpeg",
+    "https://images.century21.pt/6d9e89ec-00d4-4dc0-a6f5-dd439603a140/4.jpg",
+    "https://images.century21.pt/ee21f30c-8af1-4f29-86b7-e7b117f5e2f1/2.jpeg",
+    "https://images.century21.pt/8651c490-08b0-4a31-b8cf-52190336e76b/11.jpeg",
+    "https://images.century21.pt/9a02b84e-cc77-4409-afe8-e0edf312453a/13.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Vista cidade",
+      "Vista mar",
+      "Estacionamento",
+      "Perto de um banco",
+      "Perto de comodidades",
+      "Perto de uma farmácia",
+      "Perto de restaurantes",
+      "Perto de o centro da cidade",
+      "Perto de a praia",
+      "Perto de uma autoestrada",
+      "Perto de uma bomba de gasolina",
+      "Perto de uma igreja",
+      "Perto de uma zona comercial"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 50,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 69,
+  "ano_construcao": 1995,
+  "certificacao_energetica": "C"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 104,
   "image": "https://images.century21.pt/f13c70bf-5c07-4a5e-ae17-d99acdd51a55/13.jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.0844766,
     "lng": -8.6551759
@@ -22,12 +22,28 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/f13c70bf-5c07-4a5e-ae17-d99acdd51a55/13.jpeg"
+    "https://images.century21.pt/f13c70bf-5c07-4a5e-ae17-d99acdd51a55/13.jpeg",
+    "https://images.century21.pt/cb2055de-bf14-452e-ac25-86356c18fa21/9.jpeg",
+    "https://images.century21.pt/99cf0287-9a15-45d0-bb8f-d84541fe4276/2.jpeg",
+    "https://images.century21.pt/ea4e2457-012c-45ba-aa4b-26fc7177003d/7.jpeg",
+    "https://images.century21.pt/40a27e1d-f56a-432c-bca5-07433658ab0b/8.jpeg",
+    "https://images.century21.pt/42efc8f5-2d9d-4799-b3e0-1107637c448a/5.jpeg",
+    "https://images.century21.pt/f0225d42-8200-412d-9e06-6be6697c2613/6.jpeg",
+    "https://images.century21.pt/c8f783b6-14bb-46c0-811d-6820e63d1d52/4.jpeg",
+    "https://images.century21.pt/7b5aed43-786d-4901-97f9-24062c532457/11.jpeg",
+    "https://images.century21.pt/53c53bf1-97ff-4c99-8f1c-465dad4251fa/12.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Piscina comum",
+      "Elevador",
+      "Primeira linha",
+      "Vista mar"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 104,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 105,
+  "ano_construcao": 2030,
+  "certificacao_energetica": "IN_PROCESS"
 }

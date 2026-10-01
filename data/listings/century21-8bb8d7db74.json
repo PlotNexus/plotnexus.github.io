@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 42,
   "image": "https://images.century21.pt/d8a17113-0e0d-4d05-b420-180ddfd8914d/9.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 39.4669446883827,
     "lng": -9.08062934875488
@@ -22,12 +22,33 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/d8a17113-0e0d-4d05-b420-180ddfd8914d/9.jpg"
+    "https://images.century21.pt/d8a17113-0e0d-4d05-b420-180ddfd8914d/9.jpg",
+    "https://images.century21.pt/69228548-c839-48d1-a4cd-53ccc01b4d54/8.jpg",
+    "https://images.century21.pt/b8232253-5701-4e21-b240-b5b817afe66d/5.jpg",
+    "https://images.century21.pt/1d82ab8c-ab42-4135-82bf-619d2481f631/6.jpg",
+    "https://images.century21.pt/d984d6a9-bddc-485b-9165-bba86b393fd4/7.jpg",
+    "https://images.century21.pt/161f27f9-759c-4077-bc1e-724fb63e7a8f/3.jpg",
+    "https://images.century21.pt/437f8759-41ad-4558-9452-97e30c270530/2.jpg",
+    "https://images.century21.pt/26bb5bcd-bb3c-4b42-bf84-4f4c86a6f04a/4.jpg",
+    "https://images.century21.pt/a4392add-1a37-4ef7-893e-f26e7c1b512b/10.jpg",
+    "https://images.century21.pt/54ac353e-5ae8-461b-a1e4-a9f3a962a1ad/11.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Cave",
+      "Casa de banho",
+      "Cozinha",
+      "Sótão",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Quarto"
+    ]
+  },
   "estado": null,
   "area_util_m2": 42,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 106,
+  "ano_construcao": 1953,
+  "certificacao_energetica": "EXEMPT"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Nogueira, Fraião e Lamaçães, Braga",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 123,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZ2bnFpaXo2bWhzZjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CSL4CRtiEX9g1hQuN5H0505h-JDXFV_ebn-3KAOzrI8/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZ2bnFpaXo2bWhzZjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CSL4CRtiEX9g1hQuN5H0505h-JDXFV_ebn-3KAOzrI8/image;s=2048x1536;q=80",
+  "description": "Apartamento T3 totalmente renovado Lamaçães, BragaViva no topo, com luz, vistas e conforto.Este T3 renovado de raiz em 2026 situa-se no 7.º e último piso de um prédio com dois elevadores e garagem fechada, em plena Lamaçães. Uma localização privilegiada, a poucos minutos de tudo o que precisa no dia a dia: Mercadona, Makro, Leroy Merlin, Lidl, Minho Center, farmácias, bancos, CTT, escolas, ginásios, pastelarias e restaurantes.Inserido numa das zonas mais valorizadas da cidade, o apartamento beneficia de excelente exposição solar e de muita luz natural ao longo do dia. As vistas abertas para o Bom Jesus e o Sameiro completam o cenário.A renovação completa (caixilharia, canalização e instalação elétrica) garante um imóvel moderno, eficiente e pronto a habitar, com o conforto que se espera de uma casa nova.Características principais:• Dois quartos (um deles com roupeiro embutido)• Casa de banho completa com base de chuveiro• Roupeiro embutido• Varanda• ArrumosUm apartamento iluminado, funcional e bem localizado, ideal para quem procura qualidade de vida sem abrir mão da praticidade.Interessado? Contacte-nos para visita.",
+  "geo": {
+    "lat": 41.52658,
+    "lng": -8.417764
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,37 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZ2bnFpaXo2bWhzZjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CSL4CRtiEX9g1hQuN5H0505h-JDXFV_ebn-3KAOzrI8/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZ2bnFpaXo2bWhzZjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CSL4CRtiEX9g1hQuN5H0505h-JDXFV_ebn-3KAOzrI8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im8xemdvdjk1amc2YzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-_p6NbV2D-o7phQaLWNrXWpYbupIgRdP6MY59cUIAUM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVrbWdwMnQ5c3p3MDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qB6TbPlUxepB5s-fqxm4UEDt7ss5FxI1nuBa-B-qJkk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjcydXZjYzlodXBoby1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.j2GtCRHJsvmqLBR1z-RdNTdViDUg_-F2oJXr1YTnR40/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdxZ215c2ZlOHIwbTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.y2AP9RjsGlxw6gl9ss-zP6ApVIiEm_4AazI3-gcHO4o/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJxbzNmbTBiZm94MzEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yZ_F5KVXwMobcO3URr-QBh6oE7DYkjo_isVxV1po2HY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImF5c3A1YXVtNmc4dTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7Kwlu5RsQ5lWiVjUiDnRQhiqroDi0uykf0Fs8hcUw_8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InkweGZvazdsNGJtZjMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qM0EmSfz7E-9RN1gvk7zNMAfzBjDJKjYK1Fi-42btJc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdxcHMzdGhlaDB6bDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.79UVnSXW-0mH3UBHbNUJg8CRiJ7Pf-vbUsL0Lopn0eg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRseWp1ZzMxMm81bzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TQ_HfNB7YiBLKAuN2CIeFplkbP5rlDNtcSvI7COZkbE/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda",
+      "Garagem",
+      "Elevador",
+      "Cozinha independente"
+    ],
+    "Aquecimento": [
+      "Aquecimento urbano"
+    ],
+    "Equipamento": [
+      "Forno"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 123,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 1998,
+  "certificacao_energetica": "D"
 }

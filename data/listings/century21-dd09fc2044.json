@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 55,
   "image": "https://images.century21.pt/de813e18-5698-47af-955e-0d7aad2cb930/T1Corroios(32).jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.6333427,
     "lng": -9.1500097
@@ -22,12 +22,42 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/de813e18-5698-47af-955e-0d7aad2cb930/T1Corroios(32).jpg"
+    "https://images.century21.pt/de813e18-5698-47af-955e-0d7aad2cb930/T1Corroios(32).jpg",
+    "https://images.century21.pt/c96c6a68-709f-442e-88be-c43df11ef26e/T1Corroios(11).jpg",
+    "https://images.century21.pt/00f5c01f-5f28-4d20-907d-d482a2b3d7c7/T1Corroios(17).jpg",
+    "https://images.century21.pt/94ae7364-2116-47cd-8a1d-b23329806623/T1Corroios(5).jpg",
+    "https://images.century21.pt/de4b40bc-505d-4ad4-8f0d-e2f3b8af1ea2/T1Corroios(22).jpg",
+    "https://images.century21.pt/4f5e3879-30f5-45ed-b723-80bc4088ba32/T1Corroios(10).jpg",
+    "https://images.century21.pt/a074bff2-95ad-4f01-8ef2-98592213fdfa/T1Corroios(12).jpg",
+    "https://images.century21.pt/d6a1ba4b-982a-4621-b3bf-fcf19af16382/T1Corroios(15).jpg",
+    "https://images.century21.pt/174f8119-cd44-4de4-8f0b-3c9be520b657/T1Corroios(16).jpg",
+    "https://images.century21.pt/608e3c54-4474-417c-8e2a-7b8fcc468c11/T1Corroios(14).jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Vista campo",
+      "Elevador",
+      "Perto de comodidades",
+      "Perto de um banco",
+      "Perto de uma paragem de autocarro",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de um infantário",
+      "Perto de um mercado",
+      "Perto de o metro",
+      "Perto de uma farmácia",
+      "Perto de um espaço público",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Vista panorâmica"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 55,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 56,
+  "ano_construcao": 1996,
+  "certificacao_energetica": "C"
 }

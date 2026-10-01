@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 66.1,
   "image": "https://images.century21.pt/cec47edb-41f7-47b9-b61e-3c9dc480851e/DSC07299.JPG",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6253356,
     "lng": -9.2041139
@@ -22,12 +22,34 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/cec47edb-41f7-47b9-b61e-3c9dc480851e/DSC07299.JPG"
+    "https://images.century21.pt/cec47edb-41f7-47b9-b61e-3c9dc480851e/DSC07299.JPG",
+    "https://images.century21.pt/0666e91c-9ff5-4235-88de-034036c423b8/DSC07264.JPG",
+    "https://images.century21.pt/b15f151f-f91a-44b8-bc95-7d9593a0c77e/DSC07292.JPG",
+    "https://images.century21.pt/aa3c10af-f28f-49a3-b0aa-6923e689ae80/DSC07289.JPG",
+    "https://images.century21.pt/fe1e1778-76b5-4878-a91c-a584c391a53c/DSC07293.JPG",
+    "https://images.century21.pt/918d3695-d1f3-4eda-a43f-aae754c2ad6b/DSC07287.JPG",
+    "https://images.century21.pt/21a225e8-9276-44c1-a0fd-e1b4bebd0994/DSC07297.JPG",
+    "https://images.century21.pt/7a175bf9-d26b-4834-8f7d-566926b2867d/DSC07269.JPG",
+    "https://images.century21.pt/499e325b-d0cf-4feb-9317-3eede445d8df/1.jpg",
+    "https://images.century21.pt/b2813b20-20d7-4e54-bbc2-70e48a3693a1/2.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Quarto",
+      "Piso flutuante",
+      "Garagem",
+      "Boa exposição solar",
+      "Corredor",
+      "Kitchenette",
+      "Luxo",
+      "Paredes pintadas",
+      "Acesso por estrada"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 66.1,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 77.4,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A"
 }

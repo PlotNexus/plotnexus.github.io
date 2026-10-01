@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 105,
   "image": "https://images.century21.pt/ca1ddaad-9be0-4064-b894-27a74f27ef00/334A4030.jpg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 38.7858913,
     "lng": -9.1710576
@@ -22,12 +22,51 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/ca1ddaad-9be0-4064-b894-27a74f27ef00/334A4030.jpg"
+    "https://images.century21.pt/ca1ddaad-9be0-4064-b894-27a74f27ef00/334A4030.jpg",
+    "https://images.century21.pt/b4679e0d-6dca-41d7-accf-695db22bc305/334A4026-2.jpg",
+    "https://images.century21.pt/14d493f1-0c0c-43ab-b40e-c0f4a614be10/334A4029.jpg",
+    "https://images.century21.pt/b5b567e3-e1d6-476d-9218-d8934679bc73/334A4024.jpg",
+    "https://images.century21.pt/fe42e794-6ab6-426b-ab2b-fe20d70b86bc/334A4011-2.jpg",
+    "https://images.century21.pt/7c945700-50d2-4bd7-ad69-a2b8ed85f59a/334A4015.jpg",
+    "https://images.century21.pt/41356ee6-bfaf-4556-b26a-405064dd5f90/334A4034-2.jpg",
+    "https://images.century21.pt/bfbf6974-2fab-4689-aef3-cad71f53cbcb/334A4037.jpg",
+    "https://images.century21.pt/b24a5e2c-d87a-4221-937c-434adb26fa0f/334A4038.jpg",
+    "https://images.century21.pt/8c9a12d4-1e59-4d1e-9d50-76dddfbd5e3d/334A4039-2.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Arrecadação",
+      "Casa de banho",
+      "Cozinha",
+      "Despensa",
+      "Corredor",
+      "Marquise",
+      "Sala de estar",
+      "Eletrodomésticos",
+      "Fogão",
+      "Frigorífico",
+      "Máquina de lavar loiça",
+      "Máquina de lavar roupa",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Localização central",
+      "Vista cidade",
+      "Água canalizada",
+      "Eletricidade",
+      "Gás",
+      "Perto de uma autoestrada",
+      "Perto de uma bomba de gasolina",
+      "Perto de comodidades",
+      "Perto de uma paragem de autocarro",
+      "Perto de um espaço público",
+      "Perto de o metro",
+      "Perto de restaurantes"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 105,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 106.8,
+  "ano_construcao": 1967,
+  "certificacao_energetica": "E"
 }

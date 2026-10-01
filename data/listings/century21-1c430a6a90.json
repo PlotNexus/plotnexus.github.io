@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 78,
   "image": "https://images.century21.pt/976f48db-dec5-45b4-afed-1d0dd6efb8a8/875f2194-d50e-41cb-a5bd-ca31f47b16cf.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 37.7380129,
     "lng": -25.6792521
@@ -22,12 +22,40 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/976f48db-dec5-45b4-afed-1d0dd6efb8a8/875f2194-d50e-41cb-a5bd-ca31f47b16cf.jpg"
+    "https://images.century21.pt/976f48db-dec5-45b4-afed-1d0dd6efb8a8/875f2194-d50e-41cb-a5bd-ca31f47b16cf.jpg",
+    "https://images.century21.pt/a4226d6d-a7aa-4028-872e-8f0742d1902d/19cc71e5-53da-4eee-b6f8-0a92b2f5b05e.jpg",
+    "https://images.century21.pt/48b492f8-e054-49fd-a192-256ddba8592c/601c5b73-79d9-427b-8d95-5c5b4811af47.jpg",
+    "https://images.century21.pt/083817ae-e0b2-4c08-9c63-80fec1f3604f/9e1cf664-9caa-4e8d-b849-a4d76de28b99.jpg",
+    "https://images.century21.pt/1acda769-62be-4020-acaa-bf48594de448/444d7277-272d-49eb-8cb4-b96654d854e7.jpg",
+    "https://images.century21.pt/ae430a41-ccaf-4dd8-9117-63408afcce98/7fb84397-5b33-4c87-801a-9b73b746260e.jpg",
+    "https://images.century21.pt/f5a2e440-c508-485e-aa30-d5e62f691f02/e76b64d1-773b-4829-a481-fd4deb916b0c.jpg",
+    "https://images.century21.pt/3f5b842d-95ba-446d-a43e-82b5cac6290d/ea60a91a-936c-4340-9935-d51123e2b16c.jpg",
+    "https://images.century21.pt/0962af30-c0ef-4113-8e2b-df0e15a0ddaf/4a6f5958-9d07-42f3-94d3-5c6ab34088e4.jpg",
+    "https://images.century21.pt/98624f1c-7697-4e11-99e3-9e07d24424cb/9432d56b-6130-4b32-b171-d5ec5dabf038.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Sótão",
+      "Casa de banho",
+      "Localização central",
+      "Boa localização",
+      "Corredor",
+      "Cozinha",
+      "Perto de um banco",
+      "Perto de uma paragem de autocarro",
+      "Perto de o centro da cidade",
+      "Perto de uma bomba de gasolina",
+      "Perto de uma autoestrada",
+      "Perto de uma zona histórica",
+      "Perto de um infantário",
+      "Perto de um espaço público",
+      "Perto de restaurantes",
+      "Open space"
+    ]
+  },
   "estado": null,
   "area_util_m2": 78,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 87,
+  "ano_construcao": 1937,
+  "certificacao_energetica": "IN_PROCESS"
 }

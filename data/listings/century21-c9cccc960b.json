@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 159,
   "image": "https://images.century21.pt/1380e9f8-2ebc-4f40-9044-8b063d2e848c/IMG1348.jpeg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 38.8388679,
     "lng": -9.158068
@@ -22,12 +22,50 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/1380e9f8-2ebc-4f40-9044-8b063d2e848c/IMG1348.jpeg"
+    "https://images.century21.pt/1380e9f8-2ebc-4f40-9044-8b063d2e848c/IMG1348.jpeg",
+    "https://images.century21.pt/2285619a-73c3-43d0-b73b-630981305e0d/IMG1341.jpeg",
+    "https://images.century21.pt/528af3b9-8859-4410-88a1-6844c99bfa0a/IMG1338.jpeg",
+    "https://images.century21.pt/dc378c0f-0006-4472-8425-4c54ed313428/IMG1317.jpeg",
+    "https://images.century21.pt/f7d3d26d-e82d-4157-a00d-5f804cc503b0/IMG1352.jpeg",
+    "https://images.century21.pt/43f857a4-d24d-4a60-a1f0-35d71da007dc/IMG1327.jpeg",
+    "https://images.century21.pt/e97cebf5-8836-4278-9ae3-db8063e7cc9d/IMG1321.jpeg",
+    "https://images.century21.pt/979a494d-1cd1-4391-8c06-2d1ff74d1637/IMG1354.jpeg",
+    "https://images.century21.pt/06757624-4af5-4295-bf44-b36ad90a8deb/IMG1353.jpeg",
+    "https://images.century21.pt/9cfaf088-c988-4256-a7bb-33372f696a52/IMG1350.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Varandas",
+      "Corredor",
+      "Máquina de lavar loiça",
+      "Portão elétrico",
+      "Elevador",
+      "Garagem",
+      "Boa exposição solar",
+      "Boa localização",
+      "Fogão de indução",
+      "Perto de comodidades",
+      "Perto de um banco",
+      "Perto de uma zona comercial",
+      "Perto de uma bomba de gasolina",
+      "Perto de uma autoestrada",
+      "Perto de um infantário",
+      "Perto de uma farmácia",
+      "Perto de restaurantes",
+      "Vista panorâmica",
+      "Acesso por estrada",
+      "Saneamento",
+      "Quarto em suite",
+      "Água canalizada",
+      "Vídeo-porteiro",
+      "Máquina de lavar roupa"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 159,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 192,
+  "ano_construcao": 2009,
+  "certificacao_energetica": "C"
 }

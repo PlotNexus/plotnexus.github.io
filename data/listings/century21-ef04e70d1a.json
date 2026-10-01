@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 0,
   "image": "https://images.century21.pt/3acd9e32-c976-44ce-bb66-63bc04476410/MG5560limitao-2.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 37.8245996,
     "lng": -25.5215702
@@ -22,12 +22,53 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/3acd9e32-c976-44ce-bb66-63bc04476410/MG5560limitao-2.jpg"
+    "https://images.century21.pt/3acd9e32-c976-44ce-bb66-63bc04476410/MG5560limitao-2.jpg",
+    "https://images.century21.pt/ee0e2cfb-9ccf-4a73-ac24-16bbada1332e/djifly2025112416014201681764061559218photo.jpg",
+    "https://images.century21.pt/1a22ac95-e71d-4ee4-82db-28d91a29a5e7/MG5400.jpg",
+    "https://images.century21.pt/5f11310d-e132-4d0e-b5d6-3f51c00e9935/MG5395.jpg",
+    "https://images.century21.pt/712a0d7c-e06f-4814-b990-af96e93d80df/MG5415.jpg",
+    "https://images.century21.pt/971a177a-de3a-4e62-ad0d-56bb3f7ba86b/MG5411.jpg",
+    "https://images.century21.pt/2cb7d7fd-a148-4e1e-9681-c76724b5090c/MG5421.jpg",
+    "https://images.century21.pt/6a231001-aba2-4f51-b3b2-ef71495de078/MG5433.jpg",
+    "https://images.century21.pt/c41ff73a-542c-4e6c-93f9-a4b9353db386/MG5440.jpg",
+    "https://images.century21.pt/c0844975-057a-41ff-bcd4-e6d6ad1eb96f/MG5454-2.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Acesso por estrada",
+      "Rés-do-chão",
+      "Terraço",
+      "Piso em azulejo",
+      "Piso flutuante",
+      "Vista mar",
+      "Vista praia",
+      "Perto de uma autoestrada",
+      "Perto de um banco",
+      "Perto de uma bomba de gasolina",
+      "Perto de comodidades",
+      "Perto de um complexo desportivo",
+      "Perto de espaços verdes",
+      "Perto de a polícia",
+      "Perto de uma farmácia",
+      "Perto de uma igreja",
+      "Perto de um infantário",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de uma praça de táxis",
+      "Perto de a praia",
+      "Perto de um quartel de bombeiros",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de uma zona histórica",
+      "Perto de o centro da cidade",
+      "Perto de uma paragem de autocarro",
+      "Vista cidade",
+      "Perto de o metro"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 0,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 80,
+  "ano_construcao": 1937,
+  "certificacao_energetica": "NOT_INDICATED"
 }

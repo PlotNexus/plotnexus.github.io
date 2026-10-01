@@ -8,8 +8,8 @@
   "bedrooms": 4,
   "bathrooms": null,
   "area_m2": 536,
-  "image": "https://mediaredir2.era.pt/i/moradia-isolada-t4-baiao-ancede-e-ribadouro_13_1_1444546_17698862_2_1_s5qv4BUwvPEthsHloF5vE5TwWfoaC2OHkVkTNqhAlhHEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-isolada-t4-baiao-ancede-e-ribadouro_14_1_1444546_17698862_2_1_s5qv4BUwvPEthsHloF5vE5TwWfoaC2OHkVkTNqhAlhHEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia sita em Ancede. \nPrédio em propriedade total com andares ou divisões suscetíveis de utilização independente.\nImóvel para restauro.",
   "geo": {
     "lat": 41.10257,
     "lng": -8.05722
@@ -22,12 +22,17 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-isolada-t4-baiao-ancede-e-ribadouro_13_1_1444546_17698862_2_1_s5qv4BUwvPEthsHloF5vE5TwWfoaC2OHkVkTNqhAlhHEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-isolada-t4-baiao-ancede-e-ribadouro_14_1_1444546_17698862_2_1_s5qv4BUwvPEthsHloF5vE5TwWfoaC2OHkVkTNqhAlhHEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Novo",
+      "Área Bruta: 536"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 536,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 536,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

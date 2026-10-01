@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 0,
   "image": "https://images.century21.pt/9b669278-9f01-42b5-99c2-f1ce5044e577/DSC06824.JPG",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 37.8069169,
     "lng": -25.1393898
@@ -22,12 +22,35 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/9b669278-9f01-42b5-99c2-f1ce5044e577/DSC06824.JPG"
+    "https://images.century21.pt/9b669278-9f01-42b5-99c2-f1ce5044e577/DSC06824.JPG",
+    "https://images.century21.pt/917689a2-86d0-4df6-9890-69c7bfc29aaf/DJI0625.JPG",
+    "https://images.century21.pt/02613ec5-e375-44af-a076-721e3ee8d5be/DJI0627.JPG",
+    "https://images.century21.pt/88ba5767-0c82-46f2-9e5d-9ff1a0ce630a/DJI0621.JPG",
+    "https://images.century21.pt/af187fe3-a57f-4eab-89c2-19bbb1d40428/DSC06671-HDR.JPG",
+    "https://images.century21.pt/a7b26582-75d6-434f-a72e-2323d342fba2/DSC06684.JPG",
+    "https://images.century21.pt/bc30a7ff-15e6-4c3f-800e-5351f356653e/DSC06679-HDR.JPG",
+    "https://images.century21.pt/ced95192-9d27-4d24-97c9-b5e44fe846e4/DSC06673-HDR.JPG",
+    "https://images.century21.pt/2a00b888-8140-4614-a8f8-656668a4e2de/DSC06685-HDR.JPG",
+    "https://images.century21.pt/3d1ddea2-cd02-4bbd-a71d-fc4b9743cb7f/DSC06667.JPG"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Sem cadeia de venda",
+      "Boa exposição solar",
+      "Boa localização",
+      "Rés-do-chão",
+      "Kitchenette",
+      "Perto de uma igreja",
+      "Perto de espaços verdes",
+      "Perto de um mercado",
+      "Zona tranquila",
+      "Vista mar"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 0,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 48.96,
+  "ano_construcao": 1975,
+  "certificacao_energetica": "D"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 73.28,
   "image": "https://images.century21.pt/ff0fc90b-cbbc-418e-8a1c-4690f29a3057/33d29343-abb3-45c8-b0f9-5168cf9c61ad.JPG",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 41.1655842,
     "lng": -8.549453
@@ -22,12 +22,27 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/ff0fc90b-cbbc-418e-8a1c-4690f29a3057/33d29343-abb3-45c8-b0f9-5168cf9c61ad.JPG"
+    "https://images.century21.pt/ff0fc90b-cbbc-418e-8a1c-4690f29a3057/33d29343-abb3-45c8-b0f9-5168cf9c61ad.JPG",
+    "https://images.century21.pt/fee670bc-4ba7-4edd-8d2a-7f981464c2ec/6cbfa3b7-10df-461b-97e7-8ea0ce69b028.JPG",
+    "https://images.century21.pt/03d4f2b4-9bec-42f2-b40d-706022c31df2/AFMONOFOLHASOV030925JS-1page-0004.jpg",
+    "https://images.century21.pt/a1be11d9-06fa-4271-98af-7921793745cd/AFMONOFOLHASOV030925JS-1page-0003.jpg",
+    "https://images.century21.pt/e1da74cb-81cd-4764-81cb-9621df59c13e/AFMONOFOLHASOV030925JS-1page-0002.jpg",
+    "https://images.century21.pt/897a02b3-df66-4ca1-92e8-824e8bad427d/AFMONOFOLHASOV030925JS-1page-0005.jpg",
+    "https://images.century21.pt/3fbd58c3-f4a8-410f-8ff5-9f73383241c6/AFMONOFOLHASOV030925JS-1page-0001.jpg",
+    "https://images.century21.pt/4838eb95-8ace-4545-b76b-04970815aea4/AFMONOFOLHASOV030925JSEXTpage-0001.jpg",
+    "https://images.century21.pt/0918f536-1985-4684-98f5-d27e3965bc9d/AFMONOFOLHASOV030925JSEXTpage-0002.jpg",
+    "https://images.century21.pt/299406ab-f5e1-4f8b-a6a8-12dbe01676a9/AFMONOFOLHASOV030925JSEXTpage-0003.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Estacionamento",
+      "Piscina",
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 73.28,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 77.38,
+  "ano_construcao": 2028,
+  "certificacao_energetica": "NOT_INDICATED"
 }

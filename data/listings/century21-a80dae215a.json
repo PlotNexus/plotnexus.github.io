@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 220.9,
   "image": "https://images.century21.pt/661d77e4-8d7c-4e79-9786-9f4516d90855/IMG0452-HDR.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 37.0988903,
     "lng": -8.6814093
@@ -22,12 +22,38 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/661d77e4-8d7c-4e79-9786-9f4516d90855/IMG0452-HDR.jpg"
+    "https://images.century21.pt/661d77e4-8d7c-4e79-9786-9f4516d90855/IMG0452-HDR.jpg",
+    "https://images.century21.pt/1e43775b-03e6-44f8-9d95-aab53a6f2ad8/IMG0335-HDR.jpg",
+    "https://images.century21.pt/13a95d82-eae8-414a-b09a-48ebee4d631a/IMG0326-HDR.jpg",
+    "https://images.century21.pt/4931cae1-8150-480f-9fb0-461043a8e508/IMG0317-HDR.jpg",
+    "https://images.century21.pt/fc4353c0-f684-48af-b2bb-7aa2f36e9e39/IMG0386-HDR.jpg",
+    "https://images.century21.pt/cf407228-45fd-428d-965b-931a306e4533/IMG0365-HDR.jpg",
+    "https://images.century21.pt/8adc5932-4396-4790-92be-a81193794abf/IMG0374-HDR.jpg",
+    "https://images.century21.pt/8505b667-6f50-4bf0-b4d6-53870c517b0d/IMG0347-HDR.jpg",
+    "https://images.century21.pt/5f4dcddf-399e-438e-84be-2b2cfa564674/IMG0353-HDR.jpg",
+    "https://images.century21.pt/013e9d5f-37c3-4a89-a0ee-d23dd0a81ba3/IMG0359-HDR.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Quarto",
+      "Sem cadeia de venda",
+      "Garagem",
+      "Corredor",
+      "Aquecedor",
+      "Cozinha",
+      "Kitchenette",
+      "Sala de estar",
+      "Outro",
+      "Outra divisão",
+      "Casa de banho privativa",
+      "Casa de banho de suite",
+      "Quarto em suite"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 220.9,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 309,
+  "ano_construcao": 2002,
+  "certificacao_energetica": "E"
 }

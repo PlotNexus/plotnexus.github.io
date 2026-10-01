@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": null,
   "image": "https://images.century21.pt/c2baa776-b3ea-4a03-9f87-dcda1113d5d2/19c1da67-e6a1-4ee6-9992-8d4bfa69bac62.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 32.6621119682531,
     "lng": -16.9432890415192
@@ -22,12 +22,47 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/c2baa776-b3ea-4a03-9f87-dcda1113d5d2/19c1da67-e6a1-4ee6-9992-8d4bfa69bac62.jpg"
+    "https://images.century21.pt/c2baa776-b3ea-4a03-9f87-dcda1113d5d2/19c1da67-e6a1-4ee6-9992-8d4bfa69bac62.jpg",
+    "https://images.century21.pt/19e28706-84d6-4b25-a401-ebe18d60eef1/d5793a3f-c90f-4497-bab4-cdb9dffb24362.jpg",
+    "https://images.century21.pt/b5c1d1b9-5af7-4395-a1c4-f491d377ce5c/8c58da73-c58b-4478-afe6-c63a0362594f2.jpg",
+    "https://images.century21.pt/e2ea694e-72d7-49b7-b84c-6f0929fc9d20/d425f786-607a-46f5-b164-2b306d2ecf6c2.jpg",
+    "https://images.century21.pt/89510705-9045-4a94-8f30-0a986328d703/4a8a2761-a64a-4d5f-bc2d-a3d4124671822.jpg",
+    "https://images.century21.pt/244ee592-fabe-4b39-ab36-0f0b806adb98/ef4130a4-51d3-4bcf-a0ae-65639d2445be2.jpg",
+    "https://images.century21.pt/51b7fa6e-e216-4fce-b09e-98520be3fcaa/0147c4e4-46d2-4161-8f3e-b0a29fcf450d2.jpg",
+    "https://images.century21.pt/0a391328-3c04-4696-a618-5f2c51c1f9f7/c532716a-8d22-4317-bda2-4b683e11c7922.jpg",
+    "https://images.century21.pt/34af1f99-9deb-4791-aea4-94df2ec1b4fa/b2c34fec-f768-4427-ac62-ed48ad51b6b22.jpg",
+    "https://images.century21.pt/d86c96f8-ebbe-4370-8f6b-cb175b0ef867/14097ea0-e40f-4a0e-bd7b-ce26d8fee1192.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Varandas",
+      "Varanda",
+      "Casa de banho",
+      "Quarto",
+      "Hall de quartos",
+      "Sala de jantar",
+      "Máquina de lavar loiça",
+      "Estores elétricos",
+      "Elevador",
+      "Frigorífico",
+      "Garagem",
+      "Cozinha",
+      "Lavandaria",
+      "Micro-ondas",
+      "Forno",
+      "Casa de banho privativa",
+      "Casa de banho partilhada",
+      "Arrecadação",
+      "Fogão",
+      "Suite",
+      "Casa de banho de suite",
+      "Vídeo-porteiro"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

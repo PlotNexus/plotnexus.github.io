@@ -6,10 +6,10 @@
   "currency": "EUR",
   "location": "Largo Conde Ottolini, Lisbon, Portugal",
   "bedrooms": 3,
-  "bathrooms": 2,
+  "bathrooms": 1,
   "area_m2": 80.2,
   "image": "https://images.century21.pt/b85c16e2-1a1b-4ab3-8469-648bd7d8fca8/DJI202608061246300020D.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7430246,
     "lng": -9.1782715
@@ -22,12 +22,54 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/b85c16e2-1a1b-4ab3-8469-648bd7d8fca8/DJI202608061246300020D.jpg"
+    "https://images.century21.pt/b85c16e2-1a1b-4ab3-8469-648bd7d8fca8/DJI202608061246300020D.jpg",
+    "https://images.century21.pt/0df1e0a6-5cd5-4e33-82ad-dc0381b47a3c/DJI202608061248470022D.jpg",
+    "https://images.century21.pt/559d0b89-7331-43dc-a145-10d195f40599/RS606436.jpg",
+    "https://images.century21.pt/b0217e04-3e85-45c2-b987-719d66264dea/RS606423.jpg",
+    "https://images.century21.pt/3b6c75fb-75e1-4087-b836-48e72007751e/RS606464.jpg",
+    "https://images.century21.pt/8b60506f-9c6a-429b-b801-0a13b06e07a9/RS606440.jpg",
+    "https://images.century21.pt/ce237a39-47c8-4073-854d-7dd5c63e1b1c/RS606427.jpg",
+    "https://images.century21.pt/00b5f81e-db54-4a7c-8d6d-599c88f30132/RS606415.jpg",
+    "https://images.century21.pt/0b0a943c-6697-4177-8a6c-1cfdc71a7687/RS606413.jpg",
+    "https://images.century21.pt/368f4027-b9f7-4eb3-85ba-6fb555c92273/RS606412.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Eletrodomésticos",
+      "Varanda",
+      "Casa de banho",
+      "Quarto",
+      "Vista cidade",
+      "Sala de jantar",
+      "Eletricidade",
+      "Boa exposição solar",
+      "Boa localização",
+      "Porta de alta segurança",
+      "Cozinha",
+      "Perto de comodidades",
+      "Perto de um banco",
+      "Perto de uma paragem de autocarro",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de um infantário",
+      "Perto de um mercado",
+      "Perto de o metro",
+      "Perto de uma farmácia",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Gás canalizado",
+      "Zona tranquila",
+      "Soalho à portuguesa",
+      "Piso em azulejo",
+      "Caixilharia"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 80.2,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 95,
+  "ano_construcao": 1986,
+  "certificacao_energetica": "E"
 }

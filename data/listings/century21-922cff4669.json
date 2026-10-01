@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 140,
   "image": "https://images.century21.pt/397b438d-57aa-4537-81c6-0762f88ba891/DSC6449.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.6967729876241,
     "lng": -9.3678295509531
@@ -22,12 +22,50 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/397b438d-57aa-4537-81c6-0762f88ba891/DSC6449.jpg"
+    "https://images.century21.pt/397b438d-57aa-4537-81c6-0762f88ba891/DSC6449.jpg",
+    "https://images.century21.pt/46db3db1-763c-464c-9410-47155c27d6de/DSC6431.jpg",
+    "https://images.century21.pt/a38592fd-0978-497a-8984-b0b7d3b22a9b/DSC6455-Cpia.jpg",
+    "https://images.century21.pt/129f03f4-9a37-4458-9c97-36afbc9dd372/DSC6466.jpg",
+    "https://images.century21.pt/9d64ae2c-2888-4917-a652-a9e41d4030f9/DSC6437.jpg",
+    "https://images.century21.pt/422fee56-08c4-4e36-b632-3c2d41cf56e6/DSC6462.jpg",
+    "https://images.century21.pt/07dd9b93-0e4f-4803-9ddf-423b6b1a6faa/DSC6417.jpg",
+    "https://images.century21.pt/0e7ca29e-bca3-4b14-89cc-cfae0e5d7239/DSC6515.jpg",
+    "https://images.century21.pt/7be9519d-296c-405e-97ac-92fdb509cba1/DSC6523.jpg",
+    "https://images.century21.pt/95eebc7b-36e7-4ec8-8515-fab386547767/DSC6525.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Quarto",
+      "Hall de quartos",
+      "Elevador",
+      "Boa exposição solar",
+      "Boa localização",
+      "Corredor",
+      "Perto de um banco",
+      "Perto de a praia",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de um infantário",
+      "Perto de uma farmácia",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Outra divisão",
+      "Gás canalizado",
+      "Quarto em suite",
+      "Terraço",
+      "Despensa",
+      "Jardim",
+      "Arrecadação",
+      "Casa de banho privativa",
+      "Casa de banho de suite"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 140,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 205,
+  "ano_construcao": 2001,
+  "certificacao_energetica": "C"
 }

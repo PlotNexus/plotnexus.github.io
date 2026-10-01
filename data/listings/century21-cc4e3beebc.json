@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 45.7,
   "image": "https://images.century21.pt/78b1da53-f8eb-4341-b5f8-e26927e0e70d/DESFOCADO-1.jpg",
-  "description": null,
+  "description": "$24",
   "geo": {
     "lat": 37.0934781,
     "lng": -8.2600718
@@ -22,12 +22,30 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/78b1da53-f8eb-4341-b5f8-e26927e0e70d/DESFOCADO-1.jpg"
+    "https://images.century21.pt/78b1da53-f8eb-4341-b5f8-e26927e0e70d/DESFOCADO-1.jpg",
+    "https://images.century21.pt/0bb9a2a1-63c8-4848-9e93-8974fc3e249e/DESFOCADO-2.jpg",
+    "https://images.century21.pt/678bcdd5-5445-46fb-a166-bf9cbe35cd8f/DESFOCADO-8.jpg",
+    "https://images.century21.pt/7013f229-6a9f-493b-9b4b-629c6a2259c7/DESFOCADO-3.jpg",
+    "https://images.century21.pt/e3392388-bce5-497c-bed8-423abd563941/DESFOCADO-7.jpg",
+    "https://images.century21.pt/197b6aa1-f38e-458f-a7b9-a7adf3032c33/DESFOCADO-5.jpg",
+    "https://images.century21.pt/14d9bb4a-8c1c-4d93-9ad8-e68b9ecac3b7/DESFOCADO-6.jpg",
+    "https://images.century21.pt/eee585c3-6356-44a7-828e-12243146863d/DESFOCADO-9.jpg",
+    "https://images.century21.pt/695e6a37-f241-4f3a-9a9c-0632b7e03026/DESFOCADO-10.jpg",
+    "https://images.century21.pt/ac2f020e-a5f1-4ece-a58d-8af2136ad373/DESFOCADO-14.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Campo de ténis",
+      "Piscina comum",
+      "Sem cadeia de venda",
+      "Bar",
+      "Jardim",
+      "Terraço"
+    ]
+  },
   "estado": null,
   "area_util_m2": 45.7,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 61,
+  "ano_construcao": 2003,
+  "certificacao_energetica": "D"
 }

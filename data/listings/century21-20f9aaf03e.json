@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 137,
   "image": "https://images.century21.pt/87025b93-ceb6-46c9-ab81-f27b8ac5fab7/Piscina3.heic",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 37.0732231,
     "lng": -7.8344415
@@ -22,12 +22,42 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/87025b93-ceb6-46c9-ab81-f27b8ac5fab7/Piscina3.heic"
+    "https://images.century21.pt/87025b93-ceb6-46c9-ab81-f27b8ac5fab7/Piscina3.heic",
+    "https://images.century21.pt/784de57d-0a61-40e8-8cbd-42b503ecaa44/Sala2.jpg",
+    "https://images.century21.pt/09a6ceae-c368-4377-8f68-61823c2e90c5/Sala.jpg",
+    "https://images.century21.pt/5b2c70b0-0de0-4599-ab17-d6cff78ecd44/Sala1.jpg",
+    "https://images.century21.pt/48bdf1c9-e2e9-4b61-a454-3d7b7ecce80d/Cozinha1.jpg",
+    "https://images.century21.pt/51c9b6f8-24dc-4b64-bef7-6bddacadfefb/Cozinha.jpg",
+    "https://images.century21.pt/79f37364-5ddd-4413-809a-5e3a497c2e85/CasabanhodeCima.jpg",
+    "https://images.century21.pt/2d51a75a-fed0-46f8-a09c-9f2c91e1a5a7/CasadebanhoembaixoAA.jpg",
+    "https://images.century21.pt/9b8581ac-6eac-4db9-8e44-b7ea90600a48/CasadeBanhoemBaixoA.jpg",
+    "https://images.century21.pt/82ddeb74-0ace-4e7c-af84-b61e3500a5f7/QuartoAA.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Varandas",
+      "Vista campo",
+      "Janelas duplas",
+      "Elevador",
+      "Garagem",
+      "Boa exposição solar",
+      "Boa localização",
+      "Tetos altos",
+      "Acesso para cargas e descargas",
+      "Perto de o centro da cidade",
+      "Vista panorâmica",
+      "Piscina",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Quarto em suite",
+      "Água canalizada",
+      "Vídeo-porteiro"
+    ]
+  },
   "estado": null,
   "area_util_m2": 137,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 138,
+  "ano_construcao": 2008,
+  "certificacao_energetica": "B-"
 }

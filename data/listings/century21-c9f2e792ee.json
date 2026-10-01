@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 108.29,
   "image": "https://images.century21.pt/c7a41e8c-f3ab-453d-a891-1dc5e3c75c90/70268c44-012e-4439-b798-fc4182788997.jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.6257767,
     "lng": -8.9105308
@@ -22,12 +22,41 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/c7a41e8c-f3ab-453d-a891-1dc5e3c75c90/70268c44-012e-4439-b798-fc4182788997.jpeg"
+    "https://images.century21.pt/c7a41e8c-f3ab-453d-a891-1dc5e3c75c90/70268c44-012e-4439-b798-fc4182788997.jpeg",
+    "https://images.century21.pt/847b39f0-2f08-4210-b02f-bd4756b6e3d9/09dddc41-cc54-40a5-99d0-889918e62c69.jpeg",
+    "https://images.century21.pt/afb0b588-aea8-4af1-a6f9-760f42106070/34dbd766-b92a-4871-9979-720ff99fb6c7.jpeg",
+    "https://images.century21.pt/51fb0d2f-031b-44ae-bec5-c8296e111ee6/5b324be9-5111-480d-ab23-a42b00db2788.jpeg",
+    "https://images.century21.pt/b5ab272a-66a5-4b30-84e1-c8b86f7d3b94/8076b2d4-0ac6-49a3-aa31-905204f61ed3.jpeg",
+    "https://images.century21.pt/09ad815c-a0ae-4979-9046-e5bc633f5b2f/bdca1911-5787-4859-aa23-3510c98046ee.jpeg",
+    "https://images.century21.pt/f3604926-8f0f-4836-b338-1db239544abf/251ec269-0dcd-4676-9c7e-046855e87546.jpeg",
+    "https://images.century21.pt/e3df650c-0c06-49a0-9165-f27d45ee91b8/d7cb8baf-41f9-4193-bf24-98bced740519.jpeg",
+    "https://images.century21.pt/3afd4ef3-ab4a-46a8-baee-a901cd6589fe/119c01c1-e4eb-4992-a71d-4abe597cbe9c.jpeg",
+    "https://images.century21.pt/f938ed29-cd30-4245-a005-408f9df87923/ca5ad56f-f8ab-4584-94f0-f09809791c6b.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Perto de uma estação de comboio",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Localização central",
+      "Paredes pintadas",
+      "Rés-do-chão",
+      "Arrecadação",
+      "Casa de banho",
+      "Cozinha",
+      "Despensa",
+      "Corredor",
+      "Outra divisão",
+      "Quarto",
+      "Quarto em suite",
+      "Sala de estar"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 108.29,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 125.29,
+  "ano_construcao": 2003,
+  "certificacao_energetica": "C"
 }

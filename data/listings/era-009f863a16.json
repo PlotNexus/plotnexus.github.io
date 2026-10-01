@@ -8,8 +8,8 @@
   "bedrooms": 5,
   "bathrooms": 5,
   "area_m2": 230,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t5-coimbra-coimbra-se-nova-santa-cruz-almedina-e-sao-bartolomeu_13_1_1087652_14842571_2_1_Islab6udpZ%2bX2%2fdVb6VejgiokTTBOjn%2bBmoKpLu6WkfEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t5-coimbra-coimbra-se-nova-santa-cruz-almedina-e-sao-bartolomeu_14_1_1087652_14842571_2_1_Islab6udpZ%2bX2%2fdVb6VejgiokTTBOjn%2bBmoKpLu6WkfEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Apartamento com áreas espetaculares e com acesso a um terraço com 10 m2 em pleno centro histórico.",
   "geo": {
     "lat": 40.20778,
     "lng": -8.429143
@@ -22,12 +22,48 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t5-coimbra-coimbra-se-nova-santa-cruz-almedina-e-sao-bartolomeu_13_1_1087652_14842571_2_1_Islab6udpZ%2bX2%2fdVb6VejgiokTTBOjn%2bBmoKpLu6WkfEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t5-coimbra-coimbra-se-nova-santa-cruz-almedina-e-sao-bartolomeu_14_1_1087652_14842571_2_1_Islab6udpZ%2bX2%2fdVb6VejgiokTTBOjn%2bBmoKpLu6WkfEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t5-coimbra-coimbra-se-nova-santa-cruz-almedina-e-sao-bartolomeu_14_1_1087652_14842574_2_1_6IvU1L9%2bVEWeW3otQkJzlUUhpg2UarAz6tJYO23LWefEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t5-coimbra-coimbra-se-nova-santa-cruz-almedina-e-sao-bartolomeu_14_1_1087652_14842575_2_1_7NZNdx9I9yKVQGtlOdE9ggmTGxBgiSXSfOFPqpdJPsfEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t5-coimbra-coimbra-se-nova-santa-cruz-almedina-e-sao-bartolomeu_14_1_1087652_14842577_2_1_mbozcMhCpsVaZEqc3dudvZfK8qfM%2bRhpiu%2bt6CclYMzEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 255"
+    ],
+    "Geral": [
+      "Nº Frentes: 2",
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Madeira"
+    ],
+    "Edifício": [
+      "Hall de Entrada - Paredes: Monomassa",
+      "Hall de Entrada - Pavimento: Pedra Natural",
+      "Hall de Entrada - Tecto: Estucado",
+      "Revestimento Exterior: Monomassa",
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Exposição Solar": [
+      "Nascente, Poente"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos: Bons, Comboio, Transportes Púb.",
+      "Centralidade: Centro da Cidade",
+      "Proximidade: Bancos, Bombeiros, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 230,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 255,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

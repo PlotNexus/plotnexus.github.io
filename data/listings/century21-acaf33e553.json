@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 97,
   "image": "https://images.century21.pt/803b35ea-f4b2-44e7-902e-e24075cdbaf6/117A3238.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7431701,
     "lng": -9.1299733
@@ -22,12 +22,55 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/803b35ea-f4b2-44e7-902e-e24075cdbaf6/117A3238.jpg"
+    "https://images.century21.pt/803b35ea-f4b2-44e7-902e-e24075cdbaf6/117A3238.jpg",
+    "https://images.century21.pt/39c391ba-5278-4b20-bbed-78c6769319e0/117A3240.jpg",
+    "https://images.century21.pt/ac8eedcd-0541-4c6a-80fe-9e1acfb44456/117A3246.jpg",
+    "https://images.century21.pt/38213b3e-46f8-4a18-afa9-e17085fff8a5/117A3236.jpg",
+    "https://images.century21.pt/f63a12fb-3bda-4f01-b8df-4e00e1765c8f/117A3274.jpg",
+    "https://images.century21.pt/48fb471a-b98b-4950-9dfe-f7e5fa6690ad/117A3292.jpg",
+    "https://images.century21.pt/6ed8f74e-f568-4c3b-be80-da912b4d4ca3/117A3295.jpg",
+    "https://images.century21.pt/6a938c7e-1ab5-4557-a3f5-958d9665633c/117A3250.jpg",
+    "https://images.century21.pt/154bfa7b-edc9-4ee5-b063-fbc73e7dd22b/117A3276.jpg",
+    "https://images.century21.pt/9ace41e8-8b46-46bb-baf5-b7e3803fb007/117A3257.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estacionamento",
+      "Piscina",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Rés-do-chão",
+      "Acessibilidade para mobilidade reduzida",
+      "Água",
+      "Água canalizada",
+      "Eletricidade",
+      "Isolamento acústico",
+      "Isolamento térmico",
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Elevador",
+      "Estores elétricos",
+      "Exaustor",
+      "Forno",
+      "Frigorífico",
+      "Janelas duplas",
+      "Máquina de lavar loiça",
+      "Máquina de lavar roupa",
+      "Micro-ondas",
+      "Porta corta-fogo",
+      "Porta de alta segurança",
+      "Portão elétrico",
+      "Toalheiro aquecido",
+      "Vídeo-porteiro",
+      "Arrecadação",
+      "Cozinha",
+      "Quarto em suite"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 97,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 98.82,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A"
 }

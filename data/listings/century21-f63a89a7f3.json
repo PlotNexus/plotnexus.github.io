@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 78,
   "image": "https://images.century21.pt/95de21a8-52c3-45ec-9c71-675d8bb89047/ParqueDasNacoes-32.jpg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 38.790644,
     "lng": -9.098477
@@ -22,12 +22,42 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/95de21a8-52c3-45ec-9c71-675d8bb89047/ParqueDasNacoes-32.jpg"
+    "https://images.century21.pt/95de21a8-52c3-45ec-9c71-675d8bb89047/ParqueDasNacoes-32.jpg",
+    "https://images.century21.pt/288ba250-c3c4-4de0-a51b-48871146cfbe/ParqueDasNacoes.jpg",
+    "https://images.century21.pt/bf5064aa-3025-4069-8135-9052eb1a3659/bc95079e-699f-4657-9d21-7ba5261b4987.png",
+    "https://images.century21.pt/25f8b8c8-ac7e-4d0e-90e1-5da79de38a9a/ParqueDasNacoes-29.jpg",
+    "https://images.century21.pt/df1dd306-8565-4d67-bd44-7a073e15234d/ParqueDasNacoes-24.jpg",
+    "https://images.century21.pt/6971866a-a600-46ba-9bd8-b83db54ef640/ParqueDasNacoes-25.jpg",
+    "https://images.century21.pt/926d0e96-4587-4d93-91aa-e6b8b2f26dca/ParqueDasNacoes-28.jpg",
+    "https://images.century21.pt/8af374bd-bcce-427d-9230-f63b3bed07c8/ParqueDasNacoes-31.jpg",
+    "https://images.century21.pt/6c21d143-1cc1-4c41-bd73-e5fe87b1edf7/ParqueDasNacoes-10.jpg",
+    "https://images.century21.pt/999edceb-35f5-428d-825a-8fdb7446b023/ParqueDasNacoes-9.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Eletrodomésticos",
+      "Sem cadeia de venda",
+      "Elevador",
+      "Garagem",
+      "Jardim",
+      "Boa exposição solar",
+      "Boa localização",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Perto de um complexo desportivo",
+      "Perto de uma praça de táxis",
+      "Vista panorâmica",
+      "Zona tranquila",
+      "Vista rio",
+      "Acesso por estrada",
+      "Arrecadação"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 78,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 102,
+  "ano_construcao": 2009,
+  "certificacao_energetica": "B"
 }

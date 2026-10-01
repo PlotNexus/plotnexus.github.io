@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 75,
   "image": "https://images.century21.pt/dbff1247-3905-465b-becf-d6c1f1ce41fe/Sala-1.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7161372,
     "lng": -9.2535564
@@ -22,12 +22,50 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/dbff1247-3905-465b-becf-d6c1f1ce41fe/Sala-1.jpg"
+    "https://images.century21.pt/dbff1247-3905-465b-becf-d6c1f1ce41fe/Sala-1.jpg",
+    "https://images.century21.pt/848d6cee-ef8b-4423-ad58-5e52341d4c18/Sala-5.jpg",
+    "https://images.century21.pt/e7fddd13-c409-40da-82ee-387b0fd1a9c0/Cozinha-1.jpg",
+    "https://images.century21.pt/9b6f3270-0f24-41ed-8600-16abb39697f6/Cozinha-5.jpg",
+    "https://images.century21.pt/17b9acf7-4515-4b97-85e2-aea2047d1a62/Quarto1-1.jpg",
+    "https://images.century21.pt/d4321348-361b-480f-a19b-441c253b091c/Quarto1-3.jpg",
+    "https://images.century21.pt/d68725e4-5d3e-48ad-868d-bdbcaff54dda/Quarto2-1.jpg",
+    "https://images.century21.pt/8a94d296-782a-4bf8-a6d6-153550d0c7ee/Quarto2-2.jpg",
+    "https://images.century21.pt/4c67f6e6-e993-4a3d-97e5-3d446101a360/Hall-2.jpg",
+    "https://images.century21.pt/38a48f98-87e4-4b59-b66a-1b39b9aa930b/WC1-1.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Localização central",
+      "Máquina de lavar loiça",
+      "Portão elétrico",
+      "Termoacumulador elétrico",
+      "Exaustor",
+      "Propriedade plena",
+      "Garagem",
+      "Jardim",
+      "Boa exposição solar",
+      "Boa localização",
+      "Perto de comodidades",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma zona comercial",
+      "Perto de uma bomba de gasolina",
+      "Perto de um campo de golfe",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de um mercado",
+      "Perto de uma farmácia",
+      "Perto de restaurantes",
+      "Forno",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Fogão",
+      "Terraço"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 75,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 188,
+  "ano_construcao": 1983,
+  "certificacao_energetica": "D"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 75,
   "image": "https://images.century21.pt/f593baf8-ed99-4b6c-b2f8-feb401f15018/10.jpeg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 38.7544523,
     "lng": -9.2036408
@@ -22,12 +22,32 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/f593baf8-ed99-4b6c-b2f8-feb401f15018/10.jpeg"
+    "https://images.century21.pt/f593baf8-ed99-4b6c-b2f8-feb401f15018/10.jpeg",
+    "https://images.century21.pt/66280558-21c5-42d3-b6de-25dc9d1a3cf6/8.jpeg",
+    "https://images.century21.pt/d0532223-fbea-42b1-8ab5-dafa7f31216e/7.jpeg",
+    "https://images.century21.pt/f8c76bed-9845-49e0-bdff-950ad439c951/19.jpeg",
+    "https://images.century21.pt/c6d77aac-f2d0-44ea-9bd5-24b984edd5ca/12.jpeg",
+    "https://images.century21.pt/02048e25-6267-4266-a1af-5d6b53e06666/15.jpeg",
+    "https://images.century21.pt/fded2658-4760-4c11-ba6a-12b9c5af8f3f/14.jpeg",
+    "https://images.century21.pt/78edec5c-1ba0-4fb7-8db4-eb5db8f0e072/18.jpeg",
+    "https://images.century21.pt/1a75f31e-f326-4109-863d-a59f4a3f5bfd/13.jpeg",
+    "https://images.century21.pt/995fad8c-bb50-40d4-a7e9-2da1de483b1c/9.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Cozinha",
+      "Despensa",
+      "Corredor",
+      "Marquise",
+      "Quarto",
+      "Sala de estar",
+      "Varanda"
+    ]
+  },
   "estado": null,
   "area_util_m2": 75,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 78,
+  "ano_construcao": 1964,
+  "certificacao_energetica": "C"
 }

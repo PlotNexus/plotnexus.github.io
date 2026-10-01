@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 183.28,
   "image": "https://images.century21.pt/b4d68bb0-c7cb-4d0e-89c4-e1f9d3bc9f80/C2104399-HDR.jpg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 40.212825794704,
     "lng": -8.28809022903443
@@ -22,12 +22,56 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/b4d68bb0-c7cb-4d0e-89c4-e1f9d3bc9f80/C2104399-HDR.jpg"
+    "https://images.century21.pt/b4d68bb0-c7cb-4d0e-89c4-e1f9d3bc9f80/C2104399-HDR.jpg",
+    "https://images.century21.pt/08539384-de2a-408c-8695-12c1591ab01e/C2104218-HDR.jpg",
+    "https://images.century21.pt/c2a20ad3-2f31-419d-86af-8c6564e46449/C2104224-HDR.jpg",
+    "https://images.century21.pt/d6b93481-1fe2-4058-bab8-ce2368ae9831/C2104230-HDR.jpg",
+    "https://images.century21.pt/f6b10169-ed95-4584-a046-d64576419492/C2104227.jpg",
+    "https://images.century21.pt/c2a47dc8-246f-4d44-bc01-f233a7ce2b31/C2104236-HDR.jpg",
+    "https://images.century21.pt/a75d611d-a92b-4e8a-8e1c-66b98939c25c/C2104276-HDR.jpg",
+    "https://images.century21.pt/9bad1cc4-cabd-4303-9087-0eec37f9c2f6/C2104330-HDR.jpg",
+    "https://images.century21.pt/9eee83e7-bff6-4d50-b6b3-fe7d4398e8a0/C2104279.jpg",
+    "https://images.century21.pt/723e7a5b-2c97-4f8d-b226-0bcbd27fdd04/C2104288.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Vinha",
+      "Árvores de fruto",
+      "Horta",
+      "Perto de um banco",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de a polícia",
+      "Perto de uma farmácia",
+      "Perto de uma igreja",
+      "Perto de um infantário",
+      "Perto de uma praça de táxis",
+      "Perto de um quartel de bombeiros",
+      "Vista campo",
+      "Vista serra",
+      "Acesso para cargas e descargas",
+      "Água",
+      "Eletricidade",
+      "Vala",
+      "Cave",
+      "Arrecadação",
+      "Casa de banho",
+      "Corredor",
+      "Garagem",
+      "Pátio",
+      "Alpendre",
+      "Terraço",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Esquentador",
+      "Fogão a gás"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 183.28,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 279.3,
+  "ano_construcao": 1970,
+  "certificacao_energetica": "E"
 }

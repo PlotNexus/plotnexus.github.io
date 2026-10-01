@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 122,
   "image": "https://images.century21.pt/f0317d6e-67e1-4d70-98c5-ef534760ad10/04731B54-CADD-4D67-AF55-01D241776096.PNG",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.6193671086846,
     "lng": -8.33282947540283
@@ -22,12 +22,30 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/f0317d6e-67e1-4d70-98c5-ef534760ad10/04731B54-CADD-4D67-AF55-01D241776096.PNG"
+    "https://images.century21.pt/f0317d6e-67e1-4d70-98c5-ef534760ad10/04731B54-CADD-4D67-AF55-01D241776096.PNG",
+    "https://images.century21.pt/76620969-d7e9-4ef3-bd0b-7aa5496ed37e/61541FD4-1386-4EF2-AA1E-4723B655ED21.PNG",
+    "https://images.century21.pt/9d38ed82-57c1-4b0a-85af-5b6416c7db6b/DC65A66F-2C1E-4585-A624-D2D780B9959E.PNG",
+    "https://images.century21.pt/1d15c136-0d38-43f8-a846-1665fe3b8143/814172B4-CEC5-4561-8513-679CFCAC1C44.PNG",
+    "https://images.century21.pt/a374edf8-ab67-4817-8d04-89699aa49266/37E85BF3-933F-499C-8E1B-2CDC0308853D.PNG",
+    "https://images.century21.pt/0a5f1b82-e87d-491f-a45a-2ad5cfcf4068/IMG7502.JPEG",
+    "https://images.century21.pt/01fe4182-c372-450d-81ff-3b56e065c8f6/B60EF9AF-AD2C-472F-AC5A-5C72747792C5.PNG",
+    "https://images.century21.pt/cba42588-4b2a-4715-9301-3ea7bf239362/IMG7496.JPEG",
+    "https://images.century21.pt/3b5d90e1-cd1c-4f0a-976c-dfb0518bba3a/4E5AABEB-F8BA-4BF4-A34B-0336C2691097.PNG",
+    "https://images.century21.pt/35b152cf-adb8-4ae4-823d-4cd638effcf6/EDA29EB1-3F62-444C-AC07-8EB7607604E9.PNG"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Árvores de fruto",
+      "Boa exposição solar",
+      "Rés-do-chão",
+      "Árvores centenárias",
+      "Zona tranquila",
+      "Poço"
+    ]
+  },
   "estado": null,
   "area_util_m2": 122,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 203,
+  "ano_construcao": 1937,
+  "certificacao_energetica": "EXEMPT"
 }

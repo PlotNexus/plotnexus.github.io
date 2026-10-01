@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 108,
   "image": "https://images.century21.pt/872e8035-0ed1-406d-bc49-44cfc8f3e3b6/Century21-MonicaSantos-MassamaNorte-43.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7640589,
     "lng": -9.2783772
@@ -22,12 +22,30 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/872e8035-0ed1-406d-bc49-44cfc8f3e3b6/Century21-MonicaSantos-MassamaNorte-43.jpg"
+    "https://images.century21.pt/872e8035-0ed1-406d-bc49-44cfc8f3e3b6/Century21-MonicaSantos-MassamaNorte-43.jpg",
+    "https://images.century21.pt/322d523d-7edd-4ffc-866e-470aae3003ec/Century21-MonicaSantos-MassamaNorte-16.jpg",
+    "https://images.century21.pt/276927fd-0883-40a4-8e3b-07473231f410/Century21-MonicaSantos-MassamaNorte-5.jpg",
+    "https://images.century21.pt/44efbaf6-fa6b-418f-b8dd-e8acd6fd0d1f/Century21-MonicaSantos-MassamaNorte-30.jpg",
+    "https://images.century21.pt/c86ebd8d-0dff-4f18-bda5-e8d1fdd537a2/Century21-MonicaSantos-MassamaNorte-22.jpg",
+    "https://images.century21.pt/5fa16c75-3c60-4b28-8926-08ce020e471c/Century21-MonicaSantos-MassamaNorte-44.jpg",
+    "https://images.century21.pt/ce0bb7e7-79a7-4ef4-bf1e-87459e17639e/Century21-MonicaSantos-MassamaNorte-25.jpg",
+    "https://images.century21.pt/ef51829c-9b91-4382-bacf-2e28dd2be3bc/Century21-MonicaSantos-MassamaNorte-18.jpg",
+    "https://images.century21.pt/6a681e0d-8cbc-4266-bd01-a3686771f4f7/Century21-MonicaSantos-MassamaNorte-40.jpg",
+    "https://images.century21.pt/6f0b256c-7684-401a-a619-26b71c08b748/Century21-MonicaSantos-MassamaNorte-32.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Elevador",
+      "Garagem",
+      "Marquise",
+      "Arrecadação",
+      "Suite"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 108,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 134,
+  "ano_construcao": 1997,
+  "certificacao_energetica": "D"
 }

@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": null,
   "area_m2": 78,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d46b.jpg",
-  "description": "Espaços....na sua vida!\nApartamento na zona sul da cidade em prédio com elevador, composto por sala com varanda, cozinha dois quartos um com roupeiro e uma dispensa, As vista são são desafogadas, a sua localização é exce",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d46b.jpg",
+  "description": "Espaços....na sua vida!\nApartamento na zona sul da cidade em prédio com elevador, composto por sala com varanda, cozinha dois quartos um com roupeiro e uma dispensa, As vista são são desafogadas, a sua localização é excelente, junto a escolas, hospital, serviços e com fácil acesso a A23.",
   "geo": {
     "lat": 39.82268,
     "lng": -7.50173
@@ -22,12 +22,44 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d46b.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d46b.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d46d.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d479.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d46c.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d46e.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d46f.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d470.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d471.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d472.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C5544/P30619701/Tphoto/ID3538d301-0000-0500-0000-000019e2d473.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 1",
+      "Total quarto(s): 2"
+    ],
+    "Zona Envolvente": [
+      "Auto-Estrada",
+      "Centro da Cidade",
+      "Escola",
+      "Espaços Verdes",
+      "Farmácia",
+      "Polícia",
+      "Transportes Públicos"
+    ],
+    "Equipamentos": [
+      "Elevador"
+    ],
+    "Extras": [
+      "Piso: 5"
+    ],
+    "Áreas": [
+      "Área Bruta: 78.05"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 78,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 78,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

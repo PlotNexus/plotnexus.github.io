@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 67,
   "image": "https://images.century21.pt/10eb44fb-f330-4d92-adaf-81d41cc8b422/Sala1.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.8126623,
     "lng": -9.1801153
@@ -22,12 +22,25 @@
   "published_at": "2026-09-30",
   "last_seen_at": "2026-09-30",
   "images": [
-    "https://images.century21.pt/10eb44fb-f330-4d92-adaf-81d41cc8b422/Sala1.jpg"
+    "https://images.century21.pt/10eb44fb-f330-4d92-adaf-81d41cc8b422/Sala1.jpg",
+    "https://images.century21.pt/1f528d37-98fd-446d-894a-a0aa6539adea/Sala4.jpg",
+    "https://images.century21.pt/7f09c2ae-0b79-4226-bf14-29f4e0521c5d/Sala5.jpg",
+    "https://images.century21.pt/5b5cdaa9-7360-4110-a129-0be146712b1e/Sala3.jpg",
+    "https://images.century21.pt/c0a98598-a580-4abe-98c2-7ce0d4316712/Sala2.jpg",
+    "https://images.century21.pt/5481fbf8-e30a-445c-b3ab-c990426535b4/Cozinha2.jpg",
+    "https://images.century21.pt/73b71bc8-be0c-4a0d-b02d-d63ce73cb6c1/Cozinha1.jpg",
+    "https://images.century21.pt/f19c2cad-685a-40b6-8c7f-e3f3b2850dc1/Cozinha3.jpg",
+    "https://images.century21.pt/1a70879b-7177-4930-a1af-1d557215c672/Quartocasal1.jpg",
+    "https://images.century21.pt/dcff6bf6-6a6e-4802-bf81-7250f13d0d94/Quartocasal2.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 67,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 71,
+  "ano_construcao": 1989,
+  "certificacao_energetica": "D"
 }

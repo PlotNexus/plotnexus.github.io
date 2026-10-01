@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 86,
   "image": "https://images.century21.pt/d2aec52c-b873-4f48-b97b-05d25d3c18bd/57c5aa12-3fe4-471d-af1d-7b854f2f9a9f.jpeg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 39.58101,
     "lng": -8.53604
@@ -22,12 +22,39 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/d2aec52c-b873-4f48-b97b-05d25d3c18bd/57c5aa12-3fe4-471d-af1d-7b854f2f9a9f.jpeg"
+    "https://images.century21.pt/d2aec52c-b873-4f48-b97b-05d25d3c18bd/57c5aa12-3fe4-471d-af1d-7b854f2f9a9f.jpeg",
+    "https://images.century21.pt/a54978d8-ae9c-4a3e-928c-a2782fac4e7e/8c031de5-1ae0-4052-a80b-b2e1c7ecdd0c.jpeg",
+    "https://images.century21.pt/5c7ce394-6dbd-44f2-af0a-083f0bfc7738/134805fd-07ea-45b7-8c5f-0a4590d7effe.jpeg",
+    "https://images.century21.pt/971b1f3c-8418-4f60-9d85-28926546dbcf/db9df6ee-9ead-44bc-a60b-8aaefebab036.jpeg",
+    "https://images.century21.pt/7b985bc2-4751-4783-9803-a793989ae0eb/d771108c-9593-451e-ad20-58bf9ce68d7f.jpeg",
+    "https://images.century21.pt/d06c0e24-94c0-42ce-a34b-bd6e1f0a31ed/fceb74ae-ec97-4e56-b533-fa134b862913.jpeg",
+    "https://images.century21.pt/80d6c990-4a17-4c0c-aed2-31163f34f57e/cde5cd22-57b5-4c10-8e1e-d33327ae6f0c.jpeg",
+    "https://images.century21.pt/052cc9d9-663c-47c5-a18e-b5a5a01df774/d3b20bf9-a07b-4ba2-aec9-e94e9a6c6b76.jpeg",
+    "https://images.century21.pt/f3dd9646-4205-4b88-8bdd-749eecb49e35/8f17db1d-20c0-411f-af43-97a343f10069.jpeg",
+    "https://images.century21.pt/7dc18c6a-e799-43b5-9014-1a0e0f6a574d/72f33724-82fa-44c4-82f1-e4c7db69cbaa.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Quarto",
+      "Lareira",
+      "Árvores de fruto",
+      "Jardim",
+      "Boa localização",
+      "Cozinha",
+      "Perto de comodidades",
+      "Perto de uma igreja",
+      "Pátio",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Arrecadação",
+      "Terraço",
+      "Horta"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 86,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 130,
+  "ano_construcao": 1992,
+  "certificacao_energetica": "E"
 }

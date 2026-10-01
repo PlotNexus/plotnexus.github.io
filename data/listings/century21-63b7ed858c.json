@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 57,
   "image": "https://images.century21.pt/2ba650ea-41ab-434b-b528-17a92e89f1f4/01.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.815693,
     "lng": -9.215252
@@ -22,12 +22,42 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/2ba650ea-41ab-434b-b528-17a92e89f1f4/01.jpg"
+    "https://images.century21.pt/2ba650ea-41ab-434b-b528-17a92e89f1f4/01.jpg",
+    "https://images.century21.pt/42cf2c0c-b942-4d27-94d9-9d6b69c2091d/08.jpg",
+    "https://images.century21.pt/65855915-4a1b-4a99-a885-ccefdcf434bc/12.jpg",
+    "https://images.century21.pt/1e06df25-bcd2-440c-a911-4b7b6bd97aca/10.jpg",
+    "https://images.century21.pt/1e514f5b-5bc2-4eb0-93ef-07ae0b9a7304/14.jpg",
+    "https://images.century21.pt/31968d85-ebc1-498f-bfa2-a9b78deb1921/11.jpg",
+    "https://images.century21.pt/4a630b8e-3de7-482f-8b2b-d416afa17bdc/03.jpg",
+    "https://images.century21.pt/91ddfa25-8dc0-46bf-a2b3-9a5dd376dd88/04.jpg",
+    "https://images.century21.pt/94638804-6f66-47bc-8c05-17a0551b0deb/02.jpg",
+    "https://images.century21.pt/d5029244-bcee-4b57-acf2-472a017150fa/09.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Sótão",
+      "Churrasqueira",
+      "Casa de banho",
+      "Quarto",
+      "Hall de quartos",
+      "Corredor",
+      "Boa exposição solar",
+      "Boa localização",
+      "Rés-do-chão",
+      "Cozinha",
+      "Sala de estar",
+      "Marquise",
+      "Estacionamento",
+      "Pátio",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Terraço",
+      "Piso em azulejo"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 57,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 61,
+  "ano_construcao": 1955,
+  "certificacao_energetica": "F"
 }

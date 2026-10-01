@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 100,
   "image": "https://images.century21.pt/bb62c338-99de-4af1-b612-24afc258702c/RS601630.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7146055,
     "lng": -9.1453342
@@ -22,12 +22,51 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/bb62c338-99de-4af1-b612-24afc258702c/RS601630.jpg"
+    "https://images.century21.pt/bb62c338-99de-4af1-b612-24afc258702c/RS601630.jpg",
+    "https://images.century21.pt/1c44ffed-dc93-4ea2-8d16-dfc4f678caee/RS601650.jpg",
+    "https://images.century21.pt/c2b63f7c-efb1-414b-9fe2-8fc3da509c8b/RS601639.jpg",
+    "https://images.century21.pt/e829ca2a-f10a-4304-bd6f-9fda2e5917e1/RS601634.jpg",
+    "https://images.century21.pt/f8db9183-59e5-4f09-ab6e-3d882211fe82/RS601624.jpg",
+    "https://images.century21.pt/1d59aba9-6b2a-428d-9dbc-e1fa2dd2a601/RS601657.jpg",
+    "https://images.century21.pt/5abc9e09-41c5-4d38-aaca-852a274b38c4/RS601662.jpg",
+    "https://images.century21.pt/4b7425c9-d07b-4f75-a03e-2d9af1a27e31/RS601623.jpg",
+    "https://images.century21.pt/f4dcf77e-a2d4-4a7c-860d-ee1faa8863ce/RS601633.jpg",
+    "https://images.century21.pt/d071986d-7ec5-4049-a4f5-2f2c81cbc332/RS601631.jpg"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 100,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Características": [
+      "Quarto",
+      "Vestiário",
+      "Corredor",
+      "Máquina de lavar loiça",
+      "Termoacumulador elétrico",
+      "Frigorífico",
+      "Fogão de indução",
+      "Cozinha",
+      "Lavandaria",
+      "Casa de máquinas",
+      "Perto de comodidades",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma igreja",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de espaços verdes",
+      "Perto de uma zona histórica",
+      "Perto de um mercado",
+      "Perto de um espaço público",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Perto de uma praça de táxis",
+      "Pré-instalação de ar condicionado",
+      "Salão",
+      "Casa de banho partilhada",
+      "Máquina de lavar roupa",
+      "Piso em madeira"
+    ]
+  },
+  "estado": "Renovado",
+  "area_util_m2": 87,
+  "area_bruta_m2": 100,
+  "ano_construcao": 1988,
+  "certificacao_energetica": "D"
 }

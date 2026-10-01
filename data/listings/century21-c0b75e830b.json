@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 200.6,
   "image": "https://images.century21.pt/1c9f27cd-6b95-4ad2-bf1b-22e96b122ab1/IMG7392.JPG",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.0892465,
     "lng": -8.2645594
@@ -22,12 +22,27 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/1c9f27cd-6b95-4ad2-bf1b-22e96b122ab1/IMG7392.JPG"
+    "https://images.century21.pt/1c9f27cd-6b95-4ad2-bf1b-22e96b122ab1/IMG7392.JPG",
+    "https://images.century21.pt/8b05a99e-4445-4463-975e-60e3294afc0b/IMG7408.JPG",
+    "https://images.century21.pt/1d365397-5141-44fa-a063-e99b37c1c296/IMG7401.JPG",
+    "https://images.century21.pt/1cc879f1-0bb1-4767-ad9b-fb0e04b4d684/IMG7407.JPG",
+    "https://images.century21.pt/69e0d76d-a65e-4a99-a690-257c819f4da1/IMG7410.JPG",
+    "https://images.century21.pt/75744426-1935-4884-ac6c-153c3f892d87/IMG7418.JPG",
+    "https://images.century21.pt/07b3d1c5-c6e2-4888-b0b1-0caa855c5895/IMG7394.JPG",
+    "https://images.century21.pt/cb806d38-828e-4b90-9d04-a20981534d62/IMG7404.JPG",
+    "https://images.century21.pt/d6e38a73-616a-47b1-886a-56c5acff533c/WhatsAppImage2026-04-21at19.41.47.jpeg",
+    "https://images.century21.pt/829cb28c-12c3-485c-8bc3-2d6383570ac4/IMG7400.JPG"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Open space"
+    ]
+  },
   "estado": null,
   "area_util_m2": 200.6,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 361.8,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "B"
 }

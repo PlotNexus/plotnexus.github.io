@@ -8,7 +8,7 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": 38,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t1-gondomar-rio-tinto_13_1_1532994_18666337_2_1_8LLWaYJ4RkNEBLPRVrUQAqYEf5AdQadRkWtiBicQN0fEB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/apartamento-t1-gondomar-rio-tinto_14_1_1532994_18666337_2_1_8LLWaYJ4RkNEBLPRVrUQAqYEf5AdQadRkWtiBicQN0fEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 41.18389,
@@ -22,12 +22,20 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t1-gondomar-rio-tinto_13_1_1532994_18666337_2_1_8LLWaYJ4RkNEBLPRVrUQAqYEf5AdQadRkWtiBicQN0fEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t1-gondomar-rio-tinto_14_1_1532994_18666337_2_1_8LLWaYJ4RkNEBLPRVrUQAqYEf5AdQadRkWtiBicQN0fEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Construção",
+      "Área Bruta: 38"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ]
+  },
+  "estado": "Construção",
   "area_util_m2": 38,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 38,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

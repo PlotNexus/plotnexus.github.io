@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 79.21,
   "image": "https://images.century21.pt/a7b9ce5a-9d0e-4048-947f-580f897322dc/BTM09839.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.657193,
     "lng": -8.991264
@@ -22,12 +22,37 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/a7b9ce5a-9d0e-4048-947f-580f897322dc/BTM09839.jpg"
+    "https://images.century21.pt/a7b9ce5a-9d0e-4048-947f-580f897322dc/BTM09839.jpg",
+    "https://images.century21.pt/7101271b-26c8-492b-9467-28a64ed8023a/BTM09844.jpg",
+    "https://images.century21.pt/79e7aa02-cf1d-48f4-9184-e9d88e363e1c/BTM09834.jpg",
+    "https://images.century21.pt/6bdd8476-f259-4d47-9ed6-21b52aea3563/BTM09804.jpg",
+    "https://images.century21.pt/17d22f8a-f531-453e-b09d-c17baf577a42/BTM09899.jpg",
+    "https://images.century21.pt/e1a19c0e-aacc-4d0a-84a7-3bc446c3f9dd/BTM09759.jpg",
+    "https://images.century21.pt/34d28e71-a0f0-4549-beb1-c32a7fb2eded/BTM09769.jpg",
+    "https://images.century21.pt/70d81725-f0d0-4168-a802-d1d5d2639da1/BTM09784.jpg",
+    "https://images.century21.pt/6e663690-88d7-437e-8dd2-f789294db712/BTM09794.jpg",
+    "https://images.century21.pt/386464e0-42b7-46f0-a2de-cb0739eab6ad/BTM09789.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Casa de banho",
+      "Água",
+      "Água canalizada",
+      "Soalho em madeira",
+      "Piso em mosaico",
+      "Acesso por estrada",
+      "Despensa",
+      "Escritório",
+      "Quarto",
+      "Sala de estar",
+      "Gás canalizado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 79.21,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 125,
+  "ano_construcao": 1993,
+  "certificacao_energetica": "D"
 }

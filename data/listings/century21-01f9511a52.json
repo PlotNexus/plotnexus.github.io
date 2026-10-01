@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 150.82,
   "image": "https://images.century21.pt/5b27b8f2-38de-46aa-b711-a645eaa1a703/1.png",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 37.7414671464371,
     "lng": -25.6618684530258
@@ -22,12 +22,54 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/5b27b8f2-38de-46aa-b711-a645eaa1a703/1.png"
+    "https://images.century21.pt/5b27b8f2-38de-46aa-b711-a645eaa1a703/1.png",
+    "https://images.century21.pt/cb85d423-ab7f-4756-98d7-a5dc0414087e/3.jpeg",
+    "https://images.century21.pt/adade028-445f-48b0-8a78-3844aafde807/4.jpeg",
+    "https://images.century21.pt/169de0be-ae94-4b45-a114-64e3ae0c3842/6.jpeg",
+    "https://images.century21.pt/cb5314e7-97ed-4a49-aa52-42a9793b1fa0/5.jpeg",
+    "https://images.century21.pt/671f824c-d9f8-40c8-b13f-577544a5a5b9/9.jpeg",
+    "https://images.century21.pt/669933fa-5f51-4dbd-b1fc-38e61f27e7e7/8.jpeg",
+    "https://images.century21.pt/7a794b07-005a-4c8f-9cb4-96d89ac3f27e/7.jpeg",
+    "https://images.century21.pt/0336f680-56d1-4684-a169-37a11a04bf9a/14.jpeg",
+    "https://images.century21.pt/33b2c9bc-9479-47f3-8bfe-3e6370d30513/13.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa localização",
+      "Localização central",
+      "Paredes pintadas",
+      "Tetos altos",
+      "Piso em madeira",
+      "Piso em mosaico",
+      "Vista cidade",
+      "Casa de banho",
+      "Casa de banho privativa",
+      "Cave",
+      "Hall de quartos",
+      "Cozinha",
+      "Outra divisão",
+      "Quarto",
+      "Sala de estar",
+      "Sótão",
+      "Terraço",
+      "Perto de um banco",
+      "Perto de comodidades",
+      "Perto de a polícia",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma farmácia",
+      "Perto de uma igreja",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de uma praça de táxis",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de uma zona histórica",
+      "Perto de o centro da cidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 150.82,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 169.67,
+  "ano_construcao": 1937,
+  "certificacao_energetica": "IN_PROCESS"
 }

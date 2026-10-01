@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 89,
   "image": "https://images.century21.pt/17b69bff-3692-4271-a51e-2a9782712025/T3Loures--7.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.8454158,
     "lng": -9.202218
@@ -22,12 +22,57 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/17b69bff-3692-4271-a51e-2a9782712025/T3Loures--7.jpg"
+    "https://images.century21.pt/17b69bff-3692-4271-a51e-2a9782712025/T3Loures--7.jpg",
+    "https://images.century21.pt/496d3f1d-cf1b-4772-a7ec-3474d11825a7/T3Loures--6.jpg",
+    "https://images.century21.pt/9b1d4243-a5c0-45e8-afdc-9a9ae304eb80/T3Loures--5.jpg",
+    "https://images.century21.pt/111c1232-c8d7-4720-bdaa-543dcf6f66e8/T3Loures--8.jpg",
+    "https://images.century21.pt/e4192887-02b6-4f8a-81f2-a8c74f4dbd6e/T3Loures--4.jpg",
+    "https://images.century21.pt/4f5c4c9e-73a2-4bb0-95cc-a2ec0e9a6858/T3Loures-9196.jpg",
+    "https://images.century21.pt/f6a45be9-544e-4278-90c9-f49f96a4ac20/T3Loures-9169.jpg",
+    "https://images.century21.pt/3c673000-9de9-4b12-bb99-cf67804fb540/T3Loures-9174.jpg",
+    "https://images.century21.pt/dc1b4f77-9495-460e-bdcb-f33f111e8285/T3Loures-9199.jpg",
+    "https://images.century21.pt/ce1aadc7-3fd9-4dd2-8f2f-b11b9da5b099/T3Loures-9202.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Varanda",
+      "Casa de banho",
+      "Quarto",
+      "Hall de quartos",
+      "Arbustos",
+      "Corredor",
+      "Vista campo",
+      "Janelas duplas",
+      "Eletricidade",
+      "Hall de entrada",
+      "Jardim",
+      "Gás em botija",
+      "Boa exposição solar",
+      "Boa localização",
+      "Rés-do-chão",
+      "Cozinha",
+      "Lavandaria",
+      "Sala de estar",
+      "Acesso para cargas e descargas",
+      "Piso em mosaico",
+      "Vista serra",
+      "Perto de comodidades",
+      "Perto de uma zona comercial",
+      "Perto de um mercado",
+      "Perto de restaurantes",
+      "Outra divisão",
+      "Despensa",
+      "Saneamento",
+      "Água canalizada",
+      "Terraço",
+      "Água",
+      "Caixilharia"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 89,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 200,
+  "ano_construcao": 1966,
+  "certificacao_energetica": "C"
 }

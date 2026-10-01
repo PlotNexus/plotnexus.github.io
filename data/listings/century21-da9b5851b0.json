@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 110,
   "image": "https://images.century21.pt/2c2a12f3-0674-4af9-bdaa-c76bd8c6b277/1-InfanteResidences-PiscinaRooftopNoite.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7091802,
     "lng": -9.1667279
@@ -22,12 +22,43 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/2c2a12f3-0674-4af9-bdaa-c76bd8c6b277/1-InfanteResidences-PiscinaRooftopNoite.jpg"
+    "https://images.century21.pt/2c2a12f3-0674-4af9-bdaa-c76bd8c6b277/1-InfanteResidences-PiscinaRooftopNoite.jpg",
+    "https://images.century21.pt/46b77929-b784-4d17-89d4-1ccb30fcb462/2-InfanteResidences-RooftopAero.jpg",
+    "https://images.century21.pt/e5d56f28-3bad-449f-a17d-8c4de4f059e1/7-InfanteResidences-T1Sala.jpg",
+    "https://images.century21.pt/36189e69-ae48-4333-9a74-e160e3f3d8ef/11-InfanteResidences-T2Sala.jpg",
+    "https://images.century21.pt/81fbe1a5-dc49-4ef7-ae83-0f139691943f/12-InfanteResidences-Suite.jpg",
+    "https://images.century21.pt/174fbcb7-4775-43c5-bd1e-e143a0e9da84/6-InfanteResidences-T3Sala.jpg",
+    "https://images.century21.pt/c48aa234-a139-4b3a-a54d-896001a0e9d9/13-InfanteResidences-Instalacaosanitaria.jpg",
+    "https://images.century21.pt/58021ad8-07b8-4927-ab8b-a3e12500b7ed/14-InfanteResidences-T2Escritorio.jpg",
+    "https://images.century21.pt/763cee98-0dcf-4662-bab8-c6a8a692d601/9-InfanteResidences-T1Cozinha.jpg",
+    "https://images.century21.pt/3b114f0d-18c0-4d6f-a09d-281874b0cb35/15-InfanteResidences-T2Patio.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Quarto",
+      "Vista cidade",
+      "Eletricidade",
+      "Saída de emergência",
+      "Gás",
+      "Boa localização",
+      "Cozinha",
+      "Sala de estar",
+      "Perto de um banco",
+      "Perto de o centro da cidade",
+      "Perto de uma farmácia",
+      "Perto de a polícia",
+      "Perto de um espaço público",
+      "Paredes pintadas",
+      "Estacionamento",
+      "Piscina",
+      "Vista rio",
+      "Água"
+    ]
+  },
   "estado": null,
   "area_util_m2": 110,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 115,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "IN_PROCESS"
 }

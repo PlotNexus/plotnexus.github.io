@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 63,
   "image": "https://images.century21.pt/715d798e-4487-4057-ad12-fc9aa2d27087/WEBSITELISBOACalcadadaPampulha1-36.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7046002,
     "lng": -9.1672012
@@ -22,12 +22,53 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/715d798e-4487-4057-ad12-fc9aa2d27087/WEBSITELISBOACalcadadaPampulha1-36.jpg"
+    "https://images.century21.pt/715d798e-4487-4057-ad12-fc9aa2d27087/WEBSITELISBOACalcadadaPampulha1-36.jpg",
+    "https://images.century21.pt/5ad77a85-0139-4045-9b7c-8b0158b1d2a2/WEBSITELISBOACalcadadaPampulha1-35.jpg",
+    "https://images.century21.pt/a9671fd4-a579-45a2-bfdd-6bd2090808ee/WEBSITELISBOACalcadadaPampulha1-1.jpg",
+    "https://images.century21.pt/76fa7b58-e785-40e8-a6f3-5b1012a9caaf/WEBSITELISBOACalcadadaPampulha1-10.jpg",
+    "https://images.century21.pt/a182978a-11ae-4a33-a1dd-229bbed1e68d/WEBSITELISBOACalcadadaPampulha1-2.jpg",
+    "https://images.century21.pt/bb253764-edcc-4a43-a021-a19efac5fd1f/WEBSITELISBOACalcadadaPampulha1-17.jpg",
+    "https://images.century21.pt/81b39305-ae76-4f62-85cc-4dbd90ce3b8b/WEBSITELISBOACalcadadaPampulha1-19.jpg",
+    "https://images.century21.pt/2eaa7b53-c9b3-435d-993b-5ec931774127/WEBSITELISBOACalcadadaPampulha1-15.jpg",
+    "https://images.century21.pt/29dc51c7-c535-4e23-9ccf-c3b77e2ba33b/WEBSITELISBOACalcadadaPampulha1-9.jpg",
+    "https://images.century21.pt/468e09ae-edea-4d77-a222-672be76081d3/WEBSITELISBOACalcadadaPampulha1-14.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Acesso por estrada",
+      "Boa localização",
+      "Zona tranquila",
+      "Localização central",
+      "Boa exposição solar",
+      "Piso em mosaico",
+      "Piso flutuante",
+      "Vista cidade",
+      "Vista rio",
+      "Ar condicionado",
+      "Caixilharia",
+      "Eletrodomésticos",
+      "Lareira",
+      "Casa de banho",
+      "Corredor",
+      "Cozinha",
+      "Quarto",
+      "Quarto em suite",
+      "Perto de espaços verdes",
+      "Perto de uma estação de comboio",
+      "Perto de uma igreja",
+      "Perto de uma praça de táxis",
+      "Perto de restaurantes",
+      "Perto de uma zona histórica",
+      "Salão",
+      "Varanda",
+      "Água",
+      "Eletricidade",
+      "Saneamento"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 63,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 70,
+  "ano_construcao": 2018,
+  "certificacao_energetica": "D"
 }

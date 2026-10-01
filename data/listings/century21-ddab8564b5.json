@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 56,
-  "image": "https://images.century21.pt/dac5bce0-da96-4ca7-8dee-5ef44eacecbc/ChatGPTImage25092026143107.png",
-  "description": null,
+  "image": "https://images.century21.pt/42fb54b4-1580-43c9-9616-cc2c894c9f10/BB-SALA.jpeg",
+  "description": "$20",
   "geo": {
     "lat": 38.6560482,
     "lng": -9.0421225
@@ -22,12 +22,27 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/dac5bce0-da96-4ca7-8dee-5ef44eacecbc/ChatGPTImage25092026143107.png"
+    "https://images.century21.pt/42fb54b4-1580-43c9-9616-cc2c894c9f10/BB-SALA.jpeg",
+    "https://images.century21.pt/20258c90-039d-48ef-ada7-5470058e6bee/BB-COZINHA3.jpeg",
+    "https://images.century21.pt/52d0b414-1640-4b50-9738-6bfa9e8a3f33/BB-WC.jpeg",
+    "https://images.century21.pt/a0aca77d-105d-4fb7-8c24-868c97ac5eb3/BB-QUARTO2.jpeg",
+    "https://images.century21.pt/6389bae4-8f62-47c5-ac14-3387c154399a/BB-QUARTO1.jpeg",
+    "https://images.century21.pt/7211a371-eeb6-49d8-91ed-65d1cf61c0bb/BB-VARANDA.jpeg",
+    "https://images.century21.pt/3e961316-7403-488a-99e8-1f01c0934af2/BB-PREDIO.jpeg",
+    "https://images.century21.pt/11934f68-d323-4769-8962-e14794344132/BAIXABANHEIRA.jpg",
+    "https://images.century21.pt/3d1dc666-d70e-4e86-83a4-eb3c2ca02060/BB-ENTRADAPREDIO.jpeg",
+    "https://images.century21.pt/fbe032ab-c5ff-4e69-bf18-0cdd62f85c90/BB-HALLPREDIO.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Localização central",
+      "Vista cidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 56,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 64,
+  "ano_construcao": 1989,
+  "certificacao_energetica": "D"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 141,
   "image": "https://images.century21.pt/24c4d2c9-9d2e-41c0-9e59-551809455633/040.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.4874361,
     "lng": -8.9043629
@@ -22,12 +22,35 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/24c4d2c9-9d2e-41c0-9e59-551809455633/040.jpg"
+    "https://images.century21.pt/24c4d2c9-9d2e-41c0-9e59-551809455633/040.jpg",
+    "https://images.century21.pt/62a8c9ad-2a24-424e-89da-a4db707cc968/004.jpg",
+    "https://images.century21.pt/19281cef-dac2-469b-9247-afadb8d679d8/020.jpg",
+    "https://images.century21.pt/ef3bcfe2-692f-4406-a36f-72d1995e03f0/015.jpg",
+    "https://images.century21.pt/2caa43f0-f34b-4c3c-bc08-6adb8c144ee5/010.jpg",
+    "https://images.century21.pt/f413f30b-367e-4709-9d87-ed17388fa77f/009.jpg",
+    "https://images.century21.pt/0056d209-2c2f-4be8-813a-8bc775cf9142/021.jpg",
+    "https://images.century21.pt/c37f2e5e-6dfe-46b2-98d2-7e6d4e541c2b/016.jpg",
+    "https://images.century21.pt/e8940532-b950-4ed4-92dc-0220b6459f90/006.jpg",
+    "https://images.century21.pt/9c2b8eec-3e06-4585-9115-5b84e4c5a89d/017.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Lareira",
+      "Jardim",
+      "Condomínio fechado",
+      "Boa exposição solar",
+      "Perto de a praia",
+      "Despensa",
+      "Gás canalizado",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Quarto em suite"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 141,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 142,
+  "ano_construcao": 1994,
+  "certificacao_energetica": "E"
 }

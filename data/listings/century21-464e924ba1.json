@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 256,
   "image": "https://images.century21.pt/55974411-9af5-4a33-a61d-dc06c630feb5/2.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.5545387,
     "lng": -9.0691691
@@ -22,12 +22,38 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/55974411-9af5-4a33-a61d-dc06c630feb5/2.jpg"
+    "https://images.century21.pt/55974411-9af5-4a33-a61d-dc06c630feb5/2.jpg",
+    "https://images.century21.pt/b66a9389-9c10-4c28-8aba-539d383a6b62/60.jpg",
+    "https://images.century21.pt/a7ce5655-83d1-44b5-92c0-2863377a0a6d/3.jpg",
+    "https://images.century21.pt/2a2f0bf9-570d-401e-a98c-e66e710e6746/4.jpg",
+    "https://images.century21.pt/009676a1-7124-42c5-9a07-2928305d9aca/5.jpg",
+    "https://images.century21.pt/2e807a99-8f18-49dc-b171-6a997ac849a1/6.jpg",
+    "https://images.century21.pt/fcee7534-0534-4a92-8620-92d5c6d485dc/7.jpg",
+    "https://images.century21.pt/e8f569bb-4302-4874-baec-7b6cee9297c4/8.jpg",
+    "https://images.century21.pt/63cac4cb-cd78-437e-a4ac-e17bb5e7534c/9.jpg",
+    "https://images.century21.pt/5960259b-8b0d-4764-8424-f52b602bb151/10.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Estacionamento",
+      "Propriedade plena",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Escritório",
+      "Garagem",
+      "Jardim",
+      "Lavandaria",
+      "Quarto em suite",
+      "Sala de festas",
+      "Terraço",
+      "Piscina"
+    ]
+  },
   "estado": null,
   "area_util_m2": 256,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 300,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "IN_PROCESS"
 }

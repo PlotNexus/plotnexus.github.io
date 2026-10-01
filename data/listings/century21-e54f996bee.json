@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 110,
   "image": "https://images.century21.pt/ca2357a4-79fd-4335-8d8a-5e2e6c2fc7f5/1000172940.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.6121088304539,
     "lng": -8.73747825622559
@@ -22,12 +22,40 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/ca2357a4-79fd-4335-8d8a-5e2e6c2fc7f5/1000172940.jpg"
+    "https://images.century21.pt/ca2357a4-79fd-4335-8d8a-5e2e6c2fc7f5/1000172940.jpg",
+    "https://images.century21.pt/00829973-965f-42b6-88d8-091e56745194/IMG2026081818302000169.jpg",
+    "https://images.century21.pt/25d279d7-1592-4ceb-b3cc-5e3ee7ad517e/IMG2026081818312400172.jpg",
+    "https://images.century21.pt/b75130f0-d963-4ff1-b843-a9534b7b6e17/IMG2026081818314600174.jpg",
+    "https://images.century21.pt/11196d00-71d0-42f0-a482-8a364643247b/IMG2026081818335600178.jpg",
+    "https://images.century21.pt/42fd81fc-d206-40e8-a7d9-0ef1196902a1/IMG2026081818351300179.jpg",
+    "https://images.century21.pt/cbb447ae-527d-4328-93c2-e69f094fd370/IMG2026081818363800181.jpg",
+    "https://images.century21.pt/ed475015-09fe-4981-aa21-edae637e01b5/IMG2026081818371400183.jpg",
+    "https://images.century21.pt/756a3884-ef22-4a32-98e4-03a81a4c0a91/IMG2026081818370100182.jpg",
+    "https://images.century21.pt/bca6beb4-09b7-44e7-ae96-ea166f0f458a/IMG2026081818374000184.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Eletrodomésticos",
+      "Varanda",
+      "Casa de banho",
+      "Quarto",
+      "Janelas duplas",
+      "Frigorífico",
+      "Boa exposição solar",
+      "Boa localização",
+      "Corredor",
+      "Cozinha",
+      "Vista serra",
+      "Perto de um complexo desportivo",
+      "Outra divisão",
+      "Telefone",
+      "Televisão",
+      "Piso em azulejo"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 110,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 127,
+  "ano_construcao": 2003,
+  "certificacao_energetica": "D"
 }

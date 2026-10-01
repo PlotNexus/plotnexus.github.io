@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 119.5,
   "image": "https://images.century21.pt/92315c01-fa18-4d6c-a4d1-6b6c3f3635e4/Fachada03.png",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 41.2016624,
     "lng": -8.6964727
@@ -22,12 +22,21 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/92315c01-fa18-4d6c-a4d1-6b6c3f3635e4/Fachada03.png"
+    "https://images.century21.pt/92315c01-fa18-4d6c-a4d1-6b6c3f3635e4/Fachada03.png",
+    "https://images.century21.pt/5ab0ab57-6cb8-470a-bde9-75c5d2087327/ZonadeJantar02.png",
+    "https://images.century21.pt/e0e0bcbc-058d-4efb-83d7-ad6ef2f12a2f/Cozinha.png",
+    "https://images.century21.pt/c0e94b1e-1b7d-44c3-874e-cf051423245d/ZonadeJantar.png",
+    "https://images.century21.pt/f3650c44-c20f-47f9-9eb2-3c2b8c6d50da/Entrada.png",
+    "https://images.century21.pt/97b1a96a-24e6-45dd-a8e3-22dae03161c5/Sala.png",
+    "https://images.century21.pt/60138c1a-a010-421a-8436-bfc341d1867c/Salaecozinha.png",
+    "https://images.century21.pt/db447612-06df-42cf-8e2b-5e97015c291d/Varanda.png",
+    "https://images.century21.pt/9db6d527-7010-4703-b0ce-fc031d6b59ef/Fachada06.png",
+    "https://images.century21.pt/c5b14976-0b90-4068-bb3d-9bf254659b3b/LogradouroExclusivo.png"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 119.5,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 139,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "EXEMPT"
 }

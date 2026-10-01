@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 69.97,
   "image": "https://images.century21.pt/aa48b6ea-f61d-4a86-8eea-77f01b1f71cf/02FACHADA.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 39.6358608814969,
     "lng": -8.48856380883051
@@ -22,12 +22,38 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/aa48b6ea-f61d-4a86-8eea-77f01b1f71cf/02FACHADA.jpg"
+    "https://images.century21.pt/aa48b6ea-f61d-4a86-8eea-77f01b1f71cf/02FACHADA.jpg",
+    "https://images.century21.pt/067bc402-f137-48aa-8948-92100fa4f0fe/01EXTERIOR.jpg",
+    "https://images.century21.pt/4e062121-df11-4557-9697-dca6878ef5a0/03ATELIER.png",
+    "https://images.century21.pt/a5225681-a2fc-4a0a-9a5c-faa9fe27331a/04ATELIER.png",
+    "https://images.century21.pt/49247bfd-ef2a-4387-8500-e9be3234daa8/05EXTERIOR.jpg",
+    "https://images.century21.pt/e5bc0038-6669-4567-b6e4-3889e9065095/06SALA.jpg",
+    "https://images.century21.pt/329a8b59-6229-41d8-9f15-4891dd734748/07SALA.jpg",
+    "https://images.century21.pt/224a3999-5cb4-4b0f-a5da-96c08851074f/08EXTERIOR.jpg",
+    "https://images.century21.pt/3b02559e-61f2-4749-82d2-74c5b8f1f0ca/11SALA.png",
+    "https://images.century21.pt/5f47e278-2a35-4314-9687-da51fd3cb510/09COZINHA.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Churrasqueira",
+      "Casa de banho",
+      "Quarto",
+      "Eletricidade",
+      "Árvores de fruto",
+      "Jardim",
+      "Boa exposição solar",
+      "Cozinha",
+      "Sala de estar",
+      "Vista serra",
+      "Zona tranquila",
+      "Água canalizada",
+      "Horta"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 69.97,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 179.97,
+  "ano_construcao": 1988,
+  "certificacao_energetica": "EXEMPT"
 }

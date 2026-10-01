@@ -9,7 +9,7 @@
   "bathrooms": 7,
   "area_m2": 468,
   "image": "https://images.century21.pt/0d0658ba-490f-42b3-a6f3-a8f32bdad5f0/WhatsAppImage2026-02-23at17.02.14(2).jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6178964,
     "lng": -9.1932656
@@ -22,12 +22,24 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/0d0658ba-490f-42b3-a6f3-a8f32bdad5f0/WhatsAppImage2026-02-23at17.02.14(2).jpeg"
+    "https://images.century21.pt/0d0658ba-490f-42b3-a6f3-a8f32bdad5f0/WhatsAppImage2026-02-23at17.02.14(2).jpeg",
+    "https://images.century21.pt/484681cd-1325-4cc3-93e7-385e462997b8/WhatsAppImage2026-02-23at17.02.15(2).jpeg",
+    "https://images.century21.pt/00475e12-4b7b-44af-a45c-055c62fbeb8d/WhatsAppImage2026-02-23at17.02.14.jpeg",
+    "https://images.century21.pt/2964aa8a-98de-4e1b-af5b-f8d78e7d4af8/WhatsAppImage2026-02-23at17.02.15(3).jpeg",
+    "https://images.century21.pt/fc067557-bc71-4965-8074-56a1bbfb8da4/WhatsAppImage2026-02-23at17.02.15(1).jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Acessibilidade para mobilidade reduzida",
+      "Boa localização",
+      "Acesso para cargas e descargas",
+      "Zona tranquila",
+      "Acesso por estrada"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 468,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 990,
+  "ano_construcao": 1990,
+  "certificacao_energetica": "C"
 }

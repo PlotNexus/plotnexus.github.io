@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 100,
   "image": "https://images.century21.pt/03b601d5-8031-4e70-b28f-1c739c1c3fb8/THY02335-HDRb.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.5930005660397,
     "lng": -9.09114362215098
@@ -22,12 +22,47 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/03b601d5-8031-4e70-b28f-1c739c1c3fb8/THY02335-HDRb.png"
+    "https://images.century21.pt/03b601d5-8031-4e70-b28f-1c739c1c3fb8/THY02335-HDRb.png",
+    "https://images.century21.pt/2bdbf081-9915-4470-8692-2450e6e5c253/THY02326-HDRb.png",
+    "https://images.century21.pt/62208e27-f590-44da-9c23-61c26fe3b27d/THY02350-HDRb.png",
+    "https://images.century21.pt/b76b658e-4112-48d6-92ae-dfb9a95fe358/THY02359-HDR.jpg",
+    "https://images.century21.pt/d097bc82-ad6f-41eb-934a-f70f76901a43/THY02362-HDR.jpg",
+    "https://images.century21.pt/8541c914-bb2a-47b3-82b0-f9a4f200f5e6/THY02365-HDR.jpg",
+    "https://images.century21.pt/d7662071-06cf-4ad5-a6c2-829f54332333/THY02311-HDR.jpg",
+    "https://images.century21.pt/100eba58-e5e2-404a-ab5a-814d3548cbc2/THY02320-HDR.jpg",
+    "https://images.century21.pt/444ef098-9928-4590-9143-9a797ce7a78f/THY02341-HDR.jpg",
+    "https://images.century21.pt/02431594-1b2f-4f86-ad33-f0b46825dc36/THY02347-HDRb.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Vista cidade",
+      "Casa de banho",
+      "Casa de banho privativa",
+      "Cozinha",
+      "Garagem",
+      "Pátio",
+      "Quarto",
+      "Água",
+      "Eletricidade",
+      "Saneamento",
+      "Perto de comodidades",
+      "Perto de um complexo desportivo",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma estação de comboio",
+      "Perto de uma farmácia",
+      "Perto de uma igreja",
+      "Perto de um infantário",
+      "Perto de um espaço público",
+      "Perto de um mercado",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de o centro da cidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 100,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 164,
+  "ano_construcao": 1997,
+  "certificacao_energetica": "E"
 }

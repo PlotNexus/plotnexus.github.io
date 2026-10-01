@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 47.91,
   "image": "https://images.century21.pt/c054727d-ee3c-4a30-9da7-a5fea02fa58e/WhatsAppImage2026-09-14at11.47.30(21).jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.772509,
     "lng": -9.194511
@@ -22,12 +22,27 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/c054727d-ee3c-4a30-9da7-a5fea02fa58e/WhatsAppImage2026-09-14at11.47.30(21).jpeg"
+    "https://images.century21.pt/c054727d-ee3c-4a30-9da7-a5fea02fa58e/WhatsAppImage2026-09-14at11.47.30(21).jpeg",
+    "https://images.century21.pt/fae354ce-3a3c-4185-9d22-2f0dc815ccbb/WhatsAppImage2026-09-14at11.47.30(3).jpeg",
+    "https://images.century21.pt/80b1354d-f48b-46b7-ae2a-b60fa6f20a38/WhatsAppImage2026-09-14at11.47.30(4).jpeg",
+    "https://images.century21.pt/2fa2fb27-8d7b-45b4-a491-206ab0086515/WhatsAppImage2026-09-14at11.47.30(2).jpeg",
+    "https://images.century21.pt/5ede17f2-9f7b-4ee4-a80d-2aba4cd9df0a/WhatsAppImage2026-09-14at11.47.28.jpeg",
+    "https://images.century21.pt/9fc67e17-5fbc-43fb-8695-a3f2dc7cc661/WhatsAppImage2026-09-14at11.47.30(5).jpeg",
+    "https://images.century21.pt/f6ff3add-7f03-41c9-9498-1cd878fa1ca4/WhatsAppImage2026-09-14at11.47.30(6).jpeg",
+    "https://images.century21.pt/ff1e98a7-402b-4c38-9bfb-a2c3b2f4b39c/WhatsAppImage2026-09-14at11.47.30(1).jpeg",
+    "https://images.century21.pt/ff82aefe-821d-4af0-b9d3-c17da15c4439/WhatsAppImage2026-09-14at11.47.30(7).jpeg",
+    "https://images.century21.pt/fc22af3e-04ce-4514-aadf-74088e1ac721/WhatsAppImage2026-09-14at11.47.30(10).jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Perto de uma autoestrada"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 47.91,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 50,
+  "ano_construcao": 1991,
+  "certificacao_energetica": "C"
 }

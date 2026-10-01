@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 211,
   "image": "https://images.century21.pt/da71e24c-6ab4-4970-b0af-9243bc7c1c97/graca00008.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 39.4514886,
     "lng": -31.2609956
@@ -22,12 +22,36 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/da71e24c-6ab4-4970-b0af-9243bc7c1c97/graca00008.jpg"
+    "https://images.century21.pt/da71e24c-6ab4-4970-b0af-9243bc7c1c97/graca00008.jpg",
+    "https://images.century21.pt/3c436847-dbff-49ec-85bc-de61a36a6abf/graca00003.jpg",
+    "https://images.century21.pt/fd888e8d-b9fb-4d00-a535-8ee2fad057e4/graca00002.jpg",
+    "https://images.century21.pt/4ed2894a-cbac-4ebf-918a-811f48b1973c/graca00007.jpg",
+    "https://images.century21.pt/43c0e849-e12b-402d-9f36-6128ef1e2e43/graca00005.jpg",
+    "https://images.century21.pt/eff60590-be97-4a93-b61d-799420b65fe9/graca00026.jpg",
+    "https://images.century21.pt/c0c01f32-21c9-434d-ac00-616121fd09c6/graca00029.jpg",
+    "https://images.century21.pt/ddb361f6-b423-4cd7-9fff-61010db7be80/graca00006.jpg",
+    "https://images.century21.pt/a87f8a7e-b510-404d-b1c5-e7fb98ce8439/graca00019.jpg",
+    "https://images.century21.pt/c3cf508a-c823-4895-8ccf-360ff1555fa1/graca00033.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Zona tranquila",
+      "Propriedade plena",
+      "Sem cadeia de venda",
+      "Perto de um banco",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma igreja",
+      "Perto de uma praça de táxis",
+      "Perto de restaurantes"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 211,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 221,
+  "ano_construcao": 2006,
+  "certificacao_energetica": "D"
 }

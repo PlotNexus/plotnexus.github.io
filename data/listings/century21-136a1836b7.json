@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 80.86,
   "image": "https://images.century21.pt/8c8a41ae-71a5-4974-a9c6-63ac4d2af955/472A07353.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.797683,
     "lng": -9.33051
@@ -22,12 +22,40 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/8c8a41ae-71a5-4974-a9c6-63ac4d2af955/472A07353.jpg"
+    "https://images.century21.pt/8c8a41ae-71a5-4974-a9c6-63ac4d2af955/472A07353.jpg",
+    "https://images.century21.pt/17641bd1-75d8-487f-80a7-90b9068fa17a/472A07473.jpg",
+    "https://images.century21.pt/4942b559-7091-4328-98ea-16b195f0b854/472A07233.jpg",
+    "https://images.century21.pt/9fd3a0ad-8f6a-4c22-a945-99812130a1cb/472A07093.jpg",
+    "https://images.century21.pt/317082f3-5a52-43c9-984a-ccfd2922b70c/472A07193.jpg",
+    "https://images.century21.pt/6987586d-5d6f-43ab-9bfd-e6df8e4f9afa/472A07803.jpg",
+    "https://images.century21.pt/e2503079-c873-4056-ba53-9fafce75206a/472A07123.jpg",
+    "https://images.century21.pt/0b922687-7f28-469c-aaae-36443a56aa8c/472A07413.jpg",
+    "https://images.century21.pt/7df2c08e-faa9-4475-a4ac-4fb1a8c31d81/472A07753.jpg",
+    "https://images.century21.pt/52815852-9c3e-442a-8d4d-992d0d72c1ed/472A07593.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Casa de banho",
+      "Quarto",
+      "Sala de jantar",
+      "Hall de entrada",
+      "Cozinha",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma zona comercial",
+      "Perto de espaços verdes",
+      "Perto de um infantário",
+      "Perto de uma farmácia",
+      "Perto de um espaço público",
+      "Perto de uma estação de comboio",
+      "Perto de restaurantes",
+      "Despensa",
+      "Arrecadação"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 80.86,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 97.1,
+  "ano_construcao": 2000,
+  "certificacao_energetica": "D"
 }

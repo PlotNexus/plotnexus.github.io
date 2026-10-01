@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 123.18,
   "image": "https://images.century21.pt/6b0653eb-ce9a-4e85-b7bd-bb7efa5bb2b9/25.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 39.40739,
     "lng": -9.142215
@@ -22,12 +22,57 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/6b0653eb-ce9a-4e85-b7bd-bb7efa5bb2b9/25.jpg"
+    "https://images.century21.pt/6b0653eb-ce9a-4e85-b7bd-bb7efa5bb2b9/25.jpg",
+    "https://images.century21.pt/27296d1b-4080-4ef4-9917-b3758b3d5b4b/27.jpg",
+    "https://images.century21.pt/a52ce663-96c9-4c70-a095-4034dacfa0af/WhatsAppImage2026-07-07at13.31.40(6).jpeg",
+    "https://images.century21.pt/06a75ad3-4ae6-4219-985a-f4bf78068ffd/28.jpg",
+    "https://images.century21.pt/02287b6a-07ba-44e5-b4b8-49f20577b8b6/29.jpg",
+    "https://images.century21.pt/272feb39-8c6b-430d-b1a6-2606492dffb0/24.jpg",
+    "https://images.century21.pt/9d8ef9bd-a984-4dfc-9a2e-eaa3553d1c90/26.jpg",
+    "https://images.century21.pt/e8346fe6-af9c-4afa-9d9e-3e752a1ce82a/22.jpg",
+    "https://images.century21.pt/07a85bdb-d11c-4e97-bb55-ea254315b9e1/23.jpg",
+    "https://images.century21.pt/cc5e97f1-0c94-4ba7-9842-84b777f2cade/21.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Casa de banho",
+      "Quarto",
+      "Hall de quartos",
+      "Localização central",
+      "Vista cidade",
+      "Sala de jantar",
+      "Máquina de lavar loiça",
+      "Eletricidade",
+      "Elevador",
+      "Exaustor",
+      "Frigorífico",
+      "Gás",
+      "Boa exposição solar",
+      "Boa localização",
+      "Corredor",
+      "Aquecedor",
+      "Fogão de indução",
+      "Cozinha",
+      "Sala de estar",
+      "Micro-ondas",
+      "Outra divisão",
+      "Forno",
+      "Paredes pintadas",
+      "Estacionamento",
+      "Zona tranquila",
+      "Acesso por estrada",
+      "Casa de banho de suite",
+      "Quarto em suite",
+      "Vídeo-porteiro",
+      "Máquina de lavar roupa",
+      "Água",
+      "Esquentador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 123.18,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 169,
+  "ano_construcao": 2003,
+  "certificacao_energetica": "C"
 }

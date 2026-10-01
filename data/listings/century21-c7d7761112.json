@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 82,
   "image": "https://images.century21.pt/569e2249-2d26-4e18-a2fc-f1199b450a98/Century21-MonicaSantos-JanelasVerdesSantos-5.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7054445,
     "lng": -9.1604613
@@ -22,12 +22,26 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/569e2249-2d26-4e18-a2fc-f1199b450a98/Century21-MonicaSantos-JanelasVerdesSantos-5.jpg"
+    "https://images.century21.pt/569e2249-2d26-4e18-a2fc-f1199b450a98/Century21-MonicaSantos-JanelasVerdesSantos-5.jpg",
+    "https://images.century21.pt/8361c391-9e4c-4a62-8a6b-4650c80164bb/Century21-MonicaSantos-JanelasVerdesSantos-6.jpg",
+    "https://images.century21.pt/2b1bef22-605c-4b75-8212-eaea519e7e0e/Century21-MonicaSantos-JanelasVerdesSantos-7.jpg",
+    "https://images.century21.pt/e16443f3-16b7-4c88-b9d5-20ba87cc91ec/Century21-MonicaSantos-JanelasVerdesSantos-18.jpg",
+    "https://images.century21.pt/1d740535-8efa-4ddd-a17c-da26a2191f11/Century21-MonicaSantos-JanelasVerdesSantos-10.jpg",
+    "https://images.century21.pt/4d506ec4-86e6-490e-87bf-6edfe30ae147/Century21-MonicaSantos-JanelasVerdesSantos-9.jpg",
+    "https://images.century21.pt/4459d5f1-be0b-4dc0-8c78-95a287d57a26/Century21-MonicaSantos-JanelasVerdesSantos-12.jpg",
+    "https://images.century21.pt/f43260db-1d78-4063-94a9-edd81f979049/Century21-MonicaSantos-JanelasVerdesSantos-8.jpg",
+    "https://images.century21.pt/4b7da01e-7258-4c90-9410-17ad80f81506/Century21-MonicaSantos-JanelasVerdesSantos-15.jpg",
+    "https://images.century21.pt/351df9d9-dff8-4f00-af8b-b8ac4715b409/Century21-MonicaSantos-JanelasVerdesSantos-16.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 82,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 83,
+  "ano_construcao": 1988,
+  "certificacao_energetica": "F"
 }

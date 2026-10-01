@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 80.3,
   "image": "https://images.century21.pt/e19d2f9a-2df5-4942-a51e-d020d2d7f220/DJI202609211525430053D.JPG",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.3878374,
     "lng": -8.764139
@@ -22,12 +22,44 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/e19d2f9a-2df5-4942-a51e-d020d2d7f220/DJI202609211525430053D.JPG"
+    "https://images.century21.pt/e19d2f9a-2df5-4942-a51e-d020d2d7f220/DJI202609211525430053D.JPG",
+    "https://images.century21.pt/09c35b1c-bf33-458d-9558-c981bbfd4fff/DJI202609211525330052D(1).JPG",
+    "https://images.century21.pt/6b576435-eddc-4e11-b308-7ae7f88db75f/DJI202609211525030050D(1).JPG",
+    "https://images.century21.pt/bb1797ab-bd92-4d30-ba27-e9f8cefeec6f/DJI202609211525140051D(1).JPG",
+    "https://images.century21.pt/2112e172-f149-41d1-a943-d8ad75201c57/DJI202609211526140054D(1).JPG",
+    "https://images.century21.pt/7ea5bf03-7ccb-462c-bddc-9cc04203b1fb/MAR01695.JPG",
+    "https://images.century21.pt/66b1ee25-b34f-4d87-9416-373b65560839/MAR01697.JPG",
+    "https://images.century21.pt/a7918f4f-eabe-4555-8a66-6e4fc2825189/MAR01699.JPG",
+    "https://images.century21.pt/454c52f4-5634-4d56-ac48-189de3ea84a6/MAR01720.JPG",
+    "https://images.century21.pt/c69adbb2-a700-467d-9281-a8e8d9a6f9ac/MAR01714.JPG"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Casa de banho",
+      "Localização central",
+      "Sala de jantar",
+      "Eletricidade",
+      "Garagem",
+      "Boa localização",
+      "Corredor",
+      "Cozinha",
+      "Perto de comodidades",
+      "Perto de um banco",
+      "Perto de uma igreja",
+      "Perto de o centro da cidade",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de uma farmácia",
+      "Perto de uma praça de táxis",
+      "Saneamento",
+      "Água canalizada",
+      "Piso em madeira"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 80.3,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 109.6,
+  "ano_construcao": 1982,
+  "certificacao_energetica": "E"
 }

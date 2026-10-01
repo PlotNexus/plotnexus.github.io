@@ -8,8 +8,8 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 185,
-  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-t4-vila-franca-de-xira-castanheira-do-ribatejo-e-cachoeiras_13_1_1482345_18145313_2_1_bOnE2JMRDCGfWy8K4TroC8N03EZDNhxBjQizkQFC0nLEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-t4-vila-franca-de-xira-castanheira-do-ribatejo-e-cachoeiras_14_1_1482345_18145313_2_1_bOnE2JMRDCGfWy8K4TroC8N03EZDNhxBjQizkQFC0nLEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia de 2 pisos com 185² de área privativa com quintal de 66m², ideal para remodelar a gosto. Localizada em zona calma e próxima das principais vias de circulação em Castanheira do Ribatejo.",
   "geo": {
     "lat": 38.99298,
     "lng": -8.973865
@@ -22,12 +22,31 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-em-banda-t4-vila-franca-de-xira-castanheira-do-ribatejo-e-cachoeiras_13_1_1482345_18145313_2_1_bOnE2JMRDCGfWy8K4TroC8N03EZDNhxBjQizkQFC0nLEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-em-banda-t4-vila-franca-de-xira-castanheira-do-ribatejo-e-cachoeiras_14_1_1482345_18145313_2_1_bOnE2JMRDCGfWy8K4TroC8N03EZDNhxBjQizkQFC0nLEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 185"
+    ],
+    "Geral": [
+      "Nº Frentes: 2",
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Revestimento Exterior: Pintado",
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Zona": [
+      "Acessos: Transportes Púb."
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 185,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 185,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

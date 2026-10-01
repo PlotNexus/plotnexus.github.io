@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 96,
   "image": "https://images.century21.pt/eeebe83a-812a-4e03-b63a-56e3a1bf2941/DSC3561.jpg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 38.4674875,
     "lng": -9.0993565
@@ -22,12 +22,27 @@
   "published_at": "2026-10-01",
   "last_seen_at": "2026-10-01",
   "images": [
-    "https://images.century21.pt/eeebe83a-812a-4e03-b63a-56e3a1bf2941/DSC3561.jpg"
+    "https://images.century21.pt/eeebe83a-812a-4e03-b63a-56e3a1bf2941/DSC3561.jpg",
+    "https://images.century21.pt/3096cf78-8f35-4bad-9c25-2913f9091dbd/DSC3565.jpg",
+    "https://images.century21.pt/938cf3fd-9617-407d-8bbe-05833f4c1d09/DSC3563.jpg",
+    "https://images.century21.pt/0e580cd1-884b-4e71-bc43-f715e90a5e2f/DSC3564.jpg",
+    "https://images.century21.pt/5dcfc743-2d4c-4042-9b1e-b0debf3a3705/DSC3562.jpg",
+    "https://images.century21.pt/d3a46eee-284c-46d4-b515-40725b71ccbc/DSC3560.jpg",
+    "https://images.century21.pt/f35c4f38-5591-4d77-a760-ccfe462e3b8d/DSC3572.jpg",
+    "https://images.century21.pt/2a8a30eb-ddba-4f51-b1af-434353156e1a/DSC3573.jpg",
+    "https://images.century21.pt/72c44918-4c23-47b1-8873-2cd9d34cfb15/DSC3576.jpg",
+    "https://images.century21.pt/63069913-e2d9-4b56-8fcd-0330d32e79b4/DSC3575.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Boa localização",
+      "Acesso por estrada"
+    ]
+  },
   "estado": null,
   "area_util_m2": 96,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 122.5,
+  "ano_construcao": 2006,
+  "certificacao_energetica": "D"
 }
