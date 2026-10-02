@@ -8,7 +8,7 @@
   "bedrooms": 3,
   "bathrooms": 1,
   "area_m2": 90,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t3-seixal-seixal-arrentela-e-aldeia-de-paio-pires_13_1_1579826_19208681_2_1_Ye3kS5W1ZKyOVLFv3LtfgNCA%2bdVStyoBpDF8MgbK%2fGzEB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/apartamento-t3-seixal-seixal-arrentela-e-aldeia-de-paio-pires_14_1_1579826_19208681_2_1_Ye3kS5W1ZKyOVLFv3LtfgNCA%2bdVStyoBpDF8MgbK%2fGzEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 38.62286,
@@ -22,12 +22,23 @@
   "published_at": "2026-10-02",
   "last_seen_at": "2026-10-02",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t3-seixal-seixal-arrentela-e-aldeia-de-paio-pires_13_1_1579826_19208681_2_1_Ye3kS5W1ZKyOVLFv3LtfgNCA%2bdVStyoBpDF8MgbK%2fGzEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t3-seixal-seixal-arrentela-e-aldeia-de-paio-pires_14_1_1579826_19208681_2_1_Ye3kS5W1ZKyOVLFv3LtfgNCA%2bdVStyoBpDF8MgbK%2fGzEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 90"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo Empreendimento: Habitação"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 90,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 90,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

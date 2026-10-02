@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 47,
   "image": "https://images.century21.pt/c21mariapinto-t0noporto-007-jpg_fb117b88-51cc-4334-ab54-f383725d6d16.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.1537714786261,
     "lng": -8.60621149615653
@@ -22,12 +22,31 @@
   "published_at": "2026-10-02",
   "last_seen_at": "2026-10-02",
   "images": [
-    "https://images.century21.pt/c21mariapinto-t0noporto-007-jpg_fb117b88-51cc-4334-ab54-f383725d6d16.jpg"
+    "https://images.century21.pt/c21mariapinto-t0noporto-007-jpg_fb117b88-51cc-4334-ab54-f383725d6d16.jpg",
+    "https://images.century21.pt/c21mariapinto-t0noporto-003-jpg_093769c4-22dc-4f5e-aeca-e2f17d602b72.jpg",
+    "https://images.century21.pt/c21mariapinto-t0noporto-004-jpg_a17be225-e7c9-4816-baaa-ef949f5df218.jpg",
+    "https://images.century21.pt/c21mariapinto-t0noporto-005-jpg_f09b69c6-cc22-476c-8318-17e79bb6ce4a.jpg",
+    "https://images.century21.pt/c21mariapinto-t0noporto-006-jpg_39bd0ecc-07e2-412a-820e-936d01c999f9.jpg",
+    "https://images.century21.pt/c21mariapinto-t0noporto-002-jpg_a2faeaf1-8a5d-4c19-8681-4c953fe9d8d4.jpg",
+    "https://images.century21.pt/c21mariapinto-t0noporto-009-jpg_84320e06-ea4e-4b74-a2b7-6aa29743c55e.jpg",
+    "https://images.century21.pt/c21mariapinto-t0noporto-008-jpg_1556efe2-2a6f-478e-ad36-6f8b83683881.jpg",
+    "https://images.century21.pt/c21mariapinto-t0noporto-011-jpg_45eeb945-3120-4aef-8509-f4fb87510955.jpg",
+    "https://images.century21.pt/c21mariapinto-t0noporto-010-jpg_fe764da7-c4cb-4c4f-8d1f-6109889c40db.jpg",
+    "https://images.century21.pt/c21mariapinto-t0noporto-001-jpg_1e32286e-fd3c-47bf-8c4b-b2d92086250e.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Cozinha equipada",
+      "Exaustor",
+      "Forno",
+      "Frigorífico",
+      "Máquina de lavar roupa",
+      "Roupeiro"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 47,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 49,
+  "ano_construcao": 2022,
+  "certificacao_energetica": "B-"
 }
