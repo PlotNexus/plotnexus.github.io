@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 328,
-  "image": "https://mediaredir2.era.pt/i/moradia-t2-gondomar-rio-tinto-centro_13_1_1375236_16930871_2_1_mMptwc%2b5hl6mwoN8DLQsrjhHHeLQSeSbOnnEU8NP7Z3EB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t2-gondomar-rio-tinto-centro_14_1_1375236_16930871_2_1_mMptwc%2b5hl6mwoN8DLQsrjhHHeLQSeSbOnnEU8NP7Z3EB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia centro de Rio Tinto com terreno, precisa de restauro total",
   "geo": {
     "lat": 41.17719,
     "lng": -8.556442
@@ -22,12 +22,20 @@
   "published_at": "2026-10-02",
   "last_seen_at": "2026-10-02",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t2-gondomar-rio-tinto-centro_13_1_1375236_16930871_2_1_mMptwc%2b5hl6mwoN8DLQsrjhHHeLQSeSbOnnEU8NP7Z3EB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t2-gondomar-rio-tinto-centro_14_1_1375236_16930871_2_1_mMptwc%2b5hl6mwoN8DLQsrjhHHeLQSeSbOnnEU8NP7Z3EB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t2-gondomar-rio-tinto-centro_14_1_1375236_16930870_2_1_LRk9QQBH8cWkqjBymI2wLXZhCCy47nuQIka7Uf2PYRPEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t2-gondomar-rio-tinto-centro_14_1_1375236_16923347_2_1_RmTPHbofTW7sraBePQBAQPacJsRHmnxDaSW%2bJjr49drEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t2-gondomar-rio-tinto-centro_14_1_1375236_16923350_2_1_8h1%2bOkrzCHTc4NdhkWrImAA9mD52d%2bce0tz%2bexcJsWvEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 112"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 328,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 112,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

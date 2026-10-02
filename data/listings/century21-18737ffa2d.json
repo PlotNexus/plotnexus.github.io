@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 194.49,
   "image": "https://images.century21.pt/c3ee3bb8-3d7c-47d9-8e67-739c86093b9b/A1-Terrao3D.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.4428826,
     "lng": -9.1151828
@@ -22,12 +22,47 @@
   "published_at": "2026-10-02",
   "last_seen_at": "2026-10-02",
   "images": [
-    "https://images.century21.pt/c3ee3bb8-3d7c-47d9-8e67-739c86093b9b/A1-Terrao3D.png"
+    "https://images.century21.pt/c3ee3bb8-3d7c-47d9-8e67-739c86093b9b/A1-Terrao3D.png",
+    "https://images.century21.pt/04d17d92-28ab-44d6-978a-decbce1877a3/A2-Terrao(2).jpg",
+    "https://images.century21.pt/cad8a346-3ad1-4230-9e40-d7be16dfc16a/A3-Terrao.jpg",
+    "https://images.century21.pt/506c9244-5727-4c53-8788-dc851a330d91/A4-Terrao.jpg",
+    "https://images.century21.pt/4244e5d4-b9e0-4eab-9bc8-e392b9e34ff0/A5-Terrao.jpg",
+    "https://images.century21.pt/94731452-646f-4eb8-be49-460e3718f804/A6-Terrao.jpg",
+    "https://images.century21.pt/7a7e925b-06fa-45eb-b8a1-74275dbd3ae9/B1-terracovista1.jpg",
+    "https://images.century21.pt/cdc28156-71e5-417f-855b-e06b9308154c/B4-terracovista8.jpg",
+    "https://images.century21.pt/70403b69-5b4f-45f1-94ed-a464df05db32/B5-terracos1.jpg",
+    "https://images.century21.pt/70368d91-5c82-4411-abc9-011b4a3127c7/B3-terracovista7.jpg",
+    "https://images.century21.pt/cb371a96-b26b-411e-bd5f-4db9e68c2c17/B6-terracoescadas2.jpg",
+    "https://images.century21.pt/214c8c54-9529-41a6-bb97-ada0bac0ac42/C1-Saladeestar3D.png",
+    "https://images.century21.pt/ed66d9fc-77cb-4b59-9867-f15f2ecc7981/C2.1-sala6.jpg",
+    "https://images.century21.pt/31aa0254-3079-4c1b-9e6f-3d490279cfd2/C2.2-elevador.jpg",
+    "https://images.century21.pt/db7dfe55-b1ba-4811-9873-bcc83af7201a/C3-sala.jpg",
+    "https://images.century21.pt/b0ec0834-dd46-4925-bb7c-f74356255b1c/C4-sala.jpg",
+    "https://images.century21.pt/6614c660-f1e4-404d-ae3e-1d1f1b8502e5/C5-sala.jpg",
+    "https://images.century21.pt/06745c5e-d0ab-4f21-8446-9bbf04cd20fd/C6.1-sala3D.png",
+    "https://images.century21.pt/6cfe7907-7bfe-48fa-bee3-eb8e6bf5f181/C6.2-sala.jpg",
+    "https://images.century21.pt/4b6eb1f1-b3f0-44d9-99c0-f48f92281d65/C7-sala.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Garagem",
+      "Jardim",
+      "Terraço",
+      "Varanda",
+      "Varandas",
+      "Ar condicionado",
+      "Elevador",
+      "Vista mar",
+      "Vista praia",
+      "Perto de a praia",
+      "Perto de o centro da cidade",
+      "Condomínio fechado",
+      "Piscina comum"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 194.49,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 269.3,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "IN_PROCESS"
 }
