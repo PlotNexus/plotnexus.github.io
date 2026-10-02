@@ -8,8 +8,8 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 156,
-  "image": "https://mediaredir3.era.pt/i/moradia-t3-barcelos-carvalhal_13_1_1089301_13782273_3_1_yQMIwdMDda8AuOywhtUqu13xiux4MM0I2Z0tLPpOUGjEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir3.era.pt/i/moradia-t3-barcelos-carvalhal_14_1_1089301_13782273_3_1_yQMIwdMDda8AuOywhtUqu13xiux4MM0I2Z0tLPpOUGjEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia térrea, nova e na periferia da cidade. Destaque para a sala e cozinha em open space com 45 m2.",
   "geo": {
     "lat": 41.51061,
     "lng": -8.638743
@@ -22,12 +22,29 @@
   "published_at": "2026-10-02",
   "last_seen_at": "2026-10-02",
   "images": [
-    "https://mediaredir3.era.pt/i/moradia-t3-barcelos-carvalhal_13_1_1089301_13782273_3_1_yQMIwdMDda8AuOywhtUqu13xiux4MM0I2Z0tLPpOUGjEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir3.era.pt/i/moradia-t3-barcelos-carvalhal_14_1_1089301_13782273_3_1_yQMIwdMDda8AuOywhtUqu13xiux4MM0I2Z0tLPpOUGjEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Novo",
+      "Área Bruta: 156"
+    ],
+    "Edifício": [
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Garagem": [
+      "Área : 40",
+      "Local: Exterior"
+    ],
+    "Zona": [
+      "Acessos: Bons",
+      "Centralidade: Periferia Cidade",
+      "Proximidade: Bancos, Bombeiros, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 156,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 156,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

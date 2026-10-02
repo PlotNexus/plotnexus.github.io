@@ -8,8 +8,8 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": 50,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t1-mira-mira_13_1_1437242_17797585_2_1_2e83KXU%2bCYXD5fxEQ2NdUPkCGJugbGkCuzrOGW5uwI%2fEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t1-mira-mira_14_1_1437242_17797585_2_1_2e83KXU%2bCYXD5fxEQ2NdUPkCGJugbGkCuzrOGW5uwI%2fEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Apartamento T1 com 50 m2, localizado no centro de Mira, e a 7 mminutos da Praia de Mira. Este apartamento conta com sotão com 26 m2 e um terraço com 22m2, localizado no sotão.",
   "geo": {
     "lat": 40.43239,
     "lng": -8.740478
@@ -22,12 +22,16 @@
   "published_at": "2026-10-02",
   "last_seen_at": "2026-10-02",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t1-mira-mira_13_1_1437242_17797585_2_1_2e83KXU%2bCYXD5fxEQ2NdUPkCGJugbGkCuzrOGW5uwI%2fEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t1-mira-mira_14_1_1437242_17797585_2_1_2e83KXU%2bCYXD5fxEQ2NdUPkCGJugbGkCuzrOGW5uwI%2fEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Planta"
+    ]
+  },
+  "estado": "Planta",
   "area_util_m2": 50,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

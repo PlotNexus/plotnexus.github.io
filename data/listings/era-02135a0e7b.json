@@ -8,7 +8,7 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 80,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t3-amadora-venteira_13_1_1585641_19281613_2_1_zBl7f0aKsieYvKxu48q8CFShTahum%2fKfel3spKC932DEB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/apartamento-t3-amadora-venteira_14_1_1585641_19281613_2_1_zBl7f0aKsieYvKxu48q8CFShTahum%2fKfel3spKC932DEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 38.7578805,
@@ -22,12 +22,17 @@
   "published_at": "2026-10-02",
   "last_seen_at": "2026-10-02",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t3-amadora-venteira_13_1_1585641_19281613_2_1_zBl7f0aKsieYvKxu48q8CFShTahum%2fKfel3spKC932DEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t3-amadora-venteira_14_1_1585641_19281613_2_1_zBl7f0aKsieYvKxu48q8CFShTahum%2fKfel3spKC932DEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Renovado",
+      "Área Bruta: 80"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 80,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 80,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 105,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t2-odivelas-ramada-e-canecas_13_1_1585426_19283852_2_1_%2ftHjG30RL2POGzFYt8PHevX9sRgTjo5xWNQBKb5CxBHEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t2-odivelas-ramada-e-canecas_14_1_1585426_19283852_2_1_%2ftHjG30RL2POGzFYt8PHevX9sRgTjo5xWNQBKb5CxBHEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Apartamento de 3 assoalhadas com área privativa de 105m². Imóvel em fase de remodelação total.\nPrédio com 2 pisos. Garagem individual.",
   "geo": {
     "lat": 38.80494,
     "lng": -9.200225
@@ -22,12 +22,18 @@
   "published_at": "2026-10-02",
   "last_seen_at": "2026-10-02",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t2-odivelas-ramada-e-canecas_13_1_1585426_19283852_2_1_%2ftHjG30RL2POGzFYt8PHevX9sRgTjo5xWNQBKb5CxBHEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t2-odivelas-ramada-e-canecas_14_1_1585426_19283852_2_1_%2ftHjG30RL2POGzFYt8PHevX9sRgTjo5xWNQBKb5CxBHEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t2-odivelas-ramada-e-canecas_14_1_1585426_19283853_2_1_tzK%2f8o%2b1rdTDaazCLD4Mu2myY78vCYQOqH4NBwDkDznEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Construção",
+      "Área Bruta: 105"
+    ]
+  },
+  "estado": "Construção",
   "area_util_m2": 105,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 105,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 102,
   "image": "https://images.century21.pt/a1c9941d-730b-423f-8354-1a1efbe1cde7/020.jpg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 38.723683,
     "lng": -9.134014
@@ -22,12 +22,56 @@
   "published_at": "2026-10-02",
   "last_seen_at": "2026-10-02",
   "images": [
-    "https://images.century21.pt/a1c9941d-730b-423f-8354-1a1efbe1cde7/020.jpg"
+    "https://images.century21.pt/a1c9941d-730b-423f-8354-1a1efbe1cde7/020.jpg",
+    "https://images.century21.pt/027b730d-7cb0-4c0e-afb6-96cd1f7b7809/012.jpg",
+    "https://images.century21.pt/3cd306c8-46b7-4c75-806d-4b27d0903933/013.jpg",
+    "https://images.century21.pt/461cd4df-ac33-4a0a-a4ba-bc3d64844e8d/011.jpg",
+    "https://images.century21.pt/537f87a8-568f-41a8-9509-eb4e3581e93f/007.jpg",
+    "https://images.century21.pt/a4ed792e-3210-46fb-83cf-c1082752c81a/009.jpg",
+    "https://images.century21.pt/6530487a-b598-461f-b84c-0a26dc13332d/008.jpg",
+    "https://images.century21.pt/dec06c27-9f1c-49e2-bff6-1b4612c6f2c1/010.jpg",
+    "https://images.century21.pt/60075a16-f6be-4692-8249-b0bac0e643f4/006.jpg",
+    "https://images.century21.pt/f85c4565-7602-47a6-919a-4f135a88146d/005.jpg",
+    "https://images.century21.pt/20194a56-0321-424c-a736-3446628e57c4/004.jpg",
+    "https://images.century21.pt/78ef6f6b-a17b-4b09-a6c0-9cf696709efa/016.jpg",
+    "https://images.century21.pt/de62b903-a359-474b-8fd1-83ec98fd97d7/022.jpg",
+    "https://images.century21.pt/c82141c9-13c6-4ff7-b630-e11a97357091/017.jpg",
+    "https://images.century21.pt/40ecc2e2-6cc9-4b65-a705-9d8127fa029c/014.jpg",
+    "https://images.century21.pt/e269a3be-d087-4c2f-88a6-25bdb1598c1e/015.jpg",
+    "https://images.century21.pt/a9e28e19-92f9-4bdb-8b09-746a8f82194c/021.jpg",
+    "https://images.century21.pt/b084f555-6c3b-4402-a1e7-b1075d670a19/018.jpg",
+    "https://images.century21.pt/7a6c0eff-47b5-4653-8458-941732bed8e2/019.jpg",
+    "https://images.century21.pt/982b86b2-260f-42ba-8913-cdcd200cc458/029.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Sala de estar",
+      "Ar condicionado",
+      "Elevador",
+      "Exaustor",
+      "Fogão elétrico",
+      "Frigorífico",
+      "Janelas duplas",
+      "Kitchenette",
+      "Despensa",
+      "Máquina de lavar loiça",
+      "Máquina de lavar roupa",
+      "Micro-ondas",
+      "Fogão de indução",
+      "Termoacumulador elétrico",
+      "Teto falso",
+      "Vídeo-porteiro",
+      "Perto de uma farmácia",
+      "Perto de o metro",
+      "Perto de restaurantes",
+      "Perto de uma zona histórica",
+      "Perto de o centro da cidade",
+      "Sem cadeia de venda"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 102,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 122.58,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "A"
 }

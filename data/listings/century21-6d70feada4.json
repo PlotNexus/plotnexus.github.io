@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 125,
   "image": "https://images.century21.pt/85108483-5e55-44a9-85e8-365077568298/IMG9328.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7629443,
     "lng": -9.1046292
@@ -22,12 +22,38 @@
   "published_at": "2026-10-02",
   "last_seen_at": "2026-10-02",
   "images": [
-    "https://images.century21.pt/85108483-5e55-44a9-85e8-365077568298/IMG9328.jpeg"
+    "https://images.century21.pt/85108483-5e55-44a9-85e8-365077568298/IMG9328.jpeg",
+    "https://images.century21.pt/179047f5-76d8-42c4-b795-bda5de18ca0a/085e9226-f6d1-4d5b-86ec-0a9ec8248474.jpg",
+    "https://images.century21.pt/133ef91e-4644-4a42-83f6-58e6f2e585d9/3ca3bd04-0aeb-41a0-b19c-8bbb388aa1f3.jpg",
+    "https://images.century21.pt/b2a5bb68-73a7-451f-92a1-e185f3b1cf43/5033b6db-a843-4fdb-80b4-0bc714e0430d.jpg",
+    "https://images.century21.pt/e1bbaf2b-265a-434a-988b-2d74f4022f16/958035ab-b26f-4df7-9f61-cb39077626dc.jpg",
+    "https://images.century21.pt/9315e7d1-5d2c-4b49-81e6-86859c97364d/9f3eb5f0-5005-456a-9185-7259d3633f6f.jpg",
+    "https://images.century21.pt/f2915882-f574-4f0a-91d0-8d26373c199c/2c6e7d45-27eb-492d-a632-18a9c7edf9ad.jpg",
+    "https://images.century21.pt/ca21526e-b0c7-4719-bd8c-8569f7e4a6fc/99c9ca20-328b-40b4-b5e7-be3b45786869.jpg",
+    "https://images.century21.pt/d3ef8622-f4ef-4873-ba6a-2d018b49803b/0f22dd0d-e5b8-4f7e-9698-470837181e8c.jpg",
+    "https://images.century21.pt/ebcf1cb6-56f7-4ad8-bd74-fa8e8ebfff67/3fa8fff8-0fdd-4a1a-aeef-a9b536c23081.jpg",
+    "https://images.century21.pt/a31137f9-8f8a-4942-a89b-6278aa8a8b6a/7447c682-6812-4a5a-b436-dbbe8561a0f4.jpg",
+    "https://images.century21.pt/4cc99cad-9d1b-44f7-bae4-347afe742564/IMG9270.jpeg",
+    "https://images.century21.pt/87ef03dc-f700-42a3-b265-2ab1ffd6fc2b/IMG9272.jpeg",
+    "https://images.century21.pt/ea29d9c8-0fe2-4b79-bc2c-5e206742ed3b/66e2b9e6-3089-4319-a6a3-745e4f47ae40.jpg",
+    "https://images.century21.pt/5c0e5efc-c0f8-49e2-b7a0-facd4f129993/a6289203-0161-40fe-833e-05c72f8f7844.jpg",
+    "https://images.century21.pt/ddd50ecf-dafc-429b-8876-943cbfac1676/IMG9332.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Piscina comum",
+      "Elevador",
+      "Garagem",
+      "Jardim",
+      "Manutenção de jardim",
+      "Condomínio fechado",
+      "Serviço de manutenção",
+      "Vídeo-porteiro"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 125,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 126,
+  "ano_construcao": 2009,
+  "certificacao_energetica": "D"
 }
