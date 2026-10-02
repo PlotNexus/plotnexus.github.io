@@ -6,25 +6,28 @@
   "currency": "EUR",
   "location": "Albufeira e Olhos de Água, Albufeira, Faro",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 72,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjE1amRxcXB2anM2cjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.T5Rf9MpowzIDRX9F0Y1M-8jJnS-l3X24wKg7kEtV4DM/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjE1amRxcXB2anM2cjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.T5Rf9MpowzIDRX9F0Y1M-8jJnS-l3X24wKg7kEtV4DM/image;s=2048x1536;q=80",
+  "description": "Apartamento t1 totalmente equipado, na estrada da Rocha baixinha para venda. Para mais informações pf entrem em contacto.",
+  "geo": {
+    "lat": 37.0931,
+    "lng": -8.21383
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-alfamar-ID1iXwl",
   "published_at": "2026-10-01",
-  "last_seen_at": "2026-10-01",
+  "last_seen_at": "2026-10-02",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjE1amRxcXB2anM2cjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.T5Rf9MpowzIDRX9F0Y1M-8jJnS-l3X24wKg7kEtV4DM/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjE1amRxcXB2anM2cjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.T5Rf9MpowzIDRX9F0Y1M-8jJnS-l3X24wKg7kEtV4DM/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 72,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }
