@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 95,
   "image": "https://images.century21.pt/image00037_cebb11c5-e641-4d13-a503-3a6f300f27c9.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7585531383608,
     "lng": -9.12246997573115
@@ -22,12 +22,53 @@
   "published_at": "2026-10-03",
   "last_seen_at": "2026-10-03",
   "images": [
-    "https://images.century21.pt/image00037_cebb11c5-e641-4d13-a503-3a6f300f27c9.jpg"
+    "https://images.century21.pt/image00037_cebb11c5-e641-4d13-a503-3a6f300f27c9.jpg",
+    "https://images.century21.pt/img-0768_695b278b-1ff9-4ce3-a108-97301312d917.HEIC",
+    "https://images.century21.pt/image00050_5a252050-9185-4d24-9bd2-1acc9e1314ff.jpg",
+    "https://images.century21.pt/img-0763_d6468101-7fea-4349-a69d-2bc6bfb14062.HEIC",
+    "https://images.century21.pt/image00045_237466b4-dc49-4245-85ae-b571cc3aa659.jpg",
+    "https://images.century21.pt/img-0755_be830ac6-1370-48ea-a87a-650e78664b21.HEIC",
+    "https://images.century21.pt/image00040_bfe7e36a-e39f-41ee-b84e-df1e2bc0b088.jpg",
+    "https://images.century21.pt/image00034_f35d0e5f-2765-419b-85d1-09134c20be8f.jpg",
+    "https://images.century21.pt/image00012_91d7cb78-2604-42e2-95b8-df3aff1f69ba.jpg",
+    "https://images.century21.pt/image00023_39a7a61d-bb59-4eab-afbd-f1f6b3e8fdbb.jpg",
+    "https://images.century21.pt/image00018_f5241da2-4309-4d59-b3cf-9ec89968b80b.jpg",
+    "https://images.century21.pt/image00021_a4ba4fed-afc6-48d3-8703-3fde5756bfaf.jpg",
+    "https://images.century21.pt/image00030_63bfbf42-28b4-495e-9b53-b496fe8d1b19.jpg",
+    "https://images.century21.pt/image00031_eba0f961-571e-47dd-85bc-d24616e9fa09.jpg",
+    "https://images.century21.pt/image00024_07470740-28ac-4229-a838-aa6edf5e732c.jpg",
+    "https://images.century21.pt/image00016_b06e0464-235b-4386-b8fe-bea41ca3e72e.jpg",
+    "https://images.century21.pt/img-0773_81eb7cec-657a-4a9d-bc97-d53f599ca47f.HEIC",
+    "https://images.century21.pt/img-0790_417f4137-2da3-4289-bc7f-0cd6650b3695.HEIC",
+    "https://images.century21.pt/image00014_1289b37d-3d15-45fd-9fdd-d0b965d2c3ed.jpg",
+    "https://images.century21.pt/image00010_318bf14a-45af-4ca2-ba97-5f0d58ca7d4e.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Esquentador",
+      "Elevador",
+      "Exaustor",
+      "Fogão a gás",
+      "Micro-ondas",
+      "Porta corta-fogo",
+      "Roupeiro",
+      "Eletricidade",
+      "Gás canalizado",
+      "Lareira",
+      "Kitchenette",
+      "Garagem",
+      "Iluminação embutida",
+      "Teto falso",
+      "Cozinha equipada",
+      "Arrecadação",
+      "Alpendre",
+      "Boa exposição solar"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 95,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 95,
+  "ano_construcao": 1990,
+  "certificacao_energetica": "C"
 }

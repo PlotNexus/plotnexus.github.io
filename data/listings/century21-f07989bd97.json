@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 140,
   "image": "https://images.century21.pt/21_c860384f-d00e-4358-aa40-cf1a51cd2be6.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.0626010859793,
     "lng": -8.54770015008765
@@ -22,12 +22,32 @@
   "published_at": "2026-10-03",
   "last_seen_at": "2026-10-03",
   "images": [
-    "https://images.century21.pt/21_c860384f-d00e-4358-aa40-cf1a51cd2be6.jpg"
+    "https://images.century21.pt/21_c860384f-d00e-4358-aa40-cf1a51cd2be6.jpg",
+    "https://images.century21.pt/3_f9ce2cb0-b276-40ab-994e-bb52f238dd45.jpg",
+    "https://images.century21.pt/14_ad81c1f1-e9e0-41ca-bc61-1dcd86afe923.jpg",
+    "https://images.century21.pt/2_23dc2caf-fe78-497d-946c-0d59499cce37.jpg",
+    "https://images.century21.pt/11_1374c1fc-6ffa-4625-9371-63853b25d564.jpg",
+    "https://images.century21.pt/1_a98aa9a4-a6af-46b6-b183-1dbb6459a0c7.jpg",
+    "https://images.century21.pt/b4_794a4a59-eb4c-4b59-b0a9-46c7ec12b91d.jpg",
+    "https://images.century21.pt/c3_6f5b3298-8284-4c5f-8ca2-386cb556fd0c.jpg",
+    "https://images.century21.pt/d3_06a72bea-ff14-445d-9cee-517c70d02a6c.jpg",
+    "https://images.century21.pt/e3_6886ca60-6957-4dd0-b704-043e0d50d10f.jpg",
+    "https://images.century21.pt/e3_1e79e145-dc65-4832-bba2-f800a67fc961.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Janelas duplas",
+      "Garagem",
+      "Jardim",
+      "Boa exposição solar",
+      "Pátio",
+      "Terraço"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 140,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 140,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 53,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t2-barreiro-lavradio-centro-de-saude_13_1_1579763_19208200_2_1_SRS4rjhS3s6ieaa8z1V6AJnpd8ZqRfAhFLUecKAvqynEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t2-barreiro-lavradio-centro-de-saude_14_1_1579763_19208200_2_1_SRS4rjhS3s6ieaa8z1V6AJnpd8ZqRfAhFLUecKAvqynEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "T2. Com arrendamento vitalício. Situado no 2º andar.",
   "geo": {
     "lat": 38.6602811,
     "lng": -9.0740965
@@ -22,12 +22,17 @@
   "published_at": "2026-10-03",
   "last_seen_at": "2026-10-03",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t2-barreiro-lavradio-centro-de-saude_13_1_1579763_19208200_2_1_SRS4rjhS3s6ieaa8z1V6AJnpd8ZqRfAhFLUecKAvqynEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t2-barreiro-lavradio-centro-de-saude_14_1_1579763_19208200_2_1_SRS4rjhS3s6ieaa8z1V6AJnpd8ZqRfAhFLUecKAvqynEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 56,11"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 53,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 56,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

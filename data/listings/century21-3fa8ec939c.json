@@ -9,7 +9,7 @@
   "bathrooms": 0,
   "area_m2": 266.4,
   "image": "https://images.century21.pt/img-7677_e9e8e7e9-59d5-4b7a-9694-63b9d3313929.jpg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 39.8746981245201,
     "lng": -7.57191876102993
@@ -22,12 +22,23 @@
   "published_at": "2026-10-03",
   "last_seen_at": "2026-10-03",
   "images": [
-    "https://images.century21.pt/img-7677_e9e8e7e9-59d5-4b7a-9694-63b9d3313929.jpg"
+    "https://images.century21.pt/img-7677_e9e8e7e9-59d5-4b7a-9694-63b9d3313929.jpg",
+    "https://images.century21.pt/img-7670_851e848b-82df-41c9-852e-e5f9b778dd75.jpg",
+    "https://images.century21.pt/img-7673_0a6aba5c-15f7-4631-b290-792f099e9428.jpg",
+    "https://images.century21.pt/img-7676_f08cf042-124c-4a7b-8c9f-102a967d7d6c.jpg",
+    "https://images.century21.pt/img-7674_d351f146-634a-4359-bd6c-49c94c9db7fc.jpg",
+    "https://images.century21.pt/img-7671_c9290f1b-da8b-4e92-a6b9-0015ddcfdd99.jpg",
+    "https://images.century21.pt/img-7672_c2435e22-f187-45ea-a8c7-d2a3eb786500.jpg",
+    "https://images.century21.pt/img-7675_6656a776-0fcf-4d48-a224-5a292b84caf5.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Alpendre"
+    ]
+  },
   "estado": null,
   "area_util_m2": 266.4,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 296,
+  "ano_construcao": 1937,
   "certificacao_energetica": null
 }
