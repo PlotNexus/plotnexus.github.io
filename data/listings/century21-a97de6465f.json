@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 50,
   "image": "https://images.century21.pt/9cd1371a-2058-4916-b17b-51d3df363d33/WhatsAppImage2026-09-29at12.30.14(1).jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.1094151,
     "lng": -8.6226547
@@ -24,10 +24,39 @@
   "images": [
     "https://images.century21.pt/9cd1371a-2058-4916-b17b-51d3df363d33/WhatsAppImage2026-09-29at12.30.14(1).jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Varanda",
+      "Casa de banho",
+      "Quarto",
+      "Vista cidade",
+      "Corredor",
+      "Máquina de lavar loiça",
+      "Piso flutuante",
+      "Frigorífico",
+      "Condomínio fechado",
+      "Boa exposição solar",
+      "Boa localização",
+      "Ginásio",
+      "Fogão de indução",
+      "Cozinha",
+      "Sala de estar",
+      "Micro-ondas",
+      "Perto de comodidades",
+      "Perto de uma paragem de autocarro",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de uma autoestrada",
+      "Forno",
+      "Zona tranquila",
+      "Vista mar",
+      "Caixilharia"
+    ]
+  },
   "estado": null,
   "area_util_m2": 50,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 60,
+  "ano_construcao": 2027,
   "certificacao_energetica": null
 }

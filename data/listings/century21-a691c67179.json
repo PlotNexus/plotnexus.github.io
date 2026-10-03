@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 58,
   "image": "https://images.century21.pt/332504809-654809486647668-6894004245180112090-n-jpg_86dee102-4504-414f-abbb-789938093422.jpg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 38.6039717300311,
     "lng": -8.89489091616633
@@ -22,12 +22,35 @@
   "published_at": "2026-10-03",
   "last_seen_at": "2026-10-03",
   "images": [
-    "https://images.century21.pt/332504809-654809486647668-6894004245180112090-n-jpg_86dee102-4504-414f-abbb-789938093422.jpg"
+    "https://images.century21.pt/332504809-654809486647668-6894004245180112090-n-jpg_86dee102-4504-414f-abbb-789938093422.jpg",
+    "https://images.century21.pt/localizacao-png_9f14b4b1-95c1-4f6a-b7fb-3f96e5fa1081.png",
+    "https://images.century21.pt/333435424-770149064476058-8217758292005573319-n-jpg_87d9a1ca-cefb-4091-97a1-537c41c3552a.jpg",
+    "https://images.century21.pt/332511883-464039745853646-7082008183494090450-n-jpg_ec0b9e79-d462-4d00-acf6-95996e6d31c8.jpg",
+    "https://images.century21.pt/332954710-720124379816369-2733323797089015201-n-jpg_ab2dcbca-6e20-4cc7-b30d-072d53c52c0a.jpg",
+    "https://images.century21.pt/333187792-208883681785362-2225287516283154244-n-jpg_1d9dc7a4-1799-4a2d-aa9d-d11b99d3eaa3.jpg",
+    "https://images.century21.pt/333603105-226751983097157-2179873880554475594-n-jpg_88591434-0cdd-4bae-b067-9ed59089522e.jpg",
+    "https://images.century21.pt/333624943-756168336161494-3843611876642173983-n-jpg_047babfe-5eb3-48a1-8bb9-b028ce68a9eb.jpg",
+    "https://images.century21.pt/333869611-177130271750570-1423899426718516920-n-jpg_9d83c18c-25b9-4d08-979f-581bc6fe754b.jpg",
+    "https://images.century21.pt/planta-sintese-png_31902a2b-b0bd-4157-9e20-73ed39831958.png",
+    "https://images.century21.pt/planta-de-demolicoes-png_19a60d4b-665e-4420-907a-7b4cf9a17ce4.png",
+    "https://images.century21.pt/projeto-2jpg-jpg_18e3b5db-7185-4667-9ef8-ed2752b21998.jpg",
+    "https://images.century21.pt/localizacao-2-png_e147b406-3be2-4500-a66e-3e8bd2a1b04b.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Poço",
+      "Acessibilidade para mobilidade reduzida",
+      "Água",
+      "Eletricidade",
+      "Gás canalizado",
+      "Garagem",
+      "Sótão",
+      "Pátio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 58,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 64,
+  "ano_construcao": 1977,
+  "certificacao_energetica": "E"
 }

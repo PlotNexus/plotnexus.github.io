@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 135,
   "image": "https://images.century21.pt/ce28728c-af51-4b56-b707-c1e1c730c745/IMG-20250408-WA0006.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6195249271415,
     "lng": -9.16811545697878
@@ -22,12 +22,37 @@
   "published_at": "2026-10-03",
   "last_seen_at": "2026-10-03",
   "images": [
-    "https://images.century21.pt/ce28728c-af51-4b56-b707-c1e1c730c745/IMG-20250408-WA0006.jpg"
+    "https://images.century21.pt/ce28728c-af51-4b56-b707-c1e1c730c745/IMG-20250408-WA0006.jpg",
+    "https://images.century21.pt/fe778867-cc7f-4dd5-9da7-101aa53a9131/IMG-20250408-WA0005.jpg",
+    "https://images.century21.pt/c7beecbf-a8e8-420d-82e8-543750f761d3/IMG-20250408-WA0007.jpg",
+    "https://images.century21.pt/c44ea0e7-aa9e-43a4-ad30-6523a9a6ddd1/IMG-20250408-WA0008.jpg",
+    "https://images.century21.pt/9d5c3521-73fe-4ede-b9c7-b7c2bd8290c6/IMG-20250408-WA0009.jpg",
+    "https://images.century21.pt/a4e64599-13d3-45d7-bfd4-9ea6ed1d747d/T2%20Duplex.JPG",
+    "https://images.century21.pt/a4e64599-13d3-45d7-bfd4-9ea6ed1d747d/Sto%20T2.JPG",
+    "https://images.century21.pt/diapositivo10_418ab9b6-a6d2-4d9e-9264-23fa9c91322b.JPG",
+    "https://images.century21.pt/a74d33cd-dd11-4539-a01a-bbfb5df09627/Parqueamento.JPG",
+    "https://images.century21.pt/fachada_b9c78ee3-8f09-45cc-a980-e7fb5dd932e6.JPG",
+    "https://images.century21.pt/traseiras_4bcf1a88-0f1b-454f-bb1a-f02ce61dacce.JPG"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Perto de uma autoestrada",
+      "Perto de comodidades",
+      "Arrecadação",
+      "Garagem",
+      "Quarto",
+      "Quarto em suite",
+      "Varandas",
+      "Piso em mosaico",
+      "Piso flutuante",
+      "Acesso por estrada",
+      "Boa localização",
+      "Loft"
+    ]
+  },
   "estado": null,
   "area_util_m2": 135,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 141.44,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "IN_PROCESS"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 87.5,
   "image": "https://images.century21.pt/planta-jpg_979edb06-9d9f-431c-adea-55d8fceffbb3.jpg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 37.1045640546138,
     "lng": -8.3665658384655
@@ -22,12 +22,40 @@
   "published_at": "2026-10-03",
   "last_seen_at": "2026-10-03",
   "images": [
-    "https://images.century21.pt/planta-jpg_979edb06-9d9f-431c-adea-55d8fceffbb3.jpg"
+    "https://images.century21.pt/planta-jpg_979edb06-9d9f-431c-adea-55d8fceffbb3.jpg",
+    "https://images.century21.pt/luzes-13-05-3---foto-jpg_ab310183-7ff6-4c59-bb02-6cc85f47c57c.jpg",
+    "https://images.century21.pt/13-05-2---foto-jpg_0fac1e18-84fd-43e1-8554-758e0d0698a7.jpg",
+    "https://images.century21.pt/13-05-8---foto-jpg_5a528de6-1205-440f-b0e0-1ba48b75b251.jpg",
+    "https://images.century21.pt/luzes-13-05-2---foto-jpg_8ddb3107-eab4-4deb-af04-0e9ac5fb01d7.jpg",
+    "https://images.century21.pt/13-05-4---foto-jpg_2ccb875f-e90f-44bc-84f6-42bbb2c4a88c.jpg",
+    "https://images.century21.pt/cozinha-1-jpg_7e5eb50e-743f-45f3-8141-6aea6345650e.jpg",
+    "https://images.century21.pt/cozinha-jpg_bf30782c-f6d9-4cd6-94dd-0452769d90fb.jpg",
+    "https://images.century21.pt/sala-tv-jpg_bb6d6f70-53e2-4b60-8713-097e451ccc39.jpg",
+    "https://images.century21.pt/sala-de-estar-1-jpg_8ace25e1-7fca-44ca-9a92-e6114b32cf28.jpg",
+    "https://images.century21.pt/sala-de-estar-jpg_f22fe2d1-0737-4eba-86a8-1018355ab60e.jpg",
+    "https://images.century21.pt/sala-de-estar-3-jpg_2df24ab0-dfb5-48f8-a1fa-c593728eb9a9.jpg",
+    "https://images.century21.pt/open-space-jpg_b6826c56-6452-4444-9c3a-559f7ff530be.jpg",
+    "https://images.century21.pt/sala-de-estar-2-jpg_9a5ad2c2-cb7b-40a9-a548-fba73931c134.jpg",
+    "https://images.century21.pt/quarto-2-1-jpg_4e835bd2-8547-4258-91f6-68b90933c681.jpg",
+    "https://images.century21.pt/quarto2-jpg_4d92bbd8-b0a0-44b5-b945-b9fd7c317334.jpg",
+    "https://images.century21.pt/quarto-1-2-jpg_3d52c498-2ad3-4389-b4d0-6ad6bde4438d.jpg",
+    "https://images.century21.pt/quarto-1-jpg_0146fab9-a51e-4eef-82de-51801b973ecd.jpg",
+    "https://images.century21.pt/quarto-1-1-jpg_7a7cc161-7ad1-42b4-a244-9d4d2b498bd6.jpg",
+    "https://images.century21.pt/quarto2-2-jpg_48490066-91ba-489b-a28e-fef9720980c2.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Acessibilidade para mobilidade reduzida",
+      "Cozinha equipada",
+      "Porta corta-fogo",
+      "Kitchenette",
+      "Detetor de fumo"
+    ]
+  },
   "estado": null,
   "area_util_m2": 87.5,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 98,
+  "ano_construcao": 2024,
   "certificacao_energetica": null
 }

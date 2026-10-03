@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 146,
   "image": "https://images.century21.pt/img-2708_c389ef57-3c24-4ae6-94ac-d909637e5dcf.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.4872027622526,
     "lng": -7.17816668118732
@@ -22,12 +22,39 @@
   "published_at": "2026-10-03",
   "last_seen_at": "2026-10-03",
   "images": [
-    "https://images.century21.pt/img-2708_c389ef57-3c24-4ae6-94ac-d909637e5dcf.jpg"
+    "https://images.century21.pt/img-2708_c389ef57-3c24-4ae6-94ac-d909637e5dcf.jpg",
+    "https://images.century21.pt/untitled-hdr51_f90e78e3-65cd-4e49-9bbb-8f2eb2bc9fcc.jpg",
+    "https://images.century21.pt/untitled-hdr42_02ede493-a9a0-49ec-aa5b-cedc0029d0c2.jpg",
+    "https://images.century21.pt/untitled-hdr48_576153e9-2f10-4c0b-83b8-5d221cd9aba4.jpg",
+    "https://images.century21.pt/untitled-hdr49_2c203269-33bf-4006-9636-3db01e384cc6.jpg",
+    "https://images.century21.pt/untitled-hdr50_e4c181ce-21df-4d0d-bafd-b1df08797753.jpg",
+    "https://images.century21.pt/untitled-hdr40_9c99619a-0e8e-4b57-904e-5290661fbd9c.jpg",
+    "https://images.century21.pt/untitled-hdr43_ce4e32f0-4579-475a-8c15-1e088f75c462.jpg",
+    "https://images.century21.pt/untitled-hdr39_3f8e46f8-1fb6-460f-aebb-1f030cdfde6a.jpg",
+    "https://images.century21.pt/untitled-hdr41_89e5e47e-09c4-4f8d-829b-f91caf39b930.jpg",
+    "https://images.century21.pt/untitled-hdr44_1efd3ccf-f632-4188-bdc3-38edd23a1544.jpg",
+    "https://images.century21.pt/untitled-hdr47_1a7e714c-5bde-4ac6-bd9c-dfea40d2acd9.jpg",
+    "https://images.century21.pt/untitled-hdr45_5b7d649f-4dc3-4e55-8e6a-fda501fff66b.jpg",
+    "https://images.century21.pt/untitled-hdr46_22b74124-7392-44ba-a306-8a87116a3721.jpg",
+    "https://images.century21.pt/untitled-hdr33_da0e4eaa-6bae-4634-8f82-e6b1e41e5e36.jpg",
+    "https://images.century21.pt/untitled-hdr35_92d6990e-3749-4b96-a660-ec585c30a1bd.jpg",
+    "https://images.century21.pt/untitled-hdr37_c5cb364b-fbea-4615-8b07-08e70167a920.jpg",
+    "https://images.century21.pt/untitled-hdr34_9b0aef91-21ee-4d40-a66b-ac65a44e600d.jpg",
+    "https://images.century21.pt/untitled-hdr22_e7a59a89-7eaf-4c8b-933c-645341fe1830.jpg",
+    "https://images.century21.pt/untitled-hdr31_0e394ea2-49b2-41cf-978d-e50a1bc8594d.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Varanda",
+      "Janelas duplas",
+      "Cozinha equipada",
+      "Garagem"
+    ]
+  },
   "estado": null,
   "area_util_m2": 146,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 292,
+  "ano_construcao": 1984,
+  "certificacao_energetica": "F"
 }

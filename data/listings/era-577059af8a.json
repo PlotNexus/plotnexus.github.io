@@ -8,8 +8,8 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": 41,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t1-porto-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria_13_1_1172185_14623570_2_1_2Gpf4KiLrgdaOi1uzRTwSiqtLNygH%2bHz%2fDkGVY7VoFXEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t1-porto-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria_14_1_1172185_14623570_2_1_2Gpf4KiLrgdaOi1uzRTwSiqtLNygH%2bHz%2fDkGVY7VoFXEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Apartamento novo inserido em edifício de betão.\nEdifício completamente recuperado.\nO apartamento tem terraço e jardim, virado a poente.\n\nLocalizado no Centro do Porto.\nPróximo de serviços e hospitais.\nTransportes públicos e estação de metro a 5 minutos a pé. \nObra concluída em final de Setembro de 2021.",
   "geo": {
     "lat": 41.1594,
     "lng": -8.608974
@@ -22,12 +22,30 @@
   "published_at": "2026-10-03",
   "last_seen_at": "2026-10-03",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t1-porto-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria_13_1_1172185_14623570_2_1_2Gpf4KiLrgdaOi1uzRTwSiqtLNygH%2bHz%2fDkGVY7VoFXEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t1-porto-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria_14_1_1172185_14623570_2_1_2Gpf4KiLrgdaOi1uzRTwSiqtLNygH%2bHz%2fDkGVY7VoFXEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t1-porto-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria_14_1_1172185_14636946_2_1_ALPL0GsGNi3R2Z5GJ5XS9ql0lEiG0lXkSfVc3mnSKKnEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t1-porto-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria_14_1_1172185_14636947_2_1_YvrYYKFiZqgUJKE2hRaepxgZxiR3QfL4QRL49WLwWsvEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Novo",
+      "Área Bruta: 68"
+    ],
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Zona": [
+      "Acessos: Auto-Estrada, Bons, Metro, Transportes Púb.",
+      "Centralidade: Centro da Cidade",
+      "Proximidade: Bancos, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Serviços Públicos, Supermercado"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 41,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 68,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

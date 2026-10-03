@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 145,
   "image": "https://images.century21.pt/018b81b5-6e70-4928-b9c4-31048a2134af/IMG-20250408-WA0006.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6195249271415,
     "lng": -9.16811545697878
@@ -22,12 +22,31 @@
   "published_at": "2026-10-03",
   "last_seen_at": "2026-10-03",
   "images": [
-    "https://images.century21.pt/018b81b5-6e70-4928-b9c4-31048a2134af/IMG-20250408-WA0006.jpg"
+    "https://images.century21.pt/018b81b5-6e70-4928-b9c4-31048a2134af/IMG-20250408-WA0006.jpg",
+    "https://images.century21.pt/f60d909b-9413-4b07-81d1-b26254f7b163/IMG-20250408-WA0005.jpg",
+    "https://images.century21.pt/546ce960-cdb0-4083-a910-a3ac810d07f7/IMG-20250408-WA0007.jpg",
+    "https://images.century21.pt/0f875b84-9a64-4631-977f-0bcf3ae22739/IMG-20250408-WA0008.jpg",
+    "https://images.century21.pt/bcb753f0-e165-4884-97f2-a826227e923f/IMG-20250408-WA0009.jpg",
+    "https://images.century21.pt/e588834a-a49b-4943-afcd-aa14ce3a5343/T3%20Duplex.JPG",
+    "https://images.century21.pt/3e82973d-036d-4765-949f-3cf4457e9ac2/Sto%20T3.JPG",
+    "https://images.century21.pt/023d4574-2c7c-421e-964c-2c1503c67afa/Arrecadaes.JPG",
+    "https://images.century21.pt/8255d373-996f-4b32-b8b7-5ad71cd6e349/Parqueamento.JPG",
+    "https://images.century21.pt/fachada_b9c78ee3-8f09-45cc-a980-e7fb5dd932e6.JPG",
+    "https://images.century21.pt/traseiras_4bcf1a88-0f1b-454f-bb1a-f02ce61dacce.JPG"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Pré-instalação de ar condicionado",
+      "Acesso por estrada",
+      "Boa localização",
+      "Rés-do-chão",
+      "Piso em mosaico",
+      "Piso flutuante"
+    ]
+  },
   "estado": null,
   "area_util_m2": 145,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 151,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "IN_PROCESS"
 }
