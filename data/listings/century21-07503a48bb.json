@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 142.24,
   "image": "https://images.century21.pt/ba1a38b8-3a8d-4cc5-8538-c7dd4ba6f95a/02Sala.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7097344,
     "lng": -9.1716304
@@ -22,12 +22,51 @@
   "published_at": "2026-10-04",
   "last_seen_at": "2026-10-04",
   "images": [
-    "https://images.century21.pt/ba1a38b8-3a8d-4cc5-8538-c7dd4ba6f95a/02Sala.jpg"
+    "https://images.century21.pt/ba1a38b8-3a8d-4cc5-8538-c7dd4ba6f95a/02Sala.jpg",
+    "https://images.century21.pt/6b0b50eb-c693-402e-ad64-2f531761fc05/05SalaCozinha.jpg",
+    "https://images.century21.pt/6a72a94a-204d-401c-a962-cf7fcf96157c/04Sala.jpg",
+    "https://images.century21.pt/5c627836-6a55-42ab-942f-50940391467c/07Cozinha.jpg",
+    "https://images.century21.pt/deef958f-209b-49b0-a7c5-cff145c4e1b3/01Entrada.jpg",
+    "https://images.century21.pt/bb563d33-76e5-4f59-ab47-c69dc07c33ca/15HalldeEntradaPassagemQuartos.jpg",
+    "https://images.century21.pt/04771d1d-73f1-4dd3-b516-78af8e96261b/16Corredor.jpg",
+    "https://images.century21.pt/4d3f2eeb-4ef0-494c-b05c-b68d6a2b0588/20Quarto2.jpg",
+    "https://images.century21.pt/869f1b56-5e07-4448-b7fb-4311255d7a2e/19Quarto2.jpg",
+    "https://images.century21.pt/c4c837b7-c7ba-4659-839c-fd8864dd00cf/18Quarto1.jpg",
+    "https://images.century21.pt/8ec1a7f3-3591-4d13-9e23-e836497ddee3/21Suite.jpg",
+    "https://images.century21.pt/ffd480ba-c6a2-483a-9f5d-62d72067dd2a/22Suite.jpg",
+    "https://images.century21.pt/df2ac9cd-809a-45a7-a05e-15b3bf5952e8/17Quarto1.jpg",
+    "https://images.century21.pt/acfe5f3b-f185-4b17-8107-b7b4ed53494d/28CasadeBanho.jpg",
+    "https://images.century21.pt/bb1d92b4-db76-4888-808e-6154047f19d7/29CasadeBanho.jpg",
+    "https://images.century21.pt/64256f5c-7ca7-462e-a8a9-5ad42ace3987/24CasadeBanhoSuite.jpg",
+    "https://images.century21.pt/d15b6559-b200-4c24-a22a-d33c58cab8ea/23CasadeBanhoSuite.jpg",
+    "https://images.century21.pt/7a49d497-4dd2-41b5-8f9f-d7745a1a98d4/09Varanda.jpg",
+    "https://images.century21.pt/c197e28a-d6d2-4e8e-b6fa-7827e144f626/08Varanda.jpg",
+    "https://images.century21.pt/26abc53a-6199-4e80-86dc-16c1cfc6fae5/26Varanda.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Varandas",
+      "Casa de banho",
+      "Quarto",
+      "Portão elétrico",
+      "Fogão elétrico",
+      "Elevador",
+      "Frigorífico",
+      "Corredor",
+      "Kitchenette",
+      "Micro-ondas",
+      "Estacionamento",
+      "Isolamento acústico",
+      "Suite",
+      "Casa de banho de suite",
+      "Máquina de lavar roupa",
+      "Esquentador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 142.24,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 145,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "B"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 69.2,
   "image": "https://images.century21.pt/c0132632-7474-4933-9ff4-f68368aa4b38/DSC01435-HDR.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7974386,
     "lng": -9.195009
@@ -22,12 +22,33 @@
   "published_at": "2026-10-04",
   "last_seen_at": "2026-10-04",
   "images": [
-    "https://images.century21.pt/c0132632-7474-4933-9ff4-f68368aa4b38/DSC01435-HDR.jpg"
+    "https://images.century21.pt/c0132632-7474-4933-9ff4-f68368aa4b38/DSC01435-HDR.jpg",
+    "https://images.century21.pt/fe9ea504-6c5b-4d88-b461-932690f293d2/DSC01437.jpg",
+    "https://images.century21.pt/6efc4e3b-21d9-4ffd-84b5-9bcd8c50985b/DSC01426-HDR.jpg",
+    "https://images.century21.pt/ff430a70-f91a-470f-bdfd-d3e9f01b56e8/DSC01428.jpg",
+    "https://images.century21.pt/c4410af4-6931-4625-b54d-1fb0bb9e13e2/DSC01452.jpg",
+    "https://images.century21.pt/deaf9dd3-bcc1-47bc-80a0-29abdb573bb5/DSC01450.jpg",
+    "https://images.century21.pt/e998f9a0-d745-4465-bbe3-294708e94060/DSC01445-HDR.jpg",
+    "https://images.century21.pt/f496edb0-2ef9-4e90-a8b6-7eddcb0f6cb4/DSC01447.jpg",
+    "https://images.century21.pt/b1fcbdb7-78bb-4462-a825-f64d163d1e6f/DSC01441.jpg",
+    "https://images.century21.pt/89f296a9-b8d0-43ec-94c2-6c9a195686f7/DSC01440.jpg",
+    "https://images.century21.pt/cfa05971-3bf2-4658-9325-af5b2e34b157/DSC01456-Edit.jpg",
+    "https://images.century21.pt/c97054dc-6237-4433-86d2-ceddc3c7363d/DSC01455.jpg",
+    "https://images.century21.pt/24d129dd-9d61-442d-89b0-657240985404/DSC01430.jpg",
+    "https://images.century21.pt/3fbdeec1-06c9-4d1e-818d-999118164645/DSC01431.jpg",
+    "https://images.century21.pt/dcd5302c-e4fb-42ff-bc71-82ef74c7e1f2/DSC01432.jpg",
+    "https://images.century21.pt/ffd06565-e5be-4b36-993c-3e38043b1876/DSC01459-Edit.jpg",
+    "https://images.century21.pt/f8600221-fdd5-480c-a7da-d82bab8c2eb3/DSC01454.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Perto de uma zona comercial",
+      "Perto de uma farmácia"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 69.2,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 69.2,
+  "ano_construcao": 1991,
+  "certificacao_energetica": "C"
 }

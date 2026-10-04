@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 67,
-  "image": "https://mediaredir2.era.pt/i/moradia-t2-guimaraes-souto-santa-maria-souto-sao-salvador-e-gondomar_13_1_1302293_16089156_2_1_riWDaF%2b2SPJbFReIhvDYjbojhL8qmvzMmHWTXuCobdLEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t2-guimaraes-souto-santa-maria-souto-sao-salvador-e-gondomar_14_1_1302293_16089156_2_1_riWDaF%2b2SPJbFReIhvDYjbojhL8qmvzMmHWTXuCobdLEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia localizada em zona residencial tranquila, na freguesia de Gondomar.\nNecessita de obras.\nCom vistas panorâmicas.",
   "geo": {
     "lat": 41.52669,
     "lng": -8.274738
@@ -22,12 +22,31 @@
   "published_at": "2026-10-04",
   "last_seen_at": "2026-10-04",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t2-guimaraes-souto-santa-maria-souto-sao-salvador-e-gondomar_13_1_1302293_16089156_2_1_riWDaF%2b2SPJbFReIhvDYjbojhL8qmvzMmHWTXuCobdLEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t2-guimaraes-souto-santa-maria-souto-sao-salvador-e-gondomar_14_1_1302293_16089156_2_1_riWDaF%2b2SPJbFReIhvDYjbojhL8qmvzMmHWTXuCobdLEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 180"
+    ],
+    "Geral": [
+      "Nº Frentes: 4",
+      "Nº Pisos: 2"
+    ],
+    "Edifício": [
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Vistas": [
+      "Campo, Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos: Transportes Púb.",
+      "Centralidade: Distante Cidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 67,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 180,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

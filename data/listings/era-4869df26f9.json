@@ -8,8 +8,8 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 95,
-  "image": "https://mediaredir3.era.pt/i/moradia-em-banda-t3-guimaraes-ronfe_13_1_1465184_17915981_3_1_N%2fUrIJVqB6Mi9BecSOU0EUMBSRnw%2bah9yRprZ8LkSePEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir3.era.pt/i/moradia-em-banda-t3-guimaraes-ronfe_14_1_1465184_17915981_3_1_N%2fUrIJVqB6Mi9BecSOU0EUMBSRnw%2bah9yRprZ8LkSePEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia de tipologia V3, situada em Ronfe.\nBoa localização, com boa exposição solar, próxima de serviços.",
   "geo": {
     "lat": 41.37358,
     "lng": -8.427679
@@ -22,12 +22,35 @@
   "published_at": "2026-10-04",
   "last_seen_at": "2026-10-04",
   "images": [
-    "https://mediaredir3.era.pt/i/moradia-em-banda-t3-guimaraes-ronfe_13_1_1465184_17915981_3_1_N%2fUrIJVqB6Mi9BecSOU0EUMBSRnw%2bah9yRprZ8LkSePEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir3.era.pt/i/moradia-em-banda-t3-guimaraes-ronfe_14_1_1465184_17915981_3_1_N%2fUrIJVqB6Mi9BecSOU0EUMBSRnw%2bah9yRprZ8LkSePEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 106"
+    ],
+    "Geral": [
+      "Nº Frentes: 3",
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos: Auto-Estrada, Bons, Transportes Púb.",
+      "Centralidade: Periferia Cidade",
+      "Proximidade: Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 95,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 106,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }
