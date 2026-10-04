@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Canidelo, Vila Nova de Gaia, Porto",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 61,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlvdzZndzViZGF2OTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.d1jpR2xQ17CPjmj1BlK9WOiS-p4dmy2hjMZmGfV-5tA/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlvdzZndzViZGF2OTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.d1jpR2xQ17CPjmj1BlK9WOiS-p4dmy2hjMZmGfV-5tA/image;s=2048x1536;q=80",
+  "description": "Apresentamos este fantástico T1 com 61 m² de área bruta privativa, localizado na Rua do Agro — uma das zonas mais procuradas e dinâmicas da cidade!&nbsp;\n\nO que torna este imóvel imperdível?&nbsp;\n\nExposição solar excecional: Luz natural abundante ao longo de todo o dia, garantindo ambientes acolhedores e super confortáveis.\n\nCozinha equipada: Pronta a usar desde o primeiro dia (inclui placa, forno e exaustor).\n\n&nbsp;Localização de Excelência: A escassos metros da icónica Avenida da República, com todo o comércio, serviços e restauração à sua porta.\n\nMobilidade total: Vasta oferta de transportes públicos com ligações rápidas ao Porto e a toda a área metropolitana.\n\nIdeal para: Quem procura a primeira habitação, um jovem casal que valoriza a centralidade, ou para investidores à procura de um ativo altamente rentável no mercado de arrendamento.\n\nAproveite esta oportunidade de juntar conforto, luz e a localização perfeita!\n\nAgende já a sua visita! Entre em contacto por mensagem privada ou através dos canais habituais.\n\n-\n\nDiscover this 1-bedroom apartment with 61 m² of private gross area, located on Rua do Agro, one of the most sought-after and well-serviced areas in Vila Nova de Gaia.\n\nThe excellent sun exposure guarantees natural light throughout the day, creating cozy and comfortable environments in every room. The kitchen is equipped with a hob, oven, and extractor fan, ready to use from day one.\n\nThe location is one of this property's major assets. It is just a few metres from the iconic Avenida da República, the heart of Gaia, with shops, restaurants, services, and all the vibrancy of city life right on your doorstep. The area offers a wide range of public transport options, providing fast connections to Porto and the entire metropolitan area.\n\nIt is ideal for first-time buyers, a young couple who values mobility, or investors looking for an asset with strong demand in the rental market.\n\nA property with the right combination of comfort, light, and location. Book your visit today!&nbsp;\n\n-\n\nNous vous présentons ce superbe studio de 61 m² de surface brute privative, situé rue do Agro — l’un des quartiers les plus prisés et les plus dynamiques de la ville !\n\nPourquoi ce bien est-il incontournable ?\n\nUne exposition au soleil exceptionnelle : une lumière naturelle abondante tout au long de la journée, garantissant des pièces accueillantes et extrêmement confortables.\n\nCuisine équipée : prête à l’emploi dès le premier jour (comprend une plaque de cuisson, un four et une hotte aspirante).\n\nEmplacement d’exception : à quelques mètres seulement de l’emblématique Avenida da República, avec tous les commerces, services et restaurants à deux pas.\n\nMobilité totale : vaste réseau de transports en commun avec des liaisons rapides vers Porto et l’ensemble de la zone métropolitaine.\n\nIdéal pour : ceux qui recherchent leur premier logement, un jeune couple qui apprécie la proximité du centre-ville, ou pour les investisseurs à la recherche d’un bien très rentable sur le marché locatif.\n\nProfitez de cette opportunité d’allier confort, luminosité et emplacement idéal !\n\nPrenez rendez-vous dès maintenant pour une visite ! Contactez-nous par message privé ou via les canaux habituels.",
+  "geo": {
+    "lat": 41.127872,
+    "lng": -8.637556
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,26 @@
   "published_at": "2026-10-03",
   "last_seen_at": "2026-10-04",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlvdzZndzViZGF2OTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.d1jpR2xQ17CPjmj1BlK9WOiS-p4dmy2hjMZmGfV-5tA/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlvdzZndzViZGF2OTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.d1jpR2xQ17CPjmj1BlK9WOiS-p4dmy2hjMZmGfV-5tA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InoycjA0bnZ5aGhtZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.RQ5BXV03KYmozKpdygq5MqSGoHSRm-EhfTWqWnijN8w/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVicHpsODdnenRtYjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.JpnbupDIbgtX89HpQ5zJU64hnL04Lb24Q2WAJpKccBk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5hODNieDVpN3NndTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9INC69o4LPHTIoZkHl52vFymJrCqnBHe2qRPv_1Nk7A/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InA0bGIxdXRsOW1tNDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.THtlszeSO54XpOdL4uQykIOSvyQdlf02EtNawSWjkeQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhneTV6b3N6dHdiNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.xHlP555yyS7rbdolAKSZsewg06SmhM6U622rBqTpopQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF4N3J3MThjdzNjZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.j98Y2x3Xb-F-ovVyBCQR5buODZM3H8k0askerVqo9S4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNzcGgwNDRkZm1xbTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.LouuLc8ThC6jDVXO3JMKjJjwS_BTX1UrLTGZmpGkjtg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxyaDhxNHd1N2NleDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.bhiiKfzbT3DT5JvxhNntTZ7pxU8aMegXIYpm4udQ2Zc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhqNTQyc2E0Z29ubTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ccNd5vbheOSDDzxt-KessqzXdqBChLJObsr7-xmfJ_Q/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImtxbmxkODF6c3B4Ni1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.eSN_9P7RH7YEfqiHWTO9LLnkEvtKH9Yon_SrJlP7yCo/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 61,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 1987,
+  "certificacao_energetica": "D"
 }
