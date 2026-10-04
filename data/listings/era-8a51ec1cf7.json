@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 70,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t2-amarante-amarante-sao-goncalo-madalena-cepelos-e-gatao_13_1_1521761_18553934_2_1_gdgTgDg2h8%2f3cNxQaKU9d1%2fXZ5TuqEjAxAi4cuHEg1DEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t2-amarante-amarante-sao-goncalo-madalena-cepelos-e-gatao_14_1_1521761_18553934_2_1_gdgTgDg2h8%2f3cNxQaKU9d1%2fXZ5TuqEjAxAi4cuHEg1DEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "APARTAMENTO T2",
   "geo": {
     "lat": 41.27403,
     "lng": -8.083804
@@ -22,12 +22,19 @@
   "published_at": "2026-10-04",
   "last_seen_at": "2026-10-04",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t2-amarante-amarante-sao-goncalo-madalena-cepelos-e-gatao_13_1_1521761_18553934_2_1_gdgTgDg2h8%2f3cNxQaKU9d1%2fXZ5TuqEjAxAi4cuHEg1DEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t2-amarante-amarante-sao-goncalo-madalena-cepelos-e-gatao_14_1_1521761_18553934_2_1_gdgTgDg2h8%2f3cNxQaKU9d1%2fXZ5TuqEjAxAi4cuHEg1DEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t2-amarante-amarante-sao-goncalo-madalena-cepelos-e-gatao_14_1_1521761_18553933_2_1_8AKtpMtioyKCk3%2f1H2g1hh8VCEK9kA8a%2bS1tLzIAJpTEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/apartamento-t2-amarante-amarante-sao-goncalo-madalena-cepelos-e-gatao_14_1_1521761_18553935_2_1_5lhk91QomgWRvHMtIcccdBGyE%2bm8FJir8f3wScfts0DEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 63"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 70,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 63,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
