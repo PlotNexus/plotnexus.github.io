@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 54,
   "image": "https://images.century21.pt/im-exterior-01-jpg_f4933c5b-d597-44dd-9430-dca834d41343.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.1867101509332,
     "lng": -8.6651498759866
@@ -22,12 +22,36 @@
   "published_at": "2026-10-05",
   "last_seen_at": "2026-10-05",
   "images": [
-    "https://images.century21.pt/im-exterior-01-jpg_f4933c5b-d597-44dd-9430-dca834d41343.jpg"
+    "https://images.century21.pt/im-exterior-01-jpg_f4933c5b-d597-44dd-9430-dca834d41343.jpg",
+    "https://images.century21.pt/im-rooftop-02-jpg_fde06c63-fc5b-481e-9c4b-374de4f11d2f.jpg",
+    "https://images.century21.pt/im-exterior-02-jpg_5073ade9-31f3-4aa8-8a15-2ec46d9c7758.jpg",
+    "https://images.century21.pt/im-rooftop-jpg_6ab1ae53-9897-4c0c-8724-e9eec9c3ef91.jpg",
+    "https://images.century21.pt/im-quarto-03-jpg_7135b8ac-fc44-454f-8ce2-11a0af4c40d5.jpg",
+    "https://images.century21.pt/fracc-a-o-d-png_bb707b0e-ae40-488f-9ee4-6b63516304df.png",
+    "https://images.century21.pt/quarto-jpg_c337c9ca-2944-4026-95e4-80a2f2827898.jpg",
+    "https://images.century21.pt/im-cozinha-02-jpg_184b075c-d36c-438b-99e7-6c475dcfaa85.jpg",
+    "https://images.century21.pt/im-quarto-02-jpg_228a92ec-fa18-4117-8260-c39e1c3cba77.jpg",
+    "https://images.century21.pt/im-sala-02-jpg_6ad5860b-ff80-4931-acd3-bf5292dee9eb.jpg",
+    "https://images.century21.pt/im-cozinha-03-jpg_cf256773-c4ee-4f2f-a4b9-cb08f66a4cda.jpg",
+    "https://images.century21.pt/im-sala-01-jpg_0baec6b5-baa2-4eca-a181-95bf4bc268e3.jpg",
+    "https://images.century21.pt/im-hall-jpg_18033f1e-6869-4c7e-8ed3-da906916b509.jpg",
+    "https://images.century21.pt/im-wc-jpg_9f0c76c0-a197-4602-9cc9-8e3c17a12064.jpg",
+    "https://images.century21.pt/im-sala-04-jpg_a434a413-23ac-44f8-9332-f606b3971776.jpg",
+    "https://images.century21.pt/im-exterior-03-jpg_517c26e7-2638-4ded-b341-e53bdce82002.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Piscina comum",
+      "Janelas duplas",
+      "Elevador",
+      "Perto de o metro",
+      "Painéis solares"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 54,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 74,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A+"
 }

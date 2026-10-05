@@ -8,8 +8,8 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 80,
-  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-cantanhede-cantanhede_13_1_1199603_15318688_2_1_tDdu%2fvQ9ZkRXQu0xdwCdAFPm1Yawv2WWw0V2gqShqOTEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-cantanhede-cantanhede_14_1_1199603_15318688_2_1_tDdu%2fvQ9ZkRXQu0xdwCdAFPm1Yawv2WWw0V2gqShqOTEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia localizada no centro da cidade, com área de construção de 89m2. Excelente negócio. Venha conhecer.",
   "geo": null,
   "source": {
     "name": "ERA",
@@ -19,12 +19,26 @@
   "published_at": "2026-10-05",
   "last_seen_at": "2026-10-05",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-em-banda-cantanhede-cantanhede_13_1_1199603_15318688_2_1_tDdu%2fvQ9ZkRXQu0xdwCdAFPm1Yawv2WWw0V2gqShqOTEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-em-banda-cantanhede-cantanhede_14_1_1199603_15318688_2_1_tDdu%2fvQ9ZkRXQu0xdwCdAFPm1Yawv2WWw0V2gqShqOTEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-em-banda-cantanhede-cantanhede_14_1_1199603_15116161_2_1_8T6ZdIT8llbQbv7gmo7nr9YSkqaiYLAzRAfAqBuynM7EB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 89"
+    ],
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Zona": [
+      "Acessos: Bons",
+      "Centralidade: Centro da Cidade",
+      "Proximidade: Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 80,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 89,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
