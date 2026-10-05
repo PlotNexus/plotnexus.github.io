@@ -8,8 +8,8 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 247,
-  "image": "https://mediaredir2.era.pt/i/moradia-t3-ponta-do-sol-canhas_13_1_1507656_18396024_2_1_AlYSiwVMGcaKAMmQmb4XVTiYTy0%2fb52eoQS1VE3g3H7EB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t3-ponta-do-sol-canhas_14_1_1507656_18396024_2_1_AlYSiwVMGcaKAMmQmb4XVTiYTy0%2fb52eoQS1VE3g3H7EB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia isolada localizada nos Canhas, na Ponta do Sol, a necessitar de obras. Destaque para as boas áreas gerais do imóvel e inserção em zona calma. Conta ainda com espaço exterior com churrasqueira e oficina.",
   "geo": {
     "lat": 32.69064,
     "lng": -17.09709
@@ -22,12 +22,23 @@
   "published_at": "2026-10-05",
   "last_seen_at": "2026-10-05",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t3-ponta-do-sol-canhas_13_1_1507656_18396024_2_1_AlYSiwVMGcaKAMmQmb4XVTiYTy0%2fb52eoQS1VE3g3H7EB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t3-ponta-do-sol-canhas_14_1_1507656_18396024_2_1_AlYSiwVMGcaKAMmQmb4XVTiYTy0%2fb52eoQS1VE3g3H7EB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 247,25"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Domótica": [
+      "Churrasqueira"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 247,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 247,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

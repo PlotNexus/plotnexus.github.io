@@ -8,8 +8,8 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 119,
-  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-barreiro-centro-alfredo-da-silva_13_1_1241434_15503000_2_1_Dinwv3BtmZctGIHbBM0w2ycn1UiMUF4vltZjQCjo4szEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-barreiro-centro-alfredo-da-silva_14_1_1241434_15503000_2_1_Dinwv3BtmZctGIHbBM0w2ycn1UiMUF4vltZjQCjo4szEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia em Banda de 1939 com 1 piso. Área de 119,15m². A necessitar de obras de restauro. Quintal. Centro do Barreiro.",
   "geo": {
     "lat": 38.66021739999999,
     "lng": -9.074029199999998
@@ -22,12 +22,32 @@
   "published_at": "2026-10-05",
   "last_seen_at": "2026-10-05",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-em-banda-barreiro-centro-alfredo-da-silva_13_1_1241434_15503000_2_1_Dinwv3BtmZctGIHbBM0w2ycn1UiMUF4vltZjQCjo4szEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-em-banda-barreiro-centro-alfredo-da-silva_14_1_1241434_15503000_2_1_Dinwv3BtmZctGIHbBM0w2ycn1UiMUF4vltZjQCjo4szEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-em-banda-barreiro-centro-alfredo-da-silva_14_1_1241434_15502990_2_1_Dzgey1vYMn80CYAF27f7jwRbOuelSpSwWGFf41sEHtbEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 119,15"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Exposição Solar": [
+      "Norte, Sul"
+    ],
+    "Zona": [
+      "Acessos: Bons, Transportes Púb.",
+      "Centralidade: Centro da Cidade",
+      "Proximidade: Escolas, Jardins, Polícia, Praias, Serviços Públicos"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 119,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 119,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
