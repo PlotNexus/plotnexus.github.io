@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 90,
   "image": "https://images.century21.pt/fotos-24_043d0811-cd22-47ac-a4cc-d83bed82d80c.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 37.1014317,
     "lng": -8.222118
@@ -22,12 +22,35 @@
   "published_at": "2026-10-06",
   "last_seen_at": "2026-10-06",
   "images": [
-    "https://images.century21.pt/fotos-24_043d0811-cd22-47ac-a4cc-d83bed82d80c.jpg"
+    "https://images.century21.pt/fotos-24_043d0811-cd22-47ac-a4cc-d83bed82d80c.jpg",
+    "https://images.century21.pt/fotos-36_7d75f472-035c-4c8b-b09b-931f6cfd4def.jpg",
+    "https://images.century21.pt/fotos-12_12d96f21-e82e-48c3-bab1-63c31d512772.jpg",
+    "https://images.century21.pt/foto-1_994ef9fe-4264-4322-a664-4186436b7f69.jpg",
+    "https://images.century21.pt/fotos-30_b446fc9f-eaa8-4b8a-9afa-48aadf184c9a.jpg",
+    "https://images.century21.pt/fotos-13_3c48cfd7-418b-4285-b6aa-6d898a4fb669.jpg",
+    "https://images.century21.pt/fotos-14_ed63ff3b-d45f-4eb8-93ca-67624eba4511.jpg",
+    "https://images.century21.pt/fotos-23_dfc38754-579f-4fc2-a8bc-3860d510d063.jpg",
+    "https://images.century21.pt/fotos-25_ca9b059e-40e6-42a4-b33a-5e90f8059005.jpg",
+    "https://images.century21.pt/fotos-22_938ff54e-91ba-4062-abbd-428396ddf6c7.jpg",
+    "https://images.century21.pt/fotos-19_bd6bfb23-f696-41fa-866a-a408936d071c.jpg",
+    "https://images.century21.pt/fotos-20_dbcc042d-0e69-4568-9388-be15d79b94f9.jpg",
+    "https://images.century21.pt/fotos-21_5f82914d-3283-49e8-8963-766a1ea2405c.jpg",
+    "https://images.century21.pt/fotos-31_d4681b85-0839-48be-bec4-c3bf6b399db2.jpg",
+    "https://images.century21.pt/fotos-2_86dc6eb7-3abf-4ff7-b141-07b421f7085b.jpg",
+    "https://images.century21.pt/fotos-15_f76903bd-384d-4859-9f74-28726290159f.jpg",
+    "https://images.century21.pt/fotos-16_41c113c8-720b-4c05-8662-4463e404a54f.jpg",
+    "https://images.century21.pt/fotos-10_dd03a1b5-4f61-4d00-a46d-50c873cf397c.jpg",
+    "https://images.century21.pt/fotos-11_0592844a-ee37-46dd-b979-3ddbe83d218f.jpg",
+    "https://images.century21.pt/fotos-3_4ccdf142-c081-420e-9805-f9a999f1964f.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Cozinha"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 90,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 171,
+  "ano_construcao": 2006,
+  "certificacao_energetica": "C"
 }
