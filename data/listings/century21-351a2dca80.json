@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 195,
   "image": "https://images.century21.pt/areascomuns-01-fachada-rev02-br-1-_e5983897-e5b4-4531-87db-a6c32b788006.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7985161936257,
     "lng": -9.16058524863237
@@ -19,15 +19,40 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0482-00069",
-  "published_at": "2026-10-05",
-  "last_seen_at": "2026-10-05",
+  "published_at": "2026-10-06",
+  "last_seen_at": "2026-10-06",
   "images": [
-    "https://images.century21.pt/areascomuns-01-fachada-rev02-br-1-_e5983897-e5b4-4531-87db-a6c32b788006.jpg"
+    "https://images.century21.pt/areascomuns-01-fachada-rev02-br-1-_e5983897-e5b4-4531-87db-a6c32b788006.jpg",
+    "https://images.century21.pt/areascomuns-05-bardeck3-br_b7274ee0-eed7-465f-be77-0ef19a743607.jpg",
+    "https://images.century21.pt/areascomuns-06-bardeck-br_a2f2b5c9-4c75-4cfa-9940-91c9ec8138b4.jpg",
+    "https://images.century21.pt/fracaoa-08-terraco-br_a7ff7df0-c18c-4b12-b3d1-30555dc18251.jpg",
+    "https://images.century21.pt/fracaoa-01-sala-br_490c4616-6938-492f-a9de-a986ed110109.jpg",
+    "https://images.century21.pt/fracaoa-02-sala-br_b610469f-0a7c-4587-97f2-40ab835ca720.jpg",
+    "https://images.century21.pt/fracaoa-03-sala-br_6264c532-c4fc-4446-b59f-0f1ba13e45b7.jpg",
+    "https://images.century21.pt/fracaoa-05-suite-br_ce0050ee-41ca-411d-ade8-d514bb3964b5.jpg",
+    "https://images.century21.pt/fracaoa-06-closet-br_f321ab1c-4831-471b-94ce-b1fba4a08d47.jpg",
+    "https://images.century21.pt/fracaoa-07-is-br_4b5073f8-d756-435c-b2f9-a4582e65296a.jpg",
+    "https://images.century21.pt/areascomuns-03-gym-br_0e7a8629-916e-4df0-a939-9bde78f11352.jpg",
+    "https://images.century21.pt/areascomuns-04-bar-br_00f70b3f-7545-4474-a6c5-93a4b0034977.jpg",
+    "https://images.century21.pt/fracaoa-04-jardim-br_0b33a134-83ac-403b-a374-a9943cf1309f.jpg",
+    "https://images.century21.pt/fracaoa-3-copy-1-_eda7cd1c-f511-4044-aecd-785f7f528d5d.jpg",
+    "https://images.century21.pt/fracaoa-cob-copy-1-_44e99bac-f9d6-4738-a0fa-fdc8cfff1000.jpg",
+    "https://images.century21.pt/fracaoa-2-copy-1-_f8054ebe-9508-49de-ade2-5330afbdd461.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador",
+      "Estacionamento",
+      "Ginásio",
+      "Sala de estar",
+      "Sala de jantar",
+      "Terraço",
+      "Varanda"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 195,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 323.67,
+  "ano_construcao": 2024,
+  "certificacao_energetica": "A"
 }
