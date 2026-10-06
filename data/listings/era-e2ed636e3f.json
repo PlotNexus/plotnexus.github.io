@@ -8,8 +8,8 @@
   "bedrooms": 5,
   "bathrooms": 2,
   "area_m2": 154,
-  "image": "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_13_1_1420382_17447144_2_1_31lmfdQOB2lxlnVJhhwdqk5Cv4c1rA0zAyXV%2fSRsMFDEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_14_1_1420382_17447144_2_1_31lmfdQOB2lxlnVJhhwdqk5Cv4c1rA0zAyXV%2fSRsMFDEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia com duas habitações em local tranquilo com vista para o Rio Douro.\nAo nível do rés do chão tem dois quartos, uma sala, cozinha e wc.\nNo piso superior tem dois quartos, sala, cozinha e wc.\nTem 137 metros de terrenos onde pode ser construido alpendre ou garagem.",
   "geo": {
     "lat": 41.06093,
     "lng": -8.272943
@@ -22,12 +22,27 @@
   "published_at": "2026-10-06",
   "last_seen_at": "2026-10-06",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_13_1_1420382_17447144_2_1_31lmfdQOB2lxlnVJhhwdqk5Cv4c1rA0zAyXV%2fSRsMFDEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_14_1_1420382_17447144_2_1_31lmfdQOB2lxlnVJhhwdqk5Cv4c1rA0zAyXV%2fSRsMFDEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_14_1_1420382_17447143_2_1_jtMTiijNc9iovu%2fy%2fRz2aIW9tsTNh3Zg5IoVnmyURVTEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_14_1_1420382_17447145_2_1_BFIzW6kdzxbSo9oTpKd6VFCs8dgKBpLjNVPdr%2fi2qtDEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_14_1_1420382_17447146_2_1_6WnY%2fvV5O9f%2frCfTcEiCmScN7VCxqqxEwCnl9zevL2nEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_14_1_1420382_17447147_2_1_7%2fseTXJWhsZCAkgwQrhozcEOiM8WYqkcXGPD%2foAlgezEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_14_1_1420382_17447156_2_1_U%2fj2gF84v3hcS5dBfsm7i7QgT0%2fFP9z08zdLqrcrqxDEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_14_1_1420382_17447157_2_1_xom%2frQyLTwFoi5QgkumYKg9%2bWFW0Xa45Sjr7%2fRoqt0LEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_14_1_1420382_17447163_2_1_M1X4yby14kgH47e0xf%2bp1hqYCxOJ26ZHinWhQjIGGPLEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_14_1_1420382_17447164_2_1_8x2Mf3bAB6jnf9VeaACfNI3m0%2fer9BhhcuEeKFCU0PbEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_14_1_1420382_17447168_2_1_vAUxoJFNyqd8hJLicP%2bgdwzCtYPz6nZkMJA2WmOjjIrEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-geminada-t5-castelo-de-paiva-sobrado-e-bairros_14_1_1420382_17447174_2_1_cvPGrHNmeFattWKr63rxkxESEaNjchpD5N%2fU62y2x5fEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 231"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 154,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 231,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

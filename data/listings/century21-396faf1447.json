@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 121,
   "image": "https://images.century21.pt/fd5c8362-d2f9-4879-90d9-ce3efdce7a30/38d4d6b1-ee47-4c5d-9e39-7d750ccdc805.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.7493140834148,
     "lng": -8.80386829376221
@@ -22,12 +22,35 @@
   "published_at": "2026-10-06",
   "last_seen_at": "2026-10-06",
   "images": [
-    "https://images.century21.pt/fd5c8362-d2f9-4879-90d9-ce3efdce7a30/38d4d6b1-ee47-4c5d-9e39-7d750ccdc805.jpg"
+    "https://images.century21.pt/fd5c8362-d2f9-4879-90d9-ce3efdce7a30/38d4d6b1-ee47-4c5d-9e39-7d750ccdc805.jpg",
+    "https://images.century21.pt/7b734b23-a4a1-4f23-8353-89c670b7bb6c/3e34aaf3-f230-4088-86ce-110c24c3d2a0.jpg",
+    "https://images.century21.pt/90537687-2e5c-443a-afe1-a4b4e10f21ec/4fdd9a14-6830-46c4-8c94-e0d5fee7d57e.jpg",
+    "https://images.century21.pt/39cf25af-3eea-489a-ae66-eb01cb249b6f/019cd6b7-507e-4add-898e-bf266ec87756.jpg",
+    "https://images.century21.pt/8b9957c6-1dc6-4ac1-aab0-ef82bd9d8f01/bccc90e7-38be-4934-9345-92d620f324a3.jpg",
+    "https://images.century21.pt/ac3f2363-80c4-40cf-8b18-0e252d3642e1/57d6e326-d1b8-40c6-8128-90205b631507.jpg",
+    "https://images.century21.pt/2548e50b-9628-4e0d-9b81-319d4fba35d5/9f3f93f2-f40c-426d-99e6-b6aed587c743.jpg",
+    "https://images.century21.pt/d12e964e-daec-4ddc-9806-291751bd1b5d/b14ecefb-2794-4730-b128-f3a3368d8fcf.jpg",
+    "https://images.century21.pt/9ee7416a-4738-4312-8361-03028d12f736/90164eb5-db1e-4a3b-9218-ba78dbf0ad59.jpg",
+    "https://images.century21.pt/e3a9470b-a2f7-49b6-b01f-056754509e6d/2b23dece-9803-4603-8c37-652a4ffafc9b.jpg",
+    "https://images.century21.pt/0132a4de-d69f-44b6-bc13-d6725adf2b2c/WhatsAppImage2026-05-25at13.55.36.jpeg",
+    "https://images.century21.pt/7b86b746-d5df-4b97-8d48-532a2a47aec0/WhatsAppImage2026-05-25at13.55.36(1).jpeg",
+    "https://images.century21.pt/40b3b5dc-19a8-4740-83e6-623e5228f507/WhatsAppImage2026-05-25at13.55.36(2).jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Hall de quartos",
+      "Elevador",
+      "Boa exposição solar",
+      "Boa localização",
+      "Corredor",
+      "Cozinha",
+      "Vídeo-porteiro"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 121,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 122,
+  "ano_construcao": 1993,
+  "certificacao_energetica": "C"
 }

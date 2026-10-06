@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 61,
   "image": "https://images.century21.pt/fbd69578-73e2-4b0a-9482-36936bfdde54/3.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.8155023,
     "lng": -8.5549333
@@ -22,12 +22,42 @@
   "published_at": "2026-10-06",
   "last_seen_at": "2026-10-06",
   "images": [
-    "https://images.century21.pt/fbd69578-73e2-4b0a-9482-36936bfdde54/3.jpeg"
+    "https://images.century21.pt/fbd69578-73e2-4b0a-9482-36936bfdde54/3.jpeg",
+    "https://images.century21.pt/c43ddbdf-08d2-4ef9-8d56-f39c04a2d82d/6.jpeg",
+    "https://images.century21.pt/b7a973d2-bb05-442e-b319-0fdb681b3e32/5.jpeg",
+    "https://images.century21.pt/bcb22d91-9a7b-4b39-9ca3-28724806680c/1hatsApp%20Image%202025-06-13%20at%2017.11.45.jpeg",
+    "https://images.century21.pt/0b91d067-e39e-4a60-a37b-5b6a548ccad9/2.jpeg",
+    "https://images.century21.pt/482add0d-85af-48f1-aed7-025f9ed45dad/1.jpeg",
+    "https://images.century21.pt/5a122e3c-7619-4762-b7a0-4441bcc1f7e8/4.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Água",
+      "Água canalizada",
+      "Eletricidade",
+      "Poço",
+      "Vista panorâmica",
+      "Vista campo",
+      "Perto de espaços verdes",
+      "Perto de uma farmácia",
+      "Cave",
+      "Alpendre",
+      "Casa de banho de suite",
+      "Corredor",
+      "Cozinha",
+      "Open space",
+      "Outra divisão",
+      "Pátio",
+      "Quarto",
+      "Lareira",
+      "Telefone",
+      "Árvores centenárias",
+      "Árvores de fruto"
+    ]
+  },
   "estado": null,
   "area_util_m2": 61,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 123,
+  "ano_construcao": 1936,
+  "certificacao_energetica": "EXEMPT"
 }
