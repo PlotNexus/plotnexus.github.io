@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 86,
   "image": "https://images.century21.pt/f64dc4c6-0300-421d-a482-9dd7651df998/Semnome.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6539023,
     "lng": -9.0741662
@@ -19,15 +19,24 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/0739-04521",
-  "published_at": "2026-10-07",
-  "last_seen_at": "2026-10-07",
+  "published_at": "2026-10-08",
+  "last_seen_at": "2026-10-08",
   "images": [
-    "https://images.century21.pt/f64dc4c6-0300-421d-a482-9dd7651df998/Semnome.jpg"
+    "https://images.century21.pt/f64dc4c6-0300-421d-a482-9dd7651df998/Semnome.jpg",
+    "https://images.century21.pt/c52940f3-dc74-4d74-bed5-ed6862960846/planta.jpg",
+    "https://images.century21.pt/d7b55e9c-3eb8-4580-8ec7-bda5e91e5946/DesenhoPedio.png",
+    "https://images.century21.pt/ebf03534-f709-4500-b49b-5c532812e9e9/Semnome.png",
+    "https://images.century21.pt/3fb87bd5-6f92-4579-839f-d38314074de8/Planta3.png",
+    "https://images.century21.pt/2657d49f-9fd7-4d9b-9693-4486f0a114f9/21-01-26-CertidaoPermanentedoRegistoComercial.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Primeira linha"
+    ]
+  },
   "estado": null,
   "area_util_m2": 86,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 87.17,
+  "ano_construcao": 2027,
+  "certificacao_energetica": "A+"
 }

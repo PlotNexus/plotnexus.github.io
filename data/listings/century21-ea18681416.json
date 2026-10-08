@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 94,
   "image": "https://images.century21.pt/fed1bc67-c9f7-45a2-aef1-a7a38b068df2/Andar.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.6539023,
     "lng": -9.0741662
@@ -19,15 +19,25 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/0739-04523",
-  "published_at": "2026-10-07",
-  "last_seen_at": "2026-10-07",
+  "published_at": "2026-10-08",
+  "last_seen_at": "2026-10-08",
   "images": [
-    "https://images.century21.pt/fed1bc67-c9f7-45a2-aef1-a7a38b068df2/Andar.jpg"
+    "https://images.century21.pt/fed1bc67-c9f7-45a2-aef1-a7a38b068df2/Andar.jpg",
+    "https://images.century21.pt/7e131172-d57d-4966-b4f7-36f80d310fb6/DesenhoPedio.png",
+    "https://images.century21.pt/cdd1e62d-7f9b-41b2-9308-c6b3f0e6a595/Semnome.png",
+    "https://images.century21.pt/53112f73-19ad-426d-b7ee-2b38b7960479/Semnome.png",
+    "https://images.century21.pt/b30228a0-a50a-4e86-8520-6d319504c69f/Semnome.jpg",
+    "https://images.century21.pt/568a615c-a4e6-4836-bb67-a81053201e7f/Planta3.png"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Primeira linha",
+      "Vista rio"
+    ]
+  },
   "estado": null,
   "area_util_m2": 94,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 95,
+  "ano_construcao": 2027,
+  "certificacao_energetica": "A+"
 }
