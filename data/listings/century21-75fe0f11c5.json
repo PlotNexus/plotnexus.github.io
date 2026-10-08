@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 30,
   "image": "https://images.century21.pt/89ee95ff-e61c-4b28-bdf3-9b0de66a5782/IMG9005.jpg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 39.5591992,
     "lng": -8.4873592
@@ -22,12 +22,37 @@
   "published_at": "2026-10-08",
   "last_seen_at": "2026-10-08",
   "images": [
-    "https://images.century21.pt/89ee95ff-e61c-4b28-bdf3-9b0de66a5782/IMG9005.jpg"
+    "https://images.century21.pt/89ee95ff-e61c-4b28-bdf3-9b0de66a5782/IMG9005.jpg",
+    "https://images.century21.pt/fb91a0e0-d763-49c5-8a3a-84d8784f0f31/IMG9020.jpg",
+    "https://images.century21.pt/1ae7ed81-9084-4c35-9605-fa9d5c661944/IMG8984.jpg",
+    "https://images.century21.pt/bf4fcf5a-b454-45a0-b414-c7c42c47d595/IMG9002.jpg",
+    "https://images.century21.pt/6f876fd7-1a0c-4db3-9bb5-ddeae6089f03/IMG8999.jpg",
+    "https://images.century21.pt/a1ece7dd-8621-462d-b741-790c3af32992/IMG9008.jpg",
+    "https://images.century21.pt/e0085085-0613-4452-bd55-59c7f1939038/IMG9029.jpg",
+    "https://images.century21.pt/9527da51-d308-4ddb-b861-a792cabcb6bd/IMG9026.jpg",
+    "https://images.century21.pt/51536dfa-c2f6-4659-afcd-ba337952491e/IMG9011.jpg",
+    "https://images.century21.pt/42b3f3da-6ba3-432c-a7bc-e44b69a4118a/IMG9014.jpg",
+    "https://images.century21.pt/6d024d01-5b10-44f2-a341-0ec568038f25/IMG9017.jpg",
+    "https://images.century21.pt/1d2b0a91-ae8d-48cc-9f89-6970c6b0bab2/IMG8996.jpg",
+    "https://images.century21.pt/9de1dfda-87e6-45aa-a19a-737afa6072bc/IMG8987.jpg",
+    "https://images.century21.pt/09209dd0-789e-4195-b294-22ed82b28f21/IMG8990.jpg",
+    "https://images.century21.pt/5f31dc06-4d03-495b-93b7-f11ed58eca6f/IMG8981.jpg",
+    "https://images.century21.pt/733a7a1f-0ba0-4390-bd97-cdc1cc154c76/IMG8975.jpg",
+    "https://images.century21.pt/8c5814d3-99d7-40ee-a784-8e5a155f373a/IMG8957.jpg",
+    "https://images.century21.pt/f6668f3a-bf7c-4a8c-8a17-5356d61976e1/IMG8978.jpg",
+    "https://images.century21.pt/c4eacfd8-7f4e-4b4a-9429-4459426247fc/IMG8963.jpg",
+    "https://images.century21.pt/58e7a28a-ff72-4be6-9d2a-65916cbfef4b/IMG8954.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Churrasqueira",
+      "Marquise",
+      "Pátio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 30,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 39,
+  "ano_construcao": 1970,
   "certificacao_energetica": null
 }

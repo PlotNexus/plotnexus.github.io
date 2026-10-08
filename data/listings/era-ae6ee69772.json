@@ -8,8 +8,8 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 204,
-  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-mangualde-alcafache_13_1_1566753_19038351_2_1_fuZZqbgut2UxD1VuqdVuLjgIcOxrVpO2o3VA1CNgHzDEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-em-banda-mangualde-alcafache_14_1_1566753_19038351_2_1_fuZZqbgut2UxD1VuqdVuLjgIcOxrVpO2o3VA1CNgHzDEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia para reconstruir a 15km de Viseu e a 10km de Mangualde com cerca de 200m2.",
   "geo": {
     "lat": 40.59374237060547,
     "lng": -7.872922897338867
@@ -22,12 +22,22 @@
   "published_at": "2026-10-08",
   "last_seen_at": "2026-10-08",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-em-banda-mangualde-alcafache_13_1_1566753_19038351_2_1_fuZZqbgut2UxD1VuqdVuLjgIcOxrVpO2o3VA1CNgHzDEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-em-banda-mangualde-alcafache_14_1_1566753_19038351_2_1_fuZZqbgut2UxD1VuqdVuLjgIcOxrVpO2o3VA1CNgHzDEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-em-banda-mangualde-alcafache_14_1_1566753_19038312_2_1_q5Q9hqzG%2fR8SGE3ttiis1xoVQFDJVttnyKe0ey8uKh%2fEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-em-banda-mangualde-alcafache_14_1_1566753_19038329_2_1_V2kQbdAMjARUTPTe2EjIvdrZhcoyxMzeQHg0adOeaIvEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-em-banda-mangualde-alcafache_14_1_1566753_19038334_2_1_kq6oTrTft73Bgm4ZBg95iefYAEhffDdJDUK%2blY%2fJBavEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-em-banda-mangualde-alcafache_14_1_1566753_19038336_2_1_COQetkTiAWMm5nR8va%2bUjGysXNXSSi46F74%2beqceYf%2fEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-em-banda-mangualde-alcafache_14_1_1566753_19038372_2_1_sGiY9M4tyfcx5nprlrHxc1AKnlogrm%2bt6PMgNIWZkDrEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 204"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 204,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 204,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

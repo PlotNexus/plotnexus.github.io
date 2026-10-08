@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 55.43,
   "image": "https://images.century21.pt/c2bdd765-ea5b-40ab-b79d-88856cff2f1a/FotoRED4.jpg",
-  "description": null,
+  "description": "$25",
   "geo": {
     "lat": 38.7133644,
     "lng": -9.1306939
@@ -22,12 +22,25 @@
   "published_at": "2026-10-08",
   "last_seen_at": "2026-10-08",
   "images": [
-    "https://images.century21.pt/c2bdd765-ea5b-40ab-b79d-88856cff2f1a/FotoRED4.jpg"
+    "https://images.century21.pt/c2bdd765-ea5b-40ab-b79d-88856cff2f1a/FotoRED4.jpg",
+    "https://images.century21.pt/5bacd806-d2ec-45e7-8a7d-745b38a716cb/FotoRED7.jpg",
+    "https://images.century21.pt/2db5e57d-9855-496f-ab38-07de9e4a14eb/FotoRED5.jpg",
+    "https://images.century21.pt/e5e01e26-e5c4-42ea-b918-b8327a7c92c1/FotoRED6.jpg",
+    "https://images.century21.pt/bc13d605-c11d-412d-b475-653255927ff8/FotoRED8.jpg",
+    "https://images.century21.pt/d0b31396-fa28-48b1-b8e1-695b885f35d8/FotoRED3.jpg",
+    "https://images.century21.pt/0bef3c61-da18-48a4-b056-f94e8674e12f/FotoRED9.jpg",
+    "https://images.century21.pt/a32dc0bf-3689-458a-9101-07499183d341/FotoRED1.jpg",
+    "https://images.century21.pt/b79c9b5c-0c05-4f1e-bfe2-f3c2f1052cbd/FotoRED2.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Vista cidade"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 55.43,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 55.44,
+  "ano_construcao": 0,
   "certificacao_energetica": null
 }

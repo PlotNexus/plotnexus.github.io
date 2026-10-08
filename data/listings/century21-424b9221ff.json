@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 130,
   "image": "https://images.century21.pt/3ca2ef07-b869-49f1-95ef-909951e6190b/033.jpg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 38.5216739271218,
     "lng": -8.81734371185303
@@ -22,12 +22,43 @@
   "published_at": "2026-10-08",
   "last_seen_at": "2026-10-08",
   "images": [
-    "https://images.century21.pt/3ca2ef07-b869-49f1-95ef-909951e6190b/033.jpg"
+    "https://images.century21.pt/3ca2ef07-b869-49f1-95ef-909951e6190b/033.jpg",
+    "https://images.century21.pt/af67be68-54db-4dac-a986-81bc1cb41555/002.jpg",
+    "https://images.century21.pt/24b2290a-5720-4522-a7dc-07e03eddc214/003.jpg",
+    "https://images.century21.pt/46ad7638-d9a3-4217-bf81-a2c651dbc73b/015.jpg",
+    "https://images.century21.pt/fb02cf69-ad31-48e6-9e91-adf8cf8fd316/014.jpg",
+    "https://images.century21.pt/5d0ae7db-405f-4b86-aef7-9234e053ba87/006.jpg",
+    "https://images.century21.pt/d775b708-a2d9-4406-a1c5-62e3d87f343f/008.jpg",
+    "https://images.century21.pt/1aa81d44-ea76-43f8-89e0-81fa5ac9b73f/009.jpg",
+    "https://images.century21.pt/82c50944-6e7b-45ad-aaa5-c662f473c318/007.jpg",
+    "https://images.century21.pt/28683c1c-ba27-4056-8c6d-5da9b2a13de9/010.jpg",
+    "https://images.century21.pt/294250b9-4bf0-47f5-88ed-71699445a185/019.jpg",
+    "https://images.century21.pt/39ce2be3-b881-4c6d-978f-ffd341be1c64/020.jpg",
+    "https://images.century21.pt/7152665f-51f2-45c7-9e28-baaeaa9994a1/011.jpg",
+    "https://images.century21.pt/cf28fea9-3202-42c6-ab02-971deb98484a/016.jpg",
+    "https://images.century21.pt/2c2ce191-edf9-40c7-9a9a-04ff11d76a6e/018.jpg",
+    "https://images.century21.pt/1ead67f2-de73-4a89-8f4c-004156958161/032.jpg",
+    "https://images.century21.pt/17ffddc8-44b7-46ba-894f-ae3d2bb9a5cd/022.jpg",
+    "https://images.century21.pt/ca6c709e-15c7-4cf5-9fca-f7f09cd9eb8a/031.jpg",
+    "https://images.century21.pt/fd46e802-9f4c-4770-8071-e1c648297250/028.jpg",
+    "https://images.century21.pt/8dc187c9-df98-45ee-9c6a-28e9582c2a2f/023.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Varanda",
+      "Exaustor",
+      "Boa exposição solar",
+      "Boa localização",
+      "Forno",
+      "Zona tranquila",
+      "Fogão",
+      "Suite"
+    ]
+  },
   "estado": null,
   "area_util_m2": 130,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 150,
+  "ano_construcao": 2003,
+  "certificacao_energetica": "D"
 }
