@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 119.61,
   "image": "https://images.century21.pt/71def01c-81cc-4e2c-90d1-374da0b1a3fb/1.JPG",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.71289,
     "lng": -9.424011
@@ -22,12 +22,35 @@
   "published_at": "2026-10-09",
   "last_seen_at": "2026-10-09",
   "images": [
-    "https://images.century21.pt/71def01c-81cc-4e2c-90d1-374da0b1a3fb/1.JPG"
+    "https://images.century21.pt/71def01c-81cc-4e2c-90d1-374da0b1a3fb/1.JPG",
+    "https://images.century21.pt/feafcb34-81e2-498c-951f-7e4e90be43f1/2.JPG",
+    "https://images.century21.pt/73331f81-ca32-4d4c-9f08-563f39d94555/3.JPG",
+    "https://images.century21.pt/55f3e80a-61f6-460f-a693-b82ab621b80c/4.JPG",
+    "https://images.century21.pt/25b744a3-4269-44bd-907f-69e6b92c1817/5.JPG",
+    "https://images.century21.pt/2cfbd81a-56d6-4f00-9430-88ceef8d8837/6.JPG",
+    "https://images.century21.pt/5311c951-35bd-4b72-a442-84a0967eb773/7.JPG",
+    "https://images.century21.pt/ec4e5a57-6b80-4166-a1b5-5879f6870638/8.JPG",
+    "https://images.century21.pt/563a0e23-10cd-4136-afb3-438c7339d233/9.JPG",
+    "https://images.century21.pt/6a0dfcf2-18af-4f47-b391-7f4e35ec4ca9/10.JPG",
+    "https://images.century21.pt/b811408e-8c22-430b-9350-a611019cc812/11.JPG",
+    "https://images.century21.pt/14b936b1-f48a-4643-88a9-2a29e56ec7ac/12.JPG",
+    "https://images.century21.pt/10d6f5b7-99a4-4e88-90ed-da6d307901b5/13.JPG",
+    "https://images.century21.pt/807261c7-60cc-496c-9046-791d4b903b80/14.JPG",
+    "https://images.century21.pt/212c701f-cc21-4c45-a7bf-099947440049/15.JPG",
+    "https://images.century21.pt/5dcbac85-0387-4c14-a68c-f3be59880fe4/16.1.JPG",
+    "https://images.century21.pt/0a2310a7-c9bb-4061-aa64-8ac4b7731ecb/16.JPG",
+    "https://images.century21.pt/bce562d8-c9f8-40e6-b1ee-76ee2b7d0dd5/17.JPG",
+    "https://images.century21.pt/32f04864-25d3-4807-bf5f-3f8c69ba5dcc/18.JPG",
+    "https://images.century21.pt/7f5b9205-8293-4aac-bc91-2851ea2c1d4b/19.JPG"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 119.61,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 125,
+  "ano_construcao": 1978,
+  "certificacao_energetica": "D"
 }

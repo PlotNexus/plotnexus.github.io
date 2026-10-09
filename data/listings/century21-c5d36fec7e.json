@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 66.12,
   "image": "https://images.century21.pt/1bfe49d3-d99e-4a55-950d-1c4a90af0532/2.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7122711,
     "lng": -9.1615325
@@ -22,12 +22,47 @@
   "published_at": "2026-10-09",
   "last_seen_at": "2026-10-09",
   "images": [
-    "https://images.century21.pt/1bfe49d3-d99e-4a55-950d-1c4a90af0532/2.jpg"
+    "https://images.century21.pt/1bfe49d3-d99e-4a55-950d-1c4a90af0532/2.jpg",
+    "https://images.century21.pt/2eec77a5-ca32-4065-90b4-919b030d6f59/001Sala.jpg",
+    "https://images.century21.pt/64c8e568-3a7d-4516-931a-d6033262dcb5/005Sala4.jpg",
+    "https://images.century21.pt/873ae330-dcf7-48d5-8c68-3b243b699103/006Sala5.jpg",
+    "https://images.century21.pt/bf2b340b-8994-415a-922d-019a2d068386/009Cozinha1.jpg",
+    "https://images.century21.pt/41d66055-8a28-4b23-bd2d-fff02dfdb501/010Cozinha2.jpg",
+    "https://images.century21.pt/cdea6c43-134a-4615-b59c-6c17c7198475/1.jpg",
+    "https://images.century21.pt/9a43d0e0-632f-4f7c-90a0-ee6936020ca2/011Cozinha3.jpg",
+    "https://images.century21.pt/186dd9a6-766a-4dbb-9cb8-323efa965f4c/007Corredor.jpg",
+    "https://images.century21.pt/0e2fee5f-76a1-4d6a-9429-81f14d14a33d/012QuartoFilha.jpg",
+    "https://images.century21.pt/d76b7399-a226-4a2a-b642-7f095f118fa8/014QuartoFilha2.jpg",
+    "https://images.century21.pt/61bac19a-c8d4-41a0-aeaa-3a6d1478965c/017QuartoCasal2.jpg",
+    "https://images.century21.pt/02781795-bb76-4200-ba2a-3477539325cf/015QuartoCasal.jpg",
+    "https://images.century21.pt/5077eeff-9c4b-44db-9e3e-c8eb9f913a48/Capturadeecra2026-04-01as09.01.46.png",
+    "https://images.century21.pt/aee65ed9-f001-4be4-8c0f-3d05659f25c9/ChatGPTImage1042026090933.png",
+    "https://images.century21.pt/3c044ad7-b64c-4951-b010-b36bc6885a57/020Terraco.jpg",
+    "https://images.century21.pt/0a7f7062-b320-4c7d-b4cb-ed7783d69ff6/023Terraco3.jpg",
+    "https://images.century21.pt/40ff58c0-a886-45de-ad2a-a03515b55615/3.jpg",
+    "https://images.century21.pt/afbb2b98-1a56-4c4d-ad84-efddf7cc409a/022Terraco2.jpg",
+    "https://images.century21.pt/bb7e18b7-51e4-4c53-9f1a-5c4ab997cc6e/14.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Boa localização",
+      "Casa de banho",
+      "Corredor",
+      "Cozinha",
+      "Outra divisão",
+      "Quarto",
+      "Sala de estar",
+      "Sala de jantar",
+      "Terraço",
+      "Eletrodomésticos",
+      "Esquentador",
+      "Exaustor",
+      "Forno"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 66.12,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 76,
+  "ano_construcao": 1989,
+  "certificacao_energetica": "D"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 77,
   "image": "https://images.century21.pt/cdb8df42-1255-48ef-a5bc-6c57c329df5c/IMG%2006FINAL.jpg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 37.7429704,
     "lng": -25.6520552
@@ -22,12 +22,48 @@
   "published_at": "2026-10-09",
   "last_seen_at": "2026-10-09",
   "images": [
-    "https://images.century21.pt/cdb8df42-1255-48ef-a5bc-6c57c329df5c/IMG%2006FINAL.jpg"
+    "https://images.century21.pt/cdb8df42-1255-48ef-a5bc-6c57c329df5c/IMG%2006FINAL.jpg",
+    "https://images.century21.pt/cdb8df42-1255-48ef-a5bc-6c57c329df5c/IMG%2001FINAL.jpg",
+    "https://images.century21.pt/cdb8df42-1255-48ef-a5bc-6c57c329df5c/IMG%2002FINAL.jpg",
+    "https://images.century21.pt/cdb8df42-1255-48ef-a5bc-6c57c329df5c/IMG%2010FINAL.jpg",
+    "https://images.century21.pt/cdb8df42-1255-48ef-a5bc-6c57c329df5c/IMG%2006FINAL.jpg",
+    "https://images.century21.pt/cdb8df42-1255-48ef-a5bc-6c57c329df5c/IMG%2001FINAL.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Luxo",
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Arrecadação",
+      "Casa de banho",
+      "Casa de banho de suite",
+      "Garagem",
+      "Jardim",
+      "Kitchenette",
+      "Quarto em suite",
+      "Suite",
+      "Varandas",
+      "Ginásio",
+      "Piscina",
+      "Isolamento acústico",
+      "Isolamento térmico",
+      "Pré-instalação de ar condicionado",
+      "Vista cidade",
+      "Parque infantil",
+      "Terraço",
+      "Elevador",
+      "Estores elétricos",
+      "Vídeo-porteiro",
+      "Perto de comodidades",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial",
+      "Perto de o centro da cidade"
+    ]
+  },
   "estado": null,
   "area_util_m2": 77,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 77.9,
+  "ano_construcao": 2028,
+  "certificacao_energetica": "IN_PROCESS"
 }

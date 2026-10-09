@@ -8,8 +8,8 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 293,
-  "image": "https://mediaredir2.era.pt/i/moradia-porto-arrabida_13_1_1487955_18257875_2_1_j1%2bI6Sx%2fH2HlDE25ahleGtAPIVUIrnazqQurNdPz1xnEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-porto-arrabida_14_1_1487955_18257875_2_1_j1%2bI6Sx%2fH2HlDE25ahleGtAPIVUIrnazqQurNdPz1xnEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Conjunto de 4 moradias (2 artigos) inseridas num lote com 1057m2. Para recuperar ou reconstruir. Vista sobre o rio Douro e Foz do Douro.",
   "geo": {
     "lat": 41.14965,
     "lng": -8.645427
@@ -22,12 +22,28 @@
   "published_at": "2026-10-09",
   "last_seen_at": "2026-10-09",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-porto-arrabida_13_1_1487955_18257875_2_1_j1%2bI6Sx%2fH2HlDE25ahleGtAPIVUIrnazqQurNdPz1xnEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-porto-arrabida_14_1_1487955_18257875_2_1_j1%2bI6Sx%2fH2HlDE25ahleGtAPIVUIrnazqQurNdPz1xnEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 1057"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Zona": [
+      "Acessos: Bons, Transportes Púb.",
+      "Centralidade: Centro da Cidade",
+      "Proximidade: Clínica, Escolas, Farmácia, Jardins, Jardins Infância, Padaria, Praias, Supermercado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 293,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 1057,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

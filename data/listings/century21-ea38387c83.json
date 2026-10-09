@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 63.45,
   "image": "https://images.century21.pt/8dbc7861-8430-444d-ad0c-ada5db771c9d/VistaAvenidas.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.5253859,
     "lng": -8.8901525
@@ -22,12 +22,20 @@
   "published_at": "2026-10-09",
   "last_seen_at": "2026-10-09",
   "images": [
-    "https://images.century21.pt/8dbc7861-8430-444d-ad0c-ada5db771c9d/VistaAvenidas.jpg"
+    "https://images.century21.pt/8dbc7861-8430-444d-ad0c-ada5db771c9d/VistaAvenidas.jpg",
+    "https://images.century21.pt/b74720d7-211f-4436-b0e8-593bd928b2fe/Setubal-9.jpg",
+    "https://images.century21.pt/a9ec94d3-0f64-4ae2-b5f5-09032c804afb/Setubal-19MAISPROXIMO.jpg",
+    "https://images.century21.pt/a1e30de3-429c-4885-b982-da13db2bbd4f/AV.jpg",
+    "https://images.century21.pt/10802cba-c305-42fb-bf21-06d91ed7aa6a/LATERALESQUERDA.jpg",
+    "https://images.century21.pt/344e63dd-6710-4887-8309-328483b8d300/PIS02T17ROSAT12CQUARTO.jpg",
+    "https://images.century21.pt/44038f29-ad9a-4b35-af65-47e0ceacd3f6/PIS02T17ROSAT12CCOZINHA.jpg",
+    "https://images.century21.pt/093e6bb1-abe3-4f52-a563-48bf0dce8fe7/PIS02T17ROSAT12CSALA.jpg",
+    "https://images.century21.pt/47ba443e-3fdd-462e-ba80-06dedc47a4d5/PIS02T17ROSAT12CIS.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Novo",
   "area_util_m2": 63.45,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 66.07,
+  "ano_construcao": 2026,
   "certificacao_energetica": null
 }
