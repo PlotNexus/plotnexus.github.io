@@ -8,8 +8,8 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 60,
-  "image": "https://mediaredir2.era.pt/i/moradia-braganca-franca_13_1_1265614_15726578_2_1_zf0NmDRe%2frFQfHlygkjf%2bvZxFgfULsIJxw34BJUIOPLEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-braganca-franca_14_1_1265614_15726578_2_1_zf0NmDRe%2frFQfHlygkjf%2bvZxFgfULsIJxw34BJUIOPLEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia inserida no parque natural de Montesinho, para reconstruir.",
   "geo": {
     "lat": 41.91146,
     "lng": -6.897071
@@ -22,12 +22,20 @@
   "published_at": "2026-10-09",
   "last_seen_at": "2026-10-09",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-braganca-franca_13_1_1265614_15726578_2_1_zf0NmDRe%2frFQfHlygkjf%2bvZxFgfULsIJxw34BJUIOPLEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-braganca-franca_14_1_1265614_15726578_2_1_zf0NmDRe%2frFQfHlygkjf%2bvZxFgfULsIJxw34BJUIOPLEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-braganca-franca_14_1_1265614_15726580_2_1_NaR%2bVHcRQAtvUyUXXNI%2fSAmwK1o0Je4dw61AIr%2f2aJfEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-braganca-franca_14_1_1265614_15726579_2_1_3h3ACt07d5wlm%2fW04hN8M1Qu1xU5Mope3VV6znyCMtnEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-braganca-franca_14_1_1265614_15726581_2_1_5rcbIZWELcSVTCrMuzRQODlkn%2fyKoVZqERq5ckQDHXbEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 60"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 60,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 60,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Carnide, Lisboa",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 207,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImUyN2tjbTdncnpiZDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.912-yKtm01JDg7Wz6qdaynS-FvmYHnqfa1IeG4GuSmQ/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImUyN2tjbTdncnpiZDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.912-yKtm01JDg7Wz6qdaynS-FvmYHnqfa1IeG4GuSmQ/image;s=2048x1536;q=80",
+  "description": "Este apartamento T4 situado em Carnide, Lisboa sofreu alguns melhoramentos, aumentando a sala por aproveitamento de 1 quarto, possui 3 casas de banho e uma área bruta de 207 m². Construído em 1997, está pronto a habitar e apresenta acabamentos de qualidade. O imóvel inclui uma cozinha equipada com eletrodomésticos recentes, 2 despensas e um closet em formato arrumos, além de uma lavandaria com máquinas de lavar e de secar e ar condicionado novo de chão da marca Mitsubishi com varandas agradáveis, 2 lugares garagem e arrecadação na cave com acesso por elevador, oferece conforto e comodidade para a sua família.Localizado em Carnide, este apartamento beneficia de uma excelente rede de transportes públicos, estando perto das estações de metro de Telheiras e Carnide. A área é rica em opções de lazer e entretenimento, como teatros e restaurantes. Nas proximidades, encontrará:Cafés e baresParquesSupermercados e centros comerciaisEscolas e instituições de ensinoClínicas e hospitalEste apartamento é ideal para quem procura um lar espaçoso e bem situado. Não perca a oportunidade de agendar uma visita e conhecer a sua nova casa.",
+  "geo": {
+    "lat": 38.763577,
+    "lng": -9.179027
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-08",
   "last_seen_at": "2026-10-09",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImUyN2tjbTdncnpiZDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.912-yKtm01JDg7Wz6qdaynS-FvmYHnqfa1IeG4GuSmQ/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImUyN2tjbTdncnpiZDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.912-yKtm01JDg7Wz6qdaynS-FvmYHnqfa1IeG4GuSmQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ims0cGt1Y2xwemNzOTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Bp5on9w8YNVcuH6O37AfuLEz1dV0p4cjMIkDiZzgCsg/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Estores",
+      "Porta blindada",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Varanda",
+      "Garagem",
+      "Elevador",
+      "Cozinha independente"
+    ],
+    "Equipamento": [
+      "Máquina de lavar loiça",
+      "Frigorífico",
+      "Forno",
+      "Ar condicionado"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 207,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 1997,
+  "certificacao_energetica": "C"
 }

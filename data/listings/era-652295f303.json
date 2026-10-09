@@ -8,8 +8,8 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 86,
-  "image": "https://mediaredir2.era.pt/i/moradia-satao-sao-miguel-de-vila-boa_13_1_1134797_14321366_2_1_JLlRVkYigQjMH9MAb9UuibkVhoK6GfzoW862iNQUrZvEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-satao-sao-miguel-de-vila-boa_14_1_1134797_14321366_2_1_JLlRVkYigQjMH9MAb9UuibkVhoK6GfzoW862iNQUrZvEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia em pedra com área total de 119m2 para reconstrução. Bons acessos. Situada em zona calma na periferia da vila de Sátão.",
   "geo": {
     "lat": 40.70725,
     "lng": -7.745667
@@ -22,12 +22,26 @@
   "published_at": "2026-10-09",
   "last_seen_at": "2026-10-09",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-satao-sao-miguel-de-vila-boa_13_1_1134797_14321366_2_1_JLlRVkYigQjMH9MAb9UuibkVhoK6GfzoW862iNQUrZvEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-satao-sao-miguel-de-vila-boa_14_1_1134797_14321366_2_1_JLlRVkYigQjMH9MAb9UuibkVhoK6GfzoW862iNQUrZvEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 112,18"
+    ],
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Edifício": [
+      "Revestimento Exterior: Pedra Natural"
+    ],
+    "Exposição Solar": [
+      "Norte, Sul"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 86,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 112,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
