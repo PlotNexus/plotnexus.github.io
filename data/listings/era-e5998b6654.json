@@ -8,8 +8,8 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 164,
-  "image": "https://mediaredir2.era.pt/i/moradia-t3-satao-satao_13_1_1512221_18439733_2_1_rAxxxSHnH23ydUJ%2bfSenXqPYz6U7ckvaX%2fMM9vO0Q3HEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t3-satao-satao_14_1_1512221_18439733_2_1_rAxxxSHnH23ydUJ%2bfSenXqPYz6U7ckvaX%2fMM9vO0Q3HEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Casa de habitação composta de 2 pisos, com 330.64 m2 área bruta construção sem Licença de Utilização. Legalização a cargo do cliente comprador.",
   "geo": {
     "lat": 40.74114,
     "lng": -7.752855
@@ -19,15 +19,29 @@
     "url": "https://www.era.pt"
   },
   "listing_url": "https://www.era.pt/imovel/moradia-t3-satao-240250268",
-  "published_at": "2026-10-09",
-  "last_seen_at": "2026-10-09",
+  "published_at": "2026-10-10",
+  "last_seen_at": "2026-10-10",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t3-satao-satao_13_1_1512221_18439733_2_1_rAxxxSHnH23ydUJ%2bfSenXqPYz6U7ckvaX%2fMM9vO0Q3HEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t3-satao-satao_14_1_1512221_18439733_2_1_rAxxxSHnH23ydUJ%2bfSenXqPYz6U7ckvaX%2fMM9vO0Q3HEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t3-satao-satao_14_1_1512221_18439734_2_1_QMyxjeGEkv9nUCWZ8x%2bWErmiT2WA1Z5TGOPg%2fNMLUkvEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t3-satao-satao_14_1_1512221_18439735_2_1_d99Xg346PWMs8cX7E0jgOsbNLToCeFevSR5s6ESxOuLEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Construção",
+      "Área Bruta: 330"
+    ],
+    "Geral": [
+      "Nº Frentes: 4",
+      "Nº Pisos: 2"
+    ],
+    "Exposição Solar": [
+      "Nascente, Norte, Poente, Sul"
+    ]
+  },
+  "estado": "Construção",
   "area_util_m2": 164,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 330,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
