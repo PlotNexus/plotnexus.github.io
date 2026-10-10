@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 96,
   "image": "https://images.century21.pt/6b0cd0c8-fd06-4ca1-ab28-841515fb9385/2Sala(3).jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.79036,
     "lng": -9.2242906
@@ -19,15 +19,32 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0512-00744",
-  "published_at": "2026-10-09",
+  "published_at": "2026-10-10",
   "last_seen_at": "2026-10-10",
   "images": [
-    "https://images.century21.pt/6b0cd0c8-fd06-4ca1-ab28-841515fb9385/2Sala(3).jpg"
+    "https://images.century21.pt/6b0cd0c8-fd06-4ca1-ab28-841515fb9385/2Sala(3).jpg",
+    "https://images.century21.pt/52a5757a-7893-48fe-b9ea-d26354a8f5cb/1Sala(2).jpg",
+    "https://images.century21.pt/052b64a3-ab5c-4d82-941d-a512ca86b85f/3Sala.jpg",
+    "https://images.century21.pt/c5549c1b-5c9e-478b-9a47-b65682ea1322/4Cozinha.jpg",
+    "https://images.century21.pt/c7a65712-2e8a-41ed-9cb7-647860addc7e/5Cozinha(2).jpg",
+    "https://images.century21.pt/2a59139d-bd93-4fa4-a559-0d38c8b4eb77/6Cozinha(3).jpg",
+    "https://images.century21.pt/3cf52cd9-4259-482a-a8f0-d00219d74ae0/8Quarto.jpg",
+    "https://images.century21.pt/b2eb6d80-e38a-4cac-835d-83d78250b587/10Quarto(3).jpg",
+    "https://images.century21.pt/acda03d8-f74b-4f11-bd0a-d9e187b70e9c/9Quarto(4).jpg",
+    "https://images.century21.pt/5bf054d6-a8fd-485b-be41-1ccf193d4353/7Quarto(2).jpg",
+    "https://images.century21.pt/8b5a1e7d-a8ac-4f2f-b504-3ff5c6b01de2/11Casadebanho(2).jpg",
+    "https://images.century21.pt/04293149-5f11-49e6-8dbf-0d03654ed0cf/12Casadebanho(3).jpg",
+    "https://images.century21.pt/8b6002d6-c309-4129-a8ac-076236fbe2a5/13Casadebanho.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Garagem",
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 96,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 97,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "EXEMPT"
 }

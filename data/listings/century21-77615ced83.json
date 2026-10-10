@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 200,
   "image": "https://images.century21.pt/a8004e2f-834f-4047-a05e-1e42f93a2971/WhatsAppImage2026-01-30at12.13.49(1).jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7454009,
     "lng": -9.1744703
@@ -19,15 +19,31 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0212-04273",
-  "published_at": "2026-10-09",
+  "published_at": "2026-10-10",
   "last_seen_at": "2026-10-10",
   "images": [
-    "https://images.century21.pt/a8004e2f-834f-4047-a05e-1e42f93a2971/WhatsAppImage2026-01-30at12.13.49(1).jpeg"
+    "https://images.century21.pt/a8004e2f-834f-4047-a05e-1e42f93a2971/WhatsAppImage2026-01-30at12.13.49(1).jpeg",
+    "https://images.century21.pt/10ef48c8-1935-439c-8b42-62e4cf7ee834/WhatsAppImage2026-01-30at12.13.48.jpeg",
+    "https://images.century21.pt/2d1cc2e2-1ca7-4ead-9cf9-4d563953d038/WhatsAppImage2026-01-30at12.13.49.jpeg",
+    "https://images.century21.pt/0e4046bf-401d-4601-a40c-0368b85eea16/WhatsAppImage2026-01-30at12.13.49(6).jpeg",
+    "https://images.century21.pt/994e3095-53a0-48dd-b79c-060f6a0c9749/WhatsAppImage2026-01-30at12.13.49(4).jpeg",
+    "https://images.century21.pt/9db72bcd-6c25-4e49-823a-d59658f5c8f0/WhatsAppImage2026-01-30at12.13.49(10).jpeg",
+    "https://images.century21.pt/1e94e51c-dffa-4666-aed2-0dfd7afc0770/WhatsAppImage2026-01-30at12.13.49(9).jpeg",
+    "https://images.century21.pt/acd17bca-c999-44e1-855f-e54e7b9f4e9d/WhatsAppImage2026-01-30at12.13.49(8).jpeg",
+    "https://images.century21.pt/5ea8e25a-a2ed-42d0-a775-557998dab0ea/dd4fec15-f3c0-4954-8884-c3f8a28c56cd-Cpia.JPG",
+    "https://images.century21.pt/bfb70d4b-34c0-4b3d-9c42-0f7a9a38277d/a482f603-5ab2-420c-804d-0ac81708ae5c.JPG",
+    "https://images.century21.pt/d20ad436-1e27-46e6-a82d-a0edabac069b/bcbf46d5-85e9-4d3a-96a9-09e29f6e6760.JPG"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Arrecadação",
+      "Elevador",
+      "Varanda"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 200,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 210,
+  "ano_construcao": 1969,
+  "certificacao_energetica": "D"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Glória e Vera Cruz, Aveiro",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 55.68,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl5NGdmc2J1Z2kxcDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0SSI9ZoT1HToW_ivbKRWAYJ3xtQmMEJzRCmuuUGloI8/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl5NGdmc2J1Z2kxcDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0SSI9ZoT1HToW_ivbKRWAYJ3xtQmMEJzRCmuuUGloI8/image;s=2048x1536;q=80",
+  "description": "Apartamento T0 transformado em duplex através da criação de uma mezanine, resultando\n\nnum T0+1 com quarto autónomo no piso superior. Situado no Edifício White, na Avenida Dr.\n\nLourenço Peixinho, nº 48 e 50, um dos empreendimentos mais recentes e distintivos do\n\ncentro de Aveiro.\n\nVirado sobre o Canal Central, o apartamento beneficia de vista direta sobre os tradicionais\n\nmoliceiros, a poucos minutos a pé da estação de comboios, do centro histórico e da\n\nUniversidade de Aveiro.\n\nO projeto de arquitetura e de interiores foi desenvolvido pelo atelier Spaceworkers, com\n\nacabamentos de qualidade superior, entre os quais revestimento cerâmico de casa de\n\nbanho em azulejo verde cracklê e mobiliário de assinatura.\n\nCaracterísticas:\n\nTipologia: T0+1 Duplex (mezanine)\n\nÁrea privativa do piso principal: 39,87 m²\n\nÁrea do quarto na mezanine: 15,81 m²\n\nÁrea da escada de acesso à mezanine: 2,42 m²\n\nÁreas exteriores (varandas): 2,55 m²\n\nOrientação: virado a Canal Central\n\nProjeto de arquitetura e interiores: Spaceworkers\n\nLocalização central, junto ao Canal Central de Aveiro\n\nAcabamentos de destaque:\n\nPavimento interior em vinílico acústico\n\nTampo e nicho do móvel de cozinha em resina acrílica HI-MACS, referência Ebony\n\nConcrete\n\nTampo do lavatório da casa de banho em HI-MACS, referência Alpine White\n\nRevestimento das paredes interiores da casa de banho em azulejo 3D da Barro, na cor\n\nverde cracklê\n\nCaixilharia de alumínio, sistema SOSOARES, com vidro duplo temperado SKN 165 + 20\n\nTGI com árgon temperado\n\nPorta de segurança com controlo de acesso\n\nTermoacumulador elétrico Ariston 100 L\n\nEstores de rolo black-out\n\n2 unidades interiores de ar condicionado (mural e de teto), Samsung\n\nEletrodomésticos Bosch: forno vidro branco, placa de indução (flexizone), micro-ondas\n\nde encastre em vidro branco, combinado no frost de encastre, máquina de lavar e secar\n\nroupa de encastre, máquina de lavar loiça de encastre total, exaustor\n\n&nbsp;• ⁃ Aparelhagem elétrica Legrand, gama Living Now",
+  "geo": {
+    "lat": 40.642117,
+    "lng": -8.649654
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,31 @@
   "published_at": "2026-10-09",
   "last_seen_at": "2026-10-10",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl5NGdmc2J1Z2kxcDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0SSI9ZoT1HToW_ivbKRWAYJ3xtQmMEJzRCmuuUGloI8/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl5NGdmc2J1Z2kxcDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0SSI9ZoT1HToW_ivbKRWAYJ3xtQmMEJzRCmuuUGloI8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InppcXZ6eHJqazZpMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.9a8yaeupce-w9hYMC92q4dpe7y5NHylf_zpAFFNMrYw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc1b2l2Y2dvaTAwMTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kVQJMFVHwDlUmtWW0_Np9aMCDsAfZkbQiegSymqN0gE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdtemE0ZXZ2cTJ1NC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.pmlI_U-H2SdFHhcOKj9iQuhin-RrN9fL9-Kg7kyeF2E/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inppd2JqZm93MGl2ay1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.g8lz2BOMhxq367YRKvhLSc41NiNLnwqmBK2_lABWDjE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRxbnFzdXRqZXZzMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.GIWiE3JEhyMA8YvffvbUcJhTXZcSCfr0_d-rz90kPKw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inh5ODVtcDk1ZG5ydTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.uJe2OJ7hfIPKSg8GnMOM26xJLn26Az1zen4ZVfoHijM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjlnbGRraGVtejcxcTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.QmNqd7C7W1fWTcd45ZAeQBccQNDQNs10HNcXQlHeQlQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im4xNnVwbmRvaDl0bDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zbZEjqHNZrO5tEWRiqKvP_7oJp2mqUAspFWFr6nmoLU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlteDJldmltbm1laDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.YkUBqS4YPjz9u1SX88MZKPxwX8uIRoceTTHhAWNixKc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNwdnNzaWpuNTE5ajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UMbNrYFJkLTNlPzno6RFMFjiItDdj8x9rpVB4CTLVvI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRwcGVsODNndGI0ZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.KM5Znw3voUyO7TETQlY8qaJLZUnizz670vzR2NA6plI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVkN2t0OHZhamV6ZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.EMAiEUB151ZyBHDSqFv31zM2tdtMVtCGk1Z0sttaIus/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZsNHpyeHRnb3FyNTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FzJwy6Xd7uQUtZcgKCcsz40wFsObr5lIdxXZ97TCYSQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJ0bzZsYnhmeWJ3ZzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.eV9XasLaxpCovJ33y1VhGzxEbDfr3tLkvLMF90Pr9rA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhzcmpzYXBkeTBzZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.vEEXBeeAQ03r90dhK5jdBSvATiQ2iXPp4HHuWlk2ZI8/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 55.68,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 2024,
+  "certificacao_energetica": "A"
 }
