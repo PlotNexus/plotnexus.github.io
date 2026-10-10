@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 45,
   "image": "https://images.century21.pt/422e7cfd-f33b-401b-b560-2acd5a28e9c9/ChatGPTImageNov102025021241PM.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.1540118,
     "lng": -8.5938995
@@ -22,12 +22,25 @@
   "published_at": "2026-10-10",
   "last_seen_at": "2026-10-10",
   "images": [
-    "https://images.century21.pt/422e7cfd-f33b-401b-b560-2acd5a28e9c9/ChatGPTImageNov102025021241PM.png"
+    "https://images.century21.pt/422e7cfd-f33b-401b-b560-2acd5a28e9c9/ChatGPTImageNov102025021241PM.png",
+    "https://images.century21.pt/3c1a922a-1874-49b9-8078-e1b24d8fe4c5/ChatGPTImageNov102025030846PM.png",
+    "https://images.century21.pt/9ffbc722-6fd4-4684-9783-2689487b26dc/ChatGPTImageNov102025013920PM.png",
+    "https://images.century21.pt/a600afcf-66f2-4f34-9be7-ee7ad20cf436/ChatGPTImageNov102025023951PM.png",
+    "https://images.century21.pt/3c2d3c58-d987-4791-a3e8-7801958f8488/ChatGPTImageNov102025022935PM.png",
+    "https://images.century21.pt/a076812e-cfad-4143-8d1f-4c05251246d7/ChatGPTImageNov102025014836PM.png",
+    "https://images.century21.pt/6671ae5b-567f-4dfc-a150-2da85bb0cb15/ChatGPTImageNov102025022141PM.png",
+    "https://images.century21.pt/6383da9c-864d-49e3-bec9-37fbf57c065e/ChatGPTImageNov102025021546PM.png",
+    "https://images.century21.pt/17142d2f-1633-4f00-8a1d-80474fc19382/ChatGPTImageNov102025013805PM.png",
+    "https://images.century21.pt/55823675-5d0c-42f1-9be8-8fa68f4f2a97/ChatGPTImageNov102025020619PM.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 45,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 48,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "A+"
 }

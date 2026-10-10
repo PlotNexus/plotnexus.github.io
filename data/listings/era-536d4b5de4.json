@@ -8,8 +8,8 @@
   "bedrooms": 3,
   "bathrooms": 1,
   "area_m2": 120,
-  "image": "https://mediaredir2.era.pt/i/moradia-t3-viseu-calde_13_1_1506683_18378112_2_1_98cHlYjcUH4snuYOhy7PGIk8cV382vSTAFaDralTBQ%2fEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t3-viseu-calde_14_1_1506683_18378112_2_1_98cHlYjcUH4snuYOhy7PGIk8cV382vSTAFaDralTBQ%2fEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia localizada em Calde.\nO imóvel é composto por 2 pisos, tendo na cave 1 compartimento destinado a arrumos, no piso superior contamos com 3 quartos, 1 sala, 1 cozinha, 1 wc e 1 compartimento destinado a arrumos.",
   "geo": {
     "lat": 40.75881,
     "lng": -7.913613
@@ -22,12 +22,28 @@
   "published_at": "2026-10-10",
   "last_seen_at": "2026-10-10",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t3-viseu-calde_13_1_1506683_18378112_2_1_98cHlYjcUH4snuYOhy7PGIk8cV382vSTAFaDralTBQ%2fEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t3-viseu-calde_14_1_1506683_18378112_2_1_98cHlYjcUH4snuYOhy7PGIk8cV382vSTAFaDralTBQ%2fEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t3-viseu-calde_14_1_1506683_18398836_2_1_jIFvvlC7DP1pf1n1%2bQqe5UHWdPzcd7eydp6YPaNJkIfEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 120"
+    ],
+    "Geral": [
+      "Nº Frentes: 2",
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Exposição Solar": [
+      "Nascente, Poente"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 120,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 120,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 45,
   "image": "https://images.century21.pt/b0d9992e-4aab-48ca-82e5-0dd809c80b1e/2007DExtReceptionA02.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.4431262,
     "lng": -9.092295
@@ -22,12 +22,21 @@
   "published_at": "2026-10-10",
   "last_seen_at": "2026-10-10",
   "images": [
-    "https://images.century21.pt/b0d9992e-4aab-48ca-82e5-0dd809c80b1e/2007DExtReceptionA02.jpg"
+    "https://images.century21.pt/b0d9992e-4aab-48ca-82e5-0dd809c80b1e/2007DExtReceptionA02.jpg",
+    "https://images.century21.pt/4c04a9ff-724f-4fda-a330-f06a55e6f064/2007DExtDetalheBarAvB-2.jpg",
+    "https://images.century21.pt/85acf27b-46aa-44c7-b8ec-ca3e09ef2f10/2007DInteriorPoolSaunaA.jpg",
+    "https://images.century21.pt/3c6adda6-0e22-447d-a6dd-1aa870507243/2007DExtPoolBduskvB2.jpg",
+    "https://images.century21.pt/acea6bf3-6edc-4e43-8887-3ea1d49484a3/2007DExtDetalheBarB02.jpg",
+    "https://images.century21.pt/85d2cce7-ea0c-4f56-a3ae-d0d558959ca3/2007DExtPoolBduskvB2-Copia.jpg",
+    "https://images.century21.pt/53c97ece-88fd-4f63-965c-d1f58b67897a/001DJI0193005.jpg",
+    "https://images.century21.pt/e8a22b75-4339-4537-a476-948f2d23545e/18252007DInteriorPool03.tif",
+    "https://images.century21.pt/dd6300ce-27ff-4701-b507-a2389829b23a/002DJI0116v003.jpg",
+    "https://images.century21.pt/85d0084a-bc9e-4eed-8015-19dd2bfa76c7/CF13500014.jpg"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 45,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 46.9,
+  "ano_construcao": 2027,
+  "certificacao_energetica": "IN_PROCESS"
 }

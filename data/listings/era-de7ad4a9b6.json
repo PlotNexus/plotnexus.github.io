@@ -8,8 +8,8 @@
   "bedrooms": 1,
   "bathrooms": null,
   "area_m2": 18,
-  "image": "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-sao-cristovao-de-nogueira_13_1_1304537_16106490_2_1_bmUFovvhQeV1wf8DwUZasRtkpqF1RBlntvwG%2baRdw6DEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-sao-cristovao-de-nogueira_14_1_1304537_16106490_2_1_bmUFovvhQeV1wf8DwUZasRtkpqF1RBlntvwG%2baRdw6DEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia a necessitar de obras.\nPossuí terreno com 230m2.\nLocalizada em zona tranquila.\nIdeal para segunda habitação.\nDispensa de licença de utilização, por este ter sido construído anterior a 1951.",
   "geo": {
     "lat": 41.06800506654801,
     "lng": -8.123479440024179
@@ -22,12 +22,19 @@
   "published_at": "2026-10-10",
   "last_seen_at": "2026-10-10",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-sao-cristovao-de-nogueira_13_1_1304537_16106490_2_1_bmUFovvhQeV1wf8DwUZasRtkpqF1RBlntvwG%2baRdw6DEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-sao-cristovao-de-nogueira_14_1_1304537_16106490_2_1_bmUFovvhQeV1wf8DwUZasRtkpqF1RBlntvwG%2baRdw6DEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-sao-cristovao-de-nogueira_14_1_1304537_16106491_2_1_jMDbuHi%2fOmGzIQnL2VfkIjPIH0osblgnvYm%2bTz2SHA7EB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t1-cinfaes-sao-cristovao-de-nogueira_14_1_1304537_16106492_2_1_QnVg3iyHMU%2fU3UYO9JdOdrX7%2boNKjqgOgYsXFg9G3CPEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 18"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 18,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 18,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

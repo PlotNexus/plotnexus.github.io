@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": null,
   "area_m2": 45,
-  "image": "https://mediaredir2.era.pt/i/moradia-t2-constancia-santa-margarida_13_1_1442729_18840605_2_1_GzIKxda%2b5y9gg0B9ecY8UuVwiRFX9cBN6d1r7YIr1YrEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t2-constancia-santa-margarida_14_1_1442729_18840605_2_1_GzIKxda%2b5y9gg0B9ecY8UuVwiRFX9cBN6d1r7YIr1YrEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia para reconstruir situada em Santa Margarida da Coutada.\n\nDestaque para a zona calma e a 5 minutos da vila de Constância.\n\nA informação disponibilizada ainda que precisa, não dispensa a sua confirmação nem pode ser considerada vinculativa.",
   "geo": {
     "lat": 39.44300764116863,
     "lng": -8.311953148479454
@@ -22,12 +22,17 @@
   "published_at": "2026-10-10",
   "last_seen_at": "2026-10-10",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t2-constancia-santa-margarida_13_1_1442729_18840605_2_1_GzIKxda%2b5y9gg0B9ecY8UuVwiRFX9cBN6d1r7YIr1YrEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t2-constancia-santa-margarida_14_1_1442729_18840605_2_1_GzIKxda%2b5y9gg0B9ecY8UuVwiRFX9cBN6d1r7YIr1YrEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 45"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 45,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 45,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
