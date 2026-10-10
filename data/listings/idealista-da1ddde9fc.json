@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 99,
   "image": null,
-  "description": null,
+  "description": "Excelente apartamento para arrendamento\n\nsituasse no centro da bela cidade de oliveira do hospital\n\noptimo para habitação permanente\n\ncozinha equipada\n\njanelas vidro duplo\n\nnao esperes mais tempo \n\ncontacta-nos\n\nesta a um passo de obter o seu imovel bdem no centro da cidade.",
   "geo": {
     "lat": 40.3613832,
     "lng": -7.8623981
@@ -22,10 +22,26 @@
   "published_at": "2026-10-10",
   "last_seen_at": "2026-10-10",
   "images": [],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 99,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Características específicas": [
+      "99 m² construídos, 85 m² úteis",
+      "T2",
+      "1 casa de banho",
+      "Segunda mão/bom estado",
+      "Construído em 1900"
+    ],
+    "Prédio": [
+      "2º andar",
+      "Sem elevador"
+    ],
+    "Preço": [
+      "Preço do imóvel: 600 €/mês",
+      "Preço por m²: 6,06 €/m²"
+    ]
+  },
+  "estado": "Bom estado",
+  "area_util_m2": 85,
+  "area_bruta_m2": 99,
+  "ano_construcao": 1900,
+  "certificacao_energetica": "B"
 }

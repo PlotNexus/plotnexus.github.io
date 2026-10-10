@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 196.3,
   "image": "https://images.century21.pt/20d1a7dd-3260-4344-b29d-d9dec4f882f0/vista3edificios.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.1967882896084,
     "lng": -8.69250297546387
@@ -22,12 +22,55 @@
   "published_at": "2026-10-10",
   "last_seen_at": "2026-10-10",
   "images": [
-    "https://images.century21.pt/20d1a7dd-3260-4344-b29d-d9dec4f882f0/vista3edificios.jpg"
+    "https://images.century21.pt/20d1a7dd-3260-4344-b29d-d9dec4f882f0/vista3edificios.jpg",
+    "https://images.century21.pt/a3719128-a10b-45ec-b76e-51b41dd01e01/plantaT3221.jpg",
+    "https://images.century21.pt/37630eb9-e963-45de-946a-515671c3891f/Vistamar.jpeg",
+    "https://images.century21.pt/c158a18b-5efe-41c8-bc8b-b1595883ab39/distaomar.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Arbustos",
+      "Vista cidade",
+      "Piscina comum",
+      "Porteiro",
+      "Acessibilidade para mobilidade reduzida",
+      "Máquina de lavar loiça",
+      "Estores elétricos",
+      "Portão elétrico",
+      "Elevador",
+      "Exaustor",
+      "Porta corta-fogo",
+      "Frigorífico",
+      "Manutenção de jardim",
+      "Condomínio fechado",
+      "Boa exposição solar",
+      "Boa localização",
+      "Ginásio",
+      "Porta de alta segurança",
+      "Luxo",
+      "Micro-ondas",
+      "Piso em mosaico",
+      "Perto de a praia",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Forno",
+      "Vista panorâmica",
+      "Piscina",
+      "Acesso por estrada",
+      "Vista mar",
+      "Serviço de segurança",
+      "Isolamento acústico",
+      "Fogão",
+      "Isolamento térmico",
+      "Vídeo-porteiro",
+      "Caixilharia",
+      "Piso em madeira"
+    ]
+  },
   "estado": null,
   "area_util_m2": 196.3,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 216,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "A"
 }

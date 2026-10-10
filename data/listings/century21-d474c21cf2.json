@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 75,
   "image": "https://images.century21.pt/1-jpg_fb0232ef-4c00-4c0c-818c-3067cb7ad7e4.jpg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 38.7084425,
     "lng": -9.1895378
@@ -22,12 +22,37 @@
   "published_at": "2026-10-10",
   "last_seen_at": "2026-10-10",
   "images": [
-    "https://images.century21.pt/1-jpg_fb0232ef-4c00-4c0c-818c-3067cb7ad7e4.jpg"
+    "https://images.century21.pt/1-jpg_fb0232ef-4c00-4c0c-818c-3067cb7ad7e4.jpg",
+    "https://images.century21.pt/2-jpg_3115eb5b-1ecf-4e9f-b24a-45ce9945afe4.jpg",
+    "https://images.century21.pt/3-jpg_aa10d378-42b9-4621-8c1c-8a97f189fad4.jpg",
+    "https://images.century21.pt/4-jpg_983afe42-5aab-49b6-81f3-daedb5fae18e.jpg",
+    "https://images.century21.pt/5-jpg_e74c6998-9aed-407b-a29d-fe244e7ad32b.jpg",
+    "https://images.century21.pt/6-jpg_e5b781f0-a3eb-4464-98d8-3cf1afaae9fe.jpg",
+    "https://images.century21.pt/7-jpg_242cc19b-3086-48ed-94ca-1a4164d2f320.jpg",
+    "https://images.century21.pt/8-jpg_34c332d9-ef13-4e81-b1b9-1bd09a3d39e0.jpg",
+    "https://images.century21.pt/9-jpg_95f34a7a-f15e-4e92-a32c-a510fc058c31.jpg",
+    "https://images.century21.pt/10-jpg_f63fcad3-2eae-45ce-bc84-cc511d42ab6d.jpg",
+    "https://images.century21.pt/11-jpg_b708fa81-3ce2-49ed-894f-73e9fb20af5b.jpg",
+    "https://images.century21.pt/12-jpg_ab0265dd-923f-4aae-b387-92bca48e1186.jpg",
+    "https://images.century21.pt/13-jpg_6c821644-1941-487c-8910-3efdfa7e56f7.jpg",
+    "https://images.century21.pt/14-jpg_586aa1a0-4c32-4f26-86bf-b7c450275fd2.jpg",
+    "https://images.century21.pt/15-jpg_063c0787-187e-4b44-ad33-9cd56d5a1304.jpg",
+    "https://images.century21.pt/16-jpg_2501038d-2095-40b3-b50b-26a088ec83e7.jpg",
+    "https://images.century21.pt/17-jpg_a08a8757-6891-4d63-a01b-181d965ac068.jpg",
+    "https://images.century21.pt/18-jpg_27ffc98d-247c-4a6f-9357-4edbaee2db4d.jpg",
+    "https://images.century21.pt/19-jpg_a2112b68-c6c3-485b-94b6-dae209e7a0e8.jpg",
+    "https://images.century21.pt/20-jpg_34805a8d-00fc-4c11-95e4-6beb40346020.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Terraço",
+      "Ar condicionado",
+      "Arrecadação"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 75,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 154,
+  "ano_construcao": 1948,
+  "certificacao_energetica": "E"
 }
