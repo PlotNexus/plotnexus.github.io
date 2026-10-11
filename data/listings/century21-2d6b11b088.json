@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 220.1,
   "image": "https://images.century21.pt/dd29f07e-3a82-461f-b9fd-d1b7741a7d33/Semttulo.png",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.9304288355297,
     "lng": -9.3413870568477
@@ -22,12 +22,40 @@
   "published_at": "2026-10-11",
   "last_seen_at": "2026-10-11",
   "images": [
-    "https://images.century21.pt/dd29f07e-3a82-461f-b9fd-d1b7741a7d33/Semttulo.png"
+    "https://images.century21.pt/dd29f07e-3a82-461f-b9fd-d1b7741a7d33/Semttulo.png",
+    "https://images.century21.pt/63c85e4b-0eeb-491d-8d0a-3f7c49d4ac42/53aa0746-fad0-4c29-bc0b-db60a3248dcf.jpg",
+    "https://images.century21.pt/8d271731-036e-4c5c-a25b-a9b6d9dc8e4a/DJI202509031921070547D.jpg",
+    "https://images.century21.pt/9c52923c-9056-423d-ba2e-9ab601ae9e96/Semttulo4.png",
+    "https://images.century21.pt/721eb9eb-198f-49c8-a457-6f672bb3bccf/Semttulo2.png",
+    "https://images.century21.pt/ae89b150-70d9-486c-a4b7-9c7c78d6479c/c39901ca-e486-4ba9-a1ca-24b5a43d0ec0.jpg",
+    "https://images.century21.pt/c95c083d-4a0b-4e45-ae9e-2e5a22a66b62/Semttulo3.png",
+    "https://images.century21.pt/26eb1f05-36f7-47b6-a2b6-41fca3f9b243/1e035aaa-037f-4fd8-9117-acd8bd32efdc.jpg",
+    "https://images.century21.pt/eacdf557-70ac-4eb0-a1e2-753639984a24/plantarc.png",
+    "https://images.century21.pt/94d2e785-1197-4795-a61d-1cab5081ce5c/planta1andar.png",
+    "https://images.century21.pt/ab164f80-1023-415f-92d1-e11ed4c7bb06/plantacave.png",
+    "https://images.century21.pt/556686dd-22a3-4162-b4e4-070cbabecdcd/06f43628-01ba-4540-b902-8276256092a5.jpg",
+    "https://images.century21.pt/619b7e52-be66-4583-9c5e-e88523f3fc18/59b42a5d-246d-48ba-9c81-09230a63e8e4.jpg",
+    "https://images.century21.pt/fc11c523-9ae4-42f7-90a6-4c8cb6f4c318/814efdd3-d291-4142-914f-421d40b764f6.jpg",
+    "https://images.century21.pt/eb187a59-0134-4c8d-b7cc-c43d582a76b9/3ecc64cb-19e3-42af-b96e-9bd92e99930f.jpg",
+    "https://images.century21.pt/b978fa11-a52b-46c4-9920-0250815320d3/dd289cc3-15dd-40c9-8821-d32bdedbbd8c.jpg",
+    "https://images.century21.pt/6ad19260-faa4-4c43-b79d-4c00de17eb3e/23ced8bd-f74d-46a0-a964-e91c5025cb4b.jpg",
+    "https://images.century21.pt/c09821d8-3eb5-441f-970c-9e183a1423cc/33544be2-0242-4e3e-b8b8-5347beb82f2b.jpg",
+    "https://images.century21.pt/199afb6b-ff99-40ce-ae20-f04d8bac38d7/11caf98f-20a9-4d57-8b9b-2f440bc0750f.jpg",
+    "https://images.century21.pt/bf5634a4-c03e-4ed4-a36b-3fe579193be7/25f182a6-6d8e-46a3-8078-60b317af32c1.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Alpendre",
+      "Arrecadação",
+      "Garagem",
+      "Jardim",
+      "Suite"
+    ]
+  },
   "estado": null,
   "area_util_m2": 220.1,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 353.6,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A+"
 }
