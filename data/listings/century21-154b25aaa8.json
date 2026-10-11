@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 150.9,
   "image": "https://images.century21.pt/f407e344-5d41-4db1-b6a1-0887693414cc/vista3edificios.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.1967882896084,
     "lng": -8.69250297546387
@@ -22,12 +22,53 @@
   "published_at": "2026-10-11",
   "last_seen_at": "2026-10-11",
   "images": [
-    "https://images.century21.pt/f407e344-5d41-4db1-b6a1-0887693414cc/vista3edificios.jpg"
+    "https://images.century21.pt/f407e344-5d41-4db1-b6a1-0887693414cc/vista3edificios.jpg",
+    "https://images.century21.pt/e5bd10bd-2ef8-4957-b0ce-bbe0bebaeba7/plantaT4213.jpg",
+    "https://images.century21.pt/a59f97df-f876-45df-b19b-481ff6ee0f40/Vistamar.jpeg",
+    "https://images.century21.pt/1bf45a95-4d90-4fce-ad40-fcc48eb094d9/distaomar.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Arbustos",
+      "Vista cidade",
+      "Piscina comum",
+      "Porteiro",
+      "Acessibilidade para mobilidade reduzida",
+      "Máquina de lavar loiça",
+      "Estores elétricos",
+      "Portão elétrico",
+      "Elevador",
+      "Exaustor",
+      "Porta corta-fogo",
+      "Frigorífico",
+      "Manutenção de jardim",
+      "Condomínio fechado",
+      "Boa exposição solar",
+      "Boa localização",
+      "Ginásio",
+      "Porta de alta segurança",
+      "Luxo",
+      "Micro-ondas",
+      "Piso em mosaico",
+      "Perto de a praia",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Forno",
+      "Vista panorâmica",
+      "Acesso por estrada",
+      "Serviço de segurança",
+      "Isolamento acústico",
+      "Fogão",
+      "Isolamento térmico",
+      "Vídeo-porteiro",
+      "Caixilharia",
+      "Piso em madeira"
+    ]
+  },
   "estado": null,
   "area_util_m2": 150.9,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 166,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "A"
 }
