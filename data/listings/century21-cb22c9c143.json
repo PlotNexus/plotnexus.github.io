@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 79,
   "image": "https://images.century21.pt/8c70a35a-48af-4900-817a-6da6ad872c6f/2.jpeg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 38.5337400930917,
     "lng": -8.86943236286492
@@ -22,12 +22,35 @@
   "published_at": "2026-10-12",
   "last_seen_at": "2026-10-12",
   "images": [
-    "https://images.century21.pt/8c70a35a-48af-4900-817a-6da6ad872c6f/2.jpeg"
+    "https://images.century21.pt/8c70a35a-48af-4900-817a-6da6ad872c6f/2.jpeg",
+    "https://images.century21.pt/7ffe7011-6f39-434a-b8bf-984637b3ee36/4.jpeg",
+    "https://images.century21.pt/9ac068c8-01cc-4a6b-ac3f-fde95131968f/entrada.jpeg",
+    "https://images.century21.pt/e912d3d5-d0ac-4381-8dcf-72c08a9f8474/hall.jpeg",
+    "https://images.century21.pt/c19c254c-ba2f-417a-8874-cecf99a36132/hall2.jpeg",
+    "https://images.century21.pt/0d336108-e052-40a8-af97-2a3167b71bbe/corredorhome.jpeg",
+    "https://images.century21.pt/7452b986-166c-4235-bd59-ebc2c1cac1bb/quart2.jpeg",
+    "https://images.century21.pt/5430e996-f52a-4e79-8a56-f0ac9d5a133e/quarto2home.jpeg",
+    "https://images.century21.pt/a3fa7731-2ddf-4660-ad08-d7c8a55461ca/wc.jpeg",
+    "https://images.century21.pt/f200487e-41ed-4320-97ab-94d0e959330b/wchome.jpeg",
+    "https://images.century21.pt/a0171997-c020-4b39-9e3c-0ad943bd84ab/quarto.jpeg",
+    "https://images.century21.pt/8877f6aa-23e5-40ed-808c-4ab548b96cd3/quartohome.jpeg",
+    "https://images.century21.pt/bc30636d-55fe-4c18-8aff-50c2a9e1f9d3/sala.jpeg",
+    "https://images.century21.pt/a844972f-1e9b-4e67-9665-bb2c2d483352/salahome.jpeg",
+    "https://images.century21.pt/0e7f137d-70dd-4e4b-8203-c553729ecb16/despen.jpeg",
+    "https://images.century21.pt/86a1ad40-bc6c-41aa-9e86-a9d7a8712d17/coz.jpeg",
+    "https://images.century21.pt/b33a5883-afa9-4eca-aedc-78c05a3d0ce6/cozi.jpeg",
+    "https://images.century21.pt/a4417399-b0cf-4736-a0f9-4dee0d07d349/cozhome.jpeg",
+    "https://images.century21.pt/a2b63886-8423-4926-a767-33999560d104/varanda.jpeg",
+    "https://images.century21.pt/a614c652-8389-419f-9cc3-b6a3641bec96/v1.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Localização central"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 79,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 80,
+  "ano_construcao": 1978,
   "certificacao_energetica": null
 }
