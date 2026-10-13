@@ -4,13 +4,16 @@
   "type": "venda",
   "price": 499900,
   "currency": "EUR",
-  "location": "Mosteiros, Ponta Delgada, Ilha de São Miguel",
+  "location": "MOSTEIROS PDL, Mosteiros, Ponta Delgada, Ilha de São Miguel",
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": 132.4,
   "image": "https://imgs.soukwportugal.pt/41213/properties/b9feb48b-3d27-416c-ac8f-72da03c0ea65.jpg",
   "description": null,
-  "geo": null,
+  "geo": {
+    "lat": 37.89427,
+    "lng": -25.81846
+  },
   "source": {
     "name": "KW Portugal",
     "url": "https://kwportugal.pt"

@@ -9,7 +9,7 @@
   "bathrooms": 8,
   "area_m2": 413,
   "image": "https://images.century21.pt/32_cb9acc7d-8c59-40d9-88f7-c64c66e0ede1.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.3081718870406,
     "lng": -8.76236096891648
@@ -22,12 +22,38 @@
   "published_at": "2026-10-13",
   "last_seen_at": "2026-10-13",
   "images": [
-    "https://images.century21.pt/32_cb9acc7d-8c59-40d9-88f7-c64c66e0ede1.jpg"
+    "https://images.century21.pt/32_cb9acc7d-8c59-40d9-88f7-c64c66e0ede1.jpg",
+    "https://images.century21.pt/26_731b32e8-e68a-4892-9511-ade50a735fca.jpg",
+    "https://images.century21.pt/31_41678b43-f125-48fc-8da2-d71d7a9b007e.jpg",
+    "https://images.century21.pt/24_95c4743f-10ff-4da2-b351-6f7505557e27.jpg",
+    "https://images.century21.pt/f_2630d680-514d-4d87-bcec-b5b36593d27e.jpg",
+    "https://images.century21.pt/e_b325602e-3ea7-4513-aacb-9db6bcf24ea7.jpg",
+    "https://images.century21.pt/h_9ff7374d-87da-47d4-aa42-e8e48135e576.jpg",
+    "https://images.century21.pt/g_e78a4298-e4ca-41d2-9c7f-70cd1b859a83.jpg",
+    "https://images.century21.pt/14_be0cd140-e320-43a2-905c-4f7df35d92ce.jpg",
+    "https://images.century21.pt/16_377cf2a2-76d7-4874-8376-389121c855a8.jpg",
+    "https://images.century21.pt/20_0a7bcd30-5193-470c-94a7-1761e68b5e9f.jpg",
+    "https://images.century21.pt/19_9750e486-ca18-4ea2-9bf0-17d86eaffede.jpg",
+    "https://images.century21.pt/36_4292a95a-22c8-4996-bb9b-fd04ae372325.jpg",
+    "https://images.century21.pt/91_dc26c615-e251-47f0-9ede-d273fed1b497.jpg",
+    "https://images.century21.pt/c_a461b327-2c25-4098-9c97-424b4c8e85c7.jpg",
+    "https://images.century21.pt/d_eecb716e-46a9-4a2e-9b7a-310905550f94.jpg",
+    "https://images.century21.pt/21_859fbd1b-65ed-4953-871a-b2ab6cc3d312.jpg",
+    "https://images.century21.pt/29_bf85aade-97f2-491a-874c-a1942cb1bdd4.jpg",
+    "https://images.century21.pt/b_fe2587e5-8fe0-4a8d-ab02-ceec841c2708.jpg",
+    "https://images.century21.pt/34_a72299fd-9f55-4039-8b02-9b0e77d5b3fc.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Lareira",
+      "Garagem",
+      "Roupeiro",
+      "Cozinha equipada"
+    ]
+  },
   "estado": null,
   "area_util_m2": 413,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 887,
+  "ano_construcao": 2002,
+  "certificacao_energetica": "E"
 }
