@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 115.46,
   "image": "https://images.century21.pt/image00001_d67f422c-805a-4e71-a3ee-0dac72c6f553.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.1677385,
     "lng": -8.6240892
@@ -19,15 +19,28 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0406-02757",
-  "published_at": "2026-10-13",
+  "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/image00001_d67f422c-805a-4e71-a3ee-0dac72c6f553.png"
+    "https://images.century21.pt/image00001_d67f422c-805a-4e71-a3ee-0dac72c6f553.png",
+    "https://images.century21.pt/image00010_38c09431-f3b1-43f3-9615-e62022f4b678.jpg",
+    "https://images.century21.pt/image00011_7479b463-d6f0-483f-a287-04868a82b7d9.jpg",
+    "https://images.century21.pt/image00015_5f19cfc2-c346-4465-b8e2-29bd15526729.jpg",
+    "https://images.century21.pt/image00012_ea87158c-74a1-47d4-b5b8-0b1a3892323c.jpg",
+    "https://images.century21.pt/image00014_4d6568d6-5983-43c5-8a73-f5346bc1b9a3.jpg",
+    "https://images.century21.pt/image00013_ac8a5c9e-5df6-4552-8184-fcdcdf910904.jpg",
+    "https://images.century21.pt/img-20231124-wa0047-jpg_1a702f24-d2f1-452a-9346-667d6eb57f6d.jpg",
+    "https://images.century21.pt/img-20231124-wa0044-jpg_0386f48a-14da-4063-aee4-1bf04d81d465.jpg",
+    "https://images.century21.pt/foto-mut-20-jpg_46bc7888-69a5-4ed6-a845-b615ae80b8a5.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 115.46,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 151.17,
+  "ano_construcao": 2023,
+  "certificacao_energetica": "B"
 }

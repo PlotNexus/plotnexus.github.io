@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Estrela, Lisboa",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 196.2,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im94OXJzNjlicWsxYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.z6C1MAX9V5BWEtayv9cw5crZUoQkZB0I7OtjK22gDRU/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im94OXJzNjlicWsxYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.z6C1MAX9V5BWEtayv9cw5crZUoQkZB0I7OtjK22gDRU/image;s=2048x1536;q=80",
+  "description": "T3 com Jardim de 230 m², 3 Suites e 2 Garagens — Palácio Schindler, Estrela&nbsp;\n\nA fração mais generosa do Palácio Schindler: um T3 com 196,2 m² de área interior e pé-direito alto, complementado por um raríssimo jardim privado de 230 m² — um verdadeiro luxo no centro histórico de Lisboa, ideal para receber, criar várias zonas de estar ou simplesmente desfrutar do clima da cidade com total privacidade.&nbsp;\n\nTrês amplas suites garantem privacidade total a cada membro da casa. Inclui dois lugares de garagem.&nbsp;\n\nDestaques:&nbsp;\n\n196,2 m² de área interior com pé-direito alto + terraço privado de 230 m²\n\nTrês suites&nbsp;\n\nPé direito alto\n\n2 lugares de garagem\n\nConstrução 2024, a estrear\n\nLocalização: Rua Presidente Arriaga nº 84, Estrela / Avenida Infante Santo&nbsp;\n\nA cerca de 10–15 minutos de carro da Praça do Comércio. Uma oportunidade única para quem procura exclusividade e espaço exterior no segmento premium de Lisboa.&nbsp;",
+  "geo": {
+    "lat": 38.704643,
+    "lng": -9.164752
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,25 @@
   "published_at": "2026-10-13",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im94OXJzNjlicWsxYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.z6C1MAX9V5BWEtayv9cw5crZUoQkZB0I7OtjK22gDRU/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im94OXJzNjlicWsxYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.z6C1MAX9V5BWEtayv9cw5crZUoQkZB0I7OtjK22gDRU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNoYXdqanN6ZzQ3MzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.sVt7I5V5HjXsJcUGjPBda0FkD1Xz0v2yGbw2-hJWRWs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdnNGFpOGRiMWdmdzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fgS9nllOVGXrujQQ2zOMEi3k54O5cErzdzhJ1ubpLVg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV4aWI3eDN1Z3B3djEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7KxvNhN9PeP2Ep6Agr0QNRAQUkMAkeeJ4oKFTlo2Tfo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImtkZGN0bGtzeWt3MzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.z_tQLzmHQ4mPQ18pRutt0e9EI0j5lWTYF6sdqYZrTGA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImcyOHBnOGZ2bjY0ei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Xb_ySC-XGkfZePLyTFpQdSxCdYq6eQVAzoOj6pjVUXg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpqM3ZlbGd2cDl5djItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.r3e6CxbFytgb1ujdXcV8yZ6cHr9q8NxMUf9xMUOTwcc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjVleTMxZTVqanR1bjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-jibGCdXeM59wYizD6zAJ_8Gm5WaITjU1MUIZDU0jWU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImUxdHo4azBzbHE3bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.LW8w8LoDep0pTnZH4trj-w2gFKF7rS-_MeQGGQGVwJw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImV0OXNkcjlhNDN5NDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.O6kHzMBl3fxa1hgqqPI17G9VqT8CxlWcml2Cv4MrYhk/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 196.2,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 2024,
+  "certificacao_energetica": "BMINUS"
 }

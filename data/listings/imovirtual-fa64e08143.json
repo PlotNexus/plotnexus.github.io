@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Matosinhos e Leça da Palmeira, Matosinhos, Porto",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 107.3,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRtNDhjeHJzdWd2NzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.719luAHsuhpHYijnnAt9A3GVeS8utHelxgWm9u5VeWY/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRtNDhjeHJzdWd2NzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.719luAHsuhpHYijnnAt9A3GVeS8utHelxgWm9u5VeWY/image;s=2048x1536;q=80",
+  "description": "T3 com Varanda em Matosinhos Sul\n\nA Golden Hour Real Estate apresenta-lhe um estilo de vida exclusivo em Matosinhos Sul. Este magnífico apartamento T3 novo com varanda, localizado num empreendimento residencial de referência, alia a sofisticação urbana à serenidade de viver junto ao mar.\n\nCom uma arquitetura contemporânea e acabamentos de elevada qualidade, o imóvel distribui-se de forma funcional: \n\nÁrea Social: Uma ampla e luminosa cozinha e sala em open space, ideal para momentos de convívio, com acesso direto a uma varanda de 16,20 m², perfeita para desfrutar do ar livre. \n\nÁrea Privativa: Composta por 1 suite elegante e 2 quartos normais com excelentes áreas e roupeiros embutidos. \n\nCasas de Banho: Total de 3 instalações sanitárias — 1 completa privativa da suite, 1 completa de apoio aos restantes quartos e 1 casa de banho de serviço para a zona social. \n\nComodidades: O apartamento inclui ainda 2 lugares de garagem e arrumos.O empreendimento destaca-se pelo seu jardim privativo e zonas comuns cuidadas, promovendo uma vivência residencial distinta. Na envolvente, encontra estações de metro (Matosinhos Sul / Brito Capelo), o Jardim Basílio Teles, a Câmara Municipal, a Praia de Matosinhos e as Piscinas Municipais, garantindo uma centralidade e mobilidade únicas.",
+  "geo": {
+    "lat": 41.179623,
+    "lng": -8.684889
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,25 @@
   "published_at": "2026-10-13",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRtNDhjeHJzdWd2NzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.719luAHsuhpHYijnnAt9A3GVeS8utHelxgWm9u5VeWY/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRtNDhjeHJzdWd2NzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.719luAHsuhpHYijnnAt9A3GVeS8utHelxgWm9u5VeWY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImIzeTluZ3dmOG9kdjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.MgRpmFl9w3Vci14mwtyEvDsIdRvtBjLveak83rdXRDk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inlqd2kzeWxybWd2My1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.wo3oBE8Q26UcwD-1w9ET8BnSWGHxAng1fI-lhNLmI0I/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNqMXByNngzMGlhZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kTiUhdj86BtcTm_gMzUdnrSxJIbAn_LsmFp6-9yWZ2k/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ims5a2E4OW9vc3RxazEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UFPUUw4m-pSGAvhpuxwQzpWO-_MLmLCvLdwzPHUi1As/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVtN2R2b3FmNTdscTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kEGUIqcVpzaqoFM6rxP63oYmTh3L2LWr_aolsJbNSl4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFzYWh5czNzanA3ejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.N1to0xsYgkGi492G7-81BurgRJU2HHuJDnaFWsRv7SQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imo0anFyaHhud2VqejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1wjYR06mmBs__-eZjmsp93dYTU_jtG4jNcs66Gw5yb0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhoZjY1cWx3ZjQ3dS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.hKxUcr2vG-ePP9cTTNjDGRGyRLnlT1ocmJLti3M5Rp0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImF5dWRyZGk0Y2d3eDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.M5gHplp10nJG8N3FIhHqMn2FJuOzsVfeRkfhcd5SoPk/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 107.3,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A"
 }
