@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 91,
   "image": "https://images.century21.pt/46c0f158-2084-444a-a5b8-86bad0cc3021/01salajantar.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.5545331,
     "lng": -9.0840042
@@ -22,12 +22,40 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/46c0f158-2084-444a-a5b8-86bad0cc3021/01salajantar.jpg"
+    "https://images.century21.pt/46c0f158-2084-444a-a5b8-86bad0cc3021/01salajantar.jpg",
+    "https://images.century21.pt/e48e8c3d-e47b-429b-a5f7-a08214a2afa4/06corredor.jpg",
+    "https://images.century21.pt/15de73ff-3bde-4920-bfc5-00dbc66b2979/2.jpeg",
+    "https://images.century21.pt/3eab2318-ca2f-49b6-93a7-e83b6115ae55/WhatsAppImage2026-10-06at09.28.53243.jpeg",
+    "https://images.century21.pt/0f5da365-1b52-4e3d-be8b-8c763d3b9b3e/08wclavatorio.jpg",
+    "https://images.century21.pt/b35d2197-a805-4c72-9476-105721b79656/05wc.jpg",
+    "https://images.century21.pt/1fcf02d7-b3e1-46d2-9cda-66f85da60401/07entrada.jpg",
+    "https://images.century21.pt/13f03e58-cafd-41a1-bbc6-15856f7170d5/4.jpeg",
+    "https://images.century21.pt/6903c785-0bf1-409e-9ade-566c2278e9eb/10quarto.jpg",
+    "https://images.century21.pt/afbf3a18-e622-410d-b982-cb3597757bdb/WhatsAppImage2026-10-06at09.28.56111.jpeg",
+    "https://images.century21.pt/16a82524-1a2e-4c9c-b6ab-e1f432bb6d72/09duche.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Quarto",
+      "Cama de casal",
+      "Janelas duplas",
+      "Eletricidade",
+      "Aquecedor",
+      "Fogão de indução",
+      "Cozinha",
+      "Sala de estar",
+      "Arrendamento de longa duração",
+      "Micro-ondas",
+      "Piso em mosaico",
+      "Forno",
+      "Despensa",
+      "Água canalizada"
+    ]
+  },
   "estado": null,
   "area_util_m2": 91,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 92,
+  "ano_construcao": 2005,
+  "certificacao_energetica": "C"
 }

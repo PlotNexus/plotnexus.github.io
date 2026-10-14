@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 102,
   "image": "https://images.century21.pt/880730a5-6994-4bf0-8be3-b79db38d1be7/48ac5c5b-9f0f-449a-8184-2ab82624c454.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 40.2541578,
     "lng": -8.435272
@@ -22,12 +22,17 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/880730a5-6994-4bf0-8be3-b79db38d1be7/48ac5c5b-9f0f-449a-8184-2ab82624c454.jpg"
+    "https://images.century21.pt/880730a5-6994-4bf0-8be3-b79db38d1be7/48ac5c5b-9f0f-449a-8184-2ab82624c454.jpg",
+    "https://images.century21.pt/61577b90-62e7-47b1-ad00-63760993aa3f/db624694-c782-4462-b6a4-5362e481e401.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Arrendamento de longa duração"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 102,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 130,
+  "ano_construcao": 1986,
+  "certificacao_energetica": "IN_PROCESS"
 }

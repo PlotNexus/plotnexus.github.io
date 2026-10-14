@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 75,
   "image": "https://images.century21.pt/img-4903_29e81283-8d60-4d51-b62b-c59f842cfff5.HEIC",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7601625,
     "lng": -9.1234906
@@ -22,12 +22,47 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/img-4903_29e81283-8d60-4d51-b62b-c59f842cfff5.HEIC"
+    "https://images.century21.pt/img-4903_29e81283-8d60-4d51-b62b-c59f842cfff5.HEIC",
+    "https://images.century21.pt/img-4837_043c3bc4-94fc-449a-961e-5578b94972a8.HEIC",
+    "https://images.century21.pt/img-4893_c131d7fa-eb9f-46bb-a2fb-f94f97ff0094.HEIC",
+    "https://images.century21.pt/img-4848_8da3fca6-0b26-4b3b-a312-0b4bf8c924c9.HEIC",
+    "https://images.century21.pt/img-4843_880d9d35-baf0-4936-aab0-d71535c8fa31.HEIC",
+    "https://images.century21.pt/img-4826_c602c14e-0309-46de-b3a0-eba07996ca65.HEIC",
+    "https://images.century21.pt/img-4829_f1b8a2c8-be4c-4426-97b4-7d550417b8fa.HEIC",
+    "https://images.century21.pt/img-4831_700c4493-528d-411b-acb7-854fdd24a5b6.HEIC",
+    "https://images.century21.pt/img-4852_026dc00e-dae6-4b44-bb31-1aed8df08bb1.HEIC",
+    "https://images.century21.pt/img-4864_426bc065-2163-4bc5-b646-984ee06ec346.HEIC",
+    "https://images.century21.pt/img-4854_71eaa8cf-5d5a-4cdb-b017-24367c327d5e.HEIC",
+    "https://images.century21.pt/img-4871_fd13cadf-f77c-4e59-b208-c3ce67b3e2c4.HEIC",
+    "https://images.century21.pt/img-4885_7f8c9c4d-21e2-4623-872e-fa2f4c02fac1.HEIC",
+    "https://images.century21.pt/img-4888_1bda39e4-afc4-47f2-adb8-9a96d40bfc56.HEIC",
+    "https://images.century21.pt/img-4889_414243ff-9b98-497d-885c-3c0c8360a122.HEIC",
+    "https://images.century21.pt/img-4892_6b4346ae-9d7d-491c-b68e-c0b83eda6cc7.HEIC",
+    "https://images.century21.pt/img-4900_af544b6d-4443-4858-9fbf-110dd2e9fe84.HEIC",
+    "https://images.century21.pt/img-4898_28cb0b57-be44-4a8c-aaaa-9872ecacdb7a.heic",
+    "https://images.century21.pt/img-4988_4e312d58-9423-49cf-a831-3465843d0e4c.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Acessibilidade para mobilidade reduzida",
+      "Janelas duplas",
+      "Fogão elétrico",
+      "Elevador",
+      "Frigorífico",
+      "Boa exposição solar",
+      "Água quente",
+      "Forno",
+      "Gás canalizado",
+      "Arrecadação",
+      "Telefone",
+      "Máquina de lavar roupa",
+      "Água"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 75,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 86.5,
+  "ano_construcao": 2009,
+  "certificacao_energetica": "D"
 }
