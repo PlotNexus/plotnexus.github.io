@@ -8,8 +8,8 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 60,
-  "image": "https://mediaredir2.era.pt/i/moradia-satao-lamas_13_1_1423859_17592491_2_1_BR21wqSIWzCL5ij2%2bcSSQfuWprqlyEIXuT4KDi8TMSXEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-satao-lamas_14_1_1423859_17592491_2_1_BR21wqSIWzCL5ij2%2bcSSQfuWprqlyEIXuT4KDi8TMSXEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia em pedra natural, para reconstrução com 120 m2 de área bruta de construção. Constituída por 2 pisos.",
   "geo": {
     "lat": 40.789666659325334,
     "lng": -7.689570128454199
@@ -19,15 +19,22 @@
     "url": "https://www.era.pt"
   },
   "listing_url": "https://www.era.pt/imovel/moradia-satao-lamas-240240453",
-  "published_at": "2026-10-13",
-  "last_seen_at": "2026-10-13",
+  "published_at": "2026-10-14",
+  "last_seen_at": "2026-10-14",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-satao-lamas_13_1_1423859_17592491_2_1_BR21wqSIWzCL5ij2%2bcSSQfuWprqlyEIXuT4KDi8TMSXEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-satao-lamas_14_1_1423859_17592491_2_1_BR21wqSIWzCL5ij2%2bcSSQfuWprqlyEIXuT4KDi8TMSXEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-satao-lamas_14_1_1423859_17592492_2_1_PUSnC8I5jJjiGXSA%2bz8BZAVrrAVS%2bdDzlU0JBamJmh7EB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-satao-lamas_14_1_1423859_17472253_2_1_DsdsOpS10TAe%2fBULJzuoiwVopiIJER5QM%2fpXfGW4klfEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 60"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 60,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 60,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
