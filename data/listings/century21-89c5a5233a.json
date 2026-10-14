@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 220,
   "image": "https://images.century21.pt/01ca0a4c-8c6d-442c-875e-58fc5a86bafd/colagemsaladeestar.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 37.0774256930705,
     "lng": -8.75198004043682
@@ -22,12 +22,30 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/01ca0a4c-8c6d-442c-875e-58fc5a86bafd/colagemsaladeestar.png"
+    "https://images.century21.pt/01ca0a4c-8c6d-442c-875e-58fc5a86bafd/colagemsaladeestar.png",
+    "https://images.century21.pt/654205b7-9615-4ef2-a2b1-778cdc6b7c9e/saladeestarcolagem.jpg",
+    "https://images.century21.pt/ac343341-57fd-4418-8e00-02c564c61ed1/saladejantarcolagem.jpg",
+    "https://images.century21.pt/66cf4b0e-99d3-4d19-ae54-cf0e1111d543/cozinhaeterraocolagem.jpg",
+    "https://images.century21.pt/56bb75a0-47f6-453e-93df-91c069a33df5/cozinhacolagemjanela.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Janelas duplas",
+      "Estores elétricos",
+      "Garagem",
+      "Jardim",
+      "Toalheiro aquecido",
+      "Pátio",
+      "Gás canalizado",
+      "Iluminação embutida",
+      "Terraço",
+      "Roupeiro"
+    ]
+  },
   "estado": null,
   "area_util_m2": 220,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 367,
+  "ano_construcao": 2000,
+  "certificacao_energetica": "C"
 }

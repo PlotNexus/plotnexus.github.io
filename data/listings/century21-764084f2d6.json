@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 136,
   "image": "https://images.century21.pt/93e43cf2-08a0-4f8e-a1b7-3a892706657b/Diapositivo3.JPG",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 39.4634546,
     "lng": -8.1495589
@@ -22,12 +22,16 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/93e43cf2-08a0-4f8e-a1b7-3a892706657b/Diapositivo3.JPG"
+    "https://images.century21.pt/93e43cf2-08a0-4f8e-a1b7-3a892706657b/Diapositivo3.JPG",
+    "https://images.century21.pt/26b11c6a-66d5-497c-b68e-668a64e5e0ff/Diapositivo1.JPG",
+    "https://images.century21.pt/8b82022c-982d-4527-a8ec-c4a4b9181bc0/Diapositivo2.JPG",
+    "https://images.century21.pt/cc5dcec8-b23f-4e90-90d7-e27ebfa57506/Diapositivo6.JPG",
+    "https://images.century21.pt/6eaf162f-925d-4be4-a660-0bcb0b0708cc/Diapositivo4.JPG"
   ],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 136,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 150,
+  "ano_construcao": 1950,
   "certificacao_energetica": null
 }

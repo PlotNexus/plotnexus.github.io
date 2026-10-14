@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 272,
   "image": "https://images.century21.pt/f251cf91-096e-4498-9882-01d620b901ee/XS100686.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.709399,
     "lng": -9.145346
@@ -22,12 +22,33 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/f251cf91-096e-4498-9882-01d620b901ee/XS100686.jpg"
+    "https://images.century21.pt/f251cf91-096e-4498-9882-01d620b901ee/XS100686.jpg",
+    "https://images.century21.pt/bb7bb40e-a3d1-4d57-bfe3-919018c60578/XS100685.jpg",
+    "https://images.century21.pt/8ca84944-2711-49b0-809e-dce0bb50f8a4/XS100688.jpg",
+    "https://images.century21.pt/c3f24aa1-6ff9-4776-b908-d7111db3fc24/XS100690.jpg",
+    "https://images.century21.pt/fa978077-ad81-4f6c-b7ef-6e556cfc5e6f/XS100691.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varanda",
+      "Hall de quartos",
+      "Máquina de lavar loiça",
+      "Frigorífico",
+      "Boa localização",
+      "Corredor",
+      "Cozinha",
+      "Sala de estar",
+      "Escritório",
+      "Forno",
+      "Despensa",
+      "Zona tranquila",
+      "Fogão",
+      "Máquina de lavar roupa"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 272,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 279,
+  "ano_construcao": 1967,
+  "certificacao_energetica": "D"
 }

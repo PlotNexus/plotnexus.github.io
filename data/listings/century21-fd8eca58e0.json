@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 150,
   "image": "https://images.century21.pt/6dae2cf9-2a16-4fa1-9f96-32bc35ef021a/sr-paulo00001(2).png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 37.8309636,
     "lng": -25.3527107
@@ -22,12 +22,22 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/6dae2cf9-2a16-4fa1-9f96-32bc35ef021a/sr-paulo00001(2).png"
+    "https://images.century21.pt/6dae2cf9-2a16-4fa1-9f96-32bc35ef021a/sr-paulo00001(2).png",
+    "https://images.century21.pt/9a50c876-d39e-4cdd-9abb-f9cd95d5713b/sr-paulo00029.png",
+    "https://images.century21.pt/61263034-0f24-4c55-b4ee-ea1466b62027/sr-paulo00028.png",
+    "https://images.century21.pt/984c829c-5316-408b-995d-dc81cd28671a/sr-paulo00001.png",
+    "https://images.century21.pt/06882fb7-f52d-48ef-a59d-075975210623/sr-paulo00102.png"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Perto de comodidades",
+      "Perto de a praia",
+      "Perto de um mercado"
+    ]
+  },
   "estado": null,
   "area_util_m2": 150,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 180,
+  "ano_construcao": 1937,
+  "certificacao_energetica": "IN_PROCESS"
 }

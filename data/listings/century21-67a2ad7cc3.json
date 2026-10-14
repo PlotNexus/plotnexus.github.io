@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 218,
   "image": "https://images.century21.pt/b65c1094-7194-4308-9058-b05e660b8e00/Foto.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.771021,
     "lng": -9.3053154
@@ -22,12 +22,24 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/b65c1094-7194-4308-9058-b05e660b8e00/Foto.png"
+    "https://images.century21.pt/b65c1094-7194-4308-9058-b05e660b8e00/Foto.png",
+    "https://images.century21.pt/20221011-122005_20b65016-21dc-4570-b4c7-58a6f2d6f4d2.jpg",
+    "https://images.century21.pt/20221011-121909_e3217616-b752-4722-be90-eecba4da9722.jpg",
+    "https://images.century21.pt/20221011-121824_7992aa04-2495-48e9-b62e-30410ee98b8d.jpg",
+    "https://images.century21.pt/20221011-121756_4f6d6f34-d910-48ff-a621-511d32c2b8ee.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Alpendre",
+      "Arrecadação",
+      "Casa de banho",
+      "Churrasqueira",
+      "Cozinha"
+    ]
+  },
   "estado": null,
   "area_util_m2": 218,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 767.66,
+  "ano_construcao": 1951,
+  "certificacao_energetica": "EXEMPT"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 55.85,
   "image": "https://images.century21.pt/9ea7b18a-abde-484a-bcf4-14f8980af07d/20260727124249.jpg.jpeg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 37.1022717466114,
     "lng": -7.65987396240234
@@ -22,12 +22,45 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/9ea7b18a-abde-484a-bcf4-14f8980af07d/20260727124249.jpg.jpeg"
+    "https://images.century21.pt/9ea7b18a-abde-484a-bcf4-14f8980af07d/20260727124249.jpg.jpeg",
+    "https://images.century21.pt/9fb36b3f-93a4-4ce1-9668-478bcdee9e83/20260727124235.jpg.jpeg",
+    "https://images.century21.pt/1ae190e4-3c57-47e8-b59c-31207e85e3a3/20260727124243.jpg.jpeg",
+    "https://images.century21.pt/faee2728-99ca-4a8b-9e06-75c97bf1d663/20260727124255.jpg.jpeg",
+    "https://images.century21.pt/1bd659b4-551b-45cb-85fb-bac003058462/20260727124307.jpg.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Casa de banho",
+      "Quarto",
+      "Localização central",
+      "Vista cidade",
+      "Piscina comum",
+      "Janelas duplas",
+      "Estores elétricos",
+      "Hall de entrada",
+      "Garagem",
+      "Condomínio fechado",
+      "Boa exposição solar",
+      "Boa localização",
+      "Porta de alta segurança",
+      "Cozinha",
+      "Sala de estar",
+      "Arrendamento de longa duração",
+      "Perto de comodidades",
+      "Perto de a praia",
+      "Perto de uma igreja",
+      "Perto de o centro da cidade",
+      "Perto de uma zona comercial",
+      "Perto de um espaço público",
+      "Perto de restaurantes",
+      "Terraço"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 55.85,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 102.8,
+  "ano_construcao": 2006,
+  "certificacao_energetica": "D"
 }

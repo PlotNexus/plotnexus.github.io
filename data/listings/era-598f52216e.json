@@ -8,8 +8,8 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 79,
-  "image": "https://mediaredir2.era.pt/i/moradia-t4-castelo-branco-sobral-do-campo_13_1_1534922_18805643_2_1_82suNYqcBLGpvof78xe01kC0s2FypRqY62yEKgGXsS3EB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/moradia-t4-castelo-branco-sobral-do-campo_14_1_1534922_18805643_2_1_82suNYqcBLGpvof78xe01kC0s2FypRqY62yEKgGXsS3EB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Moradia em banda com três pisos, ideal para quem procura funcionalidade, espaço exterior e uma localização com bons acessos.\nNo primeiro piso encontra-se a zona principal da habitação, composta por uma sala com acesso ao sótão, dois quartos e uma cozinha em open space equipada com recuperador de calor, e duas casas de banho, sendo uma de serviço. Este piso facilita ainda o acesso a um terraço com 15.62m2, espaço que permite desfrutar de agradáveis vistas para a serra.\nO sótão dispõe de três quartos, um deles com acesso a uma pequena varanda, e conta ainda com uma casa de banho de serviço, proporcionando áreas adicionais que reforçam a funcionalidade da habitação.\nAo nível do rés-do-chão situa-se a garagem individual, com uma área de 59.50m2 e capacidade para dois carros, equipada com água, luz, eletricidade e casa de banho. Este espaço integra também uma zona de lazer com forno e alambique, beneficiando de acesso a um pequeno logradouro com 12.32m2.\nA moradia beneficia de exposição solar a nascente e encontra-se inserida numa zona tranquila na periferia da cidade, com bons acessos à auto-estrada, comboio e transportes públicos, mantendo proximidade a diversos serviços essenciais, como escolas, hospital, clínica, bancos, farmácia, supermercados, centros comerciais, ginásio e jardins.",
   "geo": {
     "lat": 39.99781,
     "lng": -7.562788
@@ -22,12 +22,51 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://mediaredir2.era.pt/i/moradia-t4-castelo-branco-sobral-do-campo_13_1_1534922_18805643_2_1_82suNYqcBLGpvof78xe01kC0s2FypRqY62yEKgGXsS3EB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/moradia-t4-castelo-branco-sobral-do-campo_14_1_1534922_18805643_2_1_82suNYqcBLGpvof78xe01kC0s2FypRqY62yEKgGXsS3EB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t4-castelo-branco-sobral-do-campo_14_1_1534922_18805660_2_1_St7KEQs0UplGA6570HZPIjCQQuo%2b0A9cuGhRpxnzbXPEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t4-castelo-branco-sobral-do-campo_14_1_1534922_18805662_2_1_ECOJxpe0bgvjtxGIP6akIrkf6uRmNVrEMc3yZ2alAcfEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t4-castelo-branco-sobral-do-campo_14_1_1534922_18805651_2_1_JlMSonPbZIbleQswqSW7oOofKGJVwt%2fv5CQY9lViA0DEB8h4ZPpqcw%3d%3d_.jpg",
+    "https://mediaredir2.era.pt/i/moradia-t4-castelo-branco-sobral-do-campo_14_1_1534922_18805649_2_1_leQf0WKvUkxNSQM8gRvngesrHKlIAwBPCLCiZVMEn4zEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 90"
+    ],
+    "Geral": [
+      "Nº Frentes: 1",
+      "Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Madeira, Portadas",
+      "Estores: Alumínio"
+    ],
+    "Edifício": [
+      "Hall de Entrada - Paredes: Pintadas",
+      "Hall de Entrada - Pavimento: Mármore",
+      "Hall de Entrada - Tecto: Estucado",
+      "Revestimento Exterior: Pintado",
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Garagem": [
+      "Água, Casa de Banho, Eletricidade, Luz",
+      "Área : 59.50"
+    ],
+    "Vistas": [
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos: Auto-Estrada, Bons, Comboio, Transportes Púb.",
+      "Centralidade: Periferia Cidade",
+      "Proximidade: Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 79,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 90,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

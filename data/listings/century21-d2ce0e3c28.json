@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 47,
   "image": "https://images.century21.pt/2603b5d1-c58f-498f-84f5-a9df1da78cb7/IMG8919.HEIC",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.1947152,
     "lng": -8.645012
@@ -22,12 +22,30 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/2603b5d1-c58f-498f-84f5-a9df1da78cb7/IMG8919.HEIC"
+    "https://images.century21.pt/2603b5d1-c58f-498f-84f5-a9df1da78cb7/IMG8919.HEIC",
+    "https://images.century21.pt/2cffe917-033c-4812-9d9c-cc7a65ed11dd/IMG8926.HEIC",
+    "https://images.century21.pt/3a830ae0-faa9-4e55-a7d9-21aba67696f0/IMG8876.HEIC",
+    "https://images.century21.pt/50c5460e-ef25-47e8-b7ea-e2bd2679b202/IMG8884.HEIC",
+    "https://images.century21.pt/f87e98c4-a46f-4323-8447-bc1ea62a59ca/IMG8912.HEIC"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Hall de entrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Sala de estar",
+      "Perto de comodidades",
+      "Perto de um banco",
+      "Perto de uma zona comercial",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de o metro",
+      "Piso em azulejo"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 47,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 47,
+  "ano_construcao": 1975,
+  "certificacao_energetica": "D"
 }

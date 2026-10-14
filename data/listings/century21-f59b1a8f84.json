@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 66,
   "image": "https://images.century21.pt/0b1a95ef-db94-43cc-80d5-d7d22de7a3b6/DJI0934.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.6218873,
     "lng": -8.6227586
@@ -22,12 +22,26 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/0b1a95ef-db94-43cc-80d5-d7d22de7a3b6/DJI0934.jpg"
+    "https://images.century21.pt/0b1a95ef-db94-43cc-80d5-d7d22de7a3b6/DJI0934.jpg",
+    "https://images.century21.pt/ef75e473-e9e3-4aba-9635-963ecc2a4449/DJI0933.jpg",
+    "https://images.century21.pt/9a10c470-2e33-448b-815c-f48795f1571c/IMG5633.jpg",
+    "https://images.century21.pt/51f9ae0d-59e6-4aa7-a1e3-d2aec556d7b2/IMG5643.jpg",
+    "https://images.century21.pt/bb47e7be-d7f0-443c-9953-fc31fef8e271/IMG5639.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Acesso por caminho de terra",
+      "Boa exposição solar",
+      "Zona tranquila",
+      "Cave",
+      "Cozinha",
+      "Piso em madeira",
+      "Vista campo"
+    ]
+  },
   "estado": null,
   "area_util_m2": 66,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 132,
+  "ano_construcao": 1937,
+  "certificacao_energetica": "G"
 }

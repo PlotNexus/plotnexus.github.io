@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 509,
   "image": "https://images.century21.pt/20240808-112814_1dde9fc4-6a28-4895-9efb-447edc1c7e31.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 40.7034620381408,
     "lng": -7.83343915143683
@@ -22,12 +22,28 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/20240808-112814_1dde9fc4-6a28-4895-9efb-447edc1c7e31.jpg"
+    "https://images.century21.pt/20240808-112814_1dde9fc4-6a28-4895-9efb-447edc1c7e31.jpg",
+    "https://images.century21.pt/20240808-111045_dc5642c9-76cb-426b-8131-1cce1b5a2412.jpg",
+    "https://images.century21.pt/20240808-110903_358963bc-e24a-40e5-9a84-82ed098aff03.jpg",
+    "https://images.century21.pt/20240808-105908_e1c1feaa-caa7-416b-b0ef-6076c087029d.jpg",
+    "https://images.century21.pt/20240808-103949_5b090974-3bb6-4808-8d09-8d79f1657c2d.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Aquecimento central",
+      "Varanda",
+      "Janelas duplas",
+      "Lareira",
+      "Garagem",
+      "Jardim",
+      "Boa exposição solar",
+      "Roupeiro",
+      "Terraço"
+    ]
+  },
   "estado": null,
   "area_util_m2": 509,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 827,
+  "ano_construcao": 1984,
+  "certificacao_energetica": "F"
 }

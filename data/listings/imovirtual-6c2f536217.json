@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Marinha Grande, Leiria",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 131.75,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQwMmdvamhwMDdleS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.DGuxurNhEU0GkiRTdI9UNrbV8jOiUwGmFNS0piN_Ito/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQwMmdvamhwMDdleS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.DGuxurNhEU0GkiRTdI9UNrbV8jOiUwGmFNS0piN_Ito/image;s=2048x1536;q=80",
+  "description": "Apartamento T3 com garagem, sótão e elevador!!\n\nCONDIÇÃO ESPECIAL DE VENDA – USUFRUTO VITALÍCIO \n\nUma oportunidade de investimento diferenciada para quem procura adquirir um imóvel com uma perspetiva de valorização a médio/longo prazo.&nbsp;\n\nO apartamento é vendido em regime de nua-propriedade,mantendo a atual proprietária o usufruto vitalício do imóvel. Isto significa que, após a venda, a proprietária continuará a residir e a usufruir do apartamento durante toda a sua vida, nos termos legalmente estabelecidos.&nbsp;\n\nO comprador torna-se proprietário da nua-propriedade, adquirindo desde já um ativo imobiliário, ficando a plena propriedade consolidada com a extinção do usufruto.&nbsp;\n\nUma solução particularmente interessante para investidores que procuram uma aquisição patrimonial de longo prazo, beneficiando de uma condição de venda diferenciada. \n\nEste apartamento é composto por:\n\nHall de entrada com roupeiro;\n\nSala de grandes dimensões;\n\nCozinha moderna e equipada;\n\nHall de acesso aos quartos;\n\n1 quarto com roupeiro;\n\n1 quarto com varanda;\n\nQuarto principal com roupeiro e wc privativo com janela;\n\nCasa de banho completa e com janela;\n\nAquecimento central a gás;\n\nJanelas vidro duplo oscilobatentes;\n\nSótão individual;\n\ngaragem box para 1 viatura;\n\nInserido em prédio com elevador.\n\nPara mais informações acerca desta venda em condições especiais, contacte-me para agendarmos reunião.",
+  "geo": {
+    "lat": 39.739838,
+    "lng": -8.925339
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,20 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQwMmdvamhwMDdleS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.DGuxurNhEU0GkiRTdI9UNrbV8jOiUwGmFNS0piN_Ito/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQwMmdvamhwMDdleS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.DGuxurNhEU0GkiRTdI9UNrbV8jOiUwGmFNS0piN_Ito/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFtYW9oZHJyNmk1ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.p4T2FDrqINrgYV_KAn4yKfeqPAo7L-Lxu0ybnUaBKAg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxycHpxbGtzMDJxeS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.jj-zsisUXUFi7wMl_Epbb0xd4wB7SnLQbxE93l4Ku2o/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda",
+      "Elevador",
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 131.75,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 2005,
+  "certificacao_energetica": "C"
 }

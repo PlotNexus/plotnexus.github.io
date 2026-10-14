@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 44,
   "image": "https://images.century21.pt/e555576e-e1ac-41a1-aaa9-1631849b9969/IMG1393.jpeg",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 41.1316638743605,
     "lng": -8.64788174629212
@@ -22,12 +22,41 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/e555576e-e1ac-41a1-aaa9-1631849b9969/IMG1393.jpeg"
+    "https://images.century21.pt/e555576e-e1ac-41a1-aaa9-1631849b9969/IMG1393.jpeg",
+    "https://images.century21.pt/2042d251-2b1a-4384-aec2-2cb298a1a165/IMG-20260716-WA0004.jpeg",
+    "https://images.century21.pt/aaad8fdb-19c7-44aa-80fd-0c34d6a9cc35/IMG-20260716-WA0005.jpeg",
+    "https://images.century21.pt/6a0d33ba-a740-473c-a14e-60c158479026/IMG1392.jpeg",
+    "https://images.century21.pt/05a3ba5c-93fb-4174-a189-f4ae6612ba2f/IMG-20260716-WA0003.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Boa exposição solar",
+      "Boa localização",
+      "Condomínio fechado",
+      "Open space",
+      "Ar condicionado",
+      "Eletrodomésticos",
+      "Elevador",
+      "Janelas duplas",
+      "Porta de alta segurança",
+      "Piso flutuante",
+      "Perto de um banco",
+      "Perto de comodidades",
+      "Perto de um complexo desportivo",
+      "Perto de espaços verdes",
+      "Perto de a polícia",
+      "Perto de uma farmácia",
+      "Perto de um mercado",
+      "Perto de o metro",
+      "Perto de a praia",
+      "Perto de uma zona comercial",
+      "Garagem",
+      "Parque infantil"
+    ]
+  },
   "estado": null,
   "area_util_m2": 44,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 45,
+  "ano_construcao": 2027,
+  "certificacao_energetica": "A"
 }

@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 390,
   "image": "https://images.century21.pt/40841-104143092977638-7375251-n_a7b076a8-1ed7-44d1-bade-3ed69dbcd7fc.jpg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 38.7154517,
     "lng": -9.4123509
@@ -22,12 +22,16 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/40841-104143092977638-7375251-n_a7b076a8-1ed7-44d1-bade-3ed69dbcd7fc.jpg"
+    "https://images.century21.pt/40841-104143092977638-7375251-n_a7b076a8-1ed7-44d1-bade-3ed69dbcd7fc.jpg",
+    "https://images.century21.pt/9_3ffb7723-08d9-4621-8ab9-02c9686b49b0.jpg",
+    "https://images.century21.pt/8_b0342fe0-5848-4455-91c5-4670b8ecab4f.jpg",
+    "https://images.century21.pt/5_f9f203c7-4a2e-4e03-9edb-5d0cb8a6d62d.jpg",
+    "https://images.century21.pt/12_d995ea96-1ed0-4a4e-a1af-1e987c93d3a2.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 390,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 479,
+  "ano_construcao": 1971,
+  "certificacao_energetica": "E"
 }

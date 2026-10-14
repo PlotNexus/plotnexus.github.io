@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 100,
   "image": "https://images.century21.pt/295b5460-e3af-4ec2-9082-d821194df1d5/13Cozinha.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7799145,
     "lng": -9.0934946
@@ -22,12 +22,34 @@
   "published_at": "2026-10-14",
   "last_seen_at": "2026-10-14",
   "images": [
-    "https://images.century21.pt/295b5460-e3af-4ec2-9082-d821194df1d5/13Cozinha.jpg"
+    "https://images.century21.pt/295b5460-e3af-4ec2-9082-d821194df1d5/13Cozinha.jpg",
+    "https://images.century21.pt/5abd556c-8482-46a7-b80e-ceefcdbffc31/14Cozinha.jpg",
+    "https://images.century21.pt/29fccfff-8390-4fd6-a704-1dc9dca560c5/15Cozinha.jpg",
+    "https://images.century21.pt/424173d3-b184-41ca-8bc0-bed747562e59/WhatsAppImage2026-07-27at15.23.51(2).jpeg",
+    "https://images.century21.pt/db10d323-7887-4535-9d25-c1c96f2f142c/1Capa.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Eletrodomésticos",
+      "Estores elétricos",
+      "Elevador",
+      "Boa exposição solar",
+      "Boa localização",
+      "Aquecedor",
+      "Arrendamento de longa duração",
+      "Perto de uma zona comercial",
+      "Perto de um quartel de bombeiros",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de uma farmácia",
+      "Perto de a polícia",
+      "Perto de restaurantes",
+      "Vista panorâmica"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 100,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 113,
+  "ano_construcao": 1998,
+  "certificacao_energetica": "C"
 }
