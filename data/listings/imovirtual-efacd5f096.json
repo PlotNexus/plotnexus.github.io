@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Albufeira e Olhos de Água, Albufeira, Faro",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 89,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJpOHlhY2xkMW1rZjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6klmwC4ymGUzy7yWXyldnraijFTvSwTUo45GRGlb2fk/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJpOHlhY2xkMW1rZjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6klmwC4ymGUzy7yWXyldnraijFTvSwTUo45GRGlb2fk/image;s=2048x1536;q=80",
+  "description": "No Pine Sun Park, a cerca de 500 metros da Praia da Falésia, este T2 com 88,60 m2 tem licença de Alojamento Local, o que abre a porta ao arrendamento de curta duração numa das zonas mais procuradas do Algarve. Fica num 2.º andar com elevador, dentro de um condomínio fechado, e tem garagem fechada privativa e dupla orientação, a sudeste e a noroeste, com sol de manhã e luz de fim de tarde.\n\nA sala de estar e jantar é ampla e luminosa, com lareira com recuperador de calor e portas de correr para uma varanda com pérgola e churrasqueira, onde cabe uma mesa para quatro ou cinco pessoas. A cozinha é independente e está totalmente equipada.\n\nOs dois quartos têm roupeiros embutidos, e um deles tem acesso a uma segunda varanda. Há duas casas de banho, uma com banheira e outra com duche, e ar condicionado por condutas Daikin na sala e nos quartos.\n\nA garagem, com cerca de 20 m2, tem espaço para o carro e ainda para arrumação. O Pine Sun Park é um condomínio calmo e bem cuidado, com duas piscinas exteriores e amplas zonas verdes entre os edifícios.\n\nA Praia da Falésia, com o seu longo areal e as arribas douradas, é uma das mais conhecidas do Algarve e fica a poucos minutos a pé. Restaurantes, cafés e supermercado estão a cerca de 100 metros, e o campo de golfe do Pine Cliffs fica mesmo ao lado, com vários outros nas redondezas. A Marina de Vilamoura está a cerca de 10 minutos de carro, o centro de Albufeira a uns 15 e o aeroporto de Faro a cerca de meia hora.\n\nUm T2 para viver o ano inteiro, passar férias ou rentabilizar, com duas piscinas no condomínio e uma das melhores praias do Algarve a dois passos.",
+  "geo": {
+    "lat": 37.09158,
+    "lng": -8.167043
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,31 @@
   "published_at": "2026-10-15",
   "last_seen_at": "2026-10-15",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJpOHlhY2xkMW1rZjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6klmwC4ymGUzy7yWXyldnraijFTvSwTUo45GRGlb2fk/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJpOHlhY2xkMW1rZjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6klmwC4ymGUzy7yWXyldnraijFTvSwTUo45GRGlb2fk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImI2aXJ2OHMzZjVudi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.jZVtNML6Ehh7UAuCzgTFG9go40IOY3H3zcd2XT1ugUQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQydjQwc2FpYmlwcy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.WC_BUoy2BJg7Ivjoo_n5NfVfqcffuL60ocD7LlXy8L8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlqYXFnYzJ2OTU0dS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.evyaVkEbZJdB12X3otKkiccREePclPAZtlYhY3EVpkA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc5N3ExdDhwemF3aTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.wBjO8rKf_4HXtlH-IPRTGgQCqx8yKYlcXDroz7TH3b8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlpbG1yMmoxZm50ajItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.LR8nubhJPExzLSiJ5eW8k1YjAqyLbzVWVIKWCRAaA5c/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdpNmN0cmw0cTNlNTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.hq_wORNpbMDjE2BjJQ8-AOom7EFQv9mvHCCfaOjZGAM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InpsMnY4ems5b2NzdjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ofTxW5B5GEfSM_U-LtsV5n0lySXBt-_fS8PQrA7T__4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF0am1uaXM4MGo4cDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DI0tw7vTBzbkQE2zZHnvwmm_73fE_tx8Z9JFb7Uy9b0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9xZW9ybXYwcm8zczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.WhSln3zDhSJyOXyJF6MfIb-uu7leWaCykqu0YsMRdD8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inpnb3V1b3h0dzBoMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.F9kabwE7VPXm-N0LNbYPWF4l_Fxqp2yjFnrQUgTeEDk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImI1ODFrb3VwYmF2by1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.6RIdNYVhYko7pGxrlilk129-D5LLcptMhYcvNY3HbZ0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdoaWk1YmJoMmljMjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.p9MwSq4XTiIGcEexENo9ig9ySX53of6fS4-Bahp1clE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ing2ejhnN2llNDE0dTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.nWw3Hrz6pX_JcRfSRptGepLsy8UtKDN8f-wCk-fjBv0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRwM3d6dmw5OTkxcy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.kgSwa9Cbi0ydlEThY_x_ihrLQ4QdVWII-4AI1TDEcPw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImM2MHk5bnA4aTlmcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TAJrIkBa2qlXZXtIcb9dQtQQZtUHdH46jF2YlyzQvoM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imswam5peWR6anYxeTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DQI1ZdS0sVemdPamtL8oWnNI5ny3LWYgGZGT-DU9CpI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im15ZTc3Y2pqeGR3cC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.KcUJMaaxopQuNTVQHW_RURH3aSGvKjTlBhkwt5oQcjQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVxeXBqZTVvN2ZxbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.U_Lp5g2z1sJMUFlVlzm_L39ABJ2H0pCkz6-ylAhC4yo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJhb2dsOXAyM214cTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.eqZ6GZVvVhnkrmWkL7fGNegcwkNOs9qNT17g73f9Nes/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 89,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

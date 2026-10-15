@@ -9,7 +9,7 @@
   "bathrooms": 0,
   "area_m2": 35,
   "image": "https://images.century21.pt/img-20240223-wa0006_6568bda0-1396-46d1-93fb-719f5e1de17b.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 40.0440003350434,
     "lng": -7.10587787972906
@@ -22,12 +22,21 @@
   "published_at": "2026-10-15",
   "last_seen_at": "2026-10-15",
   "images": [
-    "https://images.century21.pt/img-20240223-wa0006_6568bda0-1396-46d1-93fb-719f5e1de17b.jpg"
+    "https://images.century21.pt/img-20240223-wa0006_6568bda0-1396-46d1-93fb-719f5e1de17b.jpg",
+    "https://images.century21.pt/img-20240223-wa0002_9862b804-651a-4614-b50a-9848bd053592.jpg",
+    "https://images.century21.pt/img-20240223-wa0001_5eecd5ba-14c8-4c12-a5f4-52348f2fd29a.jpg",
+    "https://images.century21.pt/img-20240223-wa0005_a59ec4d7-c2df-48f6-83e2-66c62f5c3d31.jpg",
+    "https://images.century21.pt/img-20240223-wa0003_66828b21-daee-4da5-81ee-71731a383cc4.jpg",
+    "https://images.century21.pt/imagem-whatsapp-2024-02-23-as-09-00-01-0435784c_253f6628-4284-45f9-b727-54229cd46ca5.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Água"
+    ]
+  },
   "estado": null,
   "area_util_m2": 35,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 36,
+  "ano_construcao": 1987,
   "certificacao_energetica": null
 }

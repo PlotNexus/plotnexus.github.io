@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 147,
   "image": "https://images.century21.pt/0020_e680cd36-3537-41c0-9d38-4501426bb90a.jpg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 37.0875146215561,
     "lng": -8.02778192245199
@@ -22,12 +22,37 @@
   "published_at": "2026-10-15",
   "last_seen_at": "2026-10-15",
   "images": [
-    "https://images.century21.pt/0020_e680cd36-3537-41c0-9d38-4501426bb90a.jpg"
+    "https://images.century21.pt/0020_e680cd36-3537-41c0-9d38-4501426bb90a.jpg",
+    "https://images.century21.pt/0011_afefbf25-ff06-4d7c-8b3f-daeb452c9c11.jpg",
+    "https://images.century21.pt/0004_44607ae0-4dcb-444d-a39a-818247cfd6f2.jpg",
+    "https://images.century21.pt/0001_5d28f909-f944-4dc5-83b0-d5e9ab8bdeda.jpg",
+    "https://images.century21.pt/0012_9b719689-0a6d-4ffe-a350-ed94a08e2366.jpg",
+    "https://images.century21.pt/0010_2b4328ec-e929-4c07-ab05-2d428e1844a0.jpg",
+    "https://images.century21.pt/0004_53d733ff-d39e-45ab-88cc-63e22650d7dc.jpg",
+    "https://images.century21.pt/0005_a1c6a4d5-9f0a-4e9c-9d06-adc899c0da06.jpg",
+    "https://images.century21.pt/0014_5fd7fcb4-d84e-44ee-a2e9-be4c9cdd3a51.jpg",
+    "https://images.century21.pt/0015_a0556774-1cbf-4def-84fc-13dd5b357efb.jpg",
+    "https://images.century21.pt/0016_18c0771f-200d-479c-800c-e2545a296228.jpg",
+    "https://images.century21.pt/0017_e62da834-3af8-4ef9-b990-244bde9d70af.jpg",
+    "https://images.century21.pt/0018_64ba33f3-586e-4f3f-967c-aeeed00811c9.jpg",
+    "https://images.century21.pt/0021_3d0c3d05-0b70-4132-84f8-d5a1434a874a.jpg",
+    "https://images.century21.pt/0019_50dd370a-26b8-4ad5-97cc-15d7a65ae911.jpg",
+    "https://images.century21.pt/0023_a6c040e2-7c43-440b-b674-e69ceae51c80.jpg",
+    "https://images.century21.pt/0024_7b49e5a5-a8de-4adc-adba-2d3ce3625e59.jpg",
+    "https://images.century21.pt/0028_4edbd942-a263-4f59-ab89-b8a5d901939c.jpg",
+    "https://images.century21.pt/0027_701dd090-4642-4e8f-9077-ad00a8d6b290.jpg",
+    "https://images.century21.pt/0025_a241d2ac-c6cd-4792-9729-aa930a134756.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Roupeiro",
+      "Frigorífico",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 147,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 174,
+  "ano_construcao": 2007,
+  "certificacao_energetica": "D"
 }

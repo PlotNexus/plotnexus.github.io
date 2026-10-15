@@ -8,8 +8,8 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": 65,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-gulpilhares-e-valadares_13_1_1525915_18690102_2_1_B0rUgEWvQpdNH06ZVV9QFMescL9jGi0wQZNgi0PrD4rEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-gulpilhares-e-valadares_14_1_1525915_18690102_2_1_B0rUgEWvQpdNH06ZVV9QFMescL9jGi0wQZNgi0PrD4rEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "IMÓVEL OCUPADO | NÃO DISPONÍVEL PARA VISITAS Apartamento T1 com uma área de 65 metros quadrados, situado em Gulpilhares, Vila Nova de Gaia, no distrito do Porto. Localizado em zona residencial tranquila, o imóvel fica próximo aos principais pontos de comércio, serviços, escolas e transportes públicos.",
   "geo": {
     "lat": 41.08322,
     "lng": -8.638718
@@ -22,12 +22,17 @@
   "published_at": "2026-10-15",
   "last_seen_at": "2026-10-15",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-gulpilhares-e-valadares_13_1_1525915_18690102_2_1_B0rUgEWvQpdNH06ZVV9QFMescL9jGi0wQZNgi0PrD4rEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-gulpilhares-e-valadares_14_1_1525915_18690102_2_1_B0rUgEWvQpdNH06ZVV9QFMescL9jGi0wQZNgi0PrD4rEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 65"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 65,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 65,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }
