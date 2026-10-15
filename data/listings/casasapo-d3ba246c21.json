@@ -8,7 +8,7 @@
   "bedrooms": 3,
   "bathrooms": null,
   "area_m2": 50,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1094360/P200381317/Tphoto/IDb3812dde-2751-486d-b9ce-66108ad0b78b.jpg",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1094360/P200381317/Tphoto/IDb3812dde-2751-486d-b9ce-66108ad0b78b.jpg",
   "description": "#ref:34980176",
   "geo": {
     "lat": 41.53641,
@@ -19,15 +19,30 @@
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/comprar-moradia-t3-mirandela-carvalhais-f38592b7-db34-4917-b8aa-dac20adc132d.html",
-  "published_at": "2026-10-13",
-  "last_seen_at": "2026-10-13",
+  "published_at": "2026-10-15",
+  "last_seen_at": "2026-10-15",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S6/C1094360/P200381317/Tphoto/IDb3812dde-2751-486d-b9ce-66108ad0b78b.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1094360/P200381317/Tphoto/IDb3812dde-2751-486d-b9ce-66108ad0b78b.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1094360/P200381317/Tphoto/IDaf6ee8db-ae14-41e4-8791-a067f8f24326.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1094360/P200381317/Tphoto/ID2aabd79b-7ed0-4f8b-b8c6-69f8b853f326.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 2",
+      "Varandas"
+    ],
+    "Equipamentos": [
+      "Ar Condicionado",
+      "Roupeiros"
+    ],
+    "Infraestruturas": [
+      "Terraço",
+      "Arrecadação"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 50,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "G"
 }

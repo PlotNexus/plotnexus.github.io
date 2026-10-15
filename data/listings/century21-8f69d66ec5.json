@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 302.86,
   "image": "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Moradia%20CExteriores%20(8).png",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 32.7122457173726,
     "lng": -17.1527051922159
@@ -22,12 +22,47 @@
   "published_at": "2026-10-15",
   "last_seen_at": "2026-10-15",
   "images": [
-    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Moradia%20CExteriores%20(8).png"
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Moradia%20CExteriores%20(8).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Sala%20Comum%20Moradia%20C%20(2).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Sala%20Comum%20Moradia%20C%20(1).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Sala%20Comum%20Moradia%20C%20(4).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Sala%20Comum%20Moradia%20C%20(15).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Escritrio%20Moradia%20C%20(5).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Suite%20Moradia%20C%20(1).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Suite%20Moradia%20C%20(4).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/IS%20Suite%20Moradia%20C%20(3).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/IS%20Suite%20Moradia%20C%20(2).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Moradia%20CExteriores%20(13).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Moradia%20CExteriores%20(2).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Moradia%20CExteriores%20(5).png",
+    "https://images.century21.pt/8440a2f5-1f85-4934-99f8-5f73cf2189f9/Garagem%20Moradia%20C%20(17).png"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Churrasqueira",
+      "Lavandaria",
+      "Quarto em suite",
+      "Terraço",
+      "Varandas",
+      "Água canalizada",
+      "Primeira linha",
+      "Vista mar",
+      "Perto de uma autoestrada",
+      "Perto de comodidades",
+      "Perto de um mercado",
+      "Perto de a praia",
+      "Perto de restaurantes",
+      "Garagem",
+      "Estacionamento",
+      "Piscina",
+      "Ar condicionado",
+      "Estores elétricos",
+      "Janelas duplas"
+    ]
+  },
   "estado": null,
   "area_util_m2": 302.86,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 471.08,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "A"
 }
