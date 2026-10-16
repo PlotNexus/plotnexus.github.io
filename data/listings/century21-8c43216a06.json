@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 101,
   "image": "https://images.century21.pt/1_e4e7f10e-974a-4414-ba6e-1aff8feec65f.jpg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 38.9196274198068,
     "lng": -9.02423455271864
@@ -22,12 +22,41 @@
   "published_at": "2026-10-16",
   "last_seen_at": "2026-10-16",
   "images": [
-    "https://images.century21.pt/1_e4e7f10e-974a-4414-ba6e-1aff8feec65f.jpg"
+    "https://images.century21.pt/1_e4e7f10e-974a-4414-ba6e-1aff8feec65f.jpg",
+    "https://images.century21.pt/2_e9c41455-9e9a-4bc5-8075-2b12af7d704c.jpg",
+    "https://images.century21.pt/3_7e388cd4-3963-472d-91a5-6e014ec8208a.jpg",
+    "https://images.century21.pt/4_7fcd224f-e46b-4ebd-b9b0-36f65b4f52be.jpg",
+    "https://images.century21.pt/5_bf072ae7-8fe0-4615-9a74-17a5a6893487.jpg",
+    "https://images.century21.pt/6_07ff71a9-b309-4034-abf5-52053578d932.jpg",
+    "https://images.century21.pt/tpalacio-b-jpg_bf9a006e-0b04-412a-b0c9-f6eee8babb8e.jpg",
+    "https://images.century21.pt/tpalacio-d-jpg_2cc37292-7247-4165-91de-d55e63436eab.jpg",
+    "https://images.century21.pt/planta-t3-jpg_61b9f460-e787-4cec-8792-ff2c267e472e.jpg",
+    "https://images.century21.pt/planta-piso-5--_3ae3a8b1-f218-4cdf-af3f-e236c9bde4c2.pdf",
+    "https://images.century21.pt/planta-piso-tipo--_391705af-40f1-40a1-8bba-da38e683be37.pdf",
+    "https://images.century21.pt/planta-piso-0--_abd252b9-7741-424c-afd7-e809bd09ec80.pdf",
+    "https://images.century21.pt/planta-piso--2--_97976fcd-c2d3-4e5f-b15a-8ae9686ff5b1.pdf",
+    "https://images.century21.pt/mapas_4a037e05-90e7-470f-a94c-505f56a47cd8.png",
+    "https://images.century21.pt/mapa2_4167e827-bcb5-4467-a1e6-8c9ea15164ea.png",
+    "https://images.century21.pt/tpalacio-a-jpg_1fd2c2ac-eb01-40aa-b25b-924560165b37.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Cofre",
+      "Cozinha equipada",
+      "Elevador",
+      "Isolamento térmico",
+      "Boa exposição solar",
+      "Porta corta-fogo",
+      "Roupeiro",
+      "Varanda",
+      "Vídeo-porteiro",
+      "Janelas duplas"
+    ]
+  },
   "estado": null,
   "area_util_m2": 101,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 249,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "IN_PROCESS"
 }

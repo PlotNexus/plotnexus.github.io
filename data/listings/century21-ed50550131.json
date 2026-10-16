@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 111,
   "image": "https://images.century21.pt/5_9ea3206a-079b-4b57-99ee-dd34e9b8cf47.jpg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 38.9196274198068,
     "lng": -9.02423455271864
@@ -22,12 +22,43 @@
   "published_at": "2026-10-16",
   "last_seen_at": "2026-10-16",
   "images": [
-    "https://images.century21.pt/5_9ea3206a-079b-4b57-99ee-dd34e9b8cf47.jpg"
+    "https://images.century21.pt/5_9ea3206a-079b-4b57-99ee-dd34e9b8cf47.jpg",
+    "https://images.century21.pt/2_76f95f44-dc56-4da0-bc20-1f40629f1946.jpg",
+    "https://images.century21.pt/1_2e22c115-1106-47fe-a2db-4c3e42167a9e.jpg",
+    "https://images.century21.pt/3_79656564-0f0f-4af6-aacf-ad37317c289c.jpg",
+    "https://images.century21.pt/4_75f6b114-73cd-4c79-bbf3-33343da7a400.jpg",
+    "https://images.century21.pt/5_6aa22078-334d-4960-ae8e-07750a6eb990.jpg",
+    "https://images.century21.pt/planta_f9199a57-a45b-4d79-9d37-9249bf13fe5d.jpg",
+    "https://images.century21.pt/tpalacio-c-jpg_29c12278-f4c4-40be-8bb4-d170d2b10fea.jpg",
+    "https://images.century21.pt/tpalacio-d-jpg_7af02099-364a-421a-bf48-92fcd26a5120.jpg",
+    "https://images.century21.pt/mapas_58af894f-802b-4014-9937-81d2c8e71693.png",
+    "https://images.century21.pt/mapa2_e0adc548-5311-4714-913f-ee6fba103dfb.png",
+    "https://images.century21.pt/planta-t3-jpg_d2acac02-d0cb-411b-958a-43c2d56328ef.jpg",
+    "https://images.century21.pt/planta-piso--1--_b7fcbe15-7ce8-4a2a-af1f-b13397d18371.pdf",
+    "https://images.century21.pt/planta-piso-tipo--_226fc19b-34d0-4472-a1f7-4239c62e9df8.pdf",
+    "https://images.century21.pt/planta-piso-0--_01fff1de-4eb2-44ca-bf60-e5b0c922a5a9.pdf",
+    "https://images.century21.pt/planta-piso-5--_6a86fe96-7313-4a58-bd95-1ad72c92c5d5.pdf",
+    "https://images.century21.pt/tpalacio-b-jpg_655a5c72-c280-455d-b3a9-3b4b85f2b6f8.jpg",
+    "https://images.century21.pt/tpalacio-a-jpg_138e5493-77c5-41b1-8e3b-fd09dc4a50f8.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Cofre",
+      "Cozinha equipada",
+      "Elevador",
+      "Isolamento térmico",
+      "Boa exposição solar",
+      "Porta corta-fogo",
+      "Roupeiro",
+      "Varanda",
+      "Vídeo-porteiro",
+      "Janelas duplas"
+    ]
+  },
   "estado": null,
   "area_util_m2": 111,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 147,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "IN_PROCESS"
 }
