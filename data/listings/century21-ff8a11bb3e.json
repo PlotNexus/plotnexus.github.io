@@ -9,7 +9,7 @@
   "bathrooms": 5,
   "area_m2": 235,
   "image": "https://images.century21.pt/aba4bd04-9c3e-4ec4-b5cb-bd1ac1fc8188/01Moradia.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.7290045357072,
     "lng": -9.24024224281311
@@ -22,12 +22,44 @@
   "published_at": "2026-10-17",
   "last_seen_at": "2026-10-17",
   "images": [
-    "https://images.century21.pt/aba4bd04-9c3e-4ec4-b5cb-bd1ac1fc8188/01Moradia.jpg"
+    "https://images.century21.pt/aba4bd04-9c3e-4ec4-b5cb-bd1ac1fc8188/01Moradia.jpg",
+    "https://images.century21.pt/db105c3a-dd10-4cf1-89b8-f76a9804868c/78CasaJardim.jpg",
+    "https://images.century21.pt/db960c8f-d190-4c25-9130-9bc2852504c9/02Entrada.jpg",
+    "https://images.century21.pt/68b0b085-acec-4d70-92de-6bf6fca5ca07/03HalldeEntrada.jpg",
+    "https://images.century21.pt/1317ea8d-aa01-46db-b3fd-0ec1a330dd1d/12Sala.jpg",
+    "https://images.century21.pt/178c97a5-d3d1-4b79-8f03-95d59ba11e7e/07Sala.jpg",
+    "https://images.century21.pt/f333395e-bd17-4f60-b119-f8bfebff133d/13Sala.jpg",
+    "https://images.century21.pt/46e34525-ebca-4246-8bdf-af31127497c1/09Sala.jpg",
+    "https://images.century21.pt/d359a0d6-681e-46c0-aedf-f720bdf96922/06Sala.jpg",
+    "https://images.century21.pt/4efb38ca-ab63-497c-bebc-c6b62ee140f0/08Sala.jpg",
+    "https://images.century21.pt/ddbc2e4d-d992-4fe3-adb1-8fccaf501732/04Sala.jpg",
+    "https://images.century21.pt/a475e697-ff36-45b6-8349-8deb3bf4293c/05Sala.jpg",
+    "https://images.century21.pt/02d5fd96-d42a-49be-a8a5-c3028246c862/11Sala.jpg",
+    "https://images.century21.pt/f319a08f-a657-4231-9801-5bc4df063112/10Sala.jpg",
+    "https://images.century21.pt/5fe80d16-9b31-487d-9f7b-0fede5a4ff01/14Sala.jpg",
+    "https://images.century21.pt/3a3ea181-526f-4777-81f0-ccce566bc42e/15Varanda.jpg",
+    "https://images.century21.pt/830ffeab-994c-4086-95e0-9554c56896c1/34Varanda.jpg",
+    "https://images.century21.pt/06824a5a-1a55-406b-9815-b9557db89312/16Varanda.jpg",
+    "https://images.century21.pt/78a9627f-5f7c-46f8-bc52-c5fb279fac8b/32Suite1.jpg",
+    "https://images.century21.pt/28b57892-0409-4215-a1ad-37414db7df81/27HallQuartos.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Churrasqueira",
+      "Casa de banho",
+      "Quarto",
+      "Sala de jantar",
+      "Hall de entrada",
+      "Boa localização",
+      "Cozinha",
+      "Zona tranquila",
+      "Quarto em suite"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 235,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 414,
+  "ano_construcao": 1996,
+  "certificacao_energetica": "C"
 }

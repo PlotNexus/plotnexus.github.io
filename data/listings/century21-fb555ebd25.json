@@ -9,7 +9,7 @@
   "bathrooms": 7,
   "area_m2": 572,
   "image": "https://images.century21.pt/1_7bb10dfc-160d-42a6-b66f-a1833d4f158a.jpg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 38.701812583902,
     "lng": -9.38780596914671
@@ -22,12 +22,30 @@
   "published_at": "2026-10-17",
   "last_seen_at": "2026-10-17",
   "images": [
-    "https://images.century21.pt/1_7bb10dfc-160d-42a6-b66f-a1833d4f158a.jpg"
+    "https://images.century21.pt/1_7bb10dfc-160d-42a6-b66f-a1833d4f158a.jpg",
+    "https://images.century21.pt/12_952afd08-5629-464b-ba33-fde8086e5cad.jpg",
+    "https://images.century21.pt/11_1939541b-c0c8-4205-8833-a80f42da2995.jpg",
+    "https://images.century21.pt/10_57d53a78-cb5d-462b-a669-ea960104938c.jpg",
+    "https://images.century21.pt/8_998f3091-7bed-4d98-8c24-e350c34e616c.jpg",
+    "https://images.century21.pt/5_3e0f1974-2ef7-4d36-9670-ad21dc99d4b4.jpg",
+    "https://images.century21.pt/7_484c4fb5-5dee-45f0-88cd-795fd092d316.jpg",
+    "https://images.century21.pt/9_713fff04-7639-4f1d-bcd4-60ec6ebfce29.jpg",
+    "https://images.century21.pt/whatsapp-image-2023-07-03-at-11-54-18-3-_210b0986-ea4c-44cb-bb9a-d9e429995874.jpg",
+    "https://images.century21.pt/whatsapp-image-2023-07-03-at-11-54-19-1-_a5cdaa99-b0a2-4b2c-a834-ef224832e74c.jpg",
+    "https://images.century21.pt/2_8417c238-f1f9-436a-a866-10e15437c776.jpg",
+    "https://images.century21.pt/whatsapp-image-2023-07-03-at-11-54-08-1-_2de7e8a2-6aa1-4f4d-a6f3-1224858a7ca3.jpg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Água quente",
+      "Arrecadação",
+      "Churrasqueira",
+      "Portão elétrico"
+    ]
+  },
   "estado": null,
   "area_util_m2": 572,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 573,
+  "ano_construcao": 1989,
+  "certificacao_energetica": "E"
 }

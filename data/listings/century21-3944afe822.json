@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 87,
   "image": "https://images.century21.pt/bd5a58a4-7235-4ee7-9df3-8fdf2cd6751c/Exterior-3.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7366381,
     "lng": -9.2233871
@@ -22,12 +22,41 @@
   "published_at": "2026-10-17",
   "last_seen_at": "2026-10-17",
   "images": [
-    "https://images.century21.pt/bd5a58a4-7235-4ee7-9df3-8fdf2cd6751c/Exterior-3.jpg"
+    "https://images.century21.pt/bd5a58a4-7235-4ee7-9df3-8fdf2cd6751c/Exterior-3.jpg",
+    "https://images.century21.pt/e70d87bb-ddf6-46d1-a6fd-6283b5502ce3/trio-1.jpg",
+    "https://images.century21.pt/460f169d-86e8-4139-a143-7a18174bb850/Cozinha-3.jpg",
+    "https://images.century21.pt/2812a867-201f-4514-99f4-6c2af742b4b2/Cozinha-2.jpg",
+    "https://images.century21.pt/601c6e09-f0a4-4643-ade2-dc3a656eb4a4/Cozinha-1.jpg",
+    "https://images.century21.pt/b8182e03-15f5-4e89-b558-36b29ce0f737/Hall-2.jpg",
+    "https://images.century21.pt/dd999eb2-0a45-48e9-a16c-01bca1196595/Hall-1.jpg",
+    "https://images.century21.pt/2144d17b-91f6-483b-8f4b-332a8cf39ec5/Quarto1-1.jpg",
+    "https://images.century21.pt/e90f4e8d-dba4-4b5a-8caf-160ca421c057/Quarto1-2.jpg",
+    "https://images.century21.pt/f6b67f58-26c4-47d7-99de-7733e8e7d7aa/Sala-2.jpg",
+    "https://images.century21.pt/186e02d6-698f-45db-bd8c-17af9d30145b/Sala-1.jpg",
+    "https://images.century21.pt/f5f754d3-4962-4a29-a4db-e2774030a8df/Marquise-1.jpg",
+    "https://images.century21.pt/32e127e0-5cc4-41f0-a444-6183d373be3c/Quarto2-2.jpg",
+    "https://images.century21.pt/2156a3c5-0c19-4578-8309-f4553a11f4ed/Quarto2-1.jpg",
+    "https://images.century21.pt/68113d5b-e68b-4025-8650-17af23b8441a/WC-1.jpg",
+    "https://images.century21.pt/5c6fdc7a-9ea5-4230-bf91-2173292974fc/Exterior-2.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Localização central",
+      "Elevador",
+      "Exaustor",
+      "Boa exposição solar",
+      "Boa localização",
+      "Rés-do-chão",
+      "Tetos altos",
+      "Forno",
+      "Zona tranquila",
+      "Vídeo-porteiro",
+      "Esquentador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 87,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 87,
+  "ano_construcao": 1992,
+  "certificacao_energetica": "F"
 }
