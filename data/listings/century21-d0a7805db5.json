@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 129,
   "image": "https://images.century21.pt/sala-4_d53dfc35-7955-4334-af27-87e0eabfff2d.JPG",
-  "description": null,
+  "description": "$20",
   "geo": {
     "lat": 38.7883252,
     "lng": -9.1909919
@@ -22,12 +22,54 @@
   "published_at": "2026-10-17",
   "last_seen_at": "2026-10-17",
   "images": [
-    "https://images.century21.pt/sala-4_d53dfc35-7955-4334-af27-87e0eabfff2d.JPG"
+    "https://images.century21.pt/sala-4_d53dfc35-7955-4334-af27-87e0eabfff2d.JPG",
+    "https://images.century21.pt/exterior-1_f2ab5d41-fdcf-44a2-9c5b-b011b0a0b061.JPG",
+    "https://images.century21.pt/atrio-2_2948924e-5a4c-4d0f-b24e-4c9e618b1982.JPG",
+    "https://images.century21.pt/atrio-1_fb1821dd-f940-4b2f-98eb-0917c78eb50d.JPG",
+    "https://images.century21.pt/sala-1_238c5998-c20b-428e-b421-f6f036ebfa96.JPG",
+    "https://images.century21.pt/sala-2_e3a1bf06-e3be-4bfc-be65-1e66fa7bf843.JPG",
+    "https://images.century21.pt/sala-3_9e931cb6-0f2c-4903-af68-4c320b192a86.JPG",
+    "https://images.century21.pt/cozinha-2_8c130d26-cbd6-4566-9a0a-dc8cf5914eaf.JPG",
+    "https://images.century21.pt/cozinha-1_7b028f6c-fbc0-4787-8dac-3a936cd196be.JPG",
+    "https://images.century21.pt/cozinha-3_01aada80-4bbf-4e95-b94c-9f039a07f68a.JPG",
+    "https://images.century21.pt/varanda-1_9bb480e7-0f62-401f-b2ec-89494e412227.JPG",
+    "https://images.century21.pt/quarto-3-1_505d9969-d123-4093-9425-da526e82c7bd.JPG",
+    "https://images.century21.pt/quarto-3-2_79dff00b-55f0-4766-85c4-38062f33f721.JPG",
+    "https://images.century21.pt/varanda-2_9cead44a-2091-4956-a940-f784d4c482e0.JPG",
+    "https://images.century21.pt/quarto-1-1_2d1f9b99-1975-4289-bcfa-48e3251dcfbf.JPG",
+    "https://images.century21.pt/quarto-1-2_583451b1-2363-41ee-8ed2-1c4060b5fe26.JPG",
+    "https://images.century21.pt/wc-1_182582fe-2452-4131-87fc-df5c4accecf8.JPG",
+    "https://images.century21.pt/quarto-2-2_be2caac0-b4c1-46b5-8327-a8e8a5958988.JPG",
+    "https://images.century21.pt/quarto-2-1_b83d471e-4bd2-4896-8e4c-0746e2e13fc8.JPG",
+    "https://images.century21.pt/quarto-2-3_a39474df-555d-41f9-a5eb-06faf09018d7.JPG"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho de suite",
+      "Garagem",
+      "Quarto em suite",
+      "Varandas",
+      "Aquecimento central",
+      "Caixilharia",
+      "Eletrodomésticos",
+      "Elevador",
+      "Estores elétricos",
+      "Fogão",
+      "Forno",
+      "Máquina de lavar loiça",
+      "Máquina de lavar roupa",
+      "Micro-ondas",
+      "Vista cidade",
+      "Perto de um complexo desportivo",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma farmácia",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 129,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 179,
+  "ano_construcao": 2008,
+  "certificacao_energetica": "C"
 }
