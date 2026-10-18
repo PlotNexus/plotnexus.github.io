@@ -3,15 +3,23 @@
 // IPs (see README's "Fontes investigadas mas ainda não viáveis") respond
 // differently from an ordinary residential connection — the same
 // question that, for e-leilões.pt, turned out to have a surprising
-// answer (it wasn't IP-blocking at all, it was a TLS config bug). Run
-// this by hand, from home, and share the output: it doesn't scrape or
-// write anything, just reports what each site's plain-HTTP response
+// answer (it wasn't IP-blocking at all, it was a TLS config bug). Also
+// probes a batch of brand-new candidate sources nobody's looked at yet.
+// Run this by hand, from home, and share the output: it doesn't scrape
+// or write anything, just reports what each site's plain-HTTP response
 // looks like.
 //
 // Deliberately excludes CustoJusto and iad Portugal: both explicitly
 // disallow scraping their listings in their own robots.txt, which is a
 // policy question (do we want to ignore that), not a technical one — no
 // network test changes that answer, so there's nothing useful to probe.
+// Also excludes vendas.portaldasfinancas.gov.pt (the actual bens-
+// penhorados listings sit behind an authenticated "área reservada",
+// login required, so a plain fetch here wouldn't tell us anything
+// useful) and a handful of names (BPI Expresso Imobiliário, Fine &
+// Country, Millennium bcp imóveis, Novo Banco, Imobancos, Utopia,
+// OneFix) whose actual current domain/identity couldn't be confirmed —
+// see chat for details, ask if you have direct links for any of these.
 
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36";
@@ -31,6 +39,71 @@ const TARGETS = [
     name: "CGD / Caixa Imobiliário",
     url: "https://www.caixaimobiliario.pt/",
     note: "Motivo da exclusão: 403 com página de erro da Akamai, mesmo na página inicial.",
+  },
+  {
+    name: "Zome",
+    url: "https://www.zome.pt/pt",
+    note: "Candidato novo. robots.txt: User-agent * -> Allow /.",
+  },
+  {
+    name: "Imovendo",
+    url: "https://www.imovendo.pt/",
+    note: "Candidato novo. Agência de comissão fixa, ~90 imóveis próprios.",
+  },
+  {
+    name: "Listoo",
+    url: "https://listoo.pt/",
+    note: "Candidato novo. robots.txt totalmente aberto.",
+  },
+  {
+    name: "Predimed",
+    url: "https://predimed.pt/",
+    note: "Já excluído no README por ser redundante com a CASA SAPO, não por bloqueio — a reconfirmar.",
+  },
+  {
+    name: "ComprarCasa",
+    url: "https://www.comprarcasa.pt/",
+    note: "Candidato novo. Rede de franchising APEMIP.",
+  },
+  {
+    name: "Casa Yes",
+    url: "https://casayes.pt/",
+    note: "Candidato novo. robots.txt proíbe especificamente /api/, /perfil/ e parâmetros de pesquisa/filtro (?search=, ?f=).",
+  },
+  {
+    name: "Engel & Völkers",
+    url: "https://www.engelvoelkers.com/pt/pt",
+    note: "Candidato novo (agência de luxo). robots.txt proíbe especificamente os caminhos de pesquisa (*/search/*, */propertysearch?*) — paginas de imóvel isoladas podem não ser afetadas, mas pesquisar/filtrar está fora.",
+  },
+  {
+    name: "Sotheby's International Realty (Portugal)",
+    url: "https://www.sothebysrealtypt.com/",
+    note: "Candidato novo (agência de luxo). robots.txt só restringe /assets/, /api/ e recursos internos.",
+  },
+  {
+    name: "Christie's International Real Estate (Luximos, Algarve/Porto)",
+    url: "https://www.luximos.pt/",
+    note: "Candidato novo (afiliado regional, não é site nacional). robots.txt só restringe /siges.",
+  },
+  {
+    name: "Savills",
+    url: "https://www.savills.pt/",
+    note: "Candidato novo (agência de luxo/comercial). robots.txt só restringe /contact/, /forms/, /_inc/.",
+  },
+  {
+    name: "Quintela e Penalva / Knight Frank",
+    url: "https://www.quintelaepenalva.pt/",
+    note: "Candidato novo (consultora de luxo). robots.txt só restringe páginas de impressão/smartlink.",
+  },
+  {
+    name: "Santander (imóveis recuperados)",
+    url: "https://imoveis.santander.pt/",
+    note: "Candidato novo. robots.txt totalmente aberto.",
+  },
+  {
+    name: "Citius (Ministério da Justiça)",
+    url: "https://www.citius.mj.pt/portal/default.aspx",
+    note: "Candidato incerto — pode ser só um sistema de consulta de processos/anúncios, sem lista de imóveis navegável. robots.txt permite o acesso geral.",
   },
 ];
 
