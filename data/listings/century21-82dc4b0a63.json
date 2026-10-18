@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 38.76,
   "image": "https://images.century21.pt/7cd96c3a-9582-4f13-a81d-4ef44228b5ce/f193da9d-bbc3-4ef0-ab1f-80ef4e93218b.png",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.5247651,
     "lng": -8.8855247
@@ -22,12 +22,38 @@
   "published_at": "2026-10-18",
   "last_seen_at": "2026-10-18",
   "images": [
-    "https://images.century21.pt/7cd96c3a-9582-4f13-a81d-4ef44228b5ce/f193da9d-bbc3-4ef0-ab1f-80ef4e93218b.png"
+    "https://images.century21.pt/7cd96c3a-9582-4f13-a81d-4ef44228b5ce/f193da9d-bbc3-4ef0-ab1f-80ef4e93218b.png",
+    "https://images.century21.pt/fd9112ac-0931-49a6-8444-bf44fb57bc0d/pcld.png",
+    "https://images.century21.pt/c7d1c4d2-cb06-41fc-b695-bb956150be80/pcld12.png",
+    "https://images.century21.pt/fe22fb0b-1163-4dd3-aef6-d8bf1b48725f/pcld10.png",
+    "https://images.century21.pt/bac3339f-6f30-4b19-bb8d-e5afe1e8219f/pcld3.png",
+    "https://images.century21.pt/e8ced94c-980d-49f5-8a10-2b1b4bc19580/pcld2.png",
+    "https://images.century21.pt/991aacd3-5264-413c-8a3e-4ce4195951a9/pcld11.png",
+    "https://images.century21.pt/553838db-51c6-4a26-92f2-444f4f35fed5/pcld8.png",
+    "https://images.century21.pt/e6fcfd55-4474-4f90-b1fe-23bb5c987f6c/pcld9.png",
+    "https://images.century21.pt/655ba88b-a644-4d8e-8c4f-e5242b2082ec/pcld4.png",
+    "https://images.century21.pt/29069b5b-6fe0-48e8-a211-5abef6d22717/pcld5.png",
+    "https://images.century21.pt/6ba93389-00ba-4378-a713-fd6b895b4802/pcld7.png",
+    "https://images.century21.pt/8fea943f-999a-4c26-b8bc-a59ed6ace295/pcld6.png",
+    "https://images.century21.pt/2e4cebdf-ee03-4f07-a394-f2aa40c43cb1/pcld13.png",
+    "https://images.century21.pt/ccc0303f-1cff-41c4-9809-01367730cab6/pcld14.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Casa de banho",
+      "Quarto",
+      "Sala de jantar",
+      "Cozinha",
+      "Sala de estar",
+      "Outro",
+      "Outra divisão",
+      "Despensa",
+      "Casa de banho privativa"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 38.76,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 87,
+  "ano_construcao": 1988,
+  "certificacao_energetica": "C"
 }

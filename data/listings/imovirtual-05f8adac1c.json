@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Gulpilhares e Valadares, Vila Nova de Gaia, Porto",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 80,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InMydWlxd2dvbjRqdjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-gA4xsac34fAFXthzIJWyWw_DleueI6XrMoa1ghkdX8/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InMydWlxd2dvbjRqdjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-gA4xsac34fAFXthzIJWyWw_DleueI6XrMoa1ghkdX8/image;s=2048x1536;q=80",
+  "description": "Espaçoso apartamento T1 com 80m2, todo virado a poente, vistas desafogadas, grande sala, boa cozinha com lavandaria, excelente quarto com roupeiro, vidros duplos, aquecimento central, estores elétricos, pré- instalação de som ambiente, pré- instalação de aspiração central, garagem box para 1 carro e arrumação, prédio de boa construção e condomínio com áreas ajardinadas.Localizado numa zona residencial, tranquila, beneficia de acessos fáceis às principais vias da cidade de Vila Nova de Gaia/ Porto e está servido por transportes públicos, incluindo autocarros, metro a 20 minutos a pé, serviços, comercio e supermercado à porta.",
+  "geo": {
+    "lat": 41.094814,
+    "lng": -8.634964
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,46 @@
   "published_at": "2026-10-17",
   "last_seen_at": "2026-10-17",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InMydWlxd2dvbjRqdjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-gA4xsac34fAFXthzIJWyWw_DleueI6XrMoa1ghkdX8/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InMydWlxd2dvbjRqdjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-gA4xsac34fAFXthzIJWyWw_DleueI6XrMoa1ghkdX8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRnd29tcmdnY2p2dTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.O9bUfOLqVo-FT6anKFIMnteYALufb3FgqXNnv02jtp4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJmYjR4YXhvZ2d2bDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.pg6CdPlwQkQJKatURVYw8zRGKPyeZzYr6HSCkbvqtoM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ims5amVzZHdqcW5ucy1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.nf1YN7pxNMgFjWKzlxYr-Smj1iOS1MDhU7pbrhyoD9Y/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijl3eXQ1aXY5Y2h4di1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.iBBlR5HqVWwCN1UQ7_vY8ifiNeBSsDmo49Szptc-OWM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndzNDVpYXN1M3dsMjMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.A2cQT3cAr6lqI-egg2szdIETy2xcbys5j0P_UHZNVNQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imhld2sybGtvdHNzOTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.98IpYFPitwlwmtuzXX8I8OotpIqvxv_jgFNBMdPbnQw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjE0MHA5d2pjejF3ODMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9VRRthMMkWYsUcsU7ayvQmrsuhJniNviWjrJL0T-HiU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndicTJqend5Ym8yZTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.EJUQRNto4QXbGFERQa1YFN_xJmbjH4FyPX0MMGSNPOY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZ2dG11bG12YnVmLUFQVCIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.KJ5DmsycGIGo0q3TedGFcsD9hhCgViTN1qOuGclQCB4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJyd2V3YjZ6cjF2OC1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.CSsL0Zzglt0zD4X9V8vnvB9NaIYgjZ5SHSFKpoQYm60/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IngxcXk0bHFscDN5azItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3a4MSpd6OQ7MkzfDBtmZq29xsg33iseSbuezFeL6dzk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ing5YzR2dzB3OXBzdy1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.0-v4jIUSr43UCav5uCtGfixfViIezU1zeHqdBAR54UQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRnMzJ1ZDAwY3lzeS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.CnwZBEtAZAPHjZfgROSuX2aIGkNp9pf7B41av7vrkSc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJqbW1uaXJvaXRiNTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.nLetMctonfSBmdVuE_3t3I6brPEqa3ZON_jhfm9hoUI/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Porta blindada",
+      "Estores",
+      "Vídeo-porteiro",
+      "Videovigilância"
+    ],
+    "Equipamentos": [
+      "Varanda",
+      "Garagem",
+      "Jardim",
+      "Elevador",
+      "Cozinha independente"
+    ],
+    "Aquecimento": [
+      "Aquecimento urbano"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 80,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 2008,
+  "certificacao_energetica": "C"
 }

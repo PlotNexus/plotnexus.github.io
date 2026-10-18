@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 96,
   "image": "https://images.century21.pt/0fbc0f30-4054-4da8-9f9f-7fd8d4275bb8/01.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.792235,
     "lng": -9.1926334
@@ -22,12 +22,46 @@
   "published_at": "2026-10-18",
   "last_seen_at": "2026-10-18",
   "images": [
-    "https://images.century21.pt/0fbc0f30-4054-4da8-9f9f-7fd8d4275bb8/01.jpg"
+    "https://images.century21.pt/0fbc0f30-4054-4da8-9f9f-7fd8d4275bb8/01.jpg",
+    "https://images.century21.pt/f45e50ea-f76a-42d8-b991-279b211c4e03/02.jpg",
+    "https://images.century21.pt/3ef25fba-aef9-461e-9ce8-0aacbb93fbea/03.jpg",
+    "https://images.century21.pt/bdda2b2a-f7c8-4a89-bd27-bf9edfa680de/04.jpg",
+    "https://images.century21.pt/10ead8e9-34ce-473b-b122-f9d6b6ec5bd6/05.jpg",
+    "https://images.century21.pt/f909ba60-7e61-4612-846e-637b82f2f05c/06.jpg",
+    "https://images.century21.pt/046ac368-81b8-4ae1-984d-c24baef42c11/07.jpg",
+    "https://images.century21.pt/e3ad28f0-80cc-49cf-9a18-32734bf4999b/08.jpg",
+    "https://images.century21.pt/1dcda2b8-90c3-45e6-bb64-d16931272ded/09.png",
+    "https://images.century21.pt/87d4b56b-85d6-4771-800e-0cca3e93cd3e/10.jpg",
+    "https://images.century21.pt/f0dea4fd-df1c-42a4-9a20-3280f26960b7/11.jpg",
+    "https://images.century21.pt/dadab788-d21a-4ea4-90b8-424283ead938/12.jpg",
+    "https://images.century21.pt/04ca75ee-d4fc-4a84-b9bc-2bb55d176965/13.jpg",
+    "https://images.century21.pt/05682e25-45d8-47a1-8ceb-8f144870e329/14.jpg",
+    "https://images.century21.pt/f6fe9c20-e8fd-4a10-a85f-b61b16f94620/15.jpg",
+    "https://images.century21.pt/77e963ed-494c-4ac0-9960-ceaec36a85e8/16.jpg",
+    "https://images.century21.pt/2c480f1b-65bb-42ae-b59a-6eb2b1022708/17.png",
+    "https://images.century21.pt/15cf47c1-73e6-4a29-98d6-9bc6bf6db7c0/18.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Acesso por estrada",
+      "Boa exposição solar",
+      "Boa localização",
+      "Localização central",
+      "Perto de uma autoestrada",
+      "Perto de um banco",
+      "Perto de uma bomba de gasolina",
+      "Perto de comodidades",
+      "Perto de espaços verdes",
+      "Perto de uma paragem de autocarro",
+      "Perto de uma farmácia",
+      "Perto de um infantário",
+      "Perto de restaurantes",
+      "Perto de uma zona comercial"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 96,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 123,
+  "ano_construcao": 2005,
+  "certificacao_energetica": "C"
 }

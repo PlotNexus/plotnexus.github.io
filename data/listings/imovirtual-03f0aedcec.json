@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Gemeses, Esposende, Braga",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 115,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFpcG5ycHpwMnJ1eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Klbh4kY3jzz7eDGnZ8Q7wNyoyDrfUxaELpoQIv02HHc/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFpcG5ycHpwMnJ1eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Klbh4kY3jzz7eDGnZ8Q7wNyoyDrfUxaELpoQIv02HHc/image;s=2048x1536;q=80",
+  "description": "Um lugar de sonho que lhe acrescentará anos de vida.\n\nEm pleno rio Cávado, este andar/moradia realiza o sonho de viver diariamente com a sensação de estar de férias.\n\nCom uma excelente localização: a 4 minutos da autoestrada e a 40 minutos do aeroporto. \n\nRecentemente renovado por arquiteto premiado o andar/moradia, com entrada independente e sem vizinhos nos pisos inferior e superior, situa-se no mais completo condomínio do norte de Portugal.\n\nPiscina para adultos e piscina para crianças; Marina; Campo de Golfe; 2 campos de ténis; portaria e segurança 24h.\n\nCozinha nova com equipamentos Bosch;\n\n3 casas de banho completas;\n\n2 varandas em plena Marina e rio Cávado;\n\nEstores elétricos;\n\nAr-condicionado;\n\nGaragem fechada e lugares de estacionamento sempre disponíveis à porta de casa.\n\nCondomínio mensal: €120\n\nPreço fixo.",
+  "geo": {
+    "lat": 41.518867,
+    "lng": -8.750023
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,19 @@
   "published_at": "2026-10-17",
   "last_seen_at": "2026-10-17",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFpcG5ycHpwMnJ1eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Klbh4kY3jzz7eDGnZ8Q7wNyoyDrfUxaELpoQIv02HHc/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFpcG5ycHpwMnJ1eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Klbh4kY3jzz7eDGnZ8Q7wNyoyDrfUxaELpoQIv02HHc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFvcGUxdmt2eXR3ZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.KksGP1xDyU-gbFPqdjrn0FbXr5Q9W6wCQft0nyDL2Xo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InB6eDhldTlvaWF5NjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lLQNXXV1dVsb6velc8uZ1o84FX2L_g5C9IX3kyUSCBk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRscnUydGc0anhmYzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.L8_LLZHBKaSikQXN5StZ47OmhFpbVdlbBdBE2PtybU0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVkaGw1OGlzcTV3eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zVymSx6a4Hbzsrce8pUoDUo63yFVgMOY9V2-HuslyGM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InQ3dHkwMnk2b21seDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.5YQ4EnsF00IWP_Fq7dp591V5W0JXM0mGg1D-_MHruD4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1rMHMyeGwwejJpZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0Gwnwsam_a5xhdYclq9spJINKGTtVx0zELXpw1RJsZQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjU2ZWxlbDJ4czRjMjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Y7BOfwdnyZ33ToOYNv8Fc6NQqU5c6yaTYzoqGtceiyU/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 115,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }
