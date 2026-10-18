@@ -3,8 +3,9 @@ setlocal
 
 REM ============================================================
 REM  Corre o scraper completo (CASA SAPO, Imovirtual, KW Portugal,
-REM  Century 21, ERA, RE/MAX, Idealista) com enriquecimento de
-REM  detalhe incluido, e publica o resultado.
+REM  Century 21, ERA, RE/MAX, Idealista, ComprarCasa, Sotheby's,
+REM  Zome) com enriquecimento de detalhe incluido, e publica o
+REM  resultado.
 REM  NAO inclui o e-Leiloes - para esse usa o run-eleiloes.bat.
 REM  E o mesmo trabalho que o scrape agendado no GitHub Actions faz
 REM  em 4 execucoes paralelas (ver .github/workflows/scrape.yml),
@@ -69,7 +70,8 @@ if not exist node_modules (
 
 echo.
 echo A correr o scraper completo ^(CASA SAPO, Imovirtual, KW Portugal, Century 21,
-echo ERA, RE/MAX, Idealista^) com enriquecimento de detalhe incluido.
+echo ERA, RE/MAX, Idealista, ComprarCasa, Sotheby's, Zome^) com enriquecimento de
+echo detalhe incluido.
 echo Isto demora bastante ^(pode ir a varias horas na primeira vez^) - deixa esta
 echo janela aberta a correr, nao precisas de fazer nada enquanto corre.
 echo.

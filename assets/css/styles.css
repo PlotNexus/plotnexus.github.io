@@ -316,6 +316,9 @@ h1, h2, h3 {
 .chip[data-source="KW Portugal"][aria-pressed="true"] { background: #0f7d72; border-color: #0f7d72; }
 .chip[data-source="ERA"][aria-pressed="true"] { background: #2c4a8c; border-color: #2c4a8c; }
 .chip[data-source="Idealista"][aria-pressed="true"] { background: #ff5619; border-color: #ff5619; }
+.chip[data-source="ComprarCasa"][aria-pressed="true"] { background: #5a7a1a; border-color: #5a7a1a; }
+.chip[data-source="Sotheby's International Realty"][aria-pressed="true"] { background: #6d2332; border-color: #6d2332; }
+.chip[data-source="Zome"][aria-pressed="true"] { background: #d6007e; border-color: #d6007e; }
 
 .toolbar-right {
   display: flex;
@@ -618,6 +621,9 @@ h1, h2, h3 {
 .source-badge[data-source="KW Portugal"] { background: #e3f2f0; color: #0f7d72; }
 .source-badge[data-source="ERA"] { background: #e8ecf7; color: #2c4a8c; }
 .source-badge[data-source="Idealista"] { background: #ffe9dd; color: #ff5619; }
+.source-badge[data-source="ComprarCasa"] { background: #eef3e0; color: #5a7a1a; }
+.source-badge[data-source="Sotheby's International Realty"] { background: #f5e6e9; color: #6d2332; }
+.source-badge[data-source="Zome"] { background: #fce4f1; color: #d6007e; }
 
 .card-link {
   font-size: 0.82rem;
