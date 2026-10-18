@@ -132,6 +132,18 @@ link directo para o anúncio original:
     trespasse) no próprio URL — o trespasse (venda de um espaço comercial
     arrendado, não do imóvel em si) é ignorado por não ser nem compra nem
     arrendamento de um imóvel.
+  - **Sotheby's International Realty (Portugal)** — agência de luxo. À
+    semelhança da ERA, a pesquisa não é uma API pública documentada: o
+    próprio URL "página seguinte" do site é enganador (o número no
+    caminho não é a página — pedir 1, 5, 9... devolve sempre o mesmo
+    resultado ou nada), e a paginação real acontece do lado do cliente,
+    que envia os filtros visíveis do formulário via POST para
+    `/conteudos/imoveis/loader.aspx` — encontrado ao vasculhar o bundle
+    JavaScript do módulo à procura da própria chamada `ajax()`, a mesma
+    técnica usada para encontrar o endpoint da ERA. Só a primeira foto de
+    cada anúncio vem no HTML estático da página de detalhe (confirmado: a
+    galeria completa carrega o resto via JavaScript) — por isso esta
+    fonte guarda só uma foto por anúncio, ao contrário das restantes.
   - **e-Leilões** (`sources/eleiloes.js`) — a única fonte que **não corre
     automaticamente**: é a plataforma oficial de leilões judiciais (gerida
     pela Ordem dos Solicitadores e dos Agentes de Execução), e está
@@ -292,6 +304,7 @@ link directo para o anúncio original:
 │       ├── era.js
 │       ├── idealista.js
 │       ├── comprarCasa.js
+│       ├── sothebys.js
 │       └── eleiloes.js           # só corrido manualmente, ver "Correr localmente"
 ├── .github/workflows/scrape.yml  # agendamento do scraper
 ├── run-full-scrape.bat           # atalho Windows para index.js (tudo excepto e-Leilões)
@@ -478,14 +491,6 @@ a lista via JavaScript depois de abrir no browser:
 - **Citius** (Ministério da Justiça) — a própria página avisa que precisa
   de JavaScript para funcionar; também pode ser só um sistema de consulta
   de processos, sem lista de imóveis navegável sequer.
-- **Sotheby's International Realty (Portugal)** — caso especial: a página
-  de pesquisa tem preços reais no HTML para os primeiros ~12 resultados,
-  mas o parâmetro de página não pagina de facto (página 1 e página 2
-  devolvem exactamente os mesmos imóveis) — a paginação real acontece via
-  `POST /conteudos/imoveis/loader.aspx` (encontrado no bundle JS,
-  `all.min.js`), ainda não replicado. Mais parecido com o caso da ERA
-  (reverse-engineering de um endpoint não documentado) do que com os
-  casos de cima.
 
 Ultrapassar o primeiro grupo (anti-bot: SUPERCASA, OLX, CGD) exigiria pelo
 menos automação de browser completo (Playwright/Puppeteer) — e mesmo assim

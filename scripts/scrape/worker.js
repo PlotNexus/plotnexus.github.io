@@ -49,6 +49,12 @@ import {
   DISTRICTS_FULL as COMPRARCASA_DISTRICTS,
   DETAIL_FETCH_DELAY_MS as COMPRARCASA_DETAIL_DELAY_MS,
 } from "./sources/comprarCasa.js";
+import {
+  scrapeSothebys,
+  fetchListingDetail as fetchSothebysDetail,
+  DISTRICTS_FULL as SOTHEBYS_DISTRICTS,
+  DETAIL_FETCH_DELAY_MS as SOTHEBYS_DETAIL_DELAY_MS,
+} from "./sources/sothebys.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, pickEnrichmentCandidates, capImages } from "./lib/merge.js";
 
@@ -148,6 +154,13 @@ const SOURCES = [
     scrape: scrapeComprarCasa,
     fetchDetail: fetchComprarCasaDetail,
     detailDelayMs: COMPRARCASA_DETAIL_DELAY_MS,
+  },
+  {
+    name: "sothebys",
+    districts: SOTHEBYS_DISTRICTS,
+    scrape: scrapeSothebys,
+    fetchDetail: fetchSothebysDetail,
+    detailDelayMs: SOTHEBYS_DETAIL_DELAY_MS,
   },
 ];
 
