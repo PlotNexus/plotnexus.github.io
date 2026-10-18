@@ -24,11 +24,20 @@
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36";
 
+// Testados por página de pesquisa/listagem real sempre que uma foi
+// encontrada nos links da própria homepage (nunca adivinhada) — uma
+// homepage pode passar sem desafio enquanto a página de resultados, onde
+// o anti-bot costuma realmente atuar, bloqueia. Também vale o inverso:
+// uma homepage pequena/vazia (ex.: Casa Yes) não significa que o site
+// seja todo assim — confirmado ao testar uma sub-página de listagem real
+// em vez de assumir pelo HTML da raiz.
 const TARGETS = [
   {
     name: "SUPERCASA",
-    url: "https://www.supercasa.com.pt/",
-    note: "Motivo da exclusão: desafio Cloudflare com JavaScript obrigatório.",
+    url: "https://supercasa.pt/",
+    note:
+      "CORRIGIDO: o domínio certo é supercasa.pt, não supercasa.com.pt (esse é uma loja WooCommerce sem relação, erro meu numa verificação anterior). " +
+      "Motivo da exclusão: desafio Cloudflare 'managed' com JavaScript obrigatório, confirmado mesmo a partir de datacenter — testa também aqui para confirmar da tua ligação.",
   },
   {
     name: "OLX Portugal",
@@ -38,72 +47,75 @@ const TARGETS = [
   {
     name: "CGD / Caixa Imobiliário",
     url: "https://www.caixaimobiliario.pt/",
-    note: "Motivo da exclusão: 403 com página de erro da Akamai, mesmo na página inicial.",
+    note: "Motivo da exclusão: página de 1KB sem conteúdo real — parece ser só uma casca que carrega tudo via JavaScript, não um bloqueio.",
   },
   {
     name: "Zome",
-    url: "https://www.zome.pt/pt",
-    note: "Candidato novo. robots.txt: User-agent * -> Allow /.",
+    url: "https://www.zome.pt/pt/pesquisar/comprar-casa/apartamento/t2/l1-lisboa/l2-lisboa",
+    note: "Página de pesquisa real (extraída dos links da homepage). robots.txt: User-agent * -> Allow /. Em teste anterior, chegou à página certa mas sem preços visíveis no HTML estático — a confirmar se precisa de JavaScript para a lista em si.",
   },
   {
     name: "Imovendo",
     url: "https://www.imovendo.pt/",
-    note: "Candidato novo. Agência de comissão fixa, ~90 imóveis próprios.",
+    note: "A própria homepage já lista imóveis com preço diretamente no HTML. Agência de comissão fixa, ~90 imóveis próprios — já cruzados com CASA SAPO e Casa Yes, por isso provavelmente redundante.",
   },
   {
     name: "Listoo",
-    url: "https://listoo.pt/",
-    note: "Candidato novo. robots.txt totalmente aberto.",
+    url: "https://app.listoo.pt/properties",
+    note: "Página de pesquisa real (subdomínio app.listoo.pt, robots.txt aberto). Em teste anterior tinha dados __NEXT_DATA__ mas só com textos de interface, sem a lista de imóveis em si — parece precisar de JavaScript para os resultados.",
   },
   {
     name: "Predimed",
     url: "https://predimed.pt/",
-    note: "Já excluído no README por ser redundante com a CASA SAPO, não por bloqueio — a reconfirmar.",
+    note: "A própria homepage já lista imóveis com preço diretamente no HTML. Já excluído no README por ser redundante com a CASA SAPO, não por bloqueio.",
   },
   {
     name: "ComprarCasa",
-    url: "https://www.comprarcasa.pt/",
-    note: "Candidato novo. Rede de franchising APEMIP.",
+    url: "https://www.comprarcasa.pt/imoveis/1/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/0,0,0,1",
+    note: "Página de pesquisa real (extraída dos links da homepage) — confirmado com preços reais no HTML estático.",
   },
   {
     name: "Casa Yes",
-    url: "https://casayes.pt/",
-    note: "Candidato novo. robots.txt proíbe especificamente /api/, /perfil/ e parâmetros de pesquisa/filtro (?search=, ?f=).",
+    url: "https://casayes.pt/pt/agencia/imovendo",
+    note:
+      "A homepage (casayes.pt/) é só uma casca de 7KB sem conteúdo — mas esta sub-página (perfil de uma agência) tem preços reais no HTML estático, por isso o site não está todo bloqueado. " +
+      "A página de pesquisa geral (/pt/comprar) não mostrou preços no teste anterior — pode precisar de JavaScript para paginar. " +
+      "robots.txt proíbe especificamente /api/, /perfil/ e parâmetros de pesquisa/filtro (?search=, ?f=).",
   },
   {
     name: "Engel & Völkers",
     url: "https://www.engelvoelkers.com/pt/pt",
-    note: "Candidato novo (agência de luxo). robots.txt proíbe especificamente os caminhos de pesquisa (*/search/*, */propertysearch?*) — paginas de imóvel isoladas podem não ser afetadas, mas pesquisar/filtrar está fora.",
+    note: "robots.txt proíbe especificamente os caminhos de pesquisa (*/search/*, */propertysearch?*) — isto é uma questão de política, como o CustoJusto/iad, não técnica. Não vale a pena testar uma página de pesquisa aqui.",
   },
   {
     name: "Sotheby's International Realty (Portugal)",
-    url: "https://www.sothebysrealtypt.com/",
-    note: "Candidato novo (agência de luxo). robots.txt só restringe /assets/, /api/ e recursos internos.",
+    url: "https://www.sothebysrealtypt.com/imoveis/-/apartamentos+moradias?z=499",
+    note: "Página de pesquisa real (extraída dos links da homepage) — confirmado com preços reais no HTML estático. robots.txt só restringe /assets/, /api/ e recursos internos.",
   },
   {
     name: "Christie's International Real Estate (Luximos, Algarve/Porto)",
-    url: "https://www.luximos.pt/",
-    note: "Candidato novo (afiliado regional, não é site nacional). robots.txt só restringe /siges.",
+    url: "https://www.luximos.pt/pt/comprar",
+    note: "Confirmado: este site devolve o mesmo conteúdo para qualquer caminho (até um inexistente) — é uma SPA onde o routing real acontece em JavaScript no browser, não dá para obter os imóveis com um pedido HTTP simples a nenhum caminho.",
   },
   {
     name: "Savills",
-    url: "https://www.savills.pt/",
-    note: "Candidato novo (agência de luxo/comercial). robots.txt só restringe /contact/, /forms/, /_inc/.",
+    url: "https://www.savills.pt/encontre-um-imovel/",
+    note: "Página de pesquisa real (extraída dos links da homepage), mas sem preços nem dados de imóveis visíveis no HTML estático em teste anterior — parece carregar tudo via JavaScript/mapa interativo.",
   },
   {
     name: "Quintela e Penalva / Knight Frank",
-    url: "https://www.quintelaepenalva.pt/",
-    note: "Candidato novo (consultora de luxo). robots.txt só restringe páginas de impressão/smartlink.",
+    url: "https://www.quintelaepenalva.pt/imoveis",
+    note: "Página de pesquisa real (extraída dos links da homepage, título confirma 'Listagem de imóveis'), mas sem preços visíveis no HTML estático em teste anterior — parece carregar a lista via JavaScript.",
   },
   {
     name: "Santander (imóveis recuperados)",
-    url: "https://imoveis.santander.pt/",
-    note: "Candidato novo. robots.txt totalmente aberto.",
+    url: "https://imoveis.santander.pt/imoveis",
+    note: "Página de pesquisa real (extraída dos links da homepage, título confirma 'Imóveis em promoção'), mas sem preços de imóveis visíveis no HTML estático em teste anterior — só textos de interface ('Ordenar: Preço crescente').",
   },
   {
     name: "Citius (Ministério da Justiça)",
     url: "https://www.citius.mj.pt/portal/default.aspx",
-    note: "Candidato incerto — pode ser só um sistema de consulta de processos/anúncios, sem lista de imóveis navegável. robots.txt permite o acesso geral.",
+    note: "Confirmado: a própria página avisa 'Este site requer o javascript ativado para funcionar corretamente' — mesma categoria da CGD, não dá para obter conteúdo com um pedido HTTP simples. Também pode ser só um sistema de consulta de processos, sem lista de imóveis navegável.",
   },
 ];
 
@@ -123,6 +135,19 @@ function detectBlock(body) {
     if (patterns.some((p) => p.test(body))) return platform;
   }
   return null;
+}
+
+// A 200 response with no anti-bot marker isn't automatically useful: some
+// sites (CGD, Listoo, Luximos, Citius — confirmed by hand this session)
+// serve a mostly-empty shell and fetch the actual listings client-side via
+// JavaScript after load, which a plain HTTP request never runs. A price
+// tag ("350 000 €" or "€ 350.000") in the static HTML is a decent proxy
+// for "this page's real content is actually in the response", since every
+// listing page on every site tested so far shows a price somewhere.
+const PRICE_PATTERN = /[0-9]{2,3}[ .]?[0-9]{3}\s?€|€\s?[0-9]{2,3}[ .]?[0-9]{3}/;
+
+function countPriceMatches(body) {
+  return (body.match(new RegExp(PRICE_PATTERN, "g")) || []).length;
 }
 
 async function testTarget(target) {
@@ -159,7 +184,16 @@ async function testTarget(target) {
   } else if (res.status >= 400) {
     console.log(`RESULTADO: falhou com estado HTTP ${res.status} (sem marcador de bloqueio conhecido no corpo).`);
   } else if (res.status >= 200 && res.status < 300) {
-    console.log("RESULTADO: respondeu 200 sem marcador de bloqueio conhecido — parece ter passado!");
+    const priceMatches = countPriceMatches(body);
+    if (priceMatches > 0) {
+      console.log(`RESULTADO: respondeu 200 com ${priceMatches} preços visíveis no HTML — parece ter passado e tem conteúdo real!`);
+    } else {
+      console.log(
+        "RESULTADO: respondeu 200 sem marcador de bloqueio conhecido, mas sem nenhum preço visível no HTML — " +
+          "pode ser uma página que só carrega os imóveis via JavaScript depois de abrir no browser (não é bloqueio, " +
+          "é arquitetura do site; confirma visualmente no browser antes de assumir que passou)."
+      );
+    }
     console.log("--- primeiros 500 caracteres do corpo (para confirmar que é a página real) ---");
     console.log(
       body
