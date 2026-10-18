@@ -115,6 +115,23 @@ link directo para o anúncio original:
     que deixam de responder sem a assinatura) — muito menos tempo do que o
     intervalo entre reforços de detalhe — por isso esta fonte não guarda
     fotografias; o botão para o anúncio original continua a mostrá-las.
+  - **ComprarCasa** — rede de franquia nacional (APEMIP), sem filtro de
+    distrito próprio: a página de resultados devolve sempre o mesmo
+    conjunto nacional não filtrado, qualquer que seja o valor dos vários
+    parâmetros de localização no URL (confirmado directamente). Por isso
+    a divisão em "blocos" para os 4 jobs paralelos é por intervalo de
+    páginas (à semelhança da ERA/Century 21), não por localização. A
+    paginação em si tem uma armadilha: o número a seguir a `/imoveis/` no
+    URL parece ser a página (e é o que aparece nos links "página seguinte"
+    do site), mas na realidade é só uma parte fixa do URL — pedir essa
+    parte com 1, 5, 9, ... devolve sempre o mesmo resultado ou nada. A
+    página real está no parâmetro de query `p` (baseado em zero),
+    descoberto por tentativa directa depois de notar que mudar aquele
+    número não alterava nenhum dos ids devolvidos. Cada cartão de
+    resultado já inclui o tipo de operação (compra/arrendamento/
+    trespasse) no próprio URL — o trespasse (venda de um espaço comercial
+    arrendado, não do imóvel em si) é ignorado por não ser nem compra nem
+    arrendamento de um imóvel.
   - **e-Leilões** (`sources/eleiloes.js`) — a única fonte que **não corre
     automaticamente**: é a plataforma oficial de leilões judiciais (gerida
     pela Ordem dos Solicitadores e dos Agentes de Execução), e está
@@ -274,6 +291,7 @@ link directo para o anúncio original:
 │       ├── kwportugal.js
 │       ├── era.js
 │       ├── idealista.js
+│       ├── comprarCasa.js
 │       └── eleiloes.js           # só corrido manualmente, ver "Correr localmente"
 ├── .github/workflows/scrape.yml  # agendamento do scraper
 ├── run-full-scrape.bat           # atalho Windows para index.js (tudo excepto e-Leilões)
@@ -375,11 +393,18 @@ fonte. Princípios seguidos desde já:
 Algumas fontes generalistas populares usam proteção anti-bot que o método
 actual (pedidos HTTP simples, sem browser) não consegue contornar:
 
-- **SUPERCASA** — desafio Cloudflare com JavaScript obrigatório.
+- **SUPERCASA** — desafio Cloudflare "managed" com JavaScript obrigatório,
+  confirmado directamente em `supercasa.pt` (o domínio real do portal —
+  `supercasa.com.pt`, testado antes por engano numa verificação mal feita,
+  é uma loja WooCommerce qualquer sem nenhuma relação com o portal
+  imobiliário, e por isso respondia sem bloqueio nenhum).
 - **CustoJusto** — proíbe scraping explicitamente no próprio `robots.txt`.
 - **iad Portugal** — o próprio `robots.txt` desautoriza explicitamente o
   directório de listagens (`Disallow: /liste/annonces*`), o mesmo motivo de
   princípio que exclui o CustoJusto.
+- **Engel & Völkers** — o próprio `robots.txt` desautoriza explicitamente os
+  caminhos de pesquisa (`*/search/*`, `*/propertysearch?*`), o mesmo motivo
+  de princípio que exclui o CustoJusto/iad.
 - **OLX Portugal** (categoria imóveis) — o `robots.txt` permite páginas
   gerais, e uma sonda descartável a correr a partir de um runner real do
   GitHub Actions (`node --check` num pedido HTTP simples, sem browser)
@@ -411,16 +436,69 @@ actual (pedidos HTTP simples, sem browser) não consegue contornar:
   mais tarde.
 - **Predimed** — não é uma fonte nova por si: é uma agência cujos imóveis já
   aparecem via CASA SAPO, por isso ficaria redundante com a deduplicação
-  já existente.
+  já existente. (A própria homepage já lista imóveis com preço directamente
+  no HTML, ao contrário da maioria dos candidatos abaixo — não é um
+  problema técnico, é só redundância.)
+- **Imovendo** — pelo mesmo motivo da Predimed: agência cujos imóveis já
+  aparecem via CASA SAPO e Casa Yes (confirmado directamente nos links da
+  própria homepage, que já lista imóveis com preço no HTML).
 - **Casafari** (API de dados imobiliários, sediada em Lisboa) — sem nível
   gratuito, só mediante contacto comercial.
+- **vendas.portaldasfinancas.gov.pt** (venda electrónica de bens
+  penhorados pela Autoridade Tributária) — os anúncios reais ficam numa
+  área reservada com login obrigatório (registo no Portal das Finanças
+  para poder licitar), não numa página pública. Não é uma questão de
+  bloqueio de rede, é preciso conta.
 
-Ultrapassar isto exigiria pelo menos automação de browser completo
-(Playwright/Puppeteer) — um investimento de engenharia maior que fica para
-mais tarde. O Idealista tinha exactamente este problema (DataDome, mais uma
-camada de bloqueio por volume de pedidos que nem automação de browser
+Um segundo grupo de candidatos, testados a pedido do utilizador, respondem
+200 sem nenhum bloqueio anti-bot mas sem dados de imóveis visíveis no HTML
+estático — a página inicial (ou de pesquisa) é só uma "casca" que carrega
+a lista via JavaScript depois de abrir no browser:
+
+- **Zome, Savills, Quintela e Penalva / Knight Frank, Santander (imóveis
+  recuperados)** — chegam à página de pesquisa certa (título confirmado),
+  mas sem nenhum preço visível no HTML devolvido.
+- **Listoo** (`app.listoo.pt/properties`) — Next.js com dados reais no
+  `__NEXT_DATA__`, mas só textos de interface/tradução; a lista de imóveis
+  em si é pedida à parte, do lado do cliente.
+- **Casa Yes** — caso misto: a homepage (`casayes.pt/`) é uma casca vazia
+  de 7KB, mas uma sub-página de perfil de agência
+  (`/pt/agencia/<nome>`) tem preços reais no HTML estático — por isso o
+  site não está todo bloqueado, só a página de pesquisa geral
+  (`/pt/comprar`), que não devolveu nenhum preço no teste feito. É Next.js
+  (`pageProps` só tem configuração de filtros, sem lista de imóveis) — a
+  pesquisa nacional real precisaria do endpoint que a app chama do lado do
+  cliente, ainda não identificado.
+- **Christie's International Real Estate** (via o afiliado regional
+  Luximos, Algarve/Porto/Norte — não há site nacional) — confirmado: devolve
+  exactamente o mesmo conteúdo para qualquer caminho, incluindo um
+  inexistente — é uma SPA cujo routing real acontece em JavaScript no
+  browser, não há nenhum caminho que traga os imóveis num pedido HTTP
+  simples.
+- **Citius** (Ministério da Justiça) — a própria página avisa que precisa
+  de JavaScript para funcionar; também pode ser só um sistema de consulta
+  de processos, sem lista de imóveis navegável sequer.
+- **Sotheby's International Realty (Portugal)** — caso especial: a página
+  de pesquisa tem preços reais no HTML para os primeiros ~12 resultados,
+  mas o parâmetro de página não pagina de facto (página 1 e página 2
+  devolvem exactamente os mesmos imóveis) — a paginação real acontece via
+  `POST /conteudos/imoveis/loader.aspx` (encontrado no bundle JS,
+  `all.min.js`), ainda não replicado. Mais parecido com o caso da ERA
+  (reverse-engineering de um endpoint não documentado) do que com os
+  casos de cima.
+
+Ultrapassar o primeiro grupo (anti-bot: SUPERCASA, OLX, CGD) exigiria pelo
+menos automação de browser completo (Playwright/Puppeteer) — e mesmo assim
+sem garantias: o Idealista tinha exactamente este problema (DataDome, mais
+uma camada de bloqueio por volume de pedidos que nem automação de browser
 resolvia sozinha) até ser resolvido através de uma API paga de terceiros —
-ver a fonte **Idealista** mais acima.
+ver a fonte **Idealista** mais acima. O segundo grupo (cascas de
+JavaScript, sem anti-bot nenhum) é mais simples em teoria — Playwright
+resolveria o problema de renderização directamente, sem bloqueio a
+contornar — mas é o mesmo investimento de engenharia maior, por fonte, que
+ainda não foi feito; a alternativa mais barata é encontrar o endpoint JSON
+que cada site já usa internamente (como a ERA, e como se encontrou para a
+Sotheby's acima), quando existir um.
 
 ## Roadmap / próximas ideias
 

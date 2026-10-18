@@ -36,6 +36,11 @@ import {
   fetchListingDetail as fetchIdealistaDetail,
   DETAIL_FETCH_DELAY_MS as IDEALISTA_DETAIL_DELAY_MS,
 } from "./sources/idealista.js";
+import {
+  scrapeComprarCasa,
+  fetchListingDetail as fetchComprarCasaDetail,
+  DETAIL_FETCH_DELAY_MS as COMPRARCASA_DETAIL_DELAY_MS,
+} from "./sources/comprarCasa.js";
 import { sleepJittered } from "./lib/http.js";
 import {
   loadJson,
@@ -112,6 +117,7 @@ const sources = [
     // sources' default budget.
     maxDetail: 5,
   },
+  { name: "comprarcasa", run: scrapeComprarCasa, fetchDetail: fetchComprarCasaDetail, detailDelayMs: COMPRARCASA_DETAIL_DELAY_MS },
 ];
 
 async function enrichListings(listings, fetchDetail, cache, delayMs, maxDetail = MAX_DETAIL_FETCHES_PER_RUN) {

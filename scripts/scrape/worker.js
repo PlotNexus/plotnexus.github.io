@@ -43,6 +43,12 @@ import {
   DISTRICTS_FULL as IDEALISTA_DISTRICTS,
   DETAIL_FETCH_DELAY_MS as IDEALISTA_DETAIL_DELAY_MS,
 } from "./sources/idealista.js";
+import {
+  scrapeComprarCasa,
+  fetchListingDetail as fetchComprarCasaDetail,
+  DISTRICTS_FULL as COMPRARCASA_DISTRICTS,
+  DETAIL_FETCH_DELAY_MS as COMPRARCASA_DETAIL_DELAY_MS,
+} from "./sources/comprarCasa.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, pickEnrichmentCandidates, capImages } from "./lib/merge.js";
 
@@ -135,6 +141,13 @@ const SOURCES = [
     // fraction of the other sources' default budget would burn through a
     // month's quota in days.
     maxDetail: 5,
+  },
+  {
+    name: "comprarcasa",
+    districts: COMPRARCASA_DISTRICTS,
+    scrape: scrapeComprarCasa,
+    fetchDetail: fetchComprarCasaDetail,
+    detailDelayMs: COMPRARCASA_DETAIL_DELAY_MS,
   },
 ];
 
