@@ -46,6 +46,11 @@ import {
   fetchListingDetail as fetchSothebysDetail,
   DETAIL_FETCH_DELAY_MS as SOTHEBYS_DETAIL_DELAY_MS,
 } from "./sources/sothebys.js";
+import {
+  scrapeZome,
+  fetchListingDetail as fetchZomeDetail,
+  DETAIL_FETCH_DELAY_MS as ZOME_DETAIL_DELAY_MS,
+} from "./sources/zome.js";
 import { sleepJittered } from "./lib/http.js";
 import {
   loadJson,
@@ -124,6 +129,7 @@ const sources = [
   },
   { name: "comprarcasa", run: scrapeComprarCasa, fetchDetail: fetchComprarCasaDetail, detailDelayMs: COMPRARCASA_DETAIL_DELAY_MS },
   { name: "sothebys", run: scrapeSothebys, fetchDetail: fetchSothebysDetail, detailDelayMs: SOTHEBYS_DETAIL_DELAY_MS },
+  { name: "zome", run: scrapeZome, fetchDetail: fetchZomeDetail, detailDelayMs: ZOME_DETAIL_DELAY_MS },
 ];
 
 async function enrichListings(listings, fetchDetail, cache, delayMs, maxDetail = MAX_DETAIL_FETCHES_PER_RUN) {

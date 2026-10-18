@@ -144,6 +144,23 @@ link directo para o anúncio original:
     cada anúncio vem no HTML estático da página de detalhe (confirmado: a
     galeria completa carrega o resto via JavaScript) — por isso esta
     fonte guarda só uma foto por anúncio, ao contrário das restantes.
+  - **Zome** — franquia nacional (Nuxt.js). O site público nunca mostra os
+    imóveis diretamente — nem no HTML, nem no estado interno da própria
+    aplicação (`__NUXT__`) — tudo é pedido à parte, do lado do cliente, a
+    um backend Supabase (PostgREST), encontrado ao vasculhar os ficheiros
+    JavaScript do site à procura das chamadas típicas de um cliente
+    Supabase (`.from("tabela").select(...)`). A credencial pública usada
+    é a mesma que o próprio site já expõe a qualquer visitante (a mesma
+    categoria da ERA/Sotheby's acima) — só faltava confirmar o nome exato
+    da tabela de imóveis, o que a própria API revelou sozinha: um pedido a
+    um nome plausível mas errado (`tab_listing`) devolveu um erro 404 que
+    sugeria o nome certo (`tab_listing_list`). O campo `tipoimovel`
+    parece ser uma coluna JSON mas é na realidade texto simples a guardar
+    JSON como string — o filtro `->>` do PostgREST falha silenciosamente
+    contra isto (0 resultados, sem erro), por isso o tipo residencial
+    (Apartamento/Moradia) é filtrado do lado do cliente, como a ERA já
+    faz. Sem filtro de distrito próprio, à semelhança da ComprarCasa/
+    Sotheby's — sharding por blocos de página.
   - **e-Leilões** (`sources/eleiloes.js`) — a única fonte que **não corre
     automaticamente**: é a plataforma oficial de leilões judiciais (gerida
     pela Ordem dos Solicitadores e dos Agentes de Execução), e está
@@ -305,6 +322,7 @@ link directo para o anúncio original:
 │       ├── idealista.js
 │       ├── comprarCasa.js
 │       ├── sothebys.js
+│       ├── zome.js
 │       └── eleiloes.js           # só corrido manualmente, ver "Correr localmente"
 ├── .github/workflows/scrape.yml  # agendamento do scraper
 ├── run-full-scrape.bat           # atalho Windows para index.js (tudo excepto e-Leilões)
@@ -468,7 +486,7 @@ Um segundo grupo de candidatos, testados a pedido do utilizador, respondem
 estático — a página inicial (ou de pesquisa) é só uma "casca" que carrega
 a lista via JavaScript depois de abrir no browser:
 
-- **Zome, Savills, Quintela e Penalva / Knight Frank, Santander (imóveis
+- **Savills, Quintela e Penalva / Knight Frank, Santander (imóveis
   recuperados)** — chegam à página de pesquisa certa (título confirmado),
   mas sem nenhum preço visível no HTML devolvido.
 - **Listoo** (`app.listoo.pt/properties`) — Next.js com dados reais no

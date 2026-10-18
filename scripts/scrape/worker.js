@@ -55,6 +55,12 @@ import {
   DISTRICTS_FULL as SOTHEBYS_DISTRICTS,
   DETAIL_FETCH_DELAY_MS as SOTHEBYS_DETAIL_DELAY_MS,
 } from "./sources/sothebys.js";
+import {
+  scrapeZome,
+  fetchListingDetail as fetchZomeDetail,
+  DISTRICTS_FULL as ZOME_DISTRICTS,
+  DETAIL_FETCH_DELAY_MS as ZOME_DETAIL_DELAY_MS,
+} from "./sources/zome.js";
 import { sleepJittered } from "./lib/http.js";
 import { loadJson, pickEnrichmentCandidates, capImages } from "./lib/merge.js";
 
@@ -161,6 +167,13 @@ const SOURCES = [
     scrape: scrapeSothebys,
     fetchDetail: fetchSothebysDetail,
     detailDelayMs: SOTHEBYS_DETAIL_DELAY_MS,
+  },
+  {
+    name: "zome",
+    districts: ZOME_DISTRICTS,
+    scrape: scrapeZome,
+    fetchDetail: fetchZomeDetail,
+    detailDelayMs: ZOME_DETAIL_DELAY_MS,
   },
 ];
 
