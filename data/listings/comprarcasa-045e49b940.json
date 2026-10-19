@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 75,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110577/43108a25-1895-4a29-a930-9709b9ebdafa.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T5 de rés‑do‑chão e 1.º andar, com áreas amplas e potencial para renovação, ideal para quem procura espaço e versatilidade no centro de Mourão.\n\nEntre a Rua de São Sebastião e a memória das casas tradicionais alentejanas, esta moradia revela‑se como um projeto cheio de possibilidades. No rés‑do‑chão, a antiga sala transformada num espaço amplo, a cozinha deslocalizada e os arrumos adaptados contam a história de uma casa que foi sendo ajustada ao longo do tempo. As paredes mostram marcas de humidade que pedem intervenção, mas também revelam a estrutura sólida que sustenta dois pisos completos.\n\nSubindo ao 1.º andar, surgem três quartos iluminados, um terraço generoso e zonas de arrumos que ampliam a funcionalidade do imóvel. O terraço, atualmente coberto por um telheiro suportado por pilares, oferece uma vista aberta sobre a envolvente e torna‑se o ponto mais valioso da casa, perfeito para criar uma área exterior de lazer.\n\nCom 112,75 m² de área bruta de construção implantados num lote de 100 m², com dois pisos e múltiplas divisões, oferece a base ideal para criar uma habitação familiar, uma casa de férias ou até um investimento para rendimento.\n\nLocalizada numa zona residencial tranquila, a poucos minutos de Reguengos de Monsaraz, da fronteira com Espanha e das margens do Alqueva, esta moradia representa uma oportunidade rara para quem procura espaço, localização e potencial de valorização.",
+  "geo": {
+    "lat": 38.3862154,
+    "lng": -7.3424533
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110577/43108a25-1895-4a29-a930-9709b9ebdafa.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 75,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: E"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 92,
+  "area_bruta_m2": 75,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

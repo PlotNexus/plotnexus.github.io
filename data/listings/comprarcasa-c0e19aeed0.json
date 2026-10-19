@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 25,
   "image": "https://cdn.proppy.app/propertyfiles/2032/110876/03385702-1a03-4162-b278-e8fd37f8600f.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Se procura um projeto de remodelação com elevado potencial de valorização, esta moradia para recuperação total é a opção ideal.\n\nSituada numa localização privilegiada no coração da cidade, beneficia de uma envolvente dinâmica e extremamente conveniente.\n\nPossibilidade de aumentar a área de construção em altura, permitindo maximizar a área útil do prédio e otimizar o seu rendimento.\n\nLiberdade total para projetar a distribuição dos espaços e selecionar acabamentos ao seu gosto.\n\nA escassos passos de todo o tipo de comércio, serviços, transportes e escolas.\n\nEntre em contacto para agendar a sua visita e conhecer todo o potencial deste imóvel.",
+  "geo": {
+    "lat": 39.40729400000001,
+    "lng": -9.138795499999999
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,8 +24,16 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/110876/03385702-1a03-4162-b278-e8fd37f8600f.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos, Comboio, Auto-estrada",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Industrial, Comercial, Turística"
+    ]
+  },
+  "estado": "Por recuperar",
   "area_util_m2": 25,
   "area_bruta_m2": null,
   "ano_construcao": null,

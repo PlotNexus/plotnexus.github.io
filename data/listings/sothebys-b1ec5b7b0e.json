@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 634,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77974&foto=1716476&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77974&foto=1716476&f=1",
+  "description": "Moradia unifamiliar de arquitetura contemporânea, com 634 m2 de área bruta de construção, inserida num lote de 1052m2, localizada numa praceta em cul-de-sac, esta casa oferece privacidade e qualidade de vida. Situada numa zona de pinhal, ideal para quem procura tranquilidade e contato com a natureza. \n\nA casa caracteriza-se pelos seus vãos envidraçados, que permitem a entrada generosa de luz natural, iluminando todos os espaços e realçando a sua atmosfera acolhedora.\nA moradia desenvolve-se em três pisos aos quais temos acesso por elevador. No piso da entrada encontramos um hall com pé direito duplo, um lavabo social, uma ampla sala e cozinha equipada com electrodomésticos topo de gama da marca Míele e uma ilha central com bancada de indução invisível. \nNo primeiro piso encontramos três espaçosas suites que usufruem na sua zona de distribuição de uma impactante clarabóia, sendo que a master suite está equipada com lareira de bioetanol e closet. No piso da cave temos mais uma suite com luz natural e possibilidade de acesso independente pelo exterior, lavandaria, garrafeira, sala de cinema, sauna, WC, uma zona técnica e ainda uma ampla garagem para 3 a 4 carros. No jardim deparamo-nos com uma infinity pool aquecida e parcialmente suspensa, com um fantástico projecto de paisagismo a cargo de um renomado gabinete, que inclui um jacuzzi e um fire pit. A casa encontra-se ainda equipada painéis solares, piso radiante, sistema de A/C, caixilharia de alumínio, de design minimalista, revestimento exterior em capoto garantido a eficiência térmica e acústica do imóvel e ainda furo artesiano para alimentar a rega automática do jardim. Encontra-se ainda a escassos minutos do centro de Cascais e do Estoril, da serra de Sintra e das praias, muito próxima do acesso à autoestrada Lisboa/ Cascais, bem como de hospitais, clinicas, escolas e de todo o tipo de serviços e comércio.\nEste imóvel representa uma oportunidade impar de viver à altura dos mais elevados padrões de inovação e conforto, onde o Design contemporâneo se alia à tecnologia de vanguarda criando uma experiência única e exclusiva. Por se encontrar em fase de construção, este projeto permite participar na escolha de materiais e acabamentos. Conclusão da obra no verão de 2026.",
+  "geo": {
+    "lat": 38.72095,
+    "lng": -9.415172
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,49 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77974&foto=1716476&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77974&foto=1716476&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia",
+      "Poço"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 52"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 634,
-  "area_bruta_m2": null,
+  "area_util_m2": 256,
+  "area_bruta_m2": 634,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

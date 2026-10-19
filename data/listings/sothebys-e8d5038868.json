@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Moradia, Almoçageme, Sintra",
   "bedrooms": 5,
-  "bathrooms": null,
+  "bathrooms": 6,
   "area_m2": 351,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=22086&foto=1038023&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=22086&foto=1038023&f=1",
+  "description": "Moradia térrea de charme em Almoçageme, inserida num lote de 6.785 metros quadrados, com vista desafogada para a serra e o mar, a apenas 15 minutos a pé da Praia da Adraga.\n\nA moradia com exposição solar a sul, é composta por cinco quartos, três dos quais em suite e dois quartos mais pequenos com apoio de uma casa de banho completa. Sala de estar com 34 metros quadrados e ela de jantar com 17 metros quadrados te um luminoso escritório e uma ampla cozinha com 19 metros quadrados \n\nEste imóvel encontra-se em bom estado de conservação e destaca-se pelas amplas áreas. Conta com uma área de implantação de 196 metros quadrados e uma área bruta de construção de 351 metros quadrados. \n\nA moradia está equipada com aquecimento central, piscina aquecida e furo para rega e piscina. \n\nNo exterior, dispõe ainda de uma poolhouse, utilizada como sala multiusos ao longo de todo o ano um extenso jardim que garante total privacidade e tranquilidade.",
+  "geo": {
+    "lat": 38.80346,
+    "lng": -9.473214
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=22086&foto=1038023&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=22086&foto=1038023&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 351,
-  "area_bruta_m2": null,
+  "area_util_m2": 300,
+  "area_bruta_m2": 351,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

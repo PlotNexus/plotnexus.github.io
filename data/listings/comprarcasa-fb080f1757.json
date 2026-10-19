@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 272,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110554/0fae0702-ccd7-4af5-9922-d674cdefb995.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "A Quinta Vale Bom oferece cerca de 6000 m² de terreno, uma moradia T4 com 272 m² e um projeto de Agroturismo aprovado para seis unidades de alojamento adicionais e um T1, permitindo criar um pequeno empreendimento turístico com piscina e zonas comuns. A arquitetura contemporânea destaca-se pela sala com pé-direito duplo, amplos envidraçados e uma mezanine versátil ideal para escritório ou lazer. O alpendre coberto prolonga naturalmente a área social, criando uma ligação fluida ao exterior.\n\nA cozinha moderna integra uma ampla península central, perfeita para cozinhar e receber. A zona privada inclui quatro quartos, suíte com closet, duas instalações sanitárias, garagem para duas viaturas e áreas de arrumação. A qualidade de construção evidencia-se no chão em madeira e tijoleira, dois portões independentes, portão automático da garagem, ar condicionado, pré-instalação de música ambiente, aspiração central, painéis solares e poço de água.\n\nO terreno combina oliveiras com produção anual de azeite, videiras e um pomar diversificado com pêssegos, figos, dióspiros, maçãs, laranjas, ameixas, clementinas, amoras e nespereiras, reforçando a autenticidade do estilo de vida alentejano.\n\nA localização garante proximidade a todos os serviços: escola a três minutos, supermercado a quatro, centro de saúde a cinco, GNR a quatro, piscinas municipais a seis e o Parque Ecológico do Gameiro a sete. Montemor-o-Novo fica a vinte e cinco minutos, Évora a quarenta e Lisboa a cerca de uma hora. Mora oferece ainda serviços públicos gratuitos, atividades municipais, espaços de lazer e uma comunidade tranquila, ideal para famílias.\n\nA Quinta Vale Bom combina arquitetura, natureza e potencial de valorização, apresentando uma oportunidade diferenciadora para viver ou investir no Alentejo.",
+  "geo": {
+    "lat": 38.94084,
+    "lng": -8.173946
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110554/0fae0702-ccd7-4af5-9922-d674cdefb995.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: C"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 272,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 272,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

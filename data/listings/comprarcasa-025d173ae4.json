@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 136,
   "image": "https://cdn.proppy.app/propertyfiles/2032/110779/5461f233-0e19-4475-aadd-550fc004b6d6.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra este magnifico apartamento T3 duplex inserido num prestigiado condominio fechado, onde o conforto, privacidade e lazer se encontram em perfeita harmonia. \n\nCom uma orientação solar privilegiada que garante luz natural ao longo do dia, este imóvel destaca-se pela sua localização ímpar e soberba vista panorâmica sobre o mar e baía de São Martinho do Porto.\n\nComposto por dois pisos, no piso 1 encontramos uma sala ampla com lareira e acesso direto ao terraço com churrasqueira, cozinha funcional e bem estruturada com varanda, quarto e casa de banho completa e equipada com base de duche.\n\nNo piso superior temos dois quartos, casa de banho completa com luz natural e terraço privativo com vista sobre a baía.\n\nSistema de aquecimento central completo, lareira com recuperador a pellets, vidros duplos, estores elétricos e garagem.\n\nCondominio com piscina privativa, campo de futebol, basquetebol, minigolfe, court de ténis e ginásio.\n\nExtensos jardins cuidadosamente cuidados, num ambiente seguro e reservado.\n\nO apartamento é totalmente mobilado e equipado, proporcionando todo o conforto e comodidade.\n\nEm suma, o imóvel encontra-se preparado para ser habitado de imediato, estando equipado não só ao nível do mobiliário e eletrodomésticos, mas também com todos os elementos essenciais para uma utilização confortável e prática.\n\nUma excelente oportunidade para quem procura uma residência de prestígio, vistas de sonho e estilo de vida único à beira-mar.\n\nAgende já a sua visita!",
+  "geo": {
+    "lat": 39.516259700000006,
+    "lng": -9.1367873
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,48 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/110779/5461f233-0e19-4475-aadd-550fc004b6d6.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 136,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar",
+      "Barbecue",
+      "Varanda",
+      "Armários embutidos",
+      "Condomínio fechado",
+      "Certificação energética: D",
+      "Varanda: Sim",
+      "Terraço",
+      "Garagem",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Beira-mar",
+      "Serviços: Supermercados, Escolas, Policia",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Vistas: Mar, Areas verdes",
+      "Churrasqueira",
+      "Muro",
+      "Logradouro",
+      "Data construção: 1999",
+      "Fração autónoma",
+      "Licença de Utilização: 217"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Piscina",
+      "Court de Ténis"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Aquecimento",
+      "Lareira",
+      "Recuperador de calor",
+      "Cozinha equipada",
+      "Cozinha: Exaustor, Placa e forno",
+      "AquecimentoTermico: Caldeira",
+      "Caixilharia: Vidros duplos"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 108,
+  "area_bruta_m2": 136,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

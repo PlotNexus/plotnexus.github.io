@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 152,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110953/c2f7610e-de01-4b20-a7bd-0861d3daad61.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia Térrea T2 com arrecadação e garagem num total 152 m² de área de construção. Possui ainda um quintal de 100m2, ideal para quem procura espaço exterior, funcionalidade e potencial de requalificação no Alandroal.\n\nVEJA O POTENCIAL EXTRAORDINÁRIO DE VALORIZAÇÃO DESTA CASA ATRAVÉS DA PINTURA VIRTUAL DA FACHADA DA CASA. \n\nNa Rua dos Telheiros, esta casa apresenta‑se como uma estrutura sólida, com áreas generosas e uma distribuição prática que permite imaginar facilmente o seu próximo capítulo. Ao entrar, percebe‑se a dimensão das divisões e a fluidez da circulação, características que tornam o imóvel versátil tanto para residência como para investimento.\n\nA zona social desenvolve‑se numa sala ampla, enquanto a cozinha mantém uma organização funcional que pode ser modernizada de forma objetiva. Os dois quartos oferecem privacidade e boa dimensão, e a casa de banho integra‑se de forma eficiente. O imóvel necessita de algumas obras de requalificação, abrindo margem para atualizar acabamentos, reorganizar espaços e valorizar o conjunto de acordo com as necessidades atuais.\n\nO quintal, um dos pontos fortes da propriedade, acrescenta utilidade imediata: zona de lazer, horta, espaço técnico ou simplesmente um exterior que prolonga a vivência da casa. A garagem reforça a funcionalidade, garantindo arrumação e comodidade num contexto urbano onde este elemento é cada vez mais valorizado.\n\nCom localização tranquila e acesso rápido aos serviços essenciais da vila, esta moradia destaca‑se pela combinação entre área, potencial e exterior, Uma oportunidade clara para quem procura criar valor no Alandroal.\n\nAproveite esta oportunidade!",
+  "geo": {
+    "lat": 38.69511346514744,
+    "lng": -7.403982728733354
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110953/c2f7610e-de01-4b20-a7bd-0861d3daad61.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 152,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Em curso"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 91,
+  "area_bruta_m2": 152,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

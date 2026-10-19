@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 6,
   "area_m2": 677,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82611&foto=1691107&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82611&foto=1691107&f=1",
+  "description": "Na Herdade da Aroeira, um dos mais exclusivos destinos residenciais da região de Lisboa, esta moradia contemporânea distingue-se pela elegância, privacidade e elevada qualidade de construção. Construída em 2021, encontra-se a apenas cinco minutos da Praia da Fonte da Telha, inserida num amplo lote de 2.338 m², com 677 m² de área bruta privativa.\n\nPensada para proporcionar uma experiência de vida excecional, a propriedade combina arquitetura, conforto e envolvente natural. Os interiores são amplos, luminosos e cuidadosamente articulados, criando uma atmosfera sofisticada e acolhedora.\n\nA sala de estar e a sala de jantar, em ambientes independentes, oferecem uma elegante separação entre os momentos de convívio e o quotidiano familiar. A área privada integra quatro suites generosas, concebidas para garantir máximo conforto e privacidade.\n\nA cozinha, totalmente equipada com eletrodomésticos de marcas premium, alia design contemporâneo e funcionalidade, mantendo a coerência estética da propriedade. Os acabamentos revelam uma atenção excecional ao detalhe, com materiais de elevada qualidade, madeiras nobres e carpintarias de autor. A caixilharia de elevado desempenho térmico e acústico reforça o conforto e a eficiência energética.\n\nNo piso inferior, a moradia dispõe ainda de uma suite com luz natural, sala de cinema e jogos e ginásio privado, criando uma área reservada dedicada ao lazer e bem-estar.\n\nA tecnologia encontra-se discretamente integrada através de um sistema de domótica que permite controlar climatização zonificada, estores, iluminação, videovigilância e alarme. A entrada principal dispõe ainda de acesso biométrico por impressão digital.\n\nNo exterior, o jardim cuidadosamente concebido envolve a piscina privada, proporcionando um ambiente de tranquilidade e exclusividade, ideal para desfrutar do clima da região. A propriedade inclui ainda garagem para quatro viaturas, equipada com carregador elétrico.\n\nUma residência excecional na Herdade da Aroeira, onde arquitetura contemporânea, tecnologia, privacidade e conforto se conjugam com uma localização privilegiada, próxima do mar e a curta distância de Lisboa.",
+  "geo": {
+    "lat": 38.5780709,
+    "lng": -9.1754701
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,27 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82611&foto=1691107&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82611&foto=1691107&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Piscina (Exterior)"
+    ],
+    "Zona": [
+      "Proximidade (Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 677,
-  "area_bruta_m2": null,
+  "area_util_m2": 463,
+  "area_bruta_m2": 677,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

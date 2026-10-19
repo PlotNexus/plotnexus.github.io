@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 229,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110865/b41af4b2-4521-427f-b46a-ffda67583e64.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T3+1 de Gaveto - 1º andar com Sótão Aproveitado, Garagem, 3 Quintais, 3 Varandas e Amplo Terraço Coberto - Tapada / Vista Alegre, na Praceta de Santa Catarina, em Évora.\n\nCom 229 m² de área bruta de construção + 112,50 m² de áreas dos quintais.\n\nNuma das zonas residenciais mais prestigiadas de Évora, na Tapada / Vista Alegre, junto ao Plátano e à Horta da Porta, encontra esta moradia de áreas generosas e uma invulgar diversidade de espaços interiores e exteriores.\n\nPróxima da CCDR Alentejo, dos Salesianos e do Centro Histórico, beneficia de uma localização central, tranquila e com bons acessos, numa zona muito procurada e valorizada.\n\nO 1º andar é composto por vestíbulo, ampla sala, 3 quartos, cozinha, despensa e 2 WC. As boas áreas e os vários vãos proporcionam luminosidade natural e diferentes ambientes de estar.\n\nNo interior mantêm-se elementos da construção da época, como pavimentos e carpintarias em madeira e azulejos decorativos, que conferem personalidade ao imóvel.\n\nO sótão aproveitado, com acesso direto, amplia significativamente a utilização da casa. Integra um quarto (+1) com janela e várias divisões, com potencial para escritório, arrumação ou outros usos. Aqui é onde encontra o amplo terraço coberto.\n\nNo exterior, destacam-se os 3 quintais — anterior, lateral e posterior — e as 3 varandas, distribuídas pelos diferentes alçados. As árvores proporcionam sombra e um agradável enquadramento verde.\n\nO quintal posterior está coberto e dá acesso à garagem. A moradia dispõe de dois acessos por escada, interior e exterior.\n\nCom construção sólida, excelentes áreas e grande versatilidade, beneficiará de atualização, oferecendo uma excelente base para criar uma casa contemporânea.\n\nA combinação entre localização, dimensão, sótão aproveitado, garagem e múltiplos espaços exteriores torna esta uma propriedade pouco comum numa das zonas residenciais de referência de Évora, para habitação própria ou investimento imobiliário de longo prazo.",
+  "geo": {
+    "lat": 38.57383282631719,
+    "lng": -7.916894063987179
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110865/b41af4b2-4521-427f-b46a-ffda67583e64.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 229,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: E"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 120,
+  "area_bruta_m2": 229,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 118,
   "image": "https://cdn.proppy.app/propertyfiles/3250/110573/561d96a8-f23b-4e1e-95d9-42b69922bbe0.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos-lhe esta fantástica moradia T3 de traça original (1937), parcialmente renovada, situada na prestigiada e central zona de Vale Formoso, no coração de Paranhos. \n\nCom duas frentes e orientação solar Nascente-Poente, a casa beneficia de uma excelente luminosidade natural do nascer ao pôr do sol.\n\nA habitação conta com 118 m² de área bruta e duas casas de banho, garantindo toda a funcionalidade de que a sua família necessita. No exterior, encontra um autêntico refúgio em plena cidade: um magnífico terraço privativo de 25 m² com árvores e uma zona de churrasqueira, desenhado para lhe proporcionar momentos de lazer e refeições ao ar livre com total privacidade.\n\nAo nível da eficiência e do conforto térmico, foram realizadas melhorias fundamentais que valorizam imenso o imóvel. A moradia dispõe de caixilharia nova em alumínio com vidro duplo e um telhado novo (instalado há 2 anos) em telha francesa, com isolamento térmico em toda a sua extensão. Para maior comodidade, existe ainda a possibilidade de o imóvel ser vendido mobilado, facilitando uma mudança rápida e sem preocupações.\n\nDestaca-se ainda o elevado potencial de expansão e valorização deste imóvel, existindo a viabilidade de construção de um piso adicional, o que a torna um ativo imobiliário de relevância ainda maior, seja para habitação própria ou investimento.\n\n🏡 Detalhes em destaque:\n\n - Tipologia: Moradia T3 (Ano: 1937 / Parcialmente Renovada)\n\n - Localização: Vale Formoso (Centro de Paranhos)\n\n - Áreas: 118 m² de área bruta\n\n - Exposição Solar: Nascente e Poente (2 frentes)\n\n - Exterior: Terraço de 25 m² com árvores e churrasqueira\n\n - Conforto Térmico: Caixilharia nova (Alumínio/Vidro Duplo) e -Telhado Novo (2 anos) com isolamento\n\n - Extras: Possibilidade de venda com mobília\n\n - Casas de Banho: 2\n\nUma oportunidade excelente para quem procura viver numa moradia central, aliando o charme histórico ao conforto das renovações modernas!\n\nComprarCasa Porto Paranhos\n\n“Onde as Histórias acabam bem.”\n\nMissão\n\nA nossa missão é prestar um serviço de elevada qualidade, segurança e transparência na área do imobiliário, tendo como principal ativo o nosso cliente. Pretende-se estar junto das pessoas, ajudar a concretizar os seus sonhos, dispondo do nosso tempo e ferramentas. Trabalhamos em equipa para concretizar os objetivos de cada cliente, partilhamos informação e estamos em constante inovação.\n\nValoresA qualidade dos nossos serviços está diretamente ligada à transparência e compromisso que colocamos em cada pessoa. Estamos disponíveis para o Seu êxito. Dedicamos o nosso tempo criando laços e relações de confiança. Este é o nosso ADN.\n\nQuer comprar, vender, arrendar ou investir em um imóvel no Porto, Portugal? Contacte-nos!\n\nTrabalhamos com o mercado nacional e internacional.\n\nAPEMIP: 6412 / AMI: 21325\n\nHorário de Atendimento: De Segunda a Sexta – 9h30 às 19h / Sábado – 10h às 13h\n\n#ComprarCasa #Porto #Paranhos",
+  "geo": {
+    "lat": 41.166638199999994,
+    "lng": -8.6115878
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,40 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/3250/110573/561d96a8-f23b-4e1e-95d9-42b69922bbe0.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Barbecue",
+      "Orientação solar: Este, Oeste",
+      "Varanda",
+      "Ano construção: 1937",
+      "Localização central",
+      "Certificação energética: E",
+      "Varanda: 1",
+      "Terraço",
+      "Mobilado",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Vistas: Prédios, Cidade",
+      "Árvores",
+      "Churrasqueira",
+      "Terraço comum"
+    ],
+    "Exterior": [
+      "Orientação Solar: Este, Oeste"
+    ],
+    "Interior": [
+      "Cozinha: Móveis",
+      "Caixilharia: Alumínio, Vidros duplos",
+      "Aquecimento água: Eléctrico",
+      "TV por cabo"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 118,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 118,
+  "ano_construcao": 1937,
+  "certificacao_energetica": "E"
 }

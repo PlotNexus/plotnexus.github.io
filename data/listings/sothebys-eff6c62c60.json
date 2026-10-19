@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 7,
   "area_m2": 425,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81573&foto=1687438&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81573&foto=1687438&f=1",
+  "description": "Moradia T4 + 1 contemporânea de arquitetura distinta, assinada pelo conceituado arquiteto Vítor Vitorino, implantada num lote de 470 m², com 425,64 m² de área bruta de construção. Localizada numa tranquila rua sem saída, no prestigiado bairro do Alto da Castelhana, em Cascais, esta propriedade alia design, conforto e funcionalidade numa envolvente e absoluta privacidade.\nA moradia distribui-se por três pisos cuidadosamente organizados, proporcionando uma clara separação entre as áreas social, privada e de apoio.\nO piso superior é inteiramente dedicado à zona social, concebida para maximizar a luminosidade natural, a ventilação e uma agradável vista desafogada sobre a cidade. Neste nível encontram-se um lavabo social, amplas salas de estar e de jantar em conceito open space e uma cozinha contemporânea totalmente equipada com eletrodomésticos de alta gama. Grandes portas de correr em vidro estabelecem uma perfeita ligação entre o interior e o exterior, criando uma harmoniosa continuidade dos espaços.\nA área exterior foi pensada para proporcionar momentos únicos de lazer e convívio. Destaca-se a elegante piscina revestida com pedra hijau, proveniente da Indonésia, rodeada por um cuidado jardim com buganvílias, videira, oliveiras e outras espécies ornamentais. Dispõe ainda de zonas de estar e de refeições, uma cozinha gourmet equipada com churrasqueira premium, sauna com banho turco e uma casa de banho completa de apoio, assegurando todo o conforto para receber família e amigos.\nA área privada ocupa o piso intermédio e é composta por uma magnífica master suite com walk-in closet e uma ampla casa de banho equipada com banheira e zona de duche. Complementam este piso mais duas generosas suites, oferecendo total conforto e privacidade aos restantes membros da família.\nNo piso de entrada, um belo portão em madeira conduz ao hall, a um espaçoso escritório, servido por casa de banho social, uma idêntica suite adicional, bem como uma lavandaria totalmente equipada com armários, máquinas de lavar e secar roupa e um prático sistema de queda de roupa proveniente do piso superior.\nA moradia ainda dispõe de elevador interno com capacidade para três pessoas, assegurando o conforto e acesso a todos os pisos, complementado por uma elegante escadaria revestida em pedra, e com guardas em vidro.\nA garagem fechada com portão automático tem capacidade para duas viaturas. No exterior, a propriedade oferece ainda espaço adicional para o estacionamento de mais duas viaturas.",
+  "geo": {
+    "lat": 38.712316,
+    "lng": -9.4104827
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,76 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81573&foto=1687438&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81573&foto=1687438&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos, Térmicos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Escritório",
+      "Estores Eléctricos",
+      "Gás Canalizado",
+      "Rega Automática",
+      "Solar",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (CCTV, Completo, Segurança Activa)",
+      "Piscina (Exterior)",
+      "Ginásio (Banho Turco, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Cerâmica, Granito, Pedra Natural, Vidro (painéis))",
+      "Pavimento (Mármore)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado, Falso Pladur, Focos, Ponto de Luz)",
+      "Equipamento (Gás Canalizado, Jardins, Rega Automática, Tomadas de Computador, TV Cabo, Ventilação Mecânica, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Banho Turco, Sauna, Solário)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 38; Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 425,
-  "area_bruta_m2": null,
+  "area_util_m2": 285,
+  "area_bruta_m2": 425,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

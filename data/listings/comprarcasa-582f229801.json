@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 5,
   "image": "https://cdn.proppy.app/propertyfiles/5115/110711/d3a47586-a244-4fe7-b389-142d7a145ce4.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T3 com Jardim, Varandas e Garagem Fechada em Fragoso, Barcelos\n\nSe procura uma moradia onde o conforto, a tranquilidade e o espaço se unem na perfeição, esta poderá ser a casa ideal para si.\n\nLocalizada na freguesia de Fragoso, no concelho de Barcelos, esta moradia T3 encontra-se inserida num lote de 527,50 m² e conta com uma área bruta de construção de 261,50 m², oferecendo divisões amplas, excelente luminosidade e uma distribuição funcional, pensada para o dia a dia.\n\nA zona privada é composta por três quartos espaçosos, um deles suíte, todos com acesso a varanda, proporcionando maior conforto e uma agradável ligação ao exterior. Dispõe ainda de três casas de banho, uma sala ampla e luminosa com acesso direto à varanda, cozinha funcional, lavandaria independente e garagem fechada com acesso direto ao interior da habitação, garantindo comodidade e segurança em qualquer estação do ano.\n\nNo exterior, o generoso terreno oferece inúmeras possibilidades para criar um bonito jardim, uma zona de lazer, churrasqueira ou até uma piscina, tornando este espaço perfeito para desfrutar de momentos únicos em família e entre amigos.\n\nInserida numa zona residencial calma e tranquila, a moradia beneficia de excelentes acessos e da proximidade a comércio, escolas, serviços e às cidades de Barcelos, Viana do Castelo e Esposende, permitindo conciliar a serenidade do campo com a conveniência da vida urbana.\n\nSe procura uma moradia com áreas generosas, excelente exposição solar, espaço exterior e todo o conforto para viver com qualidade, esta poderá ser a oportunidade que esperava.\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.612168161077534,
+    "lng": -8.714237449829673
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,43 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/110711/d3a47586-a244-4fe7-b389-142d7a145ce4.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Despensa",
+      "Orientação solar: Sul",
+      "Varanda",
+      "Arrecadação",
+      "Duplex",
+      "Armários embutidos",
+      "Certificação energética: C",
+      "Varanda: 3",
+      "Garagem",
+      "Lugar de garagem",
+      "Nº carros: 3",
+      "Acessos: Transportes públicos",
+      "Localização: Interior",
+      "Serviços: Supermercados, Bancos, Farmácia, Escolas",
+      "Zona envolvente: Residencial",
+      "Gás canalizado",
+      "Vistas: Campo, Jardim, Areas verdes",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Sul"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Lareira",
+      "Cozinha equipada",
+      "Cozinha: Frigorifico, Exaustor, Máquina lavar e secar roupa, Máquina lavar louça, Placa e forno, Despensa, Combinado, Móveis",
+      "Bomba de calor",
+      "Caixilharia: Alumínio"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 166,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

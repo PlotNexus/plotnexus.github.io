@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70963&foto=1388762&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70963&foto=1388762&f=1",
+  "description": "Sublime apartamento com três quartos, com 342 metros quadrados de área bruta privativa, inserido em prédio na marginal do rio Douro. \nO apartamento tem vistas únicas de rio e de mar, distribui-se por hall de entrada, casa de banho social, uma luminosa sala de estar com 60 metros quadrados, que se estende para uma ampla varanda, que proporciona fins de tardes únicos a contemplar o pôr-do-sol. A cozinha com diferentes zonas de trabalho com generosos 35 metros quadrados, casa de banho de apoio e zona dedicada ao tratamento de roupa. A sala de jantar , com 65 metros quadrados, comunicante com a cozinha e com a sala de estar, acompanhada por uma varanda. A zona social está dotada ainda de uma área para home office e uma casa de banho social. \nA zona privada, é composta por três suites, com destaque para a master suite com 35 metros quadrados, servida por uma varanda com vistas deslumbrantes sobre o rio e centro histórico da cidade, inclui uma zona de vestir com luz natural e uma casa de banho com 10 metros quadrados com uma janela para o exterior.\nProjecto do prestigado arquitecto José Carlos Cruz, de linhas contemporâneas e cuidadosa escolha de materiais, sempre em benefício do conforto, da harmonia e da tranquilidade, com casas de banhos com louças suspensas, cozinha lacada, electrodomésticos de última geração, soalho multicamada em madeira de Carvalho, armários embutidos nos quartos, zonas de circulação e de serviço. \nO aquecimento da águas sanitárias é assegurado por caldeira mural e o aquecimento do espaço por radiadores, estores blackout elétricos nos quartos.\nTrês frentes, orientado a Nascente, Norte e Sul. Dotado de dois lugares de estacionamento e um duplo, acomodando quatro viaturas e dois arrumos.\nO prédio oferece serviço de portaria sete dias por semana. Excelente localização em frente ao Rio Douro, com proximidade a todo o tipo de serviços, como ginásio e as piscinas do Fluvial a 800 metros, e com vasta oferta de comércio e supermercados. Na vizinhança, é ainda possível encontrar diversas zonas de lazer como o Parque da Pasteleira, o Jardim Botânico, o Parque de Serralves e o Parque da Cidade, proporcionando a prática de atividade física e caminhadas. As praias da Foz estão a uma curta caminhada de 20 minutos e o centro do Porto a menos de 3 quilómetros. Dotado de excelentes acessos, a apenas quatro minutos da VCI facilitando a deslocação para o centro do Porto ou outros destinos.",
+  "geo": {
+    "lat": 41.14846,
+    "lng": -8.639752
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,49 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70963&foto=1388762&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70963&foto=1388762&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Mármore)",
+      "Equipamento (Gás Canalizado, Video-Porteiro, Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 53,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

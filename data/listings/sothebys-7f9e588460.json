@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 6,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80601&foto=1679138&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80601&foto=1679138&f=1",
+  "description": "Apartamento com 5 suites no terceiro piso com uma área interior de 397 metros quadrados.\nLocalizado no coração do Estoril, na Avenida Portugal, o Thermae Estoril é um novo projeto residencial que combina arquitetura contemporânea, localização privilegiada e uma escala residencial exclusiva. Situado a poucos passos da praia, do Casino Estoril, do icónico Hotel Palácio e do Estoril Wellness Center, este empreendimento oferece uma nova forma de viver numa das zonas mais reconhecidas da linha de Cascais.\nAssinado pelo arquiteto brasileiro Thiago Bernardes, o edifício apresenta uma linguagem arquitetónica contemporânea marcada por linhas depuradas, volumes equilibrados e uma forte relação entre luz natural, espaço e envolvente urbana. O projeto foi pensado para criar residências amplas e funcionais, com layouts bem definidos e uma ligação direta ao exterior através de terraços, jardins e amplos vãos envidraçados.\nO empreendimento integra seis apartamentos, com tipologias T3 e T5, concebidos para oferecer áreas generosas e elevado conforto residencial. As frações contam com amplos espaços sociais, várias suítes e zonas exteriores privadas, proporcionando uma vivência equilibrada entre interior e exterior. Algumas unidades beneficiam de jardins privativos, enquanto os pisos superiores apresentam amplos terraços com vistas abertas sobre a envolvente.\nTodas as residências incluem lugares de estacionamento privativos, sendo que os apartamentos T5 dispõem de quatro lugares e os T3 de dois, garantindo conveniência e funcionalidade no dia a dia.\nA localização constitui um dos grandes atributos do Thermae Estoril. Inserido numa das zonas mais procuradas da linha de Cascais, o projeto beneficia da proximidade a praias, jardins, restaurantes, comércio local e equipamentos culturais. A zona é também bem servida por transportes e principais vias de acesso, permitindo uma ligação rápida ao centro de Lisboa, Cascais e ao aeroporto internacional.\nCom conclusão prevista para junho de 2026, o Thermae Estoril apresenta-se como uma proposta residencial contemporânea num endereço histórico do Estoril, combinando arquitetura de autor, centralidade e uma forte ligação à identidade da região.",
+  "geo": {
+    "lat": 38.7035171,
+    "lng": -9.391423
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,23 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80601&foto=1679138&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80601&foto=1679138&f=1"
   ],
-  "features": null,
+  "features": {
+    "Vistas": [
+      "Campo",
+      "Cidade",
+      "Jardins",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Porto de Mar)",
+      "Proximidade (Centros Comerciais, Escolas, Ginásio, Hospital, Jardins Infância, Praias)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 397,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

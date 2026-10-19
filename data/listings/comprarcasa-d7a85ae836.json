@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110709/d3914245-6901-4321-9433-321f59c45a1c.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Um terreno rústico de 6.107 m², com viabilidade de construção e possibilidade de desenvolver uma moradia térrea adaptada às necessidades do comprador, ideal para quem procura espaço, privacidade e potencial agrícola no Alentejo.\n\nNa simpática e acolhedora Freguesia de Santa Eulália, no concelho de Elvas, encontramos este terreno com enorme potencial e versatilidade. Existe um projeto anterior elaborado pelo proprietário, atualmente caducado, que pode ser totalmente revisto, atualizado ou alterado. A capacidade de construção pode ser ampliada, uma vez que cerca de 45% do terreno se encontra inserido em zona urbana, permitindo maior flexibilidade no desenvolvimento de um novo projeto mediante aprovação camarária.\n\nPara efeitos de demonstração do potencial construtivo, foram produzidas imagens 3D e representações geradas por inteligência artificial, baseadas no projeto anteriormente existente. Estas imagens têm caráter ilustrativo e servem apenas para mostrar possibilidades de implantação e volumetria.\n\nA componente agrícola é um dos pontos fortes da propriedade: 64 oliveiras, algumas centenárias, 6 pereiras, 4 romanzeiras e outras árvores de fruto que reforçam o carácter autêntico do lote. Dispõe ainda de um barracão agrícola com 40 m² e dois poços, elementos que aumentam a funcionalidade e o potencial produtivo.\n\nA localização oferece equilíbrio entre tranquilidade e acessibilidade. O terreno situa‑se próximo da Praça de Touros, do Parque Desportivo, da Pousada e de diversos serviços e comércio, garantindo conveniência sem perder o ambiente rural. Aqui, é possível construir, cultivar e criar um espaço de lazer em pleno Alentejo, com a vantagem de poder definir um novo projeto à medida e com maior margem de implantação.",
+  "geo": {
+    "lat": 39.00330750469959,
+    "lng": -7.2467156825043935
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,11 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110709/d3914245-6901-4321-9433-321f59c45a1c.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,

@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 79,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110691/7934a7f2-0fc9-4a7c-9299-f0dfa42cee38.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Espaço comercial de 79 m² no Largo D. João IV, em Vila Viçosa, ideal para negócios que valorizam visibilidade, simplicidade e funcionalidade.\n\nLocalizado num dos pontos mais práticos da vila, este imóvel oferece uma área ampla e contínua, fácil de adaptar a diferentes atividades, desde loja, gabinete, atelier ou prestação de serviços. A disposição do espaço permite uma organização direta, sem obstáculos, facilitando a circulação e a criação de zonas distintas conforme as necessidades do negócio.\n\nIncluí uma zona de arrumos que apoia a operação diária sem interferir na área principal, e uma casa de banho já instalada, garantindo funcionalidade imediata. A neutralidade das paredes e o piso resistente criam uma base prática para personalização, permitindo que o futuro ocupante implemente rapidamente a sua identidade visual.\n\nNota: O imóvel encontra‑se atualmente em propriedade total, sendo necessário proceder à constituição de Propriedade Horizontal para afetação autónoma da fração.\n\nCom 79 m² bem distribuídos e uma localização estratégica, este espaço apresenta-se como uma solução objetiva para quem procura instalar um negócio no centro de Vila Viçosa, com boa acessibilidade e potencial de adaptação a diferentes conceitos.",
+  "geo": {
+    "lat": 38.77695370000001,
+    "lng": -7.4179936999999985
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110691/7934a7f2-0fc9-4a7c-9299-f0dfa42cee38.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: F"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 79,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 79,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

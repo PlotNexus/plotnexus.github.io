@@ -9,8 +9,11 @@
   "bathrooms": 4,
   "area_m2": 324,
   "image": "https://cdn.proppy.app/propertyfiles/5115/110675/2babec1c-0fe2-4673-ad8a-7965c1df474d.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T4 em Construção com Piscina a Poucos Minutos da Praia – Âncora\n\nDescubra esta magnífica moradia T4 em construção, com piscina, situada na encantadora vila de Âncora, a escassos minutos a pé da praia. Uma oportunidade única para viver com conforto, qualidade e tranquilidade, numa das zonas mais procuradas do concelho de Caminha.\n\nCom uma arquitetura contemporânea, linhas modernas e uma distribuição funcional, esta moradia foi concebida para proporcionar bem-estar e responder às exigências da vida atual.\n\nA habitação é composta por quatro quartos, dois dos quais em suíte, e quatro casas de banho, oferecendo espaços amplos, luminosos e confortáveis para toda a família.\n\nDistribuição da Moradia\n\nRés do chão\n\nHall de entrada;\n\nCozinha em open space, totalmente integrada com a sala de estar e de jantar;\n\nLavandaria;\n\nDois quartos, um dos quais em suíte;\n\nCasa de banho completa de apoio.\n\nPrimeiro piso\n\nUma suíte com excelentes áreas;\n\nUm quarto;\n\nCasa de banho completa de apoio;\n\nAmplo terraço, ideal para desfrutar de momentos de lazer e descontração.\n\nNo exterior, a moradia dispõe de uma agradável piscina, perfeita para aproveitar os dias de verão com total privacidade, bem como de uma garagem, garantindo comodidade e segurança no estacionamento.\n\nConstruída com especial atenção à eficiência energética e ao conforto, esta moradia possui Certificação Energética A, assegurando um excelente desempenho térmico e uma significativa redução dos consumos energéticos. Os interiores incluem roupeiros embutidos e cozinha equipada, conjugando funcionalidade, qualidade e um design contemporâneo.\n\nA localização é um dos seus maiores pontos fortes. Nas proximidades encontrará supermercados, escolas, comércio, serviços e restauração. O Intermarché situa-se a poucos minutos, enquanto o Restaurante Ripa's fica a cerca de 400 metros e o Jardim de Infância da Igreja a aproximadamente 800 metros, proporcionando uma excelente qualidade de vida para toda a família.\n\nA proximidade da praia, a qualidade da construção, a piscina, os acabamentos modernos e a excelente organização dos espaços fazem desta moradia uma oportunidade excecional, seja para habitação própria permanente, casa de férias ou investimento.\n\nVenha conhecer o seu futuro lar em Âncora, onde a tranquilidade, o conforto e a proximidade do mar se unem para proporcionar uma qualidade de vida.\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.80164210000004,
+    "lng": -8.853269
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,30 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/110675/2babec1c-0fe2-4673-ad8a-7965c1df474d.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 324,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Armários embutidos",
+      "Curta distância a pé da praia",
+      "Certificação energética: A",
+      "Garagem",
+      "Nº carros: 2",
+      "Acessos: Auto-estrada",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Hospital, Centro de saude",
+      "Zona envolvente: Residencial"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Recuperador de calor",
+      "Cozinha equipada",
+      "Cozinha: Frigorifico, Exaustor, Placa e forno",
+      "AquecimentoTermico: Eléctrico",
+      "Caixilharia: PVC, Alumínio, Vidros duplos, Caixilharia dupla"
+    ]
+  },
+  "estado": "Em construção",
+  "area_util_m2": 239,
+  "area_bruta_m2": 324,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

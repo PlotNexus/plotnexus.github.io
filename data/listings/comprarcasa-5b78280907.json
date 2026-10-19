@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 24,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110920/e4d10f01-61ca-4fd0-afbc-96262a7e70b1.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Loja para Arrendamento | 24 m² | Centro Histórico de Évora\n\nApresentamos esta loja com 24 m², situada na Rua de Machede, nº 83, em pleno Centro Histórico de Évora – uma localização privilegiada numa das zonas mais movimentadas e turísticas da cidade.\n\nEste espaço é ideal para quem procura rentabilizar um investimento através do comércio, serviços ou outro tipo de atividade ajustada ao centro urbano. Com excelente visibilidade e fácil acesso, é uma oportunidade rara para se estabelecer numa das ruas com maior circulação pedonal da cidade.\n\nDestaques do Imóvel\n\n- Loja com 24 m²\n\n- Localizada em zona histórica e central\n\n- Excelente potencial de rentabilidade\n\n- Boa exposição e visibilidade comercial\n\n- Ideal para pequeno comércio, escritório ou espaço de serviços\n\nO porquê de investir no Centro Histórico de Évora\n\n- Évora é uma cidade classificada como Património Mundial pela UNESCO, com um fluxo constante de visitantes nacionais e internacionais. \n\n- A procura por produtos locais, serviços e experiências culturais no centro é elevada, o que garante excelente visibilidade e potencial de retorno para o seu negócio ou investimento.\n\n- Além disso, a zona oferece um ambiente seguro, com charme histórico e proximidade a todas as comodidades e instituições da cidade, incluindo a Universidade de Évora.\n\nAproveite esta oportunidade para garantir um espaço comercial num dos pontos mais emblemáticos de Évora. Agende a sua visita!",
+  "geo": {
+    "lat": 38.57229567298683,
+    "lng": -7.902959195857608
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110920/e4d10f01-61ca-4fd0-afbc-96262a7e70b1.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: F"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 24,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 24,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

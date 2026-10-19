@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 5,
   "image": "https://cdn.proppy.app/propertyfiles/5115/110761/ed11ce16-0767-4f69-8a89-6a9fef19de3b.jpeg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos esta moradia em construção, situada na tranquila freguesia de Antas, no concelho de Esposende, uma excelente oportunidade para quem procura uma casa moderna, confortável e com possibilidade de personalização.\n\nCom uma área útil de 115 m² e uma área bruta de 176,5 m², esta moradia foi concebida para proporcionar funcionalidade, conforto e qualidade de vida. Dispõe de três quartos, sendo um deles suite, e duas casas de banho, oferecendo uma distribuição prática e harmoniosa, ideal para famílias.\n\nA propriedade destaca-se pela sua certificação energética A+, assegurando elevados níveis de eficiência energética, conforto e sustentabilidade. Conta ainda com garagem, proporcionando comodidade e segurança no estacionamento.\n\nA localização é outro dos seus grandes pontos fortes. Inserida numa zona residencial calma, encontra-se a poucos minutos da Escola Básica de Góios, sendo uma excelente opção para famílias com crianças. Nas proximidades existem também várias paragens de autocarro, garantindo boas ligações às principais zonas de Esposende e arredores.\n\nEsta moradia combina o melhor da tranquilidade residencial com a proximidade de serviços essenciais e excelentes acessibilidades. Por se encontrar em fase de construção, oferece ainda a possibilidade de personalizar alguns acabamentos, permitindo criar uma casa verdadeiramente adaptada ao seu gosto e às suas necessidades.\n\nUma excelente oportunidade para adquirir uma moradia nova, eficiente e bem localizada, com uma relação qualidade/preço muito competitiva. Agende já a sua visita e venha conhecer o potencial da sua futura casa.\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.54191262752252,
+    "lng": -8.761602003272055
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,26 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/110761/ed11ce16-0767-4f69-8a89-6a9fef19de3b.jpeg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: A+",
+      "Garagem",
+      "Acessos: Auto-estrada",
+      "Localização: Interior",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Hospital, Centro de saude"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Cozinha equipada",
+      "Cozinha: Exaustor, Máquina lavar e secar roupa, Máquina lavar louça, Placa e forno, Combinado",
+      "AquecimentoTermico: Eléctrico",
+      "Caixilharia: Madeira, PVC, Alumínio, Vidros duplos"
+    ]
+  },
+  "estado": "Em construção",
+  "area_util_m2": 115,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

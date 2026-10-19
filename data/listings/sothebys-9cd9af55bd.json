@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 6,
   "area_m2": 424,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81971&foto=1665256&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81971&foto=1665256&f=1",
+  "description": "A Quinta do Rio Touro foi adquirida em 2023. Acredita-se que tenha sido originalmente um pequeno convento, tornando-se mais tarde uma quinta agrícola. Após anos em desuso, foi totalmente restaurada no início dos anos 90. Hoje, apresenta-se como um solar tradicional português inserido na Reserva Natural de Sintra, rodeado por floresta e total privacidade. Localiza-se a apenas 10 minutos da Praia do Guincho, 15 minutos de Cascais e 30 minutos de Lisboa, sendo uma das raras propriedades tradicionais totalmente restauradas da região.\n\nA propriedade beneficiou de uma renovação completa da rede elétrica, instalação de câmaras de segurança, internet em toda a casa e sistema de alarme moderno. Todos os edifícios foram renovados, incluindo portas, janelas, escadarias e caixilharias em madeira exótica maciça, artesanalmente produzidas para resistir à humidade da serra.\n\nO jardim foi redesenhado com inspiração tropical, incluindo samambaias arbóreas da Austrália e Nova Zelândia, rododendros, palmeiras, magnólias, camélias e diversas plantas floridas. Possui ainda laranjeiras, bananeiras, limoeiros, dióspiros e romanzeiras, além de horta biológica com produtos frescos e ovos diários.\n\nO solar principal dispõe de 5 suítes com casa de banho completa. Quatro quartos têm roupeiros embutidos, duas suítes contam com terraço privado e todos possuem vista para o jardim e internet por fibra. A área social inclui sala de estar com lareira, terraço com vista panorâmica e lago com peixes. A sala de jantar destaca-se pelo teto abobadado restaurado por artesãos do Alentejo e pelos quatro painéis de azulejos do século XVIII incluídos na venda. A propriedade inclui ainda ampla sala de TV com lareira, cozinha rústica totalmente equipada, lavandaria, ginásio ou garagem para um carro, estacionamento exterior, arrecadações e pátio ensolarado.\n\nOs anexos incluem casa de apoio à piscina e balneário totalmente restaurados. Uma magnífica piscina/tanque completa esta exclusiva propriedade com cerca de 3.000 metros quadrados.",
+  "geo": {
+    "lat": 38.7721824963153,
+    "lng": -9.47680234909058
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81971&foto=1665256&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81971&foto=1665256&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 2"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Madeira",
+      "Portadas",
+      "PVC",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Gás Canalizado",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Cerâmica)",
+      "Hall de Entrada (Iluminação Aut.)",
+      "Equipamento (Gás Canalizado, Jardins, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 424,
-  "area_bruta_m2": null,
+  "area_util_m2": 390,
+  "area_bruta_m2": 424,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

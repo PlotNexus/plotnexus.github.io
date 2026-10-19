@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 270,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110909/981a4d3e-b593-41a2-a811-ce6db2a4a024.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia térrea T2 com 270 m² de área bruta e 659 m² de terreno, localizada no centro de Alvito, ideal para quem procura espaço, acessibilidade e potencial de reabilitação.\n\nNo Largo Dr. João Fernandes da Silveira, esta moradia apresenta uma estrutura simples e funcional, com hall de entrada, duas salas, uma delas com lareira, cozinha, dois quartos, instalação sanitária e zona de arrumos. A disposição é direta, prática e alinhada com o estilo das casas térreas alentejanas, facilitando qualquer projeto de renovação. O logradouro, amplo e com áreas de apoio exteriores, oferece espaço para criar zonas de lazer, armazenamento ou soluções complementares adaptadas ao uso diário.\n\nA envolvente é residencial, tranquila e consolidada, junto à Pousada Castelo de Alvito, com comércio, serviços e acessos a poucos metros. O imóvel encontra‑se devoluto e necessita de obras de recuperação, representando uma oportunidade clara para quem pretende personalizar a habitação, investir ou desenvolver um projeto num dos concelhos mais autênticos do distrito de Beja.\n\nCom centralidade, boa dimensão interior e exterior, e margem de valorização, esta moradia destaca‑se como uma base sólida para quem procura criar um espaço adaptado às suas necessidades.\n\nNota: Imóvel sem licença de Utilização. A sua obtenção e eventuais obras ficam a cargo do comprador.",
+  "geo": {
+    "lat": 38.25803389999999,
+    "lng": -7.9926569
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110909/981a4d3e-b593-41a2-a811-ce6db2a4a024.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: F"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 270,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 270,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

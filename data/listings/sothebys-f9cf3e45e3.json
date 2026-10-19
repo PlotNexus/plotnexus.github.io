@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 65,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82238&foto=1667225&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82238&foto=1667225&f=1",
+  "description": "Esta pitoresca moradia renovada de cinco quartos, de estilo tradicional, encontra-se numa localização tranquila no campo, a apenas 10 minutos do centro de Loulé, beneficiando de vistas deslumbrantes sobre a paisagem envolvente.\n\nA propriedade distribui-se por dois pisos. No rés do chão, destaca-se uma ampla e luminosa área social composta por cozinha, sala de estar e sala de jantar em conceito aberto, dois quartos, um dos quais em suite, uma casa de banho social e uma arrecadação.\n\nNo primeiro piso encontram-se três generosos quartos, todos com vistas panorâmicas sobre o campo e o horizonte.\n\nNo exterior, a propriedade oferece uma agradável área de lazer com espaços de estar e refeições ao ar livre, campo de ténis e uma piscina virada a sul, ideal para desfrutar do clima ameno e dos longos dias de sol algarvios.\n\nInserida em quase dois hectares de terreno, esta moradia proporciona um nível de privacidade raro. A sua posição elevada permite apreciar uma paisagem única, onde as colinas algarvias se estendem até ao mar, criando um cenário verdadeiramente inspirador.\n\nUma excelente oportunidade para residência permanente, casa de férias ou investimento, numa localização privilegiada no interior algarvio.",
+  "geo": {
+    "lat": 37.1540973,
+    "lng": -7.9617381
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82238&foto=1667225&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82238&foto=1667225&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 65,
-  "area_bruta_m2": null,
+  "area_util_m2": 34,
+  "area_bruta_m2": 65,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

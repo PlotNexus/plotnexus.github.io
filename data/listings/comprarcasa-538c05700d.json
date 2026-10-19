@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 5,
   "image": "https://cdn.proppy.app/propertyfiles/1766/110619/a598f405-8996-4c0e-95fd-3a2f98cf2d04.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Procura o espaço ideal para instalar o seu negócio?\n\nApresentamos esta excelente loja para arrendamento anual, localizada na 2.ª linha da praia de Armação de Pêra, numa zona de grande movimento, com excelente visibilidade e fácil acesso.\n\nIdeal para escritório, gabinete, atelier, loja de comércio ou prestação de serviços, este espaço beneficia de uma localização privilegiada, a poucos passos da praia e rodeado por comércio, restauração e todos os serviços essenciais.\n\nSe procura um espaço para fazer crescer o seu negócio numa das zonas mais procuradas do Algarve, esta é uma oportunidade a não perder.\n\nEntre em contacto connosco para mais informações ou para agendar a sua visita!",
+  "geo": {
+    "lat": 37.10177660000001,
+    "lng": -8.3623335
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,30 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1766/110619/a598f405-8996-4c0e-95fd-3a2f98cf2d04.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Orientação solar: Norte, Sul",
+      "Ano construção: 2002",
+      "Curta distância a pé da praia",
+      "Localização central",
+      "Certificação energética: C",
+      "Terraço",
+      "Localização: Centro",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Vistas: Prédios",
+      "Logradouro",
+      "Fração autónoma"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul"
+    ],
+    "Interior": [
+      "Ar condicionado"
+    ]
+  },
+  "estado": "Não aplicável",
+  "area_util_m2": 6,
+  "area_bruta_m2": 5,
+  "ano_construcao": 2002,
+  "certificacao_energetica": "C"
 }

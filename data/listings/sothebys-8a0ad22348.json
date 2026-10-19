@@ -8,9 +8,12 @@
   "bedrooms": 7,
   "bathrooms": 7,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81690&foto=1658874&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81690&foto=1658874&f=1",
+  "description": "Uma propriedade de época magnificamente restaurada, inserida em jardins maduros e privados, a Quinta das Noras oferece algo cada vez mais raro no Algarve: espaço, tranquilidade e carácter genuíno — tudo a uma curta distância a pé da Meia Praia, uma das praias mais extensas e preservadas da região.\n\nA casa principal dispõe de quatro quartos e quatro casas de banho distribuídos por dois pisos, com áreas de estar confortáveis, lareira a lenha e uma cozinha recentemente renovada, complementada por uma despensa de apoio totalmente equipada. Os acabamentos incluem carpintaria personalizada em carvalho maciço e superfícies em pedra Lioz. A suíte principal, no primeiro piso, destaca-se pelos tetos abobadados, zona de vestir e terraço privativo com vista para o mar.\n\nTrês estruturas independentes — um anexo para hóspedes com dois quartos, um ginásio e estúdio de yoga, e uma casa de apoio à piscina com escritório — conferem à propriedade uma versatilidade natural, adaptando-se tanto a uma ampla residência familiar como a um retiro com potencial de rendimento.\n\nOs jardins encontram-se cuidadosamente consolidados e incluem piscina, sauna, amplos relvados, árvores de fruto e iluminação paisagística em toda a propriedade. Entre as infraestruturas práticas destacam-se os painéis solares com baterias, furo de água, portões elétricos e ar condicionado em todos os quartos principais.\n\nPartilhando a sua extrema com o Palmares Golf Club — um dos campos de golfe mais prestigiados do Algarve, com clubhouse e restaurante que desfrutam de vistas panorâmicas sobre a baía — a quinta encontra-se no ponto de encontro entre a serenidade e serviços de excelência.\n\nUma propriedade verdadeiramente versátil, numa localização privilegiada, pronta a ser desfrutada.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,22 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81690&foto=1658874&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81690&foto=1658874&f=1"
   ],
-  "features": null,
+  "features": {
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Vistas": [
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Porto de Mar)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 495,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

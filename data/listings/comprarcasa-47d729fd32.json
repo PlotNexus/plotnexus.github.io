@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 187,
   "image": "https://cdn.proppy.app/propertyfiles/1497/110870/933c1f05-ffc6-4ec4-b226-d1218281c460.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Arrenda-se moradia em banda tipo T-3+1 usada perto do Mosteiro, identificação do imóvel= R/C- garagem com portão automático e arrumo, 1ªandar- cozinha equipada e com grande salão, casa de banho, varanda, 2ºandar- 1 quarto, casa de banho com duche, closet, varanda, 3º andar- 2 quartos, 1 escritório, varanda, casa de banho com duche. A casa está equipada com Bomba de calor, ar condicionado, estores elétricos, luz indireta. \n\nSituada na área de Alcobaça e Vestiaria, esta casa oferece uma combinação perfeita de funcionalidade e estilo. Ideal para famílias em crescimento. A presença de uma garagem proporciona comodidade e segurança para os residentes.\n\nA localização central garante fácil acesso a serviços essenciais, incluindo padarias, supermercados e farmácias, tudo a poucos minutos de distância. Para quem aprecia lazer e cultura, o Jardim do Amor e o Claustro do Cardeal estão nas proximidades, oferecendo opções de lazer e história.\n\nA propriedade destaca-se pelo seu certificado energético A, refletindo eficiência e sustentabilidade. O amplo balcão e o ambiente bem estruturado tornam esta casa uma excelente escolha para quem busca qualidade de vida em uma zona bem servida de serviços e opções de lazer.\n\nIMA - Sociedade de Mediação Imobiliária, Lda. Lic. AMI 2473, pertencente ao Grupo IMA , desde 1985, trata-se de uma empresa com elevada dinâmica e experiência ao seu serviço.\n\nEm qualquer momento, os imóveis aqui identificados podem ser reservados, vendidos, retirados de venda ou com preços alterados.",
+  "geo": {
+    "lat": 39.55495819999999,
+    "lng": -8.981702
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,24 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1497/110870/933c1f05-ffc6-4ec4-b226-d1218281c460.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Varanda",
+      "Ano construção: 2026",
+      "Localização central",
+      "Certificação energética: A",
+      "Varanda: 3",
+      "Garagem",
+      "Nº carros: 2",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Correios, Farmácia, Escolas",
+      "Zona envolvente: Residencial"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 187,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 187,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A"
 }

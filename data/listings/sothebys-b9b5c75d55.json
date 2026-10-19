@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 5,
   "area_m2": 495,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76625&foto=1586524&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76625&foto=1586524&f=1",
+  "description": "Moradia Unifamiliar com 495m2 de área bruta de construção, situada no Monte Estoril, inserida em lote com 996m2, com jardim, piscina exterior e vista mar.\nEste imóvel, com uma localização privilegiada, situa-se a escassos minutos da praia, da estação de comboios e da Avenida Marginal. Servido por comércio, restauração e serviços locais, e uma vasta rede de transportes e de colégios privados e internacionais. Permite aos moradores a conveniência de realizar as suas atividades quotidianas a pé pelo bairro.\nNo piso principal da entrada encontramos uma ampla zona de estar, uma sala de refeições, um lavabo social e uma cozinha totalmente equipada. Temos ainda uma entrada de serviço com um hall e uma suite de serviço.\nNo piso superior temos uma master suite com closet, uma varanda com vista mar, e ainda três quartos e uma instalação sanitária.\nNo piso inferior encontra-se a garagem, uma zona de arrumos e uma suite. A unir os três pisos temos uma espaçosa zona de circulação servida por escadas de acesso aos pisos.\nEsta moradia, por se encontrar em fase de construção, oferece a possibilidade de participar no processo de escolha de acabamentos e materiais. Sendo que estão previstos acabamentos topo de gama. \nSe procura um imóvel com uma localização privilegiada, esta moradia oferece uma excelente oportunidade de viver com qualidade no Monte Estoril. Localização esta reconhecida como um dos destinos mais exclusivos de Portugal, com as suas praias, clima ameno e paisagens deslumbrantes. Os futuros residentes encontrarão uma comunidade exclusiva que valoriza o prestigio e o conforto.\nA Sotheby's International Realty conta com quase 300 anos de história enquanto conceituada empresa responsável por transacionar bens de luxo. Está presente em Portugal desde 2007 com dez escritórios e mais de 200 profissionais altamente qualificados e disponíveis para o satisfazer. A sua missão é \"A arte de unir casas extraordinárias a vidas extraordinárias\".\nNão hesite em contactar-nos caso esta oportunidade seja do seu interesse.",
+  "geo": {
+    "lat": 38.7035171,
+    "lng": -9.391423
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,51 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76625&foto=1586524&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76625&foto=1586524&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 495,
-  "area_bruta_m2": null,
+  "area_util_m2": 392,
+  "area_bruta_m2": 495,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

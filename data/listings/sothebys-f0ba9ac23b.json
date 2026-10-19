@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 9,
   "area_m2": 411,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74717&foto=1502930&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74717&foto=1502930&f=1",
+  "description": "Exclusiva moradia de luxo, localizada na prestigiada Avenida Marechal Gomes da Costa, esta moradia encontra-se numa das áreas mais valorizadas da cidade. Inserida numa zona residencial de excelência, oferece uma combinação perfeita entre sofisticação, conforto e funcionalidade, proporcionando um estilo de vida diferenciado e privilegiado.\nA propriedade foi recentemente remodelada, apresentando acabamentos de alta qualidade e uma arquitetura que harmoniza tradição e modernidade. O interior foi projetado para maximizar o espaço e a luminosidade, criando ambientes amplos e acolhedores. Com cinco suites e um quarto adicional de serviço, esta moradia assegura privacidade e comodidade para toda a família. A sala de estar, e de jantar, liga-se diretamente ao terraço com vista sobre jardim, onde se encontra a piscina e uma zona de lazer ideal para momentos inesquecíveis.\nAlém da área social, a moradia dispõe de um salão que se destaca pelo design sofisticado e funcional, incluindo uma elegante garrafeira. A cozinha, com orientação a sul, foi concebida para oferecer um espaço prático e confortável, perfeito para o dia a dia. Para maior comodidade, o imóvel conta ainda com elevador, garantindo fácil acesso a todos os pisos.\nA localização é um dos grandes atrativos desta propriedade. Situada a poucos minutos dos mais conceituados colégios internacionais, beneficia de um acesso privilegiado a uma vasta oferta de serviços, comércio e restauração. A proximidade a hospitais, supermercados e infraestruturas essenciais torna esta moradia uma escolha ideal para quem valoriza conveniência e exclusividade.\nCom excelentes acessibilidades, esta residência permite um rápido acesso às principais vias da cidade, bem como a transportes públicos, incluindo estações de metro. Além disso, a curta distância das praias e a apenas 20 minutos do Aeroporto do Porto, oferece uma localização estratégica para quem procura uma conexão perfeita entre a vida urbana e a tranquilidade.\nEsta é uma oportunidade única para quem procura exclusividade, combinando elegância, funcionalidade e uma localização de excelência.",
+  "geo": {
+    "lat": 41.16013,
+    "lng": -8.659888
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,46 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74717&foto=1502930&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74717&foto=1502930&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Revestimento Exterior (Pintado)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 61; Local (Exterior)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 411,
-  "area_bruta_m2": null,
+  "area_util_m2": 81,
+  "area_bruta_m2": 411,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

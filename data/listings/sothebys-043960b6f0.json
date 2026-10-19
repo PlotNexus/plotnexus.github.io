@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 523,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73210&foto=1446584&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73210&foto=1446584&f=1",
+  "description": "Esta exclusiva Moradia isolada oferece uma experiência residencial incomparável. Com uma tipologia T3, de arquitetura moderna esta Moradia tem uma vista panorâmica de mar, combinando conforto, funcionalidade e uma localização privilegiada.\n\nA moradia, de 3 pisos, de 2017, tem uma área de construção de 512 m², um design contemporâneo e acabamentos de elevada qualidade. No piso 1 encontramos uma generosa sala comum de 52 m2 com lareira de bio etanol, com acesso direto ao deck e jardim onde podemos desfrutar da magnífica vista. Neste piso temos também um lavabo social, uma ampla cozinha de design moderno, totalmente equipada com eletrodoméstico topo de gama e a lavandaria adjacente que proporciona maior comodidade. \nNo exterior temos um jardim com piscina e espaço de deck para refeições exteriores com zona de barbecue.\nNo piso 1 encontramos a master suite com closet de 53 m2 com um terraço que acompanha toda a suíte e mais duas suítes júnior com closet.\nNo piso -1 encontramos uma ampla sala de cinema, ginásio, adega, várias zonas de arrumos e uma garagem com capacidade para 4 viaturas. \n\nA localização da propriedade é igualmente vantajosa, com acesso rápido a diversos serviços e infraestruturas. Situada a apenas cinco minutos das principais vias de acesso, A5 e Marginal, estação de comboios, restaurantes, supermercados e escolas, a moradia garante comodidade e uma vida prática. Além disso as praias, escolas internacionais, hospital particular, health club e Centro comercial estão a apenas dez minutos de distância, oferecendo maior segurança e conforto para a família.\n\nPara quem valoriza a proximidade ao mar e a exposição solar, esta moradia tem uma ótima orientação solar, maximizando a luz natural em todos os espaços. A presença de um jardim bem cuidado e uma piscina aquecida reforçam o apelo deste imóvel, proporcionando um ambiente relaxante e exclusivo para toda a família que, aliado aos equipamentos e materiais de elevada qualidade, fazem deste imóvel a escolha perfeita.\n\nEste imóvel no Parque dos Poetas representa uma oportunidade única para adquirir uma casa de excelência em Oeiras, combinando modernidade, conforto e uma localização de prestígio junto ao mar.",
+  "geo": {
+    "lat": 38.6962533320445,
+    "lng": -9.30527961528321
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,68 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73210&foto=1446584&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73210&foto=1446584&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Velux / Telhado",
+      "Estores (Alumínio, Eléctricos, Térmicos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Gás Canalizado",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (Completo, Segurança Activa)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Pavimento (Mármore)",
+      "Paredes (Madeira)",
+      "Tecto (Estucado, Falso Pladur, Ponto de Luz)",
+      "Equipamento (Gás Canalizado, Jardins, Rega Automática, TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Polícia, Praias, Serviços Públicos)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 523,
-  "area_bruta_m2": null,
+  "area_util_m2": 272,
+  "area_bruta_m2": 523,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

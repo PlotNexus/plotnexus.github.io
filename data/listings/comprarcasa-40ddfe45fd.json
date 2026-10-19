@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 5,
   "image": "https://cdn.proppy.app/propertyfiles/5115/110987/333303f2-958b-41ae-8cd3-afb2291aea31.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apartamento Situado na encantadora localidade de Darque, em Viana do Castelo, este apartamento renovado oferece uma combinação perfeita de conforto, funcionalidade e vistas deslumbrantes.\n\nCom uma área útil de 95 m² e uma área bruta de aproximadamente 113,5 m², o imóvel proporciona um espaço generoso e confortável para viver com qualidade. A sua localização privilegiada permite desfrutar de magníficas vistas panorâmicas sobre o rio, criando um ambiente tranquilo e inspirador.\n\nO apartamento dispõe de três quartos espaçosos, ideais para uma família ou para quem procura divisões adicionais que possam ser utilizadas como escritório, quarto de hóspedes ou espaço de lazer. Uma das características diferenciadoras deste imóvel é o facto de todas as divisões terem acesso a varanda, proporcionando excelente luminosidade, ventilação e uma agradável ligação ao exterior.\n\nConta ainda com duas casas de banho, distribuídas de forma funcional, garantindo maior comodidade e privacidade no dia a dia.\n\nA cozinha, moderna e bem equipada, integra-se harmoniosamente com a sala de estar, criando um espaço amplo e acolhedor, perfeito para momentos de convívio em família ou com amigos. As varandas, presentes em todas as divisões, permitem aproveitar ao máximo as vistas panorâmicas sobre o rio e o ambiente tranquilo envolvente.\n\nPara maior comodidade, o edifício dispõe de elevador, facilitando o acesso aos diferentes pisos. O imóvel possui certificação energética de classe C e encontra-se pronto a habitar, beneficiando de uma renovação recente e de um excelente estado de conservação.\n\nIdeal para quem valoriza conforto, boas áreas, luminosidade, espaços exteriores e uma localização privilegiada, este apartamento representa uma excelente oportunidade para habitação própria ou investimento, numa das zonas mais procuradas de Viana do Castelo.\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.68329186082096,
+    "lng": -8.800361692262912
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,33 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/110987/333303f2-958b-41ae-8cd3-afb2291aea31.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista rio",
+      "Varanda",
+      "Arrecadação",
+      "Elevador",
+      "Certificação energética: C",
+      "Varanda: SIM",
+      "Lugar de garagem",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Correios, Farmácia, Hospital",
+      "Zona envolvente: Residencial",
+      "Vistas: Rio, Areas verdes, Prédios"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Aquecimento",
+      "Cozinha equipada",
+      "Cozinha: Frigorifico, Exaustor, Placa e forno, Esquentador",
+      "Caixilharia: Madeira, Alumínio, Vidros duplos, Caixilharia dupla",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Renovado",
+  "area_util_m2": 95,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 7,
   "area_m2": 538,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80138&foto=1615849&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80138&foto=1615849&f=1",
+  "description": "Moradia contemporânea concebida pelo arquiteto internacionalmente reconhecido Vasco Vieira, criada para quem valoriza espaço, serenidade e sofisticação. Localizada numa das zonas mais prestigiadas do Algarve, em Vale do Lobo, o mais icónico resort de golfe e praia da Europa, esta propriedade representa uma oportunidade excecional, tanto como residência privada como investimento de elevado padrão.\nA 20 minutos do Aeroporto Internacional de Faro, com ligações diretas às principais cidades europeias, Vale do Lobo oferece o equilíbrio perfeito entre acessibilidade e privacidade. O resort distingue-se pelos seus dois campos de golfe premiados, praia dourada com aproximadamente 2 km de extensão e um dinâmico centro de lifestyle que combina bem-estar, gastronomia de excelência e um forte sentido de comunidade e exclusividade.\nImplantada num terreno naturalmente inclinado, a moradia destaca-se pela sua presença arquitetónica marcante. A chegada à propriedade é verdadeiramente impressionante: um percurso linear, elevado sobre um espelho de água, conduz à imponente entrada principal, criando uma primeira impressão memorável.\nAs áreas sociais são amplas e inundadas de luz natural, apresentando linhas contemporâneas e acabamentos de elevada qualidade. A sala de estar abre-se totalmente para o exterior, promovendo uma ligação harmoniosa entre os espaços interiores e a natureza. A cozinha de design minimalista, equipada com mobiliário Arclinea e eletrodomésticos topo de gama, prolonga-se naturalmente para a zona de refeições e o terraço, incentivando um estilo de vida que integra os espaços interiores e exteriores.\nA piscina exterior, integrada na geometria da moradia, constitui o coração das áreas sociais, proporcionando um espaço dedicado ao lazer. \nNo piso inferior encontram-se cinco luxuosas suites, todas com closets, concebidas como verdadeiros espaços de tranquilidade. Este piso inclui ainda um ginásio totalmente equipado com equipamentos Technogym e uma sala versátil, ideal para um cinema privado, sala de jogos ou outros usos personalizados.\nO conforto térmico é assegurado por um sistema de climatização BAXI, com piso radiante e unidades fan coil. As caixilharias de alumínio SCHÜCO com corte térmico, combinadas com vidros duplos com proteção solar e isolamento acústico, garantem uma excelente eficiência energética e conforto interior.\nA cobertura oferece um espaço exclusivo dedicado ao lazer e à contemplação, com piscina, lounge e bar.",
+  "geo": {
+    "lat": 37.0550705,
+    "lng": -8.0643563
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,60 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80138&foto=1615849&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80138&foto=1615849&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Cerâmica, Pedra Natural)",
+      "Equipamento (Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Farmácia, Ginásio, Jardins, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 538,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 538,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

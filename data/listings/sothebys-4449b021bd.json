@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 3,
   "area_m2": 573,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=60308&foto=1129631&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=60308&foto=1129631&f=1",
+  "description": "Magnifico Chalet histórico localizado em S. João do Estoril, a escassos metros da praia, perto de serviços e de fáceis acessos. \nA origem do Chalet remonta ao final do século XIX, embora tenha sido alvo de várias reformas até aos dias de hoje. De destacar o impressionante torreão com quatro pisos e telhado piramidal, uma arquitetura arrojada para a época, mas que serviu de inspiração para a construção de vários outros chalets em S. João do Estoril, uma zona de veraneio particularmente procurada pelas classes mais abastadas de Lisboa. O chalet está inserido num lote de mais de 1.300 metros quadrados no qual está edificado o edifício principal, com vista mar do andar superior, contando ainda com dois anexos recentemente remodelados e um pré fabricado que é utilizado como guest house. \nO chalet necessita de obras de recuperação, contudo tem um enorme potencial para ser transformado num elegante AL ou numa fantástica casa de família para quem deseja centralidade e privilegia o entorno e a vista. \nOportunidade única de renovar esta casa cheia de história e memórias inesquecíveis de outras épocas, num local idílico onde possa recriar as suas.",
+  "geo": {
+    "lat": 38.7012619,
+    "lng": -9.3880816
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=60308&foto=1129631&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=60308&foto=1129631&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 573,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 573,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

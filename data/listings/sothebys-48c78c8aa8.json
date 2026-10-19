@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76683&foto=1692523&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76683&foto=1692522&f=1",
+  "description": "Situado no centro de Cascais, este apartamento T4 faz parte do Condomínio Cascais Bay View, localizado na primeira linha de mar, a apenas 150 metros da praia. Este apartamento destaca-se pela sua generosa área privativa de 300 metros quadrados, complementada por 125 metros quadrados de terraços com vista frontal para o mar, ideal para quem valoriza espaços exteriores amplos e bem aproveitados.\n\nEste magnífico apartamento conta com quatro suites, sala e cozinha em open-space, garantindo conforto e funcionalidade para famílias. Dispõe ainda de estacionamento privativo e o condomínio encontra-se em fase final de construção, oferecendo modernas soluções construtivas. Os terraços valorizam a vivência ao ar livre e as vistas panorâmicas de mar, compondo um cenário agradável para momentos de descanso ou convívio.\n\nNo âmbito das comodidades do condomínio, os residentes têm ao seu dispor piscina exterior e interior, piscina infantil, ginásio equipado e SPA. A garagem conta com pontos de carregamento para veículos elétricos e os jardins ajardinados complementam o espaço comum. O serviço de concierge e a segurança 24 horas asseguram comodidade e proteção aos moradores.\n\nEsta localização é estratégica, permitindo o acesso rápido a diversos serviços e infraestruturas. A estação de comboios fica a apenas 2 minutos a pé, enquanto supermercados e opções de restauração estão a menos de 5 minutos a pé. O hospital local pode ser alcançado em cerca de 10 minutos de carro. As principais vias rodoviárias estão próximas, facilitando deslocações para Lisboa e outras áreas.\n\nCascais é uma região que conjuga o ambiente costeiro com uma oferta variada de comércio, cultura e lazer. Com escolas e serviços nas imediações, é uma zona que atrai quem procura qualidade de vida sem renunciar à proximidade urbana, num cenário que privilegia o contacto com o mar e a tranquilidade típica da costa portuguesa.",
+  "geo": {
+    "lat": 38.7032419,
+    "lng": -9.4175097
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,71 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76683&foto=1692523&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76683&foto=1692522&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Termolacada",
+      "Estores (Alumínio, Eléctricos, Térmicos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Escritório",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (CCTV, Completo, Segurança Activa)",
+      "Piscina (Exterior, Interior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Madeira, Pintadas)",
+      "Tecto (Estucado, Falso Pladur, Focos, Ponto de Luz)",
+      "Equipamento (Campo de Jogos, Court Ténis, Gás Canalizado, Jardins, Parabólica, Parque Infantil, Rega Automática, Sala Condomínio, TV Cabo, Video-Porteiro, Zelador / Porteiro)",
+      "Piscina (Exterior, Interior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 297,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

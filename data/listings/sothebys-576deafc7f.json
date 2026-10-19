@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77540&foto=1571016&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77540&foto=1571016&f=1",
+  "description": "No coração da serra algarvia, rodeada de tranquilidade e com total privacidade, encontra-se esta moradia de linhas modernas e elegantes, com cerca de 600 m² de área habitacional total e vistas deslumbrantes sobre o campo.\nA casa foi projetada para proporcionar conforto, luminosidade e funcionalidade. Todos osquatro quartos estão localizados no piso térreo, incluindo uma majestosa master suite com closet, que alia sofisticação e bem-estar. A cozinha em open space, moderna e totalmente equipada, integra-se harmoniosamente na sala de estar com pé-direito duplo, criando um ambiente amplo e convidativo.\nNo primeiro piso, uma mezanine versátil abre espaço para um escritório ou zona de leitura, com acesso direto a um terraço generoso, perfeito para apreciar a paisagem serena. No exterior, o lazer é garantido pela piscina de excelentes dimensões, pelos vários recantos de descanso em perfeita comunhão com a natureza e pela carport coberta para dois carros, que acrescenta praticidade e comodidade ao quotidiano. A propriedade conta ainda com um anexo independente, ideal para receber familiares ou convidados, composto por cozinha equipada, sala de jantar, sala de estar, um quarto em suite e entrada própria. \nImplantada num terreno com mais de 53.000 m², a moradia é envolvida por um jardim cuidado, enriquecido com árvores de fruto, e pelas tradicionais alfarrobeiras no topo da colina, que sublinham a autenticidade do cenário algarvio.\nUma propriedade exclusiva, onde a modernidade da arquitetura se funde com a serenidade da serra, o refúgio perfeito para quem procura privacidade, natureza e qualidade de vida.",
+  "geo": {
+    "lat": 37.1932863,
+    "lng": -8.0294274
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77540&foto=1571016&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77540&foto=1571016&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 300,
+  "area_bruta_m2": 65,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 7,
   "bathrooms": 6,
   "area_m2": 945,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68418&foto=1319566&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68418&foto=1319566&f=1",
+  "description": "Descubra o conforto e a elegância nesta incrível moradia isolada de 5 quartos+2 escritórios, situada na prestigiada Quinta Grande, em Alfragide. Esta propriedade única oferece uma oportunidade rara de viver com luxo e privacidade em uma das áreas mais desejadas da região.\n\nCom uma área bruta privativa de 750 metros quadrados, esta moradia impressionante foi construída em 2011 e ostenta uma avaliação excelente. A luminosidade é uma característica marcante, destacando-se pelas amplas janelas que proporcionam vistas deslumbrantes para o exterior.\n\nNo piso 0, a sala de estar oferece acesso direto à piscina privativa, ao lago sereno e ao campo de padel, proporcionando um ambiente perfeito para entretenimento e relaxamento. O piso 1 abriga outra sala de estar, uma cozinha moderna e uma casa de banho luxuosa, enquanto o piso 2 apresenta 4 quartos, sendo 3 em suíte, garantindo conforto e privacidade para toda a família.\n\nEsta moradia está estrategicamente localizada, a apenas 2 minutos das principais vias de acesso, 10 minutos da estação de comboios e do metro. A proximidade com restaurantes, hospitais, supermercados e escolas, incluindo o Internacional Park a apenas 2 minutos, adiciona conveniência à qualidade de vida.\n\nAlém das características arquitetónicas impressionantes, a propriedade oferece uma exposição solar privilegiada (nascente e sul) e a comodidade de um elevador. A privacidade é garantida, enquanto a proximidade com serviços essenciais e infraestruturas de transporte torna esta moradia ainda mais atrativa.\n\nDescubra o luxo e a exclusividade nesta moradia única, uma verdadeira joia em Quinta Grande, Alfragide.\n\nAgende uma visita e faça desta propriedade o seu novo lar.",
+  "geo": {
+    "lat": 38.73619,
+    "lng": -9.220107
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68418&foto=1319566&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68418&foto=1319566&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 945,
-  "area_bruta_m2": null,
+  "area_util_m2": 750,
+  "area_bruta_m2": 945,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 6,
   "area_m2": 815,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78518&foto=1591368&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78518&foto=1591368&f=1",
+  "description": "Num terreno de 3.508 m², com licença de construção até 1.750 m², esta moradia V3 é um verdadeiro refúgio onde a arquitetura contemporânea, a privacidade absoluta e as vistas sobre o Oceano Atlântico e a Serra de Sintra se fundem em perfeita harmonia.\nConcebida para um estilo de vida exigente, esta propriedade alia sofisticação, conforto e uma envolvente natural ímpar.\nTodos os quartos são em suíte, incluindo uma master suíte com closet, inundada por luz natural e beneficiando de vistas panorâmicas que criam uma atmosfera de serenidade e elegância.\nAs amplas áreas sociais oferecem grande versatilidade, integrando sala de cinema, garrafeira, escritório e ginásio, com possibilidade de conversão deste último numa suíte adicional, reforçando a flexibilidade da área habitacional.\nA moradia dispõe ainda de duas cozinhas interiores totalmente equipadas, lavandaria e duas casas de banho sociais.\nNo exterior uma elegante piscina enquadrada por jardins amplos, complementada por uma pérgula moderna com cozinha exterior equipada e zona de refeições, ideal para receber convidados durante todo o ano.\nA propriedade inclui ainda anexos de apoio, nomeadamente casa para empregada, harmoniosamente integrados no conjunto da moradia.\nO extenso terreno oferece igualmente mini golfe, carregador para viaturas elétricas e um sistema de segurança 24 horas, com vigilância em todo o perímetro.\n\nLocalizada numa das zonas residenciais mais prestigiadas de Portugal, esta moradia representa uma excelente oportunidade, combinando uma localização privilegiada, vistas únicas e um elevado padrão de qualidade de vida.",
+  "geo": {
+    "lat": 38.7371469161,
+    "lng": -9.3994903564
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,50 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78518&foto=1591368&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78518&foto=1591368&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo, Segurança Activa)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Pavimento (Mármore)"
+    ],
+    "Garagem": [
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Mar",
+      "Panorâmicas",
+      "Rio",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 815,
-  "area_bruta_m2": null,
+  "area_util_m2": 583,
+  "area_bruta_m2": 815,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

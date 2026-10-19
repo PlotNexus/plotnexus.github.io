@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 251,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110578/7cca05da-64ac-40e5-8420-420faca8f645.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T3 bifamiliar com garagem, dois pisos e Aproveitamento de Sótão, situada na Estrada dos Telheiros, Alandroal, uma casa prática, completa e com áreas generosas!\n\nNo primeiro andar encontra‑se a zona habitacional principal, organizada para funcionar de forma eficiente no dia a dia: uma sala de estar com boa área, cozinha funcional com varanda, dois quartos e uma suíte que garante maior privacidade. As duas casas de banho distribuem‑se de forma equilibrada, acompanhando a lógica de circulação do corredor central. As três varandas acrescentam ventilação, luz e pontos de apoio úteis para arrumação ou pequenas rotinas domésticas.\n\nNo rés do chão, a garagem com 21,94 m² oferece espaço real para estacionamento e armazenamento, mantendo o acesso interno ao piso superior. No topo, o sótão aproveitado (20,49 m²) funciona como área extra, arrumos, escritório, estúdio ou simplesmente expansão futura, dependendo das necessidades.\n\nCom 251 m² de construção num lote de igual dimensão, esta moradia destaca‑se pela estrutura sólida, pela distribuição funcional e pelo potencial de adaptação, ideal para quem procura uma solução completa numa zona tranquila do Alandroal.",
+  "geo": {
+    "lat": 38.69774199149152,
+    "lng": -7.4015228113129075
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110578/7cca05da-64ac-40e5-8420-420faca8f645.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 251,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: E"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 143,
+  "area_bruta_m2": 251,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

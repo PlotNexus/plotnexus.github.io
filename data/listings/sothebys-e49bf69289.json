@@ -8,9 +8,12 @@
   "bedrooms": 10,
   "bathrooms": 10,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77504&foto=1583651&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77504&foto=1583651&f=1",
+  "description": "No prestigiado bairro de Alvalade, onde a tradição lisboeta se cruza com a sofisticação urbana, encontra-se esta propriedade singular que combina charme, imponência e um enorme potencial de adaptação. Atualmente configurada como três apartamentos independentes, a moradia, inserida num lote de 1057 m2, pode facilmente regressar à sua versão original, com 10 quartos.\nA propriedade está organizada em três frações independentes:\nFração A – T2: com 178 m², dispõe de hall de entrada, dois quartos, sendo um deles em suite, sala de estar, sala de jantar, escritório, cozinha, duas casas de banho e varanda de 10m2\nFração B – T4 Duplex: com 226 m², distribui-se em dois pisos e conta com hall de entrada, duas salas, duas cozinhas, quatro quartos, quatro casas de banho, duas delas em suite, cozinha e varanda de 10 m2.\nFração C – T4 Duplex: com 314 m², o piso inferior é composto por hall de entrada, três quartos, duas casas de banho, sendo uma delas em suite. O piso superior, possui uma ampla sala, com lareira e acesso à varanda com 26 m2, escritório, cozinha, lavandaria, quarto de hóspede e uma casa de banho completa.\nPossui, ainda, uma garagem com 159m², com capacidade para quatro ou cinco viaturas no interior, além de um lugar de estacionamento exterior.\nMais do que um imóvel, esta é uma oportunidade única para criar um projeto de vida à medida, seja como residência de prestígio, seja como investimento diferenciador num dos bairros mais emblemáticos de Lisboa.",
+  "geo": {
+    "lat": 38.7540457,
+    "lng": -9.1442049
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,35 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77504&foto=1583651&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77504&foto=1583651&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Bons)",
+      "Proximidade (Bancos, Escolas, Farmácia, Jardins, Jardins Infância, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 788,
+  "area_bruta_m2": 466,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

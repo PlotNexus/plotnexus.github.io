@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 2,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79652&foto=1633229&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79652&foto=1633229&f=1",
+  "description": "Situada numa das localizações mais raras e desejadas do Algarve, entre as emblemáticas Praia de São Rafael e Praia dos Arrifes, esta extraordinária moradia oferece uma combinação irrepetível de privacidade absoluta, proximidade ao mar e sofisticação contemporânea. Inserida num cenário natural de falésias douradas e enseadas protegidas, a propriedade foi concebida para quem valoriza um estilo de vida sereno, elegante e profundamente ligado ao oceano. Aqui, o som do mar e a luz do sul tornam-se parte integrante da experiência diária. A arquitectura privilegia volumes amplos, linhas limpas e uma fluidez perfeita entre interior e exterior. As áreas sociais desenvolvem-se em plano aberto, com grandes vãos envidraçados que inundam os espaços de luz natural e permitem uma ligação contínua aos terraços e à zona de piscina — ideal tanto para receber como para disfrutar de momentos de contemplação em total privacidade. A moradia dispõe de três suítes generosas, todas desenhadas com atenção ao conforto e à intimidade. A suíte principal assume um carácter verdadeiramente exclusivo, com closet, zona de bem-estar tipo spa, banho turco, jacuzzi e douche walk-in, criando um ambiente de retiro privado digno de um resort de cinco estrelas. Os interiores refletem uma elegância discreta e intemporal, onde materiais nobres, acabamentos de elevada qualidade e um design minimalista sofisticado se unem para criar uma atmosfera serena e contemporânea. Cada detalhe foi pensado para proporcionar funcionalidade sem abdicar da estética. No exterior, a piscina de design moderno, envolvida por decks e jardins cuidadosamente integrados na paisagem, convida a longos dias ao sol e a fins de tarde tranquilos, com o Atlântico como pano de fundo. Um verdadeiro prolongamento natural dos espaços interiores. A localização distingue-se não apenas pela beleza natural, mas também pela exclusividade: a poucos minutos a pé de duas das praias mais icónicas de Albufeira, próxima de restaurantes de referência, campos de golfe e a curta distância do Aeroporto Internacional de Faro. Um equilíbrio perfeito entre retiro privado e acessibilidade cosmopolita. Esta é mais do que uma casa. É uma expressão de luxo sereno, onde o tempo desacelera e cada momento é vivido em harmonia com o mar e a paisagem envolvente — uma oportunidade rara numa das zonas costeiras mais prestigiadas de Portugal.",
+  "geo": {
+    "lat": 37.0768581057486,
+    "lng": -8.2776306623932
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,65 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79652&foto=1633229&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79652&foto=1633229&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Gás Canalizado",
+      "Parabólica",
+      "Rega Automática",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Falso Pladur, Focos, Ponto de Luz)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 2,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 2,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

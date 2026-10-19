@@ -9,8 +9,11 @@
   "bathrooms": 10,
   "area_m2": 77,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110668/8c4f6b88-4659-4f72-9e3e-2117a2d36cbe.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Uma quinta de 7.154 m² com duas moradias independentes, um T2 para habitação e T6+1 para turismo rural, pronta a rentabilizar, com piscina, privacidade total e potencial de expansão no coração do Alentejo.\n\nNo silêncio característico de Landeira, este Monte Alentejano ergue‑se como um refúgio onde a vida decorre devagar, mas as oportunidades avançam depressa. Ao atravessar o portão, o terreno totalmente vedado abre‑se em amplitude, luz e tranquilidade, revelando um imóvel pensado para quem procura unir qualidade de vida e rentabilidade imediata num só investimento.\n\nA moradia T2, com 178 m², oferece duas suites, sala acolhedora e cozinha funcional, sendo um espaço perfeito para viver, receber ou complementar rendimento. A segunda construção, dedicada ao turismo rural, apresenta um T6+1 com 451 m², seis suites amplas, um escritório/quarto adicional, sala de lazer, cozinha equipada, despensa e lavandaria, tudo mobilado e pronto a operar graças à licença AL ativa.\n\nNo exterior, a narrativa ganha vida: uma piscina com zona de descanso, jacuzzi, churrasqueira, garagem e estacionamento interno. Os 6.495 m² descobertos oferecem espaço para horta, jardins, bungalows ou eventos, permitindo transformar o monte num projeto turístico sólido ou num retiro familiar multifuncional.\n\nCom aquecimento central, ar condicionado, furo de 50 m e excelentes acessos a Lisboa, Setúbal, Évora e Comporta, esta quinta combina autenticidade alentejana com conforto moderno!",
+  "geo": {
+    "lat": 38.60082741333542,
+    "lng": -8.624508727727797
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,25 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110668/8c4f6b88-4659-4f72-9e3e-2117a2d36cbe.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: C",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Lar de terceira idade, Centro de saude, Policia",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Piscina"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Não aplicável",
   "area_util_m2": 77,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 77,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

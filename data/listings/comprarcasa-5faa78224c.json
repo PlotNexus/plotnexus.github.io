@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 115,
-  "image": "https://cdn.proppy.app/propertyfiles/1515/110806/ff7aa6f1-206e-4385-b5b1-77284abfee0a.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "image": "https://cdn.proppy.app/propertyphotos/1515/aa9fef4b-d957-405c-ade3-580e180a10da/110806/2aa4d5d5-6e5d-44b7-a592-ee7c24236d20.png?quality=70",
+  "description": "Moradia Térrea T3 de Gaveto com Quintal no Centro do Torrão\n\nMoradia térrea T3 de gaveto, com 115 m² de área útil, implantada num lote de 189 m², situada na Rua da Matriz, numa zona central e consolidada do Torrão.\n\nA configuração de gaveto, com fachadas voltadas para duas ruas, confere ao imóvel maior exposição solar e várias entradas de luz natural. No interior, a habitação apresenta uma distribuição funcional, composta por uma sala, cozinha ampla com espaço para refeições, três quartos e instalações sanitárias.\n\nA arquitetura mantém a identidade tradicional alentejana, visível na construção térrea, nas paredes robustas, nas portadas interiores e na cobertura em telha. O imóvel necessita de trabalhos de recuperação e modernização, permitindo reorganizar e personalizar os espaços de acordo com as necessidades dos futuros proprietários.\n\nNo exterior encontra-se um quintal amplo e soalheiro, com área suficiente para criar uma agradável zona de refeições, lazer ou jardim. Dispõe ainda de bancada de apoio exterior e de um anexo, que acrescenta versatilidade à propriedade e poderá ser utilizado para arrumos, espaço de trabalho ou outra finalidade.\n\nA localização central permite aceder facilmente ao comércio e aos principais serviços da vila. Uma opção com boa área interior e exterior, adequada tanto para habitação própria como para investimento ou segunda residência no Alentejo.\n\nSe procura uma moradia térrea com caráter, espaço exterior e margem de valorização, esta é uma oportunidade a considerar no concelho de Alcácer do Sal.",
+  "geo": {
+    "lat": 38.29608585419918,
+    "lng": -8.229356802254088
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -19,12 +22,16 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://cdn.proppy.app/propertyfiles/1515/110806/ff7aa6f1-206e-4385-b5b1-77284abfee0a.jpg?quality=70&width=360&height=222&mode=crop"
+    "https://cdn.proppy.app/propertyphotos/1515/aa9fef4b-d957-405c-ade3-580e180a10da/110806/2aa4d5d5-6e5d-44b7-a592-ee7c24236d20.png?quality=70"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Em curso"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 115,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 115,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

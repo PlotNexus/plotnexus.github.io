@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 7,
   "area_m2": 791,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81546&foto=1664796&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81546&foto=1664796&f=1",
+  "description": "Numa das zonas mais procuradas da linha de Oeiras, esta moradia isolada afirma-se pela serenidade da sua arquitetura e pela presença constante do mar. Implantada num lote de 1.201 m², com 791,15 m² de área bruta de construção, foi concluída em 2021 e distingue-se por acabamentos de topo, um estado de conservação impecável e um elevador privativo que percorre todos os pisos, até ao terraço.\nDistribuída por três pisos, a moradia oferece volumes amplos, luminosos e cuidadosamente articulados.\nNo piso de receção desenvolvem-se os espaços sociais, com várias salas de estar e uma zona de refeições ao longo de cerca de 103 m², em diálogo direto com uma varanda orientada a sul e aberta sobre o mar. A cozinha, totalmente equipada, a lavandaria e a casa de banho social completam este piso, marcado por uma exposição solar privilegiada.\nA área privativa acolhe três suites. A suite principal, com cerca de 57 m², integra quarto, walk-in closet e casa de banho, prolongando-se numa varanda de vista panorâmica sobre o oceano. As restantes suites, de generosas dimensões, oferecem 36 m² e 32 m². No coroamento da casa, um terraço rooftop com jacuzzi convida à contemplação do horizonte.\nAo nível do jardim, uma segunda zona social reúne uma sala em open space de cerca de 44 m² com zona de bar e escritório, sala de cinema, ginásio e suite de hóspedes, em continuidade com o jardim e a piscina. O espaço exterior, concebido para receber, dispõe de cozinha exterior de 40 m² com zona de barbecue.\nA moradia integra ar condicionado em todas as divisões, painéis solares para aquecimento de águas, garagem para dois automóveis e acessibilidade para mobilidade reduzida.\nA localização reúne o melhor de dois mundos: a tranquilidade de um bairro residencial e a proximidade de comércio, serviços, acessos à A5 e à Marginal, e da estação de comboios de Paço de Arcos.\nUma propriedade de exceção, para quem procura uma construção recente, espaços exteriores generosos e o privilégio raro de viver frente ao mar.",
+  "geo": {
+    "lat": 38.6962533320445,
+    "lng": -9.30527961528321
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,42 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81546&foto=1664796&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81546&foto=1664796&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Escritório",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Solar",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 791,
-  "area_bruta_m2": null,
+  "area_util_m2": 573,
+  "area_bruta_m2": 791,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

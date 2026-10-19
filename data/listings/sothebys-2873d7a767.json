@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81981&foto=1657918&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81981&foto=1657918&f=1",
+  "description": "Apartamento T3 Duplex no Edifício Molhe da Montevideu – Exclusividade na Foz do Douro\n\nEste elegante apartamento T3 Duplex integra o Edifício Molhe da Montevideu, um empreendimento residencial de luxo localizado na Avenida Montevideu, em plena Foz do Douro, a poucos metros do mar.\n\nCom 232,05 m² de área bruta privativa, incluindo varandas, esta exclusiva residência beneficia ainda de um terraço de uso exclusivo com 98,80 m², proporcionando uma vivência exterior ampla e privilegiada. O apartamento desfruta de vistas sobre o mar e o centro da cidade e dispõe de dois lugares de estacionamento.\n\nDe arquitetura contemporânea e linhas sofisticadas, o edifício distingue-se pelo revestimento em mármore travertino, pelos amplos envidraçados e pelos acabamentos de elevada qualidade, privilegiando a entrada de luz natural e a perfeita integração com a paisagem envolvente.\n\nLocalizado numa das zonas mais prestigiadas do Porto, encontra-se a poucos passos da praia, da marginal da Foz, das ciclovias, dos Jardins da Foz, do Parque da Cidade e de uma vasta oferta de restaurantes, cafés e comércio tradicional.\n\nO imóvel será entregue totalmente mobilado e decorado, numa solução turnkey pronta a habitar.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81981&foto=1657918&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81981&foto=1657918&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 209,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

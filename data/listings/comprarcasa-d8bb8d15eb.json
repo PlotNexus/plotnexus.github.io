@@ -9,8 +9,11 @@
   "bathrooms": 7,
   "area_m2": 225,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110933/f4a5c543-eca0-49f7-aed4-1cb5da9c6a78.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Uma moradia setecentista totalmente recuperada, com 7 quartos, 3 pisos, terraço privado e zona comercial no rés‑do‑chão, situada dentro das muralhas do Centro Histórico de Évora, a apenas 400 metros da Praça do Giraldo.\n\nNum dos bairros mais antigos da cidade, o antigo bairro mouro, esta casa ergue‑se numa rua com mais de 600 anos de história, onde cada fachada guarda memórias e cada detalhe revela autenticidade. O edifício, de traça setecentista, foi integralmente reabilitado, preservando tetos altos, madeira original e paredes de taipa, agora combinados com conforto contemporâneo: ar condicionado, isolamento térmico e acústico, cozinhas equipadas e um terraço raro dentro das muralhas.\n\nDistribuído por três pisos, o imóvel oferece 7 quartos, 7 casas de banho, duas cozinhas equipadas, zonas de circulação amplas e uma sala de estar que reflete o equilíbrio entre tradição e renovação, um novo capítulo para uma casa com séculos de vida. No rés‑do‑chão, encontra‑se ainda uma zona de comércio independente, ideal para quem procura rentabilizar ou instalar um negócio próprio.\n\nNo último piso, o terraço privado abre a vista sobre os telhados do centro histórico, criando um espaço perfeito para pequenos‑almoços ao ar livre, jantares ao pôr‑do‑sol ou momentos de descanso num ambiente verdadeiramente único.\n\nA localização dispensa apresentações: a poucos passos da Sé de Évora, do Templo Romano, da Universidade de Évora e da Praça do Giraldo, numa zona procurada durante todo o ano por residentes, estudantes e visitantes.\n\nCom 224,90 m² de área útil e uma história que atravessa séculos, este é um imóvel exclusivo, versátil e com elevado potencial de rentabilização, ideal para habitação familiar, alojamento local, arrendamento de quartos ou exploração comercial.",
+  "geo": {
+    "lat": 38.5738895475705,
+    "lng": -7.909189313592833
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,26 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110933/f4a5c543-eca0-49f7-aed4-1cb5da9c6a78.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Localização central",
+      "Certificação energética: D",
+      "Terraço",
+      "Mobilado",
+      "Acessos: Transportes públicos",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Cidade"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 225,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 225,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

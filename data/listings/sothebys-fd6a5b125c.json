@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76883&foto=1656880&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76883&foto=1656880&f=1",
+  "description": "Penthouse com terraço privativo localizada no centro histórico de Cascais, inserida no prestigiado condomínio O Coral, com uma deslumbrante vista mar panorâmica de 180° como principal destaque. À noite, as luzes da cidade ao longo da linha costeira transformam a paisagem num verdadeiro postal, criando um cenário único e inesquecível. O imóvel distingue-se pela sua posição elevada, oferecendo uma ampla vista sobre os telhados da vila e a linha de costa.\nCom uma área bruta de 361m², dos quais 137m² correspondem a espaços exteriores, o apartamento apresenta uma organização funcional e contemporânea, com acabamentos de elevada qualidade. Dispõe ainda de estacionamento para 6 viaturas, sendo 4 em box fechada, bem como uma arrecadação de dimensões generosas, um verdadeiro privilégio no coração de Cascais.\nOs espaços exteriores assumem um papel central, com amplos terraços e um rooftop equipado com piscina privada com sistema de sal e swim trainer, preparado para futura instalação de cozinha exterior. A sala, com cerca de 16 m de frente para o mar, beneficia de vãos envidraçados retráteis que permitem uma ligação fluida entre interior e exterior, tirando pleno partido da vista panorâmica. O imóvel apresenta uma construção sólida, com isolamento térmico na fachada e isolamento acústico nos pavimentos, complementado por caixilharias com corte térmico. O pavimento em todo o apartamento, bem como as paredes das casas de banho, são em terrazzo, criando uma continuidade perfeita do material sem juntas. Os interiores são valorizados por iluminação com tecnologia LED e por um forte enfoque no design, incluindo uma cozinha contemporânea de design italiano, com uma estética marcante, equipada com placa de indução de 90 cm e garrafeira sob bancada. O apartamento dispõe ainda de domótica, piso radiante, painéis solares, termoacumulador, cortinas elétricas, acesso por elevador com código PIN e eletrodomésticos Gaggenau. A suite principal encontra-se equipada com porta de segurança e botão de pânico, reforçando o conforto e a segurança. No seu conjunto, estas características garantem elevados padrões de eficiência, sofisticação e modernidade.\nLocalizado numa zona central, permite acesso rápido a todo o tipo de serviços. A envolvente combina a vivência urbana com a proximidade ao mar, oferecendo uma experiência única tanto de dia como de noite, com vistas que tornam cada momento verdadeiramente extraordinário. Trata-se de um imóvel único, pensado para quem valorize qualidade.",
+  "geo": {
+    "lat": 38.7035171,
+    "lng": -9.391423
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,51 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76883&foto=1656880&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76883&foto=1656880&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Caixilharia": [
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 83; Eletricidade",
+      "Luz",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 224,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 5,
   "area_m2": 420,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68157&foto=1295624&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68157&foto=1295624&f=1",
+  "description": "Situada numa das avenidas mais tradicionais e prestigiadas da cidade, esta moradia isolada e de arquitetura contemporânea, conta com 5 quartos, 3 deles suites, destaca-se pela área do lote de terreno de 727 metros quadrados. Em fase final de construção, a propriedade oferece excelente nivel de acabamentos, e uma vivência única e diferenciada para quem procura um lar exclusivo.\nNo rés do chão, o imponente hall de entrada com pé direito duplo, em soalho de madeira Carvalho americano conduz para a área social, encontramos ainda um WC de serviço revestido em mármore Carrara e a uma cozinha equipada com 30 metros quadrados, pavimento em mármore Estremoz, eletrodomésticos Siemens, adega Liebherr. Daqui a moradia estende-se para uma área de lazer por excelência, projectada para o convívio familiar e o usufruto da área exterior, tirando partida da área de esplanada, barbecue, jardim e piscina. Na área social, encontramos uma sala de jantar de 23 metros quadrados e uma sala de estar de 44 metros quadrados, ambos com soalho em madeira Carvalho americano. Complementando este piso, encontramos uma suite versátil permite várias utilizações, como quarto de hóspedes, escritório, sala de cinema ou ginásio.\nO primeiro piso revela um hall dos quartos e a master suite com aproximadamente 50 metros quadrados, ideal para integrar um closet, WC em mármore Estremoz e banheira Zenon Aidar. Este piso conta ainda com outra suite e dois quartos que partilham uma casa de banho, todos revestidos em madeira Carvalho americano.\nEsta moradia privilegiada oferece uma excelente exposição solar, amplos vãos envidraçados e acabamentos de elevada qualidade, como mármores e pavimentos em madeira Carvalho americano. A climatização dos quartos é assegurada por ar condicionado, e o piso do rés do chão e os quartos de banho do primeiro piso possuem sistema de aquecimento radiante. Destaca-se também a presença de painéis fotovoltaicos na cobertura para produção de energia. A propriedade beneficia de uma localização central, com fácil acesso a transportes públicos, proximidade a diversos restaurantes e bares, e excelentes acessos a hospitais públicos e privados. Além disso, está próxima de supermercados e dos principais colégios internacionais, tornando-a uma escolha ideal para quem procura um ambiente funcional e harmonioso.",
+  "geo": {
+    "lat": 41.16071,
+    "lng": -8.659327
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,53 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68157&foto=1295624&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68157&foto=1295624&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 44.1; Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 420,
-  "area_bruta_m2": null,
+  "area_util_m2": 379,
+  "area_bruta_m2": 420,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

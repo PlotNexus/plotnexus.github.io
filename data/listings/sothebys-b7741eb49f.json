@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 8,
   "area_m2": 1000,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83405&foto=1711875&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83405&foto=1711875&f=1",
+  "description": "Desenhada pelo prestigiado gabinete Guedes Cruz Arquitetos, esta moradia isolada, totalmente equipada, situa-se no exclusivo condomínio Belas Clube de Campo.\nDispõe de 779 metros quadrados de área privativa e está inserida num lote de 3.280 metros quadrados com muita privacidade, sofisticação e conforto, num ambiente de rara serenidade. Distribuída por três pisos, combina espaços amplos com acabamentos de altíssima qualidade e um elevador que assegura acessibilidade em toda a casa.\n\nA moradia dispõe de cinco suites, salas luminosas e funcionais e está pronta a habitar. A garagem para cinco viaturas oferece total conveniência, enquanto o generoso jardim permite criar ambientes de lazer e convívio ao ar livre. Equipada com três piscinas, sala de cinema, adega, ginásio, sala de massagens, jacuzzy, escritório, um sofisticado bar suspenso, biblioteca com plataforma elevatória entre outras quantas salas, proporcionando uma experiência única de conforto e entretenimento.\nO mobiliário, de alta qualidade, não está incluído no negócio de venda mas é possível que parte delas possam ficar na casa mediante uma venda em separado.\n\nLocalizada a poucos minutos de Lisboa, o condomínio Belas Clube de Campo tem fácil e rápido acesso à capital assim como para norte ou sul do país através do acesso à CREL, à ponte Vasco da Gama, 2ª Circular, A1 e A2.\nO condomínio fechado Belas Clube de Campo tem um campo de golf de 18 buracos, escola privada, campos de jogos, padel, ténis, campo de futebol de 5, pista de skates, restaurantes e mercearia. São muitos hectares de zonas verdes, aliando o melhor da vida urbana à tranquilidade do campo.\nA localização é outro dos grandes diferenciais deste imóvel, a propriedade encontra-se a poucos minutos das principais vias de acesso à cidade de Lisboa, oferecendo fácil deslocação para todas as zonas de interesse. A região é conhecida pela sua tranquilidade, segurança e proximidade de diversos serviços e infraestruturas de qualidade, como escolas, centros comerciais, hospitais privados e zonas verdes.\n\nA combinação perfeita entre design moderno, qualidade de vida e localização estratégica torna este imóvel uma escolha ideal para quem procura viver luxuosamente no campo às portas da cidade ou deseja investir num imóvel de luxo.",
+  "geo": {
+    "lat": 38.8089984,
+    "lng": -9.2771861
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,53 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83405&foto=1711875&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83405&foto=1711875&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Escritório",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (CCTV)",
+      "Piscina (Exterior, Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 102; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 1000,
-  "area_bruta_m2": null,
+  "area_util_m2": 779,
+  "area_bruta_m2": 1000,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

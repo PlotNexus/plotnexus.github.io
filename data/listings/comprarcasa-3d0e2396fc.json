@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 55,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110626/5c7fca20-291e-475d-bc22-7d63c142808b.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Uma moradia T5 bifamiliar de rés do chão, com quintal e garagem, disponível para arrendamento anual não habitacional numa das avenidas mais práticas da Tapada, Évora.\n\nNa Av. Condes de Vilaalva, esta moradia térrea destaca‑se pela amplitude e pela versatilidade dos seus espaços, ideal para quem procura instalar uma atividade profissional num imóvel com áreas generosas e circulação fluida. A planta revela salas amplas que permitem criar zonas de trabalho, atendimento ou organização interna, enquanto a cozinha de 20,9 m² funciona como apoio perfeito para equipas ou serviços. Os cinco quartos oferecem múltiplas possibilidades de utilização, desde gabinetes independentes a áreas de arquivo ou salas técnicas, sempre com privacidade e boa distribuição. No exterior, o quintal acrescenta funcionalidade ao dia a dia, seja para logística, armazenamento ou simples zona de apoio, complementado por um espaço de garagem coberto que facilita operações e acessos.\n\nCom 241,55 m² de área bruta de construção e 307,51 m² de terreno, esta moradia reúne dimensão, localização e potencial para quem procura um espaço sólido e bem estruturado para uso não habitacional.\n\nValor de arrendamento: 3 000 €/mês\n\nCondições: pagamento do mês de renda + caução equivalente a 2 meses de renda",
+  "geo": {
+    "lat": 38.577428514595425,
+    "lng": -7.918247267572496
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110626/5c7fca20-291e-475d-bc22-7d63c142808b.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 55,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Em curso"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 13,
+  "area_bruta_m2": 55,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

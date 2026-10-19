@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 457,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110666/1ea3f648-c774-4c1d-a5ef-1e55e6bf5236.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Uma moradia com mais de 330 m², pátio e terraço, situada na Rua de Aviz, em pleno Centro Histórico de Évora, ideal para quem procura espaço, funcionalidade e potencial de valorização numa das zonas mais emblemáticas da cidade.\n\nOrganizada em três pisos, este imóvel destaca‑se pela dimensão das divisões e pela versatilidade da sua distribuição. No primeiro piso, duas salas, uma delas com lareira, ligam‑se à cozinha, à casa de banho completa e aos dois quartos, formando uma área ampla e prática para o dia a dia. A partir deste nível acede‑se ao pátio e ao terraço, espaços exteriores raros no centro histórico e que permitem criar zonas de lazer, convívio ou apoio à habitação, incluindo a churrasqueira já existente.\n\nNo segundo piso, a casa oferece mais dois quartos, uma sala adicional, escritório e arrumos, permitindo configurar diferentes ambientes conforme necessidades residenciais ou de investimento. A área total, cerca de 331 m², abre margem para reorganizar espaços, aumentar o número de quartos ou desenvolver um projeto turístico ou hoteleiro, beneficiando da localização estratégica e da procura crescente nesta zona da cidade.\n\nDevoluto e pronto para ser adaptado, o imóvel combina escala, autenticidade e potencial, numa das artérias mais reconhecidas de Évora, rodeado de comércio, serviços, património e acessos.",
+  "geo": {
+    "lat": 38.57492239218294,
+    "lng": -7.910062159367564
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,19 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110666/1ea3f648-c774-4c1d-a5ef-1e55e6bf5236.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 457,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Terraço topo",
+      "Certificação energética: E",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Universidade, Centro de saude",
+      "Zona envolvente: Residencial, Comercial, Turística"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 331,
+  "area_bruta_m2": 457,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

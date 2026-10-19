@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 415,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73274&foto=1447183&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73274&foto=1447183&f=1",
+  "description": "Esta moradia localizada na Avenida de Sintra, em Cascais, oferece a combinação perfeita entre privacidade, segurança e tranquilidade, ideal para quem procura um refúgio residencial junto à costa. Com oito quartos, sendo que originalmente constavam apenas quatro, e uma área generosa de 415 m², esta propriedade destaca-se pela sua proximidade ao mar, tornando-se uma excelente opção para famílias e para quem aprecia a qualidade de vida que a zona de Cascais proporciona.\n\nA moradia apresenta um design funcional e amplo, composto por várias suítes que oferecem conforto e privacidade a todos os residentes. As áreas comuns são espaçosas e bem distribuídas, enquanto o espaço exterior convida a momentos de lazer e descontração, criando um ambiente ideal para relaxar e conviver. A casa inclui ainda estacionamentos que asseguram a máxima praticidade para os seus habitantes e visitantes.\n\nLocalizada a apenas 5 minutos da Avenida Marginal e a 10 minutos da autoestrada A5, o imóvel proporciona fácil acesso a Lisboa e a outras áreas próximas, facilitando a mobilidade e o acesso aos principais centros urbanos da região. Além disso, a cerca de 5 minutos encontram-se estações de comboios, serviços de restauração, escolas e supermercados, garantindo uma experiência de vida prática e conveniente para o dia a dia.\n\nSituada em Cascais, uma zona reconhecida pelo seu encanto natural e proximidade ao mar, esta moradia está inserida numa área de elevada qualidade de vida, onde o ambiente é sereno e convidativo. Cascais oferece não só belíssimas praias, mas também uma infraestrutura completa e diversificada, ideal para famílias e para pessoas que valorizam a perfeita combinação entre lazer, conforto e comodidade.",
+  "geo": {
+    "lat": 38.7035171,
+    "lng": -9.391423
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,64 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73274&foto=1447183&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73274&foto=1447183&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (PVC)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Depósito Gás",
+      "Depósito Lixo",
+      "Escritório",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pedra Natural, Pintado)",
+      "Paredes (Pedra Natural, Pintadas)",
+      "Tecto (Estucado)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave, Exterior)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 415,
-  "area_bruta_m2": null,
+  "area_util_m2": 232,
+  "area_bruta_m2": 415,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

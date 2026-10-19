@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 387,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64387&foto=1535375&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64387&foto=1535375&f=1",
+  "description": "Moradia contemporânea com quatro quartos, com 331 metros quadrados de área total, implantada num lote de 937 metros quadrados, com piscina e jardim privativo, situada no prestigiado condomínio SandWoods, em Cascais.\n\nEste condomínio exclusivo oferece serviço de concierge durante a semana e segurança 24 horas por dia, 365 dias por ano, garantindo tranquilidade e comodidade incomparáveis.\n\nDistribui-se por três pisos e combina arquitetura moderna com acabamentos premium. No piso térreo, conta com uma sala ampla de 58 m², cozinha totalmente equipada com eletrodomésticos topo de gama, lavandaria e lavabo social. No exterior, um jardim com 828 metros quadrados e um deck de 30 m² envolvem a piscina privativa, ideal para momentos de lazer em família.\n\nNo piso superior, encontra-se a suite master com closet e casa de banho completa, duas suites adicionais com roupeiros embutidos e uma casa de banho completa de apoio. Todos os quartos têm acesso direto a uma varanda de 51 metros quadrados com vista para o jardim, oferecendo luz natural e conforto.\n\nA cave dispõe de zona de arrumos e garagem com 88 metros quadrados, com capacidade para três ou mais viaturas.\n\nEsta moradia integra soluções tecnológicas de última geração: sistema de domótica KNX para controlo de iluminação, estores e climatização, iluminação LED, pavimento radiante hidráulico (quente e frio) com bomba de calor, ventilação mecânica com recuperação de calor e aquecimento para a piscina e cobertura automática.\n\nO condomínio SandWoods é rodeado por 88.000 metros quadrados de natureza, com apenas 23.000 metros quadrados destinados a áreas residenciais. Oferece duas portarias, piscina comum, campo de ténis, campo de basquetebol, parque infantil e trilhos pedonais com cerca de 2 km. Dispõe ainda de estacionamento para visitantes e sistema de rega com recurso a águas pluviais, reforçando o compromisso com a sustentabilidade.\n\nSituado numa localização privilegiada, a 5 minutos da Praia do Guincho, a 4,5 km do centro de Cascais, a 30 km de Lisboa e ao lado de dois campos de golfe de 18 buracos, este imóvel proporciona o equilíbrio perfeito entre natureza, luxo e proximidade urbana.",
+  "geo": {
+    "lat": 38.7228176,
+    "lng": -9.4664031
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,65 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64387&foto=1535375&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64387&foto=1535375&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Court Ténis",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Cerâmica, Pastilha)",
+      "Paredes (Pintadas)",
+      "Equipamento (Court Ténis, Jardins, Parque Infantil, Rega Automática, Sala Condomínio, Video-Porteiro, Zelador / Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 88; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 387,
-  "area_bruta_m2": null,
+  "area_util_m2": 222,
+  "area_bruta_m2": 387,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

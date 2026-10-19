@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64818&foto=1206158&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64818&foto=1206158&f=1",
+  "description": "AURORA é uma moradia de luxo situada na Calheta, na ilha da Madeira, numa localização única. Sua prioridade é a sustentabilidade, com materiais provenientes de fontes sustentáveis e eficiência energética. Os amplos espaços proporcionam privacidade e desconexão, com vãos de luz permeando toda a mansão. Cada cômodo oferece um ambiente perfeito para relaxamento e contemplação, com vistas deslumbrantes do mar, incluindo banheiros abertos. Madeira é uma ilha bonita, com clima de verão o ano todo, flora exuberante e segurança. AURORA oferece três mansões luxuosas, cada uma com três quartos, combinando luxo e natureza. Com amenidades como piscina infinita, jacuzzi aquecido e elevador, AURORA atende aos mais altos padrões de conforto. Localizada nas encostas de Calheta, as vistas panorâmicas do oceano são complementadas pela tranquilidade das montanhas e florestas exuberantes. Os quartos são espaços individuais cheios de personalidade, com banheiros em conceito aberto e características luxuosas. A localização privilegiada de Madeira oferece acesso a campos de golfe de classe mundial, beleza natural e clima agradável durante todo o ano. Desfrute da segurança, cultura vibrante e hospitalidade local. \nA finalização desta construção será entre 2023 e 2024\nMadeira é um refúgio perfeito para um estilo de vida luxuoso em meio à natureza deslumbrante. Descubra a AURORA e faça de Madeira o seu paraíso particular, vivendo uma vida de luxo, elegância e conexão com a natureza.",
+  "geo": {
+    "lat": 32.71632,
+    "lng": -17.14993
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,20 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64818&foto=1206158&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64818&foto=1206158&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 391,
+  "area_bruta_m2": 65,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

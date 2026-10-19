@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78906&foto=1592387&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78906&foto=1592387&f=1",
+  "description": "Moradia de luxo em fase de construção, entregue chave na mão, na prestigiada Malveira da Serra, uma propriedade única que combina elegância conforto e exclusividade inserida num terreno de 1300 metros quadrados. Esta moradia apresenta uma arquitetura moderna com linhas contemporâneas e uma perfeita harmonia entre os espaços interiores e exteriores. Composta por quatro amplas suítes, seis casas de banho e uma sala de estar espaçosa com luz natural abundante. Esta casa foi desenhada para proporcionar o máximo de bem-estar e funcionalidade, a cozinha moderna totalmente equipada liga-se de forma fluida à zona de refeições e ao exterior onde se destaca uma magnífica piscina rodeada por um jardim privativo ideal para momentos de lazer e descontração. A Moradia dispõe ainda de uma garagem com capacidade para cinco carros, e áreas técnicas de apoio. Todo o projeto está a ser executado com materiais de alta qualidade e atenção ao detalhe garantindo um resultado final de luxo conforto e durabilidade. Localizada numa das zonas mais privilegiadas de Cascais entre o mar e a serra esta é uma oportunidade excecional para quem procura investir numa moradia de sonho, em fase de construção num dos locais mais desejados da região.",
+  "geo": {
+    "lat": 38.7438826768128,
+    "lng": -9.45389690475464
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,53 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78906&foto=1592387&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78906&foto=1592387&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Rega Automática",
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins)",
+      "Piscina (Exterior)"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 509,
+  "area_bruta_m2": 634,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

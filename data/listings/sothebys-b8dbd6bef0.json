@@ -8,9 +8,12 @@
   "bedrooms": 12,
   "bathrooms": 12,
   "area_m2": 1558,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71730&foto=1408621&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71730&foto=1408621&f=1",
+  "description": "Situada em Sintra, esta moradia isolada de 10 quartos representa uma oportunidade única para quem busca espaço e conforto. Com uma área bruta privativa de 788m² e 760m² de áreas dependentes, a propriedade estende-se por um vasto lote de 14.612m², oferecendo um ambiente de privacidade e serenidade. A casa, de tipologia T8, inclui ainda um anexo com dois quartos adicionais, ideal para acolher visitas ou ser utilizado como espaço independente.\n\nA ampla área construída, que ocupa 1.209m² do terreno, proporciona um espaço interior versátil, composto por 6 quartos principais, 2 escritórios que podem ser facilmente convertidos em quartos adicionais, uma sala de jogos e um ginásio. Além disso, a moradia dispõe de uma piscina interior e um corte de ténis, oferecendo diversas opções de lazer e bem-estar para a família. O anexo, com uma sala e quartos, adiciona ainda mais flexibilidade às necessidades dos moradores.\n\nNo exterior, o extenso jardim plano destaca-se pela sua manutenção cuidadosa e pela presença de diferentes áreas temáticas que criam um ambiente sereno e acolhedor. A localização estratégica da propriedade, a apenas 1km de supermercados e escolas, garante praticidade no dia-a-dia, enquanto a proximidade ao centro de Sintra, a apenas 3km, oferece fácil acesso a uma variedade de serviços e comodidades.\n\nA localização da moradia permite ainda um rápido acesso às principais vias, facilitando as deslocações para Sintra e outras áreas circundantes. A oferta diversificada de serviços e comércio nas redondezas complementa a conveniência de viver nesta região, tornando o local ideal para quem procura um equilíbrio entre a tranquilidade e a proximidade à vida urbana.\n\nRio do Mouro, uma freguesia conhecida pela sua calma e proximidade a paisagens naturais, combina o melhor da vida no campo com a facilidade de acesso às áreas urbanas. Esta junção torna a zona particularmente atrativa para quem deseja um estilo de vida que valoriza tanto a tranquilidade quanto a acessibilidade.",
+  "geo": {
+    "lat": 38.8202476,
+    "lng": -9.3735129
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,57 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71730&foto=1408621&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71730&foto=1408621&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4"
+    ],
+    "Água": [
+      "Furo"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Court Ténis",
+      "Video-Porteiro",
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pintado)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Court Ténis, Lago / Espelho de Água, Parque Infantil, Rega Automática, Video-Porteiro)",
+      "Piscina (Interior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Campo",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Distante Cidade)",
+      "Proximidade (Centros Comerciais, Escolas, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 1558,
-  "area_bruta_m2": null,
+  "area_util_m2": 788,
+  "area_bruta_m2": 1558,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

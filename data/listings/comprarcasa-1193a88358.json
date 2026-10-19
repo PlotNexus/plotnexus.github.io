@@ -9,7 +9,7 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1496/110857/0dcfb246-e494-40b9-b5fb-4c7fcc35a7ed.jpeg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
+  "description": "Apresenta-se uma propriedade comercial para venda em Pedrouços, na cidade da Maia, com uma área de 134 m². O espaço foi construído em 2003, oferecendo uma base sólida para diferentes tipos de atividade.\n\nA propriedade inclui garagem, proporcionando maior comodidade para utilização diária e para clientes ou operações. Existe ainda uma divisão de arrumos/apoio que pode servir como zona técnica ou de armazenamento.\n\nA classificação energética encontra-se indicada na informação disponível, com certificação energética “C”. Esta referência ajuda a enquadrar o desempenho energético do imóvel.\n\nSituação Atual: Arrendado\n\nImóvel atualmente rentável, com contrato de arrendamento em vigor com início a 1 de junho de 2026, estabelecido pelo prazo de 2 anos e passível de renovação:\n\n1.º Ano: 1800€ mensais\n\n2.º Ano: 2000€ mensais\n\nAnos seguintes: Atualização de acordo com o coeficiente legal.\n\nUma excelente opção para investimento ou para estabelecer o seu negócio numa zona com acesso facilitado na região da Maia.",
   "geo": null,
   "source": {
     "name": "ComprarCasa",
@@ -21,10 +21,20 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1496/110857/0dcfb246-e494-40b9-b5fb-4c7fcc35a7ed.jpeg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": null,
+  "features": {
+    "Geral": [
+      "Ano construção: 2003",
+      "Arrecadação",
+      "Certificação energética: C",
+      "Garagem",
+      "Acessos: Transportes públicos, Comboio, Auto-estrada",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital"
+    ]
+  },
+  "estado": "Não aplicável",
+  "area_util_m2": 134,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 2003,
+  "certificacao_energetica": "C"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 5,
   "area_m2": 853,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66800&foto=1325708&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66800&foto=1325708&f=1",
+  "description": "Envolvida pela tranquilidade da paisagem algarvia e com uma privilegiada vista mar, esta moradia isolada de arquitetura contemporânea distingue-se pela sua elegância, luminosidade e localização exclusiva, no coração do Triângulo Dourado.\n\nCom cinco quartos e cinco casas de banho, a propriedade oferece espaços amplos e harmoniosamente concebidos, onde o conforto e a luz natural assumem um papel central. A sala de estar, de generosas dimensões e com amplas superfícies envidraçadas, estabelece uma ligação fluida com o exterior, criando um ambiente acolhedor e sofisticado.\n\nNo exterior, a piscina e a zona de barbecue convidam a desfrutar do clima ameno do Algarve, proporcionando o cenário ideal para momentos de lazer e convívio, em total privacidade.\n\nA localização privilegiada permite conjugar a serenidade de um ambiente residencial com a proximidade dos principais pontos de interesse da região: a apenas 5 km do centro de Loulé, a 10 km das praias de Vilamoura e Vale do Lobo e a cerca de 15 minutos do Aeroporto Internacional de Faro.\n\nUma propriedade que reúne arquitetura contemporânea, vista mar e uma localização de excelência, ideal para quem procura um estilo de vida distinto no sul de Portugal.",
+  "geo": {
+    "lat": 37.1124655,
+    "lng": -8.0214003
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,39 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66800&foto=1325708&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66800&foto=1325708&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Video-Porteiro",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 853,
-  "area_bruta_m2": null,
+  "area_util_m2": 693,
+  "area_bruta_m2": 853,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

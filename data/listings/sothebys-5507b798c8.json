@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 89,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77978&foto=1596429&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77978&foto=1596429&f=1",
+  "description": "Moradia unifamiliar em fase final de construção, com conclusão prevista para fim de Julho de 2026. Desenvolve-se em dois pisos acima do solo e cave, oferecendo uma excelente combinação entre funcionalidade, conforto e qualidade de construção.\n\nNo piso de entrada, um amplo hall acede à área social da casa, composta por uma ampla sala com 74 metros quadrados e cozinha em open concept totalmente equipada. Toda esta área comunica diretamente com o jardim e piscina, promovendo uma perfeita integração entre o luminoso interior e exterior. Ainda neste piso encontramos uma lavandaria e um lavabo social.\n \nNo primeiro piso encontram-se quatro quartos, todos com acesso direto ao terraço. Duas das divisões são suites, enquanto os outros dois quartos beneficiam do apoio de uma casa de banho completa. Todos dispõem de armários embutidos e beneficiam de excelente exposição solar.\n\nNo piso menos um inclui uma zona técnica e de arrumos com múltiplas possibilidades de utilização, uma casa de banho e uma garagem com capacidade para três viaturas. A moradia está equipada com ar condicionado por conduta em todas as divisões, piso radiante em todas as casa de banho, aspiração central, bomba de calor com capacidade para 400 litros e painéis solares.\n\nEsta moradia é uma excelente opção para quem procura privacidade, conforto e proximidade a todas as comodidades, ideal para famílias que valorizam o ar livre e a tranquilidade sem abdicar da conveniência do quotidiano.\nLocalizada em Birre, walking distance do Kings College, a poucos minutos dos acessos à A5, A16, e a cerca de 30 minutos do Aeroporto de Lisboa, encontra-se próxima da Quinta da Marinha, da Praia do Guincho, bem como dos centros de Cascais e Estoril.",
+  "geo": {
+    "lat": 38.7123444,
+    "lng": -9.4436761
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,39 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77978&foto=1596429&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77978&foto=1596429&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons)",
+      "Proximidade (Bancos, Centros Comerciais, Escolas, Farmácia, Ginásio, Hospital, Jardins Infância, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 89,
-  "area_bruta_m2": null,
+  "area_util_m2": 275,
+  "area_bruta_m2": 89,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

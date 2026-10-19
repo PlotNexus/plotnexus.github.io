@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 7,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110561/4f07a337-155a-43c2-8ed3-2f48e4492157.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T1 vendida totalmente RECUPERADA c/ Saguão | Centro Histórico de Évora\n\nUma moradia T1 totalmente recuperada no Centro Histórico de Évora, com bons acabamentos e obra a finalizar em 2027, organizada em open space no rés do chão e com um saguão ao fundo que traz luz, privacidade e equilíbrio ao coração da casa.\n\nLocalizada na Rua das Galvoas esta moradia ganha nova vida sem perder a alma do casario tradicional. A entrada conduz diretamente para um espaço contínuo onde sala e cozinha se fundem num ambiente fluido, pensado para quem valoriza conforto contemporâneo em escala compacta. A luz avança até ao saguão de 4,90 m², que funciona como o pequeno refúgio exterior da casa, o lugar onde o dia abranda e onde a renovação premium se sente na simplicidade dos detalhes.\n\nNo 1.º piso, o quarto oferece uma atmosfera serena, reforçada pela climatização integrada e pela qualidade dos materiais. A casa de banho, equipada com loiças Roca Ona e torneiras Ofa Slim, completa a experiência de conforto. Toda a moradia foi projetada com materiais de excelência: pedra natural de Lioz, soalho multicamadas em pinho, caixilharia Guardian Sun, sistema AQS, eletrodomésticos Bosch Série 4, uma combinação que eleva cada divisão e garante durabilidade, eficiência e estética.\n\nCom 69 m² de área bruta, esta moradia representa a união perfeita entre história, modernidade e cuidado técnico. Uma casa que se vive pela localização, pela luz e pela forma inteligente como foi redesenhada para quem procura qualidade no centro de Évora.",
+  "geo": {
+    "lat": 38.57173623325863,
+    "lng": -7.910853682568959
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110561/4f07a337-155a-43c2-8ed3-2f48e4492157.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: B"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 7,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 7,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

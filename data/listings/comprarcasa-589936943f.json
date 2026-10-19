@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 6,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110649/ceacb789-8565-4a48-b2fa-8de69b71fa16.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Espaço comercial de restauração com duas cozinhas, zona de café e sala de refeições, pronto a receber um novo conceito gastronómico no centro do Torrão.\n\nNa Rua Nossa Senhora de Albergaria, este imóvel apresenta‑se como uma solução prática para quem procura um espaço funcional e direto ao propósito. A zona de café/pastelaria garante atendimento rápido e fluxo contínuo de clientes, enquanto a sala de refeições oferece capacidade organizada para serviço diário.\n\nAs duas cozinhas permitem separar processos, otimizar produção e responder a diferentes necessidades, desde confeção tradicional a serviço de apoio ou preparação para takeaway. \n\nCom 100,60 m² de área bruta inseridos num lote de 110,92 m² de terreno, o espaço adapta‑se facilmente a vários modelos de negócio, mantendo uma estrutura simples, eficiente e pronta a ser utilizada sem grandes intervenções. A localização central no Torrão reforça a visibilidade e a proximidade ao movimento local.\n\nUma oportunidade objetiva para quem procura um espaço de restauração já estruturado, com boa distribuição e potencial de exploração imediata.",
+  "geo": {
+    "lat": 38.29560644862542,
+    "lng": -8.228342795902481
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110649/ceacb789-8565-4a48-b2fa-8de69b71fa16.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Em curso"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 6,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 6,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

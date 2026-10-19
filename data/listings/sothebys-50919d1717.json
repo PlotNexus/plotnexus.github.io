@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72674&foto=1619588&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72674&foto=1619588&f=1",
+  "description": "A marca Savoy Residence é sinónimo de excelência e sofisticação. Pela primeira vez no centro de Lisboa, apresenta uma nova construção que une qualidade, linhas elegantes e intemporais, proporcionando uma experiência residencial incomparável.\nO empreendimento Savoy Residence | D’Ávila é um refúgio habitacional de qualidade superior e apresenta-se como uma oportunidade imperdível para quem pretende investir nas Avenidas Novas, um dos bairros mais prestigiados de Lisboa.\nO imponente Savoy Residence | D’Ávila ergue-se como um monumento no coração de Lisboa, com 59 apartamentos de tipologias T1 a T3, cuidadosamente projetados para o máximo conforto, destacando-se pela sofisticação e elegância, evidenciando detalhes meticulosamente pensados e materiais de altíssimo padrão. O rooftop do edifício, além de piscina comum, solário, ginásio e sauna, oferece uma experiência única de conforto e requinte, remetendo à sensação de estar hospedado num dos prestigiados hotéis Savoy Signature. Este espaço reflete os exuberantes jardins e zonas verdes, tão emblemáticos da marca, que estarão presentes em todo o empreendimento, onde a natureza se integra harmoniosamente ao ambiente citadino. Este empreendimento foi ainda projetado com um forte compromisso com a sustentabilidade, integrando soluções inovadoras para eficiência energética e conforto dos seus moradores.\nSituado numa zona recheada de coordenadas com história, o empreendimento encontra-se próximo do icónico Museu da Fundação Calouste Gulbenkian e dos seus encantadores jardins, do vibrante hub empresarial e comercial do Saldanha, com a sua emblemática estação de metro e da sala de eventos culturais do Campo Pequeno. O edifício eleva-se como ícone de bom gosto e sofisticação, o refúgio ideal para um estilo de vida distinto.",
+  "geo": {
+    "lat": 38.7410926,
+    "lng": -9.1471513
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,39 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72674&foto=1619588&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72674&foto=1619588&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Equipamento (Video-Porteiro, Zelador / Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Escolas, Farmácia, Ginásio, Jardins, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 172,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

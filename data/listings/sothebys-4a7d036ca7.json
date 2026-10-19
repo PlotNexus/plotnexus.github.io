@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 466,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74563&foto=1672379&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74563&foto=1672379&f=1",
+  "description": "Apresentamos esta sublime moradia isolada, localizada na prestigiada zona da Quinta dos Alcoutins, em Lisboa. Com quatro suites, esta residência destaca-se pela sua arquitetura contemporânea e pelos elevados padrões de qualidade.\n\nIdeal para quem procura conforto, modernidade e uma excelente exposição solar, a casa oferece um estilo de vida sofisticado, num ambiente privado e exclusivo.\n\nA moradia possui uma área bruta privativa de 344 m² e uma área bruta de construção de 466 m², distribuída por três pisos. O piso 0 conta com três suites, enquanto o piso 1 dispõe de uma suite adicional, salas de estar e jantar amplas e uma cozinha totalmente equipada. A cave, com garagem, lavandaria, adega e quarto de empregada, adiciona ainda mais funcionalidade à propriedade. A estrutura em betão e os acabamentos nobres, como os pavimentos em madeira e o sistema de aquecimento radiante, garantem o máximo conforto em todas as divisões. A casa está equipada com elevador, acessível a todos os pisos, e a cobertura plana conta com painéis solares, assegurando eficiência energética.\n\nO exterior da propriedade é composto por um terreno de 887 m², onde se encontra uma piscina infinita de 16 metros, ideal para momentos de lazer. A orientação solar é excelente, com exposição a Norte, Sul, Este e Oeste, o que proporciona luminosidade natural durante todo o dia.\n\nLocalizada numa zona calma e aprazível de Lisboa, a propriedade oferece proximidade aos campos de golfe da Quinta dos Alcoutins, com fácil acesso ao Eixo Norte-Sul e A36, permite uma ligação rápida ao resto da cidade e à região envolvente, tornando esta moradia um investimento ideal para quem valoriza a qualidade de vida, privacidade e a acessibilidade.",
+  "geo": {
+    "lat": 38.7792460952388,
+    "lng": -9.16834831229044
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,23 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74563&foto=1672379&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74563&foto=1672379&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins"
+    ]
+  },
   "estado": null,
   "area_util_m2": 466,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 466,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

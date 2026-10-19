@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 55,
   "image": "https://cdn.proppy.app/propertyfiles/1505/110989/6857c3e9-01de-44e8-9df5-3904b2b510bc.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
+  "description": "Apresentamos esta habitação nova em regime de chave na mão, concebida para oferecer uma solução prática, confortável e funcional, com acabamentos modernos e materiais cuidadosamente selecionados. Pensada para proporcionar um ambiente acolhedor e eficiente, privilegia o aproveitamento de cada espaço e a facilidade de manutenção, permitindo ao futuro proprietário usufruir de uma casa pronta a habitar.\n\nA cozinha apresenta um design simples e funcional, com bancada em contraplacado, e encontra-se equipada com placa, forno e exaustor. A sua organização responde às necessidades do dia a dia, proporcionando uma área prática para a preparação e confeção de refeições.\n\nA habitação dispõe de dois quartos confortáveis e conta com arrumação em roupeiro embutido em madeira, uma solução prática e integrada que permite aproveitar o espaço e manter o ambiente organizado e harmonioso.\n\nA casa de banho é completa e apresenta revestimento em cerâmica, proporcionando resistência e facilidade de manutenção. Os acabamentos conferem-lhe uma apresentação simples e cuidada, privilegiando a funcionalidade. Para o aquecimento de águas, a habitação encontra-se equipada com cilindro, assegurando água quente para utilização diária.\n\nAs janelas em PVC, com vidro duplo e sistema oscilobatente, proporcionam conforto térmico e acústico, bem como uma ventilação eficiente dos espaços. São complementadas por peitoris em pedra, que oferecem um acabamento resistente e duradouro e contribuem para uma apresentação exterior cuidada e elegante.\n\nA porta de entrada, também em PVC, dispõe de vidro duplo fosco, combinando privacidade, segurança e luminosidade. Esta solução permite a entrada de luz natural, preservando a privacidade do interior da habitação.\n\nO pavimento em vinil estende-se a toda a casa, oferecendo uma solução moderna, prática e resistente, de manutenção simples e confortável na utilização diária. Os tetos em PVC proporcionam um acabamento uniforme, contribuindo para uma imagem interior cuidada e contemporânea.\n\nO regime de chave na mão permite adquirir uma habitação com os principais trabalhos e acabamentos já realizados, reduzindo a necessidade de intervenções posteriores. Uma oportunidade para quem procura uma casa nova, funcional, confortável e pronta a utilizar, com materiais que privilegiam a praticidade, a durabilidade e a facilidade de manutenção, preparada para receber os seus futuros proprietários.",
   "geo": null,
   "source": {
     "name": "ComprarCasa",
@@ -21,10 +21,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/110989/6857c3e9-01de-44e8-9df5-3904b2b510bc.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: D"
+    ]
+  },
+  "estado": "Não aplicável",
   "area_util_m2": 55,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 55,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 215,
   "image": "https://cdn.proppy.app/propertyfiles/1497/110864/eccc5200-c9ad-4bd5-9947-7c82a641d05e.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia individual tipo V-3 com cave para garagem p/ 4 carros, jardim, logradouro com acesso á cave, sala com varanda, cozinha com equipamento, quarto de suite com duche, roupeiros, bomba de calor, ar-condicionado, zona calma e com bons acessos.\n\nIMA - Sociedade de Mediação Imobiliária, Lda. Lic. AMI 2473, pertencente ao Grupo IMA , desde 1985, trata-se de uma empresa com elevada dinâmica e experiência ao seu serviço.\n\nEm qualquer momento, os imóveis aqui identificados podem ser reservados, vendidos, retirados de venda ou com preços alterados.",
+  "geo": {
+    "lat": 39.807331786128344,
+    "lng": -8.718128509691336
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,19 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1497/110864/eccc5200-c9ad-4bd5-9947-7c82a641d05e.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 215,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Ano construção: 2026",
+      "Arrecadação",
+      "Certificação energética: F",
+      "Garagem",
+      "Nº carros: 4",
+      "Serviços: Escolas"
+    ]
+  },
+  "estado": "Em construção",
+  "area_util_m2": 165,
+  "area_bruta_m2": 215,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "F"
 }

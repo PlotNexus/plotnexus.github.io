@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 7,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73063&foto=1435079&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73063&foto=1435079&f=1",
+  "description": "Descubra a elegância e o conforto dos apartamentos do \"One Green Way\", localizados na prestigiada Quinta do Lago. Cada apartamento foi cuidadosamente projetado para maximizar a luminosidade e o espaço, oferecendo um ambiente contemporâneo e acolhedor. Com acabamentos de alta qualidade e tecnologias modernas, estes lares são ideais para aqueles que valorizam o luxo e o estilo de vida sofisticado.\n\nOs apartamentos contam com varandas privativas, perfeitas para desfrutar de vistas deslumbrantes e do clima ameno do Algarve. Além disso, os residentes têm acesso a serviços exclusivos, como gestão de propriedade, limpeza diária e concierge, garantindo uma experiência de vida sem preocupações.\n\nA localização privilegiada permite o fácil acesso a praias de areia branca, campos de golfe de renome e uma variedade de restaurantes e boutiques de luxo. No \"One Green Way\", cada dia é uma oportunidade para relaxar e aproveitar o que há de melhor na vida.\n\nExperimente o melhor do Algarve com um apartamento no \"One Green Way\" — onde a elegância se encontra com a natureza.",
+  "geo": {
+    "lat": 37.0866794876,
+    "lng": -8.0306625366
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,20 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73063&foto=1435079&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73063&foto=1435079&f=1"
   ],
-  "features": null,
+  "features": {
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Piscina (Exterior)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 453,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

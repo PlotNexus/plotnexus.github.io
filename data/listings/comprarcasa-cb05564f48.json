@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 3,
   "image": "https://cdn.proppy.app/propertyfiles/5115/110731/d6bdf39a-aa6f-4576-b81e-48f9132cf32f.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T1 Novo em Âncora – A poucos minutos a pé da praia\n\nApresentamos este elegante apartamento T1, atualmente em construção, localizado na encantadora vila de Âncora. Uma excelente oportunidade para adquirir um imóvel moderno, funcional e eficiente, numa das zonas mais procuradas do litoral minhoto.\n\nCom uma área útil de 43,9 m² e uma área bruta de 47,3 m², este apartamento foi cuidadosamente concebido para proporcionar conforto e funcionalidade. Dispõe de um quarto acolhedor, uma casa de banho moderna, cozinha e sala em conceito open space, com ligação direta a uma agradável varanda, perfeita para momentos de lazer e para desfrutar do ambiente envolvente.\n\nO imóvel destaca-se pela sua elevada eficiência energética, com certificação A+, garantindo maior conforto, sustentabilidade e menores custos de energia. Conta ainda com elevador, proporcionando maior comodidade e acessibilidade, bem como armários embutidos que oferecem soluções de arrumação práticas e otimizam o espaço.\n\nA localização é um dos seus grandes atrativos. Situado a poucos minutos a pé da praia, permite desfrutar do mar e da natureza sempre que desejar. Nas proximidades encontrará supermercados como o Aldi e o Continente Bom Dia, ambos a cerca de 400 metros, bem como diversos restaurantes, entre os quais o Rei do Churrasco, a apenas 300 metros. A envolvente dispõe ainda de uma ampla oferta de comércio, serviços, escolas e acessos, proporcionando uma excelente qualidade de vida.\n\nSe procura um apartamento para habitação própria, casa de férias ou investimento, esta é uma oportunidade única de adquirir um imóvel novo, com acabamentos de qualidade, numa localização privilegiada entre o mar e a natureza.",
+  "geo": {
+    "lat": 41.8247087,
+    "lng": -8.871383
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,31 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/110731/d6bdf39a-aa6f-4576-b81e-48f9132cf32f.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 3,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Varanda",
+      "Armários embutidos",
+      "Elevador",
+      "Curta distância a pé da praia",
+      "Certificação energética: A+",
+      "Varanda: SIM",
+      "Lugar de garagem",
+      "Acessos: Transportes públicos, Comboio, Auto-estrada",
+      "Localização: Beira-mar",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Cozinha equipada",
+      "Cozinha: Exaustor, Placa e forno, Esquentador, Combinado",
+      "AquecimentoTermico: Eléctrico",
+      "Caixilharia: PVC, Vidros duplos"
+    ]
+  },
+  "estado": "Em construção",
+  "area_util_m2": 9,
+  "area_bruta_m2": 3,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 8,
   "area_m2": 1275,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70503&foto=1387281&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70503&foto=1387281&f=1",
+  "description": "Situada a 9km do centro de Viseu, a icónica Quinta dos Gémeos, com vistas deslumbrantes para a Serra da Estrela, destaca-se pela sua arquitetura contemporânea num lote de aproximadamente 15.000m². \nViseu foi considerada pelo sétimo ano consecutivo a melhor cidade para viver em Portugal. Com um aeródromo que oferece ligações frequentes para Lisboa, Porto e Faro, a cidade é conhecida pela beleza dos seus espaços verdes, trânsito fluido, gastronomia beirã e vinhos do Dão, além de hospitais privados. A propriedade está a 40 minutos da escola internacional mais próxima. \nIdeal para quem aprecia requinte e natureza, a moradia, distribuída em 3 pisos e equipada com elevador, oferece conforto máximo. No piso térreo, há uma sala de estar com vista para a piscina interior, uma cozinha espaçosa um apoio com barbecue e forno a lenha no terraço, ideal para refeições ao ar livre. Este piso inclui ainda uma suíte para visitas e uma sala de estudos. No piso superior, 4 suites, todas com varandas e vistas deslumbrantes para a Serra da Estrela. A cave acomoda garagem para 7 carros, uma discoteca com bar e cozinha, sala de jogos e uma lavandaria equipada.\nA propriedade inclui uma segunda casa de apoio para festas com 2 grandes fogões a lenha, churrasqueiras em vários pontos da quinta, campo de ténis, parque infantil e percurso de jogging iluminado de mais de 1km. Há espaço para animais, uma floresta iluminada, anexo com trator e máquinas para manutenção agrária, jardinagem e pecuária, além de um canil para 5 cães.\nOs espaços de lazer diversificados garantem atividades variadas. Apesar da sensação de estar no campo, a moradia está a poucos minutos de supermercados, universidades, escolas privadas, hospitais e do centro comercial Palácio de Gelo, um dos maiores de Portugal. Há também proximidade a campos de golfe e centro de hipismo.\nViseu está estrategicamente localizada, a apenas 40min de diversos pontos importantes de Portugal, como a icónica Serra da Estrela, a famosa praia da Costa Nova, Espanha, o Douro e Coimbra. A 1 hora do Porto, 3 horas de Lisboa e 4 horas de Madrid. \nA propriedade inclui uma piscina interior aquecida com jacuzzi, banho turco, sauna e sala de desporto. Organização, funcionalidade e bom gosto são os pontos fortes desta propriedade única.",
+  "geo": {
+    "lat": 40.65728,
+    "lng": -7.914859
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,56 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70503&foto=1387281&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70503&foto=1387281&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3"
+    ],
+    "Água": [
+      "Companhia",
+      "Furo"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Court Ténis",
+      "Rega Automática",
+      "Piscina (Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 1275,
-  "area_bruta_m2": null,
+  "area_util_m2": 612,
+  "area_bruta_m2": 1275,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

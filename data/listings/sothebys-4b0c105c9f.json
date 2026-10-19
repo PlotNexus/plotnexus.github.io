@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=56653&foto=1067947&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=56653&foto=1067947&f=1",
+  "description": "Cascais é o expoente máximo do estilo de vida e bem-estar em Portugal. Nesta colorida cidade costeira encontramos o melhor de tudo, desde bares, restaurantes de luxo, um casino e lojas de renome.\nAbsolutamente inovador para a época, o original Hotel Cidadela atraiu de imediato inúmeros convidados mundialmente famosos. Encantados pelo lifestyle característico de Cascais, os membros da alta sociedade ficaram fascinados por este local conhecido como Saint Tropez de Portugal. \nEste espaço icónico renasce agora com o nome Legacy, convertido num complexo residencial e hoteleiro de luxo dividido em três ambientes distintos, unidos num condomínio fechado e seguro. As Townhouses estão situadas numa avenida tranquila e arborizada. São casas espaçosas e com um pé-direito alto, beneficiando ainda de espaço exterior privado e uma piscina. As Residences são um conjunto de apartamentos únicos, onde encontramos frações com jardins privados ou varandas generosas com soberbas vistas para o jardim e mar. O Hotel Legacy oferece amenities de luxo e vários serviços que se fundem num universo de exclusividade e conforto total.\nO Legacy situa-se no centro de Cascais, uma das cidades mais atrativas para comprar um imóvel em Portugal, a 4 km do Estoril, 8 km da maravilhosa cidade de Sintra e a apenas 30 minutos do Aeroporto de Lisboa.",
+  "geo": {
+    "lat": 38.6970565,
+    "lng": -9.4222945
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=56653&foto=1067947&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=56653&foto=1067947&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Praias)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 2,
+  "area_bruta_m2": 387,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

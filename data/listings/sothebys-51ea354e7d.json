@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 5,
   "area_m2": 769,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69670&foto=1690160&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69670&foto=1690160&f=1",
+  "description": "Situada na zona pitoresca da costa oeste da Ilha da Madeira, esta espaçosa moradia oferece-lhe uma obra-prima arquitetónica, com vistas panorâmicas deslumbrantes de todos os espaços da casa sobre o mar e com um pôr-do-sol fantástico, é sem dúvida uma verdadeira obra de arte.\n\nTrata-se de uma moradia isolada de tipologia t3 localizada no Arco da Calheta, concebida para proporcionar uma vivência confortável num único piso, com vista mar definitiva, cota de apenas 170 metros e uma localização muito procurada da ilha. Destaca-se pela qualidade dos materiais, pelas amplas áreas interiores e exteriores e pelos três quartos em suite, oferecendo privacidade e funcionalidade.\n\nImplantada num lote com 1300 metros quadrados, esta moradia, com conclusão prevista para final 2027 e que está já num estado avançado de construção, dispõe de 484 metros quadrados de área bruta privativa e 769 metros quadrados de área bruta de construção. A zona social integra sala de estar, sala de jantar e cozinha em open space com 64 metros quadrados, criando um ambiente harmonioso e convidativo. Conta ainda com cinco casas de banho e garagem para quatro viaturas.\n\nNo exterior, o terraço com 152 metros quadrados, a piscina, a zona de solário e o espaço de churrasco proporcionam um ambiente tranquilo para momentos de lazer e convívio. Na cave encontram-se garagem, ginásio, adega, lavandaria, casa de banho completa e uma divisão multifuncional que poderá ser utilizada como sala de jogos ou quarto adicional.\n\nA apenas dois quilómetros da Marina da Calheta, esta propriedade beneficia da proximidade de restaurantes, supermercados, hotéis e diversos serviços essenciais, permitindo um quotidiano confortável sem abdicar da privacidade.\n\nO acesso à via expresso encontra-se a apenas 200 metros, facilitando as deslocações para outras zonas da ilha. A exposição solar a nascente, sul e poente garante excelente luminosidade natural ao longo do dia.\n\nLinhas limpas, modernas e minimalistas definem esta extraordinária joia arquitetónica. Os acabamentos luxuosos e materiais de qualidade fazem da propriedade uma oportunidade única e exclusiva para quem procura uma moradia contemporânea, espaçosa e sofisticada no Arco da Calheta, numa das zonas de maior valorização da ilha da madeira.",
+  "geo": {
+    "lat": 32.71207,
+    "lng": -17.15093
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,71 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69670&foto=1690160&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69670&foto=1690160&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Escritório",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Solar",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Música Ambiente (Completo)",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 126.5; Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Periferia Cidade, Rural)",
+      "Proximidade (Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Jardins Infância, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 769,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 769,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

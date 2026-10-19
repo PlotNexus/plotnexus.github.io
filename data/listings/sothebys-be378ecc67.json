@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 8,
   "area_m2": 546,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83291&foto=1700159&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83291&foto=1700159&f=1",
+  "description": "Situada nas tranquilas colinas de São Brás de Alportel, esta extraordinária propriedade oferece uma combinação rara de privacidade, elegância e autenticidade algarvia.\n\nEnvolvida pela natureza e implantada num amplo terreno, a propriedade beneficia de magníficas vistas panorâmicas sobre a serra e o Oceano Atlântico, criando um cenário de absoluta tranquilidade e uma envolvente verdadeiramente privilegiada.\n\nConcebida para proporcionar uma relação harmoniosa entre os espaços interiores e exteriores, a moradia apresenta cinco quartos espaçosos, todos com acesso direto a amplos terraços. A arquitetura e a distribuição dos espaços foram cuidadosamente pensadas para valorizar a luz natural, a paisagem e a experiência de viver plenamente o clima e o estilo de vida do Algarve.\n\nNo exterior, a magnífica piscina infinity assume o protagonismo, enquadrando-se naturalmente na paisagem e proporcionando um espaço excecional para relaxar e desfrutar das vistas. A propriedade dispõe ainda de um campo de futebol privado, uma elegante zona de barbecue dedicada ao convívio e uma encantadora área de árvores de fruto, que acrescenta um carácter genuíno e distinto à residência.\n\nComplementando a casa principal, um ginásio privado totalmente equipado oferece um espaço dedicado ao bem-estar. A propriedade conta ainda com um estúdio independente de grande versatilidade, pensado para responder às mais diversas necessidades — desde alojamento privado para convidados ou familiares a um escritório, atelier ou espaço dedicado ao bem-estar.\n\nApesar da sua envolvente reservada e tranquila, a propriedade beneficia de uma localização estratégica, a poucos minutos do centro de São Brás de Alportel e de Loulé, bem como de prestigiados campos de golfe, escolas internacionais, do Aeroporto Internacional de Faro e de algumas das praias mais emblemáticas do Algarve.\n\nMais do que uma residência, esta é uma propriedade pensada para um estilo de vida excecional, onde espaço, privacidade, conforto e natureza coexistem em perfeita harmonia.\n\nUma oportunidade verdadeiramente singular para quem procura uma residência de carácter, com vistas excecionais e uma localização privilegiada no coração do Algarve.",
+  "geo": {
+    "lat": 37.1581851,
+    "lng": -7.8987372
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83291&foto=1700159&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83291&foto=1700159&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Pisos: 2"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Alarme (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Térmico)",
+      "Equipamento (Campo de Jogos, Jardins, Parque Infantil, Rega Automática)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave, Exterior)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Centralidade (Rural)",
+      "Proximidade (Farmácia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 546,
-  "area_bruta_m2": null,
+  "area_util_m2": 9,
+  "area_bruta_m2": 546,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

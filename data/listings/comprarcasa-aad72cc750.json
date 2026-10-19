@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 120,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110984/5e14e6d3-8720-4044-8aa4-05ec5d68e2c4.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia Unifamiliar T3 com Garagem, Quintal e Terraço no Bairro da Casinha – Évora. É a moradia ideal para famílias que procuram conforto, privacidade e uma vivência prática dentro da cidade.\n\nDistribuída por rés do chão e primeiro andar, apresenta uma organização funcional entre as áreas sociais e a zona privada.\n\nNo rés do chão encontra-se a sala de estar, com cerca de 21,5 m² e lareira. A cozinha, com zona para refeições e boa capacidade de arrumação, beneficia de ligação ao exterior, prolongando a utilização da casa para o quintal.\n\nO espaço exterior é um dos principais destaques da propriedade. Totalmente pavimentado e resguardado, oferece uma zona agradável para refeições, lazer ou convívio, com uma área coberta e uma árvore que proporciona sombra e privacidade. A escada exterior conduz a um amplo terraço, equipado com churrasqueira e bancada de apoio, ideal para aproveitar os dias de sol e reunir família e amigos.\n\nNo primeiro andar encontram-se três quartos com luz natural e dimensões adequadas às necessidades de uma família. Um deles dispõe de uma ampla frente de roupeiros, enquanto os restantes podem servir como quartos de crianças, escritório ou espaço para visitas. Neste piso existe ainda uma casa de banho completa e uma ampla zona de circulação.\n\nA garagem integrada acrescenta estacionamento, arrumação e comodidade no dia a dia. A moradia dispõe também de equipamentos de ar condicionado.\n\nLocalizada na Rua Frei Manuel Cardoso, nº 25-A, no Bairro da Casinha, beneficia de bons acessos e de um ambiente calmo e familiar. Trata-se de uma zona residencial em crescimento e valorização, próxima do futuro Hospital Central do Alentejo e com ligação rápida às principais entradas e serviços de Évora.\n\nUma moradia equilibrada, com áreas interiores funcionais e espaços exteriores difíceis de encontrar na cidade, para quem procura viver com tranquilidade sem abdicar da proximidade ao centro de Évora.",
+  "geo": {
+    "lat": 38.553250051041346,
+    "lng": -7.927150763520793
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,28 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110984/5e14e6d3-8720-4044-8aa4-05ec5d68e2c4.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Certificação energética: D",
+      "Terraço",
+      "Garagem",
+      "Acessos: Transportes públicos",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Vistas: Cidade",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Lareira"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 120,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 120,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

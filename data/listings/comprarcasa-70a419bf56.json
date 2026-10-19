@@ -9,8 +9,11 @@
   "bathrooms": 4,
   "area_m2": 336,
   "image": "https://cdn.proppy.app/propertyfiles/2032/110776/03460b31-fc69-4cce-b059-197553a3709d.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos esta excelente oportunidade de adquirir uma moradia tradicional portuguesa, situada no prestigiado e pitoresco concelho de Óbidos.\n\nInserida num generoso lote de terreno com 3200m2, esta propriedade destaca-se pela tranquilidade e pelo enorme potencial para desfrutar do estilo de vida campestre, a poucos minutos da vila medieval e das praias da região.\n\nA moradia oferece uma distribuição funcional e acolhedora ao nível do rés do chão:\n\n- Hall de entrada\n\n- Cozinha com despensa e acesso direto a uma agradável marquise\n\n- 3 quartos e 3 casas de banho\n\n- Em anexo tem uma cozinha rústica, uma casa de banho e garagem\n\n- Sótão com área de circulação e 3 divisões para arrumos (com 39.95m2,15.35m2, 9.45m2) e casa de banho.\n\nPiso principal:\n\n- Hall 4.48m2\n\n- Sala 26.30m2\n\n- Circulação 13.85m2\n\n- Despensa 2.45m2\n\n- Cozinha 20.40m2\n\n- Marquise 13m2\n\n- Quarto 1 18m2\n\n- Quarto 2 13.35m2\n\n- Quarto 3 13.35m2\n\n- Instalação sanitária1 4.75m2\n\n- Instalação sanitária2 4.15m2\n\n- Alpendre 9m2\n\nSótão:\n\n- Circulação 16m2\n\n- Arrumos 15.35m2\n\n- Arrumos 9.45m2\n\n- Arrumos 38.95 m2\n\n- Instalação sanitária 8.05m2\n\nExcelente opção tanto para habitação própria permanente, casa de férias ou investimento turistico. Agende já a sua visita e venha conhecer o potencial desta propriedade!\n\nNota: Dada a generosa área do terreno, o lote apresenta potencial para futuras análises de destaque de parcela (sujeito a confirmação com o PDM e os serviços camarários de Óbidos).",
+  "geo": {
+    "lat": 39.3866213,
+    "lng": -9.157333
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,45 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/110776/03460b31-fc69-4cce-b059-197553a3709d.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 336,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Despensa",
+      "Barbecue",
+      "Varanda",
+      "Arrecadação",
+      "Armários embutidos",
+      "Certificação energética: E",
+      "Varanda: Sim",
+      "Terraço",
+      "Garagem",
+      "Nº carros: 3",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Gás canalizado",
+      "Vistas: Campo",
+      "Churrasqueira",
+      "Muro",
+      "Logradouro",
+      "Projecto aprovado",
+      "Quintal",
+      "Licença de Utilização: 843/23"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Aquecimento",
+      "Cozinha equipada",
+      "Cozinha: Frigorifico, Exaustor, Fogão, Esquentador, Despensa, Móveis",
+      "Caixilharia: PVC, Vidros duplos",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 220,
+  "area_bruta_m2": 336,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 7,
   "area_m2": 65,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79874&foto=1694825&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79874&foto=1694825&f=1",
+  "description": "Moradia isolada com 4 quartos, situada na Calheta, uma das zonas residenciais mais procuradas da costa oeste da ilha da Madeira. Este imóvel distingue-se pela sua excelente localização, pela vista mar permanente e pelo enquadramento privado, constituindo uma residência exclusiva, que proporciona um estilo de vida sofisticado e sereno.\n\nImplantada num lote com 961 metros quadrados, a propriedade dispõe de uma área bruta de construção de 477,65 metros quadrados. A configuração interior contempla quatro suites e um total de sete casas de banho, assegurando uma vivência confortável, espaçosa e funcional. Possui elevador, reforçando a acessibilidade e o conforto, e integra varandas que permitem uma ligação harmoniosa ao exterior e à paisagem envolvente.\n\nNo exterior, a moradia beneficia de piscina, jacuzzi, zona de churrasco criando um ambiente convidativo e privado, ideal para momentos de lazer com total tranquilidade e exposição solar. A propriedade dispõe ainda de estacionamento para três viaturas e apresenta uma presença imponente, marcada por uma arquitetura elegante, intemporal e requintada. \n\nA localização destaca-se pela proximidade a serviços essenciais, restaurantes, supermercados, proporcionando conveniência no dia a dia sem abdicar de segurança e privacidade.\n\nO acesso às principais vias realiza-se em aproximadamente dois minutos, garantindo ligações eficientes a outras zonas da ilha.",
+  "geo": {
+    "lat": 32.7136499439259,
+    "lng": -17.1475967407227
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79874&foto=1694825&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79874&foto=1694825&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 65,
-  "area_bruta_m2": null,
+  "area_util_m2": 449,
+  "area_bruta_m2": 65,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 65,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81035&foto=1634628&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81035&foto=1634628&f=1",
+  "description": "Implantada num lote de 452 m², com 459.65 m² de área bruta de construção, esta moradia T4+1 integra o projeto Atlantic Villas e beneficia de uma localização privilegiada na primeira linha do mar, na zona costeira de Vila Nova de Gaia. Com vistas abertas sobre o Oceano Atlântico, a cidade do Porto e a foz do Douro, oferece uma experiência residencial marcada pela luz natural, pelo horizonte e pela proximidade constante ao oceano.\nDistribuída por três pisos, a moradia apresenta uma organização equilibrada entre áreas sociais amplas e zonas privadas bem definidas. No piso térreo, a sala de estar e jantar desenvolvem-se em open space, com amplos vãos envidraçados que prolongam o interior para os terraços e para a piscina com efeito infinito, criando uma ligação fluida entre casa e paisagem. A cozinha, equipada com marcas de referência internacional, alia funcionalidade e design. Este piso integra ainda uma das quatro suítes, acrescentando versatilidade à utilização da moradia.\nO piso superior constitui a área mais reservada, com três suítes amplas, todas com excelente exposição solar e vistas desafogadas. A divisão adicional (+1), permite a criação de um escritório, sala de leitura ou espaço multifuncional, adaptando-se às necessidades do dia a dia.\nNa cave, encontra-se uma garagem com capacidade para dois ou mais veículos, lavandaria e zona técnica, assegurando organização e eficiência.\nA moradia distingue-se pelos seus excelentes acabamentos e equipamentos de elevada qualidade, destacando-se pavimentos em madeira natural, superfícies em Dekton, cozinha Arclinea, eletrodomésticos Sub-Zero, Wolf e Miele, caixilharias Schüco com elevado desempenho térmico e acústico, domótica Jung e climatização Baxi com piso radiante. Cada elemento foi selecionado para garantir conforto, durabilidade e eficiência energética.\nLocalizada a poucos passos da praia e com acesso rápido à A1, permite conciliar a serenidade de viver junto ao mar com a proximidade ao centro do Porto, comércio, serviços, escolas e espaços culturais.\nUma proposta residencial onde arquitetura contemporânea, vistas de mar e qualidade construtiva se unem num enquadramento verdadeiramente singular.",
+  "geo": {
+    "lat": 41.1308961787,
+    "lng": -8.6543941497
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,52 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81035&foto=1634628&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81035&foto=1634628&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Aluminio"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (CCTV, Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 65,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 65,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

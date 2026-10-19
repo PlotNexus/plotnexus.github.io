@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 161,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110902/d10ad264-3e36-4a08-bb74-18d8fdafb828.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia Unifamiliar Térrea T3 c/ Anexo em Casas Novas de Mares, Alandroal\n\nUma moradia térrea T3 com anexo e cozinha recuperada e equipada, situada na Rua da Aldeia, numa zona tranquila de Casas Novas de Mares, ideal para quem procura espaço, autenticidade e potencial de valorização.\n\nA fachada com o anexo recebe quem chega com aquele carácter rústico que só as aldeias preservam. Ao entrar, a cozinha recuperada, equipada e funcional, marca o ponto de partida para um imóvel que mantém a sua essência, mas já com melhorias que facilitam o dia a dia.\n\nA planta revela uma distribuição prática: sala de estar ampla, três quartos com boas áreas e uma casa de banho funcional, num total de 149 m² de área coberta. A moradia necessita de algumas obras de recuperação, oferecendo ao comprador a oportunidade de moldar o espaço ao seu estilo, seja para residência permanente, seja para criar um refúgio de fim de semana com personalidade.\n\nAo aproveitar o anexo é possível criar uma zona de lazer ou simplesmente manter o espírito tradicional que o imóvel transmite. A localização, numa zona tranquila e a apenas 1 km da Aldeia de Pias, garante proximidade a serviços e comércio, sem perder o sossego característico da região.\n\nTudo o que está presente nas imagens pode ficar, tornando esta moradia uma oportunidade prática, autêntica e com margem de valorização para quem procura uma casa com história e potencial para escrever o próximo capítulo.",
+  "geo": {
+    "lat": 38.54122018488994,
+    "lng": -7.486324667417648
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,19 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110902/d10ad264-3e36-4a08-bb74-18d8fdafb828.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 161,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: F",
+      "Mobilado"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 149,
+  "area_bruta_m2": 161,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

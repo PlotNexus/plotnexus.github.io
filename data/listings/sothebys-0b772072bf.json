@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 8,
   "area_m2": 565,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75608&foto=1664528&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75608&foto=1664528&f=1",
+  "description": "Localizada no coração do Monte Estoril, a Villa Edith é um chalé do início do século XX, primorosamente restaurado, que combina o charme de época com o conforto moderno. O que torna esta casa verdadeiramente rara é a capacidade de oferecer um estilo de vida altamente caminhável—perto da praia, cafés, restaurantes e serviços—sem abdicar da privacidade de um jardim maduro, piscina aquecida, estacionamento seguro e uma arquitetura distinta.\nOs azulejos originais, as madeiras de época, as lareiras, as proporções generosas e os tetos de cerca de 3,2 metros refletem o património da propriedade e criam um ambiente elegante e acolhedor.\nA casa oferece cerca de 565 m² de área bruta distribuídos por quatro pisos, num lote privado de aproximadamente 500 m². Inclui seis quartos, uma suite principal excecional e área de staff. Virada maioritariamente a sul, beneficia de excelente luz natural e vistas de mar cada vez mais amplas nos pisos superiores.\nOs jardins, com cerca de 250 m², proporcionam um ambiente resguardado apesar da localização central. Os espaços exteriores organizam-se em torno da piscina aquecida de água salgada, várias zonas de estar, deck e lareira exterior.\nO piso de entrada é dedicado às áreas sociais e ao quotidiano, com salas de estar e jantar, bar, sala de pequeno-almoço, cozinha equipada, despensa e lavandaria. Duas lareiras a lenha acrescentam conforto e caráter.\nO piso intermédio inclui sala de família, duas suites, kitchenette e escritório com lareira, facilmente convertível numa suite adicional. Uma varanda virada a sul oferece agradáveis vistas de mar.\nO último piso é inteiramente dedicado à suite principal, com dois closets, casas de banho separadas e áreas de estar e trabalho.\nEntre as comodidades adicionais: elevador para todos os pisos, climatização integrada, amplos arrumos, alojamento de staff, espaços de trabalho e garagem para dois carros.\nA poucos minutos a pé da praia, da marginal, do Jardim dos Passarinhos, restaurantes, cafés e serviços, a Villa Edith é uma oportunidade cada vez mais rara no Monte Estoril.",
+  "geo": {
+    "lat": 38.7061632,
+    "lng": -9.4056496
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,59 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75608&foto=1664528&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75608&foto=1664528&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Portadas",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Paredes (Pintadas)",
+      "Tecto (Focos, Ponto de Luz)",
+      "Piscina (Exterior)",
+      "Ginásio (Sauna)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 39; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 565,
-  "area_bruta_m2": null,
+  "area_util_m2": 525,
+  "area_bruta_m2": 565,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

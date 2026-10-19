@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 541,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74769&foto=1548974&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74769&foto=1548974&f=1",
+  "description": "Excepcional moradia isolada, com quatro quartos e um escritório, inserida em lote de terreno com 697 metros quadrados, localizada em zona residencial privilegiada.\nComposta por três pisos, dotada de elevador, dispõe no piso de entrada de um generoso hall de entrada, um escritório, casa de banho social, cozinha com ligação à sala de jantar. Uma ampla sala de estar com saída para uma magnífica área exterior, com terraço e acesso ao jardim e piscina aquecida. Em complemento desta área exterior e de apoio à piscina, no fundo do jardim, a casa oferece uma área preparada com cozinha. Acesso pelo jardim, ao piso inferior da casa, com zona de balneários de apoio à piscina e uma sala multiusos. Neste piso, existe uma área dedicada a tratamento de roupas e acesso à garagem com capacidade de acolher três carros, toa a área tem muitos armários embutidos para arrumação.\nA área privada, no último piso, dispõem de uma master suite com closet e casa de banho com luz directa, uma suite e dois quartos apoiados por uma casa de banho.\nA climatização é assegurada por ar condicionado por conduta bem como piso radiante. É dotada de alarme e CCTV.\nProximidade a comércio tradicional, serviços, escolas e colégios internacionais, a uma distância de a pé de 5 minutos da praia.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,56 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-19",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74769&foto=1548974&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74769&foto=1548974&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Portadas",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Video-Porteiro",
+      "Alarme (CCTV, Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 57; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 541,
-  "area_bruta_m2": null,
+  "area_util_m2": 384,
+  "area_bruta_m2": 541,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }
