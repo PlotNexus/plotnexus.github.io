@@ -8,7 +8,7 @@
   "bedrooms": 2,
   "bathrooms": null,
   "area_m2": 80,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1125515/P200392100/Tphoto/ID61ceb06f-6c35-4fc5-a06f-3fc37b213e5e.jpg",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1125515/P200392100/Tphoto/ID61ceb06f-6c35-4fc5-a06f-3fc37b213e5e.jpg",
   "description": "#ref:35407526",
   "geo": {
     "lat": 38.425681,
@@ -19,15 +19,26 @@
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/comprar-apartamento-t2-reguengos-de-monsaraz-5e62c558-bb13-4e80-8cc3-258574d5ee1c.html",
-  "published_at": "2026-10-18",
-  "last_seen_at": "2026-10-18",
+  "published_at": "2026-10-16",
+  "last_seen_at": "2026-10-19",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S6/C1125515/P200392100/Tphoto/ID61ceb06f-6c35-4fc5-a06f-3fc37b213e5e.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1125515/P200392100/Tphoto/ID61ceb06f-6c35-4fc5-a06f-3fc37b213e5e.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 2"
+    ],
+    "Equipamentos": [
+      "Aquecimento Central",
+      "Roupeiros"
+    ],
+    "Infraestruturas": [
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 80,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }
