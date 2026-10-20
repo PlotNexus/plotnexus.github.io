@@ -8,23 +8,62 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 280,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79706&foto=1607554&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79706&foto=1607554&f=1",
+  "description": "Situadas num dos pontos mais altos do West Cliffs Ocean and Golf Resort (Vau, Portugal), as moradias The Four desfrutam de vistas abertas sobre a Lagoa de Óbidos, a cerca de uma hora a norte de Lisboa. Entre dunas, pinhais e a linha do Atlântico no horizonte, The Four oferece um refúgio onde natureza e sofisticação se encontram em equilíbrio — um retiro sereno para desacelerar e mergulhar no seu encanto.\n\nA Villa Sereno insere-se num lote de 1.350 m², com 554 m² de área interior e 230 m² de terraços. Pode ser configurada com 3 ou 4 quartos em suite, cada um com casa de banho privativa e varanda. A distribuição está pensada em torno de uma cozinha central que liga diretamente ao terraço, prolongando o quotidiano para o exterior — para a piscina privada, o jardim e uma zona opcional de fire pit.\n\nA vida ao ar livre tem como centro uma piscina infinita de água salgada com 60 m², com manutenção através de eletrólise e um sistema avançado de filtração. Os jardins privados foram desenhados pela Jardim Vista (Richard Westcott), com o objetivo de complementar a arquitetura e preservar a vegetação nativa.\n\nComo parte d’The Four, os proprietários beneficiam de um conjunto completo de serviços de gestão, incluindo jardinagem, limpeza, vigilância e programas de manutenção. O ambiente do resort apoia também um estilo de vida ativo com golfe, trilhos cénicos e ténis/padel, além da lagoa para desportos náuticos.\n\nEntre as características especiais destacam-se: vistas de lagoa, terraços, piscina infinita de água salgada, escritório, pavimento em madeira nos quartos, detalhes em pedra natural, pátio, estacionamento interior, roupeiros feitos por medida, acesso a comunidade fechada e acesso direto ao campo de golfe, com dois anos de membership de golfe incluídos. Upgrades opcionais incluem sauna/banho turco, sala de fitness/cinema/jogos ou garrafeira, piso radiante nas casas de banho, cozinha exterior, carregador para veículo elétrico, tetos com painéis de madeira, cobertura/aquecimento de piscina, fire pit exterior personalizado e painéis solares.\n\nA conclusão da construção está prevista para o 4.º trimestre de 2027.",
+  "geo": {
+    "lat": 39.4198174877239,
+    "lng": -9.24353599545938
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-vau-obidos_pt_79706",
   "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79706&foto=1607554&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79706&foto=1607554&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 280,
-  "area_bruta_m2": null,
+  "area_util_m2": 554,
+  "area_bruta_m2": 280,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

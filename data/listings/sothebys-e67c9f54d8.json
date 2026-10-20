@@ -8,23 +8,26 @@
   "bedrooms": 10,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74573&foto=1661448&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74573&foto=1661448&f=1",
+  "description": "Moradia elegante e discreta distribuída por três pisos e sótão, com jardim exterior e jardim de inverno, localizada numa das zonas mais nobres e calmas do Chiado. Ambos os pisos nobres da moradia possuem tectos com pé direito alto, sendo o primeiro composto por três quartos, cozinha, lavandaria e uma sala de estar que articula os espaços da sala de jantar e do espaço exterior de jardim. O piso superior possui três quartos, escritório, copa , salão com lareira e varanda e um amplo e reservado jardim de inverno, sobranceiro ao jardim exterior da casa, criando um conjunto com um ambiente e vivências únicos. O sótão, originalmente destinado a alojamento dos empregados internos, é composto por dois quartos, sendo todos os pisos servidos por instalações sanitárias completas. No piso térreo existe um apartamento T1 que, por ter acesso directo ao exterior, pode ser usado como apartamento independente para pessoal, visitas ou em alternativa ser explorado no mercado de arrendamento. Uma moradia única localizada numa zona privilegiada e exclusiva de Lisboa.",
+  "geo": {
+    "lat": 38.7089231653728,
+    "lng": -9.14432689678955
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-chiado-lisboa_pt_74573",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74573&foto=1661448&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74573&foto=1661448&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 410,
+  "area_bruta_m2": 466,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

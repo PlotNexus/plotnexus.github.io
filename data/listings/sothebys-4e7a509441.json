@@ -8,23 +8,34 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78401&foto=1578672&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78401&foto=1578672&f=1",
+  "description": "No coração da Boavista nasce o Raiz, um empreendimento que valoriza a ligação entre cidade e natureza. Em frente ao Parque da Cidade e a poucos minutos do mar, este projeto oferece uma experiência única de habitar um espaço onde a arquitetura se inspira nos elementos naturais, integrando cortiça, pedra e madeira em ambientes de linhas orgânicas e tons neutros.\nAssinado pelo prestigiado gabinete Ventura+Partners, liderado por Manuel Ventura, o Raiz distingue-se por uma visão de arquitetura centrada nas pessoas, criando espaços que privilegiam bem-estar, funcionalidade e harmonia.\nO condomínio fechado dispõe de jardim privativo, Tea Garden, ginásio equipado, wellness studio, sala de massagem e espaço multifuncional, promovendo um estilo de vida equilibrado. A diversidade de tipologias, do T1 ao T4, responde a diferentes necessidades, sempre com uma forte conexão ao exterior.\nAs Nature Residences apresentam jardins privativos e piscina de uso exclusivo. As Core Residences combinam interiores elegantes com varandas amplas e áreas exteriores pensadas ao detalhe. Já as Upper Residences, no topo do empreendimento, incluem penthouses e apartamentos duplex com piscina privativa, proporcionando uma experiência residencial distinta.\nCom fachadas cuidadosamente desenhadas, varandas funcionais, estacionamento com carregamento elétrico e materiais de alta qualidade, o Raiz é a escolha certa para quem procura viver em sintonia com a energia urbana e a serenidade natural do Porto.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/duplex-aldoar-foz-do-douro-e-nevogilde-porto_pt_78401",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78401&foto=1578672&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78401&foto=1578672&f=1"
   ],
-  "features": null,
+  "features": {
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Proximidade (Jardins, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 3,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

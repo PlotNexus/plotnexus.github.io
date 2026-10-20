@@ -9,22 +9,40 @@
   "bathrooms": 1,
   "area_m2": 138,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110454/138fe551-2b0f-42ac-9f25-f3fa64ce45c2.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Uma quinta renovada com moradia T3, piscina de água salgada e 23.000 m² de terreno produtivo, Quinta da Conceição, situada no Caminho Municipal 1081, Estrada do Senhor dos Aflitos, em Évora, onde o campo e o conforto se encontram num refúgio raro às portas da cidade.\n\nAo chegar, a casa térrea revela‑se com a simplicidade elegante das remodelações bem pensadas: espaços funcionais, luz natural e uma vivência fluida que se estende até ao exterior. O percurso conduz‑nos ao coração da propriedade, onde a nova piscina de 4x11 m com jacuzzi, ainda a terminar os últimos acabamentos, se torna o cenário perfeito para dias longos e silenciosos, enquadrados pela paisagem agrícola que define este lugar.\n\nA quinta respira autenticidade. O olival centenário, com cerca de 80 oliveiras, algumas milenares, mantém a produção ativa e dá identidade ao terreno. A horta e o pomar, abastecidos por sistema de rega, oferecem variedade rara: pereiras, figueiras, nespereiras, ameixieiras, marmeleiros, romanzeiras, diospiros, limoeiros, amendoeiras, laranjeiras, macieiras e aveleiras. A presença da charca, do furo e dos dois poços garante autonomia, reforçada pelos 6 painéis solares e pela água filtrada do poço que abastece a casa.\n\nA propriedade está totalmente vedada, com divisões internas que separam a zona habitacional do olival e da horta, preservando organização e privacidade. Há ainda galinheiro, área de terra limpa com cerca de 7.000 m² e espaço para quem procura viver com ritmo próprio. Para quem ambiciona mais, existe um projeto de ampliação para T4 com suite e áreas sociais maiores, pronto a ser desenvolvido.\n\nCom 138 m² de área útil e um terreno vasto e produtivo, esta quinta é mais do que um imóvel: é um modo de vida que convida a criar rotinas, cultivar, receber e simplesmente estar num cenário onde o tempo abranda e tudo ganha outra escala.",
+  "geo": {
+    "lat": 38.600274390399456,
+    "lng": -7.924594352087849
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/quinta/t3-3-quartos/venda/senhora-dos-aflitos-evora-bacelo-e-senhora-da-saude-evora/renovado?id=110454",
   "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "last_seen_at": "2026-10-20",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110454/138fe551-2b0f-42ac-9f25-f3fa64ce45c2.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: E",
+      "Árvores",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Piscina"
+    ],
+    "Interior": [
+      "Lareira",
+      "Cozinha: Exaustor, Placa e forno",
+      "Painel solar"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 138,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 138,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

@@ -8,23 +8,43 @@
   "bedrooms": 5,
   "bathrooms": 7,
   "area_m2": 287,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69430&foto=1698862&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69430&foto=1698862&f=1",
+  "description": "Esplêndida moradia localizada numa zona residencial muito tranquila e, ao mesmo tempo, muito central de Vilamoura, a apenas escassos minutos da sua Marina, da praia, das comodidades, e das atividades de lazer que conferem ao lifestyle desta zona a sua fama internacional.\nA moradia oferece cinco quartos, todos eles com casa de banho privativa, uma espaçosa e acolhedora sala de estar que permite o acesso para o exterior, e uma cozinha funcional totalmente equipada. Além dos seus vários terraços, a casa dispõe igualmente de um extenso jardim maduro com perto de dois mil metros quadrados com piscina e uma convidativa área com churrasqueira onde poderá desfrutar das suas refeições \"al fresco\".\nA moradia, que em si já é um convite para férias, descanso e tranquilidade.\nTrata-se, sem dúvida, de uma excelente oportunidade de negócio para viver em permanência, aproveitar as suas férias ou rentabilizar.",
+  "geo": {
+    "lat": 37.0943888671498,
+    "lng": -8.11201533331299
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-vilamoura-loule_pt_69430",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69430&foto=1698862&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69430&foto=1698862&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 287,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 287,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

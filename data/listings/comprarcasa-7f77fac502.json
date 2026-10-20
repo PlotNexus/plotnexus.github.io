@@ -9,22 +9,39 @@
   "bathrooms": 2,
   "area_m2": 199,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110231/dec4fdfd-6dff-4b24-8552-54747a52972f.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia Unifamiliar T3 com 199 m2 de área bruta de construção, quintal, garagem, uma marquise com lareira e uma vivência tipicamente alentejana, situada na Rua Irmã Florinda, em Moura. Este é um espaço pensado para quem procura conforto, autenticidade e áreas amplas dentro da cidade.\n\nO quotidiano desta casa começa logo no rés do chão, onde a sala de estar com lareira se torna o ponto de encontro natural. A ligação fluida à cozinha com península cria um ambiente social e funcional, perfeito para quem gosta de cozinhar. A marquise, também com lareira, prolonga a casa para o exterior e adapta‑se a todas as estações: no inverno é um espaço muito acolhedor e, no verão, um espaço com bastante luminosidade.\n\nNo quintal, o espaço de churrasco cria um ambiente ideal para convívios, refeições ao ar livre e fins de semana descontraídos. A garagem e o anexo para arrumos acrescentam praticidade ao dia a dia, garantindo arrumação e facilidade de acesso.\n\nSubindo ao primeiro andar, os três quartos distribuem‑se de forma equilibrada, com áreas generosas e boa luminosidade, permitindo criar zonas de descanso, trabalho ou lazer conforme as necessidades.\n\nA localização reforça o valor do imóvel: Moura é um sítio rico em história e cultura, onde o Castelo de Moura, o Largo da Mouraria, o Museu Municipal e o Jardim Dr. Santiago fazem parte do quotidiano. A poucos minutos encontram‑se ainda pontos de interesse como a Albufeira de Alqueva, a Barragem de Alqueva e aldeias ribeirinhas que enriquecem a experiência de viver nesta região.\n\nEsta moradia oferece espaço, conforto e autenticidade, ficando exatamente com tudo o que está presente nas imagens, pronta a receber quem procura uma casa com alma, história e funcionalidade.",
+  "geo": {
+    "lat": 38.12841329999998,
+    "lng": -7.444599099999998
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/moradia/t3-3-quartos/venda/moura-moura-moura-santo-agostinho-e-sao-joao-baptista-e-santo-amador-beja/usado?id=110231",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110231/dec4fdfd-6dff-4b24-8552-54747a52972f.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 199,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Em curso",
+      "Terraço",
+      "Garagem",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Centro de saude, Policia",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Lareira"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 130,
+  "area_bruta_m2": 199,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

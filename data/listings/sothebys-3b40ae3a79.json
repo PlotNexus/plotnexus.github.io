@@ -8,23 +8,57 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 330,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79707&foto=1607502&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79707&foto=1607502&f=1",
+  "description": "A Villa Aurora é uma das quatro residências de assinatura d’The Four, um enclave privado inserido no West Cliffs Ocean and Golf Resort, um empreendimento de cinco estrelas na Costa de Prata. Localizada num dos pontos mais altos do resort, oferece vistas abertas sobre a Lagoa de Óbidos e o Oceano Atlântico.\n\nImplantada num lote elevado de 1.424 m², a moradia dispõe de 572 m² de área interior e 225 m² de terraços, com 4 ou 5 quartos em suite. Os interiores, cheios de luz natural, e uma distribuição bem pensada privilegiam o conforto do dia a dia: a cozinha, em posição central, liga-se diretamente às principais zonas de estar e refeições, prolongando-se de forma natural para os terraços exteriores.\n\nOs amplos terraços conduzem a uma piscina infinita de água salgada com 60 m², pensada tanto para lazer como para exercício. A água é purificada através de um avançado sistema de filtração e mantida por eletrólise, reforçando uma abordagem eco-friendly ao viver no exterior.\n\nA Villa Aurora inclui ainda um escritório, áreas de arrumação generosas e uma sala multifuncional que pode ser configurada como garrafeira, sala de cinema, sala de jogos ou ginásio, adaptando-se facilmente a diferentes estilos de vida.\n\nOs jardins privados foram desenhados pela Jardim Vista (fundada pelo arquiteto paisagista Richard Westcott) para complementar a arquitetura e preservar a beleza da vegetação nativa — criando uma forte ligação entre a casa, as dunas e a paisagem envolvente.\n\nEntre as características especiais destacam-se: vistas de lagoa, terraços, piscina infinita de água salgada, escritório, pavimento em madeira nos quartos, detalhes em pedra natural, pátio, estacionamento interior, roupeiros feitos por medida, acesso a comunidade fechada e acesso direto ao campo de golfe, com dois anos de membership de golfe incluídos. Upgrades opcionais incluem sauna/banho turco, sala de fitness/cinema/jogos ou garrafeira, piso radiante nas casas de banho, cozinha exterior, carregador para veículo elétrico, tetos com painéis de madeira, cobertura/aquecimento de piscina, fire pit exterior personalizado e painéis solares.\n\nComo parte do West Cliffs, a propriedade foi concebida para uma experiência de posse simples e assistida por serviços como jardinagem, limpeza, vigilância, programas de manutenção e supervisão de obra. A vila medieval de Óbidos fica a cerca de 10 minutos, e Lisboa a aproximadamente uma hora de carro.\n\nA conclusão da construção está prevista para o 4.º trimestre de 2027.",
+  "geo": {
+    "lat": 39.4171652209736,
+    "lng": -9.24439430234414
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-vau-obidos_pt_79707",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79707&foto=1607502&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79707&foto=1607502&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Norte"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 330,
-  "area_bruta_m2": null,
+  "area_util_m2": 572,
+  "area_bruta_m2": 330,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

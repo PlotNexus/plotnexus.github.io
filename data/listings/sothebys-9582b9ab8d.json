@@ -8,23 +8,83 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73621&foto=1473654&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73621&foto=1473654&f=1",
+  "description": "Um refúgio exclusivo situado no coração da Comporta, projetado para aqueles que adotam o estilo de vida \"viver dentro e fora\". Com uma área de 566 m², esta obra-prima arquitetónica, criada pelos renomados Saraiva e Associados, possui quatro quartos espaçosos e amplas áreas de convívio, tanto interiores como exteriores. Entregue \"chave na mão\" e totalmente mobilada, tanto por dentro como por fora, esta propriedade é uma fusão perfeita de sofisticação e conforto. Inspirada pela elegância descontraída de Ibiza, Grécia, Menorca e Formentera, a Moradia V4 captura a essência única da Comporta, oferecendo, ao mesmo tempo, um estilo de vida contemporâneo. Localizada a apenas uma hora de Lisboa e a uma hora e meia do Aeroporto Internacional de Lisboa, este refúgio está rodeado por 60 km de praias virgens e dunas de areia dourada, proporcionando uma fuga autêntica para a tranquilidade e a arte do \"slow living\", onde o ritmo tranquilo da região permite uma conexão profunda com a natureza e a simplicidade. A Comporta é muito mais do que um destino de férias, é um modo de vida. Com a sua atmosfera descontraída e vibrante, a região promove um equilíbrio perfeito entre a vida moderna e o contacto com o ambiente natural. Ao longo do ano, a vida aqui gira em torno da praia, do golfe, das caminhadas pelas dunas e da gastronomia local, com restaurantes que servem produtos frescos e autênticos da região. A Moradia V4 integra-se neste estilo de vida único, onde o luxo e a simplicidade convivem harmoniosamente. Dentro de um raio de 15 km, encontrará três campos de golfe de 18 buracos, perfeitos para jogar durante todo o ano, graças ao clima ameno da região. A Moradia V4 é mais do que uma casa; é uma oportunidade rara de viver a serenidade, a beleza e a exclusividade da Comporta. Entregue-se a uma vida de luxo, onde cada detalhe é pensado para inspirar. Bem-vindo ao seu refúgio dos sonhos, onde o conforto e a natureza se encontram em perfeita harmonia.",
+  "geo": {
+    "lat": 38.3100766069,
+    "lng": -8.7473487854
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-carvalhal-grandola_pt_73621",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73621&foto=1473654&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73621&foto=1473654&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Furo"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos, PVC, Térmicos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Depósito Lixo",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Hall de Entrada (Iluminação Aut.)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Falso Pladur, Ponto de Luz)",
+      "Equipamento (Casa Recolha Lixo, Jardins, Parque Infantil, Rega Automática, Video-Porteiro, Zelador / Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna, Solário)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Dunas",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 566,
+  "area_bruta_m2": 330,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

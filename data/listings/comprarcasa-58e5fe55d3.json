@@ -9,22 +9,51 @@
   "bathrooms": 1,
   "area_m2": 8,
   "image": "https://cdn.proppy.app/propertyfiles/1526/110320/630f26e0-7c0e-4cbf-a1ed-e5ea64fbfd0b.jpeg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Situada na charmosa zona de Furnas, esta vivenda usada oferece um ambiente residencial tranquilo com fácil acesso a serviços essenciais. Com uma área de 144 m², a propriedade dispõe de quatro quartos espaçosos, uma casa de banho e uma sala acolhedora, perfeita para famílias ou investidores. Com entrada lateral e jardim envolvente proporciona um espaço ideal para lazer e convívio ao ar livre, complementado por vistas montanhosas que enriquecem a experiência de viver nesta localização privilegiada. A orientação solar, garante luminosidade natural ao longo do dia, criando um ambiente confortável e energético. A propriedade encontra-se numa zona central, próxima de supermercados, restaurantes e escolas, facilitando o dia a dia e promovendo uma vida prática e acessível. Esta vivenda combina funcionalidade com sustentabilidade, sendo uma excelente oportunidade de investimento ou residência permanente na ilha de São Miguel.",
+  "geo": {
+    "lat": 37.77382700000001,
+    "lng": -25.315457
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/moradia/t4-4-quartos/venda/furnas-povoacao-furnas-ilha-de-sao-miguel/usado?id=110320",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/110320/630f26e0-7c0e-4cbf-a1ed-e5ea64fbfd0b.jpeg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 8,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Orientação solar: Norte, Sul",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Correios, Farmácia, Escolas, Infantário, Policia",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Vistas: Serra, Areas verdes",
+      "Árvores",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Norte, Sul"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 27,48",
+      "Área do(s) Quarto(s): 14,46",
+      "Área da Cozinha: 14,26",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Madeira, Alumínio",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 144,
+  "area_bruta_m2": 8,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

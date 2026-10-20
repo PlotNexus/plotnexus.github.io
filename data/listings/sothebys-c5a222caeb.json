@@ -8,23 +8,77 @@
   "bedrooms": 5,
   "bathrooms": 5,
   "area_m2": 556,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65575&foto=1238644&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65575&foto=1238644&f=1",
+  "description": "Magnífica moradia localizada em Oliveira do Douro inserida em terreno com cerca de 12 mil metros quadrados e com cerca de 140 metros de frente de rio. O terreno em socalcos, sustentados por imponentes muros de betão revestidos a pedra de granito, permite usufruir de deslumbrantes e majestosas vistas sobre o Rio Douro. \n\nA moradia desenvolve-se em dois pisos, sendo que no piso térreo se desenvolve toda a área social e no primeiro piso a zona privada dos quartos. Na zona social, encontramos duas salas de estar, ambas com lareira, a sala de jantar, a cozinha, uma zona de bar, uma zona de ginásio, um escritório e a casa de banho social. Ainda neste piso, temos uma zona de balneário, de apoio à piscina exterior, equipada com Banho Turco. A cozinha, recentemente remodelada e totalmente equipada, destaca-se pela utilização de materiais nobres, com balcão e Ilha ambos em Corian e armários com pormenores em \"Pau Ferro\". Junto à cozinha, encontramos uma espaçosa divisão de despensa com ampla arrumação. \n\nNo primeiro piso, encontramos duas suites, sendo que a master suite tem um espaçoso closet e uma varanda com vista de rio, e três quartos apoiados por uma casa de banho completa. Toda a casa tem soalho em madeira maciça de Afizélia, incluindo as casas de banho, com caixa de ar preenchida com argila expandida \"Leca\" para um isolamento térmico perfeito. Conta ainda com Aspiração Central e Ar Condicionado por conduta da marca Daikin com comando individual por divisão. O cuidado colocado na eficiência energética da casa contempla paredes exteriores duplas com isolamento entre estas com espuma de poliuretano projectado, sendo o aquecimento das águas sanitárias feito por bomba de calor ligada a seis painéis solares. \n\nNo exterior da casa, encontramos um anexo para tratamento de roupas e ainda um quarto suite para a empregada. A idílica zona da piscina exterior, localizada a sul/poente da casa, é ladeada por um amplo e cuidado espaço de relva e apoiada por um alpendre com churrasqueira e um miradouro que convida a desfrutar de momentos de contemplação da paisagem fluvial. Toda a área do terreno com cerca de 12 mil metros quadrados está arborizada e vedada, incluindo algumas árvores de frutos, e tem sistema de rega automático. A moradia fica localizada a 5 minutos de carro da Ponte do Freixo e a 15 minutos do centro do Porto.",
+  "geo": {
+    "lat": 41.1260161427053,
+    "lng": -8.57644339986114
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-oliveira-do-douro-vila-nova-de-gaia_pt_65575",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65575&foto=1238644&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65575&foto=1238644&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Banho Turco, Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Paredes (Granito, Pintadas)",
+      "Equipamento (Jardins, Rega Automática)",
+      "Piscina (Exterior)",
+      "Ginásio (Banho Turco, Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Panorâmicas",
+      "Rio",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Rio)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 556,
-  "area_bruta_m2": null,
+  "area_util_m2": 264,
+  "area_bruta_m2": 556,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

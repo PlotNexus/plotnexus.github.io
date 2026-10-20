@@ -8,23 +8,59 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 550,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70799&foto=1684678&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70799&foto=1684678&f=1",
+  "description": "Oportunidade exclusiva de aquisição conjunta de um lote de terreno e de uma sofisticada moradia isolada, numa localização privilegiada, de acesso quase exclusivo, com a vista mais impactante e imponente da cidade de Vila Nova de Gaia. \nO Lote de terreno com 1000 metros quadrados para construção de uma moradia isolada composta por dois pisos, um acima da cota da soleira e outro abaixo, com alvará concedido para 550 metros quadrados de área de construção e 350 metros quadrados de área de implantação. \nA moradia com 445 metros quadrados de área bruta privativa, inserida num lote de 945 metros quadrados, conta com quatro suites das quais uma master suite com dois closets e ainda dois escritórios. Projeto da autoria do Arquiteto Pedro Balonas,com uma vista soberba sobre a foz do Porto e a foz de Gaia, esta moradia caracteriza-se pelos seus grandes vãos envidraçados e painéis de madeira em todas as paredes. É uma casa com materiais nobres e clássicos. No piso de entrada dispõe de uma casa de banho social, um escritório, uma ampla sala de estar a poente com acesso ao exterior, uma sala de jantar, e uma grande cozinha equipada com frigorífico combinado, forno, micro-ondas e placa. A entrada da cozinha permite o acesso à lavandaria e ao quarto de empregada. No segundo piso acedemos aos quartos, todos em suite, um deles com varanda, e ao segundo escritório. Os quartos de banho e a lavandaria são em mármore e o piso dos corredores, halls, suites, salas, e escritórios são em madeira natural, com exceção da sala de jantar que para além do piso em madeira natural dispõe de uma zona em mármore. No rés-do-chão, e numa volumetria distinta dos pisos um e dois, fica a garagem, os balneários e os arrumos. A casa tem ar condicionado, Caldeira com AQS, aquecimento e recuperador de calor. O revestimento exterior da casa é em pedra natural e capoto. Os painéis em aço corten de correr permitem controlar a entrada de luz nas divisões a poente. No exterior da casa, ao nível do primeiro piso, existe um terraço com barbecue, jardim, piscina e uma zona deck para usufruir de uma vista magnifica sobre o rio e o mar. \nO terreno e a moradia estão localizados junto ao acesso da A1 na Arrábida, a uma curta distância do Arrábida Shopping, do Hospital da Luz, do Colégio dos Cedros e Colégio Horizonte, a 3 minutos de carro da Marina da Afurada, do Rio Douro e do Mar. O centro da cidade do Porto está a apenas 10 minutos de distância e a futura estação de metro da linha Rubi a cerca de 600 metros",
+  "geo": {
+    "lat": 41.14161,
+    "lng": -8.643531
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-afurada-vila-nova-de-gaia_pt_70799",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70799&foto=1684678&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70799&foto=1684678&f=1"
   ],
-  "features": null,
+  "features": {
+    "Caixilharia": [
+      "Madeira",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 550,
-  "area_bruta_m2": null,
+  "area_util_m2": 6,
+  "area_bruta_m2": 550,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

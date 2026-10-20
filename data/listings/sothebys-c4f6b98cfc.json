@@ -8,23 +8,71 @@
   "bedrooms": 6,
   "bathrooms": 8,
   "area_m2": 5,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71624&foto=1717848&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71624&foto=1717848&f=1",
+  "description": "Elegante moradia contemporânea com 6 quartos na encosta do Douro, com vistas sublimes do rio. A moradia conta com uma área bruta de construção de 887 metros quadrados e desenvolve-se em 3 pisos. No Rés-do-chão está instalado o hall de entrada da casa, uma sala multiusos (jogos e televisão), a garagem para 6 carros posto de carregamento para veículo elétrico, uma casa de banho completa, zona de tratamento de roupas, uma cave para vinhos, arrumos, casas das máquinas e zonas técnicas. O piso 1 acomoda a zona social e parte da privada, onde a sala comum ocupa 80 metros quadrados e estende-se para um espaço exterior de 150 metros quadrados metros quadrados que envolve toda a zona da piscina. A cozinha com 30 metros quadrados, está equipada com armários lacados e eletrodomésticos de gama alta da marca \"Pando\", forno duplo e cave de vinhos. Neste piso está ainda instalada a biblioteca, a sala de cinema e 4 suites, todas com roupeiros embutidos e varandas para contemplar as vistas únicas. No piso 2, a master suite com 65 metros quadrados é o foco, dispões de um walk in closet equipado e casa de banho com luz natural e vista de rio, toda a suite é circundada por um terraço com 43 metros quadrados. Acrescenta ainda neste piso, um espaço de ginásio, um escritório e uma casa de banho completa.\nA casa foi pensada e desenhada para maximizar a vista do Rio Douro e da paisagem que se impõe, construída com elevados padrões de qualidade e conforto. Os pavimentos são de madeira de carvalho com isolamento em cortiça, caixilharia de design minimalista em alumínio com vidro duplo com proteção térmica, painéis solares, pré-instalação para sistema painéis fotovoltaicos com bateria, depósito para recuperação de água da chuva, rega automática, piscina com cobertura térmica, sistema de domótica, ar condicionado oculto, sistema automático de renovação de ar interior, elevador, iluminação led com sensor de movimento, toalheiros aquecidos, recuperador de calor de dupla face, pré-instalação para sistema de segurança e CCTV, sistema contra incêndios.\nLocalizada na freguesia de Ancede e Ribadouro, lugar das Caldas, a 20 minutos de Baião, e a 75 minutos do aeroporto e da cidade do Porto.",
+  "geo": {
+    "lat": 41.1039828,
+    "lng": -8.0186883
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-douro-baiao_pt_71624",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71624&foto=1717848&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71624&foto=1717848&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (CCTV, Completo)",
+      "Aspiração Central (Pré-Instalação)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Equipamento (Tomadas de Computador, Ventilação Mecânica, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 114.3; Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Proximidade (Escolas, Padaria, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

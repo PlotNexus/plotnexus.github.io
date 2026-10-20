@@ -8,23 +8,70 @@
   "bedrooms": 5,
   "bathrooms": 7,
   "area_m2": 726,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78789&foto=1606737&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78789&foto=1606737&f=1",
+  "description": "Apresentamos esta moradia exclusiva e moderna, localizada na prestigiada zona de São Gonçalo, onde conforto, funcionalidade e bom gosto se unem numa arquitetura com caráter. A propriedade beneficia de vistas deslumbrantes sobre a Baía do Funchal, oferecendo um ambiente único de tranquilidade e beleza natural. Distribuída por três pisos inteligentemente organizados, esta residência é ideal para quem procura qualidade de vida, sofisticação e estilo. Neste piso encontramos um elegante hall de entrada, uma cozinha totalmente equipada com lavandaria funcional, uma casa de banho social e uma ampla sala de estar e jantar com acesso direto ao exterior. Dispõe ainda de uma sala adicional com lareira, ideal para momentos de lazer e preparada para funcionar como sala de cinema. No exterior, destaca-se a agradável zona de refeições com barbecue, perfeita para convívios ao ar livre. O piso superior é composto por três quartos em suite, todos com excelentes áreas e acabamentos de qualidade, bem como um escritório que pode ser facilmente convertido num quarto adicional. No piso Inferior, é dedicado ao lazer e ao bem-estar, oferecendo sauna, salão com mesa de snooker, casa de banho com base de duche, quarto de arrumos, um quarto adicional em suite, sala equipada com sistema de proteção/acústica de som, ginásio totalmente equipado, bem como garagem coberta e espaço exterior para várias viaturas. No exterior, a moradia conta com piscina aquecida, jardins bem cuidados e árvores de fruto, ideais para desfrutar do clima ameno da Madeira durante todo o ano. Localizada numa zona residencial tranquila, a apenas 10 minutos do centro do Funchal e com diversos serviços nas proximidades, como cafés, restaurantes e outras conveniências, esta moradia representa uma excelente oportunidade, seja como residência permanente, casa de férias ou investimento seguro e de prestígio.",
+  "geo": {
+    "lat": 32.6497396627931,
+    "lng": -16.8817883476074
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-sao-goncalo-funchal_pt_78789",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78789&foto=1606737&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78789&foto=1606737&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Video-Porteiro",
+      "Piscina (Exterior)",
+      "Ginásio (Sauna, Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins, Rega Automática, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Sauna, Solário)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave, Exterior)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 726,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 726,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

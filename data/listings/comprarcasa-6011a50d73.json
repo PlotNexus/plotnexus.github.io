@@ -9,22 +9,29 @@
   "bathrooms": 2,
   "area_m2": 6,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110421/c62ac617-5d62-4913-9ed4-2fd775f6ea70.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradias independentes com zona exterior no coração de Borba, reunindo duas unidades habitacionais que oferecem amplitude, privacidade e potencial de investimento num único conjunto.\n\nNo Largo Gago Coutinho e Sacadura Cabral, o quotidiano desenha-se entre duas casas que contam histórias diferentes, mas complementares. \n\nNo rés do chão, a moradia T2 acolhe quem chega com a simplicidade funcional de um lar prático, onde cada divisão cumpre o essencial: uma sala, uma cozinha, dois quartos. Subindo ao primeiro andar, a moradia T3 revela áreas amplas, luz generosa, uma garagem, um anexo de arrumos que organiza o dia a dia e uma cozinha exterior. Entre ambas, a zona exterior funciona como o ponto de encontro: espaço para refeições ao ar livre, para tardes descontraídas ou para quem procura criar uma pequena área de lazer.\n\nEste conjunto adapta-se a famílias que valorizam independência entre gerações, a quem procura viver e investir no mesmo imóvel, ou a quem vê aqui a oportunidade de criar duas unidades distintas para rendimento. \n\nUm lugar onde cada casa tem o seu ritmo, mas ambas partilham o mesmo potencial!",
+  "geo": {
+    "lat": 38.80697731460241,
+    "lng": -7.462378528795468
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/moradia/t5-5-quartos/venda/borba-matriz-borba-borba-matriz-evora/usado?id=110421",
   "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "last_seen_at": "2026-10-20",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110421/c62ac617-5d62-4913-9ed4-2fd775f6ea70.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Em curso"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 6,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 6,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

@@ -9,22 +9,44 @@
   "bathrooms": 3,
   "area_m2": 315,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110752/232d1b6a-7c9d-498a-aab4-532bb9709516.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Uma moradia T4 de 315 m², inserida num lote de 862 m², onde o espaço, a luz e a vista para o Alqueva se unem para criar uma casa completa, confortável e preparada para o futuro.\n\nNa tranquila Rua da Esperança, no Campinho, esta moradia destaca‑se desde o primeiro momento pelas áreas generosas e pela forma como cada divisão foi pensada para proporcionar bem‑estar. A sala com lareira torna‑se o centro da casa, onde o tijolo, a madeira e a luz natural criam um ambiente acolhedor. A cozinha, ampla e funcional, está preparada para funcionar totalmente em modo elétrico, mantendo também instalação para gás de botija, garantindo flexibilidade.\n\nA zona privada oferece duas suites, uma delas com closet, além de quartos com excelentes dimensões e circulação fluida. Toda a casa dispõe de pré‑instalação de AC/SoundRound e aquecimento central, permitindo personalização futura sem obras intrusivas.\n\nNo exterior, o lote abre‑se para um jardim amplo, zona de barbecue, espaço dedicado à caldeira do aquecimento central e uma área perfeita para desenvolver a sua piscina, enquadrada pela paisagem serena do Alqueva. A localização permite viver em sossego, mas a poucos minutos das Praias Fluviais de Amieira, Mourão e Monsaraz, tornando esta moradia ideal para quem procura qualidade de vida no Alentejo.",
+  "geo": {
+    "lat": 38.36510118447629,
+    "lng": -7.4671549673584
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/moradia/t4-4-quartos/venda/campinho-reguengos-de-monsaraz-campo-e-campinho-evora/usado?id=110752",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110752/232d1b6a-7c9d-498a-aab4-532bb9709516.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Barbecue",
+      "Armários embutidos",
+      "Certificação energética: B-",
+      "Serviços: Supermercados, Correios, Escolas, Infantário, Lar de terceira idade, Centro de saude",
+      "Vistas: Campo",
+      "Churrasqueira",
+      "Recuado",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Aquecimento",
+      "Ar condicionado",
+      "Lareira"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 315,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 315,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

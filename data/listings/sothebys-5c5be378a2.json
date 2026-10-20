@@ -8,23 +8,62 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74206&foto=1477776&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74206&foto=1477776&f=1",
+  "description": "Situado na prestigiada zona das Antas e na tradicional Avenida dos Combatentes, em condomínio fechado com segurança, este apartamento T4 duplex destaca-se pelo seu design sofisticado e acabamentos de alta qualidade. Com uma área bruta privativa de 305 m², este imóvel oferece um espaço amplo e funcional, ideal para quem procura conforto e exclusividade e segurança.\nDistribuído por dois pisos, o apartamento dispõe de uma espaçosa sala comum com um elegante pé direito com varanda virado a sul e vistas para o jardim do condomínio, proporcionando uma sensação de amplitude única e sala de jantar. A cozinha, totalmente equipada, alia funcionalidade a um design moderno. Conta com quatro quartos, incluindo três suítes, e cinco casas de banho, garantindo o máximo de conforto para toda a família. No piso superior conta ainda com outras areas de estar com diferentes ambientes, como garrafeira e sala de televisão, e ainda uma suíte, permitindo receber hóspedes com toda a privacidade e um arrumo com área generosa. A propriedade possui ainda estacionamento privativo em box fechada para 4 viaturas, e lavandaria em separado, facilitando o dia a dia. Construído em 2021, o edifício oferece uma estrutura contemporânea, com exposição solar sul, que privilegia a entrada de luz natural.\nInserido num condomínio exclusivo, com segurança 24 horas e portaria, os residentes beneficiam de uma vasta área verde com 15.500 m², composta por jardins, piscina, banho turco, gruta e um lago, proporcionando um ambiente tranquilo e seguro. A propriedade inclui ainda comodidades modernas como domótica, piso radiante, pré-instalação de ar condicionado e aquecimento central, além de sistemas sustentáveis como geotermia e painéis solares.\nA localização estratégica deste apartamento oferece excelentes acessos às principais vias rodoviárias, facilitando a mobilidade para o centro do Porto e outras zonas da cidade. Conta ainda com uma oferta completa de serviços nas proximidades, como supermercados, restaurantes, hospitais e espaços de lazer.\nPara famílias com crianças em idade escolar, a proximidade a colégios internacionais de renome e ao polo universitário do Porto torna esta uma opção privilegiada.",
+  "geo": {
+    "lat": 41.1492537637,
+    "lng": -8.5972309112
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/duplex-bonfim-porto_pt_74206",
   "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74206&foto=1477776&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74206&foto=1477776&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Tecto (Falso Pladur)",
+      "Piscina (Interior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 56.50; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 305,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

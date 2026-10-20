@@ -8,23 +8,40 @@
   "bedrooms": 5,
   "bathrooms": 7,
   "area_m2": 383,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65421&foto=1255106&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65421&foto=1255106&f=1",
+  "description": "Moradia de luxo em Cascais, com acabamentos nobres, amplas áreas e um ambiente verdadeiramente excepcional, construção nova, inserida num lote de 676 metros quadrados, numa zona em franco desenvolvimento, com detalhes e materiais de construção prime. O jardim cuidadosamente pensado em termos paisagistas, permite ainda a criação de um espaço exterior único e com toda a privacidade.\nEsta moradia está situada a apenas 7 minutos do centro de Cascais, a 6 minutos do Estoril e a 26 minutos do Aeroporto de Lisboa, proximidade a restaurantes, hospitais, supermercados e escolas públicas e privadas , nacionais e internacionais, oferecendo uma localização privilegiada.\n\n No piso térreo, encontrará um amplo hall de entrada , uma área independente com ginásio, sauna, banho turco com apoio de casa de banho completa, lavandaria e uma espaçosa garagem para quatro carros e acesso ao piso um, onde temos a zona social da casa.\n\nO primeiro andar é marcado por uma sala e cozinha em open-concept com 70 metros quadrados, acesso direto a uma varanda com 24 metros quadrados e à área exterior de deck e piscina. Um excelente hall de distribuição, casa de banho social e um escritório que pode ser convertido em mais um quarto em suite tornando a moradia numa tipologia T5, com acesso direto ao deck e à piscina. Amplos vãos de vidro que conferem uma luminosidade única proporcionando luz natural durante todo o dia.\nNo segundo piso, na área mais privada da casa, duas suítes com 22 e 25 metros quadrados respectivamente, ambas com acesso a uma varanda comum com 18 metros quadrados. Ainda neste piso mais uma suite com 30 metros quadrados e a master suite com uma generosa área de 40 metros quadrados, que inclui uma varanda privativa de 20 metros quadrados. Todas as suítes possuem walk-in closet. A moradia encontra-se totalmente equipada com sistema de domótica \"EAE\" e ar condicionado por condutas.\n\nA localização é ideal, com fácil acesso à A5, apenas a 1 minuto de distância, e proximidade a restaurantes, hospitais, supermercados e escolas, incluindo escolas privadas e públicas nacionais e internacionais em poucos minutos de carro.\n\nUma oportunidade única para adquirir uma moradia de luxo em fase de acabamentos finais, com um jardim e piscina onde pode desfrutar de uma vivência de luxo, próximo de todas as comodidades, mas com tranquilidade.",
+  "geo": {
+    "lat": 38.7127439,
+    "lng": -9.3345281
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-abuxarda-cascais_pt_65421",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65421&foto=1255106&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65421&foto=1255106&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Alarme (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Banho Turco, Sauna)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons)",
+      "Proximidade (Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 383,
-  "area_bruta_m2": null,
+  "area_util_m2": 318,
+  "area_bruta_m2": 383,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

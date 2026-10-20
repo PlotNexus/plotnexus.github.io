@@ -9,22 +9,38 @@
   "bathrooms": 1,
   "area_m2": 1,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110135/612c18f8-19c3-4c79-8fcf-d153ef5a5d4a.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Um espaço comercial amplo, com grande área exterior e enorme potencial para diferentes negócios, localizado numa das avenidas mais visíveis e movimentadas de Évora.\n\nNa Avenida dos Salesianos, este imóvel combina 131,10 m² de área útil com 169 m² de área exterior, criando um cenário raro dentro da cidade para quem procura presença, funcionalidade e capacidade de adaptação. Ao entrar, percebe‑se a amplitude dos espaços, a luz que percorre a sala principal e a facilidade com que o layout se molda a comércio, serviços, estúdios criativos ou áreas técnicas.\n\nO interior, marcado por zonas amplas e colunas estruturais, permite criar ambientes distintos, circulação fluida e uma leitura clara do espaço, ideal para quem precisa de mostrar os produtos, receber clientes ou organizar equipas. A ligação ao exterior reforça ainda mais o potencial: o pátio, generoso e versátil, pode transformar‑se numa esplanada, área de exposição, zona de eventos, apoio logístico ou simplesmente um prolongamento natural da atividade.\n\nA localização acrescenta o que o negócio não pode comprar: visibilidade, movimento diário, facilidade de estacionamento e proximidade a escolas, serviços e zonas residenciais. Aqui, cada metro quadrado trabalha a favor de quem procura crescer.",
+  "geo": {
+    "lat": 38.56984160639715,
+    "lng": -7.918635900079276
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/loja-comercio/0-quarto/venda/evora-malagueira-e-horta-das-figueiras-evora/usado?id=110135",
   "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "last_seen_at": "2026-10-20",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110135/612c18f8-19c3-4c79-8fcf-d153ef5a5d4a.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Certificação energética: D",
+      "Acessos: Transportes públicos",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Comercial",
+      "Vistas: Cidade",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 1,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 1,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

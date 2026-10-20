@@ -9,22 +9,29 @@
   "bathrooms": 1,
   "area_m2": 3,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110209/a4a06c93-060c-4734-8a1e-7e6a85c623e6.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Uma moradia térrea T3 com quintal, situada na Rua de Évora, na Vendinha, S. Vicente do Pigeiro, que combina autenticidade, funcionalidade e o ritmo tranquilo do Alentejo.\n\nAo entrar, a casa revela uma distribuição prática, onde a sala e a cozinha mantêm o espírito das casas térreas tradicionais: espaços simples, proporcionais e pensados para o dia a dia. Os três quartos garantem conforto equilibrado, enquanto a área útil de 82,30 m² oferece a dimensão certa para uma vivência descomplicada.\n\nA casa prolonga‑se depois para o exterior, onde o quintal de 50,70 m² se torna um verdadeiro complemento da vida doméstica. Aqui encontra‑se um anexo, ideal para arrumos, atelier, lavandaria ou apoio ao exterior, e um alpendre que acrescenta sombra, uso e versatilidade, perfeito para refeições ao ar livre, pequenas pausas ou simplesmente para aproveitar o silêncio característico da Vendinha.\n\nA localização, numa das ruas centrais da aldeia, garante proximidade a Évora sem perder o ambiente rural que define esta zona. Uma moradia que preserva a essência rústica da região e que oferece potencial para quem procura um refúgio térreo, funcional e com identidade.",
+  "geo": {
+    "lat": 38.456608814896526,
+    "lng": -7.643719916561191
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/moradia/t3-3-quartos/venda/vendinha-evora-sao-mancos-e-sao-vicente-do-pigeiro-evora/usado?id=110209",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110209/a4a06c93-060c-4734-8a1e-7e6a85c623e6.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: F"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 3,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 3,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

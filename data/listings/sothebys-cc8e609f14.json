@@ -8,23 +8,49 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 330,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65831&foto=1704060&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65831&foto=1704060&f=1",
+  "description": "Bem-vindo ao Ando Living Comporta House, um novo e exclusivo empreendimento localizado na deslumbrante região da Comporta. Composto por 16 moradias únicas, este condomínio fechado oferece um estilo de vida sofisticado, com piscinas privativas para cada residência. As características distintivas deste projeto incluem uma arquitetura diferenciada assinada pelo Gabinete CHP que explora a harmoniosa integração entre o design elegante e a natureza envolvente.\nAs moradias no Ando Living Comporta House possuem entre dois a cinco quartos e áreas entre os 237 e 438 metros quadrados, proporcionando assim uma seleção diversificada para atender às necessidades de cada residente. \nO Ando Living Comporta House encontra-se numa localização privilegiada próxima a uma variedade de serviços essenciais. Os amantes da gastronomia podem deleitar-se com a cozinha local, o marisco e peixe frescos, os produtos cultivados na região e os reconhecidos vinhos alentejanos. \nA região da Comporta é conhecida pelo seu encanto natural, com praias de areia dourada e paisagens deslumbrantes. Esta localização única proporciona um ambiente tranquilo e relaxante, longe da agitação da cidade, permitindo desfrutar de momentos especiais em comunhão com a natureza. \nO Ando Living Comporta House é o destino ideal para quem procura um refúgio exclusivo, onde a privacidade, a beleza natural e a arquitetura se harmonizam para criar um ambiente verdadeiramente extraordinário.",
+  "geo": {
+    "lat": 38.25817,
+    "lng": -8.720828
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-comporta-grandola_pt_65831",
   "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65831&foto=1704060&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65831&foto=1704060&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)"
+    ],
+    "Vistas": [
+      "Dunas",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Centralidade (Rural)",
+      "Proximidade (Praias)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 330,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 330,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

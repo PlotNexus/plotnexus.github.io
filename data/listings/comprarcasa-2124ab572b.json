@@ -9,22 +9,39 @@
   "bathrooms": 4,
   "area_m2": 8,
   "image": "https://cdn.proppy.app/propertyfiles/1502/110402/124dec54-2a2d-4c4c-a8ff-50ff516ceb3e.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Espaço comercial localizado em Beja, nos Moinhos de Santa Maria, constituído por dois pisos com uma área de 134,80 m2 no rés do chão e 76 m2 na cave.\n\nO rés do chão é constituído por uma divisão ampla com instalação sanitária por terminar e duas grandes montras.\n\nTambém tem diversas divisões e mais instalações sanitárias, neste mesmo piso. \n\nNa cave podemos encontrar mais três divisões e duas instalações sanitárias.\n\nCom potencialidade de se criar um acesso independente da primeira divisão com as montras para as restantes divisões e potencializar este outro espaço de uma outra forma. \n\nMarque a sua visita, venha conhecer!",
+  "geo": {
+    "lat": 38.02119487132697,
+    "lng": -7.862156539299014
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/loja-comercio/0-quarto/venda/moinhos-de-santa-maria-beja-beja-salvador-e-santa-maria-da-feira-beja/usado?id=110402",
   "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "last_seen_at": "2026-10-20",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1502/110402/124dec54-2a2d-4c4c-a8ff-50ff516ceb3e.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 8,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Ano construção: 2005",
+      "Arrecadação",
+      "Armários embutidos",
+      "Certificação energética: Em curso",
+      "Acessos: Transportes públicos, Comboio",
+      "Localização: Periferia",
+      "Serviços: Supermercados, Farmácia, Escolas, Infantário, Lar de terceira idade, Universidade",
+      "Zona envolvente: Residencial, Industrial, Comercial",
+      "Vistas: Campo, Cidade",
+      "Fração autónoma"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 190,
+  "area_bruta_m2": 8,
+  "ano_construcao": 2005,
+  "certificacao_energetica": "E"
 }

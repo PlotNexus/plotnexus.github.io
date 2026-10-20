@@ -9,22 +9,53 @@
   "bathrooms": 1,
   "area_m2": 2,
   "image": "https://cdn.proppy.app/propertyfiles/1526/110217/9f648af5-ccaf-4771-86d2-dd1dff4b2360.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Esta moradia T3 está situada numa zona residencial tranquila de Algarvia, proporcionando um ambiente perfeito para famílias ou quem procura funcionalidade no dia a dia. Com uma área bruta de 134,2 m² e inserida num terreno de 357 m², oferece espaço suficiente para conforto e privacidade.\n\nA localização é um dos grandes destaques, com mercearia, escolas e jardins a poucos minutos a pé, facilitando todas as rotinas diárias sem necessidade de carro. O acesso ao transporte público é rápido, tornando a mobilidade ainda mais prática.\n\nA proximidade a espaços de lazer, como o Jardim da Algarvia e o Miradouro da Rua do Teatro, permite desfrutar de momentos ao ar livre e de vistas agradáveis. Esta moradia usada é uma excelente escolha para quem valoriza qualidade de vida e acessibilidade.\n\nAproveite esta oportunidade para viver numa das zonas mais funcionais e acolhedoras do Nordeste.",
+  "geo": {
+    "lat": 37.84567960000001,
+    "lng": -25.2287789
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/moradia/t3-3-quartos/venda/algarvia-nordeste-algarvia-ilha-de-sao-miguel/usado?id=110217",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/110217/9f648af5-ccaf-4771-86d2-dd1dff4b2360.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 2,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Orientação solar: Norte, Este",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Serra",
+      "Árvores",
+      "Muro",
+      "Logradouro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Norte, Este"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 11,93",
+      "Área do(s) Quarto(s): 15,31",
+      "Área da Cozinha: 20,25",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 122,
+  "area_bruta_m2": 2,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

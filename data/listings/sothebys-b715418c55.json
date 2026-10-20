@@ -8,23 +8,67 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 35,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63487&foto=1344021&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63487&foto=1344021&f=1",
+  "description": "Exclusivo Andar-Moradia com quatro quartos, com 523 metros quadrados de área bruta privativa, inserido em condomínio fechado de referência junto à marginal do rio Douro e ao Passeio Alegre. A casa desenvolve-se em 3 pisos, a zona social está ao nível do Rés-do-chão sendo composta por hall de entrada com pavimento de mármore Estremoz, uma luminosa sala comum com 84 metros quadrados, com soalho de carvalho e recuperados de calor, escritório com acesso a uma área exterior de terraço com 20 metros quadrados, cozinha com 28 metros quadrados com móveis lacados, bancadas e paredes de Silestone e pavimento de mármore Estremoz, equipada com placa, forno, frigorífico, micro-ondas, máquina de lavar loiça e exaustor da marca SMEG, lavandaria e casa de banho social. \nA zona privada, situada no 1º piso, é composta por quatro suites com áreas entre os 22 e os 36 metros quadrados, todas com roupeiros embutidos, soalho em Carvalho e casas de banho com paredes e chão de mármore Estremoz e com louças suspensas. Na cave, encontramos uma sala multiusos com 89 metros quadrados, também com recuperador de calor e uma casa de banho completa.\nPossui ar condicionado na sala comum e na sala multiusos e aquecimento central nas restantes divisões, o aquecimento da água quente sanitária é assegurada por caldeira mural a gás apoiada por termoacumulador. Tem estores elétricos tipo Blackout nos quartos, caixilharia em alumínio lacado com vidros duplos e corte térmico, sistema de aspiração central, alarme e videoporteiro. Exposição solar: sul, nascente e poente. Estacionamento independente para quatro viaturas e arrumo.\nExcelente qualidade de construção e acabamentos.\nLocalização privilegiada, inserida no coração da Foz do Douro, a escassos metros do Rio Douro e do Jardim do Passeio Alegre, com proximidade a todo o tipo de serviços, como ginásios e piscinas, e com uma vasta oferta de comércio e supermercados. Na vizinhança, é ainda possível encontrar diversas zonas de lazer como o Parque de Serralves, Jardim Botânico e o Parque da Cidade, proporcionando a prática de atividade física e caminhadas. As praias da Foz estão a uma curta caminhada de 5 minutos e o centro do Porto a 5 quilómetros. Dotado de excelentes acessos, facilita a deslocação para o centro do Porto e/ou outros destinos. Encontra-se ainda próximo de escolas e colégios de referência da cidade, como a Oporto British School e a Universidade Católica.",
+  "geo": {
+    "lat": 41.1494354,
+    "lng": -8.6729351
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-foz-velha-porto_pt_63487",
   "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63487&foto=1344021&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63487&foto=1344021&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Alarme (Completo)",
+      "Aspiração Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Granito, Pintado)",
+      "Equipamento (Ventilação Mecânica, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 49.35; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 35,
-  "area_bruta_m2": null,
+  "area_util_m2": 1,
+  "area_bruta_m2": 35,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

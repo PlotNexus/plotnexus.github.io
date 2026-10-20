@@ -8,23 +8,61 @@
   "bedrooms": 5,
   "bathrooms": 5,
   "area_m2": 547,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69166&foto=1687906&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69166&foto=1687906&f=1",
+  "description": "Localizado na pacata freguesia de Azoia, em Sintra, encontra-se o deslumbrante Ocean Edge. Este condomínio exclusivo oferece moradias de luxo com tipologias variando de V3+3 a V5+1, com áreas espaçosas entre 491m2 e 559m2. Um verdadeiro refúgio de elegância e privacidade, o condomínio é composto por apenas 5 moradias, cada uma com a sua própria piscina privativa e jardim, ideal para momentos de descontração e lazer.\nCada residência foi meticulosamente concebida para proporcionar conforto e sofisticação, com acabamentos de alta qualidade e detalhes de design requintados. As amplas áreas de estar e os espaçosos quartos garantem um ambiente acolhedor para toda a família. Além disso, as moradias incluem estacionamento privativo no piso inferior para maior comodidade dos residentes.\nCom uma data prevista de conclusão para dezembro de 2025, o Ocean Edge destaca-se como um empreendimento de excelência na região. Permite desfrutar do ambiente sereno e da beleza natural das serras que rodeiam estas moradias, enquanto se deleita com a proximidade ao oceano Atlântico, a menos de 10 minutos de distância. A privilegiada localização oferece ainda fácil acesso às principais vias, proporcionando uma rápida ligação às áreas urbanas circundantes. \nO Ocean Edge oferece não apenas luxo e exclusividade, mas também uma ligação íntima com a beleza natural única da região de Sintra. Situado no meio de uma paisagem deslumbrante e uma atmosfera serena, este condomínio exclusivo proporciona uma experiência de vida verdadeiramente enriquecedora.",
+  "geo": {
+    "lat": 39.9389846783184,
+    "lng": -8.67951683068847
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-colares-sintra_pt_69166",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69166&foto=1687906&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69166&foto=1687906&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (CCTV, Completo)",
+      "Música Ambiente (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Proximidade (Praias)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 547,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 547,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,23 +8,30 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 6,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83331&foto=1695030&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83331&foto=1695030&f=1",
+  "description": "Moradia T4 com piscina, localizada em Birre. Originalmente concebida como T7, foi remodelada para T4, mantendo a possibilidade de conversão para T5 ou de reposição da configuração original. A propriedade destaca-se pela arquitetura contemporânea, privacidade e ligação entre os espaços interiores e exteriores.\nImplantada num lote de 856 m², conta com 549 m² de área bruta de construção, distribuídos por dois pisos. No piso principal, dispõe de sala de estar e jantar com jardim interior, amplas superfícies envidraçadas e cozinha equipada, com acesso direto ao exterior. No piso superior encontram-se uma master suite, dois quartos e casas de banho remodeladas. A casa dispõe de ar condicionado independente e aquecimento elétrico nos quartos.\nNo exterior, o jardim com piscina e zona de churrasqueira proporciona diferentes áreas de lazer. A propriedade inclui ainda adega com capacidade para cerca de 600 garrafas, sala de jogos, lavandaria, áreas técnicas, arrecadação, garagem coberta para duas viaturas e estacionamento exterior para cinco. Dispõe também de painéis solares e furo de água para apoio à rega do jardim e piscina.\nSituada em Birre, encontra-se a cerca de 7 minutos do centro de Cascais e a 5 minutos da Praia do Guincho, com fácil acesso a comércio, restauração, serviços e ao Hospital CUF Cascais.\nA localização permite também proximidade a escolas internacionais, como King's College School Cascais, St. George's School e St. Dominic's International School, bem como rápidos acessos à A5 e às principais vias da região.\nPróxima do Parque Natural de Sintra-Cascais e a cerca de 25 minutos de Lisboa e do Aeroporto Humberto Delgado, esta moradia em Birre reúne espaço, privacidade e uma localização privilegiada para viver em Cascais.",
+  "geo": {
+    "lat": 38.7142965,
+    "lng": -9.4422878
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-cascais-cascais_pt_83331",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83331&foto=1695030&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83331&foto=1695030&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Furo"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 6,
-  "area_bruta_m2": null,
+  "area_util_m2": 500,
+  "area_bruta_m2": 6,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

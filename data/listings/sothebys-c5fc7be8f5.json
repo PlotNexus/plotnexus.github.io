@@ -8,23 +8,45 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 437,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63919&foto=1184547&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63919&foto=1184547&f=1",
+  "description": "Moradia T4+1 com estúdio independente, inserida num terreno de 1,5 hectares, situada na paisagem tranquila e preservada da Serra Algarvia. Totalmente renovada, esta propriedade alia o charme do estilo tradicional algarvio ao conforto contemporâneo, com vistas abertas para o mar e para a serra — tudo isto a poucos minutos das praias, de campos de golfe e de todas as comodidades.\n\nA casa principal oferece quatro quartos, três em suíte, uma casa de banho social, cozinha equipada, sala de jantar, duas salas de estar amplas e um hall de entrada luminoso com jardim interior e fonte central. Desde a entrada, as vistas para sul e a luz natural destacam-se como elementos centrais da casa. Um anexo no rés do chão, com entrada independente e casa de banho, oferece flexibilidade de utilização — podendo funcionar como quarto adicional, sala de jogos, ginásio ou escritório.\n\nA propriedade conta ainda com um estúdio independente, totalmente equipado com kitchenette e casa de banho privativa, perfeito para alojamento de visitas, arrendamento turístico ou uso pessoal.\n\nNo exterior, a piscina de borda infinita convida a momentos de relaxamento com vista desafogada para o oceano. Os vários terraços e pátios criam ambientes acolhedores para refeições ao ar livre, lazer ou convívio. Há também um espaço dedicado ao bem-estar, com deck em madeira e pérgola coberta, ideal para práticas como yoga ou meditação, envolto por vegetação e com total privacidade.\n\nCom furo de água próprio, bomba de calor de 500 litros e painéis solares para aquecimento, esta moradia está equipada com soluções eficientes e sustentáveis. O extenso jardim inclui árvores de fruto e pequenas vinhas, reforçando a ligação à natureza e ao estilo de vida ao ar livre.\n\nA localização é ideal: a menos de 15 minutos das praias e dos campos de golfe, a 20 minutos do Aeroporto de Faro e a apenas 5 minutos da vila mais próxima, com comércio local, serviços e restauração.\n\nUma oportunidade rara para quem procura tranquilidade, privacidade e qualidade de vida no verdadeiro Algarve.",
+  "geo": {
+    "lat": 37.11985743569,
+    "lng": -8.29641828280335
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-countryside-loule_pt_63919",
   "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63919&foto=1184547&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63919&foto=1184547&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Furo"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Campo",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Centralidade (Rural)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 437,
-  "area_bruta_m2": null,
+  "area_util_m2": 238,
+  "area_bruta_m2": 437,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

@@ -6,25 +6,28 @@
   "currency": "EUR",
   "location": "Apartamento, Chiado, Lisboa",
   "bedrooms": null,
-  "bathrooms": null,
+  "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75068&foto=1494830&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75068&foto=1494830&f=1",
+  "description": "Descubra este incrível apartamento com 736 mts no coração do Chiado, uma das localizações mais prestigiadas de Lisboa. \nNum predio de charme em Lisboa\n\nCom um total de 24 divisões distribuídas por três pisos:\n\n– 57 m² no primeiro andar\n- 630 m² no segundo andar\n- 112 m² no terceiro andar\n\nEste imóvel oferece uma ampla variedade de utilizações e configurações.\n\nDestacam-se os pequenos jardins interiores, que proporcionam ambientes acolhedores e cheios de charme, e algumas divisões com vistas panorâmicas deslumbrantes sobre a cidade, caste e rio tornando este espaço ainda mais exclusivo. Originalmente destinado a serviços, há a possibilidade de conversão para habitação, permitindo criar uma residência única e sofisticada no centro histórico de Lisboa.\n\nUma oportunidade imperdível para quem procura um espaço distinto e cheio de potencial.",
+  "geo": {
+    "lat": 38.7113522,
+    "lng": -9.1361634
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-chiado-lisboa_pt_75068",
   "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75068&foto=1494830&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75068&foto=1494830&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 783,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

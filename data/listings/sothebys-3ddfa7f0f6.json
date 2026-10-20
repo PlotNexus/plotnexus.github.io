@@ -8,23 +8,36 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 440,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79607&foto=1611783&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79607&foto=1611783&f=1",
+  "description": "Moradia de Luxo na Quinta do Perú Golf &amp; Country Club\n\nApresentamos um projeto para a construção de uma moradia, localizado no exclusivo Condomínio Quinta do Perú Golf &amp; Country Club, em Sesimbra, próximo do Parque Natural da Serra da Arrábida e das suas fabulosas praias. A moradia T4, atualmente em construção, está inserida num lote de terreno com 1.600 m², terá uma área de construção de 435,90m2 e será composta por 2 pisos acima do solo e uma cave que acomodará até 4 carros, zonas de circulação e áreas técnicas.\n\nEsta moradia unifamiliar, de arquitetura contemporânea foi cuidadosamente idealizada pelo renomado arquiteto João de Sousa Rodolfo. A forma como foi pensada visa proporcionar o equilíbrio perfeito entre conforto, segurança e elegância.\n\nA sua arquitetura destaca-se pelos volumes simples, complementados por amplas áreas envidraçados que oferecem luz natural, contribuindo para sua perfeita integração na paisagem. A continuidade entre as várias zonas da moradia é favorecida por amplas varandas e generosas áreas de estar ao ar livre, direcionadas para a zona de jardim e piscina.\n\nUma casa pensada para uma família que deseje viver em tranquilidade, num condomínio privado e que pode ser customizada pelo comprador em fase de obra.",
+  "geo": {
+    "lat": 38.4440435397,
+    "lng": -9.1024303436
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-sesimbra-sesimbra_pt_79607",
   "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79607&foto=1611783&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79607&foto=1611783&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 440,
-  "area_bruta_m2": null,
+  "area_util_m2": 436,
+  "area_bruta_m2": 440,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

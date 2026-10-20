@@ -8,23 +8,63 @@
   "bedrooms": 6,
   "bathrooms": 5,
   "area_m2": 607,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73370&foto=1455840&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73370&foto=1455840&f=1",
+  "description": "Localizada no exclusivo Belas Clube de Campo, esta elegante moradia isolada de 6 quartos é a escolha ideal para quem procura conforto, privacidade e uma ligação harmoniosa com a natureza. Situada numa zona privilegiada entre Lisboa e Cascais, a propriedade beneficia de proximidade às principais vias, como a A16, e de um ambiente seguro, com segurança 24h e diversas comodidades.\n\nCom uma arquitetura moderna, a moradia destaca-se pela sua parede envidraçada, que proporciona uma luminosidade natural extraordinária e uma ligação fluida entre os espaços interiores e exteriores. No piso térreo, encontramos uma ampla sala que se estende por toda a largura da casa, oferecendo uma vista deslumbrante para a piscina com efeito de transbordo. Este piso inclui também uma suite confortável, uma cozinha moderna totalmente equipada e um escritório funcional, ideal para quem trabalha a partir de casa ou precisa de um espaço de estudo.\n\nUm dos pontos fortes desta propriedade é a imensa arrumação, indispensável para uma família, garantindo organização e funcionalidade em todos os espaços da casa.\n\nO piso superior é composto por uma master suite espaçosa com jacuzzi, uma suite adicional e uma área infantil com três quartos, casa de banho de apoio e uma zona comum separada do restante espaço. A cave oferece funcionalidades únicas, incluindo uma sala de cinema privada e uma garagem fechada com capacidade para até cinco veículos.\n\nO exterior inclui um jardim virado a sul, perfeito para atividades ao ar livre, um terraço sombreado junto à cozinha para refeições, e um jacuzzi exterior, ideal para momentos de descontração. A construção foi cuidadosamente pensada para assegurar isolamento térmico e acústico, com o uso de cortiça térmica nas paredes.\n\nInserida numa comunidade exclusiva, esta propriedade beneficia das facilidades do Belas Clube de Campo, como o campo de golfe de 18 buracos, academia de golfe, e um clubhouse com restaurante e bar. A localização oferece ainda acesso rápido a escolas, supermercados, restaurantes, hospitais e transportes públicos.\n\nIdeal para famílias, esta moradia combina qualidade de vida, funcionalidade e um ambiente tranquilo, proporcionando um lar perfeito para todas as gerações.",
+  "geo": {
+    "lat": 38.7544251,
+    "lng": -9.2553415
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-belas-sintra_pt_73370",
-  "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73370&foto=1455840&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73370&foto=1455840&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Revestimento Exterior (Pedra Natural, Pintado)",
+      "Paredes (Pintadas)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Jardins)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 607,
-  "area_bruta_m2": null,
+  "area_util_m2": 456,
+  "area_bruta_m2": 607,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

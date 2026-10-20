@@ -8,23 +8,26 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 249,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75168&foto=1496241&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75168&foto=1496241&f=1",
+  "description": "Localizada numa das ruas mais prestigiadas do Estoril, esta moradia destaca-se pela sua excelente vista mar e pelo potencial de valorização. Construída nos anos 80, encontra-se em excelente estado de conservação e oferece um ambiente elegante e funcional.\nO imóvel dispõe de uma ampla sala de estar, sala de jantar, escritório, cozinha, uma casa de banho social e quatro quartos, sendo um deles em suite. Os restantes quartos são servidos por uma casa de banho completa. Complementam esta propriedade uma garagem com capacidade para dois carros, cave com zona de lavandaria e uma espaçosa área de arrumos.\nInserida num lote de 1.208 metros quadrados, esta propriedade conta com um Pedido de Informação Prévia (PIP) aprovado em 2020, que necessita de uma nova revisão pela CMC, para a construção de aproximadamente 725 metros quadrados acima do solo, além de uma garagem subterrânea.\nCom uma localização privilegiada e uma vista deslumbrante sobre o mar, esta moradia representa uma excelente oportunidade, tanto para habitação própria como para um projeto de desenvolvimento imobiliário.",
+  "geo": {
+    "lat": 38.7121457,
+    "lng": -9.3995302
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-estoril-centro-cascais_pt_75168",
   "published_at": "2026-10-19",
-  "last_seen_at": "2026-10-19",
+  "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75168&foto=1496241&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75168&foto=1496241&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 249,
-  "area_bruta_m2": null,
+  "area_util_m2": 185,
+  "area_bruta_m2": 249,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }
