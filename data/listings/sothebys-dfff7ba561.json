@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81975&foto=1657873&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81975&foto=1657873&f=1",
+  "description": "Na Rua do Crasto, em plena Foz do Porto, esta fração T3 no Foliage oferece uma experiência residencial marcada pela privacidade, pela amplitude dos espaços e pela ligação direta à natureza.\nLocalizado no piso térreo do Edifício Green, este apartamento distingue-se pelas suas áreas generosas e pelo extraordinário espaço exterior privativo, criando uma vivência rara na cidade. Com 196 m² de área bruta interior e 285 m² de área bruta exterior, totaliza 481 m², proporcionando o equilíbrio ideal entre conforto interior e vida ao ar livre.\nA zona social foi pensada para privilegiar a luz natural e a relação com o jardim, permitindo uma utilização fluida entre interior e exterior. O jardim privativo assume-se como uma extensão natural da casa, ideal para momentos de lazer, refeições ao ar livre ou simplesmente para desfrutar de tranquilidade numa das zonas mais exclusivas do Porto.\nO apartamento dispõe ainda de box para 2 viaturas, garantindo conforto e segurança no dia a dia.\nInserido num empreendimento de arquitetura contemporânea, concebido pelo arquiteto José Carlos Cruz, o Foliage combina materiais nobres, acabamentos de elevada qualidade e uma envolvente verde singular, a poucos minutos das praias da Foz, do Parque da Cidade, de Serralves, de escolas internacionais e dos principais acessos da cidade.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,28 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81975&foto=1657873&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81975&foto=1657873&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Pavimento (Mármore)",
+      "Paredes (Madeira)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 196,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

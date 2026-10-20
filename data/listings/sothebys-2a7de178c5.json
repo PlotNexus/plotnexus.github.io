@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74425&foto=1604002&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74425&foto=1604002&f=1",
+  "description": "Localizado no coração da cidade do Funchal, o Monterosa Residence oferece o privilégio de viver a poucos passos de comércio, serviços, restauração, cultura e zonas de lazer, proporcionando uma experiência urbana verdadeiramente distinta.\n\nEste elegante apartamento T3, com mais de 200 metros quadrados, situa-se no primeiro piso e apresenta uma distribuição equilibrada e bem pensada. A zona social e a master suite encontram-se orientadas a nascente, enquanto os dois quartos adicionais beneficiam de orientação a poente. O imóvel dispõe ainda de dois lugares de estacionamento e uma arrecadação.\n\nInserido num condomínio de elevado padrão, o Monterosa Residence disponibiliza um conjunto exclusivo de comodidades, incluindo uma piscina concebida para momentos de lazer, terraço para banhos de sol, terraço panorâmico com vistas panorâmicas sobre o Funchal, ginásio totalmente equipado, serviços de concierge, vigilância e segurança, bem como ar condicionado e aquecimento.\n\nEste empreendimento singular está integrado num edifício histórico, originalmente projetado pelo renomado arquiteto português Raul Chorão Ramalho, e combina de forma exemplar a autenticidade da tradição com a sofisticação da vida contemporânea. Cada residência foi meticulosamente desenhada para oferecer uma atmosfera acolhedora, elegante e distinta, onde a memória arquitetónica do passado se harmoniza com o conforto e a estética moderna. Todos os apartamentos são personalizados e únicos, garantindo um elevado nível de exclusividade a cada proprietário.",
+  "geo": {
+    "lat": 32.6486052231886,
+    "lng": -16.9091167047079
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74425&foto=1604002&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74425&foto=1604002&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 207,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

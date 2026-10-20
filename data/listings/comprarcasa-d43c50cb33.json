@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 165,
   "image": "https://cdn.proppy.app/propertyfiles/1505/107213/04b489c3-3477-449c-abab-55ea470177e6.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Ruína com Potencial para Reabilitação – Praia da Vitória, Ilha Terceira\n\nLocalizada na Estrada 25 de Abril, na Praia da Vitória, esta propriedade apresenta uma excelente oportunidade de investimento para habitação própria ou projeto turístico.\n\nCom uma área total de terreno de 316 m² e uma área de construção de 165 m², a estrutura existente permite a criação de dois apartamentos independentes, ideal para rendimento ou habitação multifamiliar.\n\nA propriedade oferece ainda:\n\nEspaço de estacionamento na frente, facilitando o acesso e a comodidade dos futuros residentes ou visitantes;\n\nAmplo quintal na parte de trás, com várias possibilidades de aproveitamento – desde zona de lazer, jardim, horta ou expansão;\n\nLocalização privilegiada, a poucos minutos do centro da cidade da Praia da Vitória, com fácil acesso a serviços, comércio, escolas e à belíssima orla marítima da baía.\n\nNecessita de reabilitação total, mas destaca-se pelo seu potencial construtivo e localização estratégica numa das zonas mais valorizadas da ilha Terceira.",
+  "geo": {
+    "lat": 38.743415138073175,
+    "lng": -27.07868707342549
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,25 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/107213/04b489c3-3477-449c-abab-55ea470177e6.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 165,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "features": {
+    "Geral": [
+      "Orientação solar: Sul",
+      "Ano construção: 1956",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Periferia",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Escolas, Infantário, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Vistas: Prédios",
+      "Licença de Utilização: 176"
+    ],
+    "Exterior": [
+      "Orientação Solar: Sul"
+    ]
+  },
+  "estado": "Por recuperar",
+  "area_util_m2": 132,
+  "area_bruta_m2": 165,
+  "ano_construcao": 1956,
   "certificacao_energetica": null
 }

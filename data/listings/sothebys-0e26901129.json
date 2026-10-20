@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73352&foto=1679197&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73352&foto=1679197&f=1",
+  "description": "Situada na freguesia de Ponta do Sol, esta moradia isolada oferece um refúgio exclusivo com vistas panorâmicas sobre o mar. A propriedade proporciona um ambiente confortável e espaçoso, perfeito para quem valoriza o silêncio e a tranquilidade, sem abdicar da proximidade aos principais centros urbanos.\nCom uma área bruta de construção de trezentos e cinquenta e três metros quadrados e um terreno de quatrocentos e vinte e três metros quadrados, a casa apresenta-se como uma excelente oportunidade para quem procura uma habitação ampla e bem distribuída. A moradia é composta por quatro suítes, cozinha, sala de estar e uma casa de banho social. O estacionamento é assegurado por dois lugares privados. A área exterior destaca-se pela varanda, um espaço ideal para desfrutar das vistas sobre o mar e da serenidade da envolvência natural.\nA apenas dez minutos das principais vias, garantindo fácil acesso a outras zonas da ilha, e a cinco minutos de restaurantes e serviços locais. A moradia está igualmente a uma distância de aproximadamente vinte minutos do hospital e a dez minutos de supermercados. Para quem depende de transportes públicos, a estação de comboios encontra-se a uma curta distância. Escolas situam-se a cerca de cinquenta minutos, garantindo conveniência para famílias com filhos.\nPerto do mar e da natureza, a propriedade combina a tranquilidade de uma localização privilegiada com a acessibilidade aos serviços essenciais. Ideal para quem deseja viver num ambiente exclusivo e sereno, com total privacidade e ao mesmo tempo perto de tudo o que necessita.",
+  "geo": {
+    "lat": 32.6795993040946,
+    "lng": -17.103604888916
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,38 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73352&foto=1679197&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73352&foto=1679197&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Local (Cave, Exterior)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Bons, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Escolas, Farmácia, Jardins, Polícia, Praias, Serviços Públicos)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 353,
+  "area_bruta_m2": 317,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81199&foto=1655097&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81199&foto=1655097&f=1",
+  "description": "Exclusiva Penthouse T3 Duplex, com possibilidade de conversão em T4, situada no prestigiado Parque das Nações, uma das localizações mais contemporâneas e valorizadas de Lisboa.\nCom uma vista frontal absolutamente deslumbrante sobre o rio Tejo, esta propriedade distingue-se pela sua combinação rara de espaço, privacidade e luminosidade.\n\nCom uma área bruta total de 211,17 m², distribuída por 176,20 m² de área privativa e 34,97 m² de áreas dependentes, este apartamento foi integralmente renovado com um elevado padrão de qualidade, beneficiando de um investimento superior a 200.000€, refletido na escolha criteriosa de materiais e no cuidado com cada detalhe.\n\nDistribuído por dois pisos, o imóvel apresenta uma organização funcional e elegante. No piso principal, encontra-se uma ampla sala de estar com ligação direta a um generoso terraço, que oferece uma vista plena e desafogada sobre o rio, criando um cenário único para momentos de lazer e convívio. A cozinha, totalmente equipada, alia design contemporâneo à máxima funcionalidade e dispõe ainda de acesso a um segundo terraço nas traseiras. Este piso integra também três quartos, incluindo uma sofisticada suíte com closet, bem como uma casa de banho completa de apoio.\n\nNo piso superior, destaca-se uma ampla sala multifuncional, com potencial para ser convertida num quarto adicional em suíte, adaptando-se assim às necessidades de cada família. Este piso inclui ainda uma zona de lavandaria e acesso a mais um extraordinário terraço com vista panorâmica sobre o Tejo, proporcionando uma experiência verdadeiramente exclusiva.\n\nInserido num edifício com elevador, construído em 2003, o imóvel oferece ainda comodidades como ar condicionado, aquecimento central, uma garagem box para duas viaturas e uma arrecadação, garantindo total conforto e conveniência no quotidiano.",
+  "geo": {
+    "lat": 38.76787,
+    "lng": -9.093761
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,21 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81199&foto=1655097&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81199&foto=1655097&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Rio, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 211,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

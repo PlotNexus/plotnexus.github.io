@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68053&foto=1302929&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68053&foto=1302929&f=1",
+  "description": "Charmoso apartamento com zona exterior de quarenta metros quadrados,em r/c de prédio de charme, com duzentos e dez metros quadrados, em prédio do Sec. XIX. Cheio de encanto localizado no Príncipe Real, a apenas a dez metros de distancia do Jardim das Flores, com um encantador espaço exterior. Apartamento bastante luminoso e climatizado, com quatro quartos e dois grandes e charmosos salões, convidativos a reuniões familiares, biblioteca ou zona de trabalho. De salientar os tetos altos, chão em madeira corrida, janelas e portadas típicas da arquitectura Pombalina, com molduras e persianas de madeira natural, bem como detalhes em pedra, fazem parte do deslumbrante encanto que este apartamento oferece. O espaço exterior é um dos pontos altos deste apartamento, ideal para desfrutar com os amigos e familia, com acesso ao espaço de arrecadação com quarenta metros quadrados.\n\nA Sotheby's International Realty conta com mais de 300 anos de história enquanto conceituada empresa responsável por transacionar bens de luxo. Está presente em Portugal desde 2007 com nove escritórios e mais de 300 profissionais altamente qualificados e disponíveis para o satisfazer. A sua missão é \"A arte de unir casas extraordinárias a vidas extraordinárias.\" Não hesite em contactar-nos caso esta oportunidade seja do seu interesse!",
+  "geo": {
+    "lat": 38.7154106836547,
+    "lng": -9.1525002883606
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68053&foto=1302929&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68053&foto=1302929&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 250,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 7,
   "image": "https://cdn.proppy.app/propertyfiles/1526/106405/e8395e5c-cb10-4b7e-aba7-016068b8555e.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra esta oportunidade única de investimento em Furnas. Este terreno oferece uma área de 7.277,7 metros quadrados, com vistas deslumbrantes para a montanha. Com uma Boa localização, e de bons acessos. \n\nDesfrute da rica herança cultural desta Freguesia histórica, explore a cozinha local nos restaurantes próximos ou simplesmente relaxe na tranquilidade deste paraíso escondido. Este terreno é a escolha ideal para quem procura combinar história, tranquilidade e conveniência num único lugar. \n\nNão deixe escapar esta oportunidade única e transforme este terreno em algo verdadeiramente seu. \n\nA sua nova vida em Furnas aguarda por si. Agende já a sua visita!",
+  "geo": {
+    "lat": 37.76817302285612,
+    "lng": -25.320859935278335
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,26 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/106405/e8395e5c-cb10-4b7e-aba7-016068b8555e.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Orientação solar: Norte, Sul, Este, Oeste",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Periferia",
+      "Serviços: Supermercados",
+      "Zona envolvente: Residencial",
+      "Vistas: Serra, Areas verdes",
+      "Árvores"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul, Este, Oeste"
+    ]
+  },
   "estado": null,
   "area_util_m2": 7,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 7,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

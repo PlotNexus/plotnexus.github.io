@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 9,
   "image": "https://cdn.proppy.app/propertyfiles/1526/106410/d127924e-8d2a-4e36-9f8a-bb0d82eea87a.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra a beleza desta encantadora propriedade localizada em Mosteiros, onde pode desfrutar de vistas deslumbrantes para o mar e para a montanha. Com 4 quartos acolhedores e 2 casas de banho, esta propriedade oferece o espaço perfeito para uma vida confortável e relaxante. Com uma área total de 4640m2, a casa tem uma área bruta de 438,9m2 e está em excelente estado, pronta para recebê-lo.\n\nAo entrar na propriedade, será recebido por um terraço espaçoso e um jardim bem cuidado, ideal para desfrutar de dias ensolarados. Além disso, poderá usufruir de uma garagem conveniente para estacionamento.\n\nSituada numa localização central, esta casa fica a uma curta distância da praia, permitindo-lhe desfrutar de longos passeios à beira-mar sempre que desejar. Com orientação solar para sul, poderá desfrutar do sol durante todo o dia.\n\nEsta propriedade encantadora está agora disponível para venda e oferece uma oportunidade única de viver numa das áreas mais procuradas de Ponta Delgada. Esta é uma oportunidade imperdível para quem procura uma casa espaçosa e bem localizada.\n\nVenha descobrir esta casa de sonho e comece a desfrutar!",
+  "geo": {
+    "lat": 37.898828,
+    "lng": -25.8178242
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,45 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/106410/d127924e-8d2a-4e36-9f8a-bb0d82eea87a.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 9,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Orientação solar: Sul",
+      "Curta distância a pé da praia",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Terraço",
+      "Garagem",
+      "Nº carros: 1",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Escolas, Infantário",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Serra",
+      "Árvores",
+      "Muro",
+      "Logradouro",
+      "Recuado",
+      "Quintal",
+      "Licença de Utilização: 278/08"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Sul"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 36,45",
+      "Área do(s) Quarto(s): 15,15",
+      "Área da Cozinha: 17,50",
+      "Cozinha: Microondas, Exaustor, Placa e forno, Esquentador",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 399,
+  "area_bruta_m2": 9,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

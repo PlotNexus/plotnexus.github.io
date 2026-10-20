@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 1613,
   "image": "https://cdn.proppy.app/propertyfiles/5115/105997/6745130b-66f0-4eb8-8cef-4edd1d454e6d.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "QUINTA TURISTÍCA COM LICENÇA PARA HOTEL DE 4 ESTRELAS!\n\nDescubra o charme da histórica cidade de Ponte de Lima, onde a beleza natural e os prazeres gastronómicos aguardam por si a cada passo. Esta propriedade única, uma quinta exuberante, oferece um refúgio tranquilo no coração desta cidade pitoresca. Com o Parque da Guia a apenas 4 minutos de distância, irá desfrutar de vastos jardins verdejantes que se estendem por 8945,59 metros quadrados, ideal para os amantes da natureza.\n\nTerreno com 5131 m2, com área de lazer (ginásio, sauna e jacuzzi) na freguesia de Poiares em Ponte de Lima.\n\nO hotel rural possui 5 quartos duplos, 3 quartos twin e 3 apartamentos (dois deles são de tipologia T1 e o restante de tipologia T3, e todos eles contam com camas de casal).\n\nEste empreendimento dispõe dos serviços: recepção, bar e restaurante.\n\n21 lugares de estacionamento privativos e ainda uma garagem coberta numa outra entrada de acesso a propriedade.\n\nAo nível do exterior apresenta uma ampla zona de jardim e uma piscina.\n\nEspaço moderno e requintado que vem potencializar a oferta turística da região do Alto Minho .\n\nEste empreendimento encontra-se completamente mobilado e encontra-se preparado para funcionar de imediato. \n\nMarque a sua visita.",
+  "geo": {
+    "lat": 41.76230713132786,
+    "lng": -8.592260143749995
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,27 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/105997/6745130b-66f0-4eb8-8cef-4edd1d454e6d.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 1613,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista rio",
+      "Arrecadação",
+      "Armários embutidos",
+      "Condomínio fechado",
+      "Certificação energética: B",
+      "Lugar de garagem",
+      "Nº carros: 21",
+      "Mobilado",
+      "Acessos: Transportes públicos",
+      "Localização: Interior",
+      "Serviços: Supermercados, Farmácia",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Rio, Campo, Jardim, Areas verdes",
+      "Árvores"
+    ]
+  },
+  "estado": "Semi-novo",
+  "area_util_m2": 1109,
+  "area_bruta_m2": 1613,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

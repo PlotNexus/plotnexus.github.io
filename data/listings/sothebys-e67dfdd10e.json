@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 1,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66968&foto=1268391&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66968&foto=1268391&f=1",
+  "description": "Se procura uma moradia que combine harmoniosamente a tranquilidade da natureza com a sofisticação da vida moderna, não procure mais. Localizada no Belas Clube de Campo, esta moradia geminada é uma verdadeira pérola mesmo ao lado de Lisboa. Com 4 quartos, 2 suites e 4 casas de banho, este imóvel oferece um estilo de vida único e uma arquitetura moderna que se destaca pelas suas amplas janelas de vidro.\nUma área bruta privativa de 276 metros quadrados e uma área bruta de construção de 443 metros quadrados garantem um espaço generoso para toda a família. Além disso, o terraço de 60 metros quadrados é perfeito para momentos de lazer ao ar livre, enquanto a garagem com espaço para 4 veículos proporciona comodidade e segurança.\nConstruída em 2019, esta moradia destaca-se pelo seu design contemporâneo. No piso 0, encontra uma ampla sala de estar, uma cozinha totalmente equipada e uma casa de banho social. No piso 1, duas suites e dois quartos com uma casa de banho de apoio oferecem a privacidade que a sua família merece.\nCom jardim e uma piscina individual para momentos de descontração. A exposição solar nascente, sul e poente garante uma luminosidade natural durante todo o dia. Além disso, o condomínio Belas Clube de Campo oferece um ambiente seguro e de qualidade de vida,\nA localização é mais do que conveniente. Apenas a 5 minutos das principais vias, a 10 minutos do metro, restaurantes e hospitais, e a 3 minutos de escolas, esta moradia proporciona acesso rápido a tudo o que precisa.\nEm resumo, esta moradia geminada representa uma oportunidade única de viver num ambiente moderno, confortável e seguro, perto de todas as comodidades que Lisboa tem para oferecer. Não deixe escapar esta excelente oportunidade de investimento no Belas Clube de Campo. Agende já a sua visita!",
+  "geo": {
+    "lat": 38.801321,
+    "lng": -9.2577715
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,66 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66968&foto=1268391&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66968&foto=1268391&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos, PVC, Térmicos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Solar",
+      "Video-Porteiro",
+      "Alarme (Completo, Segurança Activa)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 167; Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Centros Comerciais, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 1,
-  "area_bruta_m2": null,
+  "area_util_m2": 35,
+  "area_bruta_m2": 1,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

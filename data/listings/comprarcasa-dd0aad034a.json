@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 250,
   "image": "https://cdn.proppy.app/propertyfiles/5115/106747/f39b4b6f-a316-4ffd-b892-b6ec889bc157.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "EXCELENTE MORADIA EM VILA PRAIA DE ANCORA CAMINHA T3 COM PISCINA COM VISTA DESLUMBRANTE SOBRE O MAR.\n\nEsta moradia, é composta com Cozinha equipada, 3 quartos, 3 casas de banho, churrasqueira, piscina e espaço de laser ajardinado.\n\nGaragem para 2 carros.\n\naquecimento central, \n\nCom área de implatação do edificio 250 m² \n\nLote de terreno de 826 m².\n\nExplore a área circundante e renda-se à tranquilidade e à comodidade que esta localização proporciona, á beira mar.\n\nÂncora do Minho é uma daquelas zonas que parece feito à medida para quem procura natureza, mar e tranquilidade — tudo envolto num cenário de postal. No município de Caminha, bem perto da fronteira com Espanha, esta localidade costeira encanta com a sua praia de areia fina e muito perto do rio Minho.\n\nA praia de Ãncora , com o seu ar selvagem e vento caraterístico das praias do norte de Portugal, é perfeita tanto para banhistas como para os amantes De trilhos e aquele bom cheiro a maresia. Entre um mergulho, um passeio à beira-mar ou uma refeição de peixe fresco numa esplanada com vista, é fácil perceber porque é que muitos elegem Âncora como o seu refúgio de verão.\n\nMarque ja e venha conhecer!\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.8207698,
+    "lng": -8.8528164
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,32 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/106747/f39b4b6f-a316-4ffd-b892-b6ec889bc157.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista cidade",
+      "Barbecue",
+      "Ano construção: 2025",
+      "Curta distância a pé da praia",
+      "Certificação energética: A",
+      "Garagem",
+      "Nº carros: 2",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Beira-mar, Beira-rio",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Mar, Jardim, Areas verdes, Cidade",
+      "Churrasqueira",
+      "Projecto aprovado"
+    ],
+    "Interior": [
+      "Aquecimento",
+      "Ar condicionado",
+      "Área da Cozinha: EQUIPADA"
+    ]
+  },
+  "estado": "Em construção",
   "area_util_m2": 250,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 250,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "A"
 }

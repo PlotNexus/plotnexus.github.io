@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83985&foto=1711200&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83985&foto=1711200&f=1",
+  "description": "Localizado em Montenegro, Faro, entre a cidade e a Ria Formosa, o Monte Bello Residence reúne apenas oito residências num ambiente tranquilo, próximo da natureza e do mar.\n\nAs residências foram pensadas para aproveitar a luz natural e a envolvente, com amplos vãos envidraçados, tetos altos e uma seleção cuidada de pedra, vidro e madeira. Todos os quartos são em suite, proporcionando maior privacidade e conforto.\n\nCada residência integra ainda um sistema de domótica completo, aquecimento radiante, ar condicionado, estacionamento subterrâneo privativo e soluções pensadas para um quotidiano mais confortável e eficiente.\n\nA localização permite desfrutar da proximidade da Ria Formosa, com os seus percursos pedonais e cicláveis, bem como do acesso às ilhas de Culatra, Deserta e Farol. A Praia de Faro encontra-se a cerca de 5 minutos e o Aeroporto Internacional de Faro a aproximadamente 20 minutos.\n\nO Monte Bello combina a tranquilidade de uma zona residencial com a proximidade dos serviços e comodidades de Faro, criando um espaço pensado tanto para residência permanente como para estadias sazonais.",
+  "geo": {
+    "lat": 37.0314046964,
+    "lng": -7.9617404937
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83985&foto=1711200&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83985&foto=1711200&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 271,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

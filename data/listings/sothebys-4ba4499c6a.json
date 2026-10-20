@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 624,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81898&foto=1697250&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81898&foto=1697250&f=1",
+  "description": "No coração do Porto, diante das árvores da Praça do Marquês de Pombal, esta casa construída em 1910 integra um conjunto de moradias burguesas concebidas segundo um mesmo «projeto-tipo», associado à linguagem arquitetónica de José Marques da Silva, uma das figuras maiores da arquitetura portuense.\n\nCom 624 m² de área privativa, quatro suítes e oito salas, a propriedade distingue-se pela dimensão dos seus espaços, pela riqueza dos elementos originais e por uma atmosfera rara no centro da cidade.\n\nMais de um século depois, permanecem intactos muitos dos sinais da sua história: a fachada revestida a azulejos, as molduras dos tetos, os volumes generosos, as antigas pátinas das paredes e a claraboia, que conduz a luz natural ao interior.\n\nNas traseiras, um jardim privado de 111 m² cria um espaço de silêncio e intimidade — uma presença inesperada no coração do Porto.\n\nA organização da casa, com quatro quartos em suíte e quatro casas de banho, permite conciliar a escala generosa da arquitetura com o conforto e a privacidade da vida contemporânea.\n\nA localização é igualmente excecional. À porta encontram-se o comércio tradicional, cafés, restaurantes, serviços e supermercados. A Estação de Metro do Marquês, a poucos passos, assegura uma ligação rápida a toda a cidade. A proximidade da Rua de Santa Catarina e do centro histórico permite viver plenamente o Porto, mantendo, dentro de casa, uma sensação de espaço e resguardo pouco comum.\n\nAs gerações sucederam-se. Os usos evoluíram. As marcas ficaram.\n\nHoje, esta casa conserva algo que não se mede em metros quadrados: uma memória feita de vidas, gestos, silêncios e transformações.\n\nÉ por isso que tem um nome:\n\nA Casa dos Antepassados\n\nUma casa para habitar, tanto quanto uma história para continuar.\n\nDepois de mais de um século de existência, espera agora por quem irá escrever o seu próximo capítulo.",
+  "geo": {
+    "lat": 41.1612635,
+    "lng": -8.6047753
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,49 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81898&foto=1697250&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81898&foto=1697250&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "PVC",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "TV-Cabo",
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Granito, Pintado)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 624,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 624,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

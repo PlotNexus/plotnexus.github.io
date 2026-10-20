@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 139,
   "image": "https://cdn.proppy.app/propertyfiles/5115/106094/347e0089-565f-4d36-a515-2682d155ad93.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "MORADIA PARA RESTAURAR COM PROJETO APROVADO EM VIANA DO CASTELO\n\nMoradia com projeto aprovado para 2 apartamentos;1 de tipologia T1 e outro de tipologia T2 duplex.\n\nDescubra a moradia dos seus sonhos em Viana do Castelo, uma cidade encantadora e cheia de história à sua espera. Esta moradia, localizada no coração da cidade, oferece um total de 4 quartos e 3 casas de banho, com uma área de casa de 85 metros quadrados e uma área de terreno de 224 metros quadrados. Embora precise de renovação, esta propriedade tem um enorme potencial para se tornar o seu refúgio ideal.\n\nPara aqueles que valorizam a educação, Viana do Castelo oferece 9 escolas a 15 minutos a pé, com a escola mais próxima, Da Vinci, situada a apenas 2 minutos de distância. Para os entusiastas da gastronomia, existem 37 estabelecimentos de comida e bebida por perto, restaurantes apenas a 2 minutos a pé do coração da cidade.\n\nMoradia a escassos minutos da cidade, servido por áreas comerciais e serviços.\n\nPossui bons acessos, ótima exposição solar e em zona tranquila .\n\nMARQUE A SUA VISITA!",
+  "geo": {
+    "lat": 41.69703195547525,
+    "lng": -8.824375659277338
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,20 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/106094/347e0089-565f-4d36-a515-2682d155ad93.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 139,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Duplex",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos, Comboio",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Vistas: Prédios"
+    ]
+  },
+  "estado": "Por recuperar",
+  "area_util_m2": 85,
+  "area_bruta_m2": 139,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

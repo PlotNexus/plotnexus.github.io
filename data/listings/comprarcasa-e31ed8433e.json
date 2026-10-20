@@ -9,8 +9,11 @@
   "bathrooms": 4,
   "area_m2": 317,
   "image": "https://cdn.proppy.app/propertyfiles/5115/106457/83aa93c4-048e-468f-af7a-180eba8cc74c.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "MORADIA T5 EM PEDRA EM BOM ESTADO DE UTILIZAÇÃO, COM RC E PRIMEIRO ANDAR, INSERIDA EM TERRENO AJARDINADO DE 1724M2.\n\nEsta propriedade está localizada na pitoresca cidade de Caminha, conhecida pela sua beleza natural e charme tradicional.\n\n Mas a verdadeira magia está em Lanhelas, onde os residentes podem desfrutar de uma vida tranquila, mas com todas as comodidades importantes. \n\nE ainda a uma curta distância, do Rio Minho. \n\n O Rés do chão é composto de cozinha equipada, sala de jantar com recuperador de calor toda envidraçada, com vistas para o jardim e rio, soalho em madeira (Garapa), , escritório transformado em quarto, WC completo, arrumos e lavandaria. Todos os WC revestidos a pastilha italiana Bisazza.\n\nPrimeiro andar composto por 4 quartos com roupeiros embutidos. \n\n2 dos quartos com roupeiros embutidos e casa de banho completa com banheira. \n\n A moradia encontra-se equipada de bomba de calor para aquecimento das águas sanitárias, e com uma pré-instalação de aquecimento central com radiadores, existe a passagem de gás natural até a entrada da propriedade, com possibilidade de instalação á rede. \n\nNo exterior poderá encontrar uma zona coberta para estacionamento (25 m2), um telheiro com churrasqueira e um espigueiro em pedra, e ainda com um amplo espaço de arrumos. \n\nBoa exposição solar.\n\nCategoria Energética: A\n\nA 10 minutos de carro, do centro de Caminha.\n\nNOTA: A informação aqui prestada, ainda que precisa, requer confirmação antes do fecho do negócio e não pode ser utilizada de forma vinculativa.\n\nMarque a sua vista!\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.9092486,
+    "lng": -8.7876838
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,37 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/106457/83aa93c4-048e-468f-af7a-180eba8cc74c.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 317,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista rio, Vista cidade",
+      "Barbecue",
+      "Armários embutidos",
+      "Localização central",
+      "Certificação energética: A",
+      "Garagem",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Beira-rio",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Centro de saude",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Rio, Campo, Jardim, Areas verdes, Cidade",
+      "Churrasqueira",
+      "Fração autónoma"
+    ],
+    "Exterior": [
+      "Piso: 2º",
+      "Jardim"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada",
+      "Bomba de calor",
+      "Fogão de sala",
+      "Aquecimento água: Eléctrico"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 173,
+  "area_bruta_m2": 317,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

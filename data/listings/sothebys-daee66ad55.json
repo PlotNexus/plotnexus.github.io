@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 200,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83213&foto=1704807&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83213&foto=1704807&f=1",
+  "description": "O que deve realmente oferecer uma moradia nova em Vilamoura?\n\nEsta moradia contemporânea de três suítes oferece vista sobre o Browns Sports Resort, numa localização entre alguns dos campos de golfe mais estabelecidos de Vilamoura e a poucos minutos do Dom Pedro Old Course.\n\nDistribuída por dois pisos, conta com três amplas suítes no piso de entrada e uma área de sala e cozinha em open space no piso inferior, com ligação direta ao terraço, piscina e jardim.\n\nE para além da própria casa?\n\nPiso radiante em toda a moradia, uma garagem de aproximadamente 85 m² para quatro viaturas, espaços exteriores de baixa manutenção e cinco anos de garantia de construção. Uma propriedade pensada para utilização durante todo o ano, particularmente adequada a um estilo de vida lock-and-leave.\n\nA localização acrescenta ainda uma dimensão de conveniência. O Browns Sports Resort disponibiliza Health Club &amp; Spa, ginásio, campos de ténis e squash, sauna, banho turco, piscinas interior e exterior, instalações de fitness e Sports Bar &amp; Restaurant, criando uma infraestrutura de lazer completa imediatamente junto à propriedade.\n\nO Old Course, um dos campos de referência de Vilamoura e recentemente distinguido como Portugal's Best Golf Course 2025, encontra-se também nas proximidades, juntamente com o Pinhal, Millennium, Laguna e outros campos que consolidaram Vilamoura como um dos principais destinos de golfe do Algarve.\n\nA Marina de Vilamoura, a Praia da Falésia e a restante costa algarvia encontram-se a curta distância, enquanto o Aeroporto Internacional de Faro fica a aproximadamente 20 minutos.\n\nNova. Contemporânea. Orientada para o golfe. E assente numa proposta muito simples: comprar, utilizar, fechar e partir.",
+  "geo": {
+    "lat": 37.1074319,
+    "lng": -8.1151549
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83213&foto=1704807&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83213&foto=1704807&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Caixilharia": [
+      "Estores (Eléctricos)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Piscina (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Proximidade (Escolas, Ginásio, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 200,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 200,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

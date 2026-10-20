@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/2032/106372/cc09de06-0430-4978-ba5a-e0bfe5db31b1.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Lote (7) com 150m2 para construção de uma moradia, com uma área bruta de construção de 198m2 (rés-do-chão, 1ºandar, sótão)\n\nOferece uma oportunidade única para quem procura refúgio.\n\nInserido numa urbanização nova, tranquila e familiar a poucos minutos das praias de São Bernardino, Baleal e Areia Branca.\n\nCom uma vista espetacular para a praia de São Bernardino.\n\nPróximo de comércio e serviços.\n\nEncontra aqui uma excelente oportunidade para construir a moradia que sempre sonhou ou para investimento seguro.\n\nLocalizado em Alto do Veríssimo, este lote reúne tudo o que é necessário para uma vida tranquila, com conforto sem abrir mão da proximidade da cidade.\n\n150m2 plot for building a villa, with a gross construction area of 198m2.\n\nIt offers a unique opportunity for those seeking refuge.\n\nInserted in a new, quiet and family-friendly urbanization just a few minutes from the beaches of São Bernardino, Baleal and Areia Branca.\n\nWith spectacular views of São Bernardino beach.\n\nClose to shops and services.\n\nHere you'll find an excellent opportunity to build the house you've always dreamed of or for a secure investment.\n\nLocated in Alto do Veríssimo, this plot has everything you need for a quiet, comfortable life without sacrificing proximity to the city.",
+  "geo": {
+    "lat": 39.2983461,
+    "lng": -9.3175574
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,13 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/106372/cc09de06-0430-4978-ba5a-e0bfe5db31b1.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Zona envolvente: Residencial, Comercial, Turística"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,

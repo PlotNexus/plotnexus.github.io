@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 52,
   "image": "https://cdn.proppy.app/propertyfiles/5115/106427/093955c7-a2f9-4a7c-a63f-d33838626930.jpeg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "APARTAMENTO T1 EM DARQUE\n\nEm fase final de construção\n\n Esta fração não dispõe de lugar de garagem \n\n Previsão da conclusão Julho de 2025 \n\nReserve desde já a sua fração favorita\n\nDescubra o nosso mais recente empreendimento localizado em Darque , Viana do Castelo.\n\nCom uma localização privilegiada perto do centro de saúde de Darque\n\nEste projeto oferece uma combinação perfeita de conforto contemporâneo e vistas deslumbrantes.\n\nImagine-se a viver num espaço que harmoniza elegância, comodidade e localização estratégica. O empreendimento em Darque apresenta 36 apartamentos, distribuídos por 6 pisos.\n\nAlém disso, possui duas caves com lugares de estacionamento para atender às necessidades dos moradores. A altura do edifício é servida por dois elevadores e uma caixa de escadas, garantindo acessibilidade e praticidade.\n\n- Vista panorâmica:\n\nDesfrute de vistas deslumbrantes do Rio Lima e do Monte de Santa Luzia a norte, e do Monte Galeão a sul. Uma paisagem de tirar o fôlego à sua porta.\n\n- Localização conveniente:\n\nSituado perto do centro de saúde de Darque, terá acesso rápido a serviços médicos de qualidade. Além disso, a proximidade com a Cidade Nova oferece uma variedade de comércios, restaurantes e lazer.\n\n- Design contemporâneo:\n\nVenha visitar!",
+  "geo": {
+    "lat": 41.680004,
+    "lng": -8.7986502
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,21 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/106427/093955c7-a2f9-4a7c-a63f-d33838626930.jpeg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 52,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Vista: Vista rio",
+      "Ano construção: 2025",
+      "Certificação energética: A",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Centro, Beira-rio",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Centro de saude",
+      "Zona envolvente: Residencial",
+      "Vistas: Rio, Campo, Jardim, Areas verdes"
+    ]
+  },
+  "estado": "Novo",
+  "area_util_m2": 48,
+  "area_bruta_m2": 52,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "A"
 }

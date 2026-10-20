@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81071&foto=1638493&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81071&foto=1638493&f=1",
+  "description": "Magnífico apartamento T2 no último piso, situado em Vilamoura, perfeito para quem valoriza conforto, modernidade e proximidade ao mar.\n\nEste imóvel destaca-se pelas suas duas amplas suites, que garantem total privacidade, e pelas deslumbrantes vistas sobre o oceano. Com uma área bruta privativa de 101,4 m², localiza-se no 5.º andar e dispõe de um generoso terraço com jacuzzi. Ideal para relaxar e desfrutar de inesquecíveis pôr do sol.\n\nConstruído em 2024, apresenta-se em estado novo, pronto a habitar.\n\nInclui ainda um lugar de estacionamento, proporcionando maior comodidade no dia a dia. Inserido num condomínio exclusivo, beneficia de uma localização privilegiada, a poucos passos de restaurantes, serviços e das praias de Quarteira e Vilamoura.\n\nUma excelente oportunidade, seja para residência permanente, casa de férias ou investimento. Existe ainda potencial de elevada rentabilidade através de arrendamento de curta duração.\n\nUma escolha perfeita para viver ou investir no melhor que o Algarve tem para oferecer.",
+  "geo": {
+    "lat": 37.0721514,
+    "lng": -8.1125635
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81071&foto=1638493&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81071&foto=1638493&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 101,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/2032/107136/bc72617f-e015-49f8-b13d-323d984346ea.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Fantástico terreno para construção, com uma área total do terreno de 998m2 e área de construção de 150m2, em Alvorninha.\n\nPara além de uma localização privilegiada, também pode desfrutar de uma vista de tirar o fôlego.\n\nAqui a tranquilidade, a natureza e a beleza reinam, para além da privacidade.\n\nEste terreno dispõe de várias árvores de fruto.\n\nTem nas proximidades rede de esgotos, água e eletricidade.\n\nNão perca a oportunidade de investir neste local único e exclusivo. Contacte-nos hoje mesmo para mais informações e para agendar uma visita.",
+  "geo": {
+    "lat": 39.38190173473541,
+    "lng": -9.044351050571448
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/107136/bc72617f-e015-49f8-b13d-323d984346ea.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Localização: Periferia",
+      "Zona envolvente: Residencial",
+      "Vistas: Campo",
+      "Árvores"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,

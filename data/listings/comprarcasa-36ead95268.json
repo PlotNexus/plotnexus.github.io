@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 5,
   "image": "https://cdn.proppy.app/propertyfiles/5115/107391/abba3659-569e-49e8-a632-852cf098c76e.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "O ambiente de Castelo de Neiva é tranquilo e pitoresco, com o mar e a natureza ao redor. \n\n Esta moradia com 7 quartos, foi projetada para integrar esses elementos, proporcionando ao mesmo tempo um retiro acolhedor e uma base para explorar a beleza natural da região. Perto do mar.\n\nEsta excelente moradia é composta:\n\nRC/ cozinha equipada, despensa, sala de estar, quartos com roupeiros embutidos e casa de banho \n\n1º Piso cozinha equipada, sala de jantar, quartos com roupeiros embutidos e casa de banho\n\n2º Piso quartos com roupeiros embutidos e casas de banho \n\n3º Piso sótão para arrumação ou mesmo para quem quiser fazer mais quartos ou escritórios.\n\nEsta casa tem aquecimento central a gasóleo, para o conforto do lar.\n\nEsta moradia é excelente para grandes famílias, ou mesmo para quem quiser fazer alojamento local. \n\ncom uma Excelente localização perto de tudo. \n\nexterior com garagem. Estacionamento dentro da moradia para vários automóveis, lavandaria, e um espaço com maquinas de gasóleo, maquinas de lavar roupa, maquina de secar roupa e ainda uma churrasqueira.\n\nQuintal com árvores de fruto.\n\nEsta moradia é excelente para habitação própria, ou mesmo para quem quiser fazer alojamento local ,excelente localização perto de tudo. \n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.629998001978834,
+    "lng": -8.797494136523436
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,34 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/107391/abba3659-569e-49e8-a632-852cf098c76e.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar",
+      "Despensa",
+      "Arrecadação",
+      "Armários embutidos",
+      "Curta distância a pé da praia",
+      "Certificação energética: D",
+      "Garagem",
+      "Lugar de garagem",
+      "Acessos: Transportes públicos",
+      "Localização: Interior, Beira-mar",
+      "Serviços: Supermercados, Bancos, Farmácia, Escolas",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Jardim, Areas verdes"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Aquecimento",
+      "Cozinha equipada",
+      "Cozinha: Microondas, Frigorifico, Exaustor, Máquina lavar e secar roupa, Máquina lavar roupa, Máquina lavar louça, Outros, Placa e forno, Fogão, Esquentador, Despensa, Combinado, Móveis",
+      "Caixilharia: Vidros duplos",
+      "Aquecimento água: Diesel"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

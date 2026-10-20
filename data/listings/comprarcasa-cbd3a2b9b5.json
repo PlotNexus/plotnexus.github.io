@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 473,
   "image": "https://cdn.proppy.app/propertyfiles/5115/106755/d825bfe7-0e8e-40ef-98bb-0161ee32f4b6.jpeg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "QUINTA EM SANTA MARTA PORTUZELO, PARA RESTAURO DE HABITAÇÃO, OU TORNALA EM HOTEL DE LUXO.\n\nEsta Moradia secular para renovação interior e exterior . \n\nCom áreas bastante abrangentes de habitação, e quem sabe poder fazer um hotel de luxo, com piscina do seculo em pedra.\n\nTerreno dividido em dois artigos e ainda uma segunda moradia para restauro. \n\nBons acessos \n\nBoa exposição solar \n\nPiscina em pedra \n\nVárias árvores de fruto \n\nTotalmente murada.\n\nPara as famílias com crianças, a zona oferece três escolas a uma curta distância a pé, com destaque para a Escola Básica e Secundária,\n\nApenas 3 minutos de distância, oferecendo educação para alunos dos 10 aos 17 anos. Além disso, a Escola Básica de Santa Marta de Portuzelo e o Centro Escolar de Santa Marta de Portuzelo também são facilmente acessíveis em apenas 9 e 11 minutos, respetivamente.\n\nSupermercados e restaurantes. \n\nCom todas estas comodidades à sua porta, Portuzelo é uma zona pitoresca e dinâmica que promete um estilo de vida tranquilo e vibrante. Se procura um local para lançar raízes ou simplesmente explorar, esta área histórica cativará desde o primeiro momento. \n\nVenha descobrir esta propriedade e transforme-a no seu refúgio de sonho!\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.7096997,
+    "lng": -8.768464
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,27 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/106755/d825bfe7-0e8e-40ef-98bb-0161ee32f4b6.jpeg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 473,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Condomínio fechado",
+      "Localização central",
+      "Certificação energética: E",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Interior",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Centro de saude",
+      "Zona envolvente: Residencial",
+      "Vistas: Campo, Jardim, Areas verdes",
+      "Árvores",
+      "Muro"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Piscina"
+    ]
+  },
+  "estado": "Por recuperar",
+  "area_util_m2": 440,
+  "area_bruta_m2": 473,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

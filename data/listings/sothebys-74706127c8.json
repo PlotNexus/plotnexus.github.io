@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 415,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74418&foto=1473497&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74418&foto=1473497&f=1",
+  "description": "Esta moradia é um excelente exemplo de conforto e privacidade, localizada numa zona residencial privilegiada, com uma vista deslumbrante para a baía do Funchal. A apenas 10 minutos do centro da cidade, o imóvel é ideal para quem deseja estar perto da vida urbana, mas ao mesmo tempo usufruir de tranquilidade e de uma paisagem única. \nA moradia distribui-se por dois pisos. O piso principal, conta com um elegante hall de entrada que dá acesso aos diversos ambientes. Este piso dispõe de três quartos espaçosos, todos com casa de banho privativa, oferecendo privacidade e conforto. \nA cozinha em open space integra-se à sala de estar e à sala de jantar, criando um ambiente amplo e fluido. Há também uma casa de banho social para maior conveniência dos moradores e visitas. \nTodos os ambientes, incluindo os quartos e as salas, possuem acesso a um maravilhoso deck com piscina e para o jardim, proporcionando um espaço ideal para relaxamento e lazer. \nNo piso inferior, a moradia oferece uma vasta gama de comodidades que tornam o espaço ainda mais funcional e versátil. \nO piso inclui um hall de entrada que dá acesso a diferentes áreas da casa. Conta com uma lavandaria, um quarto de arrumos, uma master suíte com closet, uma varanda de 16 metros quadrados e acesso a um jardim privado. Este piso também dispõe de um salão espaçoso, que pode ser utilizado como sala de jogos, para atividades de lazer ou como ginásio, proporcionando uma área ampla para exercício físico sem sair de casa. \nA garagem, com 91 metros quadrados, oferece espaço para vários carros, além de uma despensa, uma arrecadação, a casa das máquinas e a casa do lixo. Este piso inferior é uma extensão da moradia que maximiza a utilização do espaço, oferecendo soluções funcionais para armazenamento, lazer e manutenção. \nA combinação das áreas torna a casa extremamente prática e confortável para o dia a dia. Esta moradia é um exemplo de excelência, oferecendo conforto, privacidade e uma localização única, com fácil acesso ao centro da cidade e ao mesmo tempo imersa numa paisagem deslumbrante.",
+  "geo": {
+    "lat": 32.65848,
+    "lng": -16.8958
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,56 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74418&foto=1473497&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74418&foto=1473497&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Escolas, Farmácia, Jardins, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 415,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 415,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

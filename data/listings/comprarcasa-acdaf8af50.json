@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 9,
   "image": "https://cdn.proppy.app/propertyfiles/5115/106478/72b6184f-11fc-4378-b85f-7635cce67ba5.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Venha descobrir este novo apartamento T 2 em Viana do Castelo, parque da cidade, um verdadeiro refúgio para os amantes da natureza. Localizado a apenas 2 minutos a pé do tranquilo Parque Pólis, Praia Fluvial de Viana do Castelo, este imóvel é uma oportunidade única para viver rodeado pelo verde exuberante da cidade.\n\nAlém da beleza natural ao redor, este imóvel também está a uma curta distância de deliciosas opções gastronómicas. A Pizzaria Beira Rio, o Viana Remo e a Tasquinha da Trincheira estão todos a poucos minutos de distância, oferecendo uma variedade de sabores locais e internacionais para apreciar.\n\nCom supermercados, cafés e padarias nas proximidades, Viana do Castelo oferece não só a beleza natural deslumbrante, mas também a conveniência do dia-a-dia. Se procura um lugar onde a natureza se encontra com o conforto moderno, este é o imóvel perfeito para si. Venha descobrir o que torna Viana do Castelo tão especial e faça deste luxuoso apartamento em pleno parque da cidade de Viana do Castelo o seu novo lar.\n\nAproveite para escolher o seu preferido , visto estarem a ser comercializadas as últimas frações .\n\nImagens 3d\n\nMarque a sua visita !",
+  "geo": {
+    "lat": 41.6968216,
+    "lng": -8.811412
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,26 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/106478/72b6184f-11fc-4378-b85f-7635cce67ba5.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 9,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista rio",
+      "Varanda",
+      "Certificação energética: A",
+      "Varanda: 12,70",
+      "Lugar de garagem",
+      "Acessos: Transportes públicos",
+      "Localização: Beira-rio",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude",
+      "Zona envolvente: Comercial",
+      "Vistas: Rio, Jardim, Areas verdes"
+    ],
+    "Interior": [
+      "Ar condicionado"
+    ]
+  },
+  "estado": "Novo",
+  "area_util_m2": 6,
+  "area_bruta_m2": 9,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

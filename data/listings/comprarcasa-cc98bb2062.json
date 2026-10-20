@@ -9,8 +9,11 @@
   "bathrooms": 4,
   "area_m2": 8,
   "image": "https://cdn.proppy.app/propertyfiles/1526/107905/840cfdf5-388d-4566-aa97-bcb24a558491.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra esta propriedade excepcional em Ponta Delgada. Esta deslumbrante moradia moderna oferece uma combinação perfeita de luxo e tranquilidade. Com amplos espaços abertos e uma arquitetura interessante. Desfrute da privacidade e da serenidade deste local único, onde pode viver na casa dos seus sonhos. Com uma localização privilegiada e vistas deslumbrantes sobre a cidade, esta propriedade é o cenário ideal para viver uma vida de luxo e sofisticação. Oportunidade única para investir num imóvel exclusivo em Ponta Delgada.",
+  "geo": {
+    "lat": 37.76666200000001,
+    "lng": -25.6605804
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,33 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/107905/840cfdf5-388d-4566-aa97-bcb24a558491.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 8,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Barbecue",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Garagem",
+      "Nº carros: 1",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Centro de saude",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Serra",
+      "Árvores",
+      "Churrasqueira",
+      "Muro",
+      "Logradouro",
+      "Quintal",
+      "Licença de Utilização: 139/20"
+    ],
+    "Exterior": [
+      "Jardim"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 308,
+  "area_bruta_m2": 8,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

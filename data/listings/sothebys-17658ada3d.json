@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78017&foto=1570058&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78017&foto=1570058&f=1",
+  "description": "O Val D’Ouro Palace é um empreendimento residencial exclusivo situado na freguesia de Massarelos, no Porto, que combina sofisticação, privacidade e uma localização única com vistas panorâmicas sobre o rio Douro e a cidade. \nComposto por quatro edifícios com apenas treze apartamentos, duas penthouses e uma villa, este projeto foi concebido para oferecer um estilo de vida premium a quem procura viver num dos cenários mais privilegiados de Portugal. Das tipologias que vão de estúdios espaçosos a apartamentos com várias suites, passando pelas coberturas com terraços privados e pela villa com jardim e piscina, cada unidade distingue-se por tetos altos ao estilo francês, áreas generosas, design elegante e acabamentos de qualidade superior. \nO empreendimento inclui estacionamento privativo e integra uma oferta de bem-estar rara no centro da cidade, com estúdio de fitness de última geração, sauna de infravermelhos, cold plunge, piscina e jardim de meditação, tudo pensado para proporcionar equilíbrio e conforto no dia a dia. \nA localização é outro ponto forte do Val D’Ouro Palace, fica a minutos da Foz, da Ribeira e das principais atrações culturais do Porto, rodeado de restaurantes gourmet e lojas de autor. O acesso é simples e rápido graças à proximidade das principais vias rodoviárias, bem como de transportes públicos que ligam facilmente a outros pontos da cidade. Implantado num terreno de 3.000 m² que desce em anfiteatro até às margens do Douro, este projeto oferece uma experiência residencial onde o charme histórico do Porto se alia ao conforto e ao luxo contemporâneo, transformando cada dia num verdadeiro privilégio.",
+  "geo": {
+    "lat": 41.1551735,
+    "lng": -8.6229393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,21 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78017&foto=1570058&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78017&foto=1570058&f=1"
   ],
-  "features": null,
+  "features": {
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Porto de Rio, Transportes Púb.)",
+      "Proximidade (Escolas, Farmácia, Hospital, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 2,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

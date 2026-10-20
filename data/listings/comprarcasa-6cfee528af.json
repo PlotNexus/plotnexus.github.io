@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 140,
   "image": "https://cdn.proppy.app/propertyfiles/1515/107488/9bb799cb-9b00-43fe-aadd-56f647c7a026.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "TERRENO URBANO COM AUTORIZAÇÃO DE CONSTRUÇÃO | VIMIEIRO, ARRAIOLOS\n\nSituado na Rua Flor do Alentejo, no Vimieiro, concelho de Arraiolos, este terreno urbano com 115,15 m² apresenta-se como uma excelente oportunidade para quem deseja construir a sua casa de raiz no coração do Alentejo.\n\nCARACTERÍSTICAS DO TERRENO:\n\n- Área total: 115,15 m²;\n\n- Destinado à habitação;\n\n- Autorização para construção de moradia de dois pisos com 140 m² de área total (70 m² no rés-do-chão + 70 m² no primeiro andar);\n\n- Localização em zona tranquila e com bons acessos.\n\nVANTAGENS DE INVESTIR E VIVER NO VIMIEIRO:\n\n- Vila acolhedora, com serviços essenciais, comércio local e farmácia;\n\n- A curta distância de Arraiolos, Estremoz e Évora, permitindo usufruir da tranquilidade rural com a proximidade urbana;\n\n- Ideal para construção de habitação própria, casa de férias ou investimento para arrendamento;\n\n- Construir de raiz permite adaptar o projeto às suas necessidades, com liberdade total na escolha de acabamentos e layout.\n\nSe procura começar um projeto do zero num local sereno, com boa localização e potencial de valorização, este terreno no Vimieiro é a escolha certa.\n\nFale connosco para mais informações ou agende já a sua visita.",
+  "geo": {
+    "lat": 38.83163565837057,
+    "lng": -7.840359890396794
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/107488/9bb799cb-9b00-43fe-aadd-56f647c7a026.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento"
+    ]
+  },
   "estado": null,
   "area_util_m2": 140,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 140,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

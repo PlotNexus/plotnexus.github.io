@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 3,
   "area_m2": 232,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75479&foto=1530349&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75479&foto=1530349&f=1",
+  "description": "A localização é o verdadeiro luxo, e há endereços que são simplesmente insubstituíveis.\n\n Situada numa das ruas mais prestigiadas e exclusivas da Foz do Douro, esta propriedade representa uma oportunidade rara de investimento de alto valor na freguesia mais desejada do Porto.\nNesta localização de eleição, o prestígio mede-se pelas experiências que encontra a poucos passos de distância.\n\nEstilo de Vida à Beira-Mar: Situado a escassos metros da linha do Atlântico, permitindo-lhe integrar caminhadas na praia e o pôr do sol na sua rotina diária com total fluidez.\n\nAlta Gastronomia à Porta: Viva a uma curta distância a pé do cenário culinário mais requintado da cidade, rodeado por restaurantes de referência, lounges sofisticados à beira-mar e boutiques exclusivas.\n\nColégios Internacionais - Oporto British School, Maple Bear educação de origem canadiana com formação bilingue. \n\nUm Oásis Privado Raro: Para além da localização premium, a propriedade destaca-se por um jardim privado de 130 m² um luxo absoluto e um ativo altamente escasso, ideal para momentos de lazer ao ar livre com total privacidade. \n\nQuer procure uma residência de prestígio ou um ativo seguro para enriquecer o seu portfólio imobiliário internacional, esta é a oportunidade de assegurar um endereço icónico onde o Atlântico encontra um valor de estilo de vida incomparável.\n\nO imóvel encontra-se em propriedade total, mas conta com duas fracções de utilização independente. \nAquela ao nível do r/c conta com com 3 quartos com duas casas de banho completas, a sala com acesso ao jardim é virada a poente.\nNo primeiro piso além de dois quartos, cozinha independente, e sala conta um terraço virado a poente. Além disso possui duas divisões no sótão, com casa de banho completa, existindo a possibilidade mediante da submisssão de projecto de arquitectura à Câmara Municipal do Porto de aumentar o pé-direito desta área.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,37 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75479&foto=1530349&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75479&foto=1530349&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "PVC"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pintado)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Gás Canalizado, TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 232,
-  "area_bruta_m2": null,
+  "area_util_m2": 221,
+  "area_bruta_m2": 232,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

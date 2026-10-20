@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Moradia Isolada, Gulpilhares e Valadares, Vila Nova de Gaia",
   "bedrooms": null,
-  "bathrooms": null,
+  "bathrooms": 8,
   "area_m2": 559,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82511&foto=1679808&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82511&foto=1679808&f=1",
+  "description": "Magnífica moradia isolada classificada como de interesse Municipal pela Câmara Municipal e datada do século XIX situada em Vila Nova de Gaia, Porto, uma área privilegiada e em constante valorização. Implantada num vasto terreno de 3755 metros quadrados, esta moradia oferece um potencial de reabilitação excepcional, com um projecto aprovado para a ampliação da área de construção até 760 metros quadrados assim como todas as especialidades estando a licença de construção a pagamento. Preserva meticulosamente detalhes arquitectónicos da época, incluindo carpintarias de qualidade e tetos ricamente trabalhados, capazes de conferir um charme distintivo ao espaço. A propriedade inclui um espaço ajardinado com possibilidades para integrar uma piscina e um campo de jogos, complementados por infraestruturas de apoio. O terreno teve um estudo com base no PDM para a construção de quatro edifícios habitacionais de três pisos com uma área total de construção de 3035 metros quadrados e 25 apartamentos, e também um PIP com parecer favorável para a construção de 14 moradias e reabilitação do edifício original, entretanto caducado. Trata-se de uma excelente oportunidade tanto na perspectiva de habitação própria como de investimento para construção de habitação colectiva.",
+  "geo": {
+    "lat": 41.095485217248,
+    "lng": -8.63403263096618
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,37 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82511&foto=1679808&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82511&foto=1679808&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 559,
-  "area_bruta_m2": null,
+  "area_util_m2": 474,
+  "area_bruta_m2": 559,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

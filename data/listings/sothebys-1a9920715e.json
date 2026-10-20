@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72494&foto=1567039&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72494&foto=1567039&f=1",
+  "description": "Localizado entre Olhos de Água e Vilamoura, este apartamento T3 situa-se no último piso do Pine Cliffs Ocean Suites, o edifício mais recente do prestigiado Pine Cliffs Resort. Com acesso direto à praia, segurança 24 horas e inserido num dos empreendimentos mais exclusivos do Algarve, este imóvel representa uma excelente oportunidade para investimento com elevado retorno.\n\nCom uma área bruta de construção de 196,4 metros quadrados e uma área bruta privativa de 155,75 metros quadrados, este apartamento distingue-se pela sua configuração funcional: está dividido em duas zonas independentes, o que permite utilizá-lo integralmente ou rentabilizar apenas uma das partes. Esta flexibilidade, aliada ao serviço de gestão do resort, traduz-se numa taxa de ocupação muito elevada ao longo de todo o ano. O imóvel dispõe de três quartos, três casas de banho e está inserido no quarto e último andar do edifício, construído em 2016. Encontra-se em excelente estado de conservação.\n\nO Pine Cliffs Resort oferece uma ampla gama de infraestruturas e serviços: hotel de 5 estrelas, piscinas, campo de golfe, campos de ténis, spa, ginásio, restaurantes e grandes áreas verdes.\n\nA localização é bastante central, com fácil acesso a supermercados, escolas, unidades de saúde e uma variada oferta de restauração. Fica ainda próximo das principais vias, estando a curta distância de Vilamoura, de Albufeira e do Aeroporto de Faro.\n\nEsta penthouse representa uma solução versátil, tanto para usufruto próprio como para investimento, num dos resorts mais completos da região.",
+  "geo": {
+    "lat": 37.0905696019497,
+    "lng": -8.17832455582581
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,56 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72494&foto=1567039&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72494&foto=1567039&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Court Ténis",
+      "Estores Eléctricos",
+      "Gás Canalizado",
+      "Rega Automática",
+      "TV-Cabo",
+      "Alarme (CCTV, Completo, Pré-Instalação, Segurança Activa)",
+      "Piscina (Exterior, Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Pavimento (Mármore)",
+      "Paredes (Monomassa, Pintadas)",
+      "Equipamento (Campo de Jogos, Court Ténis, Gás Canalizado, Jardins, Parque Infantil, Rega Automática, TV Cabo, Zelador / Porteiro)",
+      "Piscina (Exterior, Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 75,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

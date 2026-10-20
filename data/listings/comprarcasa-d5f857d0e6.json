@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 6,
   "image": "https://cdn.proppy.app/propertyfiles/2032/105647/8b50d8bd-8977-4329-9b60-29c499a80f97.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Espaço comercial com 52.60m2 de área bruta, localizada ao nível do 1º andar no edifício Caldas Shopping.\n\nBastante visibilidade, montra grande, excelente estado de conservação e com elevador.\n\nComposto por duas salas amplas, duas zonas de arrumos e copa.\n\nPreparado para restauração com as infraestruturas necessárias.\n\nZona central da cidade rodeada por serviços, comércio e transportes públicos. Fácil estacionamento.\n\nCom a sua vibrante mistura de comodidades, Caldas da Rainha convida-o a descobrir as suas ofertas diversificadas, garantindo uma estadia agradável e conveniente para todos os que visitam esta cidade cativante. Esta propriedade comercial é a oportunidade perfeita para fazer parte deste cenário dinâmico e promissor. Venha descobrir tudo o que Caldas da Rainha tem para oferecer neste imóvel único, não hesite e marque visita!",
+  "geo": {
+    "lat": 39.4058168,
+    "lng": -9.136797
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,24 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/105647/8b50d8bd-8977-4329-9b60-29c499a80f97.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 6,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Localização central",
+      "Certificação energética: D",
+      "Acessos: Transportes públicos, Comboio, Auto-estrada",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Fração autónoma",
+      "Licença de Utilização: 79/2014"
+    ],
+    "Exterior": [
+      "Piso: 1º"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 7,
+  "area_bruta_m2": 6,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

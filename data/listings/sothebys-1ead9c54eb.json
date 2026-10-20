@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 6,
   "area_m2": 257,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69933&foto=1357079&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69933&foto=1357079&f=1",
+  "description": "Moradia de estilo moderno recentemente remodelada, inserida num lote de terreno de 4885 m2, localizada a apenas cinco minutos da cidade de Loulé e 15 minutos do aeroporto de Faro. A moradia é composta por quatro quartos, ambos em suite, sendo dois deles no primeiro piso. No rés do chão encontramos um layout bastante organização, composto por uma sala ampla, uma cozinha moderna equipada com eletrodomésticos da marca Smeg, três quartos em suite e ainda uma cozinha com dispensa, que poderá ser remodelada, transformando se no quinto quarto da moradia. Todas estas divisões no rés do chão tem acesso direto ao jardim e piscina. A moradia contem ainda painel solar para aquecimento de aguas, ar condicionado, e sistema de demótica que permite controlar toda a iluminação da propriedade assim como o alarme. No topo da moradia encontra se um amplo terraço, que contempla magistosas vistas para a o campo. No exterior desta moradia encontramos uma agradável piscina de óptima dimensão e aquecida por uma bomba de calor nova, repleta de privacidade por um jardim colorido e com várias árvores e flores, criando um ambiente de luxo e tranquilidade, em plena harmonia com o campo. Podemos ainda encontrar no exterior um carport com capacidade de estacionar até 10 carros. Esta moradia representa a possibilidade de viver no campo perto de todos os serviços, restaurantes e do aeroporto de Faro.",
+  "geo": {
+    "lat": 37.129919,
+    "lng": -7.99303
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69933&foto=1357079&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69933&foto=1357079&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 257,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 257,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 675,
   "image": "https://cdn.proppy.app/propertyfiles/1502/106298/382368b4-d34b-4588-a270-e4fe8e87cca8.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra a oportunidade de adquirir um terreno único na encantadora vila de Entradas. Este terreno com 675m2 localiza-se num ambiente histórico e cheio de charme. Localizado a uma curta distância a pé de uma variedade de comodidades, como restaurantes, farmácias e supermercados.\n\nEste terreno está situado num local privilegiado. Com a Escola Básica de Entradas a apenas 11 minutos de distância, as famílias podem garantir uma educação de qualidade para os seus filhos. Não perca a oportunidade de investir neste projeto de terreno.\n\nPara mais informações entre em contacto connosco.\n\nCOMPRARCASA DE PESSOAS PARA PESSOAS!",
+  "geo": {
+    "lat": 37.7757187,
+    "lng": -8.0133586
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,20 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1502/106298/382368b4-d34b-4588-a270-e4fe8e87cca8.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha, Vista rio",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Periferia",
+      "Serviços: Supermercados, Correios, Farmácia, Escolas, Lar de terceira idade, Centro de saude",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Rio, Serra, Campo, Jardim, Areas verdes"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 675,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 675,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

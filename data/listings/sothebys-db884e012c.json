@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 3,
   "area_m2": 25,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78531&foto=1586373&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78531&foto=1586373&f=1",
+  "description": "Situada numa das zonas mais prestigiadas do Algarve, junto ao Monte Carvoeiro e a poucos minutos a pé do centro vibrante de Carvoeiro, esta magnífica moradia de quatro quartos oferece um estilo de vida costeiro verdadeiramente privilegiado, com acesso fácil à Praia do Paraíso. Uma propriedade rara, onde a localização, o charme e as vistas sobre o mar se conjugam de forma perfeita.\n\nA moradia tira o máximo partido da luz natural e das vistas panorâmicas sobre o oceano. O piso térreo dispõe de uma sala de estar ampla e luminosa, zona de jantar e cozinha totalmente equipada, todas com acesso direto ao terraço principal, onde a piscina privada aquecida e a zona de barbecue criam o cenário ideal para momentos de lazer e convívio junto ao mar. Neste piso encontram-se também um quarto duplo em suíte, um quarto twin com casa de banho familiar e uma divisão adicional que pode ser adaptada conforme as necessidades.\n\nNo piso superior, um elegante lounge com acesso a um grande terraço privado oferece vistas impressionantes sobre o Atlântico, enquanto um quarto duplo e um quarto twin, ambos em suíte, beneficiam de varandas privativas com vistas ininterruptas para o mar.\n\nA parte traseira da propriedade permite acesso direto à zona do Monte Carvoeiro, conhecida pelos seus restaurantes e ambiente exclusivo, proporcionando conveniência e privacidade numa das localizações mais cobiçadas do Algarve.\n\nA moradia conta ainda com garagem dupla com portões elétricos, ar condicionado em todas as divisões e roupeiros embutidos, refletindo um elevado padrão de conforto e qualidade.\n\nCom uma localização absolutamente privilegiada, a poucos passos do centro de Carvoeiro e da Praia do Paraíso, esta residência é uma oportunidade única para quem procura luxo, vistas deslumbrantes e uma das melhores localizações costeiras do Algarve.",
+  "geo": {
+    "lat": 37.0980371401962,
+    "lng": -8.47439283059387
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78531&foto=1586373&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78531&foto=1586373&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 25,
-  "area_bruta_m2": null,
+  "area_util_m2": 7,
+  "area_bruta_m2": 25,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 5,
   "image": "https://cdn.proppy.app/propertyfiles/5115/105953/3b333906-3622-499a-b6a3-12b6d7e96075.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "APARTAMENTO T1+1 CENTRO HISTOTRICO DE VIANA DO CASTELO.\n\nDescubra o seu novo lar neste moderno apartamento de 2 quartos e 2 casas de banho, localizado no coração de Viana do Castelo. Com uma área generosa de 51,5m2, esta propriedade recém-construída oferece um espaço luminoso e acolhedor para a sua família.\n\neste apartamento oferece o equilíbrio perfeito entre conforto e design contemporâneo. Os quartos espaçosos e as casas de banho elegantes proporcionam um ambiente relaxante para o seu dia a dia.\n\nLocalizado a uma curta distância de instituições educacionais de renome, este apartamento é ideal para famílias com crianças em idade escolar.\n\n O Instituto Politécnico de Viana do Castelo e a ETAP - Escola Profissional estão a poucos minutos de distância, garantindo conveniência e excelentes oportunidades educativas.\n\nPara os amantes da natureza, os parques Jardim Dom Fernando e Campo da Agonía oferecem um refúgio tranquilo apenas a alguns minutos de caminhada. Desfrute de momentos de calma rodeado pela beleza natural de Viana do Castelo.\n\nVenha conhecer esta encantadora cidade histórica de Portugal.",
+  "geo": {
+    "lat": 41.691704360159974,
+    "lng": -8.832936741308588
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,8 +24,21 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/105953/3b333906-3622-499a-b6a3-12b6d7e96075.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista rio, Vista cidade",
+      "Arrecadação",
+      "Armários embutidos",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Centro, Beira-rio",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Policia",
+      "Zona envolvente: Turística",
+      "Vistas: Rio, Prédios, Cidade"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 5,
   "area_bruta_m2": null,
   "ano_construcao": null,

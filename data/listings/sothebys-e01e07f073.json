@@ -8,9 +8,12 @@
   "bedrooms": 8,
   "bathrooms": 4,
   "area_m2": 4,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77904&foto=1580085&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77904&foto=1580085&f=1",
+  "description": "Moradia para recuperar no centro histórico da Parede, inserida num terreno com 1.065 metros quadrados.\nO imóvel possui atualmente 291 metros quadrados de área bruta, distribuída por sete divisões, cave, estacionamento exterior e uma garagem para dois carros com um quarto e uma casa de banho, originalmente concebidos para o chofer. Este espaço pode ser facilmente adaptado a um T0 independente, ideal como apoio ao imóvel principal ou como zona de hóspedes.\n\nO imóvel pode ser renovado ou substituído por um novo projeto. Está em análise na Câmara Municipal de Cascais um Pedido de Informação Prévia (PIP) com duas opções possíveis:\n\nO primeiro cenário prevê a recuperação da moradia existente, com o acréscimo de um piso e a construção de uma segunda moradia. O resultado seriam duas moradias independentes, cada uma com 280 m², garagem em cave de 60 m² e piscina privativa.\n\nO segundo cenário propõe a construção de um edifício com quatro apartamentos de 180 m² cada, apoiado por uma garagem em cave com 300 m² (10 lugares) e piscina comum.\n\nA moradia destaca-se ainda pela sua localização privilegiada, a apenas 700 metros da Praia da Parede, conhecida pelas suas rochas ricas em iodo, e a 400 metros da estação de comboios da Parede, o que garante uma ligação rápida e cómoda a Lisboa e Cascais.\n\nNas imediações encontra-se uma vasta oferta de comércio tradicional, bancos, restaurantes, pastelarias, supermercados, estacionamento, farmácias, clínicas e ainda o Hospital de Cascais.\nA Vila da Parede dispõe de excelentes transportes e acessos, como a linha de comboio Lisboa–Cascais, autocarros, Estrada Marginal e Autoestrada A5.",
+  "geo": {
+    "lat": 38.6910283,
+    "lng": -9.3522748
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77904&foto=1580085&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77904&foto=1580085&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 4,
-  "area_bruta_m2": null,
+  "area_util_m2": 244,
+  "area_bruta_m2": 4,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

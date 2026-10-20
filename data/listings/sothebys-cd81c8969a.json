@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 509,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67938&foto=1295107&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67938&foto=1295107&f=1",
+  "description": "Oportunidade de investimento! Localizada no prestigiado Alto da Barra em Oeiras, a 3 minutos a pé da praia, apresentamos esta exclusiva propriedade com duas moradias independentes que se destaca não só pela sua localização privilegiada, mas também pelas características únicas.\nCom uma área bruta privativa de 481 metros quadrados e uma área de construção total de 509 metros quadrados, a propriedade divide-se em duas moradias: a casa principal e a casa secundária. Construída em 1963, oferece um design clássico e uma estrutura sólida. O interior da casa está distribuído por três pisos, incluindo um grande salão na cave com acesso direto à piscina, um salão com diferentes ambientes no piso térreo, com cerca de 100m2, zona de cozinha e lavandaria também neste piso. No piso superior, encontram-se quatro quartos, incluindo uma grande mastersuite, que garantem conforto e privacidade.\nO exterior desta propriedade é verdadeiramente impressionante. Situada num generoso terreno de 1560 m2, a propriedade dispõe de duas piscinas - uma para a casa principal e outra para a casa secundária. O amplo jardim proporciona um ambiente sereno, ideal para momentos de lazer ou entretenimento ao ar livre.\nA sua localização estratégica é outro dos seus grandes atrativos. A apenas quatro minutos a pé das famosas praias e do passeio marítimo, permite desfrutar da tranquilidade do mar. Além disso, está a apenas 15 minutos a pé da Marina de Oeiras e ao lado dos famosos Jardins do marquês de Pombal. A proximidade a excelentes escolas do concelho, como St Julians e a Nova SBE Business School em Carcavelos e o Liceu de Oeiras torna esta propriedade ideal para famílias.\nA propriedade beneficia de uma localização central, estando próximo de todos os serviços. A estação de comboios encontra-se a apenas 2 minutos a pé, garantindo o acesso ao centro de Lisboa ou Cascais em apenas 20 minutos.\nCombinando uma localização privilegiada, espaços generosos e uma envolvente única, esta propriedade oferece uma oportunidade única para quem procura um investimento de qualidade em Oeiras, uma encantadora vila costeira em Portugal, entre Cascais e Lisboa, conhecida pela sua qualidade de vida elevada, belas praias e zonas verdes, como os jardins e palácios do Marquês de Pombal. Esta zona destaca-se pelo seu património histórico e pela proximidade ao mar, combinando história e beleza natural num ambiente tranquilo e residencial.",
+  "geo": {
+    "lat": 38.6960905916035,
+    "lng": -9.31124256314086
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,39 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67938&foto=1295107&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67938&foto=1295107&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Zona": [
+      "Acessos (Comboio)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Escolas, Jardins, Jardins Infância, Praias)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 509,
-  "area_bruta_m2": null,
+  "area_util_m2": 482,
+  "area_bruta_m2": 509,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 99,
   "image": "https://cdn.proppy.app/propertyfiles/1526/107135/c30fd079-149a-47d3-b8a7-29ef1e70263b.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Venha descobrir este imóvel, localizada na pitoresca Vila de Povoação. Com uma área total de 174m2 de Terreno, esta propriedade está à venda por 109.950.00€.\n\nApesar do seu estado de recuperação, possui um potencial incrível para se tornar a casa dos seus sonhos. Com uma área habitável de 90m2 e uma área bruta de 99m2, este imóvel oferece inúmeras possibilidades de transformação e personalização. Desfrute da tranquilidade da zona e da deslumbrante paisagem circundante. Não perca esta oportunidade única de investimento. Marque já a sua visita e descubra tudo o que esta propriedade tem para lhe oferecer.",
+  "geo": {
+    "lat": 37.74861610059615,
+    "lng": -25.239949203328695
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,26 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/107135/c30fd079-149a-47d3-b8a7-29ef1e70263b.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 99,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Orientação solar: Norte, Sul, Este, Oeste",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Infantário, Centro de saude",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Serra",
+      "Muro"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul, Este, Oeste"
+    ]
+  },
+  "estado": "Ruína",
+  "area_util_m2": 90,
+  "area_bruta_m2": 99,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

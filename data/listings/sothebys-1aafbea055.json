@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 357,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83297&foto=1699952&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83297&foto=1699952&f=1",
+  "description": "Em Caxias, numa das zonas residenciais mais prestigiadas do concelho de Oeiras, encontramos esta moradia T4, construída em 2019, que alia uma arquitetura contemporânea a uma vivência familiar prática e confortável.\n\nDistribuída por dois pisos e implantada num terreno de 553 m², a moradia conta com 331 m² de área bruta privativa. O piso de entrada é dedicado a uma das suítes e área social, com uma sala ampla que se prolonga para a cozinha, totalmente equipada e concebida como um espaço de convívio.\nA partir da cozinha, a casa abre-se para o jardim e para a piscina, criando uma ligação fluida entre o interior e o exterior.\n\nNo segundo piso encontra-se a área privada, composta por mais 3 quartos, todos em suíte, garantindo a cada elemento da família o seu próprio espaço. \n\nO jardim envolve a casa e a piscina e assume-se como o centro da área exterior, proporcionando um espaço versátil para momentos de lazer ou refeições ao ar livre.\nA eficiência energética é também uma característica distintiva desta propriedade, equipada com painéis solares e com Certificado Energético A+, refletindo uma preocupação com uma utilização mais eficiente dos recursos.\n\nA área privada permite o estacionamento de até quatro viaturas, duas das quais em garagem.\n\nA localização completa o conjunto: Caxias oferece um ambiente residencial consolidado, próximo de escolas, comércio, serviços e espaços de lazer, com excelentes acessos a Lisboa e Cascais.\n\nUma casa contemporânea e bem dimensionada, pensada para quem valoriza espaço, privacidade, vida ao ar livre e uma localização de excelência.",
+  "geo": {
+    "lat": 38.7109804,
+    "lng": -9.2702986
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,27 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83297&foto=1699952&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83297&foto=1699952&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Comboio)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 357,
-  "area_bruta_m2": null,
+  "area_util_m2": 22,
+  "area_bruta_m2": 357,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

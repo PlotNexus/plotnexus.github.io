@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 150,
   "image": "https://cdn.proppy.app/propertyfiles/5115/107209/00cdd1e7-7c81-4970-ad92-ea8624ae38dd.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "O Empreendimento na bonita cidade de Valongo,\n\nVem proporcionar aos seus moradores uma excelente e única vida na cidade de Valongo, que se vem afirmando cada vez mais como uma das cidade de eleição na área metropolitana do Porto.\n\nO Empreendimento fica a menos de 10 minutos da cidade do Porto e tem excelentes espaços verdes, com apartamentos com imensa luz natural, num local privilegiado, ao lado da nova câmara de Valongo, mesmo no coração da cidade.\n\nO imóvel é novo em construção, inserido num prédio com elevador e com boa exposição solar.\n\nO empreendimento em Valongo na bonita cidade de Valongo, vem proporcionar aos\n\nseus moradores uma excelente única vida na cidade de Valongo que se vem afirmando cada\n\nvez mais como uma das cidades de eleição na área metropolitana do porto.\n\nO empreendimento fica a 10 minutos da cidade do Porto e excelentes espaços verdes com\n\napartamentos com imensa luz natural num local ao lado da nova câmara de Valongo, mesmo\n\nno coração da cidade de Valongo.\n\n EXISTEM: T1/T2/T3/T4 TODOS COM GARAGEM E VARANDA \n\nTOPICOS A DESTACAR:\n\nCaixilharia de alumínio com vidro duplo e corte térmico;\n\nEstores exteriores elétricos termo-lacados;\n\nElevador elétrico Schneider (ou equivalente);\n\nPré-instalação de Ar Condicionado;\n\nPré-instalação de Aquecimento Central;\n\nCaldeira mural;\n\nEstacionamento privativo;\n\nPortões de garagem elétricos;\n\nPonto de carregamento elétrico na garagem;\n\nPavimento flutuante estratificado de carvalho (ou equivalente) de espessura usualmente entre\n\n10 e 14 milímetros e camada de desgaste, em principio em Carvalho, que varia entre 2 e 4\n\nmilímetros;\n\nEquipamento sanitário SANITANA (ou equivalente);\n\nEletrodomésticos (Forno, Placa e Exaustor). A marca será em princípio Whirlpool (ou\n\nequivalente). O Forno e a Placa serão Classe A ou superior, e o exaustor será Classe B ou\n\nsuperior;\n\nRevestimento cerâmico REVIGRÉS (ou equivalente).\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.1952201,
+    "lng": -8.4945434
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,27 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/107209/00cdd1e7-7c81-4970-ad92-ea8624ae38dd.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 150,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Varanda",
+      "Elevador",
+      "Certificação energética: A",
+      "Varanda: 24m2",
+      "Garagem",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Centro",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário",
+      "Zona envolvente: Residencial",
+      "Vistas: Jardim, Areas verdes"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Em construção",
+  "area_util_m2": 122,
+  "area_bruta_m2": 150,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

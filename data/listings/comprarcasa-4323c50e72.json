@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 9,
   "image": "https://cdn.proppy.app/propertyfiles/1515/107871/0a5b7181-dbc9-4f55-8272-5cb51402360d.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T4 | Rés do Chão e 1º Andar | Terraço | Áreas Amplas e Luminosas\n\nSituada na Rua Comendador Rui Gomes, nº 7, no coração de Redondo, esta moradia unifamiliar de dois pisos destaca-se pelas áreas generosas, excelente entrada de luz natural e funcionalidade. Com quatro quartos, duas casas de banho, terraço e várias divisões bem distribuídas, é a escolha ideal para famílias que procuram conforto e qualidade de vida no Alentejo.\n\nCARACTERÍSTICAS DO IMÓVEL\n\n- Moradia T4 unifamiliar de rés do chão e 1º andar\n\n- Quatro quartos espaçosos e bem iluminados\n\n- Duas casas de banho completas\n\n- Sala ampla com excelente entrada de luz solar\n\n- Cozinha \n\n- Terraço perfeito para momentos de lazer ao ar livre\n\n- Áreas amplas e divisões bem distribuídas\n\nVIVER NO REDONDO | ÉVORA\n\n- Vila alentejana com forte identidade cultural, conhecida pela tradição vinícola e pela olaria\n\n- Excelente qualidade de vida, em ambiente calmo e seguro\n\n- Proximidade à Serra d’Ossa, ideal para atividades ao ar livre e contacto com a natureza\n\n- A poucos minutos de Évora e Estremoz, com boas acessibilidades rodoviárias\n\n- Comércio local, escolas, serviços e espaços de lazer próximos\n\n- Comunidade acolhedora, onde a tradição e a modernidade convivem lado a lado\n\nEsta moradia T4 no Redondo é uma oportunidade única para quem procura espaço, luminosidade e tranquilidade, sem abdicar da proximidade a todos os serviços essenciais.\n\nPara mais informações ou visita ao local, contacte-nos.",
+  "geo": {
+    "lat": 38.648763381240904,
+    "lng": -7.547512932770725
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,17 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/107871/0a5b7181-dbc9-4f55-8272-5cb51402360d.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Em curso",
+      "Terraço",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 9,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 9,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

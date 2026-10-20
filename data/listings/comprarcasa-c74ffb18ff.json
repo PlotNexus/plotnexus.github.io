@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 3,
   "image": "https://cdn.proppy.app/propertyfiles/1526/106401/511e6d27-b54b-4900-b3f3-9af70a438a38.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra esta encantadora propriedade localizada na pitoresca Freguesia de Ribeirinha. Com 3 quartos espaçosos e 2 casas de banho bem equipadas, esta propriedade oferece uma área de 293m², inserida num terreno de 2660m². A casa encontra-se em ótimo estado, com garagem, jardim, ar condicionado e lareira para o máximo conforto. Desfrute de vistas deslumbrantes para a montanha a partir do seu próprio espaço privado.\n\nLocalizada numa posição central, esta propriedade beneficia de uma orientação solar ideal, garantindo muita luz natural ao longo do dia. Esta propriedade é uma excelente oportunidade para quem procura tranquilidade e comodidade.\n\nA zona da Ribeirinha oferece todas as comodidades essenciais a uma curta distância. \n\nNão perca a oportunidade de viver numa comunidade pacífica e bem conectada, com fácil acesso a transportes públicos e comodidades locais. Esta propriedade é um verdadeiro refúgio no coração de Ribeirinha. Agende uma visita e apaixone-se pelo estilo de vida que esta propriedade única tem para oferecer.",
+  "geo": {
+    "lat": 37.8289951,
+    "lng": -25.4972435
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,47 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/106401/511e6d27-b54b-4900-b3f3-9af70a438a38.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 3,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Barbecue",
+      "Orientação solar: Norte, Sul",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Garagem",
+      "Nº carros: 2",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Correios, Farmácia",
+      "Zona envolvente: Residencial",
+      "Vistas: Serra, Areas verdes",
+      "Árvores",
+      "Churrasqueira",
+      "Muro",
+      "Recuado",
+      "Quintal",
+      "Licença de Utilização: 39/2006"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Norte, Sul"
+    ],
+    "Interior": [
+      "Ar condicionado",
+      "Área da(s) Sala(s): 36,25",
+      "Lareira",
+      "Área do(s) Quarto(s): 17,50",
+      "Área da Cozinha: 34,20",
+      "Cozinha: Exaustor, Máquina lavar louça, Placa e forno, Esquentador",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio, Vidros duplos, Caixilharia dupla",
+      "Aquecimento água: Gás",
+      "TV por cabo"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 293,
+  "area_bruta_m2": 3,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

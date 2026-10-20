@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 300,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71563&foto=1520593&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71563&foto=1520593&f=1",
+  "description": "Localizada numa freguesia tranquila, esta moradia isolada térrea, com uma tipologia T4, destaca-se pela sua vista panorâmica que abrange tanto o mar como a montanha. Com quatro suites bem distribuídas, esta propriedade oferece um ambiente acolhedor e tranquilo para viver. O fator principal que torna esta casa única é a sua harmonia perfeita entre conforto e sofisticação.\nA moradia foi concebida num lote de 1080 metros quadrados, com uma área bruta de construção de 300 metros quadrados, desenvolvendo-se num só piso. Todas as suites são espaçosas e privativas, assegurando total conforto. A casa conta ainda com cinco casas de banho, perfeitamente distribuídas. Para o estacionamento, há espaço para quatro veículos, garantindo comodidade para todos os residentes e visitantes. A construção será finalizada no final de setembro de 2024, oferecendo aos futuros proprietários a possibilidade de personalizar alguns acabamentos ao seu gosto.\nO espaço exterior é outro destaque desta propriedade, oferecendo uma varanda ampla para momentos de relaxamento, uma piscina aquecida para desfrutar durante todo o ano, e uma churrascaria, perfeita para convívios. Além disso, a moradia está equipada com painéis solares, ar condicionado em todas as divisões, um sistema de som ambiente em toda a casa, vidros duplos e alumínio duplo com corte térmico e sistema elevatório, características que garantem uma eficiência energética notável.\nQuanto à localização, esta moradia encontra-se a apenas um minuto da via-rápida, proporcionando fácil acesso às principais vias da região. A proximidade a serviços essenciais, como supermercados, escolas e restauração, é outro ponto forte. Em cerca de cinco minutos, é possível aceder a todos estes serviços, enquanto o hospital mais próximo se encontra a trinta minutos de distância.\nA moradia beneficia de uma exposição solar excelente, com orientação nascente, sul e poente, assegurando luz natural ao longo de todo o dia. A ausência de um condomínio confere uma sensação de privacidade e exclusividade.\nEsta moradia é ideal para quem procura uma combinação única de tranquilidade, privacidade e proximidade a todas as comodidades urbanas, num espaço que prima pela elegância e conforto.",
+  "geo": {
+    "lat": 32.7329940385881,
+    "lng": -17.1926926292419
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,65 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71563&foto=1520593&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71563&foto=1520593&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Termolacada",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Solar",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)",
+      "Paredes (Monomassa, Pedra Natural, Pintadas)",
+      "Tecto (Estucado, Falso Pladur, Focos, Ponto de Luz)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 41; Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Campo",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Rural)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 300,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 300,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

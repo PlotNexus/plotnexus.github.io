@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 392,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77962&foto=1576239&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77962&foto=1576239&f=1",
+  "description": "A ESTREAR | OEIRAS GOLF\n\nExcelente moradia em banda, contemporânea, com 392 m2 de construção, situada no prestigiado Oeiras Golf &amp; Residence, com jardim e garagem. Acabada de construir, conta com acabamentos premium e materiais de topo de gama em toda a sua construção. No piso térreo, encontramos a área social, com uma espaçosa sala comum com grandes janelas (tecto ao chão) que permitem vislumbrar o jardim. A cozinha, em estilo moderno, é totalmente equipada com a marca Bosch e tem acesso direto ao jardim. Este piso inclui ainda um quarto/escritório e I.S. social. O piso superior é composto por duas grandes suites, uma das quais a master suite com dois walk-in closets, e dois quartos. Todas as divisões contam com sistema de ar condicionado Daikin. No piso inferior encontramos a garagem com 45 m2, uma ampla zona de lavandaria e zona de arrumos. A propriedade integra diversas soluções tecnológicas que proporcionam conforto e comodidade. O sistema de domótica, de utilização intuitiva através de smartphone, permite gerir à distância a iluminação, os estores, a climatização e o vídeo-porteiro, garantindo total controlo com apenas um toque.\nO imóvel distingue-se pelos acabamentos de alto padrão: dispõe de ar condicionado Daikin com bomba de calor, caldeira, isolamento térmico e acústico, vidros duplos, portadas de segurança, estores elétricos e porta blindada. Está ainda equipada com sistema de videovigilância e a cozinha completamente mobilada e equipada com eletrodomésticos da marca Bosch. Nas imediações, encontram-se diversas escolas internacionais, como a International Sharing School, Oeiras International School e universidades como Univ. Atlântica, a Univ. Católica e o Instituto Superior Técnico. A 15 minutos de distância: St. Julian's School, Colégio Maristas de Carcavelos , St. Dominic’s International School. Viver ou investir no Oeiras Golf &amp; Residence é apostar em qualidade de vida, sofisticação e valorização imobiliária. Localizado entre Lisboa e Cascais, este empreendimento oferece um ambiente exclusivo, rodeado de natureza e com um campo de golfe de nove buracos, ideal para quem procura tranquilidade sem abrir mão da proximidade com a cidade. A infraestrutura moderna e as áreas verdes bem cuidadas tornam o local perfeito tanto para residência quanto para investimento, com alta procura por imóveis de alto padrão e potencial de valorização contínua.",
+  "geo": {
+    "lat": 38.7420393838305,
+    "lng": -9.29050617738496
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,48 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77962&foto=1576239&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77962&foto=1576239&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 44.34; Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Centros Comerciais, Escolas, Jardins, Padaria, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 392,
-  "area_bruta_m2": null,
+  "area_util_m2": 253,
+  "area_bruta_m2": 392,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 25,
   "image": "https://cdn.proppy.app/propertyfiles/1526/106082/48a50380-edeb-4d22-a5f0-32ece4a55d39.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Localizada no concelho de Ponta Delgada em Feteiras, esta moradia de 5 quartos oferece o cenário perfeito para quem procura conforto e conveniência. Com uma área total de 228,25 m2 e um terreno de 463 m2, esta propriedade é o refúgio ideal para toda a família.\n\nAo entrar nesta propriedade, será recebido por um quintal, perfeito para desfrutar do clima ameno. Com uma churrasqueira para refeições ao ar livre e uma vista deslumbrante para o mar, sentir-se-á verdadeiramente em casa neste ambiente acolhedor.\n\nA localização central desta moradia proporciona fácil acesso a todas as comodidades que necessita. Com dois minimercados, farmácia, talho a apenas 13 minutos a pé e excelentes opções gastronómicas a poucos minutos de distância, não terá que se preocupar com nada. Para as famílias, a escola mais próxima encontra-se a apenas 14 minutos a pé, tornando esta propriedade uma excelente escolha para quem procura conveniência e qualidade de vida.\n\nNão perca a oportunidade de tornar esta moradia o seu novo lar. Entre em contacto conosco e agende já a sua visita.",
+  "geo": {
+    "lat": 37.8036519,
+    "lng": -25.7957598
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,41 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/106082/48a50380-edeb-4d22-a5f0-32ece4a55d39.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 25,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar",
+      "Barbecue",
+      "Orientação solar: Sul, Oeste",
+      "Arrecadação",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Farmácia, Escolas, Infantário",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Campo, Areas verdes",
+      "Churrasqueira",
+      "Muro",
+      "Logradouro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Sul, Oeste"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 28,62",
+      "Área do(s) Quarto(s): 19,45",
+      "Área da Cozinha: 23,57",
+      "Cozinha: Esquentador",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 5,
+  "area_bruta_m2": 25,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

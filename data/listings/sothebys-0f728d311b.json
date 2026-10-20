@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83625&foto=1704359&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83625&foto=1704359&f=1",
+  "description": "Apresentamos este exclusivo apartamento T2+1 com 147m2 no Martinhal Residences.\n\nÉ composto por dois quartos em suite, sendo que a suite principal tem uma enorme casa de banho e com um quarto extra para closet, escritório ou terceiro quarto, uma casa de banho social e uma enorme sala / casa de jantar com cozinha aberta. Este luminoso e elegante apartamento conta com uma agradável varanda de 27m2 que permite ter mesa, cadeiras e espreguiçadeiras para desfrutar da vista do rio Tejo.\n\nEste apartamento destaca-se pela maravilhosa exposição à luz natural e pela criteriosa seleção de materiais e acabamentos de luxo utilizados.\n\nO Martinhal Residences é um novo empreendimento de apartamentos urbanos e elegantes no Parque das Nações. Com o toque contemporâneo do arquiteto português de projeção mundial, Eduardo Capinha Lopes, os apartamentos foram concebidos para o máximo conforto das famílias. Detalhes como generosos espaços para refeições e acesso aberto a varandas adornadas com árvores, dão vida a uma visão para o futuro das casas familiares urbanas - tudo com o mais elevado padrão. Este apartamento localizado num andar intermédio e virado para o rio tem uma vista completamente desafogada, da sala e dos quartos, para o rio Tejo e para o Jardim das Rolas.\n\nViver no Martinhal do Parque das Nações representa ter acesso a uma quantidade de serviços existentes num hotel de 5 estrelas tais como Concierge 24 horas, piscina exterior e interior com cadeiras, espreguiçadeiras e toalhas grátis, ginásio, segurança 24 horas, Cartão de membro do Martinhal Circle Club, salas de reuniões disponíveis 12 horas por dia, Kids Club, Wi-Fi e internet de alta velocidade no apartamento, telefone fixo no apartamento, todos os canais de TV disponíveis, seguro multirriscos premium para o apartamento, restaurante interior e exterior entre outros. Tem ainda disponível, 24 horas por dia, toda a equipa de empregados do Martinhal que, ao seu pedido, poderão fornecer-lhe outros serviços de hotel tais como a limpeza da casa, lavandaria, manutenção do apartamento, etc.",
+  "geo": {
+    "lat": 38.76787,
+    "lng": -9.093761
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,44 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83625&foto=1704359&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83625&foto=1704359&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Lago / Espelho de Água)",
+      "Piscina (Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 147,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=57066&foto=1045669&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=57066&foto=1045669&f=1",
+  "description": "Situada nas falésias da costa oeste da ilha, esta é uma moradia única. Deparamo-nos com um espetáculo de beleza natural incomparável, com um pôr do sol e uma vista mar fenomenais. Está disposta em dois pisos e tem três quartos, todos em suite e com varanda privativa. \nNo piso térreo, a moradia tem uma ampla sala de jantar e de estar, que inclui uma lareira. A cozinha está totalmente equipada e tem uma despensa e lavandaria. Como não podia deixar de ser, conta com uma piscina infinita e ainda um terraço e uma área coberta para churrasco que convidam ao a momentos de lazer.",
+  "geo": {
+    "lat": 32.7779362876312,
+    "lng": -17.2338539113617
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=57066&foto=1045669&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=57066&foto=1045669&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 174,
+  "area_bruta_m2": 260,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

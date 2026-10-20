@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 74,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71740&foto=1656761&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71740&foto=1656761&f=1",
+  "description": "Descubra esta magnífica casa de campo totalmente renovada com elevados padrões de qualidade, situada numa localização tranquila e privilegiada de Fonte Santa. Implantada num generoso terreno de 1.968 m², a propriedade dispõe de 321 m² de área de construção distribuídos por dois pisos, combinando conforto, elegância e tranquilidade.\n\nNo rés-do-chão, encontra uma ampla e luminosa sala de estar e cozinha em open space, com lareira e acesso direto ao exterior. A cozinha, totalmente equipada e personalizada pela BE UNIQUE, integra-se harmoniosamente na área social. Este piso dispõe ainda de dois quartos, uma casa de banho e uma lavandaria.\n\nNo primeiro piso encontram-se mais dois quartos, uma casa de banho, duas saletas e uma elegante suíte com magnífica vista sobre o mar.\n\nA propriedade foi cuidadosamente renovada e equipada para proporcionar conforto durante todo o ano, contando com painéis solares fotovoltaicos, ar condicionado, domótica, portão elétrico, isolamento de paredes com certificação ISOPOR, caldeira elétrica para aquecimento de águas, estores elétricos e grandes janelas que permitem uma excelente entrada de luz natural. Os interiores combinam microcimento com detalhes em madeira de carvalho, criando uma atmosfera contemporânea, sofisticada e acolhedora.\n\nNo exterior, os jardins cuidadosamente tratados envolvem uma magnífica piscina aquecida de água salgada e um amplo deck em Nordic Wood, ideal para refeições ao ar livre e momentos de convívio.\n\nSituada numa zona residencial tranquila e segura, beneficia de excelente proximidade aos prestigiados campos de golfe do Triângulo Dourado, escolas internacionais, supermercados e todos os serviços essenciais. Quinta do Lago, Vale do Lobo e Vilamoura encontram-se a poucos minutos, assim como as praias de Quarteira.\n\nPronta a habitar, esta é uma propriedade verdadeiramente especial, ideal para uma família que procura uma residência para viver todo o ano, combinando a serenidade do campo com a proximidade do mar e das principais comodidades do Algarve.",
+  "geo": {
+    "lat": 37.07051,
+    "lng": -8.078921
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,35 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71740&foto=1656761&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71740&foto=1656761&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Equipamento (Jardins, Rega Automática)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 74,
-  "area_bruta_m2": null,
+  "area_util_m2": 36,
+  "area_bruta_m2": 74,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

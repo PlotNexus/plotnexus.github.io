@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 250,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69132&foto=1321217&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69132&foto=1321217&f=1",
+  "description": "A Madalena House, esta inigualável e sofisticada moradia com a assinatura do Arquiteto Paulo Martins, e minuciosamente retratada nas fotografias de Ivo Tavares, localiza-se na praia da Madalena, em Vila Nova de Gaia. Distinguida com vários prémios de arquitetura residencial contemporânea, como o DSM 2023, está nomeada também para o Prémio Obra do Ano 2024, é composta por dois pisos espelhados numa sobreposição de volumes puros. A sua disposição no terreno, corresponde à vontade de criar uma barreira visual entre os espaços vivenciais e a rua, permitindo atingir o máximo de privacidade. O volume superior saliente, marca e enfatiza a entrada, convidando a ultrapassar a barreira quase opaca, perfurada apenas por um vão que denuncia a profundidade do lote e da moradia, ao mesmo tempo que reforça a intenção de impermeabilidade. A casa revela-se, por oposição ao exterior, um espaço amplo e fluído com um programa bem definido, abrindo as zonas sociais ao exterior através de grandes vãos envidraçados. Com estas aberturas, está assegurada a intenção de promover e potenciar a relação entre o exterior, voltado a poente, e o interior, mantendo a privacidade da master suite através da criação de um pátio. \nNo piso superior, materializado por um volume solto e hermético, encontramos duas majestosas suites e um sofisticado escritório, todos abertos unicamente para pátios privados rasgados no volume que, além de garantirem a privacidade, permitem que os vãos envidraçados fiquem protegidos da radiação direta. \nNo piso inferior, encontra-se a área social desta exclusiva moradia, inaugurada por um incomparável hall de entrada com cerca de 20 m2, seguido de uma convidativa e impressionante sala de 64 m2, com acesso direto a uma soberba área ajardinada, na qual se encontra a piscina desta exuberante moradia. Ainda neste piso, encontramos uma charmosa suite com aproximadamente 24m2 e um tranquilo pátio interior.\nRelativamente ao processo de climatização deste imóvel, este destaca-se pelo recurso a um sistema térmico integrado, que contempla ventilo-convetores com ligação ao recuperador de calor, bomba de calor aerotérmica, sistema solar térmico e acumulador combinado higiénico.\nJunto a todo o tipo de serviços, a cerca de 10 minutos da cidade do Porto, e a menos de 1km da praia da Madalena, e com todas as suas comprovadas excelentes valências, esta moradia é inquestionavelmente a personificação de um elevado padrão de vivência quotidiana contemporânea.",
+  "geo": {
+    "lat": 41.09779,
+    "lng": -8.648542
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,65 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69132&foto=1321217&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69132&foto=1321217&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Escritório",
+      "Gás Canalizado",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (CCTV, Segurança Activa)",
+      "Música Ambiente (Pré-Instalação)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Campo",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 250,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 250,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

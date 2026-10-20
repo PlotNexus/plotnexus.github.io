@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 5,
   "area_m2": 224,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69664&foto=1401587&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69664&foto=1401587&f=1",
+  "description": "Esta magnífica residência de arquitetura contemporânea, com quatro quartos e aproximadamente 225 metros quadrados, desfruta de uma vista para o mar privilegiada e está situada a cerca de cinco minutos de carro das mais encantadoras praias de Carvoeiro, bem como do seu centro, repleto de restaurantes, bares, supermercados e todas as comodidades necessárias.\nInserida num lote de 1.080 metros quadrados, esta propriedade dispõe de quatro quartos e cinco casas de banho, complementados por uma piscina. Destaque-se o impressionante roof terrace, que oferece uma vista deslumbrante sobre o mar e os magníficos pores do sol.\nCom uma distribuição em dois pisos, o rés-do-chão acolhe uma área de estar em plano aberto, integrada com uma elegante cozinha e zona de refeições. As generosas janelas proporcionam uma conexão perfeita com o espaço exterior, onde se encontra a piscina e o jardim. Adicionalmente, a residência está equipada com painéis solares e ar condicionado.\nNeste piso térreo, encontram-se também dois quartos em suite, além de uma escadaria externa que conduz ao terraço no telhado. No piso superior, estão localizados os restantes dois quartos, igualmente em suite, todos eles beneficiando de piso radiante nas casas de banho.\nLocalizada numa área serena, esta propriedade oferece o melhor dos dois mundos: a proximidade de Carvoeiro, com a sua vibrante vida e praias, aliada à tranquilidade necessária para uma qualidade de vida acrescida.\nAtualmente em fase de construção, prevê-se a sua conclusão para o início de 2025. Estrategicamente situada no coração do Algarve, a aproximadamente 40 minutos do aeroporto e com fácil acesso a todas as vias principais, esta propriedade encontra-se a cerca de 2,5 horas de Lisboa e a apenas uma hora de Espanha.\nCarvoeiro é reconhecida pela sua hospitalidade, estilo de vida cosmopolita e descontraído, oferecendo uma experiência única tanto para os entusiastas de golfe como para os amantes da gastronomia, com inúmeras praias por descobrir.",
+  "geo": {
+    "lat": 37.10257,
+    "lng": -8.365868
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,49 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69664&foto=1401587&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69664&foto=1401587&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Térmicos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pedra Natural)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (TV Cabo)",
+      "Piscina (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 224,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 224,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

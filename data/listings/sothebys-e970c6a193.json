@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 5,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76833&foto=1620367&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76833&foto=1620367&f=1",
+  "description": "Esta exclusiva moradia V5 totalmente nova a estrear, inserida num elegante condomínio privado residencial em Santo Amaro de Oeiras, a apenas 10 minutos a pé da praia, tem uma localização privilegiada no coração da zona histórica de Oeiras, muito próxima do conceituado Mercado Municipal de Oeiras e Câmara de Municipal de Oeiras (Palácio Marquês de Pombal), esta moradia conjuga o melhor da vida urbana com a tranquilidade de um ambiente recatado e familiar.\n\nO condomínio é composto por apenas 6 moradias, com piscina comum e com uso exclusivo dos condóminos, promovendo um estilo de vida sereno e sofisticado. Cada unidade beneficia de zona exterior privativa, três lugares de estacionamento, duas arrecadações e acesso a espaços verdes cuidadosamente tratados.\n\nA moradia tem uma Área Bruta Privativa de 245m², complementada por um jardim de 70 m² e 26 m² de varandas, a moradia está harmoniosamente distribuída por 3 pisos bem organizados. Conta com cinco quartos, incluindo uma suíte e quatro casas de banho. O design exterior preserva a arquitetura tradicional da zona, enquanto o interior apresenta um estilo moderno, funcional e luminoso, com acabamentos de alta qualidade e acima da média, conta com excelente distribuição dos espaços e divisões, garantindo conforto e praticidade no quotidiano.\n\nIdeal para famílias que procuram uma moradia nova, numa zona central mas tranquila, com acesso a Walking Distance do comércio local, serviços, escolas, zonas verdes e à praia de Santo Amaro, esta propriedade representa uma oportunidade excelente, aliando a tranquilidade e privacidade, à centralidade que a zona histórica de Oeiras pode oferecer.",
+  "geo": {
+    "lat": 38.6962533320445,
+    "lng": -9.30527961528321
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,56 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76833&foto=1620367&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76833&foto=1620367&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 3; Vão de Telhado / Sotão"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Madeira",
+      "PVC",
+      "Termolacada",
+      "Vidro Duplo",
+      "Estores (Alumínio, Eléctricos, PVC, Térmicos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Gás Canalizado",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (CCTV, Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_util_m2": 245,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

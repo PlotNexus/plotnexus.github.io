@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 9,
   "image": "https://cdn.proppy.app/propertyfiles/5115/106658/844402f1-ad8d-4f57-92f9-9334658f3cda.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "APARTAMENTO T2 DE LUXO | PARQUE DA CIDADE VISTA DESLOMBRANTE SOBRE O RIO.\n\nOs apartamentos PARC situam-se a 200 metros do rio e representam a verdadeira construção de luxo.\n\nTudo foi pensado ao pormenor para dar-lhe uma qualidade de vida incrível.\n\nO PARC dá-lhe o luxo que não pode encontrar em mais nenhum local no Norte de Portugal.\n\nNota : A informação aqui prestada , ainda que precisa , requer confirmação antes do fecho do negócio e não pode ser utilizada de forma vinculativa \n\nPara qualquer dúvida ou esclarecimento entre em contacto connosco! Marque já a sua visita!",
+  "geo": {
+    "lat": 41.69571404529415,
+    "lng": -8.831420491601557
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,22 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/106658/844402f1-ad8d-4f57-92f9-9334658f3cda.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 9,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista rio, Vista cidade",
+      "Varanda",
+      "Certificação energética: A",
+      "Varanda: 12,70m2",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Beira-rio",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Rio, Jardim, Areas verdes, Cidade"
+    ]
+  },
+  "estado": "Novo",
+  "area_util_m2": 6,
+  "area_bruta_m2": 9,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 355,
   "image": "https://cdn.proppy.app/propertyfiles/5115/107295/799c7a93-1aca-491f-a9a1-a800088902a1.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia geminada com 3 frentes . \n\nT3 +1 localizada na freguesia de Vila Nova de Anha .\n\nConstituída por R/c -1 andar e 2 andar .\n\nO R/c com utilização independente destinado a habitação , encontra-se com uma forma ampla e possui um Wc . \n\nPoderá tanto ser transformado numa habitação ou um armazém. \n\nPossui um sistema de corrente trifásica que é aquele que combina 3 circuitos de corrente alternada com a mesma frequência. Nesse tipo de sistema a rede elétrica tem quatro fios, sendo que três são fases e um é neutro\n\nAtualmente dispõe um elevador para fazer ligação ao 1 andar . \n\n O 1 andar é composto por : Cozinha equipada, uma ampla sala de estar com lareira . 1 Wc\n\nHall de entrada e varanda \n\nO 2 andar é composto por : 3 quartos 1 Wc 1 Escritório\n\nHall e varanda\n\nO imóvel dispõe ainda de um amplo sótão que poderá ser utilizado como quartos ou salão de jogos , sala de estudos.\n\nAquecimento central através de gás natural .\n\nNo exterior : Um amplo jardim muito bem tratado e decorado . \n\nZona de estacionamento com cobertura . \n\nPortão automático .\n\n3 entradas \n\nAlém da água de companhia que serve a zona habitacional , dispõe de vários depósitos para recuperar águas da chuva que serve para a rega da zona ajardinada e limpeza da propriedade.\n\nDispõe ainda de uma churrasqueira e de uma cozinha regional totalmente equipada e com um forno a lenha .\n\nBoa exposição solar \n\nBons acessos\n\nNota : A informação aqui prestada , ainda que precisa , requer confirmação antes do fecho do negócio e não pode ser utilizada de forma vinculativa\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.7157835,
+    "lng": -8.8117715
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,19 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/107295/799c7a93-1aca-491f-a9a1-a800088902a1.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 355,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: A+"
+    ],
+    "Interior": [
+      "Aquecimento",
+      "Lareira",
+      "Cozinha: Microondas, Frigorifico, Exaustor, Placa"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 252,
+  "area_bruta_m2": 355,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

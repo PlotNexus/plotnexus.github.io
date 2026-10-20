@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 220,
   "image": "https://cdn.proppy.app/propertyfiles/1497/107875/1b825124-0572-4a0f-a24b-a470a49d4070.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "COIMBRÃO-----Venda global de Moradia individual T3 inserida em terreno urbano com 600 m2; e, dois terrenos rústicos confinantes com a área global de 8.300 m2. \n\nO imóvel tem a área bruta de construção de 220 m2, é composto de três quartos com roupeiros embutidos, duas casas de banho, sala e cozinha \"Open Space\", marquise, garagem dupla com portões automáticos, aquecimento central a gasóleo. O terreno que integra a moradia dispõe de terraço, árvores de fruto, churrasqueira, forno, e vasto jardim. \n\nEscritura de compra e venda ao abrigo do Regime Simplex, conforme o Decreto-Lei 10/2024, de 8 de janeiro.\n\nIMA - Sociedade de Mediação Imobiliária, Lda. Lic. AMI 2473, pertencente ao Grupo IMA , desde 1985, trata-se de uma empresa com elevada dinâmica e experiência ao seu serviço.\n\nEm qualquer momento, os imóveis aqui identificados podem ser reservados, vendidos, retirados de venda ou com preços alterados.",
+  "geo": {
+    "lat": 39.896484544394525,
+    "lng": -8.881867881267906
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,34 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1497/107875/1b825124-0572-4a0f-a24b-a470a49d4070.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 220,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Barbecue",
+      "Ano construção: 2003",
+      "Armários embutidos",
+      "Certificação energética: F",
+      "Terraço",
+      "Garagem",
+      "Nº carros: 2",
+      "Vistas: Campo, Pinhal, Areas verdes",
+      "Árvores",
+      "Churrasqueira",
+      "Logradouro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Aquecimento",
+      "Lareira",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 215,
+  "area_bruta_m2": 220,
+  "ano_construcao": 2003,
+  "certificacao_energetica": "F"
 }

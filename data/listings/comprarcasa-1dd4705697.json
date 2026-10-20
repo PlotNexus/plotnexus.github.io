@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 144,
   "image": "https://cdn.proppy.app/propertyfiles/5268/107910/5be05f63-2d85-47f8-8bf3-eec31973b14f.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos este extraordinário apartamento T5, situado no 1º andar de um edifício histórico construído entre 1919 e 1945, localizado numa zona urbana privilegiada no concelho de Lisboa. \n\nCom acabamentos de luxo e detalhes arquitetónicos únicos, este imóvel oferece uma experiência de habitação sofisticada e confortável.\n\nIMPORTANTE:\n\nImóvel com melhorias e novidades!\n\nAcesso à escada será reformulado, no rés-do-chão (RC), a casa de banho será ampliada para melhor aproveitamento do espaço.\n\nNo andar superior, o walk-in closet será removido para permitir uma nova configuração mais funcional, enquanto dois quartos serão integrados em um, oferecendo maior amplitude.\n\n**Destaque**: Será instalado um elevador, com instalação prevista para Janeiro, proporcionando conforto e acessibilidade até ao 3º andar.\n\n**Bônus**: Garantimos 2 anos de estacionamento no parque dos Restauradores para um veículo ou negociação no valor final.\n\n*Características do Apartamento:*\n\nQuartos: Cinco quartos espaçosos, ideais para acomodar uma família grande ou para transformar em escritórios ou salas de lazer.\n\nCasas de Banho: Três instalações sanitárias modernas, equipadas com materiais de alta qualidade.\n\nSala de Estar: Ampla e elegante, perfeita para receber visitas e desfrutar de momentos de relaxamento.\n\nCozinha: Cozinha funcional e bem equipada, com espaço para refeições e acesso a uma despensa prática.\n\nMarquise: Área adicional que proporciona luminosidade e pode ser utilizada como zona de estar ou para plantas.\n\n- Técnicas de sustentabilidade foram aplicadas a estes incríveis apartamentos para permitir um desempenho passivo, como isolamentos de mais alta qualidade em todas as paredes, pisos e tetos. Bombas de calor foram instaladas para aquecer a água, e todos os equipamentos da cozinha são da Bosch, com misturadoras da Grohe para poupança de consumo de água.\n\n*Vantagens de Este Apartamento:*\n\nEste apartamento é uma escolha excelente para quem procura uma combinação de elegância, conforto e uma localização urbana estratégica. A arquitetura histórica, juntamente com os acabamentos de luxo, cria um ambiente único e acolhedor.\n\nInformamos que está em curso a instalação de um elevador que atenderá até o 3º andar.\n\nNão Perca Esta Oportunidade!\n\nVenha conhecer este imóvel excecional que oferece uma experiência de vida luxuosa e confortável no coração de Lisboa.\n\nAgende já a sua visita e descubra o seu novo lar!",
+  "geo": {
+    "lat": 38.71701989999997,
+    "lng": -9.1456999
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,31 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5268/107910/5be05f63-2d85-47f8-8bf3-eec31973b14f.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 144,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Ano construção: 1988",
+      "Armários embutidos",
+      "Elevador",
+      "Localização central",
+      "Certificação energética: B-",
+      "Acessos: Transportes públicos, Metro",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Fração autónoma"
+    ],
+    "Exterior": [
+      "Piso: 1º"
+    ],
+    "Interior": [
+      "Ar condicionado",
+      "Cozinha: Microondas, Frigorifico, Placa e forno, Combinado",
+      "Caixilharia: PVC, Vidros duplos, Caixilharia dupla"
+    ]
+  },
+  "estado": "Renovado",
+  "area_util_m2": 140,
+  "area_bruta_m2": 144,
+  "ano_construcao": 1988,
+  "certificacao_energetica": "B"
 }

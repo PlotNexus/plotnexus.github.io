@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 1,
   "image": "https://cdn.proppy.app/propertyfiles/5115/106057/587985e5-887c-4234-b334-4b23b28dc2dd.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "APARTAMENTO T2 VIANADO CASTELO AMOROSA\n\nDescubra o seu novo refúgio à beira-mar. Este excelente apartamento situado na Amorosa oferece o mais alto padrão de conforto com uma cozinha openspace equipada, dois quartos com armários embutidos e acesso a uma varanda onde poderá desfrutar do ar fresco do Atlântico e com acesso a um espaço de estacionamento privado avantajado.\n\nSe uma vida tranquila e relaxada, mas não desconectada é a sua praia, com este apartamento poderá usufruir da calma do mar e de locais para desfrutar da natureza, mantendo-se próximo da cidade de Viana do Castelo e rodeado por diversos restaurantes/bar para passar uma tarde com os amigos ou desgostar das iguarias do norte.\n\n Não perca a oportunidade de adquirir este apartamento em construção e torná-lo o seu novo lar perto do mar. \n\nAgende uma visita hoje mesmo!",
+  "geo": {
+    "lat": 41.64442328207974,
+    "lng": -8.818554299999994
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,38 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/106057/587985e5-887c-4234-b334-4b23b28dc2dd.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Orientação solar: Norte, Oeste",
+      "Varanda",
+      "Armários embutidos",
+      "Elevador",
+      "Curta distância a pé da praia",
+      "Certificação energética: A+",
+      "Varanda: 22,50",
+      "Lugar de garagem",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Periferia",
+      "Serviços: Supermercados, Farmácia",
+      "Zona envolvente: Residencial, Turística",
+      "Nº apartamentos por piso: 7",
+      "Parque infantil"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Oeste"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Área da(s) Sala(s): 16,00",
+      "Área do(s) Quarto(s): 11,30 / 9,50",
+      "Cozinha equipada",
+      "Cozinha: Microondas, Frigorifico, Máquina lavar roupa, Máquina lavar louça, Fogão, Móveis",
+      "Bomba de calor"
+    ]
+  },
+  "estado": "Projecto",
   "area_util_m2": 1,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 1,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

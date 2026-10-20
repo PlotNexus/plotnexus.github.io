@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78438&foto=1579377&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78438&foto=1579377&f=1",
+  "description": "No coração da Boavista nasce o Raiz, um empreendimento que valoriza a ligação entre\ncidade e natureza.\nEm f\nrente ao Parque da Cidade e a poucos minutos do mar, este\nprojeto oferece uma experiência única de habitar um espaço onde a\narquitetura se\ninspira nos elementos naturais, integrando cortiça, pedra e madeira em ambientes de\nlinhas orgânicas e tons neutros.\nAssinado pelo prestigiado gabinete Ventura+Partners, liderado por Manuel Ventura, o\nRaiz distingue\n-\nse por uma visão de arqui\ntetura centrada nas pessoas, criando espaços\nque\np\nrivilegiam bem\n-\nestar, funcionalidade e harmonia.\nO condomínio fechado dispõe de jardim privativo, Tea Garden, ginásio equipado,\nwellness studio, sala de massagem e espaço multifuncional, promovendo um estil\no de\nvida equilibrado. A diversidade de tipologias, do T1 ao T4, responde a diferentes\nnecessidades, sempre com uma forte conexão ao exterior.\nAs Nature Residences apresentam jardins privativos e piscina de uso exclusivo. As Core\nResidences combinam interi\nores elegantes com varandas amplas e áreas exteriores\npensadas ao detalhe. Já as Upper Residences, no topo do empreendimento, incluem\np\nenthouses e\napartamentos d\nuplex com piscina privativa, proporcionando uma\nexperiência residencial distinta.\nCom fachadas\ncuidadosamente desenhadas, varandas funcionais, estacionamento com\ncarregamento elétrico e materiais de alta qualidade, o Raiz é a escolha certa para quem\nprocura viver em sintonia com a energia urbana e a serenidade natural do Porto.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,20 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78438&foto=1579377&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78438&foto=1579377&f=1"
   ],
-  "features": null,
+  "features": {
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Proximidade (Jardins, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 12,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

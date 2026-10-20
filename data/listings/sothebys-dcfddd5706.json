@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 2,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=53025&foto=993801&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=53025&foto=993801&f=1",
+  "description": "Fantástica moradia em Olhos de Água, localizada a poucos minutos a pé da praia da Falésia - uma das mais belas praias da Europa. Com restaurantes, supermercados, bares e outros serviços nas proximidades. Apenas 10 minutos de Vilamoura e a 30 minutos do Aeroporto Internacional de Faro. Implantada num lote de terreno quase 1800 metros quadrados, com piscina aquecida, grande jardim com sistema de rega automática. Moradia oferece bonitas vistas para o jardim, piscina e o campo até à zona da serra de Loulé. O piso térreo é composto por hall de entrada, casa de banho social, cozinha totalmente equipada, um quarto em suite, uma ampla sala de estar e sala de jantar com lareira, que tem acesso direto a terraço coberto e piscina. No piso superior: uma sala de leitura, 3 quartos, um deles em suite, mais uma casa de banho. \nAlém disso a propriedade tem um anexo remodelado num apartamento com dois quartos, um deles em suite, mais um espaço para escritório, sala de estar, cozinha, casa de banho social. A área exterior oferece um espaço agradável com churrasqueira e uma zona própria para refeições al fresco, possibilitando verdadeiros momentos de lazer com a família e amigos. \n\nA propriedade conta com ar condicionado, alarme, painéis solares, rega automática e furo.\n\nTrata-se sem dúvida de uma propriedade que convida a receber e a aproveitar os momentos de felicidade que a vida nos proporciona, ideal para residência permanente, assim que para férias ou arrendamento.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,29 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=53025&foto=993801&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=53025&foto=993801&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia",
+      "Furo"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Piscina (Exterior)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 2,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 2,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80787&foto=1670740&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80787&foto=1670740&f=1",
+  "description": "Penthouse T4 duplex, localizado no The Breeze, pensada para quem procura uma vivência residencial verdadeiramente diferenciadora, com amplitude, privacidade e uma relação privilegiada com o exterior. Com uma área total de 405,08 m², dos quais 214,34 m² correspondem à área interior e 190,74 m² à área exterior, esta fração destaca-se pela dimensão generosa dos seus espaços e pela fluidez entre interior e exterior.\nA zona social foi concebida para proporcionar conforto e sofisticação no quotidiano, integrando uma ampla sala de estar com 49 m², cozinha independente, lavandaria e instalação sanitária social. No exterior, o apartamento beneficia de uma varanda e de um impressionante terraço com 125 m², ideal para momentos de lazer, refeições ao ar livre ou simplesmente para desfrutar da envolvente marítima e da luz natural.\nNa área privada, a fração dispõe de quatro suites, oferecendo um elevado nível de conforto e autonomia a todos os quartos. A distribuição interior foi desenhada para garantir funcionalidade e privacidade, com áreas amplas e bem proporcionadas, tornando esta unidade especialmente adequada para famílias que valorizam espaço, exclusividade e qualidade de vida.\nO apartamento inclui ainda 4 lugares de estacionamento e 1 arrumo, reforçando a componente prática e funcional de uma fração que se posiciona claramente num segmento premium.\nInserido no condomínio fechado The Breeze, na primeira linha do mar, este T4 Duplex beneficia de todos os atributos do empreendimento, aliando uma arquitetura contemporânea e sofisticada, assinada pelo atelier Ventura+Partners, a uma oferta de amenities e serviços pensados para um estilo de vida exclusivo, confortável e profundamente ligado ao mar.",
+  "geo": {
+    "lat": 41.1687046091,
+    "lng": -8.6507892608
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,19 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80787&foto=1670740&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80787&foto=1670740&f=1"
   ],
-  "features": null,
+  "features": {
+    "Domótica": [
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Equipamento (Sala Condomínio)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 34,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

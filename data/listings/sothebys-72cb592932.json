@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 390,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75509&foto=1699554&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75509&foto=1699554&f=1",
+  "description": "O Murches Residence é um conjunto de quatro exclusivas moradias T4 integradas num condomínio fechado, em Cascais. Com um projeto focado na funcionalidade, segurança e conforto, o empreendimento destaca-se pelos acabamentos de qualidade, piscinas individuais e sistemas de domótica. A exposição solar foi tida em consideração no design das moradias, promovendo ambientes iluminados e eficientes energeticamente.\nCada habitação dispõe de uma ampla zona social com cozinha em open space e casa de banho de apoio e ainda quatro quartos em suíte. As áreas interiores foram pensadas para proporcionar fluidez entre os espaços e o contacto com o exterior é potenciado pelos jardins com piscina privada e zonas de lazer ao ar livre. Na cave encontra-se a garagem para três carros e ainda uma zona de lavandaria. \nA apenas dois minutos da A5, o acesso a Lisboa, Cascais ou ao aeroporto é direto e rápido. A localização do Murches Residence permite ainda chegar à Praia do Guincho em menos de oito minutos, oferecendo uma excelente ligação entre a natureza e a cidade.\nMurches é uma zona residencial consolidada, valorizada pela tranquilidade, proximidade ao Parque Natural Sintra-Cascais e à qualidade de vida que proporciona a quem procura viver num ambiente equilibrado e bem localizado.",
+  "geo": {
+    "lat": 38.73222,
+    "lng": -9.443764
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75509&foto=1699554&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75509&foto=1699554&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 390,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 390,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
