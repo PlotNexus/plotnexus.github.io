@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 84,
   "image": "https://cdn.proppy.app/propertyfiles/1506/109196/7729b838-0c7b-434c-a30c-89cdb6b96e37.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
+  "description": "Apartamento T1 com cerca de 50 m², localizado no centro da cidade, numa zona de elevada procura habitacional. Inserido em prédio com poucos habitantes, característica cada vez mais valorizada por investidores, quer pela tranquilidade, quer pela redução de custos de manutenção e gestão.\n\nO imóvel beneficia de vistas desafogadas, boa exposição à luz natural e uma localização estratégica, com acesso rápido a comércio, serviços, transportes e zonas de interesse urbano.\n\nPelas suas características e localização, apresenta excelente potencial para arrendamento, garantindo rentabilidade estável e facilidade de colocação no mercado.\n\nUma opção segura tanto para investidores experientes como para quem procura um primeiro investimento imobiliário, num ativo líquido e com perspetiva de valorização.",
   "geo": null,
   "source": {
     "name": "ComprarCasa",
@@ -21,10 +21,33 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1506/109196/7729b838-0c7b-434c-a30c-89cdb6b96e37.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 84,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "features": {
+    "Geral": [
+      "Kitchenette",
+      "Vista: Vista montanha, Vista rio, Vista cidade",
+      "Varanda",
+      "Ano construção: 2011",
+      "Varanda: 1",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Nº apartamentos por piso: 1",
+      "Vistas: Rio, Serra, Campo, Jardim, Areas verdes, Prédios, Cidade",
+      "Nº fogos habitação: 2",
+      "Nº fogos comércio: 1",
+      "Capoto",
+      "Fração autónoma"
+    ],
+    "Interior": [
+      "Cozinha: Kitchenette, Frigorifico, Exaustor, Máquina lavar roupa, Placa e forno, Esquentador, Móveis",
+      "Caixilharia: PVC, Vidros duplos",
+      "Aquecimento água: Eléctrico"
+    ]
+  },
+  "estado": "Renovado",
+  "area_util_m2": 54,
+  "area_bruta_m2": 84,
+  "ano_construcao": 2011,
   "certificacao_energetica": null
 }

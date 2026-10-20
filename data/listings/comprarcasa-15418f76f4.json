@@ -9,8 +9,11 @@
   "bathrooms": 4,
   "area_m2": 217,
   "image": "https://cdn.proppy.app/propertyfiles/5115/109488/89d06a1b-ceaf-4c99-aefa-468a7cca245d.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T4 de tipologia unifamiliar, caracterizada por áreas generosas, excelente luminosidade natural e boa ventilação em todas as divisões.\n\nO imóvel dispõe de sala ampla com zona de estar e espaço de jantar integrado, proporcionando um ambiente funcional e harmonioso. A presença de lareira confere maior conforto térmico e um ambiente acolhedor.\n\nA zona privada é composta por uma suíte e três quartos adicionais, bem distribuídos e com boa exposição solar. A moradia conta com quatro instalações sanitárias, sendo duas completas com base de duche e duas compostas por sanita e lavatório.\n\nA cozinha encontra-se equipada com armários em madeira, oferecendo boa capacidade de arrumação e organização. Dispõe ainda de lavandaria independente.\n\nDestaca-se a área de convívio exterior fechada, com janelas em vidro, permitindo usufruir de um espaço versátil, com abundante luz natural, utilizável ao longo de todo o ano.\n\nNo exterior, a propriedade beneficia de espaço envolvente em todo o perímetro da habitação, garantindo privacidade e potencial para diferentes utilizações.\n\nComplementa-se com garagem para dois carros e lugar de garagem com capacidade para seis viaturas, portão automático e sistema de aquecimento através de caldeira a gasóleo. \n\nTrata-se de uma moradia com características que privilegiam o conforto, a funcionalidade e a amplitude dos espaços interiores e exteriores.\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.67182282433046,
+    "lng": -8.771962692576196
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,38 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/109488/89d06a1b-ceaf-4c99-aefa-468a7cca245d.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 217,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista rio",
+      "Armários embutidos",
+      "Certificação energética: C",
+      "Garagem",
+      "Lugar de garagem",
+      "Nº carros: 6",
+      "Acessos: Auto-estrada",
+      "Serviços: Supermercados, Farmácia, Escolas",
+      "Zona envolvente: Residencial",
+      "Gás canalizado",
+      "Vistas: Rio, Jardim",
+      "Muro",
+      "Recuado",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Lareira",
+      "Cozinha equipada",
+      "Cozinha: Exaustor, Placa e forno, Fogão, Esquentador, Combinado",
+      "AquecimentoTermico: Gás, Caldeira",
+      "Caixilharia: PVC, Vidros duplos, Caixilharia dupla"
+    ]
+  },
+  "estado": "Não aplicável",
+  "area_util_m2": 157,
+  "area_bruta_m2": 217,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

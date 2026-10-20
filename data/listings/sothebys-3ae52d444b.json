@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 243,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77058&foto=1546162&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77058&foto=1546162&f=1",
+  "description": "Moradia recentemente remodelada, que combina arquitetura moderna com construção sólida, implantada num lote plano de 620 metros quadrados e com 257 metros quadrados de área bruta de construção, oferecendo total privacidade, conforto e ar condicionado em todas as divisões.\n\nPiso térreo:\nAmplo e luminoso living com lareira, home office ideal para trabalho remoto e acesso direto a um jardim privado encantador. Sala de jantar elegante, cozinha moderna totalmente equipada, zona de lavandaria com máquinas de lavar e secar roupa, além de uma casa de banho social.\n\nNo exterior encontramos um jardim espaçoso e totalmente privado, zona coberta para refeições ao ar livre, piscina aquecida, área de churrasco e casa de banho de apoio à piscina — o espaço perfeito para lazer e entretenimento.\n\nPrimeiro piso:\nTrês quartos com roupeiros embutidos e acesso a uma agradável varanda, sendo um deles uma suíte. Duas casas de banho completas servem os outros dois quartos.\n\nSótão:\nAproveitado e transformado numa acolhedora suíte com luz natural — ideal como quarto de hóspedes, espaço de leitura ou refúgio privado.\n\nEstacionamento:\nGaragem coberta para dois carros e mais uma vaga descoberta.\n\nO imovel esta arrendado ate Agosto de 2027 por 7200 euros.\n\nLocalização premium:\nSituada no prestigiado Bairro do Rosário, a poucos minutos do centro de Cascais, praias e da Costa da Guia. Envolvida por comércio local, supermercados, hospital, escolas e transportes públicos. Acesso rápido à A5, que liga Cascais a Lisboa.",
+  "geo": {
+    "lat": 38.7043062224419,
+    "lng": -9.43422300925064
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,41 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77058&foto=1546162&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77058&foto=1546162&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Escritório",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Piscina (Exterior)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 243,
-  "area_bruta_m2": null,
+  "area_util_m2": 185,
+  "area_bruta_m2": 243,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

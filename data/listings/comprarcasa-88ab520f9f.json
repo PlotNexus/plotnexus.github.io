@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 178,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108587/63342c56-772d-41f5-95cc-4b5ac7bf5604.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Na Rua António Tomás Pires, uma das principais artérias do Centro Histórico de Elvas, encontra esta moradia T3 inserida num prédio, distribuída por um piso e com aproveitamento de sótão e um terraço, oferecendo um ambiente autêntico, cheio de história e com um potencial de valorização excecional.\n\nA área principal da habitação desenvolve-se no 2º andar do prédio: três quartos (um deles em suíte), uma cozinha funcional, duas salas de estar e uma sala de jantar acolhedora. No segundo andar, o aproveitamento de sótão permite criar um espaço versátil, ideal para escritório, zona de lazer ou mais um quarto, e dá acesso a um agradável terraço de topo, perfeito para momentos de descanso e convívio, com vista sobre o casario histórico da cidade.\n\nEmbora possam existir algumas zonas a necessitar de recuperação, o imóvel apresenta um excelente potencial de requalificação, permitindo personalizar e adaptar os espaços conforme o seu gosto pessoal.\n\nINVESTIR E VIVER EM ELVAS\n\n- Elvas é uma cidade património mundial da UNESCO, conhecida pelas suas fortificações únicas, pelo seu património histórico e pela proximidade à fronteira com Espanha. \n\n- Viver no seu Centro Histórico é mergulhar num ambiente cultural vibrante, onde o charme das ruas estreitas, as praças típicas e a arquitetura alentejana convivem com o conforto moderno e a conveniência urbana.\n\nLocalização Privilegiada: a poucos minutos de todos os serviços essenciais, como comércio local, restauração, escolas, bancos e espaços culturais, e com excelentes acessos à autoestrada A6, que liga diretamente Badajoz, Évora e Lisboa.\n\nCom um forte potencial para Alojamento Local (AL) ou habitação própria, esta moradia representa uma oportunidade única de investimento numa das zonas mais emblemáticas e procuradas do Alentejo.\n\nUma escolha ideal para quem valoriza autenticidade, centralidade e potencial de valorização.\n\nContacte-nos para mais informações ou para agendar a sua visita.",
+  "geo": {
+    "lat": 38.87956654643094,
+    "lng": -7.165657737162125
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,17 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108587/63342c56-772d-41f5-95cc-4b5ac7bf5604.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Terraço topo",
+      "Certificação energética: F",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Centro de saude, Policia",
+      "Zona envolvente: Residencial"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 178,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 178,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

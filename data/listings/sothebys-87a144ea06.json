@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80730&foto=1638156&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80730&foto=1638156&f=1",
+  "description": "Numa das zonas mais nobres da cidade, onde se respira a calma e a imensidão azul do oceano Atlântico, nasce o Savoy Residence | Monumentalis, um projeto imobiliário sofisticado e intemporal. \nCom vista para o mar, onde não faltam praças, jardins, um parque infantil e outras áreas de lazer, uma exclusiva zona habitacional e outra de comércio. \nConta com 147 apartamentos, tipologias de T1 a T4, com vista mar definitiva e 20 espaços comerciais. \nCom orientação a sul, este empreendimento conta com apartamentos com piscinas, terraços e jardins privativos. Uma piscina infinita comum, áreas de relaxamento e exercício físico, estacionamento coberto em BOX, recepção e porteiro 24h. \nConta ainda com 3.500 metros quadrados de áreas ajardinadas comuns, com solários e espelhos de água. A conjugação com a natureza é primordial no projeto. Do betão aparente das fachadas aos muros de pedra emparelhada nas laterais dos edifícios, aqui os vários tons de verde, característicos da floresta endémica do arquipélago, são protagonistas dos muitos espaços ajardinados que surgem em todo o empreendimento. Conclusão da obra estima-se para meados de 2024.",
+  "geo": {
+    "lat": 32.6394642,
+    "lng": -16.9472735
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,57 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80730&foto=1638156&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80730&foto=1638156&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 8"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação, Lojas)",
+      "Isolamento (Acústico, Térmico)",
+      "Paredes (Pintadas)",
+      "Equipamento (Jardins, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 95,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

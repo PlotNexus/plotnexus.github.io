@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 99,
   "image": "https://cdn.proppy.app/propertyfiles/1506/109327/17142d03-a4c2-4540-a8bb-f916525ec0c1.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Este excelente apartamento T3 destaca-se pelo conforto, funcionalidade e qualidade dos acabamentos, sendo ideal para quem procura viver no centro da cidade com todas as comodidades.\n\nA zona privada é composta por três quartos espaçosos, todos equipados com armários embutidos, piso em madeira, aquecimento e janelas, proporcionando um ambiente acolhedor, confortável e bem iluminado.\n\nDispõe de duas casas de banho, uma delas com banheira, ambas com paredes revestidas a azulejo e pavimento em mosaico, oferecendo praticidade e durabilidade no dia a dia.\n\nA cozinha encontra-se totalmente equipada, contando com móveis funcionais, placa, forno, micro-ondas, frigorífico e máquina de lavar loiça, pensada para facilitar o quotidiano e maximizar o espaço disponível.\n\nA sala é ampla e luminosa, com piso em madeira, aquecimento e lareira, criando um ambiente confortável e convidativo. Conta ainda com acesso a uma varanda, ideal para momentos de lazer e relaxamento.\n\nPossui uma vaga de garagem fechada.\n\nEste apartamento combina conforto, qualidade e uma excelente localização, sendo uma opção perfeita tanto para habitação própria como para investimento.",
+  "geo": {
+    "lat": 41.73904083567169,
+    "lng": -7.472317814826964
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,51 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1506/109327/17142d03-a4c2-4540-a8bb-f916525ec0c1.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha, Vista cidade",
+      "Despensa",
+      "Orientação solar: Norte",
+      "Varanda",
+      "Ano construção: 1999",
+      "Armários embutidos",
+      "Elevador",
+      "Localização central",
+      "Certificação energética: C",
+      "Varanda: Sim",
+      "Garagem",
+      "Lugar de garagem",
+      "Nº carros: 1",
+      "Mobilado",
+      "Valor do condomínio: 22,21",
+      "Acessos: Transportes públicos, Comboio, Auto-estrada",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Comercial",
+      "Gás canalizado",
+      "Nº apartamentos por piso: 2",
+      "Vistas: Serra, Jardim, Areas verdes, Cidade",
+      "Nº fogos habitação: 8",
+      "Acesso deficientes",
+      "Árvores"
+    ],
+    "Exterior": [
+      "Piso: R/C",
+      "Orientação Solar: Norte"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Aquecimento",
+      "Lareira",
+      "Cozinha equipada",
+      "Cozinha: Microondas, Frigorifico, Máquina lavar roupa, Máquina lavar louça, Placa e forno, Despensa, Móveis",
+      "AquecimentoTermico: Eléctrico, Gás",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Semi-novo",
   "area_util_m2": 99,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 99,
+  "ano_construcao": 1999,
+  "certificacao_energetica": "C"
 }

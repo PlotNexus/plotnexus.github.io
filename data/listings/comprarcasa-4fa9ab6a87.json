@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 48,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109161/c9e9ded9-4b72-4afc-b826-4232d1fcffc7.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Na Avenida do Escurinho, nº 36, junto à conhecida Farmácia Avó, encontra-se este espaço comercial com 48 m², ideal para quem procura iniciar ou expandir o seu negócio numa zona consolidada e com forte passagem diária.\n\nO imóvel distribui-se por:\n\n- Zona aberta com 37,6 m², versátil e adaptável a diferentes tipos de atividade;\n\n- Espaço de arrecadação com 2,4 m², ideal para apoio ao funcionamento do negócio;\n\n- Casa de banho com 2,7 m².\n\nA localização estratégica garante excelente visibilidade, proximidade imediata a comércio, serviços, restauração e zonas habitacionais, beneficiando de um fluxo constante de residentes e clientes da área envolvente.\n\nVantagens de investir neste espaço:\n\n- Inserido numa das principais artérias da Cruz da Picada;\n\n- Zona com comércio ativo e serviços essenciais nas imediações;\n\n- Forte potencial para comércio de proximidade, serviços ou escritório;\n\n- Boa acessibilidade e facilidade de estacionamento na zona;\n\n- Proximidade ao centro de Évora e aos principais acessos rodoviários.\n\nNota: O valor do condomínio é de 10€.\n\nUma oportunidade sólida para quem procura um espaço funcional, bem localizado e com potencial de valorização.\n\nContacte-nos para mais informações ou para agendar a sua visita.",
+  "geo": {
+    "lat": 38.56626432400232,
+    "lng": -7.926930338897172
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,19 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109161/c9e9ded9-4b72-4afc-b826-4232d1fcffc7.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Certificação energética: C",
+      "Valor do condomínio: 10 €",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Lar de terceira idade, Centro de saude",
+      "Zona envolvente: Residencial, Comercial",
+      "Vistas: Cidade"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 48,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 48,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 5,
   "area_m2": 37,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108851/e9045cc1-320f-4032-bdb7-9457a9d61c0f.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Duas Moradias T4 + T3 com Terraço, Garagem e Elevado Potencial de Rentabilidade | Centro Histórico de Évora\n\nÉ raro encontrar, no Centro Histórico de Évora, uma propriedade que reúna duas moradias independentes (T4 + T3), acessos por duas ruas distintas, garagem, terraço panorâmico e elevado potencial de rentabilidade. Situada na prestigiada Rua Bernardo Matos, é uma oportunidade única para quem procura uma residência diferenciadora, um investimento sólido ou ambos.\n\nA configuração do imóvel permite habitar a moradia principal e rentabilizar a segunda através de arrendamento de longa duração ou Alojamento Local, beneficiando da total independência entre os dois espaços.\n\nA moradia principal dispõe de duas suítes, dois quartos, sala de estar, sala de jantar, cozinha equipada com despensa, casa de banho de serviço e saguão interior, proporcionando espaços amplos, funcionais e confortáveis.\n\nCom entrada totalmente independente pela Rua Romão Ramalho, a segunda moradia é composta por três quartos, kitchenette e casa de banho, sendo ideal para receber familiares, criar um espaço autónomo ou gerar rendimento adicional.\n\nNo rés-do-chão encontram-se ainda garagem, lavandaria, arrumos, despensa, kitchenette e casa de banho, oferecendo uma funcionalidade pouco comum em imóveis do centro histórico.\n\nDestacam-se ainda:\n\n- Duas moradias independentes (T4 + T3);\n\n- Entradas autónomas por duas ruas distintas;\n\n- Terraço panorâmico;\n\n- Garagem e lavandaria;\n\n- Painéis solares para microgeração e aquecimento de águas;\n\n- AC em várias divisões.\n\nJunto à Praça do Giraldo, esta localização proporciona a autenticidade e a qualidade de vida que fazem do Centro Histórico uma das zonas mais procuradas da cidade.\n\nPela sua configuração, versatilidade e localização privilegiada, trata-se de uma oportunidade rara no mercado imobiliário de Évora.\n\nMarque já a sua visita!",
+  "geo": {
+    "lat": 38.56999517848942,
+    "lng": -7.909544048664282
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,24 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108851/e9045cc1-320f-4032-bdb7-9457a9d61c0f.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Kitchenette",
+      "Armários embutidos",
+      "Certificação energética: D",
+      "Terraço",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Turística"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada",
+      "Cozinha: Kitchenette, Exaustor, Placa e forno"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 37,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 37,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

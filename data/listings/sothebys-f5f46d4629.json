@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 268,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82068&foto=1673740&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82068&foto=1673740&f=1",
+  "description": "Moradia T3+1 remodelada em 2019, inserida no condomínio Estoril Real, no centro do Estoril, com 268 metros quadrados de área bruta de construção e terreno integrante de 350 metros quadrados. O condomínio dispõe áreas comuns com jardins e piscinas e de serviço de portaria em horário diurno nos dias úteis.\nA moradia beneficia de privacidade, tanto nas zonas exteriores como nas áreas sociais. Distribui-se por quatro pisos, com elevador privado, pé direito duplo na zona do hall e escadas, terraços e jardim privativo virado a sul e poente, com acesso directo à piscina do condomínio.\n\nNo piso térreo, encontramos o hall de entrada com duplo pé direito, na zona social com 3 ambientes, a sala de estar, de jantar e de lareira, todos com ligação direta ao terraço, jardim privativo e pérgola com área de refeições exterior. Estas áreas exteriores, têm excelente exposição solar a sul e poente. Neste piso existe ainda uma espaçosa cozinha, totalmente equipada e com acesso directo ao exterior.\n\nNo primeiro piso, encontramos um escritório em mezzanine com muita luz natural e dois quartos em suíte. Uma das suítes e o escritório têm acesso a um excelente terraço com vista mar.\n\nNo segundo piso, encontra-se a master suite, com closet, casa de banho e acesso a um terraço privativo com vista mar.\n\nNo piso inferior, acedemos ao hall de acesso direto à garagem privativa para três ou quarto viaturas e uma espaçosa arrecadação.\n\nLocalizada numa zona residencial do Estoril, apenas a 4 min de carro e 13 minutos a pé do Casino do Estoril, a moradia beneficia de uma localização prática , com excelentes acessos à A5, marginal, estação de comboios, Praia do Tamariz e Avenida Marginal. \nEncontra-se também junto ao Golfe do Estoril e ao Clube de Ténis e Padel do Estoril, e a curta distância do Hospital de Cascais. A envolvente dispõe de comércio, restaurantes, clínicas, transportes e várias escolas nacionais e internacionais.",
+  "geo": {
+    "lat": 38.714745,
+    "lng": -9.3951365
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,53 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82068&foto=1673740&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82068&foto=1673740&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 3; Vão de Telhado / Sotão"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo, Segurança Activa)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Jardins, Zelador / Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 268,
-  "area_bruta_m2": null,
+  "area_util_m2": 180,
+  "area_bruta_m2": 268,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

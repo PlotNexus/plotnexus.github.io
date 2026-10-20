@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 209,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108612/37480646-0f94-4193-86e1-125ec69e8e66.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia Unifamiliar Térrea T7 inserida em lote de 1848 m2, com anexos, localizada na Rua Joaquim Correia 3, em Vila Nova da Baronia, concelho de Alvito. \n\nEsta magnífica casa oferece uma experiência de vida única em harmonia com a tranquilidade e a beleza do Alentejo. \n\nAo entrar encontra um hall; sala com salamandra; cozinha com chaminé típica alentejana; sete quartos, sendo que um tem closet; copa ou despensa; arrumos com acesso ao sótão; corredor de distribuição e WC completo. \n\nO exterior da propriedade é verdadeiramente notável, com um generoso terreno de 1639 m2. Este espaço oferece inúmeras possibilidades, como uma piscina. Destaca-se ainda a existência de dois anexos destinados a animais. \n\nVila Nova da Baronia é uma aldeia típica alentejana, caracterizada pela tradicionalidade e pela riqueza do seu património histórico e natural.\n\nDista a cerca de 38km de Évora, a 50km de Beja e a 6km de Viana do Alentejo.\n\nContacte-nos para visita ou mais informações!",
+  "geo": {
+    "lat": 38.28615869999999,
+    "lng": -8.037915
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108612/37480646-0f94-4193-86e1-125ec69e8e66.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: E"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 209,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 209,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

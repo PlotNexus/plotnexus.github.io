@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=44717&foto=833946&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=44717&foto=833946&f=1",
+  "description": "Apartamento de quatro quartos duplex em localização única, com 287 metros quadrados de área bruta privativa e vistas de mar inigualáveis, inserido num prédio de três pisos com apenas três fracções, situado em zona prime da Foz. No piso de entrada, o apartamento é composto por uma sala comum , duas suites e dois quartos, sendo que estes dois estão transformados em sala, apoiados por uma casa de banho. O apartamento dispõe também de cozinha e lavandaria. No piso superior, temos a segunda sala e um pequeno quarto/arrumos, com casa de banho. Esta sala está acompanhada de uma varanda com vistas de mar e virada a poente. Dispõe ainda de ar condicionado e lugar de garagem para quatro carros.\nCom uma localização privilegiada, a apenas 200 metros da praia, está cercado de restaurantes e esplanadas, comércio e serviços como correios, bancos, polícia, farmácias, entre outros. Encontra-se muito próximo de escolas e colégios de referência, e da Católica Porto Business School. Os acessos à VCI estão a a seis minutos permitindo a fácil e rápida deslocação para outros pontos da cidade.\n\nA Portugal Sotheby´s International Realty, desde 2007 em Portugal, especialista na transação de imóveis de luxo, conta com 10 escritórios, mais de 200 profissionais, nas zonas premium do país, tem em carteira mais de 5000 imóveis para venda em Portugal. Está presente em 75 mercados internacionais com mais de 1000 escritórios e 24.000 consultores atualmente, e um volume de negócios de 150 mil Milhões de Dólares.",
+  "geo": {
+    "lat": 41.15371,
+    "lng": -8.677692
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,43 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=44717&foto=833946&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=44717&foto=833946&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 2,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

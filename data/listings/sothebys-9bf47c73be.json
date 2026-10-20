@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76501&foto=1641521&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76501&foto=1641521&f=1",
+  "description": "Localizada no coração da prestigiada zona do Amparo, em São Martinho, esta magnífica Penthouse destaca-se no topo de um empreendimento de arquitetura contemporânea atualmente em construção. Concebida para quem valoriza o conforto absoluto, a privacidade total e a sofisticação, esta propriedade alia espaços amplos, design moderno e vistas verdadeiramente deslumbrantes.\nCom uma distribuição inteligente e acabamentos de alta qualidade, esta penthouse oferece, 4 suítes espaçosas, todas com excelente luminosidade natural, sala de estar e sala de jantar com 52 metros quadrados, ideal para convívio e relaxamento, cozinha em open space, ampla e funcional, integrada à zona social, lavandaria e casa de banho social, com layout prático e discreto. Conta ainda com uma piscina privativa com 24,13 metros quadrados, integrada ao terraço principal, solário com 25,14 metros quadrados, perfeito para momentos de sol com total privacidade, terraço a sul com 171,55 metros quadrados, com vista panorâmica sobre o mar, terraço a norte com 36,07 metros quadrados, ideal para desfrutar diferentes momentos do dia, três lugares de estacionamento privados e uma arrecadação com 6,30 metros quadrados. Este exclusivo condomínio residencial é composto por apenas 25 frações (T1 a T3) distribuídas por seis pisos, oferecendo um ambiente tranquilo e moderno. Entre as comodidades comuns, destacam-se uma piscina partilhada, proporcionando uma experiência de vida ainda mais completa. Com uma localização privilegiada, próximo de praias, escolas, comércio e todos os serviços essenciais, esta penthouse é uma oportunidade única para quem procura um estilo de vida elevado numa das zonas mais valorizados do Funchal.",
+  "geo": {
+    "lat": 32.6517631466256,
+    "lng": -16.9325763702393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,59 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76501&foto=1641521&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76501&foto=1641521&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 6"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Video-Porteiro",
+      "Alarme (Pré-Instalação)",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 37.50; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 255,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

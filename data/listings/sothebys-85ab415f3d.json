@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83818&foto=1709027&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83818&foto=1709027&f=1",
+  "description": "Em Belém, numa localização residencial próxima da frente ribeirinha, este apartamento duplex T4 beneficia de uma relação equilibrada entre espaço interior, áreas exteriores e facilidade de acessos.\n\nCom 317 m² de área bruta privativa e 368 m² de área bruta de construção, o apartamento distingue-se pela sua distribuição particularmente funcional, reunindo todos os quartos, a cozinha e a sala no mesmo piso. A ligação à garagem e à cave é assegurada por elevador privativo, garantindo maior comodidade e privacidade no dia a dia, enquanto o rooftop acrescenta uma área exterior distinta e complementar à vivência da casa.\n\nA área social, ampla e organizada em três ambientes, conta com lareira e um longo vão de janelas viradas a sul, proporcionando boa luminosidade ao longo do dia.\nA zona privada integra quatro quartos, dos quais três em suíte. A master suite, de dimensões generosas, oferece uma área particularmente ampla. O quarto adicional beneficia do apoio de uma casa de banho completa com duas entradas: uma com acesso direto a partir do quarto e outra a partir da zona social, permitindo uma utilização prática e versátil.\nTodas as divisões estão equipadas com ar condicionado e estores elétricos. As instalações sanitárias dispõem de espelhos com sistema de aquecimento.\nNo piso superior, o rooftop privativo beneficia de vista desafogada e oferece a possibilidade de criar uma zona lounge exterior dedicada a refeições, convívio ou descanso. O espaço encontra-se ainda preparado com infraestrutura para eventual instalação de um jacuzzi.\n\nA fração inclui quatro lugares de estacionamento, um deles com wallbox para carregamento de veículo elétrico, assim como lavandaria e zona de arrumos no piso da garagem, com acesso direto ao elevador privativo.\nO condomínio dispõe de jardins, piscina, sala de condomínio para reuniões ou eventos privados e serviço de concierge de segunda-feira a domingo.\n\nA poucos minutos do rio, com ligação rápida à Avenida da Índia, A5 e principais eixos de saída de Lisboa, permite uma ligação cómoda a Cascais e ao centro da cidade. A zona oferece ainda proximidade a várias opções de ensino, entre as quais o PaRK International School, The British School of Lisbon, Colégio do Bom Sucesso e estabelecimentos públicos do Agrupamento de Escolas do Restelo.\n\nUma opção para quem procura uma casa com dimensão, privacidade e áreas exteriores, numa zona de Lisboa com proximidade ao rio, boas acessibilidades e uma oferta consolidada de serviços e equipamentos",
+  "geo": {
+    "lat": 38.6965295,
+    "lng": -9.2208245
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,43 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83818&foto=1709027&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83818&foto=1709027&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Alarme (CCTV)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Rio, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Hospital, Jardins, Padaria, Polícia, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 76,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

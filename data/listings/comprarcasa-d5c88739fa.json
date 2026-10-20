@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 2404,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109486/3da6294d-ed55-4fdb-bab2-23d5774102d3.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Venda conjunta de dois prédios destinados a armazém e indústria, com 2.404 m² de área coberta, inseridos num lote total de 5.845 m², situados em Redondo.\n\nLocalizados numa zona com bons acessos, estes imóveis constituem uma excelente solução para quem pretende iniciar, expandir ou relocalizar a sua actividade empresarial ou industrial.\n\nDistribuição por lotes:\n\nLote 1\n\n- Área de terreno: 1.296 m²\n\n- Área coberta: 740 m²\n\nLote 2\n\n- Área de terreno: 4.549 m²\n\n- Área coberta: 1.664 m²\n\nAs amplas áreas cobertas permitem a instalação de unidades industriais, armazéns logísticos, oficinas, centros de distribuição ou outras actividades empresariais. A dimensão do terreno possibilita ainda a circulação de viaturas pesadas, zonas de carga e descarga, estacionamento e eventual ampliação futura.\n\nPontos fortes:\n\n- Excelente relação entre área coberta e área exterior\n\n- Versatilidade de utilização\n\n- Bons acessos rodoviários\n\n- Localização estratégica no Alentejo\n\n- Situado numa região com ligação facilitada a Évora, Estremoz e Reguengos de Monsaraz, o imóvel beneficia de enquadramento empresarial favorável e boa acessibilidade regional.\n\nUma oportunidade sólida para investimento ou instalação empresarial.\n\nContacte-nos para mais informações ou para agendar a sua visita.",
+  "geo": {
+    "lat": 38.647436700000014,
+    "lng": -7.5493129
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109486/3da6294d-ed55-4fdb-bab2-23d5774102d3.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento"
+    ]
+  },
+  "estado": "Não aplicável",
   "area_util_m2": 2404,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 2404,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

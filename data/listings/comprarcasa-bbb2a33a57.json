@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/2032/109277/21669efa-5df9-4ed0-9095-9fa79fc6c989.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Lote (6) com 590m2 para construção de uma moradia T4, área de implantação do lote de 155m2, com uma área bruta de construção de 190m2 (rés do chão, 1ºandar), localizado em A-dos-Negros.\n\nExcelente localização em zona de expansão urbana, a poucos minutos dos acessos da A8, A15, praias do Oeste, excelente comunicação com a natureza.\n\nA apenas 3km da Barragem do Arnóia e a poucos minutos da vila medieval de Óbidos, um dos destinos mais visitados de Portugal, que recebe milhares de visitantes todos os anos.\n\nEste lote é perfeito para uma qualidade de vida mais tranquila, aproveite já esta oportunidade.",
+  "geo": {
+    "lat": 39.350155400000034,
+    "lng": -9.1101399
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,11 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/109277/21669efa-5df9-4ed0-9095-9fa79fc6c989.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,

@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 5,
   "area_m2": 514,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76521&foto=1696546&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76521&foto=1696546&f=1",
+  "description": "Moradia isolada com cinco quartos, com 514 m² de área bruta de construção e 903 m² de área exterior. Localizada no exclusivo condomínio privado Vale da Areia, em Ferragudo, esta moradia destaca-se pelo seu design contemporâneo, elevada qualidade construtiva e integração harmoniosa com a paisagem natural envolvente.\n\nCom uma distribuição cuidada dos espaços, a moradia será entregue totalmente mobilada e equipada, com acabamentos modernos e funcionais. O jardim privativo, os terraços generosos e o estacionamento exclusivo asseguram conforto, privacidade e independência, sendo uma opção ideal para habitação permanente, casa de férias ou investimento numa das zonas com maior potencial de valorização no Algarve.\n\nO Vale da Areia é um empreendimento de pequena escala, situado numa zona elevada de Ferragudo, a poucos minutos das praias e do centro da vila. Composto por moradias de 2 a 5 quartos, todas com vista mar, o condomínio oferece ainda uma piscina comum, amplas zonas verdes e espaços de lazer para uso exclusivo dos residentes.\n\nCom acessos rápidos a Portimão, à marina de Ferragudo, à autoestrada A22, e com proximidade a escolas, comércio local, restaurantes e serviços, este projeto representa uma oportunidade sólida de investimento no mercado residencial do Algarve — seja como residência principal, segunda habitação ou para arrendamento de curta ou longa duração.",
+  "geo": {
+    "lat": 37.1248072431,
+    "lng": -8.5179233551
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,38 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76521&foto=1696546&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76521&foto=1696546&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar"
+    ]
+  },
   "estado": null,
   "area_util_m2": 514,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 514,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

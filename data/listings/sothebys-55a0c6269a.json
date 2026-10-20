@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80422&foto=1625328&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80422&foto=1625328&f=1",
+  "description": "Apartamento T4 situado no centro de Lisboa, inserido no condomínio Rua da Vinha, oferecendo uma solução residencial rara no coração histórico da cidade onde a vivência urbana se alia a conforto, espaço e funcionalidade.\n\nO imóvel destaca-se pela ampla sala com cerca de sessenta metros quadrados, onde a cidade e a Basílica da Estrela surgem como pano de fundo, proporcionando luminosidade e profundidade visual, ideais para momentos em família ou para receber convidados.\n\nCom duzentos e sessenta e três metros quadrados de área bruta privativa, localiza-se no primeiro andar de um edifício de 2008 com elevador e condomínio organizado. Dispõe de quatro quartos, dois dos quais em suite, quatro casas de banho completas e ainda um quarto com casa de banho anexos à cozinha que, entre outras utilizações, poderá servir como quarto de empregada ou de hóspedes.\n\nProjetado pela conceituada e experiente RRJ Arquitectos, o apartamento beneficia de exposição solar nascente, poente e sul, assegurando luz natural ao longo do dia. O condomínio inclui dois lugares de estacionamento, arrecadação e elevador, reforçando a organização e capacidade de arrumação.\n\nEm 2023 foi alvo de remodelação com pintura integral e pavimento afagado com acabamento em brilho. O chão é em madeira de Afizélia (Doussié), nobre e resistente que se destaca pela durabilidade e estabilidade. A cozinha, casas de banho e lavandaria utilizam pedra Lioz, um calcário histórico presente em monumentos como o Mosteiro dos Jerónimos e a Torre de Belém, símbolo da identidade lisboeta.\n\nO apartamento possui dois sistemas de aquecimento central: o original a água e um complementar com sistema de ar condicionado central com controlo individual por divisão.\n\nA localização permite acesso rápido a comércio, serviços e transportes. Supermercados e restauração encontram-se a cinco minutos, escolas a dez, hospital a quinze e praias a cerca de vinte e cinco minutos. A proximidade ao Jardim do Príncipe Real, museus e casas de fado reforça o carácter cultural da zona.\n\nUma oportunidade para viver num bairro histórico, num apartamento renovado, espaçoso e central, com estacionamento e qualidade construtiva.",
+  "geo": {
+    "lat": 38.7147237705233,
+    "lng": -9.14868138070374
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,45 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80422&foto=1625328&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80422&foto=1625328&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Térmicos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Paredes (Pedra Natural)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 263,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

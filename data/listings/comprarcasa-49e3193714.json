@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 355,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108858/1dcf5c8a-54b4-466a-8f75-bb95553a4c29.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "A “Quinta do Bacelo” encontra-se junto ao Bairro 25 de Abril, em Évora, e corresponde a um terreno com 7,5 ha, situado numa zona privilegiada da cidade. Trata-se de uma propriedade ampla, que alia a tranquilidade de uma área aberta à proximidade imediata de todos os serviços essenciais.\n\nA quinta integra várias construções, destacando-se uma moradia T7 para renovação, desenvolvida num rés-do-chão e 1.º andar. Existe ainda uma área independente, igualmente integrada na mesma construção, atualmente com acesso apenas pelo exterior, composta por cozinha, casa de banho, quarto e lavandaria.\n\nA propriedade inclui também três garagens e anexos de apoio agrícola, que podem ser adaptados futuramente conforme o projeto do comprador. A dimensão do terreno e a existência destas estruturas conferem grande versatilidade ao espaço.\n\nLocalização Estratégica - A poucos minutos do Centro Histórico de Évora, a Quinta do Bacelo beneficia de:\n\n- Proximidade a supermercados, comércio, escolas e serviços;\n\n- Fácil acesso a transportes públicos;\n\n- Distância reduzida ao Hospital do Espírito Santo, Universidade de Évora e principais acessos rodoviários;\n\n- Zona tranquila, aberta, com excelente exposição solar;\n\n- Ambiente reservado, ideal para quem procura privacidade sem abdicar das comodidades da cidade.\n\nUma propriedade singular pela sua dimensão, localização, numa das zonas mais procuradas do Alentejo.\n\nContacte-nos para agendar a sua visita!",
+  "geo": {
+    "lat": 38.5737397384553,
+    "lng": -7.886873530383287
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,17 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108858/1dcf5c8a-54b4-466a-8f75-bb95553a4c29.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Vistas: Campo",
+      "Árvores"
+    ]
+  },
+  "estado": "Por recuperar",
   "area_util_m2": 355,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 355,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 175,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81347&foto=1672485&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81347&foto=1672485&f=1",
+  "description": "Moradia de quatro suítes, situada numa posição elevada em Rua da Gralheira, Cerro da Águia, com vista mar permanente, piscina aquecida e um rooftop de mais de 100 m². Uma propriedade pensada para desfrutar do exterior, com baixa necessidade de manutenção e uma configuração particularmente adequada a uma segunda habitação ou residência permanente.\n\nCom aproximadamente 201 m² de área útil e 251 m² de área bruta, a moradia distribui-se por dois pisos, com duas suítes no piso térreo e duas no primeiro andar. A área social em open space, com cerca de 64 m², integra sala e cozinha num espaço amplo e luminoso.\n\nNo piso superior, as duas suítes têm acesso a uma varanda contínua e, a partir desta, ao rooftop panorâmico. É aqui que a posição elevada da propriedade ganha maior expressão, com vistas abertas sobre o oceano e a Marina de Albufeira. Sem possibilidade de construção em frente à propriedade, a vista encontra-se protegida a longo prazo. A exposição da casa proporciona ainda uma agradável brisa, enquanto a piscina de 8 × 4 metros beneficia de sol até ao final da tarde.\n\nNo exterior, a piscina aquecida, o barbecue, a zona de lounge e o jardim de inverno voltado para a parte posterior da propriedade criam diferentes espaços para estar e receber. Os jardins de baixa manutenção tornam a casa particularmente prática para quem procura uma propriedade de utilização simples durante todo o ano.\n\nO interior combina conforto com carácter, incluindo peças de arte cuidadosamente integradas, equipamentos modernos e sistema de som surround embutido.\n\nRua da Gralheira ocupa uma posição singular na encosta de Cerro da Águia, acima da Marina de Albufeira, permitindo usufruir da proximidade do mar, da marina e das praias sem estar inserida no ambiente mais denso da frente marítima. Uma localização residencial consolidada, onde a vista, a privacidade e a facilidade de utilização assumem um papel central.\n\nUma moradia sólida e fácil de manter, concebida para quem procura uma casa de férias de elevado padrão, uma residência permanente ou um investimento com potencial de rentabilidade.",
+  "geo": {
+    "lat": 37.0884586,
+    "lng": -8.275016
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81347&foto=1672485&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81347&foto=1672485&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 175,
-  "area_bruta_m2": null,
+  "area_util_m2": 125,
+  "area_bruta_m2": 175,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

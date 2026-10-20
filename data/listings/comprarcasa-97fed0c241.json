@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 96,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108623/5ae5c370-0c9e-4d07-a565-4ef4b736b372.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra esta quinta de 11.625 m² com Moradia T3 e anexos, ideal para quem procura espaço, tranquilidade e oportunidades de construção para concretizar o seu projeto de sonho. Situado numa localização serena, nos Canaviais, este terreno oferece uma combinação perfeita entre natureza e conforto familiar. O valor é negociável.\n\nPRINCIPAIS CARACTERÍSTICAS:\n\n- Moradia: distribuída por um único piso, composto por dois quartos, uma sala, cozinha, sala de refeições (ou outro tipo de. divisão) e uma casa de banho.\n\n- Anexo adicional: Versátil, podendo ser utilizado como espaço de arrumos ou transformado em função das suas necessidades.\n\n- Recursos naturais: 2 poços e um tanque, perfeitos para projetos agrícolas ou paisagísticos.\n\nPOTENCIAL DE CONSTRUÇÃO: \n\nEste terreno permite a construção/ampliação de uma moradia até 500 m², proporcionando a liberdade de desenhar uma casa à medida das necessidades da sua família, com amplos espaços interiores e exteriores para lazer e convívio.\n\nLOCALIZAÇÃO PRIVILEGIADA: \n\nOs Canaviais é um bairro conhecido pela sua tranquilidade e qualidade de vida, repleto de tradição e património religioso, com escolas, farmácia e comércio local a uma curta distância. \n\nSe procura um lugar para criar raízes e oferecer à sua família uma qualidade de vida excecional, este terreno é a escolha ideal. Aproveite o espaço, o contacto com a natureza e a liberdade de construir o futuro que sempre imaginou. Agende já a sua visita!",
+  "geo": {
+    "lat": 38.611808800000006,
+    "lng": -7.9034855
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,19 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108623/5ae5c370-0c9e-4d07-a565-4ef4b736b372.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: E",
+      "Acessos: Transportes públicos",
+      "Serviços: Supermercados, Farmácia, Escolas, Infantário, Lar de terceira idade",
+      "Zona envolvente: Residencial",
+      "Vistas: Campo, Areas verdes",
+      "Árvores"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 96,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 96,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

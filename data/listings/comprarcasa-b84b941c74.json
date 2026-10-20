@@ -9,8 +9,11 @@
   "bathrooms": 7,
   "area_m2": 1059,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108618/ba562f0a-841f-4de8-ad56-07ff1cbcd246.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Majestosa Quinta no \"Cerro de Santo António\", em Moura\n\nNo coração de Moura, esta propriedade excecional com 9375m² de terreno é a combinação perfeita de conforto, elegância e funcionalidades completas, ideal para desfrutar do estilo de vida alentejano.\n\nDUAS MORADIAS DISTINTAS\n\nMORADIA PRINCIPAL\n\nCom tetos abobadados em tijolo de burro, esta casa de dois pisos destaca-se pela sua arquitetura tradicional e espaços amplos.\n\n- Rés do chão: Hall acolhedor, sala ampla com duas lareiras, uma suíte com vista para a piscina, cozinha luminosa com despensa, duas divisões versáteis (escritórios) e WC social.\n\n- 1.º andar: 6 quartos com charme único (1 suíte) e 2 WCs adicionais, garantindo conforto para toda a família.\n\nSEGUNDA HABITAÇÃO\n\nFuncional e confortável, oferece:\n\n- 3 quartos (1 suíte), sala com lareira, cozinha equipada, WC e uma divisão extra para escritório.\n\n- Anexo com sala, cozinha e WC, perfeito para convívios.\n\nESPAÇOS DE LAZER E INFRAESTRUTURAS DE EXCELÊNCIA\n\n- Piscina privativa rodeada por uma área de refeições ao ar livre, ideal para momentos de descontração.\n\n- Instalações equestres: picadeiro, 11 boxes, palheiro, casa de rações e área de lavagens, construídos com os mais altos padrões de qualidade.\n\nAMBIENTE RURAL COM TODO O CONFORTO MODERNO\n\n- Horta com oliveiras e laranjeiras, regada por tanques de água da rede pública e furo.\n\n- Espaços de arrumos e infraestruturas eficientes, incluindo fossa séptica.\n\nSituada numa localização privilegiada, perto do Castelo de Moura e do Alqueva, esta quinta oferece tranquilidade e fácil acesso a uma região rica em gastronomia e história.\n\nAGENDE A SUA VISITA\n\nDescubra este refúgio único e aproveite o melhor do Alentejo!",
+  "geo": {
+    "lat": 38.14463065281987,
+    "lng": -7.4410221604478695
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,28 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108618/ba562f0a-841f-4de8-ad56-07ff1cbcd246.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 1059,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: E",
+      "Vistas: Campo",
+      "Árvores",
+      "Muro",
+      "Logradouro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Piscina"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Lareira",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 657,
+  "area_bruta_m2": 1059,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 4,
   "area_m2": 5,
   "image": "https://cdn.proppy.app/propertyfiles/1526/108769/89dfd500-d9b1-4d23-8c14-4d3f80b3e7fd.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "🏡 Moradia T4 + Anexo T1 | São Vicente Ferreira – Ponta Delgada\n\nOportunidade Única! Tranquilidade, Espaço e Qualidade de Vida\n\nApresentamos esta extraordinária moradia localizada na tranquila freguesia de São Vicente Ferreira, no concelho de Ponta Delgada, ideal para quem procura conforto, privacidade e um amplo espaço exterior.\n\n🌿 Terreno com 7.060 m² – perfeito para quem valoriza natureza, horticultura, animais ou projetos de expansão.\n\nCaraterísticas Principais da Moradia:\n\n4 Quartos, incluindo 1 suíte\n\n4 Wc's para maior comodidade \n\nZonas sociais amplas, luminosas e perfeitas para receber familiares e amigos\n\nCozinha funcional com excelente ligação aos espaços de convívio\n\nGaragem e estacionamento no interior da propriedade\n\n3 entradas independentes, garantindo versatilidade e privacidade\n\nJardim cuidado e espaços verdes generosos\n\nBom estado de conservação\n\nAnexo T1 totalmente independente — ideal para rentabilizar, alojar visitas ou criar um espaço de trabalho/estúdio\n\nPotencial para projeto turístico, agrícola ou residencial\n\nEsta propriedade oferece o equilíbrio perfeito entre tranquilidade rural e a proximidade às comodidades da cidade de Ponta Delgada.\n\nAgende já a sua Visita !",
+  "geo": {
+    "lat": 37.813549600000044,
+    "lng": -25.670561400000004
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,42 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/108769/89dfd500-d9b1-4d23-8c14-4d3f80b3e7fd.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Armários embutidos",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Garagem",
+      "Nº carros: 2",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Farmácia, Escolas",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Serra, Areas verdes",
+      "Árvores",
+      "Muro",
+      "Logradouro",
+      "Recuado",
+      "Quintal",
+      "Licença de Utilização: 123/96"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 30,54",
+      "Área do(s) Quarto(s): 14,79",
+      "Área da Cozinha: 56,66",
+      "Cozinha: Exaustor, Placa e forno, Esquentador",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio, Caixilharia dupla",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 195,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

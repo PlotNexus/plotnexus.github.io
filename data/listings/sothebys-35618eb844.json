@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 432,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75181&foto=1570609&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75181&foto=1570609&f=1",
+  "description": "Descubra o Seu Refúgio dos Sonhos na Avenida Marechal Gomes da Costa!\n\nApresentamos uma oportunidade única de adquirir uma deslumbrante moradia de luxo, situada na icônica Avenida Marechal Gomes da Costa. Esta propriedade exclusiva combina elegância, conforto e sofisticação, oferecendo um estilo de vida incomparável.\n\nApresentamos uma moradia de luxo que redefine o conceito de conforto e sofisticação. Com uma localização privilegiada, esta propriedade é perfeita para quem busca um lar que une elegância e funcionalidade.\n\nEsta moradia distribui-se por 4 pisos. Na cave encontramos um escritório, uma sala e uma casa de banho completa. No piso 0 temos a entrada principal com distribuição para a sala de estar e jantar com cerca de 50 m2, uma cozinha ampla e casa de banho de serviço. No 1 piso encontramos 3 suites em que duas delas tem um closet. No 2 piso temos um aproveitamento do sótão, onde encontramos um quarto com casa de banho completa e um espaço dedicado a arrumos ou biblioteca.\nNo espaço exterior temos um jardim com piscina, barbecue e uma box para 2 carros. \n\nPrincipais Características:\n\n- Aquecimento Central: Desfrute de um ambiente acolhedor durante todo o ano com a caldeira de condensação a gás, garantindo eficiência e conforto.\n\n- Ar Condicionado: Salas e quartos equipados com ar condicionado, proporcionando um clima agradável em todas as estações.\n\n- Ventilação Mecânica Central: Sistema que assegura a circulação de ar fresco e saudável em toda a casa.\n\n- Pavimentos em Madeira Maciça (Afizélia): Acabamentos de alta qualidade que trazem um toque de elegância e calor aos ambientes.\n\n- Piscina Exterior: Um espaço perfeito para relaxar e se divertir, ideal para dias ensolarados e momentos de lazer com a família e amigos.\n\n- Painéis Fotovoltaicos (1000W): Sustentabilidade em primeiro lugar! Reduza seus custos com energia e contribua para um futuro mais verde.\n\n- Garagem para 2 Carros + 2 Carros (Ext.): Ampla garagem que oferece comodidade e segurança para seus veículos.\n\n- Carregador para Carros Elétricos: Prepare-se para o futuro com um carregador dedicado para veículos elétricos.\n\n- Sistema de Som Ambiente: Aproveite a música em todos os ambientes da casa, criando a atmosfera perfeita para qualquer ocasião.\n\n- Sistema de Fecho Individual e Central das Persianas: Controle total da luz natural e privacidade em todos os cômodos.\n\n- Alarme: Segurança em primeiro lugar, com um sistema de alarme que proporciona tranquilidade para você e sua família",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,62 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75181&foto=1570609&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75181&foto=1570609&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 4; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Depósito Lixo",
+      "Escritório",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Música Ambiente (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 39; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Escolas, Farmácia, Jardins, Jardins Infância, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 432,
-  "area_bruta_m2": null,
+  "area_util_m2": 400,
+  "area_bruta_m2": 432,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

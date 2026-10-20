@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 161,
   "image": "https://cdn.proppy.app/propertyfiles/5361/109328/416020ef-e05d-4a3b-ada0-4aa561e937db.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Prédio composto por duas frações de utilização independente, localizado na zona mais nobre do centro da vila de Alter do Chão, na avenida principal.\n\nNo rés-do-chão encontra-se uma fração destinada a comércio, com 80,5 m² de área bruta privativa, anteriormente utilizada como café/snack-bar, oferecendo excelente visibilidade e potencial para diversos tipos de negócio.\n\nNo primeiro piso situa-se a fração de habitação T2, composta por cozinha, sala, casa de banho e dois quartos. O imóvel dispõe ainda de uma divisão adicional nas águas furtadas e terraço, permitindo a possibilidade de adaptação para duplex, maximizando o aproveitamento dos espaços.\n\nUma excelente oportunidade tanto para investimento como para quem procura encontrar a sua habitação e projetar a sua atividade comercial numa localização central e privilegiada.\n\nConvidamo-lo a visitar este imóvel, e falar com a nossa equipa especializada.\n\n📱 \n\n✉️ \n\nComprarCasa Alto Alentejo\n\n❤️ De Pessoas para Pessoas",
+  "geo": {
+    "lat": 39.198366899999996,
+    "lng": -7.6577483
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,20 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5361/109328/416020ef-e05d-4a3b-ada0-4aa561e937db.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Ano construção: Anterior a 1951",
+      "Duplex",
+      "Certificação energética: E",
+      "Terraço",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Nº fogos habitação: 1",
+      "Nº fogos comércio: 1"
+    ]
+  },
+  "estado": "Não aplicável",
   "area_util_m2": 161,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 161,
+  "ano_construcao": 1951,
+  "certificacao_energetica": "E"
 }

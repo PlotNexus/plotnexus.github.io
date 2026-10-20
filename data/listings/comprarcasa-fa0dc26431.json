@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 86,
   "image": "https://cdn.proppy.app/propertyfiles/1505/109128/4fca3c0c-a6b5-4a1a-8774-5573b562535a.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Excelente oportunidade de investimento ou habitação própria em São Mateus, na prestigiada zona do Terreiro.\n\nO imóvel é composto por um café no rés do chão, totalmente funcional e pronto a ser utilizado, ideal para quem procura um negócio já instalado numa zona de passagem.\n\nNo piso superior encontra-se um apartamento T1, igualmente pronto a habitar, com boa luminosidade natural e uma vista mar deslumbrante. O apartamento dispõe ainda de um quintal amplo, perfeito para momentos de lazer, convívio ou até para criar uma zona verde.\n\nUma propriedade versátil, que combina rendimento comercial com conforto habitacional, localizada numa área tranquila e valorizada.\n\nPronto a usar, sem necessidade de obras.",
+  "geo": {
+    "lat": 38.65568546949726,
+    "lng": -27.271838664484672
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,34 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/109128/4fca3c0c-a6b5-4a1a-8774-5573b562535a.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 86,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Vista: Vista mar",
+      "Orientação solar: Sul",
+      "Varanda",
+      "Ano construção: 2004",
+      "Armários embutidos",
+      "Certificação energética: Em curso",
+      "Varanda: SIM",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Periferia, Beira-mar",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar",
+      "Devoluto",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Sul"
+    ],
+    "Interior": [
+      "Caixilharia: Alumínio"
+    ]
+  },
+  "estado": "Não aplicável",
+  "area_util_m2": 70,
+  "area_bruta_m2": 86,
+  "ano_construcao": 2004,
+  "certificacao_energetica": "E"
 }

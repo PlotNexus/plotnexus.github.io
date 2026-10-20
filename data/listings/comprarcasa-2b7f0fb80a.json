@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 4000,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109178/0a401573-08c7-451e-9641-17566d1f8e6c.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Situado no Baldio do Peral, na freguesia de Capelins, concelho de Alandroal, distrito de Évora, encontra-se este terreno com 5,4 hectares, que reúne excelentes condições para diferentes tipos de projeto.\n\nTrata-se de um terreno com viabilidade de construção, permitindo uma área máxima de construção até 500 m², o que abre portas à edificação de habitação própria, ao desenvolvimento de um projeto de turismo em espaço rural ou à exploração agrícola, beneficiando da tranquilidade e autenticidade da região alentejana.\n\nA sua localização oferece um equilíbrio ideal entre privacidade e acessibilidade, inserido numa zona rural calma, com paisagem natural envolvente, e ao mesmo tempo a curta distância de localidades com serviços essenciais. O concelho de Alandroal é reconhecido pela sua qualidade de vida, natureza preservada e crescente procura para projetos turísticos e residenciais de baixa densidade.\n\nEste terreno destaca-se pela sua dimensão generosa, versatilidade de usos e potencial de valorização, sendo uma excelente oportunidade para quem procura investir ou desenvolver um projeto à medida no coração do Alentejo.\n\nContacte-nos para mais informações ou para agendar a sua visita.",
+  "geo": {
+    "lat": 38.56834705178459,
+    "lng": -7.373616869314888
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,10 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109178/0a401573-08c7-451e-9641-17566d1f8e6c.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 4000,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 4000,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

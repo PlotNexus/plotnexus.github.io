@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 54,
   "image": "https://cdn.proppy.app/propertyfiles/1505/108899/ddb2deee-342e-4b12-8121-58bfae0ae91a.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia independente situada em São Bento, numa das zonas mais centrais e práticas de Angra do Heroísmo.\n\n Localizada em frente à igreja de São Bento, ao lado do Ciclo, junto à farmácia e a escassos minutos do supermercado Continente, esta propriedade destaca-se pela conveniência e pela proximidade a todos os serviços essenciais.\n\nCom uma área de 54 m², a casa conta com telhado recentemente substituído e encontra-se habitável, embora necessitando de uma reorganização interior devido à sua configuração antiga. \n\nO imóvel oferece excelente potencial de valorização: através de uma remodelação geral e novas divisões, é possível transformar o espaço num moderno e funcional T3, ideal para quem procura conforto num ambiente compacto e eficiente no centro da cidade de Angra.\n\nA moradia dispõe ainda de um pequeno terraço, perfeito para lazer diário.\n\nPara investidores ou para quem pretende um projeto de maior dimensão, existe a possibilidade de ampliação vertical, permitindo o crescimento da área habitacional e a criação de uma casa de maiores dimensões.\n\nUma oportunidade estratégica para habitação própria ou investimento, numa zona onde a procura é elevada e a oferta é reduzida.",
+  "geo": {
+    "lat": 38.66063026353575,
+    "lng": -27.209179238720516
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,29 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/108899/ddb2deee-342e-4b12-8121-58bfae0ae91a.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 54,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Orientação solar: Sul",
+      "Ano construção: 1937",
+      "Terraço topo",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Terraço",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Vistas: Prédios, Cidade",
+      "Licença de Utilização: ISENTO"
+    ],
+    "Exterior": [
+      "Orientação Solar: Sul"
+    ]
+  },
+  "estado": "Não aplicável",
+  "area_util_m2": 43,
+  "area_bruta_m2": 54,
+  "ano_construcao": 1937,
   "certificacao_energetica": null
 }

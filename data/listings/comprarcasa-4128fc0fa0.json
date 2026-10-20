@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 109,
   "image": "https://cdn.proppy.app/propertyfiles/5115/109349/b71606f4-b915-4abd-8d5d-29b74408a661.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra este magnífico apartamento renovado, localizado no coração da cidade de Viana do Castelo. Com três quartos, com roupeiros embutidos, duas casas de banho e uma área total de 109 metros quadrados, esta propriedade é perfeita para quem procura um lar acolhedor e contemporâneo.\n\nA cozinha equipada com eletrodomésticos Bosch, proporciona a praticidade necessária para o dia a dia, enquanto a sala de estar luminosa e arejada oferece uma vista deslumbrante da cidade. O apartamento possui ainda varandas, ideais para desfrutar do ar puro e das vistas deslumbrantes para o santuário de Santa Luzia.\n\nLocalização central, esta propriedade combina conforto, praticidade e beleza. Não perca a oportunidade de adquirir este apartamento no centro de Castelo. \n\nA remodelação proporcionou ao imóvel materiais modernos, iluminação eficiente e um ambiente acolhedor, pronto a habitar.\n\nEntre em contato para agendar uma visita e conhecer este fantástico apartamento.\n\n#apartamentoT3emvianadocastelo\n\n#apartamentoT3\n\n#apartamentocentrodacidade\n\n#apartamentozonahistórica",
+  "geo": {
+    "lat": 41.696368542458856,
+    "lng": -8.83629790151046
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,39 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/109349/b71606f4-b915-4abd-8d5d-29b74408a661.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 109,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha, Vista cidade",
+      "Despensa",
+      "Varanda",
+      "Armários embutidos",
+      "Localização central",
+      "Certificação energética: D",
+      "Varanda: sim",
+      "Acessos: Transportes públicos, Comboio",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Turística",
+      "Gás canalizado",
+      "Vistas: Serra, Jardim, Areas verdes, Prédios, Cidade",
+      "Árvores",
+      "Capoto",
+      "Parque infantil"
+    ],
+    "Exterior": [
+      "Piso: Último",
+      "Jardim"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada",
+      "Cozinha: Exaustor, Máquina lavar louça, Placa e forno, Esquentador, Despensa, Móveis",
+      "Caixilharia: Vidros duplos, Lacada"
+    ]
+  },
+  "estado": "Renovado",
+  "area_util_m2": 9,
+  "area_bruta_m2": 109,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 75,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74364&foto=1680850&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74364&foto=1680850&f=1",
+  "description": "Moradia T4 totalmente remodelada, situada na Quinta da Penha Longa, com jardim e piscina.\nDistribuída por dois pisos, esta moradia apresenta no piso principal um hall de entrada, uma ampla sala de estar com lareira, cozinha em open space com ligação à sala de jantar, uma segunda sala de estar com acesso à antiga garagem, atualmente convertida em escritório, uma suite, lavabo social e zona de lavandaria.\nNo piso superior encontram-se três quartos, um deles em suite com walk-in closet, e uma casa de banho de apoio aos outros dois quartos. A partir deste piso existe ainda acesso direto ao sótão, atualmente utilizado como sala de televisão e de jogos.\nA moradia está equipada com aquecimento central, pavimento radiante e aspiração central.\nNo exterior dispõe de um agradável jardim e piscina, com excelente exposição solar e total privacidade.\nInserida na prestigiada Quinta da Penha Longa, esta propriedade beneficia de um dos empreendimentos residenciais mais exclusivos da região. O resort integra dois campos de golfe de referência internacional, desenhados por Robert Trent Jones Jr., regularmente classificados entre os melhores de Portugal e palco de competições de prestígio.\nA poucos minutos da moradia encontra-se ainda o Penha Longa Resort, um hotel de 5 estrelas pertencente à coleção Ritz-Carlton, reconhecido pelo seu elevado padrão de serviço, spa, centro de bem-estar, restaurantes de excelência e diversas infraestruturas de lazer e desporto. O condomínio dispõe ainda de campos de ténis, portaria e segurança 24 horas, proporcionando um estilo de vida tranquilo, exclusivo e em plena harmonia com a natureza.\nNuma localização privilegiada, entre a Serra de Sintra e o litoral, a Quinta da Penha Longa encontra-se a poucos minutos de Cascais, Estoril e Sintra, e a cerca de 25 km de Lisboa, com excelentes acessos às principais vias.",
+  "geo": {
+    "lat": 38.7488546,
+    "lng": -9.4063919
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74364&foto=1680850&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74364&foto=1680850&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 75,
-  "area_bruta_m2": null,
+  "area_util_m2": 6,
+  "area_bruta_m2": 75,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

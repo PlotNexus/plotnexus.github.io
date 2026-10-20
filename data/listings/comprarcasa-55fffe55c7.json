@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 4,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108628/4cb9b2da-1257-4690-8d07-495758325c8b.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos-lhe esta quinta com um enorme potencial, sito na Quinta de Vale David, junto à EN18/IP2, a apenas 2 km de Évora e a 5 km do acesso à A6. Uma oportunidade rara para quem procura viver no campo, perto da cidade, ou investir numa propriedade com características únicas.\n\nCaracterísticas da Propriedade:\n\n- Moradia com 155,40 m², composta por:\n\n Três quartos\n\n Sala de estar\n\n Cozinha\n\n Casa de banho\n\n Sótão ao longo de toda a casa, com acesso pelo exterior\n\n Anexo utilizado como garagem, com capacidade para quatro carros\n\n Abastecimento de água garantido por dois poços e um furo\n\n Eletricidade ligada à rede pública\n\n Fossa séptica instalada\n\n Possibilidade de ampliação da área de construção até 500 m², proporcionando flexibilidade para criar a casa ou o projeto que desejar\n\nExploração Agrícola:\n\n- Cerca de 150 oliveiras, 90% delas centenárias\n\n- Produção anual média de aproximadamente 3.000 kg de azeitonas\n\n- Diversas árvores de fruto, incluindo laranjeiras, limoeiro, nogueira e diospireiro\n\nBenefícios da Localização:\n\n- Excelente acesso rodoviário\n\n- Apenas 2 minutos de carro do centro de Évora\n\n- Próxima de todo o tipo de serviços, comércio, escolas e infraestruturas\n\nEsta é uma excelente oportunidade para quem valoriza o contacto com a natureza, sem abdicar da proximidade da cidade.\n\nAgende já a sua visita e descubra todo o potencial desta propriedade!",
+  "geo": {
+    "lat": 38.59612529999998,
+    "lng": -7.876214900000001
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108628/4cb9b2da-1257-4690-8d07-495758325c8b.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: E"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 4,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 4,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

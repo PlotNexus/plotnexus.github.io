@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 7,
   "area_m2": 765,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80939&foto=1638373&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80939&foto=1638373&f=1",
+  "description": "Moradia de charme no coração de Vilamoura, onde o estilo tradicional se combina com uma localização verdadeiramente privilegiada.\n\nCom seis quartos, esta propriedade oferece áreas amplas e bem distribuídas, ideais para residência permanente, casa de férias ou investimento com elevado potencial.\n\nO grande destaque é, sem dúvida, a vista fabulosa sobre o campo de golfe, um cenário verde, aberto e tranquilo que proporciona uma sensação única de privacidade e ligação à natureza, rara numa zona tão central.\n\nA arquitetura tradicional confere caráter e autenticidade, refletindo o verdadeiro estilo algarvio, enquanto os espaços exteriores convidam a momentos de lazer e convívio, seja junto à piscina, em refeições ao ar livre ou simplesmente a desfrutar da envolvente.\n\nA poucos minutos da marina, das praias e de todas as comodidades de Vilamoura, esta é uma oportunidade rara de adquirir uma propriedade com identidade, localização e vistas verdadeiramente diferenciadoras.",
+  "geo": {
+    "lat": 37.0695602517,
+    "lng": -8.1025028228
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80939&foto=1638373&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80939&foto=1638373&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 765,
-  "area_bruta_m2": null,
+  "area_util_m2": 365,
+  "area_bruta_m2": 765,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

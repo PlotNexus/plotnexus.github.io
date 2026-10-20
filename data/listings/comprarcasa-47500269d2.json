@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 188,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108621/577fbf09-06bb-4006-8e6e-b2c96e12f213.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Prédio com Potencial Único no Coração de Évora, composto por 2 apartamentos – Junto à Praça do Giraldo\n\nDescubra este prédio único na Rua da República nº 16, localizado junto à icónica Praça do Giraldo, no coração do Centro Histórico de Évora, uma das zonas mais emblemáticas e procuradas da cidade.\n\nCARACTERÍSTICAS DO IMÓVEL\n\n- Prédio único composto por dois apartamentos independentes, cada um com entrada própria, garantindo total privacidade;\n\n- Dois apartamentos T1 com áreas generosas e design funcional;\n\n- Cozinhas modernas e totalmente equipadas, concebidas para máxima funcionalidade e conforto;\n\n- Espaços amplos e luminosos, com um ambiente acolhedor e versátil;\n\n- A possibilidade de rentabilizar as duas frações no mercado de arrendamento de curta ou longa duração;\n\n- Recente renovação, que combina acabamentos modernos com a preservação de detalhes arquitetónicos únicos.\n\nPOTENCIAL DE RENTABILIZAÇÃO E VERSATILIDADE\n\nCom duas frações completamente independentes e o processo de licenciamento em fase final (a concluir dentro de um mês), este imóvel é uma excelente escolha tanto para habitação própria como para quem procura rentabilidade garantida no mercado de arrendamento, seja turístico ou permanente.\n\nLOCALIZAÇÃO PREMIUM\n\nSituado no coração do Centro Histórico de Évora, este prédio está rodeado por comércio tradicional, serviços, restaurantes e o património cultural da cidade. Viver aqui é sentir a história e o charme de Évora à porta de casa, com a Praça do Giraldo e todos os seus encantos a poucos passos de distância.\n\nNOTA: Apesar de estar dividido em dois apartamentos independentes, será feita uma única escritura, pois o imóvel encontra-se registado como um único prédio na documentação.\n\nSe procura um imóvel que combina localização privilegiada, design funcional e um potencial de investimento excecional, este é o seu próximo projeto.\n\nContacte-nos já para agendar a sua visita e descubra tudo o que este prédio único tem para oferecer!",
+  "geo": {
+    "lat": 38.5702383,
+    "lng": -7.908680599999999
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,22 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108621/577fbf09-06bb-4006-8e6e-b2c96e12f213.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: C",
+      "Acessos: Transportes públicos",
+      "Serviços: Bancos, Correios, Farmácia, Escolas, Universidade, Policia",
+      "Zona envolvente: Turística"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 188,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 188,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

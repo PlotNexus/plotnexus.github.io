@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83542&foto=1711745&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83542&foto=1711745&f=1",
+  "description": "Apartamento T4+ no Saldanha | 310 m² | 5.º andar | Prémio Valmor\n\nNo coração do Saldanha, no 5.º andar de um edifício distinguido com o Prémio Valmor, encontra-se este extraordinário apartamento T4+ com 310 m² de área bruta privativa.\n\nCom excelente exposição solar, destaca-se pela amplitude dos espaços, pela varanda e pelo terraço com vistas panorâmicas sobre a cidade de Lisboa. A generosa sala comum, equipada com ar condicionado e lareira funcional, cria um ambiente luminoso, confortável e acolhedor em qualquer estação do ano.\n\nA área privada inclui quatro quartos, dois dos quais em suíte, e quatro casas de banho, numa distribuição funcional e adequada à vida familiar. O imóvel dispõe ainda de arrecadação e de um lugar de estacionamento num edifício muito próximo.\n\nEm bom estado de conservação, insere-se numa das zonas mais centrais e procuradas de Lisboa, onde a arquitetura clássica convive harmoniosamente com uma vivência urbana contemporânea. A envolvente oferece supermercados junto ao edifício, escolas, comércio, serviços e uma ampla variedade de restaurantes.\n\nA Praça do Saldanha fica a cerca de cinco minutos a pé e o Largo Dona Estefânia a aproximadamente um minuto. A estação de metro do Saldanha encontra-se igualmente a curta distância, assegurando excelentes ligações a toda a cidade e às principais vias rodoviárias.\n\nUma oportunidade singular para viver com espaço, conforto e centralidade numa das localizações mais apetecíveis das Avenidas Novas.",
+  "geo": {
+    "lat": 38.7325588,
+    "lng": -9.1428531
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,42 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83542&foto=1711745&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83542&foto=1711745&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Mármore)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 310,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

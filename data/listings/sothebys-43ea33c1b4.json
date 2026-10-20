@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 6,
   "area_m2": 194,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=53773&foto=1636897&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=53773&foto=1636897&f=1",
+  "description": "Descubra uma oportunidade verdadeiramente rara em Vilamoura: uma magnífica moradia com vista privilegiada sobre o icónico campo de golfe The Old Course, um dos mais prestigiados a nível nacional e internacional.\n\nLocalizada numa rua sem saída de acesso exclusivo, esta propriedade oferece o equilíbrio perfeito entre centralidade, privacidade absoluta, tranquilidade e uma envolvente natural de excelência.\n\nConstruida com atenção ao detalhe, à qualidade e ao conforto, a moradia alia elegância contemporânea a um charme intemporal.\n\nNo exterior, desfrute de um verdadeiro refúgio privado: uma ampla área em calçada portuguesa, uma piscina convidativa e um jardim paisagístico exuberante, cuidadosamente mantido. Os vários terraços e zonas de lazer foram concebidos para proporcionar momentos únicos de descanso e convívio, sempre com a envolvente verde como cenário.\n\nAo nível do conforto e eficiência energética, destaca-se o piso em pedra natural com aquecimento radiante, bem como o sistema de aquecimento de águas através de painéis solares — garantindo bem-estar durante todo o ano.\n\nCom um charme pitoresco e uma construção sólida, esta moradia dispõe de 5 quartos, incluindo 2 elegantes suites. O espaçoso salão em dois níveis, com amplas portas de correr, cria uma ligação harmoniosa entre interior e exterior, permitindo a entrada abundante de luz natural e acesso direto à zona da piscina.\n\nPara maior versatilidade e privacidade, a propriedade inclui ainda uma suite independente no piso superior — ideal para hóspedes, alojamento local ou espaço adicional.\n\nUma propriedade única onde luxo, localização privilegiada e exclusividade se unem para proporcionar um estilo de vida verdadeiramente distinto.",
+  "geo": {
+    "lat": 37.0695602517,
+    "lng": -8.1025028228
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,39 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=53773&foto=1636897&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=53773&foto=1636897&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Solar",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 194,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 194,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

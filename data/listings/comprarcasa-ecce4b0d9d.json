@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 148,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108625/ab6241d0-3253-401d-89e7-819874111125.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "A moradia familiar perfeita em Évora: moderna, eficiente e com projeto aprovado com imagens meramente ilustrativas\n\nEsta moradia T3 unifamiliar ainda não está construída; encontra‑se em fase de projeto, e todas as imagens correspondem ao estudo arquitetónico previsto. Será edificada na Rua Joaquim Maria Rocha nº 3, no tranquilo Bairro Frei Aleixo, uma zona residencial prática e de fácil acesso ao centro de Évora, ideal para famílias que procuram qualidade de vida e uma casa moderna desde o primeiro dia.\n\nCom estrutura inovadora em aço leve, o projeto privilegia eficiência energética, conforto térmico e uma organização funcional dos espaços, pensada para o bem‑estar diário.\n\nDISTRIBUIÇÃO E COMODIDADES\n\nRÉS‑DO‑CHÃO\n\n- Hall de entrada acolhedor\n\n- Sala e cozinha em open space, com ligação direta ao quintal\n\n- WC de apoio\n\nPRIMEIRO ANDAR\n\n- Hall de distribuição\n\n- 3 quartos amplos e luminosos\n\n- WC completo, moderno e funcional\n\nNo exterior, o projeto integra um quintal privativo de 70 m², ideal para lazer, convívio ou zona de descanso ao final do dia.\n\nPRINCIPAIS CARACTERÍSTICAS\n\n- Moradia nova, a construir\n\n- Imagens correspondem exclusivamente ao projeto\n\n- Excelente luminosidade natural\n\n- Elevada eficiência energética\n\n- Garagem privativa\n\n- Localização prática, perto de escolas, comércio e serviços\n\nUMA OPORTUNIDADE SEGURA\n\nSem incertezas de obra: o projeto está definido e pronto a avançar. Se procura uma casa moderna, funcional e sustentável, esta moradia representa uma oportunidade única para viver Évora com conforto e tranquilidade.",
+  "geo": {
+    "lat": 38.58530609999997,
+    "lng": -7.9004037
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,18 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108625/ab6241d0-3253-401d-89e7-819874111125.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: A",
+      "Garagem",
+      "Acessos: Transportes públicos",
+      "Serviços: Supermercados, Bancos, Farmácia",
+      "Zona envolvente: Residencial"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 148,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 148,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

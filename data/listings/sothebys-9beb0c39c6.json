@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 280,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80301&foto=1622963&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80301&foto=1622963&f=1",
+  "description": "Elegante moradia contemporânea V3+1 situada em Campolide, uma das zonas mais centrais e tranquilas de Lisboa. Esta residência oferece 244m² de área bruta privativa e harmoniza a privacidade de um refúgio verde com a conveniência de viver no centro da cidade.\n\nTotalmente renovada em 2019 sob a assinatura de um arquitecto premiado, esta propriedade reflecte uma simbiose perfeita entre a traça original e uma estética contemporânea funcional. Luz natural atravessa todas as divisões, realçando os materiais nobres e os acabamentos de excelência.\n\nGenerosos espaços exteriores, incluindo um jardim e um terraço, funcionam como uma extensão natural das áreas sociais interiores. Aqui, desfruta-se de uma vista panorâmica e desafogada sobre o icónico pulmão verde de Lisboa, o Parque Florestal de Monsanto, proporcionando um cenário idílico para momentos de lazer e convívio. Existe ainda a possibilidade de instalar uma piscina no jardim.\n\nO piso térreo é composto por uma generosa sala multifuncional com abertura para o jardim, uma casa de banho social, uma lavandaria, uma quarto de arrumos e uma garagem para duas viaturas. O primeiro andar é composto por uma ampla sala de jantar com acesso directo ao terraço (equipado com toldo eléctrico), uma cozinha gourmet com acesso directo ao exterior, um escritório e uma casa de banho completa. O segundo piso é composto pela área mais íntima: uma suite principal com walk-in closet, e dois luminosos quartos que partilham uma casa de banho completa. Estes dois quartos poderiam ser unidos para criar outra suite. O sótão da casa está optimizado para arrumação.\n\nA propriedade oferece acabamentos, equipamentos e detalhes de design de alta gama incluindo soalho em madeira maciça de Riga, piso radiante em toda a casa, climatização Mitsubishi, lareiras com recuperador de calor, eficiência energética elevadíssima. A cozinha é assinada pela prestigiada marca italiana Binova e tem equipamentos SMEG, e os roupeiros e closets ostentam o design da prestigiada marca italiana Kico.\n\nEsta residência desfruta de uma localização privilegiada. A escassos minutos a pé do prestigiado Lycée Français Charles Lepierre, Amoreiras Shopping Center, Parque Eduardo VII e El Corte Inglés. Com excelentes acessos aos principais eixos rodoviários e todo o tipo de comércio e serviços.\n\nUma oportunidade única e excepcional para quem exige a máxima qualidade de vida em Lisboa.",
+  "geo": {
+    "lat": 38.7264381,
+    "lng": -9.1686092
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,22 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80301&foto=1622963&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80301&foto=1622963&f=1"
   ],
-  "features": null,
+  "features": {
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 280,
-  "area_bruta_m2": null,
+  "area_util_m2": 244,
+  "area_bruta_m2": 280,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

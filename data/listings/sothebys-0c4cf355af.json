@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=54636&foto=1546055&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=54636&foto=1546055&f=1",
+  "description": "Deslumbrante moradia de design contemporâneo localizada numa zona residencial muito tranquila e ao mesmo tempo central de Vilamoura, a apenas escassos minutos à pé da sua Marina, de todas as comodidades, e das atividades de lazer que conferem ao lifestyle desta zona e a sua fama internacional.\nTrata-se de uma construída de acordo com elevados padrões de qualidade, com os melhores materiais, os melhores e mais recentes elementos de tecnologia a nível da segurança, eficiência energética e conforto.\nA propriedade dispõe de divisões amplas e luminosas e conta com três quartos todos eles em suite, e de um escritório.\nO seu agradável jardim maduro possui uma fantástica piscina, assim como de rooftop e de várias zonas de deleite e lazer ideias para desfrutar da doçura de viver que o Algarve proporciona.\nA propriedade conta igualmente com uma ampla cave.\nDesfrute de um estilo de vida único, numa moradia onde o conforto e a privacidade estão acima de qualquer comparação.",
+  "geo": {
+    "lat": 37.0873137435156,
+    "lng": -8.12338571191712
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=54636&foto=1546055&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=54636&foto=1546055&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Gás Canalizado, Jardins, Rega Automática, Som Ambiente)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 206,
+  "area_bruta_m2": 765,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 217,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109237/25ef29ce-4737-4910-b3ed-38adff066e08.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Na Rua da Lagoa, no Torrão, concelho de Alcácer do Sal, encontra-se esta moradia multifuncional com 217 m2 de área coberta, atualmente configurada como moradia T5, com potencial de ampliação, ideal para habitação ou projecto de investimento.\n\nCOMPOSIÇÃO DO IMÓVEL\n\nRÉS DO CHÃO:\n\n- Piso inferior em bruto, já com canalização instalada\n\n- Espaço com potencial para: Criação de uma suíte adicional e um quarto\n\n- Outras áreas de apoio, conforme projeto pretendido\n\n1.º PISO:\n\n- 3 quartos\n\n- 2 suítes\n\n - Cozinha\n\n- Sala de Estar e Jantar\n\nESPAÇOS COMPLEMENTARES\n\n- Garagem\n\n- Cozinha do quintal, típica das casas alentejanas, ideal para convívio e apoio ao espaço exterior\n\n- Espaço exterior, com potencial para lazer, zona de refeições ou jardim\n\n- Terraço, acrescentando uma mais-valia ao imóvel e novas possibilidades de utilização\n\nO imóvel dispõe ainda de dois números de polícia, facilitando um projecto de divisão em propriedade horizontal.\n\nSituada numa zona tranquila e residencial do torrão, esta propriedade beneficia de:\n\n- Proximidade a comércio local, serviços, restauração e escolas;\n\n- Ambiente calmo, com forte identidade alentejana e espírito comunitário;\n\n- Fácil acesso a Alcácer do Sal e às principais vias rodoviárias;\n\n- Relativa proximidade a Lisboa e ao litoral alentejano;\n\n- Zona com crescente procura para projetos de habitação, turismo rural e alojamento de curta ou média duração.\n\nPONTOS FORTES\n\n- Moradia T5, com potencial de ampliação para T7;\n\n- Piso inferior em bruto, permitindo personalização total;\n\n- Garagem, cozinha exterior, espaço exterior e terraço;\n\n- Excelente potencial de valorização e rentabilização;\n\n- Localização tranquila, com identidade alentejana preservada.\n\nUma oportunidade diferenciada para quem procura investir ou viver num imóvel com múltiplas valências, num dos núcleos mais autênticos do Alentejo.\n\nContacte-nos para mais informações ou para agendar a sua visita.",
+  "geo": {
+    "lat": 38.29524464402641,
+    "lng": -8.23020771142785
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109237/25ef29ce-4737-4910-b3ed-38adff066e08.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: F"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 217,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 217,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

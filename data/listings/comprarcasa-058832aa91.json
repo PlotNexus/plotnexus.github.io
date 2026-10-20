@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 187,
   "image": "https://cdn.proppy.app/propertyfiles/1526/109114/ee1fab23-4b16-42bf-a786-ae5315b0507a.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "🏡 Moradia T2+2 com Quintal | Próxima de Ponta Delgada\n\nApresentamos esta moradia T2+2 em Benfeitoria, localizada nos Arrifes a poucos minutos do centro de Ponta Delgada, ideal para quem procura conforto, espaço e tranquilidade, sem abdicar da proximidade à cidade.\n\nO imóvel destaca-se pelas boas áreas interiores, entrada lateral independente e um agradável espaço exterior, composto por quintal e logradouro, perfeito para momentos de lazer, jardim ou zona de convívio.\n\nConta ainda com um anexo, que pode ser utilizado como espaço de apoio, arrumos, escritório ou até adaptado a outras funcionalidades, conforme as necessidades.\n\n✨ Características principais:\n\nTipologia T2+2\n\nEntrada lateral\n\nBoas áreas\n\nAnexo\n\nQuintal e logradouro\n\nZona calma e de fácil acesso\n\nProximidade de Ponta Delgada, serviços e comércio\n\nUma excelente oportunidade tanto para habitação própria como para investimento.\n\n📞 Agende já a sua visita e venha conhecer o potencial deste imóvel!",
+  "geo": {
+    "lat": 37.7693536,
+    "lng": -25.698443099999995
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,37 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/109114/ee1fab23-4b16-42bf-a786-ae5315b0507a.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 187,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Orientação solar: Sul",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Infantário, Centro de saude",
+      "Zona envolvente: Residencial, Comercial",
+      "Vistas: Areas verdes",
+      "Muro",
+      "Logradouro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Sul"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 14,09",
+      "Área do(s) Quarto(s): 17,39",
+      "Área da Cozinha: 16,52",
+      "Cozinha: Esquentador",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 170,
+  "area_bruta_m2": 187,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

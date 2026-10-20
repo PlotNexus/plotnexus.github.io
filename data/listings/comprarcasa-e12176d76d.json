@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 5,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108683/607d4f5e-60b7-4276-963a-bac71b553a26.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Situado no rés-do-chão de um edifício de três pisos, este apartamento T1 encontra-se em pleno centro histórico de Borba, beneficiando de uma localização privilegiada com excelente acesso a comércio local, serviços essenciais, escolas e transportes públicos, o equilíbrio ideal entre o ritmo tranquilo do Alentejo e a conveniência urbana.\n\nO imóvel é composto por duas salas interligadas, perfeitas para criar ambientes distintos de estar e refeições, um quarto, cozinha funcional, dois arrumos e duas casas de banho, oferecendo uma disposição prática e versátil que se adapta tanto a quem procura habitação permanente como a quem pretende investir.\n\nINVESTIR EM BORBA\n\nBorba é uma vila rica em história e tradição, conhecida pelos mármores e pelo seu património cultural, inserida numa região com grande procura turística e crescente valorização imobiliária. A proximidade a Évora (Património Mundial da UNESCO), Vila Viçosa e Estremoz torna esta localização estratégica para quem procura um imóvel no Alentejo Central, com excelentes acessos à A6 e a menos de 2 horas de Lisboa.\n\nO custo de vida acessível, o ambiente seguro e a qualidade de vida típica do Alentejo fazem de Borba um local cada vez mais procurado para residência permanente, investimento em arrendamento ou alojamento local.\n\nUma oportunidade única de investimento no coração de Borba — ideal para viver, arrendar ou valorizar a médio prazo.\n\nContacte-nos para mais informações ou para agendar a sua visita.",
+  "geo": {
+    "lat": 38.8061214667402,
+    "lng": -7.4590144476924065
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108683/607d4f5e-60b7-4276-963a-bac71b553a26.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: E"
+    ]
+  },
+  "estado": "Por recuperar",
   "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

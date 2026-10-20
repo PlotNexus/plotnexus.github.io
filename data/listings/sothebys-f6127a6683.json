@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 5,
   "area_m2": 78,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=47235&foto=1295513&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=47235&foto=1295513&f=1",
+  "description": "Moradia para reconstrução e ampliação, com projeto aprovado para construção de uma moradia unifamiliar. Situada em uma zona tranquila, com vista para o mar e a uma curta distância da Praia da Poça, esta propriedade destaca-se por sua localização conveniente, próxima de todos os acessos ao Estoril, A5 e serviços.\n\nO projeto, elaborado ao detalhe, teve como objectivo preservar o charme e a traça do edificado existente, mantendo a integridade arquitectónica e a identidade visual do conjunto. Com um lote de 852 metros quadrados contempla uma proposta de aumento da área bruta privativa de 300m2 para 379 metros quadrados , resultando numa área bruta de construção total de 445,78 m2.\n\nNo piso térreo, um hall de entrada conduz à espaçosa sala de estar e jantar com 95 metros quadrados, proporcionando acesso direto a um magnífico terraço de 78 m2 com piscina. Neste mesmo piso, encontramos a cozinha e copa com 31 metros quadrados, além de um escritório com acesso a um pátio de 28 metros quadrados, que pode ser utilizado como quarto e apoio de uma casa de banho completa.\n\nSubindo ao primeiro piso, deparamo-nos com três suites e acesso a um amplo terraço de 137 metros quadrados, oferecendo uma vista panorâmica para o mar. No último piso, a master suite ocupa uma área generosa de 46 metros quadrados, apresentando uma casa de banho completa, walk-in closet e duas varandas que proporcionam uma vista deslumbrante para o mar, além de excelente exposição solar. No piso menos um piso temos ainda uma área de lavandaria, arrumos e garrafeira com 63 m2.\nA moradia terá dois acessos a duas garagens , nas extremidades da propriedade.\nUma moradia única na sua resolução e localização a poucos minutos de todo o lifestyle que o Estoril nos oferece, Praias, Casino, Golfe, escolas, estação dos comboios, acessos à A5, e marginal. Uma oportunidade única.\nPARA INVESTIDORES - A CASA ENCONTRA-SE ARRENDADA!",
+  "geo": {
+    "lat": 38.7080669,
+    "lng": -9.1436691
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=47235&foto=1295513&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=47235&foto=1295513&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 78,
-  "area_bruta_m2": null,
+  "area_util_m2": 300,
+  "area_bruta_m2": 78,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

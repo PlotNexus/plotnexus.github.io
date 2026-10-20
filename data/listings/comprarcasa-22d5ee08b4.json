@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/2032/108685/2faa03b8-0b88-4600-b670-c05c0d187a98.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos uma boa oportunidade para investimento, lote de 253m2, plano e com ótima exposição solar, próximo do centro de Caldas da Rainha.\n\nDe fácil acesso a todo o tipo de comércio, serviços e transportes.\n\nCom projeto aprovado para construção de moradia unifamiliar com dois pisos:\n\n- Área do lote- 253m2;\n\n- Área de implantação- 77.55m2\n\n- Área total de construção- 126,90m2\n\nPróximo das saídas para a autoestrada, garantindo rápida ligação a outras localidades.\n\nEste lote é ideal para quem procura um local tranquilo, com excelente acessibilidade, perfeito para construir a casa dos seus sonhos.",
+  "geo": {
+    "lat": 39.43281250000001,
+    "lng": -9.1555974
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,17 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/108685/2faa03b8-0b88-4600-b670-c05c0d187a98.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: A",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Vistas: Campo"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

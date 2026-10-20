@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 4,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109257/fb84ba57-910b-41b9-bb9d-cafad7ae4653.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Quinta com 9.750 m², duas moradias independentes, anexos e enorme versatilidade, ideal para habitação própria, familiar, turismo rural ou investimento, situada no Torrão, Alcácer do Sal, em plena tranquilidade alentejana.\n\nLocalizada na Rua de Beja – São Pedrinho, a propriedade dispõe de 389,40 m² de construção, atualmente distribuída por uma moradia T2, uma T2+1 e diversos anexos. É possível, mediante projeto, criar até três novas unidades habitacionais, aumentando conforto ou rentabilidade.\n\nComposição:\n\n- Moradia T2: cozinha, 2 quartos, 2 casas de banho, possibilidade de 3º quarto\n\n- Moradia T2+1: cozinha, 2 salas, 2 quartos, 1 casa de banho\n\n- Anexo com sala e cozinha, potencial para unidade autónoma\n\n- Garagem/anexo para 2 carros, possível reconversão em habitação\n\n- Anexo agrícola: arrumos, oficina ou apoio diário\n\n- A disposição permite habitação ampla, multifamiliar ou vida privada combinada com rendimento turístico.\n\nTerreno e envolvente:\n\n- 0,975 ha com solo fértil e culturas hortícolas\n\n- Árvores de fruto e vários poços de água\n\n- Fonte histórica de São Pedrinho, com valor patrimonial\n\n- Zona calma, com forte identidade alentejana, perto de comércio, serviços, escolas, restauração e bons acessos a Alcácer do Sal, Lisboa e litoral alentejano.\n\nUma quinta única no coração do Alentejo, com espaço, qualidade de vida e potencial de valorização.\n\nContacte-nos para mais informações ou visita.",
+  "geo": {
+    "lat": 38.29053879248334,
+    "lng": -8.224725860738937
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109257/fb84ba57-910b-41b9-bb9d-cafad7ae4653.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Em curso"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 4,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 4,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

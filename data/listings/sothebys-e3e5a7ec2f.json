@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82699&foto=1691392&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82699&foto=1691392&f=1",
+  "description": "Localizado no prestigiado empreendimento Bayview Cascais, este excecional apartamento de dois quartos combina arquitetura contemporânea, amplos espaços exteriores e um estilo de vida incomparável no coração de Cascais.\n\nSituado no terceiro piso do exclusivo edifício Cascais Bay, o apartamento oferece 148 m² de área interior cuidadosamente concebida, complementada por 56 m² de terraços privativos, criando uma ligação harmoniosa entre o conforto interior e a vida ao ar livre. A distribuição dos espaços privilegia a entrada de luz natural e a funcionalidade, com amplas áreas sociais, acabamentos de elevada qualidade e uma atmosfera sofisticada e acolhedora em toda a habitação.\n\nO imóvel inclui ainda dois lugares de estacionamento privativos e uma arrecadação, proporcionando conforto e praticidade, quer para residência permanente, quer para casa de férias.\n\nOs residentes beneficiam de um conjunto exclusivo de comodidades num dos condomínios privados mais prestigiados de Cascais, incluindo piscinas interior e exterior, ginásio totalmente equipado, serviço de concierge e segurança 24 horas. O empreendimento dispõe ainda de jardins cuidadosamente paisagísticos e amplas zonas verdes, criando um verdadeiro refúgio de tranquilidade a poucos passos do oceano.\n\nO Bayview Cascais beneficia de uma localização privilegiada à entrada de Cascais, a curta distância a pé do centro histórico, da marina, das praias, de restaurantes e de boutiques. Concebido para tirar o máximo partido da sua localização costeira única, o empreendimento oferece vistas de mar, elevada qualidade de construção e um estilo de vida marcado pela elegância, privacidade e conveniência.\n\nUma oportunidade excecional para adquirir uma residência contemporânea num dos destinos costeiros mais prestigiados de Portugal.",
+  "geo": {
+    "lat": 38.7032419,
+    "lng": -9.4175097
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,23 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82699&foto=1691392&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82699&foto=1691392&f=1"
   ],
-  "features": null,
+  "features": {
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 13,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

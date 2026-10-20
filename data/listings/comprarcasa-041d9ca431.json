@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1505/109239/35b2ca5a-6544-4d52-967f-97a93dfd1c0c.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Excelente oportunidade de investimento na freguesia de São Bento, numa zona tranquila e de fácil acesso, na Rua do Cabouco.\n\nEste terreno com 1.054 m² destaca-se pela sua vista desafogada sobre a cidade de Angra do Heroísmo, proporcionando um enquadramento único e privilegiado.\n\nO imóvel conta com projeto aprovado para a construção de uma moradia unifamiliar com 180 m², contemplando áreas bem distribuídas, garagem e todo o conforto necessário para uma habitação moderna e funcional.\n\nIdeal para quem procura construir a casa dos seus sonhos ou para investimento, este terreno combina localização, dimensão e potencial construtivo, numa das zonas mais procuradas da ilha.\n\nUma oportunidade rara para viver com qualidade, vista e proximidade à cidade.",
+  "geo": {
+    "lat": 38.674974852498906,
+    "lng": -27.20488160848617
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,15 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/109239/35b2ca5a-6544-4d52-967f-97a93dfd1c0c.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Certificação energética: Isento",
+      "Localização: Periferia",
+      "Zona envolvente: Residencial",
+      "Vistas: Cidade"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 453,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69911&foto=1386178&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69911&foto=1386178&f=1",
+  "description": "Moradia á frente do mar com 4 suites, onde pode estar deitado a comtemplar o mar...\nLocalizada nas inigualáveis Azenhas do Mar, uma aldeia destacada na imprensa internacional como \"uma joia escondida\", preciosa pelas praias, arquitetura e silencio, em Sintra, esta esplêndida moradia isolada com um total de quatro suítes, distribuídas pelos seus 453 metros quadrados de área bruta de construção, destaca-se pela sua imponência e requinte. A Proximidade (primeira linha) e a vista para o mar é uma constante em todas as suítes e sala de estar, proporcionando um ambiente sereno e cativante.\nNo piso térreo, uma cozinha totalmente equipada, sala de jantar e sala de estar com lareira convidam a momentos de convívio e conforto. O terraço adjacente oferece um cenário sublime para desfrutar de refeições ao ar livre com vista e cheiro a mar. Dois quartos em suíte completam este nível, ambos com vista privilegiada para o azul.\nNo piso superior, mais duas suítes com vista mar garantem conforto e privacidade aos seus ocupantes. O sótão oferece espaço adicional para aproveitar ao máximo esta propriedade excecional.\nConstruída em 2006, esta moradia dispõe de garagem para dois carros e um anexo para arrumos e lenha e encontra-se totalmente mobilada, pronta a habitar.\nA localização privilegiada desta moradia não podia ser mais conveniente. A poucos passos de distância encontra-se uma variedade de restaurantes, enquanto as principais vias de acesso, como a A16, estão a apenas 20 minutos de distância, o mesmo tempo para a Estação de Sintra.\nPara além disso, esta propriedade encontra-se a uma curta distância de serviços essenciais, como o Hospital CUF Sintra e supermercado no Cascais Shopping. Escolas internacionais, como a Prime School International, estão também nas proximidades.\nNão perca a oportunidade de adquirir esta moradia única, onde a sofisticação se funde com a beleza natural de Sintra, criando um ambiente incomparável de conforto e exclusividade.\n\nA Sotheby's International Realty conta com quase 300 anos de história enquanto conceituada empresa responsável por transacionar bens de luxo. Está presente em Portugal desde 2007 com dez escritórios e mais de 200 profissionais altamente qualificados e disponíveis para o satisfazer. A sua missão é \"A arte de unir casas extraordinárias a vidas extraordinárias.\" Não hesite em contactar-nos caso esta oportunidade seja do seu interesse.",
+  "geo": {
+    "lat": 38.80318,
+    "lng": -9.449783
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,48 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69911&foto=1386178&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69911&foto=1386178&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia",
+      "Furo"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Mar"
+    ],
+    "Zona": [
+      "Proximidade (Escolas, Farmácia, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 453,
-  "area_bruta_m2": null,
+  "area_util_m2": 417,
+  "area_bruta_m2": 453,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

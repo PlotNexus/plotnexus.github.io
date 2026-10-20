@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 6,
   "area_m2": 5,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83436&foto=1706713&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83436&foto=1706713&f=1",
+  "description": "Em Espinho, a poucos minutos do Atlântico e numa localização privilegiada da região Norte, encontra-se uma propriedade de presença singular, onde arquitetura, natureza e arte de receber se encontram numa composição de grande personalidade.\n\nImponente e envolvida por extensos jardins, a residência evoca o ambiente das grandes casas da Riviera espanhola, com a arquitetura integrada na vegetação e diferentes recantos de lazer que conferem ao conjunto uma atmosfera cinematográfica, marcada pela privacidade e pelo encanto.\n\nA casa principal distingue-se pela amplitude e pela riqueza dos seus ambientes. Dispõe de três suítes, elegante sala de estar com biblioteca, escritório, cozinha equipada, lavandaria e casa de banho de serviço. Um jardim interior de inspiração inglesa percorre os espaços, criando uma extraordinária sensação de continuidade entre interior e exterior.\n\nA propriedade inclui ainda um anexo independente, concebido para momentos de convívio e receção, com cozinha equipada, sala de estar e sala de jantar, prolongando-se para uma agradável zona exterior de refeições, ideal para longos almoços e jantares.\n\nNo exterior, uma piscina de generosas dimensões integra-se harmoniosamente nos jardins, acompanhada por balneários, casas de banho e espaços de relaxamento. Um lago acrescenta uma dimensão cenográfica e reforça a sensação de tranquilidade.\n\nPensada para receber, a propriedade dispõe ainda de zona de churrasqueira, forno para churrasco, garrafeira e sala de apoio, criando diferentes ambientes para experiências gastronómicas e momentos de convívio.\n\nNo piso superior da casa principal encontra-se um apartamento T1 independente, com suite, sala de estar e jantar, cozinha e escritório, oferecendo uma solução versátil para familiares ou convidados. Existe também um sótão para arrumação.\n\nPara os apaixonados pelo universo equestre, a propriedade reserva uma característica verdadeiramente diferenciadora: cavalariça e picadeiro para cavalos, integrados no conjunto.\n\nMais do que uma moradia, esta é uma propriedade concebida como um universo privado, onde jardins, piscina, lago, espaços gastronómicos e área equestre se conjugam numa experiência residencial rara. Um lugar com identidade própria, destinado a quem procura em Portugal não apenas uma casa, mas uma propriedade com alma, privacidade e uma forma de viver verdadeiramente distinta.",
+  "geo": {
+    "lat": 41.0124801886934,
+    "lng": -8.61562420944823
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,46 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83436&foto=1706713&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83436&foto=1706713&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

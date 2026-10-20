@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 290,
   "image": "https://cdn.proppy.app/propertyfiles/2032/109935/79208473-97be-4db3-827f-ea0d85776cb8.jpeg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
+  "description": "Apresentamos esta elegante moradia térrea T4 com piscina e garagem, situada numa das zonas privilegiada do campo, a poucos minutos das praias e do centro da cidade das Caldas da Rainha.\n\nEsta moradia moderna, é pensada ao detalhe para quem procura tranquilidade e bem estar. Com início de construção para breve, poderá acompanhar todo o projeto e personalizar a seu gosto. \n\nCaracterísticas principais: 4 quartos, incluindo uma suíte com closet, 3 quartos ambos com roupeiros embutidos, 1 casa de banho completa de apoio aos restantes quartos.\n\nSala e cozinha em open space, com excelente luminosidade natural, lavandaria, piscina, garagem fechada.\n\nEquipamentos e conforto: bomba de calor, ar condicionado, sistema VMC (ventilação mecânica controlada).\n\nLocalização privilegiada: Inserida numa zona tranquila, ideal para quem valoriza qualidade de vida, com proximidade a tudo o que precisa.\n\nA 4 minutos da autoestrada A8, do centro da cidade Caldas da Rainha, hospital, escolas, farmácias, hipermercados e praias. \n\nOutras informações: \n\n- Esta urbanização dispõe também de moradias T5.\n\nAproveite esta oportunidade única para investir na sua qualidade de vida e o sonho do seu lar.",
   "geo": null,
   "source": {
     "name": "ComprarCasa",
@@ -21,10 +21,30 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/109935/79208473-97be-4db3-827f-ea0d85776cb8.jpeg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 290,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Armários embutidos",
+      "Certificação energética: A+",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Periferia",
+      "Zona envolvente: Residencial, Industrial, Comercial, Turística"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Piscina"
+    ],
+    "Interior": [
+      "Ar condicionado",
+      "Área da(s) Sala(s): 53.32",
+      "Área do(s) Quarto(s): 19.30-13.57-13.57-12.43",
+      "Área da Cozinha: 18.87",
+      "Bomba de calor",
+      "Caixilharia: Alumínio, Vidros duplos"
+    ]
+  },
+  "estado": "Não aplicável",
+  "area_util_m2": 4,
+  "area_bruta_m2": 290,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

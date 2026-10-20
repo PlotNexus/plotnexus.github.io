@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 174,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109163/0df3a83c-ce34-4004-9228-7d81bd045024.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Nas Ruas do Outeiro de São Pedro, n.º 8, e dos Moinhos de Vento, n.º 12, em pleno centro da vila de Arraiolos, encontra-se este prédio de gaveto, com dois números de polícia, destinado a recuperação total.\n\nO imóvel é composto por duas moradias independentes:\n\n- A moradia principal, com cerca de 104 m², encontra-se em avançado estado de degradação, sendo ainda identificáveis cinco divisões, oferecendo uma base interessante para um projeto de reabilitação integral.\n\n- A segunda moradia, com aproximadamente 70 m², apesar de também necessitar de intervenção, encontra-se em melhor estado de conservação, sendo composta por duas divisões e uma casa de banho completa.\n\nApesar da necessidade de obras, este prédio apresenta vários pontos fortes que o tornam particularmente atrativo:\n\n- Arquitetura típica alentejana, visível na fachada e em alguns elementos interiores, permitindo preservar a identidade regional do imóvel;\n\n- Potencial de rentabilização, com possibilidade de constituição em propriedade horizontal;\n\n- Localização privilegiada, junto ao centro histórico de Arraiolos, vila pitoresca de origem medieval, reconhecida pelo seu património cultural, pelo emblemático castelo de planta circular e pela tradição dos Tapetes de Arraiolos.\n\nSituado a cerca de 24 km de Évora e a aproximadamente 1 hora de Lisboa, com bons acessos pela A6, este imóvel representa uma interessante oportunidade para investimento, reabilitação urbana ou desenvolvimento de um projeto residencial com identidade.\n\nContacte-nos para mais informações ou para agendar a sua visita.",
+  "geo": {
+    "lat": 38.724879931202786,
+    "lng": -7.983351461189438
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109163/0df3a83c-ce34-4004-9228-7d81bd045024.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: D"
+    ]
+  },
+  "estado": "Por recuperar",
   "area_util_m2": 174,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 174,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

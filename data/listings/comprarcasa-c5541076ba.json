@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 32,
   "image": "https://cdn.proppy.app/propertyfiles/1506/109249/ad739f96-331f-4af5-95c0-73bfd5c63020.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Excelente apartamento T3 como novo, com áreas amplas e bem distribuídas, localizado em zona privilegiada, próxima do centro e de todos os serviços essenciais. Este imóvel destaca-se pela sua funcionalidade, conforto e qualidade de construção, sendo uma solução ideal tanto para habitação própria como para investimento com elevada rentabilidade.\n\nO apartamento dispõe de 3 suítes, garantindo total privacidade e comodidade, uma zona social em open space que integra sala e cozinha, proporcionando um ambiente moderno, luminoso e acolhedor, perfeito para o dia a dia e para receber convidados. Conta ainda com lavandaria independente, um elemento cada vez mais valorizado.\n\nInclui estacionamento privado para uma viatura, um fator diferenciador numa localização central.",
+  "geo": {
+    "lat": 41.74121650531964,
+    "lng": -7.471766502018706
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,40 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1506/109249/ad739f96-331f-4af5-95c0-73bfd5c63020.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha, Vista cidade",
+      "Despensa",
+      "Ano construção: 2024",
+      "Arrecadação",
+      "Armários embutidos",
+      "Certificação energética: C",
+      "Lugar de garagem",
+      "Nº carros: 1",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Centro",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Gás canalizado",
+      "Vistas: Serra, Campo, Cidade",
+      "Nº fogos habitação: 3",
+      "Capoto",
+      "Muro",
+      "Logradouro",
+      "Data construção: 2024"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Aquecimento",
+      "Cozinha equipada",
+      "Cozinha: Exaustor, Máquina lavar roupa, Máquina lavar louça, Placa, Despensa",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio, Vidros duplos, Caixilharia dupla"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 32,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 32,
+  "ano_construcao": 2024,
+  "certificacao_energetica": "C"
 }

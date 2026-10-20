@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77702&foto=1569635&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77702&foto=1569635&f=1",
+  "description": "Inserido no antigo convento setecentista da Ordem dos Eremitas de São Francisco de Paula, este extraordinário apartamento T3 representa uma rara fusão entre património histórico e conforto moderno. Localizado na prestigiada Rua Presidente Arriaga, nas Janelas Verdes, este imóvel oferece muito mais do que uma casa — é a oportunidade de viver dentro de um marco da história de Portugal. Embora adaptado a residência após a extinção das ordens religiosas, o edifício preserva o seu carácter original, patente na imponente fachada barroca, e transporta consigo a memória de séculos de história portuguesa. Com este apartamento, adquire-se mais do que uma casa: conquista-se um pedaço do património de Lisboa.\n\nO apartamento distingue-se pela sua luminosidade excecional, proporcionada por amplas janelas e um pé-direito generoso que acentua a sensação de espaço e elegância. Com três suites confortáveis e bem distribuídas, todas com casas de banho privativas de acabamentos modernos e materiais de alta qualidade, oferece também uma sala espaçosa onde a luz natural é protagonista e uma cozinha totalmente equipada que combina funcionalidade com um design contemporâneo. Dispõe ainda de um WC social e de dois lugares de garagem, uma verdadeira mais-valia numa zona onde o estacionamento é escasso.\n\nEste é um imóvel raro no mercado, onde a tradição e o conforto se fundem num cenário único. Uma oportunidade exclusiva para quem procura um lar distinto, com história e todas as comodidades da vida moderna no coração de Lisboa.",
+  "geo": {
+    "lat": 38.7100523,
+    "lng": -9.1590861
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77702&foto=1569635&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77702&foto=1569635&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 227,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

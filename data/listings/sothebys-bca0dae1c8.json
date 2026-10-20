@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 35,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83348&foto=1703818&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83348&foto=1703818&f=1",
+  "description": "Localizada no empreendimento residencial The Village, esta moradia de quatro quartos beneficia de uma localização privilegiada entre os icónicos resorts de luxo da Quinta do Lago e de Vale do Lobo.\n\nInserida num ambiente que alia tranquilidade e exclusividade, a propriedade oferece o equilíbrio perfeito entre privacidade e conveniência, rodeada por uma vasta oferta de serviços e comodidades, praias deslumbrantes, excelentes restaurantes e campos de golfe de renome. Recentemente renovada, a moradia combina o conforto contemporâneo com uma atmosfera acolhedora e elegante, criando uma perfeita harmonia entre design e funcionalidade ao longo dos seus três pisos.\n\nO piso principal apresenta uma ampla sala de estar e jantar em open plan, com grandes portas de correr que estabelecem uma ligação fluida com o terraço e a piscina. A cozinha, recentemente renovada, dispõe de uma ilha central, bancadas em mármore e eletrodomésticos integrados, conjugando funcionalidade e elegância, sendo ideal tanto para o dia a dia como para receber convidados. Duas zonas de televisão e um bar totalmente equipado, com garrafeira climatizada, completam este espaço sofisticado.\n\nA área exterior é um dos principais destaques da propriedade, dispondo de uma elegante zona de refeições, uma nova cozinha exterior e uma pérgola, perfeita para desfrutar de refeições ao ar livre durante todo o ano. A piscina de água salgada, equipada com cobertura automática, é rodeada por vegetação madura, garantindo total privacidade e criando um ambiente tranquilo e relaxante.\n\nA moradia dispõe de quatro quartos espaçosos, três dos quais em suite. Dois quartos encontram-se no rés do chão e os restantes dois no primeiro andar, proporcionando uma distribuição funcional e confortável das áreas privadas.\n\nA cave foi convertida numa versátil área de lazer, com sala de cinema, zona de jogos e espaço de escritório, complementada por amplas áreas de arrumação, uma lavandaria e um jardim de inverno interior de inspiração marroquina, que acrescenta um ambiente distinto e acolhedor a este piso.\n\nAs características adicionais incluem novos equipamentos de ar condicionado, radiadores elétricos, toalheiros aquecidos nas casas de banho, piso radiante nas áreas sociais, vidros duplos e internet de fibra ótica de alta velocidade, garantindo conforto e eficiência durante todo o ano.",
+  "geo": {
+    "lat": 37.0691467,
+    "lng": -8.0497877
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,38 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83348&foto=1703818&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83348&foto=1703818&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Proximidade (Bancos, Clínica, Farmácia, Ginásio, Jardins, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 35,
-  "area_bruta_m2": null,
+  "area_util_m2": 82,
+  "area_bruta_m2": 35,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

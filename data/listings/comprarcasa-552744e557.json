@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 87,
   "image": "https://cdn.proppy.app/propertyfiles/1526/109494/e2d19526-a4ec-4773-ba99-9d89f11667ce.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "🏡 Oportunidade Única – Moradia T3 Totalmente Remodelada em São Pedro, Ponta Delgada\n\nBoa exposição solar | 2 cozinhas | Logradouro com churrasqueira | Localização privilegiada\n\nApresentamos esta encantadora moradia de 3 quartos, completamente remodelada, situada em São Pedro, uma das zonas mais desejadas e centrais de Ponta Delgada. Perfeita para quem procura qualidade de vida, versatilidade de espaços e proximidade a tudo.\n\n✨ Principais Destaques:\n\nMoradia T3 totalmente remodelada, pronta a habitar\n\nExcelente exposição solar, com ambientes luminosos ao longo do dia\n\n2 cozinhas, ideal para famílias grandes, aluguer independente ou uso versátil dos espaços\n\nLogradouro agradável com churrasqueira, perfeito para convívios e momentos ao ar livre\n\nLocalização privilegiada, no coração de São Pedro\n\nA poucos minutos da Avenida Marginal, zonas balneares e áreas verdes\n\nInserida numa zona central, com fácil acesso a comércio, serviços e transportes\n\n💡 Enorme potencial tanto para habitação própria como para investimento, devido à sua localização e versatilidade.\n\n📞 Marque já a sua visita e descubra esta oportunidade imperdível em Ponta Delgada!",
+  "geo": {
+    "lat": 37.74392960000003,
+    "lng": -25.657802
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,39 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/109494/e2d19526-a4ec-4773-ba99-9d89f11667ce.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 87,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Barbecue",
+      "Orientação solar: Sul",
+      "Localização central",
+      "Certificação energética: C",
+      "Terraço",
+      "Acessos: Transportes públicos, Terminal fluvial",
+      "Localização: Centro, Beira-mar",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Vistas: Prédios, Cidade",
+      "Churrasqueira",
+      "Muro",
+      "Logradouro"
+    ],
+    "Exterior": [
+      "Orientação Solar: Sul"
+    ],
+    "Interior": [
+      "Ar condicionado",
+      "Área da(s) Sala(s): 20,40",
+      "Área do(s) Quarto(s): 16,80",
+      "Área da Cozinha: 15,95",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio, Caixilharia dupla",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Renovado",
+  "area_util_m2": 7,
+  "area_bruta_m2": 87,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

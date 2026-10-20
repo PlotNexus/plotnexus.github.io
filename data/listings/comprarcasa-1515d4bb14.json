@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 63,
   "image": "https://cdn.proppy.app/propertyfiles/1505/109215/49903450-3acd-499c-bbcc-5a3c1065f33b.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T3 situada na Praia da Vitória, com elevado potencial de reabilitação e valorização. O imóvel dispõe de aproveitamento de sótão, permitindo a criação de áreas adicionais como quartos, escritório ou zona de lazer. Conta ainda com um terraço ideal para momentos de lazer e um pequeno quintal que proporciona um espaço exterior agradável.\n\nInclui uma garagem com versatilidade de uso, podendo ser aproveitada não só para estacionamento e arrumação, mas também para instalação de uma loja ou outro tipo de espaço comercial, mediante viabilidade legal. A distribuição base contempla três quartos e uma casa de banho, oferecendo uma excelente base para um projeto de reconstrução à medida.\n\nLocalizada numa zona tranquila, com bons acessos e proximidade a serviços e comércio. Esta propriedade representa uma oportunidade interessante tanto para habitação própria como para investimento, aliando potencial residencial e comercial.",
+  "geo": {
+    "lat": 38.72865452702072,
+    "lng": -27.07035863386409
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,25 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/109215/49903450-3acd-499c-bbcc-5a3c1065f33b.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 63,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Orientação solar: Norte, Oeste",
+      "Ano construção: 1956",
+      "Certificação energética: F",
+      "Terraço",
+      "Garagem",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Periferia",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Oeste"
+    ]
+  },
+  "estado": "Não aplicável",
+  "area_util_m2": 153,
+  "area_bruta_m2": 63,
+  "ano_construcao": 1956,
+  "certificacao_energetica": "F"
 }

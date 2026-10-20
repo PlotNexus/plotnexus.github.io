@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 6,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81883&foto=1655913&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81883&foto=1655913&f=1",
+  "description": "Deslumbrante apartamento T5 com área bruta privativa de 261.35 metros quadrados e um magnífico terraço de 128 metros quadrados, que acompanha todo o apartamento, inserido no empreendimento Quinta Marques Gomes Residences, com exclusiva vista sob o rio e a Foz do Douro. É composto por cinco suites, sala, cozinha e casa de banho social. Conta ainda com um hall comum de uso exclusivo com 16.67 metros quadrados, e quatro lugares de estacionamento. Assegurando elevados padrões de qualidade construtiva e de sustentabilidade ambiental e energética, os apartamentos Quinta Marques Gomes Residences são a opção perfeita para viver, enquanto desfruta da paisagem harmoniosa sobre o rio Douro e a cidade do Porto. O projeto foi desenvolvido de forma a ir ao encontro da imagem única da Quinta Marques Gomes, através de materiais e técnicas adotados em linha com os espaços verdes e toda a envolvente paisagística. Os edifícios de cinco pisos foram projetados para serem perfeitamente enquadrados no meio envolvente. Três edifícios constituídos por 16 apartamentos cada um, com tipologias T2, T3 e T4, todos orientados a poente. Todas as unidades contam com terraços ou varandas nas salas e nos quartos, de forma a tirar o maior proveito da localização e da paisagem. Cada lote conta ainda com dois pisos em cave, com cerca de 40 lugares de estacionamento. A Quinta Marques Gomes é um condomínio residencial destinado a famílias que valorizam essencialmente uma vida tranquila e saudável rodeada por áreas verdes. Um condomínio de acesso condicionado e seguro localizado junto à Douro marinha e com vistas deslumbrantes sobre o Porto, rio Douro e oceano atlântico. A área verde da Quinta Marques Gomes é o coração do projecto onde os residentes, poderão relaxar, exercitar e socializar. Localização privilegiada a cerca de 20 minutos do aeroporto do Porto.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,36 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81883&foto=1655913&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81883&foto=1655913&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Domótica": [
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 35,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

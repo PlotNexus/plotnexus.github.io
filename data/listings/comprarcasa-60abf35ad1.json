@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 8,
   "image": "https://cdn.proppy.app/propertyfiles/5115/109297/a0de7e14-5c77-4576-a18e-9e1d052e1adc.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T3 moderna e luminosa, com espaço exterior\n\nApresenta-se esta excelente moradia T3, ideal para famílias que valorizam conforto, funcionalidade e qualidade de vida. Com áreas bem distribuídas e boa exposição solar, esta habitação oferece um ambiente acolhedor e prático para o dia a dia.\n\nNo piso térreo, encontra-se uma sala ampla e luminosa, perfeita para momentos de convívio, com ligação harmoniosa à zona de refeições. A cozinha é moderna e funcional, com bastante arrumação e espaço para refeições. Dispõe ainda de uma casa de banho de apoio.\n\nNo piso superior, a moradia conta com três quartos, sendo um deles suite, garantindo maior privacidade e comodidade. Os restantes quartos apresentam boas áreas e muita luz natural, servidos por uma casa de banho completa e varandas.\n\nNo exterior, a moradia dispõe de zona de jardim/pátio, ideal para lazer, refeições ao ar livre ou para crianças e animais de estimação. Inclui ainda estacionamento e áreas de arrumação, consoante a configuração do imóvel.\n\nLocalizada numa zona tranquila e de fácil acesso, encontra-se próxima de serviços, comércio, escolas e transportes, proporcionando uma excelente combinação entre serenidade e conveniência.\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.609524606953244,
+    "lng": -8.784176147607422
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,33 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/109297/a0de7e14-5c77-4576-a18e-9e1d052e1adc.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Varanda",
+      "Ano construção: 2026",
+      "Arrecadação",
+      "Armários embutidos",
+      "Certificação energética: A",
+      "Varanda: sim",
+      "Lugar de garagem",
+      "Nº carros: 2",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Interior",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Centro de saude",
+      "Zona envolvente: Residencial",
+      "Vistas: Campo, Areas verdes"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Cozinha equipada",
+      "Bomba de calor",
+      "Caixilharia: PVC, Vidros duplos, Caixilharia dupla"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 8,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 8,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A"
 }

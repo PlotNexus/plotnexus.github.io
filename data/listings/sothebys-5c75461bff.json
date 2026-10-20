@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73472&foto=1447412&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73472&foto=1447412&f=1",
+  "description": "Apresentamos o Linea Residences, um empreendimento exclusivo localizado no coração das Avenidas Novas, entre o Saldanha e o Campo Grande, na prestigiada Avenida 5 de Outubro. Este projeto foi concebido para oferecer um equilíbrio perfeito entre conforto, funcionalidade e elegância, atendendo às necessidades de quem vive o ritmo vibrante da cidade.\n\nAssinado pelo aclamado arquiteto André Caiado, uma referência em reabilitação urbana e design contemporâneo, o edifício integra 34 sofisticadas unidades residenciais. Destacam-se as duas penthouses T4 duplex ainda disponíveis, que contam com um rooftop panorâmico, piscina privativa e uma funcional cozinha exterior, ideais para desfrutar de vistas únicas sobre Lisboa. Todas as cozinhas são equipadas com eletrodomésticos SMEG, sinónimo de qualidade e estilo intemporal.\n\nO Linea Residences redefine o conceito de conforto, proporcionando uma experiência de vida premium com um conjunto de amenidades exclusivas. Os residentes têm acesso a um SPA completo com sauna, banho turco e piscina interior aquecida, além de um lounge exterior e um estúdio pensado para yoga e alongamentos, promovendo o bem-estar e a tranquilidade.\n\nCada fração dispõe de áreas exteriores privativas, arrecadação e estacionamento com infraestrutura para carregamento de veículos elétricos, assegurando máxima comodidade e sustentabilidade.\n\nLocalizado numa das zonas mais centrais de Lisboa, este empreendimento combina uma localização estratégica com acessibilidade ímpar. A poucos passos da estação de metro de Entrecampos (4 minutos a pé), o Linea Residences está também a curta distância de instituições de referência, como o ISCTE, a Faculdade de Medicina de Lisboa, o Hospital de Santa Maria e o Campo Pequeno.\n\nO Linea Residences é a escolha perfeita para quem procura um estilo de vida urbano aliado a um design contemporâneo, conforto superior e a proximidade de tudo o que Lisboa tem para oferecer. Mais do que uma casa, é um convite para viver com sofisticação e requinte no coração da cidade.",
+  "geo": {
+    "lat": 38.7410926,
+    "lng": -9.1471513
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,25 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73472&foto=1447412&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73472&foto=1447412&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior, Interior)"
+    ],
+    "Edifício": [
+      "Piscina (Exterior, Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 208,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

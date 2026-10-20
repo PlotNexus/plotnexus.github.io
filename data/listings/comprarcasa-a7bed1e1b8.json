@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 150,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109703/f86254d7-e60b-43ca-80bb-184b8515a631.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Se procura uma propriedade completa, preparada para produção agrícola, vida sustentável ou desenvolvimento turístico, esta quinta reúne todas as condições para transformar um projeto ambicioso em realidade.\n\nCom 7,4 hectares totalmente vedados, esta propriedade distingue‑se pela versatilidade, autonomia e conjunto de infraestruturas já implementadas, oferecendo uma base sólida para quem valoriza independência, produtividade e contacto com a natureza.\n\nInclui uma dependência agrícola com 150 m², com previsão de transformação numa moradia T4 moderna, com sala e cozinha em open space, quatro quartos e duas casas de banho, uma oportunidade para concluir a obra ao seu gosto. Dispõe ainda de um pavilhão com cerca de 650 m², preparado para criação de animais e ideal para atividade pecuária organizada.\n\nA autonomia é um dos seus maiores trunfos:\n\n- Dois furos (18.000 L/h e 5.000 L/h)\n\n- Sistema solar com 6 painéis e baterias (mais 8 por instalar)\n\n- Gerador de apoio\n\n- Depósito de água com filtragem\n\n- Aquecimento de águas a gás\n\nA componente agrícola é igualmente robusta, com horta ativa, estufa, mais de 200 oliveiras, várias árvores de fruto, vinha com 2.000 m² e cerca de 4 hectares de terreno limpo, permitindo diversificar culturas ou ampliar produção. O terreno, totalmente vedado e com divisões interiores, facilita a organização de áreas de cultivo, pastoreio ou lazer.\n\nCom possibilidade em ter um Projeto de Turismo em Espaço Rústico (TER), esta quinta abre portas a múltiplas possibilidades: turismo rural, agroturismo, projetos agrícolas ou pecuários, vida sustentável ou investimento com retorno diversificado.\n\nA propriedade será escriturada sem Licença de Utilização (LU), por se encontrar registada como apoio agrícola.",
+  "geo": {
+    "lat": 38.94269009017921,
+    "lng": -7.711136341089511
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,17 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109703/f86254d7-e60b-43ca-80bb-184b8515a631.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Centro de saude, Policia",
+      "Vistas: Campo",
+      "Árvores"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 150,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 150,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

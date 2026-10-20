@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 5,
   "area_m2": 5,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81324&foto=1707373&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81324&foto=1707373&f=1",
+  "description": "Em exclusivo pela Sotheby’s International Realty, esta moradia T5 + T0 independente, localizada na Parede, Cascais, combina espaço, privacidade e proximidade do Atlântico. Inserida num terreno de 700 m², com 295 m² de área bruta privativa e distribuída por dois pisos, encontra-se numa rua sem saída, com ambiente residencial tranquilo. A poucos minutos do mar, Nova School of Business &amp; Economics e St. Julian’s School, beneficia de uma piscina exterior de grandes dimensões e de uma configuração particularmente adequada a famílias que valorizam espaço, privacidade e proximidade das principais escolas da região.\n\nA área social tem grande amplitude, com uma sala de estar dividida em duas zonas e uma generosa sala de jantar. A lareira de lenha acrescenta carácter à sala, enquanto a cozinha moderna e funcional responde às necessidades da vida quotidiana. A zona privada integra duas suítes, dois quartos e uma divisão atualmente utilizada como amplo closet. A distribuição e a dimensão dos espaços oferecem ainda um interessante potencial de personalização, permitindo adaptar diferentes ambientes ao gosto e ao projeto de vida do proprietário.\n\nConstruída em 1993, a moradia tem granito nas áreas comuns e pavimento em madeira nos quartos e no anexo. O aquecimento central está presente em todas as divisões e os painéis solares asseguram o aquecimento das águas. O T0 independente dispõe de cozinha e casa de banho próprias, oferecendo autonomia para familiares ou convidados. Tem ainda garagem para duas viaturas.\n\nNo exterior, o terreno de 700 m² envolve a moradia e a piscina, criando um espaço dedicado ao lazer e à vida ao ar livre. A piscina de grandes dimensões assume um papel central, enquanto o jardim oferece diferentes possibilidades para refeições, convívio e momentos de descanso, num ambiente resguardado e tranquilo.\n\nA localização na Parede permite viver junto ao mar, mantendo fácil acesso a comércio, restaurantes, serviços e às praias da linha de Cascais. A proximidade da Nova School of Business &amp; Economics e da St. Julian’s School, em Carcavelos, constitui um fator relevante para famílias e compradores internacionais. Cascais e Estoril acrescentam uma vasta oferta gastronómica, cultural e de lazer.\n\nA proximidade da Avenida Marginal e da A5 assegura ligações rápidas a Cascais, Estoril, Oeiras e Lisboa. A estação ferroviária da Parede permite deslocações ao longo da linha de Cascais\n\nAlgumas das imagens apresentadas incluem Virtual Home Staging.",
+  "geo": {
+    "lat": 38.6935112,
+    "lng": -9.3635478
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,54 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81324&foto=1707373&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81324&foto=1707373&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Estores (Alumínio)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Rega Automática",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Mármore)",
+      "Pavimento (Granito)",
+      "Paredes (Pintadas)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Comboio, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

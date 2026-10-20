@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 60,
   "image": "https://cdn.proppy.app/propertyfiles/1505/109498/084ff999-cf35-46bf-9617-d8ca656c2e85.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Localizada na tranquila zona da Serreta, na Canada do Pedregal, esta propriedade oferece uma excelente oportunidade para quem procura um refúgio em plena natureza.\n\nCom um terreno de 760 m², esta ruína é a última casa da rua, garantindo máxima privacidade, sossego e uma envolvência natural única. Ideal para projeto de reconstrução, seja para habitação própria, casa de férias ou investimento turístico.\n\nA localização privilegiada permite desfrutar da beleza natural da Serreta, conhecida pelas suas paisagens verdes e proximidade ao mar, proporcionando um estilo de vida calmo e em harmonia com a natureza.\n\nSe procura um local exclusivo para criar o seu projeto de sonho, esta é uma oportunidade a não perder.",
+  "geo": {
+    "lat": 38.75688050157825,
+    "lng": -27.359346002340313
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,22 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/109498/084ff999-cf35-46bf-9617-d8ca656c2e85.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar",
+      "Orientação solar: Norte",
+      "Certificação energética: Isento",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar",
+      "Licença de Utilização: isenta"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte"
+    ]
+  },
+  "estado": "Ruína",
   "area_util_m2": 60,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 60,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

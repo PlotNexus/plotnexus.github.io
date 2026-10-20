@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80135&foto=1637174&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80135&foto=1637174&f=1",
+  "description": "Uma oportunidade rara no coração do Chiado: dois apartamentos T2 completamente novos, de áreas generosas, cada um com 3 casas de banho, que podem ser facilmente unidos para criar um excecional duplex T4 com 6 casas de banho.\n\nSituado numa localização privilegiada de esquina, o imóvel beneficia de abundante luz natural proveniente de duas ruas e dispõe de uma ampla zona de estar com pé-direito alto, criando uma imediata sensação de amplitude e elegância. A cozinha contemporânea é totalmente nova e foi cuidadosamente concebida, com armários sofisticados e eletrodomésticos premium da Bosch.\n\nTodos os quartos são em suite e incluem roupeiros embutidos, garantindo conforto e funcionalidade em toda a casa. Com entradas independentes a partir de duas ruas diferentes, o duplex oferece excelente acessibilidade ao Chiado e à Baixa, bem como ao restante da cidade. Duas linhas de metro encontram-se a poucos minutos a pé, colocando à sua porta os principais pontos culturais, comerciais e históricos de Lisboa.\n\nUm duplex único, luminoso e localizado num dos bairros mais procurados de Lisboa.",
+  "geo": {
+    "lat": 38.7080357209665,
+    "lng": -9.1386620713501
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80135&foto=1637174&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80135&foto=1637174&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 344,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }
