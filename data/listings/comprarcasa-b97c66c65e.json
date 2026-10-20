@@ -9,8 +9,11 @@
   "bathrooms": 4,
   "area_m2": 1,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109884/b0c80467-5ae5-4fa8-ad9e-f61e583d2211.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Prédio c/ 4 frações: Duas Moradias T2 e Dois Espaços de Comércio | Vimieiro, Arraiolos\n\nUm investimento versátil que alia habitação e rendimento, reunindo duas moradias T2 e dois espaços comerciais num único prédio com elevado potencial de valorização.\n\nApresentamos este prédio em regime de propriedade horizontal, composto por quatro frações distintas, ideal para investidores que procuram diversificar fontes de rendimento ou para quem pretende conciliar habitação com atividade comercial. Com uma área bruta de 324,10 m², este imóvel destaca-se pela sua funcionalidade, organização equilibrada e possibilidades de adaptação.\n\nNo piso térreo, encontra-se a Fração A, um espaço comercial com 47,40 m², atualmente preparado e totalmente equipado para funcionamento como pastelaria/café, pronto a iniciar atividade de imediato. Complementarmente, a Fração C disponibiliza um segundo espaço comercial com 27,10 m², atualmente afeto a papelaria e com instalação sanitária, ideal para serviços de proximidade ou pequeno comércio.\n\nAo nível habitacional, a Fração B corresponde a uma moradia T2 com 132,86 m², caracterizada por áreas amplas e por incluir espaços adicionais que elevam o conforto do quotidiano: sala, cozinha, dois quartos interiores, casa de banho, garagem, arrecadação, sótão e ainda um agradável quintal, um verdadeiro refúgio em contexto urbano.\n\nPor sua vez, a Fração D, situada no 1.º andar, integra uma moradia T2 com 75 m², composta por sala de estar, cozinha, dois quartos e uma casa de banho, oferecendo uma solução prática e funcional, ideal tanto para habitação própria, como para arrendamento. Esta fração encontra-se atualmente arrendada pelo valor de 480€, garantindo rendimento imediato ao investidor.\n\nUm dos principais fatores de valorização deste imóvel reside na sua versatilidade: as frações comerciais poderão ser convertidas em habitação, aumentando significativamente o potencial de rentabilidade e adaptação às exigências do mercado.",
+  "geo": {
+    "lat": 38.83160772989806,
+    "lng": -7.839522050054829
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109884/b0c80467-5ae5-4fa8-ad9e-f61e583d2211.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: D"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 1,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 1,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

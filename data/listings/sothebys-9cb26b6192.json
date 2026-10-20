@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83404&foto=1710740&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83404&foto=1710740&f=1",
+  "description": "Penthouse T5 renovada, com 734 m² de área bruta de construção, situada na Urbanização Real Forte, com localização privilegiada junto ao Tejo. Inserida no 7.º e último andar, esta propriedade distingue-se pela vista rio, exposição solar e dimensão dos espaços exteriores, com terraços 360º.\n\nCom 271 m² de área bruta privativa, esta extraordinária penthouse dispõe de 5 quartos, dois dos quais em suite, e duas casas de banho. O espaço exterior inclui varandas na sala e nos quartos e dispõe de 2 terraços na cobertura, que totalizam cerca de 377 m², proporcionando várias zonas de lazer e contemplação. Inclui ainda dois lugares de estacionamento em box.\n\nRenovada e com uma avaliação excelente, esta penthouse integra cozinha Fabri, equipada com frigorífico Gaggenau, piso radiante nas zonas comuns, sistema de som em toda a casa e soluções de domótica. O ar condicionado, os radiadores e os sistemas de segurança, incluindo sensores de movimento e alarmes de portas e janelas, podem ser controlados remotamente.\n\nA localização permite um rápido acesso a uma ampla oferta de serviços e comércio. Restaurantes e supermercados encontram-se a cerca de 1 minuto, enquanto o hospital está igualmente a 1 minuto. Escolas localizam-se entre 300 e 700 metros.\nPara deslocações de automóvel, a 2.ª Circular e a A1 ficam a cerca de 2 minutos de distância. A estação de comboios encontra-se a 300–400 metros e o Metro a aproximadamente 5 minutos, facilitando a ligação a Lisboa e restantes zonas da área metropolitana.\n\nNa Urbanização Real Forte, esta penthouse beneficia de uma envolvente residencial de referência, a poucos minutos do Parque das Nações, e proximidade ao Tejo oferece uma localização estratégica com ótimas opções para viver ou investir. Uma propriedade rara que conjuga localização, áreas exteriores, vista rio e acessibilidade.",
+  "geo": {
+    "lat": 38.7919752,
+    "lng": -9.1077643
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,38 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83404&foto=1710740&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83404&foto=1710740&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 271,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

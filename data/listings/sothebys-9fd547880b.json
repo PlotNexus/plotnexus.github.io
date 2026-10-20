@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 447,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80223&foto=1645737&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80223&foto=1645737&f=1",
+  "description": "Moradia contemporânea no coração de Vilamoura, situada numa zona residencial tranquila, a poucos minutos da marina e de todas as as comodidades, restaurantes, praias e campos de golfe.\n\nEsta elegante moradia térrea, orientada a sul, destaca-se pela excelente luminosidade natural e pela perfeita ligação entre os espaços interiores e exteriores. Dispõe de 3 amplas suites, todas com acesso direto ao jardim e à piscina, proporcionando total conforto e uma vivência harmoniosa entre o interior e o exterior da casa.\n\nA área social apresenta um conceito moderno e funcional, com cozinha em open space totalmente integrada com a sala de estar e de jantar, criando um ambiente amplo, luminoso e perfeito para o dia a dia e momentos de convívio.\n\nNo exterior, o jardim paisagístico e a piscina privada criam o ambiente ideal para desfrutar do clima algarvio durante todo o ano.",
+  "geo": {
+    "lat": 37.0821003,
+    "lng": -8.1057906
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,57 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80223&foto=1645737&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80223&foto=1645737&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Jardins, Rega Automática)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 447,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 447,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

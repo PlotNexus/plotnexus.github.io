@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 382,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83532&foto=1713207&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83532&foto=1713207&f=1",
+  "description": "Moradia T4+1 com 382 m², excelente exposição solar a sul e vista mar, localizada numa tranquila zona residencial de Caxias, Oeiras. Uma propriedade de áreas generosas, muita privacidade e uma configuração ideal para habitação familiar.\n\nNo piso térreo, a zona social destaca-se pela ampla e luminosa sala de estar, com jardim interior e lareira com recuperador de calor, ligada à sala de jantar, criando um espaço elegante e acolhedor. Existe ainda uma divisão atualmente utilizada como sala de jogos/biblioteca, com potencial para quarto, escritório ou espaço multifuncional, e uma suite de hóspedes.\n\nA cozinha, de grandes dimensões e totalmente equipada, tem acesso direto ao jardim e encontra-se ligada à suite da empregada, assegurando uma organização muito funcional.\n\nA moradia dispõe de quatro suites. No piso superior encontram-se duas, incluindo a master suite, com amplo walk-in closet e uma sofisticada casa de banho em mármore rosa, equipada com banheira de hidromassagem e cabine de duche em mármore.\n\nDispõe ainda de caldeira a gás para aquecimento das águas e aquecimento central, bem como ar condicionado em quatro divisões.\n\nNo exterior, destaca-se a piscina de 8 x 4 metros e 2,5 metros de profundidade, equipada com bombas e acessórios novos. O jardim inclui também balneário de apoio e zona de arrumos.\n\nA garagem aberta tem capacidade para duas viaturas e dispõe de ponto de carregamento para veículos elétricos.\n\nCaxias beneficia de uma localização privilegiada entre Lisboa e Cascais, com excelentes acessos à Avenida Marginal, A5, CRIL e CREL, além da estação de comboios da linha de Cascais. Na envolvente encontra-se uma ampla oferta de comércio, serviços, escolas, restaurantes, supermercados e unidades de saúde. As praias de Caxias e Paço de Arcos, o Complexo Desportivo do Jamor e os polos empresariais do Oeiras Valley — TagusPark, Lagoas Park e Quinta da Fonte — encontram-se a curta distância.\n\nUma moradia de charme, ideal para quem procura espaço, conforto, privacidade, piscina, vista mar e proximidade de Lisboa.",
+  "geo": {
+    "lat": 38.7054621,
+    "lng": -9.2798276
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83532&foto=1713207&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83532&foto=1713207&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Centros Comerciais, Escolas, Jardins, Padaria)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 382,
-  "area_bruta_m2": null,
+  "area_util_m2": 331,
+  "area_bruta_m2": 382,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

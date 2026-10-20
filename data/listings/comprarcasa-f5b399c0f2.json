@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 60,
   "image": "https://cdn.proppy.app/propertyfiles/1526/109894/a648bc0e-3d24-42f8-93ad-b8c7bec29638.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia para Recuperar com Grande Potencial – Fenais da Ajuda\n\nApresentamos esta excelente oportunidade de investimento nos Fenais da Ajuda: moradia em pedra para recuperação, com enorme potencial para habitação própria, casa de férias ou projeto turístico.\n\nO imóvel destaca-se pela sua estrutura tradicional em pedra, conferindo-lhe charme e autenticidade únicos. Conta já com **telhado novo**, um fator essencial que reduz significativamente os custos iniciais de reabilitação.\n\nInserida numa zona tranquila, com bons acessos e envolvida pela natureza, esta propriedade permite criar um espaço acolhedor e personalizado ao seu gosto.\n\n**Principais características:**\n\n* Construção em pedra\n\n* Telhado recentemente renovado\n\n* Grande potencial de valorização\n\n* Localização calma e agradável\n\n* Ideal para projeto de recuperação\n\nSe procura um imóvel com caráter e possibilidades de transformação, esta é a escolha certa.\n\nNão perca esta oportunidade!\n\nPara mais informações ou agendamento de visita, entre em contacto.",
+  "geo": {
+    "lat": 37.85142004587607,
+    "lng": -25.325294210130497
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,20 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/109894/a648bc0e-3d24-42f8-93ad-b8c7bec29638.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Orientação solar: Norte, Sul",
+      "Localização: Centro",
+      "Vistas: Serra"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul"
+    ]
+  },
+  "estado": "Por recuperar",
   "area_util_m2": 60,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 60,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

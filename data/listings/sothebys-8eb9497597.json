@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82915&foto=1712385&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82915&foto=1712385&f=1",
+  "description": "Elegância parisiense no coração de Lisboa | T2 com piscina, jardim e estacionamento\n\nJunto ao Marquês de Pombal e à Avenida da Liberdade, este elegante apartamento de inspiração parisiense integra um prédio novo de charme, onde a arquitetura clássica se conjuga harmoniosamente com o conforto contemporâneo.\n\nOriginalmente um T3, foi transformado num amplo T2, num projeto que privilegia a fluidez dos espaços, a qualidade dos materiais e a atenção ao detalhe. O resultado é um ambiente sofisticado e acolhedor, pensado para viver a cidade com tranquilidade.\n\nA zona social distingue-se pela ampla e luminosa sala de estar com lareira, que convida a momentos de convívio e descontração. A cozinha, cuidadosamente integrada no espaço, alia estética e funcionalidade, numa composição coerente e elegante.\n\nDuas suites asseguram conforto e privacidade, enquanto um lugar de estacionamento e uma arrecadação complementam a comodidade desta propriedade.\n\nNo exterior, o jardim e a piscina do condomínio oferecem um espaço reservado de lazer, um privilégio no centro de Lisboa.\n\nA localização permite desfrutar da proximidade às lojas, restaurantes e hotéis de referência da Avenida da Liberdade, bem como de uma vasta oferta de serviços e transportes.\n\nUma residência onde o charme de inspiração parisiense encontra a vivência cosmopolita de Lisboa.",
+  "geo": {
+    "lat": 38.7206333,
+    "lng": -9.1418613
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82915&foto=1712385&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82915&foto=1712385&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 150,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

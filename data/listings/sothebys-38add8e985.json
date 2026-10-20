@@ -8,23 +8,62 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 380,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77617&foto=1563007&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77617&foto=1563007&f=1",
+  "description": "Moradia geminada inserida num lote de 1000 metros quadrados, localizada na Charneca do Guinho em Cascais, entre o Parque Natural de Sintra-Cascais e o oceano Atlântico.\nA proximidade à praia do Guincho e à Serra de Sintra tornam este local perfeito para quem valoriza a privacidade e o contacto direto com a natureza. \nA moradia, com 380 metros quadrados de área bruta de construção, distribui-se por três pisos e caracteriza-se por numerosos vãos que proporcionam aos espaços muita luz natural.\nNo piso térreo temos um hall de entrada, um escritório, um quarto que pode funcionar em suite, uma sala de estar com lareira, uma sala de jantar e cozinha em open space com acesso a um logradouro.\nNo primeiro piso temos duas suites e mais dois quartos que partilham uma casa de banho completa. No piso superior temos uma cozinha em open space e uma ampla zona de estar (área TV e área refeições). \nEsta moradia tem a particularidade de ter duas entradas distintas, permitindo assim a separação em duas frações, em que uma tem acesso pelo piso térreo e a outra pelo primeiro piso.\nA garagem encontra-se atualmente transformada em anexo, com quarto, sala, kitchenette e WC.\nNo jardim com acesso ao parque natural de Sintra, temos uma piscina de água salgada e uma casa de apoio com kitchenette e WC.\nA Sotheby's International Realty conta com quase 300 anos de história enquanto conceituada empresa responsável por transacionar bens de luxo. Está presente em Portugal desde 2007 com dez escritórios e mais de 200 profissionais altamente qualificados e disponíveis para o satisfazer. A sua missão é \"A arte de unir casas extraordinárias a vidas extraordinárias\". Não hesite em contactar-nos caso esta oportunidade seja do seu interesse.",
+  "geo": {
+    "lat": 38.7354537,
+    "lng": -9.4537496
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-geminada-charneca-do-guincho-cascais_pt_77617",
-  "published_at": "2026-10-19",
+  "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77617&foto=1563007&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77617&foto=1563007&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Pré-Instalação)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 380,
-  "area_bruta_m2": null,
+  "area_util_m2": 335,
+  "area_bruta_m2": 380,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 32,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110282/8b014e21-c0a5-4ea8-8fca-2193c4d6e778.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Um apartamento T1 mobilado e equipado, com varanda e a apenas 2 km da Praia de Cabanas de Tavira, uma solução prática, luminosa e pronta a habitar no coração do sotavento algarvio.\n\nEste T1 no rés do chão combina funcionalidade e conforto, criando um ambiente acolhedor para quem procura um espaço fácil de manter, bem localizado e com todas as comodidades essenciais. A sala com acesso direto à varanda prolonga a vivência para o exterior, permitindo aproveitar a luz natural e o clima ameno que caracteriza Tavira. A cozinha equipada, o quarto confortável e a organização simples dos espaços tornam o dia a dia fluido, seja para residência permanente, casa de férias ou investimento.\n\nCom 62,32 m² de área total, totalmente aproveitados, o apartamento oferece uma vivência prática e descomplicada. A varanda acrescenta um espaço exterior valioso, ideal para refeições ao ar livre, leitura ou simplesmente para desfrutar da tranquilidade da zona envolvente.\n\nA localização é um dos grandes destaques: a 2 km da Praia de Cabanas de Tavira, conhecida pelo seu areal extenso e águas calmas, e perto de comércio, serviços e acessos rápidos ao centro de Tavira. Uma oportunidade sólida numa das zonas mais procuradas do Algarve.",
+  "geo": {
+    "lat": 37.146840510027594,
+    "lng": -7.605331122046377
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,25 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110282/8b014e21-c0a5-4ea8-8fca-2193c4d6e778.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar",
+      "Certificação energética: C",
+      "Mobilado",
+      "Acessos: Transportes públicos",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Mar"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Lareira",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 32,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 32,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

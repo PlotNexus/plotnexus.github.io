@@ -9,22 +9,51 @@
   "bathrooms": 1,
   "area_m2": 65,
   "image": "https://cdn.proppy.app/propertyfiles/1526/110068/81786473-a6c0-4543-90e5-222e97f88ad3.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra esta moradia acolhedora situada em Porto Formoso, Ribeira Grande, ideal para quem procura tranquilidade e proximidade ao mar. Com dois quartos e uma casa de banho, oferece o conforto necessário para o dia a dia, beneficiando de ar condicionado e excelente exposição solar. A moradia tem licença para Alojamento Local o que torna excelente para investimento.\n\nA casa encontra-se a uma curta distância da praia, permitindo desfrutar de passeios à beira-mar sempre que desejar. As vistas desafogadas para o mar e para a montanha proporcionam um ambiente relaxante e inspirador, perfeito para viver ou passar férias.\n\nA localização central garante fácil acesso a supermercados, escolas e restaurantes, tudo a poucos minutos a pé. Esta moradia é uma excelente oportunidade para quem valoriza qualidade de vida e conveniência, num ambiente residencial bem servido e funcional.",
+  "geo": {
+    "lat": 37.820836162989636,
+    "lng": -25.426077319641557
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/moradia/t2-2-quartos/venda/porto-formoso-ribeira-grande-porto-formoso-ilha-de-sao-miguel/usado?id=110068",
-  "published_at": "2026-10-19",
+  "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/110068/81786473-a6c0-4543-90e5-222e97f88ad3.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 65,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Orientação solar: Norte, Sul, Este, Oeste",
+      "Curta distância a pé da praia",
+      "Localização central",
+      "Certificação energética: D",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Farmácia, Escolas, Infantário",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Serra, Areas verdes"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul, Este, Oeste"
+    ],
+    "Interior": [
+      "Ar condicionado",
+      "Área da(s) Sala(s): 9,60",
+      "Área do(s) Quarto(s): 11,03",
+      "Área da Cozinha: 12,74",
+      "Cozinha: Placa e forno, Fogão, Esquentador",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Madeira",
+      "Aquecimento água: Eléctrico, Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 5,
+  "area_bruta_m2": 65,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

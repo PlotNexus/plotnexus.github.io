@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 9,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68568&foto=1326623&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68568&foto=1326623&f=1",
+  "description": "Moradia de traça antiga localizada no coração do Estoril, totalmente remodelada pelo mãos do arquitecto Thiago Braddell, com 356 metros quadrados de área bruta de construção e inserida em lote de 624 metros quadrados. A moradia destaca-se pelos detalhes e acabamentos de qualidade, pedras naturais como mármores, azulejos do séc. XVIII entre outros, tendo sido totalmente reabilitada em 2020.\nA moradia encontra-se distribuída por três pisos, no piso principal encontramos a zona social da moradia com uma sala de estar de dois ambientes, sala de Tv com acesso directo ao jardim e piscina, sala de janta e cozinha com bancadas em pedra natural, totalmente equipada. Na área exterior um agradável jardim totalmente iluminado e piscina aquecida e iluminada com uma excelente exposição solar.\nNo piso superior, na zona mais privada da casa encontramos dois quartos com apoio de uma casa de banho completa e a master suite com walkin closet e acesso direto a uma espaçosa varanda.\nNo piso inferior , com acesso directo ao exterior, encontramos uma sala de brincar, suite de empregada, área de lavandaria, despensa, arrumos e lavabo social. A climatização da moradia é feita por Ar condicionado em todas as divisões e sistema automático de refrigeração no piso inferior. A moradia dispõe ainda de estacionamento exterior para duas viaturas. A localização privilegiada no centro do Estoril, a dois passos do Casino, Praia do Tamariz, Monte Estoril, Transportes excelentes acessos à autoestrada A5, aliada à tranquilidade fazem desta propriedade uma oportunidade única.",
+  "geo": {
+    "lat": 38.7099079,
+    "lng": -9.3988579
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,35 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68568&foto=1326623&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68568&foto=1326623&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 9,
-  "area_bruta_m2": null,
+  "area_util_m2": 7,
+  "area_bruta_m2": 9,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

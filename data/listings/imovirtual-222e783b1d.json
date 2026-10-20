@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Caranguejeira, Leiria",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 178,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImkzNjlvOHl0bWJraTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TMKtgLtnBAgUk7WWC8-zPcUlssaImhEmGY93o0PRDK8/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImkzNjlvOHl0bWJraTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TMKtgLtnBAgUk7WWC8-zPcUlssaImhEmGY93o0PRDK8/image;s=2048x1536;q=80",
+  "description": "Apartamento T3 inserido num edifício moderno, com cave para parqueamento, rés-do-chão e 1.º andar destinado a habitação, sem elevador.\n\nA fração destaca-se pelo agradável espaço exterior, dispondo de terraço, uma varanda com churrasqueira e acesso direto a um terreno/jardim privativo com uma área aproximada de 80 m², proporcionando um espaço amplo e reservado, ideal para momentos de lazer, convívio e usufruto ao ar livre.\n\nEquipamentos e acabamentos:\n\nCozinha totalmente equipada com placa, forno, exaustor, micro-ondas, combinado e máquina de lavar louça;\n\nBomba de calor;\n\nAr condicionado;\n\nVMC de extração;\n\nEstores elétricos;\n\nIluminação embutida;\n\nCaixilharia de alumínio oscilo-batente com corte térmico;\n\nTerraço e varanda com churrasqueira;\n\nLugar de parqueamento na cave;\n\nExposição solar a sul e poente.\n\nDisponível a 1 de novembro de 2026.\n\nCondições de arrendamento:\n\n2 rendas\n\n1 renda de caução\n\nFiador\n\nApresentação de IRS e recibos de vencimento\n\nEntre em contacto comigo agora para mais informações ou para agendar a sua visita.\n\nOlga Ferreira +351 918 392 762\n\nPraças e Jardins | AMI 10310",
+  "geo": {
+    "lat": 39.76273,
+    "lng": -8.715854
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,36 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImkzNjlvOHl0bWJraTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TMKtgLtnBAgUk7WWC8-zPcUlssaImhEmGY93o0PRDK8/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImkzNjlvOHl0bWJraTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TMKtgLtnBAgUk7WWC8-zPcUlssaImhEmGY93o0PRDK8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imt0OGNmc2lzcTk4Zi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.DcuAjrjSwze9S52AsLSVdJslz-VdZ47vigQ0E4iK-pU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjlkeHdrYmtpeDVoYzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.u3BqdRGXtie-SJpLvVqgZCrSNp3p7AdWpugvPmpPPQk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdncG1uOTB0anFyNS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.w0dK9n-nPH-Nb6JrTLTeIH7uRyNMaIHKYR17vJNdxHE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRzOXI3a3YxYWkwZTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7ZrdqlDhzE0AQY8MhHoTjiP-ATi5l_I3hq5XnEMKa8s/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdsYjFvMmFqYzEwczEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Q9kByubnM20gJwOED3cTdQRZcUtDOWQMp7FeCoB-AVk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9xM3duYWZreGIwNDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zSTpd25HiNZHNUzLOvhQ4QQORhQJHoHk8KmJIFedpeU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjYxOHJ0bWlxMWt4ZzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.y0QNnad37tejRM6FISBEElf3LB1tRA09qx13-5NwL4w/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImtkZDQ2dmh5bHhnbTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-WnKrvr9W5CmbhXw9F6V1GCCRiMgbtRbqOHQ_Rf1ry8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZoaDR0ZDFwYnFtcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zipcrNqfmk0LrOmPXfI1_MY0ArkYQ-fsW0VyCpvY8MM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBtZWh6MnV0aHh3bzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.55ldIplAe5PUNUur62VOCxNeySKdN--ABxZEzrvtbSk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg3NzVoZzlub2N2eC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.1qAcnt3BSzTEvAkgWeyVcqjZNGhiUOkP3kNBnwtrQ10/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im85eHlodWMwcGdvazMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3mDvnye4Fw3rb8pPMambDADODHRSyu890DOz0L_OfPs/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Estores"
+    ],
+    "Equipamentos": [
+      "Varanda"
+    ],
+    "Equipamento": [
+      "Forno",
+      "Máquina de lavar loiça",
+      "Ar condicionado"
+    ]
+  },
   "estado": null,
   "area_util_m2": 178,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 35,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109820/72c0fe5f-840f-4edc-a6bc-4eaa1d2f379d.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T3 Térrea para Renovar c/ Quintal, Terraço e Garagem | Oriola, Portel\n\nSituada na Rua de São Lourenço, na tranquila freguesia de Oriola, esta moradia T3 térrea de gaveto apresenta um excelente potencial de valorização, sendo ideal para quem procura um projeto de renovação numa zona com qualidade de vida e forte ligação à natureza.\n\nA moradia dispõe de quintal, terraço, garagem e aproveitamento de sótão, oferecendo diversas possibilidades de reorganização e ampliação dos espaços, adaptando-se facilmente a uma habitação confortável e moderna.\n\nPontos fortes do imóvel\n\n- Quintal e terraço, ideais para lazer e convívio\n\n- Garagem e espaço adicional de arrumos\n\n- Excelente oportunidade para personalização total\n\n- Localização e proximidades\n\nA sua localização é um dos grandes destaques, especialmente para quem valoriza a proximidade à água e à natureza:\n\n- A cerca de 2 km da Praia Fluvial de Oriola\n\n- Aproximadamente 25 km da Praia Fluvial de Amieira\n\n- Cerca de 30 km da Praia Fluvial de Monsaraz\n\n- A cerca de 20 km de Portel\n\n- Bons acessos a Évora e outras localidades da região\n\n- Benefícios de viver em Oriola\n\nOriola é uma localidade tipicamente alentejana, conhecida pela sua tranquilidade, segurança e ambiente comunitário. Oferece uma excelente qualidade de vida, sendo perfeita para quem procura fugir ao ritmo urbano e viver em contacto com a natureza.\n\nA proximidade a várias praias fluviais do Alqueva torna esta localização ainda mais atrativa, quer para habitação permanente, quer para casa de férias ou investimento turístico.\n\nOportunidade de investimento\n\n- Imóvel com elevado potencial de valorização após obras\n\n- Ideal para habitação própria, segunda residência ou alojamento local\n\n- Localização com crescente procura turística\n\nUma excelente oportunidade para transformar esta moradia numa casa única, num dos cenários mais autênticos do Alentejo.\n\nContacte-nos para mais informações ou para agendar a sua visita.",
+  "geo": {
+    "lat": 38.31854010564621,
+    "lng": -7.865467607914296
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,24 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109820/72c0fe5f-840f-4edc-a6bc-4eaa1d2f379d.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 35,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: F",
+      "Terraço",
+      "Garagem",
+      "Serviços: Bancos, Correios, Farmácia, Escolas, Centro de saude, Policia",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Cozinha: Chaminé"
+    ]
+  },
+  "estado": "Por recuperar",
+  "area_util_m2": 15,
+  "area_bruta_m2": 35,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

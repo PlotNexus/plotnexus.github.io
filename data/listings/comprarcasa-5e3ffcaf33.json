@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 577,
   "image": "https://cdn.proppy.app/propertyfiles/5115/110252/9a863d39-a081-42da-8753-b84148e98d5c.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra este excelente imóvel em Castelo do Neiva, uma oportunidade única para investir num espaço amplo, versátil e com enorme potencial para diferentes áreas de negócio. Com uma área bruta de 4.292 m², este imóvel adapta-se facilmente a projetos de restauração, eventos, com uma grande capacidade de parque de estacionamento, armazenamento, logística, indústria ou outras atividades comerciais.\n\nLocalizado numa zona estratégica de Castelo Do Neiva, beneficia de bons acessos às principais vias rodoviárias, garantindo facilidade de deslocação e proximidade a serviços essenciais e praias.\n\nO espaço destaca-se não só pela sua dimensão e funcionalidade, mas também pelas agradáveis vistas panorâmicas sobre a montanha, criando um ambiente diferenciador e acolhedor para clientes, colaboradores e visitantes.\n\nDispõe ainda de duas casas de banho e de uma estrutura com grande potencial de adaptação às necessidades do seu negócio ou investimento.\n\nIsento de certificação energética.\n\nNOTA: Este espaco tem ainda terreno para construção de outro Armazem.\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.61288675539345,
+    "lng": -8.7660765321839
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,21 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/110252/9a863d39-a081-42da-8753-b84148e98d5c.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 577,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Certificação energética: Isento",
+      "Lugar de garagem",
+      "Nº carros: varios carros",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Serviços: Supermercados, Hospital",
+      "Zona envolvente: Residencial, Industrial",
+      "Vistas: Serra, Campo, Jardim, Areas verdes"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 464,
+  "area_bruta_m2": 577,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

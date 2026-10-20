@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Leiria, Pousos, Barreira e Cortes, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 105,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRwZDRrNmJvdGc3ZjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.WoowZELMTgO4A1tezNr3H6sw2TVRGq9kSq8ptdRGcEE/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRwZDRrNmJvdGc3ZjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.WoowZELMTgO4A1tezNr3H6sw2TVRGq9kSq8ptdRGcEE/image;s=2048x1536;q=80",
+  "description": "Descubra este fantástico apartamento T2, integrado num empreendimento pensado ao pormenor para quem procura mais do que uma casa: um verdadeiro estilo de vida, onde a modernidade, o conforto e o lazer se encontram em perfeita harmonia.\n\nCom uma arquitetura contemporânea, materiais criteriosamente selecionados e acabamentos de elevada qualidade, este apartamento distingue-se pela funcionalidade dos espaços, pela elegância dos interiores e pelas soluções que privilegiam o bem-estar em todas as estações do ano.\n\nA cozinha, totalmente equipada com eletrodomésticos de marcas de referência, como Bosch, AEG ou equivalentes de gama superior, alia design moderno à máxima funcionalidade, tornando cada momento à mesa ainda mais especial.\n\nPara garantir um conforto superior, o apartamento dispõe de climatização Inverter com produção de águas quentes sanitárias e sistema de ventilação mecânica controlada (VMC), proporcionando uma temperatura agradável, renovação contínua do ar e maior eficiência no dia a dia.\n\nOs acabamentos contemporâneos elevam a experiência de habitar: pavimentos vinílicos de elevada resistência, casas de banho com revestimentos cerâmicos de grande formato, loiças sanitárias suspensas e iluminação embutida, criando ambientes sofisticados, acolhedores e intemporais.\n\nUm estilo de vida que faz a diferença\n\nViver neste empreendimento é desfrutar de comodidades que transformam a rotina numa experiência única. Imagine começar o dia com um mergulho na piscina exterior aquecida, aproveitar momentos de diversão em família no parque infantil, praticar desporto no espaço dedicado ao padel ou futebol e reunir amigos ao final do dia na churrasqueira comunitária.\n\nO empreendimento conta ainda com uma sala de condomínio preparada para a criação de um futuro ginásio, reforçando a aposta num conceito de habitação moderno, pensado para responder às exigências de quem valoriza conforto, conveniência e qualidade de vida.\n\nUma casa para viver. Uma oportunidade para investir.\n\nSe procura a sua próxima habitação, este T2 reúne os ingredientes essenciais para viver com conforto e tranquilidade. Se procura investir, beneficia de um conceito residencial diferenciado, com equipamentos e espaços comuns que poderão contribuir para a atratividade do imóvel no mercado de arrendamento e para o seu potencial de valorização.\n\nMais do que comprar um apartamento, é escolher a qualidade de vida que merece.\n\nUm espaço onde cada detalhe foi pensado para proporcionar bem-estar, onde o design se alia à funcionalidade e onde os momentos mais simples ganham um novo significado.\n\n Não deixe escapar esta oportunidade de fazer parte de um empreendimento verdadeiramente diferenciador.\n\n Agende já a sua visita e venha descobrir o seu próximo lar!\n\nPrestamos também apoio no processo de crédito habitação.",
+  "geo": {
+    "lat": 39.74018,
+    "lng": -8.77695
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,28 @@
   "published_at": "2026-10-19",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRwZDRrNmJvdGc3ZjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.WoowZELMTgO4A1tezNr3H6sw2TVRGq9kSq8ptdRGcEE/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRwZDRrNmJvdGc3ZjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.WoowZELMTgO4A1tezNr3H6sw2TVRGq9kSq8ptdRGcEE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjB3NzZiczgyaG83Zy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.B84ubJemvxy4lxB3ecbfXOvJ0aUQNLtNPNFXhs-fPjg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5ydDJsaHhsd29lYTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2eUam6pq3z2Q4hvrILELN4bgoB4WKN2czvRJlRU6CgE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQzMXJnOG10eHpqcDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FS1vlLpEr_HignHbR8fbxhRzl6WO-8EnWdSE7B_Akc0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjVybW1iNTk0eGFuYTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Y5XML4XhY1AYeSfnmNApnSGCyltRhyiB87xoBWnw010/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlqdWhvbmJzeDRhYTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.nFM0CdUmp9RNj-tq_vVXGyuwZ-hXosuAM7CybROC6gE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZkY2t4ZmQ2ZDJ1NDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.OdQ_KRVoyVXqklXL4tuBelAyJSj3ZqD_oszY65tOZRM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRxY3NmaGszZzU1bjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.f7jO7wNusCBaHR8cjYcLWs80w0FV9NGmYnIeUdapIsU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJ6cTYyYTh2aW13OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.t3wJBwdNx6zCXV6R-1iSeb4239IRiD9s_UtehApwPyI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlkZGw4emk1bHU3ZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Mb8sCnRrhiRD-bx2owd1Yw6r-jWuwUNpXrAvBU8f2k8/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Condomínio fechado"
+    ],
+    "Equipamentos": [
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 105,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "APLUS"
 }

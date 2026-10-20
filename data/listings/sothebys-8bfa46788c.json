@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 934,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=44843&foto=840294&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=44843&foto=840294&f=1",
+  "description": "Magnífica moradia com quatro suites e vista de rio, com 687 metros quadrados de área bruta privativa, localizada a 10 quilómetros do centro da cidade de Braga, recentemente considerada pelo \"Best European Destinations\" como uma das vinte melhores cidade da Europa para viver, sendo para 2021 novamente um dos 20 destinos da Europa a concurso. \nA moradia fica a poucos metros de uma das mais conceituadas praias fluviais de Portugal. Foi totalmente reabilitada em 2019 com elevados padrões de qualidade, tendo obtido uma classificação energética \"A+ 6%\".\nO projecto de arquitectura foi elaborado por um gabinete de referência a nível Nacional, e a obra foi da responsabilidade da construtora galardoada nos últimos três anos como a melhor a nível Nacional.\nCom uma fachada classificada como Património Arquitectónico, está inserida em terreno com 13 mil metros quadrados, usufruindo de uma envolvência idílica com fonte de água natural e árvores de frutos.\nA moradia tem quatro frentes - norte, sul, nascente e poente -, aquecimento central completo, painel solar, alarme completo, e isolamento térmico e acústico.",
+  "geo": {
+    "lat": 41.59408,
+    "lng": -8.336721
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,59 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=44843&foto=840294&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=44843&foto=840294&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia",
+      "Nascente Própria"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (CCTV, Completo)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Granito)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Panorâmicas",
+      "Pastagens",
+      "Rio",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Jardins, Praias)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 934,
-  "area_bruta_m2": null,
+  "area_util_m2": 687,
+  "area_bruta_m2": 934,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

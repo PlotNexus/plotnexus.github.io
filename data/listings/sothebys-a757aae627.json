@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 346,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73695&foto=1521150&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73695&foto=1521150&f=1",
+  "description": "O empreendimento Casas de Santo Amaro é composto por cinco moradias, com quatro pisos, estacionamento, jardins privados e vista para o Tejo.\nAs moradias, possuem uma área bruta privativa entre 360 e 410 m2 com jardins e terraços descobertos, características propícias à vida familiar, que são uma mais valia ao conciliarem conforto e privacidade.\nAs Casas de Santo Amaro, com acesso independente em percurso interno pedonal, assumem a sua individualidade pelas interrupções, realçadas por um corte vertical na fachada. Com dois jardins privativos, desenvolvem-se em quatro pisos: o piso de entrada com átrio, cozinha, casa de banho social e sala aberta para o jardim; o primeiro piso com uma suite, dois quartos e uma casa de banho; o segundo piso recuado, com suite, escritório, biblioteca e terraço; e, por fim, o piso em cave com estacionamento para três viaturas, espaços de apoio e arrumos. \nO projeto procura acolher a cor e a materialidade que se integram na arquitetura da cidade. O embasamento em mármore lioz bujardado, os alçados em microbetão de alta resistência, os caixilhos e os ripados lacados a cor bronze, complementados por uma vegetação abundante materializam as composições. Mais do que uma habitação onde o conforto, o bem-estar, a privacidade e a relação com o exterior se perpetuam, esta é a escolha de uma moradia irrepetível.",
+  "geo": {
+    "lat": 38.705430649805,
+    "lng": -9.17925953864096
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,31 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73695&foto=1521150&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73695&foto=1521150&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Bons)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 346,
-  "area_bruta_m2": null,
+  "area_util_m2": 287,
+  "area_bruta_m2": 346,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

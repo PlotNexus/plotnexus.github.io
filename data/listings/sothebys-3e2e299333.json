@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 7,
   "area_m2": 644,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79560&foto=1608686&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79560&foto=1608686&f=1",
+  "description": "Moradia contemporânea T5+3, com 644 m² de área de construção, inserida num dos maiores lotes do exclusivo complexo residencial Quinta da Moura, em Oeiras. Rodeada por um magnífico jardim privado, com palmeiras, árvores de fruto e piscina, distingue-se pelas generosas áreas, luminosidade excecional, privacidade e elevada qualidade dos acabamentos.\n\nNo piso social, destaca-se a impressionante sala de 99 m², com lareira e recuperador de calor, duplo pé-direito, amplos vãos envidraçados e excelente exposição solar a sul, com acesso direto ao jardim e à piscina. Dispõe ainda de escritório com 26 m² e cozinha com 30,5 m², totalmente equipada com eletrodomésticos AEG e Miele.\n\nO primeiro piso é composto por cinco quartos de grandes dimensões, dois dos quais em suite. A master suite, com uma vista deslumbrante sobre o rio Tejo, inclui um amplo walk-in closet e uma elegante casa de banho em mármore.\n\nNo piso inferior encontra-se uma garagem para cinco viaturas, equipada com wallbox, uma suite, lavandaria, áreas técnicas, amplos espaços de arrumação e uma sala insonorizada.\n\nO jardim foi cuidadosamente concebido para proporcionar privacidade e conforto, contando com uma ampla piscina, dois jacuzzis - frio e quente, zona de barbecue, espaço gourmet com forno a lenha, palmeiras, árvores de fruto e canil, criando um verdadeiro refúgio privado para lazer e convívio.\n\nA propriedade apresenta um elevado nível de equipamento, incluindo soalho em madeira nobre de Afizélia com pavimento radiante, mármore Travertino nas casas de banho, painéis solares para AQS, sistema fotovoltaico, aspiração central, ar condicionado, rega automática e CCTV.\n\nA Quinta da Moura oferece um enquadramento residencial de excelência, com extensas zonas verdes, centro hípico e campos de ténis e padel. A localização permite acesso rápido ao Tagus Park, Quinta da Fonte e Lagoas Park, bem como a escolas internacionais de referência, como a Oeiras International School e a Sharing School. As praias encontram-se a cerca de 15 minutos.\n\nOeiras destaca-se pela elevada qualidade de vida, proximidade ao mar e forte ligação à inovação e investigação, conjugando serviços, zonas verdes, ciclovias, praias, centros empresariais e escolas internacionais.\n\nUma propriedade excecional para quem procura espaço, privacidade, conforto e exclusividade num dos mais prestigiados enquadramentos residenciais de Oeiras.",
+  "geo": {
+    "lat": 38.7159727100304,
+    "lng": -9.28005896931152
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,59 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79560&foto=1608686&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79560&foto=1608686&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Alumínio, Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Jardins, Rega Automática, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 74.35; Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Escolas, Jardins)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 644,
-  "area_bruta_m2": null,
+  "area_util_m2": 483,
+  "area_bruta_m2": 644,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 4,
   "area_m2": 390,
   "image": "https://cdn.proppy.app/propertyfiles/4580/109447/bdb6d65b-0287-4292-839e-229b1fde28d0.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Há imóveis que respondem a uma necessidade. Outros despertam uma visão.\n\nEm pleno centro da vila de Pêra, a poucos minutos das praias e de alguns dos destinos mais procurados do Algarve, encontra-se a Casa de Pêra, singular, onde a autenticidade da construção original se alia a uma extraordinária versatilidade de utilização.\n\nImplantado num lote de 475 m², este imóvel em regime de propriedade total integra habitação, loja comercial, garagem, armazém e logradouro, com andares e divisões suscetíveis de utilização independente.\n\nUma configuração rara, preparada para acolher diferentes projetos de vida ou de investimento.\n\nNo rés do chão, a loja com montra voltada para a rua principal beneficia de excelente visibilidade para comércio, serviços, atelier ou escritório. Neste mesmo piso encontram-se uma ampla garagem, um armazém de grandes dimensões, instalações sanitárias e um logradouro privativo, oferecendo condições pouco comuns para quem necessita de espaço, armazenamento ou apoio operacional.\n\nNos pisos superiores desenvolve-se uma habitação ampla, luminosa e cheia de carácter, onde os espaços revelam a personalidade de uma casa construída para durar. A distribuição atual inclui quatro quartos, escritório, várias salas, sala de refeições e de estar, cozinha, despensa, três casas de banho, varanda e amplos terraços. Algumas divisões permitem uma reorganização simples, possibilitando a criação de quartos adicionais ou novos espaços funcionais, adaptando a propriedade às necessidades do futuro proprietário.\n\nMais do que um imóvel, a Casa de Pêra representa uma oportunidade para concretizar diferentes projetos:\n\n• Residência familiar de grandes dimensões;\n\n• Habitação com atividade profissional independente;\n\n• Alojamento turístico (mediante o cumprimento da legislação aplicável);\n\n• Clínica, gabinete, atelier ou centro de serviços;\n\n• Comércio com área de armazenagem;\n\n• Sede de empresa ou espaço empresarial;\n\n• Projeto de reabilitação e valorização patrimonial.\n\nEmbora beneficie de uma construção sólida, esta propriedade oferece igualmente uma excelente oportunidade de modernização, permitindo preservar o seu carácter arquitetónico enquanto se adapta aos padrões contemporâneos de conforto e funcionalidade.\n\nA localização reforça ainda mais o seu valor. Situada no centro de Pêra, encontra-se a poucos minutos da Praia Grande, da Lagoa dos Salgados, de Armação de Pêra, de Albufeira e dos principais acessos rodoviários do Algarve, incluindo o Aeroporto Internacional de Faro.\n\nComo complemento técnico, encontra-se disponível levantamento topográfico em formato PDF e DWG, facilitando o desenvolvimento de projetos de arquitetura, reabilitação ou investimento.\n\nPropriedades com esta combinação de localização, dimensão e flexibilidade surgem raramente no mercado.\n\nAlgumas compram-se pelo que são. Outras pelo que podem vir a ser.\n\nA Casa de Pêra reúne ambas as qualidades: preserva a autenticidade de um edifício com história e oferece a liberdade de imaginar o seu próximo capítulo.",
+  "geo": {
+    "lat": 37.119184691655946,
+    "lng": -8.340395450199138
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,43 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/4580/109447/bdb6d65b-0287-4292-839e-229b1fde28d0.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Despensa",
+      "Orientação solar: Norte, Sul, Este, Oeste",
+      "Varanda",
+      "Ano construção: 1965",
+      "Arrecadação",
+      "Terraço topo",
+      "Curta distância a pé da praia",
+      "Localização central",
+      "Certificação energética: F",
+      "Varanda: 2",
+      "Terraço",
+      "Garagem",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Centro",
+      "Serviços: Supermercados, Bancos, Farmácia, Escolas",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Vistas: Mar, Serra, Campo, Areas verdes, Prédios",
+      "Logradouro",
+      "Devoluto",
+      "Quintal",
+      "Data construção: 1965",
+      "Licença de Utilização: Sim"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Norte, Sul, Este, Oeste"
+    ],
+    "Interior": [
+      "Cozinha: Despensa, Móveis"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 390,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 390,
+  "ano_construcao": 1965,
+  "certificacao_energetica": "F"
 }

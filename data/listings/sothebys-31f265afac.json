@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 400,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80222&foto=1618395&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80222&foto=1618395&f=1",
+  "description": "No coração de Vilamoura, apresentamos esta elegante moradia T3 de arquitectura contemporânea, recém-construída e totalmente mobilada, pronta a proporcionar um estilo de vida sofisticado numa das localizações mais prestigiadas do Algarve.\n\nCom linhas modernas e acabamentos de elevada qualidade, esta propriedade destaca-se pela luminosidade natural e pela perfeita integração entre os espaços interiores e exteriores.\n\nA zona social, ampla e fluida, prolonga-se para um agradável jardim privativo com piscina e zona de refeições exterior equipada com barbecue — o ambiente ideal para desfrutar do clima algarvio durante todo o ano, seja em momentos de lazer em família ou em recepções mais exclusivas.\n\nOs três quartos oferecem conforto, privacidade e um ambiente acolhedor, com uma estética contemporânea cuidadosamente pensada ao detalhe.\n\nNa cave, encontra-se uma ampla garagem com capacidade para quatro viaturas, complementada por áreas adicionais versáteis que poderão ser transformadas em ginásio, sala de cinema, adega ou qualquer outro espaço à medida do estilo de vida do futuro proprietário.\n\nUma moradia nova, pronta a estrear, que combina modernidade, elegância e a qualidade de vida única que Vilamoura proporciona — a poucos minutos da marina, campos de golfe e das melhores praias da região.",
+  "geo": {
+    "lat": 37.0695602517,
+    "lng": -8.1025028228
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,42 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80222&foto=1618395&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80222&foto=1618395&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Pisos: 2"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Gás Canalizado",
+      "Alarme (Pré-Instalação)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Bons)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 400,
-  "area_bruta_m2": null,
+  "area_util_m2": 250,
+  "area_bruta_m2": 400,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

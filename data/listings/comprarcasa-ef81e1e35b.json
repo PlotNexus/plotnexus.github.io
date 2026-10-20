@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 258,
   "image": "https://cdn.proppy.app/propertyfiles/1517/109639/ea0192a0-f18b-47b2-883b-11fae07209f4.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
+  "description": "Moradia como nova, localizada numa zona tranquila de Leiria, oferece a serenidade do campo a poucos minutos do centro da Batalha e de Leiria.\n\nComposta por 3 Quartos, incluindo uma suíte espaçosa ,Salão amplo para sala de estar e jantar, Cozinha moderna e totalmente equipada, 3 Casas de banho completas + 1 de serviço, Jardim em toda a volta da casa, garagem e Terraço panorâmico com pérgula, ideal para momentos ao ar livre.\n\n Excelente oportunidade!",
   "geo": null,
   "source": {
     "name": "ComprarCasa",
@@ -21,10 +21,30 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1517/109639/ea0192a0-f18b-47b2-883b-11fae07209f4.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 258,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Ano construção: 2020",
+      "Armários embutidos",
+      "Terraço topo",
+      "Localização central",
+      "Certificação energética: B-",
+      "Garagem",
+      "Vistas: Serra, Campo"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Recuperador de calor",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Semi-novo",
+  "area_util_m2": 74,
+  "area_bruta_m2": 258,
+  "ano_construcao": 2020,
+  "certificacao_energetica": "B"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 197,
-  "image": "https://cdn.proppy.app/propertyphotos/1515/aa9fef4b-d957-405c-ade3-580e180a10da/109984/6d9c5918-9f2a-45a1-acd6-7f6aae85cfb9.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "image": "https://cdn.proppy.app/propertyphotos/1515/aa9fef4b-d957-405c-ade3-580e180a10da/109984/6d9c5918-9f2a-45a1-acd6-7f6aae85cfb9.png?quality=70",
+  "description": "Uma moradia T3+1 de gaveto, com áreas amplas, espaços exteriores e garagem, situada no Bairro da Manizola, na Rua das Camélias, junto ao Jardim Manizola, ideal para quem procura conforto, funcionalidade e um ambiente residencial tranquilo em Arraiolos. Com 197 m² de área bruta, esta casa destaca‑se pela versatilidade dos seus espaços e pelo potencial de adaptação às necessidades de cada família.\n\nDistribuída por rés do chão, 1.º andar e aproveitamento de sótão, a moradia oferece uma zona social acolhedora no piso térreo, onde a sala de estar com lareira se torna o ponto central da casa. A sala de jantar, independente, permite separar momentos de convívio e refeições, enquanto a cozinha equipada com máquina de lavar loiça, exaustor, fogão a gás e forno, garante funcionalidade no quotidiano. Neste piso encontra‑se ainda uma casa de banho e acesso direto ao quintal, ao terraço e à garagem, que em conjunto totalizam 99,37 m² de área descoberta, perfeitos para lazer, refeições ao ar livre ou pequenas zonas ajardinadas.\n\nNo primeiro andar, a área privada distribui‑se por três quartos, um deles com varanda voltada para a rua, ideal para aproveitar a luz natural. Outro dos quartos distingue‑se pela sua área generosa de 28 m², permitindo criar um closet, escritório ou zona de descanso. Este piso conta ainda com uma casa de banho de serviço, garantindo maior comodidade.\n\nO aproveitamento de sótão, com pé‑direito utilizável, oferece espaço adicional para criar um quarto extra, sala de lazer, estúdio ou arrumos organizados, adaptando‑se facilmente ao estilo de vida de cada família. A moradia dispõe ainda de ar condicionado em várias divisões, assegurando conforto térmico ao longo de todo o ano.\n\nLocalizada numa zona calma e familiar, junto ao Jardim Manizola e a poucos minutos do centro de Arraiolos, esta moradia T3+1 representa uma oportunidade sólida para quem procura espaço, conforto e potencial de valorização numa das áreas mais agradáveis da vila.",
+  "geo": {
+    "lat": 38.71825649097857,
+    "lng": -7.98471578003241
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -19,12 +22,37 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://cdn.proppy.app/propertyphotos/1515/aa9fef4b-d957-405c-ade3-580e180a10da/109984/6d9c5918-9f2a-45a1-acd6-7f6aae85cfb9.png?quality=70&width=360&height=222&mode=crop"
+    "https://cdn.proppy.app/propertyphotos/1515/aa9fef4b-d957-405c-ade3-580e180a10da/109984/6d9c5918-9f2a-45a1-acd6-7f6aae85cfb9.png?quality=70",
+    "https://cdn.proppy.app/propertyphotos/1515/aa9fef4b-d957-405c-ade3-580e180a10da/109984/7a67679c-0047-4f9a-8787-e18b69fad207.png?quality=70",
+    "https://cdn.proppy.app/propertyphotos/1515/aa9fef4b-d957-405c-ade3-580e180a10da/109984/6193d9bd-4311-4bc6-9673-142fc3777efe.png?quality=70"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Varanda",
+      "Certificação energética: D",
+      "Varanda: 1",
+      "Terraço",
+      "Garagem",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Vistas: Campo",
+      "Recuado",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Lareira",
+      "Cozinha equipada",
+      "Cozinha: Exaustor, Máquina lavar louça, Fogão, Móveis"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 197,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 197,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

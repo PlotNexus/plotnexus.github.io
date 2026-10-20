@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 359,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68911&foto=1574573&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68911&foto=1574573&f=1",
+  "description": "Fantástica moradia T4+1 com piscina privativa inserida em pequeno condomínio de apenas três moradias numa zona prime e muito tranquila de Cascais, na Bicuda. Destaca-se pelas suas amplas áreas e luminosidade. Conta com uma área bruta de construção de 359 metros quadrados e com zona exterior privativa com piscina e zona de refeições virada a poente. A moradia foi finalizada em finais de 2023 e distribui-se por 3 pisos. \nNo piso de entrada conta com uma ampla sala com zona de lazer e jantar com cozinha em \"open space\" e acesso direto ao exterior. Conta ainda com lavabo Social e um quarto/ escritório com casa de banho.\nNo primeiro andar encontramos uma ampla suite com closet e varanda e dois quartos apoiados por casa de banho completa.\nA cave conta ainda com um amplo quarto com luz natural e casa de banho.\nA moradia possui ainda garagem fechada para 2 carros e parqueamento exterior e está equipada com ar-condicionado.\nA Quinta da Bicuda é uma zona \"prime\" residencial muito sossegada entre a Quinta da Marinha e a zona da Guia e a cinco minutos de carro da praia do Guincho e do Centro de Cascais. Walking distance dos mais variados serviços e supermercados e da ciclovia da Guia/Cascais e do Guincho. Rápidos acessos às Auto-estradas A5 e A16 e a 30 minutos do aeroporto de Lisboa.",
+  "geo": {
+    "lat": 38.7110385,
+    "lng": -9.4501001
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68911&foto=1574573&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68911&foto=1574573&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 359,
-  "area_bruta_m2": null,
+  "area_util_m2": 259,
+  "area_bruta_m2": 359,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

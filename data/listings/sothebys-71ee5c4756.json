@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 418,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76300&foto=1523887&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76300&foto=1523887&f=1",
+  "description": "Uma oportunidade única de criar uma residência privada no coração do centro histórico de Cascais, reconhecido pela UNESCO. Este palacete do século XVIII, é vendido com projeto de arquitetura aprovado e licenças camarária. \n\nO edifício principal conserva elementos originais, incluindo molduras em pedra de Lioz, janelas de guilhotina, varandins em ferro forjado e coberturas tradicionais. O projeto aprovado prevê uma adaptação cuidada do conjunto para uso como residência unifamiliar, respeitando a memória arquitetónica do imóvel.\n\nO projeto aprovado contempla uma residência principal distribuída por três pisos, com uma organização que valoriza a luz natural, a fluidez dos espaços e a ligação ao jardim. No piso principal, o palacete oferece uma ampla sala de estar e jantar com 66 metros quadrados, ligada ao exterior por uma ampla janela envidraçada, criando uma transição harmoniosa entre interior e jardim. Neste mesmo nível encontra-se uma segunda sala, ideal para escritório ou biblioteca.\n\nNo primeiro piso, a área privada é composta por três suites completas. A suite principal tem 50 metros quadrados e inclui uma casa de banho espaçosa e walk-in closet. No aproveitamento das águas furtadas, pode ser ainda incluído um quarto adicional.\n\nEsta, trata-se não apenas de uma oportunidade de reabilitação, mas de um convite à participação na preservação do património edificado de Cascais. O projeto oferece 349 metros quadrados de área habitacional aprovada, num local onde o traçado urbano de outros séculos se cruza com o ritmo da vida junto ao mar.\n\nNesta zona de Cascais, o mar está sempre por perto. A Praia da Rainha fica a três minutos a pé da propriedade. As noites podem ser passadas em tascas locais com peixe fresco, nas lojas das ruas pedonais ou a ver o pôr do sol na Praia do Guincho. Lisboa encontra-se a apenas vinte e cinco minutos pela estrada marginal, com o aeroporto acessível em trinta e cinco.",
+  "geo": {
+    "lat": 38.6978398,
+    "lng": -9.4222778
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,16 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76300&foto=1523887&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76300&foto=1523887&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 3"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 418,
-  "area_bruta_m2": null,
+  "area_util_m2": 366,
+  "area_bruta_m2": 418,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

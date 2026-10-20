@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 6,
   "area_m2": 667,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82613&foto=1682409&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82613&foto=1682409&f=1",
+  "description": "Localizada na encosta da Serra de Sintra, na exclusiva zona do Pé da Serra, em Colares, esta moradia de autor beneficia de uma localização privilegiada, onde a natureza preservada se funde com uma vista de mar única. Situada no final de uma rua privada sem saída, oferece um nível raro de privacidade, tranquilidade e exclusividade, sendo limitada a sul e a nascente por uma vasta área florestal protegida de pinheiros e sobreiros, onde não é permitida qualquer construção.\nEdificada em 1997 e desenvolvida em três pisos, a propriedade foi concebida para proporcionar uma vivência em perfeita harmonia com a paisagem envolvente. A sua posição dominante permite desfrutar de uma impressionante vista panorâmica de cerca de 280º, abrangendo o Oceano Atlântico, a costa e a envolvente natural, criando um cenário em constante transformação ao longo do dia.\nA arquitetura privilegia a luminosidade, a relação entre os espaços interiores e exteriores e uma construção executada segundo elevados padrões de qualidade. A estrutura em betão armado, reforçada por paredes curvas em betão e muro de contenção ao longo dos três pisos, confere-lhe um elevado nível de robustez e resistência sísmica. As paredes exteriores de dupla fiada com caixa de ar asseguram um excelente desempenho térmico durante todo o ano, complementado por um sistema de climatização através de piso radiante com aquecimento e arrefecimento em toda a casa.\nDestaca-se a piscina aquecida de 16 metros, tratada por eletrólise de sal e equipada com cobertura automática submersa, permitindo a sua utilização durante grande parte do ano. A zona wellness integra sauna finlandesa e hammam, criando um verdadeiro ambiente de spa privado, complementado por cozinha de verão totalmente equipada e duche exterior.\nA manutenção rigorosa e contínua é outro dos seus pontos fortes, refletida na renovação recente dos principais equipamentos técnicos, garantindo elevados níveis de fiabilidade e eficiência.\n\nA poucos minutos das praias da Adraga, Praia Grande, Azenhas do Mar e da vila histórica de Colares, esta propriedade beneficia ainda da proximidade a Cascais e a Lisboa, oferecendo um equilíbrio raro entre privacidade absoluta, natureza protegida e acessibilidade.",
+  "geo": {
+    "lat": 38.7900863654553,
+    "lng": -9.46033217354126
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,16 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82613&foto=1682409&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82613&foto=1682409&f=1"
   ],
-  "features": null,
+  "features": {
+    "Edifício": [
+      "Piscina (Exterior)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 667,
-  "area_bruta_m2": null,
+  "area_util_m2": 360,
+  "area_bruta_m2": 667,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

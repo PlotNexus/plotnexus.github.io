@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 7,
   "area_m2": 89,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76542&foto=1530095&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76542&foto=1530095&f=1",
+  "description": "Situada numa zona privilegiada do Alto Alentejo, inserida em Reserva Agrícola Nacional (RAN) e em Reserva Ecológica Nacional (REN), esta moradia de arquitetura tradicional portuguesa reflete a autenticidade e o charme típicos do Alentejo.\nDivide-se em dois pisos com amplas áreas sociais, cinco quartos em suite, piscina e jardins numa envolvente natural de grande beleza e tranquilidade. As salas de estar e de jantar têm lareira e acesso directo ao exterior.\nA região é reconhecida pela sua rica tradição vitivinícola, com cerca de 30 adegas nas proximidades de nome reconhecido — ideal para os amantes de enoturismo e da cultura alentejana. Na região existem ainda nove castelos antigos - Estremoz, Elvas, Évora, Evoramonte, Campo maior, Monsaraz, Arronches, Marvão e Castelo de Vide.\nA propriedade pode ser adquirida juntamente com uma herdade contígua com 82.6 hectares.\nEncontra-se localizada a 15 minutos do centro de Monforte onde existem todos os serviços como supermercados, escolas e farmácia, a 40 minutos da Portalegre English School, a 40 minutos de Portalegre e Estremoz, a 50 minutos de Badajoz e a duas horas do Aeroporto Internacional de Lisboa.",
+  "geo": {
+    "lat": 39.05251827,
+    "lng": -7.4394607543
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76542&foto=1530095&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76542&foto=1530095&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 89,
-  "area_bruta_m2": null,
+  "area_util_m2": 34,
+  "area_bruta_m2": 89,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

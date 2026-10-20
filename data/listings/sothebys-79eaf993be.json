@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 6,
   "area_m2": 75,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66037&foto=1443281&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66037&foto=1443281&f=1",
+  "description": "Esta magnífica moradia com mais de 500 m² de área bruta de construção com cave, oferece um estilo de vida exclusivo e é uma excelente oportunidade de investimento com rentabilidade atrativa no Alojamento Local (AL). Composta por 6 quartos de áreas generosas, incluindo uma master suíte com wc e closet. No rés-do-chão, a ampla sala de estar e jantar proporciona um espaço acolhedor e sofisticado e ligação à cozinha totalmente equipada. Enquanto o piso inferior com luz natural dispõe de uma zona de entretenimento espaçosa perfeita para lazer e convívio, um quarto, wc, generosa lavandaria e uma garagem para dois carros.\n\nCompletamente equipada com sistema de alarme, aquecimento por bomba de calor e ar condicionado, esta moradia garante o máximo conforto.\n\nEnvolvida por um encantador jardim, a propriedade conta com uma área de BBQ zona de refeição coberta, um campo de ténis e uma deslumbrante piscina. Destaca-se ainda o generoso terraço de 100 m², ideal para momentos ao ar livre em total privacidade.\n\nA localização é privilegiada, situando-se a apenas 900 metros da praia do Trafal, como possibilidade de ir a pé numa caminhada de 10mn, a 1 km de restaurantes e supermercados. Além disso, fica a apenas 3 km dos prestigiados campos de golfe de Vale do Lobo, Quinta do Lago e Vilamoura.",
+  "geo": {
+    "lat": 37.0555357,
+    "lng": -8.0776301
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66037&foto=1443281&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66037&foto=1443281&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 75,
-  "area_bruta_m2": null,
+  "area_util_m2": 300,
+  "area_bruta_m2": 75,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

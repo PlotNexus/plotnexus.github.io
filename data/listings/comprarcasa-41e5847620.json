@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 1,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110182/0b41c44d-6ffe-4bbf-b050-558560d08490.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Uma raridade no Centro Histórico de Évora | Moradia T3 NOVA com jardim e piscina privativa\n\nNo coração do Centro Histórico de Évora, no Beco do Beiçudo, encontra-se uma oportunidade verdadeiramente rara: uma moradia de R/C T3 NOVA com piscina privativa, espaço exterior e um logradouro de 107 m², onde o conforto contemporâneo se integra com a autenticidade de uma das cidades mais fascinantes de Portugal.\n\nEncontrar uma residência nova, num só piso, com esta combinação de privacidade, exterior e localização histórica é simplesmente excecional.\n\nConcebida para uma vivência sofisticada, funcional e luminosa, a moradia desenvolve-se numa arquitetura fluida, onde a zona social em open space cria uma ligação natural entre sala, cozinha e exterior, privilegiando uma experiência contemporânea e descontraída.\n\nA ala privada foi pensada como um verdadeiro refúgio, integrando 3 quartos, incluindo uma elegante suíte e uma segunda WC completa. Um pátio interior acrescenta identidade arquitetónica ao projeto, reforçando a luminosidade natural e a serenidade dos espaços.\n\nNo exterior, destaca-se um dos atributos mais raros deste imóvel: um generoso logradouro privativo de 107 m², com piscina e zona de jardim, oferecendo um ambiente exclusivo e resguardado, difícil de replicar dentro das muralhas de Évora.\n\nOs acabamentos refletem um posicionamento premium, com materiais criteriosamente selecionados, como pedra natural de Lioz, soalho multicamadas e caixilharia de elevado desempenho térmico. O conforto é assegurado por climatização integrada, sistema AQS e equipamentos de elevada qualidade.\n\nExiste ainda a possibilidade de personalização, permitindo aos futuros proprietários ajustar materiais e detalhes ao seu gosto.\n\nA construção terá início após assinatura do CPCV, com prazo estimado de entrega máximo de 18 meses.\n\nMais do que um imóvel, esta é a oportunidade de adquirir uma peça residencial rara num dos locais mais exclusivos e autênticos do Alentejo.",
+  "geo": {
+    "lat": 38.5695963,
+    "lng": -7.9037186
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,31 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110182/0b41c44d-6ffe-4bbf-b050-558560d08490.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Localização central",
+      "Certificação energética: A",
+      "Acessos: Transportes públicos",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Cidade",
+      "Logradouro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Piscina"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada",
+      "Cozinha: Microondas, Frigorifico, Máquina lavar roupa, Máquina lavar louça, Placa e forno"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 1,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 1,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 7,
   "image": "https://cdn.proppy.app/propertyfiles/5115/109445/2fe0d5a9-0c73-4356-8cb4-a78d20d4f03c.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T3 à venda – Conforto, espaço e qualidade de vida\n\nApresentamos esta excelente moradia T3, ideal para quem procura conforto, funcionalidade e um ambiente acolhedor para toda a família. A habitação dispõe de três quartos bem dimensionados, sendo um deles suite, oferecendo privacidade e comodidade no dia a dia.\n\nA zona social é composta por uma sala ampla e luminosa, perfeita para momentos de convívio, com ligação harmoniosa à cozinha moderna e totalmente equipada, pensada para facilitar o quotidiano. A moradia conta ainda com casas de banho modernas, acabamentos de qualidade e ótima exposição solar.\n\nNo exterior, destaca-se um espaço agradável, ideal para lazer, refeições ao ar livre ou momentos de descanso, com potencial para jardim, churrasqueira ou zona de convívio. Possui ainda estacionamento/garagem (ajustar conforme o caso).\n\nLocalizada numa zona tranquila e residencial, com bons acessos e proximidade a serviços, escolas, comércio e transportes e praia. Esta moradia reúne todas as condições para uma vida confortável e prática.\n\nExcelente oportunidade, seja para habitação própria ou investimento.\n\nAgende já a sua visita!\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.62182260000003,
+    "lng": -8.798096
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,23 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/109445/2fe0d5a9-0c73-4356-8cb4-a78d20d4f03c.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 7,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: A"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Cozinha equipada",
+      "Cozinha: Microondas, Exaustor, Placa e forno, Esquentador, Combinado",
+      "AquecimentoTermico: Eléctrico",
+      "Caixilharia: PVC, Vidros duplos, Caixilharia dupla",
+      "Aquecimento água: Eléctrico"
+    ]
+  },
+  "estado": "Em construção",
+  "area_util_m2": 56,
+  "area_bruta_m2": 7,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

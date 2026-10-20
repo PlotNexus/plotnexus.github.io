@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 40,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109991/02777b06-b7f2-4632-a547-83a2d1f39116.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Um espaço comercial compacto, funcional e cheio de potencial, com 40 m², situado numa das ruas mais dinâmicas e reconhecidas de Elvas.\n\nAo entrar, percebe‑se imediatamente a autenticidade de um espaço que acompanhou o comércio tradicional da cidade, uma atmosfera que hoje se transforma numa oportunidade rara para quem procura criar algo novo.\n\nA distribuição simples, com áreas distintas que podem ser reorganizadas, permite adaptar este espaço a diferentes conceitos: loja, gabinete, atelier, consultório, serviço especializado ou pequeno showroom. Cada divisão oferece a base ideal para um projeto que valoriza proximidade, visibilidade e contacto direto com o público.\n\nA localização na Rua António Tomás Pires reforça o valor estratégico do imóvel: uma zona de passagem constante, integrada no tecido histórico e comercial de Elvas, onde negócios de pequena e média dimensão encontram o ambiente perfeito para crescer. \n\nAqui, o futuro do espaço será moldado pela visão de quem o ocupar, mantendo o charme do passado, mas preparado para novas ideias.",
+  "geo": {
+    "lat": 38.879527223664454,
+    "lng": -7.165506389110954
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109991/02777b06-b7f2-4632-a547-83a2d1f39116.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: C"
+    ]
+  },
+  "estado": "Não aplicável",
   "area_util_m2": 40,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 40,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

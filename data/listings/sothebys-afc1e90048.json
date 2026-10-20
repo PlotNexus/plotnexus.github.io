@@ -8,23 +8,77 @@
   "bedrooms": 7,
   "bathrooms": 8,
   "area_m2": 89,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79036&foto=1605195&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79036&foto=1605195&f=1",
+  "description": "Palacete dos Anjos — Um ícone de luxo e história no coração do Funchal. O Palacete dos Anjos é uma residência verdadeiramente excecional, situada nas imediações da prestigiada Rua Conde Carvalhal, uma das localizações mais exclusivas do Funchal, Madeira. Envolta pela serenidade e pelo charme da capital madeirense, esta magnífica propriedade oferece vistas panorâmicas de cortar a respiração sobre a cidade e a baía, numa harmonia perfeita entre tradição, luxo e contemporaneidade. \n\nErguido originalmente em 1908, o palacete foi cuidadosamente restaurado, preservando o seu património histórico e a sua arquitetura imponente, ao mesmo tempo que incorpora linhas modernas e acabamentos de excelência. O resultado é uma fusão perfeita entre autenticidade e sofisticação, onde cada detalhe revela um profundo respeito pela história e uma atenção meticulosa à qualidade.\n\nDistribuída por quatro andares, esta propriedade distingue-se pelos seus sete amplos quartos, todos elegantemente decorados e equipados com ar condicionado, sendo quatro deles em suite. Cada espaço foi concebido para proporcionar máximo conforto e privacidade, refletindo um estilo de vida de requinte. Há ainda previsão de instalação de um elevador, garantindo total comodidade e acessibilidade em todos os pisos. A residência dispõe de sete casas de banho completas e um WC social, além de uma garagem com capacidade para três viaturas. O layout fluido e luminoso foi pensado para otimizar as vistas deslumbrantes e criar uma transição harmoniosa entre o interior e o exterior, convidando à contemplação e ao bem-estar. \n\nNo exterior, o palacete revela uma área de lazer envolvente, com jardim paisagístico, terraço com zona de barbecue e uma piscina de borda infinita que se funde visualmente com o horizonte, criando um cenário de rara beleza e serenidade. Com a sua combinação única de herança histórica, design contemporâneo e localização privilegiada, o Palacete dos Anjos representa uma oportunidade singular no mercado imobiliário de luxo da Madeira — uma verdadeira joía arquitectónica, onde o passado e o presente se encontram num equilíbrio perfeito.",
+  "geo": {
+    "lat": 32.65278,
+    "lng": -16.89626
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-conde-carvalhal-funchal_pt_79036",
-  "published_at": "2026-10-19",
+  "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79036&foto=1605195&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79036&foto=1605195&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Pisos: 4; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Depósito Lixo",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pedra Natural, Pintado)",
+      "Tecto (Estucado)",
+      "Equipamento (Casa Recolha Lixo, Jardins, Rega Automática, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Mar",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 89,
-  "area_bruta_m2": null,
+  "area_util_m2": 590,
+  "area_bruta_m2": 89,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

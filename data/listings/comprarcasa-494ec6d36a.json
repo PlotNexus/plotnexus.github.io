@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 311,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109670/1532afb9-edb4-4291-aa0a-baeb34b6a882.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos esta moradia térrea com 311 m² de área de construção, inserida num lote de 1124 m², situada na Rua Professor Cristo Fragoso, em Vila de Frades.\n\nTrata-se de uma propriedade com grande potencial de valorização, ideal para quem procura desenvolver um projeto de habitação própria, casa de férias no Alentejo ou investimento imobiliário.\n\nA generosa área de construção permite reorganizar e ampliar os espaços interiores, adaptando o imóvel às necessidades.\n\nEspaço exterior - O lote com 1124 m² oferece múltiplas possibilidades de utilização, permitindo criar:\n\n- Zona de lazer ou jardim\n\n- Piscina\n\n- Horta ou pomar\n\n- Areas de convívio ao ar livre\n\nLocalização e benefícios da zona\n\n- Situada em Vila de Frades, esta propriedade beneficia de um ambiente tranquilo e tipicamente alentejano, conhecido pela tradição vinícola e pela qualidade de vida.\n\n- A localização permite ainda fácil acesso a vários pontos importantes da região:\n\n- A poucos minutos de Vidigueira\n\n- Cerca de 30 minutos de Beja\n\n- Bons acessos a Évora e às principais vias rodoviárias\n\nPontos fortes\n\n- Moradia térrea com 311 m² de construção\n\n- Lote amplo com 1124 m²\n\n- Imóvel com grande potencial de reabilitação\n\n- Possibilidade de reorganização dos espaços e valorização do imóvel\n\n- Localização tranquila numa zona autêntica do Alentejo\n\nUma excelente oportunidade para criar uma casa personalizada num ambiente calmo e genuíno do Alentejo.\n\nContacte-nos para mais informações ou para agendar a sua visita.",
+  "geo": {
+    "lat": 38.21258337398369,
+    "lng": -7.821529080183518
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,24 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109670/1532afb9-edb4-4291-aa0a-baeb34b6a882.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: F",
+      "Terraço",
+      "Garagem",
+      "Serviços: Bancos, Correios, Farmácia, Escolas, Lar de terceira idade, Centro de saude, Policia",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Lareira"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 311,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 311,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

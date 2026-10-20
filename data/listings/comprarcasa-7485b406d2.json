@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 68,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110192/72e04c96-bc29-4bb6-ad59-35363f9d570a.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Um refúgio exclusivo no coração de Évora | Moradia T2 nova com terraço no Centro Histórico de Évora\n\nNo Beco do Beiçudo, em pleno Centro Histórico de Évora, classificado como Património Mundial da UNESCO, surge uma oportunidade rara para quem procura uma residência distinta, onde autenticidade, privacidade e conforto contemporâneo se encontram de forma natural.\n\nEsta elegante moradia T2 nova, desenvolvida no 1º piso, foi concebida para um estilo de vida sofisticado e descomplicado — ideal como residência principal de charme, segunda habitação premium ou exclusivo pied-à-terre num dos destinos mais autênticos e procurados de Portugal.\n\nA arquitetura privilegia a luminosidade, a fluidez dos espaços e uma vivência contemporânea cuidadosamente pensada. A área social integra harmoniosamente sala, zona de refeições e cozinha, criando um ambiente elegante e acolhedor, ideal tanto para o quotidiano como para receber com discrição.\n\nA separação natural entre a zona social e a área privada reforça conforto e privacidade. Os dois quartos oferecem uma atmosfera tranquila e resguardada, complementados por casa de banho completa, enquanto o pátio interior acrescenta identidade arquitetónica, luz natural e carácter ao conjunto.\n\nUm dos atributos mais distintivos desta residência é o seu terraço privativo — um verdadeiro luxo no centro histórico — perfeito para desfrutar de pequenos-almoços tranquilos, finais de tarde serenos ou simplesmente da atmosfera singular de Évora.\n\nOs acabamentos refletem um posicionamento premium, com pedra natural de Lioz, soalho multicamadas em pinho, caixilharia Guardian Sun, climatização integrada, sistema AQS, eletrodomésticos Bosch Série 4, loiças Roca Ona e torneiras Ofa Slim.\n\nAs imagens apresentadas são meramente ilustrativas do ambiente e acabamentos, pois existe a possibilidade de personalização de materiais e detalhes.\n\nA construção terá início com a assinatura do CPCV, com prazo máximo de execução de 18 meses.",
+  "geo": {
+    "lat": 38.5695963,
+    "lng": -7.9037186
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,25 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110192/72e04c96-bc29-4bb6-ad59-35363f9d570a.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Certificação energética: A",
+      "Terraço",
+      "Acessos: Transportes públicos",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Cidade"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada",
+      "Cozinha: Microondas, Frigorifico, Máquina lavar roupa, Máquina lavar louça, Placa e forno"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 68,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 68,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 214,
   "image": "https://cdn.proppy.app/propertyfiles/5115/109661/17afd52c-f87f-43fb-b754-31e50e4d8072.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Restaurante-Bar totalmente equipado à venda – Vila Praia de Âncora\n\nOportunidade de investimento em Vila Praia de Âncora: restaurante-bar totalmente renovado e pronto a funcionar, com excelente localização perto da estrada nacional 13, uma via com grande movimento.\n\nCom uma área aproximada de 190 m², o estabelecimento é composto por:\n\n• uma sala de restauração\n\n• uma área de snack-bar\n\n• uma cozinha totalmente equipada\n\n• uma despensa\n\n• instalações sanitárias e vestiários\n\nNo exterior encontrará:\n\n• um terraço com cerca de 50 m², autorizado e equipado com mobiliário\n\n• um armazém/garagem\n\n• espaço de estacionamento nas proximidades\n\nO estabelecimento é vendido totalmente mobilado e equipado, incluindo todo o material existente, desde o pequeno equipamento de sala até aos equipamentos profissionais de cozinha e refrigeração. O restaurante está pronto a ser explorado de imediato.\n\nGraças à sua localização estratégica, próxima da zona balnear e numa área com muitas residências secundárias, o restaurante apresenta grande potencial de atividade, nomeadamente com:\n\n• menus do dia durante a semana\n\n• serviço de take-away\n\n• churrasco\n\n• restauração mais elaborada aos fins de semana e na época alta\n\nO terraço exterior constitui uma grande mais-valia, muito apreciada pela clientela.",
+  "geo": {
+    "lat": 41.80309822970196,
+    "lng": -8.856324860780463
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,25 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/109661/17afd52c-f87f-43fb-b754-31e50e4d8072.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 214,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista cidade",
+      "Ano construção: 1991",
+      "Certificação energética: C",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Periferia, Beira-mar",
+      "Serviços: Supermercados",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Vistas: Mar, Jardim, Areas verdes, Cidade"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 190,
+  "area_bruta_m2": 214,
+  "ano_construcao": 1991,
+  "certificacao_energetica": "C"
 }

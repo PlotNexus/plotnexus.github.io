@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 142,
   "image": "https://cdn.proppy.app/propertyfiles/1525/109942/2d8308da-6c93-423d-96ff-19321536e102.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Fantástico T2 - Urb. SolTróia\n\nEste apartamento oferece uma excelente oportunidade para viver perto da praia, numa zona residencial tranquila em Tróia.\n\nCom uma área generosa de 128 m², dispõe de duas casas de banho, proporcionando conforto e privacidade. O imóvel está inserido num condomínio privado com piscina e jardim, ideal para momentos de lazer em família ou com amigos.\n\nConstruído em 1994, o apartamento beneficia de segurança adicional graças ao sistema de alarme instalado.\n\nA proximidade à praia permite desfrutar do melhor do litoral alentejano, enquanto a conveniência de ter comércio local a poucos minutos a pé facilita o dia a dia.\n\nA localização oferece um ambiente funcional e prático, sendo perfeita para quem procura tranquilidade sem abdicar de acessos rápidos às principais necessidades. Uma oportunidade única para viver ou investir numa das zonas mais procuradas da região.\n\nO que está à espera para se deslumbrar com este magnífico imóvel?\n\nInserida na Rede Imobiliária ComprarCasa (a primeira e única rede imobiliária com Certificação ISO 9001 e a maior Rede Imobiliária Ibérica), a ComprarCasa Foros de Amora nasceu a 1 de Abril de 2017 licenciada com o AMI 12851 (licença de Mediação Imobiliária). A transparência, confiança, compromisso, inovação, trabalho em equipa, qualidade e profissionalismo são os pilares que norteiam a nossa forma de trabalhar.\n\nIntermediário de Crédito vinculado: Ilha Urbana Construções, Lda, registado junto do Banco de Portugal com o número de registo: 0003339. Serviços de Intermediação de Crédito: Apresentação ou proposta de contratos de crédito a consumidores; Assistência a consumidores, mediante a realização de atos preparatórios ou de outros trabalhos de gestão pré-contratual relativamente a contratos de crédito que não tenham sido por si apresentados ou propostos.",
+  "geo": {
+    "lat": 38.4581914,
+    "lng": -8.8685503
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,27 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1525/109942/2d8308da-6c93-423d-96ff-19321536e102.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 142,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Ano construção: 1994",
+      "Duplex",
+      "Condomínio fechado",
+      "Alarme",
+      "Curta distância a pé da praia",
+      "Certificação energética: E",
+      "Tipo de unidade: Apartamento T2 (3 assoalhadas)",
+      "Zona envolvente: Residencial",
+      "Vistas: Jardim, Areas verdes",
+      "Fração autónoma"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Piscina"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 128,
+  "area_bruta_m2": 142,
+  "ano_construcao": 1994,
+  "certificacao_energetica": "E"
 }

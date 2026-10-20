@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 57,
   "image": "https://cdn.proppy.app/propertyfiles/1505/109643/5ed747c1-0f37-438a-972b-ef4e1c760d3d.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra este acolhedor apartamento T2 situado na cidade da Praia da Vitória, numa zona residencial tranquila e agradável, ideal para quem procura conforto, privacidade e qualidade de vida.\n\nCom uma área total de 77,57 m² e uma área útil de 72,47 m², este imóvel dispõe de dois quartos, uma casa de banho e áreas bem distribuídas, proporcionando um ambiente funcional e confortável para o dia a dia. Os espaços interiores convidam à criação de um lar acolhedor e personalizado, perfeito para famílias, jovens casais ou até para quem procura um investimento seguro na ilha Terceira.\n\nO apartamento encontra-se em boas condições de conservação, estando pronto a habitar, o que permite uma mudança imediata sem necessidade de grandes intervenções. A sua localização privilegiada combina a tranquilidade de uma zona residencial com a proximidade de diversos serviços, tornando o quotidiano mais prático e conveniente.\n\nSe procura uma habitação confortável para residência permanente, uma casa de férias ou uma oportunidade de investimento com excelente potencial, este apartamento reúne todas as condições para ser a escolha certa.\n\nVenha conhecer este imóvel e descubra o seu próximo lar na encantadora cidade da Praia da Vitória.",
+  "geo": {
+    "lat": 38.740259503654556,
+    "lng": -27.075108289718635
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,23 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/109643/5ed747c1-0f37-438a-972b-ef4e1c760d3d.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 57,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Despensa",
+      "Certificação energética: C",
+      "Acessos: Transportes públicos",
+      "Localização: Periferia",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial"
+    ],
+    "Interior": [
+      "Cozinha: Placa e forno, Despensa, Móveis",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 47,
+  "area_bruta_m2": 57,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

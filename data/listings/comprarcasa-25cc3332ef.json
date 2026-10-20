@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 100,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109843/db553cb0-0cbb-41e3-a8f8-4926ba1cbfc2.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia térrea T3 com quintal para renovação, situada na Rua Larga nº 13, em São Marcos do Campo, no concelho de Reguengos de Monsaraz — uma oportunidade clara de valorização numa das zonas com maior crescimento turístico do Alentejo.\n\nIdeal tanto para investimento como para habitação própria, esta propriedade permite desenvolver um projeto de renovação totalmente ajustado ao gosto e necessidades do futuro proprietário, seja para residência permanente, casa de férias ou exploração turística (AL).\n\nInserida numa rua ampla, tranquila e de fácil acesso, a localização garante um enquadramento típico alentejano, com baixa densidade, estacionamento facilitado e boa acessibilidade rodoviária.\n\nO imóvel encontra-se em estado devoluto, com intervenção iniciada e entretanto interrompida, oferecendo total liberdade para redefinir layout, acabamentos e posicionamento do imóvel no mercado.\n\nNo exterior, dispõe de cerca de 50 m² de espaço, com potencial para criação de zona de lazer, jardim, piscina ou pátio — um elemento altamente valorizado tanto para uso próprio como no mercado turístico.\n\n Nota: atualmente não dispõe de cozinha nem de instalação sanitária\n\nLOCALIZAÇÃO ESTRATÉGICA:\n\n- A apenas 10 km de Reguengos de Monsaraz\n\n- A 9 km da Praia Fluvial e Marina da Amieira\n\n- A cerca de 25 km da Barragem do Alqueva\n\n- A 25 km da vila histórica de Monsaraz\n\nA combinação entre preço de entrada acessível, potencial de valorização e versatilidade de utilização torna este imóvel uma solução sólida, quer para investimento, quer para quem procura criar uma casa à medida no Alentejo.\n\nUma oportunidade para transformar um ativo com base tradicional num projeto personalizado, alinhado com o estilo de vida e a procura atual do mercado.\n\nPara mais informações ou agendamento de visita, contacte-nos.",
+  "geo": {
+    "lat": 38.414773800000006,
+    "lng": -7.572378299999999
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,20 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109843/db553cb0-0cbb-41e3-a8f8-4926ba1cbfc2.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: F",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim"
+    ]
+  },
+  "estado": "Por recuperar",
   "area_util_m2": 100,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 100,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

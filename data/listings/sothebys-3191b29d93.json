@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82809&foto=1684747&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82809&foto=1684747&f=1",
+  "description": "Penthouse T5 localizada nas Avenidas Novas, inserida no último piso de um edifício com elevador. Com 212 m² de área bruta privativa, exposição solar nascente/poente, vista desafogada sobre a cidade e um terraço de 33 m², esta propriedade reúne características diferenciadoras numa das localizações mais procuradas da capital.\n\nA distribuição interior privilegia a funcionalidade e a fluidez entre os diferentes espaços. O apartamento dispõe de cinco quartos, dos quais duas suites, quatro casas de banho e amplas áreas sociais com ligação ao terraço, proporcionando uma vivência equilibrada entre interior e exterior. A orientação nascente/poente assegura uma excelente entrada de luz natural ao longo do dia.\n\nA cozinha foi totalmente remodelada, apresentando um design contemporâneo, elevada capacidade de arrumação e encontrando-se totalmente equipada com eletrodomésticos Miele. Três das quatro casas de banho foram igualmente renovadas, com soluções atuais e funcionais. Quatro dos cinco quartos beneficiam de novos roupeiros embutidos, reforçando a organização dos espaços. A fração inclui ainda box de estacionamento com lugar para dois carros e arrecadação localizada na cobertura do edifício.\n\nSituada na Avenida Conde Valbom, esta penthouse beneficia de uma localização central, rodeada por comércio, serviços e uma vasta oferta de restauração, disponível a menos de dois minutos a pé. Supermercados, escolas e unidades hospitalares encontram-se a menos de dez minutos de distância, assim como o El Corte Inglés, uma das principais referências comerciais da cidade.\n\nA propriedade encontra-se a apenas seis a nove minutos a pé de duas estações de metro, garantindo ligações rápidas a diferentes zonas de Lisboa. A proximidade aos principais eixos rodoviários facilita o acesso ao Aeroporto Humberto Delgado, ao Eixo Norte-Sul, à Segunda Circular e às restantes áreas da cidade.\n\nUma oportunidade para quem procura uma penthouse T5 nas Avenidas Novas, com terraço, vista sobre Lisboa, box para dois carros, cozinha remodelada e equipada com eletrodomésticos Miele, e arrecadação na cobertura, num contexto urbano que combina centralidade, acessibilidade e proximidade a comércio, serviços e pontos de referência da cidade.",
+  "geo": {
+    "lat": 38.735575,
+    "lng": -9.1485617
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82809&foto=1684747&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82809&foto=1684747&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 212,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

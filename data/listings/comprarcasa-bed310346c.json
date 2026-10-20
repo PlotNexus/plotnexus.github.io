@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 49,
   "image": "https://cdn.proppy.app/propertyfiles/1505/110261/65712465-a8e4-4091-a9f8-ebce05763b4a.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Excelente oportunidade de reconstrução!\n\nRuína localizada na pitoresca freguesia da Terra Chã, com um amplo quintal. Esta ruína, distribuída por dois pisos, apresenta também um pequeno anexo, além de um generoso quintal com espaço para cultivo ou para criação de uma zona de lazer, proporcionando um ambiente tranquilo e sereno.\n\nSituada em frente à emblemática Junta da Sociedade da freguesia da Terra Chã, esta propriedade possui um potencial incrível para ser transformada num lar acolhedor ou mesmo para investimento. A sua localização central oferece conveniência e acessibilidade a serviços e comodidades locais.\n\nA possibilidade de dividir a ruína em dois apartamentos aumenta ainda mais o seu potencial de investimento, proporcionando flexibilidade e versatilidade aos futuros proprietários. Com um projeto de reconstrução adequado, esta ruína pode tornar-se numa residência encantadora ou em duas unidades habitacionais independentes.",
+  "geo": {
+    "lat": 38.677432641124284,
+    "lng": -27.25356048350476
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,24 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/110261/65712465-a8e4-4091-a9f8-ebce05763b4a.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Orientação solar: Sul",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Periferia",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Licença de Utilização: isento"
+    ],
+    "Exterior": [
+      "Orientação Solar: Sul"
+    ]
+  },
+  "estado": "Não aplicável",
   "area_util_m2": 49,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 49,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81366&foto=1646444&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81366&foto=1646444&f=1",
+  "description": "Apartamento T3 situado em Santo Amaro de Oeiras, inserido no condomínio Casas do Mar, uma oportunidade para quem procura viver junto a costa com privacidade total, vista mar e espaço exterior diferenciado. Este imóvel destaca-se pelo terraço com piscina privada tratada com sal, entrada independente e localização a curta distância a pé da praia e do paredão marítimo. Trata-se de um apartamento com vivência de uma moradia.\n\nCom 159 m² de área bruta privativa, este apartamento apresenta uma distribuição funcional e equilibrada. Dispõe de três quartos, sendo um dos quartos em suite. Os outros dois quartos são apoiados por uma casa de banho completa. Sala e cozinha em open space, que abrem para um amplo terraço com uma vista deslumbrante sobre o mar. A boa exposição solar favorece a entrada de luz natural ao longo do dia.\nO apartamento conta ainda com uma zona de lavandaria e está equipado com ar condicionado em todas as divisões.\n\nLocalizado num de edifício construído em 2021, de arquitetura contemporânea, encontra-se em excelente estado de conservação, com entrada independente que lhe confere a sensação de estar numa moradia. O imóvel beneficia ainda de box fechada com dois lugares de estacionamento e entrada directa para o apartamento.\nO amplo terraço prolonga a área social da casa e permite usufruir de momentos ao ar livre com total privacidade e vista frontal de mar.\n\nA envolvente oferece uma combinação rara entre tranquilidade residencial e proximidade a serviços essenciais. Supermercados encontram-se a cerca de 1 minuto a pé, restauração a 5 minutos, hospital a cerca de 10 minutos e escolas internacionais a aproximadamente 10 minutos de distância.\n\nEm termos de acessos rodoviários, a localização permite ligação rápida à Avenida Marginal em 3 minutos, A5 em 6 minutos, CRIL em 12 minutos e IC19 em 15 minutos, facilitando deslocações para Lisboa, Cascais e restantes zonas da linha.\n\nA estação de comboios de Oeiras encontra-se a cerca de 12 minutos a pé, permitindo acesso direto a Lisboa e Cascais. O Aeroporto Humberto Delgado fica a aproximadamente 20 minutos, enquanto o Aeródromo de Tires está a cerca de 15 minutos, reforçando a conveniência desta localização em Oeiras.",
+  "geo": {
+    "lat": 38.6876724045806,
+    "lng": -9.30736246380635
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81366&foto=1646444&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81366&foto=1646444&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 159,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

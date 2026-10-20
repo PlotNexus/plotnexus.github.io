@@ -9,8 +9,11 @@
   "bathrooms": 9,
   "area_m2": 1200,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109651/9759ad63-5f8a-461f-9e8b-c9bf6603b32b.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Palacete neoclássico francês com jardim botânico de Jean Claude Forestier em propriedade de 8 hectares | Elvas\n\nNa cidade de Elvas, Património Mundial da UNESCO e junto à fronteira com Espanha, encontra‑se esta propriedade absolutamente singular, onde arquitetura, paisagem e história se unem num conjunto de rara elegância, num eixo estratégico entre Lisboa e Sevilha.\n\nImplantada em cerca de 8 hectares, é dominada por um palacete de inspiração neoclássica francesa, construído em 1887 e restaurado em 2010, preservando integralmente a sua traça original e o carácter aristocrático. A residência principal, com 1.200 m², reflete a atmosfera das grandes casas senhoriais europeias: salões amplos, tetos trabalhados, pavimentos em madeira maciça, colunas em mármore e uma escadaria monumental que marca o centro da casa.\n\nIntegra vários quartos e suites de grandes dimensões, além de espaços sociais luminosos concebidos para receber com distinção. A envolver o palacete, destaca‑se um jardim botânico com cerca de 34.000 m², desenhado por Jean Claude Forestier, com árvores centenárias, esculturas, espelhos de água e percursos sinuosos que criam um ambiente de grande beleza e serenidade.\n\nA propriedade inclui ainda duas habitações independentes, ideais para hóspedes, staff ou apoio funcional, distribuídas por diferentes zonas do terreno.\n\nComplementando o conjunto, encontram‑se instalações equestres completas, com cerca de 4,6 hectares: arena com areia de sílica, trinta boxes, picadeiro, paddocks e garagem para camiões, uma infraestrutura rara e altamente valorizada.\n\nPela sua escala, valor histórico e enquadramento paisagístico, esta propriedade adapta‑se a múltiplos usos: residência privada de prestígio, hotel boutique de charme ou espaço exclusivo para turismo de luxo e eventos.\n\nUma oportunidade rara de adquirir um património verdadeiramente único no sul da Europa, no encontro entre Portugal e Espanha.",
+  "geo": {
+    "lat": 38.86888006767803,
+    "lng": -7.182527039247094
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,28 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109651/9759ad63-5f8a-461f-9e8b-c9bf6603b32b.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: D",
+      "Garagem",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Policia",
+      "Vistas: Campo, Areas verdes",
+      "Árvores",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Piscina"
+    ],
+    "Interior": [
+      "Lareira",
+      "Recuperador de calor",
+      "Cozinha: Chaminé, Exaustor, Placa e forno, Móveis"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 1200,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 1200,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

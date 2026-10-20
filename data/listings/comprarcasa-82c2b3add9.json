@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 449,
   "image": "https://cdn.proppy.app/propertyfiles/1515/109969/dbc5d006-8327-4ce6-8e1a-dd6864e8ae96.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Um prédio de canto com uma moradia &gt;T6 e espaço comercial, com acesso a duas ruas e um enorme potencial de reabilitação no centro de Reguengos de Monsaraz, ideal para quem procura investir, recuperar e valorizar um imóvel com identidade e dimensão raras. Com 449 m² de área bruta e 144 m² de área exterior, este edifício oferece uma base sólida para vários tipos de projeto como habitação, alojamento, comércio ou uma combinação estratégica de ambos.\n\nO prédio desenvolve‑se ao nível do rés do chão e do 1.º andar, beneficiando da sua localização de esquina entre a Rua General Humberto Delgado e a Rua de Mourão, o que garante excelente visibilidade, acessos e luminosidade natural. A moradia principal, distribui‑se por seis quartos, quatro salas, uma cozinha e uma casa de banho, preservando elementos arquitetónicos tradicionais e uma estrutura que permite múltiplas soluções de reorganização. O quintal, com 144 m², acrescenta um espaço exterior valioso, ideal para criar zonas de lazer, jardim, anexos ou áreas de apoio.\n\nNo rés do chão, o espaço comercial oferece uma sala ampla com 48,1 m² e uma zona de arrumos com 16 m², permitindo desenvolver atividade comercial, serviços ou até integrar este piso num projeto habitacional mais abrangente. A versatilidade do conjunto é um dos seus maiores trunfos, permitindo adaptar o imóvel às necessidades de investidores, famílias ou empreendedores.\n\nEste prédio apresenta uma estrutura com um potencial evidente, áreas generosas e uma localização central numa das localidades mais procuradas do Alentejo. Uma oportunidade rara para quem pretende transformar, valorizar e dar nova vida a um imóvel com história.",
+  "geo": {
+    "lat": 38.423657503161735,
+    "lng": -7.533962041120503
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/109969/dbc5d006-8327-4ce6-8e1a-dd6864e8ae96.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: E"
+    ]
+  },
+  "estado": "Por recuperar",
   "area_util_m2": 449,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 449,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

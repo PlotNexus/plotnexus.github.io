@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 6,
   "image": "https://cdn.proppy.app/propertyfiles/1506/109654/f8de72e2-8cec-428f-a465-9ef329347316.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T3 em Pedra com Charme Único – Vilar de Nantes\n\nApresentamos esta autêntica moradia T3 toda em pedra em Vilar de Nantes, uma propriedade cheia de caráter que combina o encanto da arquitetura tradicional com conforto e funcionalidade.\n\nConstruída em pedra natural, esta moradia destaca-se pelo seu estilo rústico e acolhedor, ideal para quem procura tranquilidade, qualidade de vida e o charme das casas típicas da região.\n\nNo interior, a casa oferece espaços amplos e convidativos, incluindo cozinha em open space, que proporciona maior luminosidade e um ambiente moderno e funcional, perfeito para momentos em família e para receber amigos.\n\nPara maior conforto durante todo o ano, a moradia dispõe de aquecimento central a gasóleo. A cozinha conta ainda com uma acolhedora lareira, enquanto a magnífica lareira na sala se destaca como o ponto central da casa, criando um ambiente quente e elegante.\n\nA moradia dispõe de 3 quartos (T3) e de um amplo salão multifuncional, ideal para grandes jantares de família ou momentos de convívio. Este espaço encontra-se equipado com balcão e casa de banho de apoio, podendo inclusive ser adaptado para funcionamento como café. Destaca-se ainda pela sua versatilidade, permitindo também a utilização como garagem com capacidade para várias viaturas.\n\nSituada em Vilar de Nantes, numa zona tranquila e agradável, permite desfrutar da serenidade do campo sem abdicar da proximidade a serviços, comércio e acessos.",
+  "geo": {
+    "lat": 41.728727912945544,
+    "lng": -7.464649267910456
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,33 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1506/109654/f8de72e2-8cec-428f-a465-9ef329347316.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 6,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Varanda",
+      "Ano construção: 1999",
+      "Arrecadação",
+      "Armários embutidos",
+      "Terraço topo",
+      "Varanda: 3",
+      "Terraço",
+      "Garagem",
+      "Nº carros: 3",
+      "Acessos: Transportes públicos",
+      "Localização: Periferia",
+      "Vistas: Campo, Areas verdes, Cidade"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Aquecimento",
+      "Lareira",
+      "Recuperador de calor",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 125,
+  "area_bruta_m2": 6,
+  "ano_construcao": 1999,
   "certificacao_energetica": null
 }

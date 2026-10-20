@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 4,
   "image": "https://cdn.proppy.app/propertyfiles/1515/110176/24a1a266-9f5b-4473-894f-bb6e9ff148f4.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Uma moradia T1+1 de três pisos no coração do Centro Histórico de Évora, onde a localização é a verdadeira protagonista e cada piso revela a alma de uma casa típica alentejana.\n\nNo Largo D’Álvaro Velho, entre ruas históricas, fachadas centenárias e a luz única de Évora, encontra-se esta moradia, cheia de potencial para quem reconhece o valor de um imóvel inserido num dos cenários mais emblemáticos da cidade. Aqui, cada metro quadrado conta uma história, a da vida tranquila do centro histórico, onde tudo acontece a poucos passos.\n\nNota: Atualmente arrendado através de um contrato vitalício no valor de 75€ p/ mês.\n\nCom 86,40 m² distribuídos por rés do chão, 1.º e 2.º andar, esta casa oferece uma vivência vertical, típica das moradias tradicionais. No rés do chão, a entrada e a cozinha criam o primeiro contacto com o quotidiano da casa simples, funcional e com a autenticidade preservada. Subindo ao primeiro piso, a sala de estar abre espaço para a luz e para a vida, sendo o coração social da moradia. No último piso, o quarto e a casa de banho completam a zona privada, com a sensação de refúgio acima das ruas históricas.\n\nMais do que uma moradia, esta é uma oportunidade rara: um imóvel no centro histórico com uma localização que, por si só, sustenta o investimento. Para quem conhece Évora, sabe que viver ou investir aqui é entrar num património vivo, onde cada rua tem memória e cada casa tem identidade.",
+  "geo": {
+    "lat": 38.5700058155367,
+    "lng": -7.907452703345046
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,17 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/110176/24a1a266-9f5b-4473-894f-bb6e9ff148f4.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: E",
+      "Acessos: Transportes públicos",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 4,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 4,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 267,
   "image": "https://cdn.proppy.app/propertyfiles/1502/109956/d183f7de-69aa-45d0-89be-cecf6e50e8a6.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "O presente armazém situa-se na atual zona de expansão da cidade, próximo de superfícies comerciais e futuro hospital privado, junto ao IP8 que faz a ligação a Espanha.\n\nO terreno com 252M2 urbano, tem de implantação do edifício 201M2\n\n Armazém e atividade industrial com área bruta de construção: 267M2 \n\nImóvel com imenso potencial de investimento a vários níveis.\n\nRés do chão com espaço amplo 2 W/Cs duas arrecadações e garagem,1º andar com 2 escritórios com áreas bastante generosas. \n\nConstruído em 2005, apresenta-se como uma solução versátil para quem procura espaço para negócios, armazenamento ou apoio logístico. \n\nPara mais informações ou agendamento de visita entre em contato connosco!\n\nCOMPRARCASA DE PESSOAS PARA PESSOAS!",
+  "geo": {
+    "lat": 38.02003406686114,
+    "lng": -7.852289690745504
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,27 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1502/109956/d183f7de-69aa-45d0-89be-cecf6e50e8a6.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 267,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Orientação solar: Sul",
+      "Ano construção: 2005",
+      "Arrecadação",
+      "Certificação energética: E",
+      "Garagem",
+      "Nº carros: 1",
+      "Serviços: Supermercados, Escolas",
+      "Zona envolvente: Residencial, Industrial, Comercial"
+    ],
+    "Exterior": [
+      "Orientação Solar: Sul"
+    ],
+    "Interior": [
+      "Caixilharia: Alumínio"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 201,
+  "area_bruta_m2": 267,
+  "ano_construcao": 2005,
+  "certificacao_energetica": "E"
 }

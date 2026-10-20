@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 90,
   "image": "https://cdn.proppy.app/propertyfiles/1921/110251/e73079ab-93ad-4686-b178-7d8afaf72a97.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia com arrumos e anexos no centro da vila de Avelar. \n\nMoradia com enorme potencial de reconstrução.\n\nEsta moradia, situada no coração de Avelar, destaca-se pela sua localização central e ambiente tranquilo. \n\nCom uma boa área habitacional e com viabilidade de aumentar em mais um andar em altura, é uma excelente oportunidade de negócio numa zona de grande expansão. Com uma área bruta de 90 m² permite ainda potencial de aproveitamento adicional, conforme as necessidades dos novos proprietários.\n\nA proximidade a serviços, comércio e acessos facilita o dia a dia, sem abdicar da serenidade típica de uma vila. Esta é uma excelente oportunidade para quem valoriza qualidade de vida e contacto com a natureza.\n\nMarque já a sua visita.\n\nA informação que consta neste website é meramente indicativa e não tem caráter contratual. Poderá, por motivos técnicos, comerciais ou legais, ser sujeita a alterações sem aviso prévio.\n\nCompraCasa é uma Rede Imobiliária integrada exclusivamente por associados da APEMIP (Associação dos Profissionais e Empresas de Mediação Imobiliária de Portugal), garantia de profissionalismo e de proteção dos direitos dos consumidores e utilizadores.\n\nA APEMIP ocupa hoje uma posição destacada no mercado imobiliário nacional, quer pela aposta contínua na afirmação do papel do profissional de mediação imobiliária na nossa sociedade, quer pela conquista de uma maior quota no mercado de transações de imóveis, na linha do lema “Fortalecer a Mediação, Dinamizar a Economia e Servir os Consumidores”.\n\nPor seu lado, a UCI (União de Créditos Imobiliários) é uma Instituição Financeira especialista na concessão de crédito à habitação a particulares através dos profissionais do sector imobiliário. A UCI resulta da joint venture entre dois dos maiores grupos financeiros da Europa: o Grupo Santander, o Grupo BNP Paribas. Desta união surge o compromisso de ajudar a desenvolver o sector da mediação imobiliária, colocando ao seu alcance as melhores ferramentas que possibilitem potenciar o negócio imobiliário.\n\nNeste sentido é perfeitamente lógico que estas duas entidades de referência do sector da mediação imobiliária (APEMIP e a UCI) tenham, em Junho de 2004, celebrado um acordo de colaboração dando origem à ComprarCasa – Rede Imobiliária da Apemip.\n\nComprarCasa inicia a sua atividade comercial em Agosto de 2004 assente na missão de “Ser a Maior e Melhor Rede Imobiliária Nacional oferecendo múltiplos serviços a mediadores imobiliários, baseados no conceito de marca comum”, possibilitando e potenciando sinergias que se transformem em valores acrescentados para o mercado, nomeadamente para si que pretende vender, comprar, arrendar ou trespassar um determinado imóvel.\n\nPolítica da Qualidade ComprarCasa Coimbra\n\nComprarCasa Coimbra tem como compromisso prestar um serviço de excelência aos diversos intervenientes no sector da mediação imobiliária, disponibilizando para tal as melhores ferramentas que possibilitam potenciar o negócio imobiliário. Este conceito de negócio, apesar de original, tem valores tradicionais na sua génese:\n\nProfissionalismo; Empenho; Capacidade e Competência.\n\nA política adotada pela ComprarCasa Coimbra consiste em trabalhar, sob um Sistema de Gestão da Qualidade, económico, eficaz e dinâmico, documentado e verificado regularmente para melhorar continuamente a sua adequação e eficácia, renovando-se sistematicamente com vista à melhoria contínua de desempenho da empresa, garantindo desta forma o ajustamento às necessidades dos clientes internos e externos, possibilitando-lhe a obtenção do objetivo de oferecer ao cliente um serviço de qualidade e valor acrescentado.\n\nA política de qualidade da Rede ComprarCasa proporciona um marco de referência ao estabelecer e rever periodicamente os objetivos da Rede e ao garantir o cumprimento dos requisitos da norma, Legislação, Regulamentação, Sistema da Qualidade implementado e outros requisitos aplicáveis à atividade.\n\nComprarCasa Coimbra. A melhor forma de encontrar a casa ideal.",
+  "geo": {
+    "lat": 39.93177538069676,
+    "lng": -8.3572363850908
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,33 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1921/110251/e73079ab-93ad-4686-b178-7d8afaf72a97.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 90,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Orientação solar: Sul, Oeste",
+      "Ano construção: 1937",
+      "Localização central",
+      "Certificação energética: F",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Centro de saude",
+      "Zona envolvente: Residencial, Industrial, Comercial, Turística",
+      "Vistas: Serra, Campo, Areas verdes",
+      "Acesso deficientes",
+      "Devoluto",
+      "Data construção: 1937",
+      "Fração autónoma"
+    ],
+    "Exterior": [
+      "Piso: R/C",
+      "Orientação Solar: Sul, Oeste"
+    ],
+    "Interior": [
+      "Caixilharia: Madeira"
+    ]
+  },
+  "estado": "Não aplicável",
+  "area_util_m2": 48,
+  "area_bruta_m2": 90,
+  "ano_construcao": 1937,
+  "certificacao_energetica": "F"
 }

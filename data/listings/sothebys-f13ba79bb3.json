@@ -8,23 +8,80 @@
   "bedrooms": 5,
   "bathrooms": 8,
   "area_m2": 479,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75952&foto=1601366&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75952&foto=1601366&f=1",
+  "description": "Situada numa das zonas mais prestigiadas do Funchal, esta distinta moradia senhorial V5 combina o charme do século XIX com o conforto da vida moderna. Reabilitada com grande atenção ao detalhe em 2015, onde se harmoniza o esplendor da construção original do século XIX com o conforto e as exigências da vida moderna, destaca-se pela sua localização excecional, a apenas 50 metros do mar e a escassos minutos a pé do centro histórico da cidade. Dois pisos funcionais com layout versátil, permitindo diversas formas de ocupação ou rentabilização. Composta por dois pisos, sendo que no piso inferior, encontra-se um Estúdio, com ligação fluida ao jardim e zona exterior. É composto por um quarto em suite, cozinha em open space para sala de estar e sala de jantar e uma casa de banho social. Ainda neste piso, encontra-se a lavandaria, dois quartos de arrumos e mais uma casa de banho completa de apoio ao exterior. No piso superior, conta com entrada principal imponente, com hall revestido em madeira nobre, composto por um Apartamento T1 e Apartamento T3, com possibilidade de conversão em T4. Os quartos contam com casas de banho privadas e acabamentos contemporâneos, 2 cozinhas em open space, modernas e totalmente equipadas, pavimentos em madeira de casquinha e elementos em pedra natural cuidadosamente preservados, sistema de ar condicionado instalado nas principais divisões. No exterior, encontra um jardim paisagístico, com árvores de grande porte e zonas de lazer, uma ampla piscina aquecida com 48 metros quadrados, que confere um ambiente de requinte e serenidade e um pátio privativo ideal para convívio e refeições ao ar livre. Conta com dois lugares de estacionamento, com possibilidade de ampliação até quatro. Numa Localização de excelência, em frente à praia da Barreirinha, esta moradia está apenas cinco minutos a pé do Mercado dos Lavradores e centro histórico. Proximidade a zonas comerciais, culturais e de lazer, esta moradia é ideal para quem procura uma residência distinta numa zona privilegiada ou pretende investir num imóvel de elevado potencial turístico, com capacidade para funcionar como três unidades independentes. A versatilidade do layout permite responder a diversos perfis de ocupação e maximizar o retorno sobre o investimento.",
+  "geo": {
+    "lat": 32.64771613317,
+    "lng": -16.8946629508789
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-centro-do-funchal-funchal_pt_75952",
-  "published_at": "2026-10-19",
+  "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75952&foto=1601366&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75952&foto=1601366&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Portadas",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pedra Natural)",
+      "Paredes (Pedra Natural)",
+      "Tecto (Estucado)",
+      "Equipamento (Casa Recolha Lixo, Jardins, Rega Automática, TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave, Exterior)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 479,
-  "area_bruta_m2": null,
+  "area_util_m2": 51,
+  "area_bruta_m2": 479,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

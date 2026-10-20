@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 200,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=57063&foto=1045508&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=57063&foto=1045508&f=1",
+  "description": "Moradia fantástica, numa das encostas sobranceiras ao Funchal, com vista privilegiada, definitiva e completamente única para a cidade e baía. Uma casa para desfrutar, conta com sauna panorâmica, assim como todas as divisões, pois o repouso, a descontração assim como o apelo ao convívio foram aspetos fundamentais e que os proprietários tiveram em linha de conta. A propriedade está disposta em três pisos, sendo que a vivência faz-se em dois deles. Pode contar com duas suites, uma delas na zona social, zona de churrasco, piscina e todas as comodidades para uma vida tranquila a contrastar com dia-a-dia agitado da cidade que encontramos lá em baixo. Uma peça singular e incrivelmente bela.",
+  "geo": {
+    "lat": 39.639538,
+    "lng": -8.195801
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=57063&foto=1045508&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=57063&foto=1045508&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 200,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 200,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

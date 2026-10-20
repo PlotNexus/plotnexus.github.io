@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 713,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69569&foto=1341131&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69569&foto=1341131&f=1",
+  "description": "O Blue Villas é o mais recente empreendimento a nascer em São Pedro do Estoril, na fantástica Linha de Cascais. Aqui, a experiência de vida é acompanhada pelo som do silêncio, enquanto no horizonte um constante encontro está marcado com o azul do céu e do mar. Seja qual for a perspetiva da qual beneficiará da sua nova casa, no Blue Villas terá uma garantia de privacidade tingida pela mais pura sofisticação.\nPensado pela ARX Arquitetos como um condomínio privado cujas linhas de tom contemporâneo se conjugam com a harmonia dos exteriores, o Blue Villas emancipa igualmente todo o horizonte que se revela. Um horizonte que é feito tanto do oceano como da Linha de Cascais que o acompanha.\nO Blue Villas é composto por 6 exclusivas moradias com piscina privativa, jardim e 4 lugares de estacionamento, todas de tipologia T4+1 com áreas entre 352 e 365 m2 e 4 apartamentos T3 com áreas entre 232 e 258m2 e 3 lugares de estacionamento. O condomínio conta ainda com zonas de jardim e um ginásio totalmente equipado.\nNas palavras do Arq.º Nuno Mateus, este espaço de pacatez e segurança onde 10 frações se separam em 4 volumes independentes é “uma resposta que respeita o espírito específico do local, de forma a estabelecer uma inserção harmoniosa e consolidadora, mas que acomode também as necessidades da vida contemporânea”.\nDesde os tempos áureos que a aristocracia é praticamente tida como um sinónimo do conceito de Linha de Cascais. Aqui, a minutos dos mais conhecidos pontos de lazer de toda esta área e no centro de uma excelente rede viária e de transportes, o Blue Villas será um dos principais ícones residenciais de São Pedro do Estoril. Na verdade, um empreendimento concebido para abrir novos horizontes para a sua vida.",
+  "geo": {
+    "lat": 38.69918,
+    "lng": -9.370481
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,52 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69569&foto=1341131&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69569&foto=1341131&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Escolas, Ginásio, Jardins, Jardins Infância, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 713,
-  "area_bruta_m2": null,
+  "area_util_m2": 352,
+  "area_bruta_m2": 713,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

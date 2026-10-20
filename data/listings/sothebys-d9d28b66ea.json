@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76958&foto=1549477&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76958&foto=1549477&f=1",
+  "description": "No coração do elegante Príncipe Real, descubra este extraordinário apartamento T2+1 com 178 m², inserido num palácio histórico totalmente reabilitado, onde o charme clássico se funde com o conforto contemporâneo.\n\nCom uma sala ampla e luminosa com lareira, cozinha em open space totalmente equipada, escritório, lavandaria, uma suíte generosa e um segundo quarto, este imóvel oferece uma vivência sofisticada e funcional.\n\nO apartamento é vendido luxuosamente mobilado, com peças de design criteriosamente selecionadas, refletindo um estilo de vida exclusivo e requintado.\n\nInclui ainda dois lugares de estacionamento — um verdadeiro privilégio nesta zona nobre da cidade.\n\nUma oportunidade rara de viver ou investir num imóvel com carácter, história e localização privilegiada em Lisboa.",
+  "geo": {
+    "lat": 38.7206333,
+    "lng": -9.1418613
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76958&foto=1549477&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76958&foto=1549477&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 178,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }
