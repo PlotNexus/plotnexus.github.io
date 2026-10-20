@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 420,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83572&foto=1705346&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83572&foto=1705346&f=1",
+  "description": "Localizada numa das zonas residenciais mais procuradas de Lagos, esta elegante moradia contemporânea, construída em 2024, combina arquitetura, conforto, tecnologia e privacidade, com uma privilegiada vista mar.\n\nInserida num lote de 614 m² e com cerca de 420 m² de área bruta, a propriedade apresenta amplas áreas interiores e exteriores, destacando-se pela excelente ligação entre os espaços sociais, os terraços e a piscina privada aquecida de água salgada.\n\nA moradia dispõe de 4 quartos, 5 casas de banho, ginásio, cinema privado, garagem para dois veículos e um apartamento T1 independente. Os acabamentos em madeira de nogueira e os diversos sistemas tecnológicos — incluindo piso radiante, climatização central, sistema de som, painéis solares e segurança integrada — reforçam o seu carácter sofisticado.\n\nNo exterior, o terraço principal, com aproximadamente 110 m² e vista mar, proporciona um espaço privilegiado para desfrutar do clima e da tranquilidade do Algarve.\n\nUma propriedade distinta, concebida para quem procura uma experiência de vida contemporânea, confortável e privada numa das localizações mais desejadas de Lagos.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83572&foto=1705346&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83572&foto=1705346&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 420,
-  "area_bruta_m2": null,
+  "area_util_m2": 8,
+  "area_bruta_m2": 420,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

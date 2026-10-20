@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 157,
   "image": "https://cdn.proppy.app/propertyfiles/1497/108647/b76f3cd1-1201-4d1c-b288-0dcfb49c7b5e.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
+  "description": "Moradia de quatro assoalhadas sita a cerca de 3 Km da Praia da Vieira, próxima de hipermercados e escolas , sala com lareira, aquecimento central, garagem, sotão, e logradouro.\n\nO imóvel tem a área bruta de construção de 157 m2, é composto de três quartos com roupeiros embutidos, duas casas de banho, sala com lareira, marquise, garagem com portão automático, e aquecimento central. O terreno que integra a moradia dispõe de terraço com churrasqueira e arrecadação.\n\nIMA - Sociedade de Mediação Imobiliária, Lda. Lic. AMI 2473, pertencente ao Grupo IMA , desde 1985, trata-se de uma empresa com elevada dinâmica e experiência ao seu serviço.\n\nEm qualquer momento, os imóveis aqui identificados podem ser reservados, vendidos, retirados de venda ou com preços alterados.",
   "geo": null,
   "source": {
     "name": "ComprarCasa",
@@ -21,10 +21,31 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1497/108647/b76f3cd1-1201-4d1c-b288-0dcfb49c7b5e.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 157,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Barbecue",
+      "Varanda",
+      "Ano construção: 1998",
+      "Certificação energética: C",
+      "Varanda: 3",
+      "Terraço",
+      "Garagem",
+      "Nº carros: 1",
+      "Acessos: Transportes públicos",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Infantário, Centro de saude",
+      "Zona envolvente: Residencial, Comercial",
+      "Churrasqueira",
+      "Logradouro",
+      "Quintal",
+      "Licença de Utilização: SIM"
+    ],
+    "Exterior": [
+      "Jardim"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 145,
+  "area_bruta_m2": 157,
+  "ano_construcao": 1998,
+  "certificacao_energetica": "C"
 }

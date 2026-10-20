@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 5,
   "image": "https://cdn.proppy.app/propertyfiles/5115/108388/99f89eba-6eea-404d-8401-eae5b78ad91c.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
+  "description": "Apartamento T3 de Luxo em Vila Nova de Gaia\n\nApresentamos este magnífico apartamento T3 de luxo, situado numa das zonas mais prestigiadas de Vila Nova de Gaia, onde o conforto, a elegância e a modernidade se unem para proporcionar uma experiência habitacional única.\n\nCom uma área generosa, este imóvel destaca-se pela qualidade dos acabamentos, design contemporâneo e materiais de alta gama. A sala ampla, com luz natural abundante, oferece um ambiente sofisticado com acesso direto a uma varanda espaçosa, ideal para momentos de lazer ou convívio.\n\nA cozinha, totalmente equipada com eletrodomésticos de última geração, combina funcionalidade e requinte, perfeita para quem aprecia cozinhar com estilo. Os três quartos, proporcionam máximo conforto e privacidade, com roupeiros embutidos e acabamentos premium.\n\nEste apartamento inclui ainda:\n\nAr condicionado \n\nCaixilharia com corte térmico e vidros duplos\n\nEstores elétricos\n\nGaragem privada (box)\n\nElevador\n\nVídeo porteiro e sistema de segurança\n\nCertificação energética A\n\nLocalizado a poucos minutos do El Corte Inglés, da Avenida da República, de escolas internacionais, estações de metro e com rápido acesso à Ponte da Arrábida, este é o lar ideal para quem procura viver com conforto, segurança e proximidade à cidade do Porto.",
   "geo": null,
   "source": {
     "name": "ComprarCasa",
@@ -21,10 +21,32 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/108388/99f89eba-6eea-404d-8401-eae5b78ad91c.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Orientação solar: Este, Oeste",
+      "Elevador",
+      "Certificação energética: A",
+      "Garagem",
+      "Acessos: Transportes públicos",
+      "Localização: Centro, Interior",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude",
+      "Zona envolvente: Comercial, Turística"
+    ],
+    "Exterior": [
+      "Piso: 1º",
+      "Orientação Solar: Este, Oeste"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada",
+      "AquecimentoTermico: Eléctrico",
+      "Caixilharia: PVC",
+      "Aquecimento água: Eléctrico"
+    ]
+  },
+  "estado": "Em construção",
+  "area_util_m2": 6,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 6,
   "area_m2": 440,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76325&foto=1535977&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76325&foto=1535977&f=1",
+  "description": "O projeto Casas do Lago é um empreendimento boutique composto por moradias independentes T5 com piscina, jacuzzi, garagem e cais privado. As moradias estão integradas num cenário único nas margens da Albufeira de Castelo de Bode.\n\nCom uma arquitetura contemporânea e minimalista que se funde com a paisagem envolvente, cada casa proporciona uma experiência de contacto direto com a natureza.\n\nDistribuídas por três pisos, as moradias destacam-se pelos interiores amplos e luminosos, infinity pool sobre o lago, quatro suítes no piso superior (incluindo uma master suíte com closet) e uma zona social com duas áreas distintas, recuperadores de calor e cozinha com ilha. No piso inferior, existe uma suíte de hóspedes, sala polivalente (ginásio ou cinema), lavandaria e garagem com capacidade para 3 carros e 2 pontos de carregamento elétrico.\n\nO projeto aposta em acabamentos de qualidade — como pavimentos em madeira de carvalho, caixilharia minimalista Cortizo com corte e isolamento térmico, cozinhas com bancadas em pedra e sistemas de climatização em toda a casa — incluindo ainda varandas com deck em madeira e jacuzzi com vistas ininterruptas sobre a água.\n\nSituado a 1h15 de Lisboa, com acesso por autoestrada em 90% da viagem, e a poucos minutos de praias fluviais e da cidade de Tomar, o empreendimento Casas do Lago redefine o conceito de segunda residência ou refúgio permanente. Aqui, a vida sabe a mais.",
+  "geo": {
+    "lat": 39.5986274,
+    "lng": -8.3024505
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76325&foto=1535977&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76325&foto=1535977&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 440,
-  "area_bruta_m2": null,
+  "area_util_m2": 428,
+  "area_bruta_m2": 440,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

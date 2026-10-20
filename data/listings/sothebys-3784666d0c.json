@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 8,
   "area_m2": 951,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=62857&foto=1160734&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=62857&foto=1160734&f=1",
+  "description": "Trata-se de uma inigualável e exclusiva moradia, construída num lote de terreno com 2860m2, situada junto à inspiradora praia da Granja, com todas as sofisticadas valências inerentes ao segmento de elevado padrão em que se insere, sendo o projeto da autoria da Arquiteto José Leite. Entrando nesta extraordinária moradia, encontramos no rés do chão, um convidativo hall de entrada, um harmonioso escritório, uma casa de banho social, 2 salas de estar ( uma delas c/ lareira), uma sala de jantar, uma cozinha com copa. Esta última, é seguida de uma ampla lavandaria e de uma prática despensa. Dispõe ainda de 7 lugares de estacionamento.\nPassando ao 1º piso, encontramos a tranquila e sofisticada área privada da moradia, com 4 amplos e luminosos quartos, todos em suite, sendo que a master suíte é servida por um espaçoso walk-in closet, sendo ainda de referir a existência de mais um closet extra para apoio dos restantes quartos. Também neste piso, teremos o privilégio de podermos, em todos os quartos, apreciar sublimes terraços. \nPor último, na cave, deparamo-nos com a impressionante zona social e de lazer desta majestosa e intemporal propriedade. Aqui, poderemos disfrutar de uma sala de jogos com mesa de bilhar, uma terceira sala de estar com bar, sala de cinema, um excelente ginásio e uma soberba piscina interior aquecida e jacuzzi. \nPara melhor e mais confortável deslocação dentro da moradia, o seu proprietário poderá usar um prático elevador interno desde a cave até ao primeiro piso.\nAo nível da climatização, dispõe de ar condicionado em todos os quartos e salas, painéis termodinâmicos e bomba de calor.\nPara finalizar, é obrigatório e primordial, referir toda a magnifica e imponente zona verde que envolve esta sumptuosa moradia, com a sua extensa zona ajardinada de cerca de 1800 m2, a qual inclui um imponente pomar, serenos espelhos de água e um incomparável court de ténis. Todo o sistema de rega da zona ajardinada é automático, e servido por um furo de água que garante a sustentabilidade de toda a envolvente natural.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,61 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=62857&foto=1160734&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=62857&foto=1160734&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Court Ténis",
+      "Video-Porteiro",
+      "Alarme (CCTV)",
+      "Piscina (Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Court Ténis, Jardins, Rega Automática, Video-Porteiro)",
+      "Piscina (Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Campo",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 951,
-  "area_bruta_m2": null,
+  "area_util_m2": 600,
+  "area_bruta_m2": 951,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 272,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79595&foto=1683344&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79595&foto=1683344&f=1",
+  "description": "Localizada na Bicuda, num condomínio com apenas duas casas, mesmo na fronteira da Quinta da Marinha e com uma área de construção de 272m2, esta moradia geminada destaca-se pela sua inserção numa rua tranquila, rodeada de zonas verdes, a poucos minutos do mar e a curta distância a pé dos principais serviços de Cascais. A propriedade oferece um elevado nível de privacidade, uma excelente organização dos espaços e uma vivência confortável numa das zonas residenciais mais prestigiadas da região. A moradia dispõe de quatro quartos, sendo dois deles em suite, bem como várias áreas sociais amplas e bem distribuídas. No piso principal encontram-se a cozinha, a sala de jantar e a sala de estar, todas com acesso direto ao terraço e ao jardim, onde se situa uma piscina privada, proporcionando um espaço exterior reservado para usufruto ao longo de todo o ano. A sala inclui ainda uma lareira a lenha com recuperador de calor, criando um ambiente acolhedor nos meses mais frescos. Neste piso existe também uma suite, ideal para quarto de hóspedes ou escritório. A cozinha está equipada com eletrodomésticos da marca Siemens, incluindo placa elétrica, sendo que a casa dispõe igualmente de instalação de gás natural.\nNo piso superior encontra-se a suite principal, complementada por dois quartos adicionais que partilham uma casa de banho completa. A moradia apresenta materiais de linhas sóbrias e intemporais, facilmente adaptáveis a diferentes estilos de decoração. A propriedade foi cuidadosamente mantida ao longo dos anos, com intervenções regulares de manutenção, encontrando-se atualmente em excelente estado de conservação. Está equipada com doze painéis solares fotovoltaicos, contribuindo para uma elevada eficiência energética e permitindo uma produção significativa de energia para autoconsumo. O aquecimento de águas é assegurado através de painéis solares. Dispõe ainda de piso radiante nas zonas de entrada, halls e casas de banho, sendo as restantes divisões climatizadas por um sistema de ar condicionado com funções de aquecimento e arrefecimento, o que lhe confere um Certificado Energético A+. Na cave encontra-se uma garagem fechada com capacidade para dois automóveis.\nA localização, junto à Quinta da Marinha, permite acesso rápido a campos de golfe, à ciclovia do Guincho, às praias e escolas internacionais. \nAlgumas das imagens apresentadas incluem Virtual Home Staging, com o objetivo de permitir visualizar o potencial dos espaços.",
+  "geo": {
+    "lat": 38.7046557778757,
+    "lng": -9.44841457714844
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,45 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79595&foto=1683344&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79595&foto=1683344&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 1"
+    ],
+    "Caixilharia": [
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Porto de Mar)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 272,
-  "area_bruta_m2": null,
+  "area_util_m2": 202,
+  "area_bruta_m2": 272,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

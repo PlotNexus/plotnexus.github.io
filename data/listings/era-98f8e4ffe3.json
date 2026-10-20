@@ -10,14 +10,17 @@
   "area_m2": null,
   "image": null,
   "description": null,
-  "geo": null,
+  "geo": {
+    "lat": 38.562496185302734,
+    "lng": -9.096699714660645
+  },
   "source": {
     "name": "ERA",
     "url": "https://www.era.pt"
   },
   "listing_url": "https://www.era.pt/imovel/moradia-isolada-t5-seixal-fernao-ferro-383260016",
-  "published_at": "2026-10-18",
-  "last_seen_at": "2026-10-18",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-10-20",
   "images": [],
   "features": null,
   "estado": null,

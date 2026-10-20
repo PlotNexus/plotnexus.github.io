@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 105,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108634/96b93dd4-c899-4531-8c68-45d310647363.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos a encantadora “Courela do Monte do Meio”, uma quintinha de 2.140 m² que alia autenticidade e serenidade, ideal para residência permanente ou casa de férias. Situada em São Bento do Ameixial, a poucos minutos de Estremoz, conjuga o melhor do estilo de vida alentejano com conforto moderno.\n\nA moradia térrea, renovada há 5 anos, dispõe de 3 quartos (1 em suite), 1 escritório (que pode ser quarto adicional), sala espaçosa com salamandra, cozinha equipada (placa, forno, exaustor e micro-ondas) e 2 wc. Acabamentos rústicos e funcionais, com termoacumulador de 200L.\n\nNo exterior, encontra-se zona relvada com deck, piscina amovível, duche, horta, árvores de fruto, oliveiras e anexo para arrumos. Toda a propriedade está vedada, com duas entradas independentes e portão de acesso. Estrada alcatroada até à entrada.\n\nDe dia, o espaço convida ao lazer e convívio; à noite, o céu estrelado cria um ambiente mágico e silencioso.\n\nSão Bento do Ameixial é uma aldeia tranquila, a apenas 10 minutos da histórica Estremoz, com excelentes acessos e proximidade ao nó da A6. Lisboa fica a cerca de 1h30 e Badajoz a 30 minutos.\n\nEstremoz é cada vez mais procurada por quem valoriza tradição, cultura e qualidade de vida, oferecendo mercados, restaurantes, eventos, vinhos premiados e paisagens únicas – perfeito para quem deseja fugir do ritmo citadino sem perder comodidade.\n\nEste imóvel é um convite a viver com alma alentejana, em harmonia com a natureza.\n\nAgende já a sua visita!",
+  "geo": {
+    "lat": 38.8367882,
+    "lng": -7.664482399999999
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,29 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108634/96b93dd4-c899-4531-8c68-45d310647363.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Barbecue",
+      "Certificação energética: F",
+      "Localização: Periferia",
+      "Vistas: Campo",
+      "Árvores",
+      "Churrasqueira",
+      "Muro",
+      "Logradouro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Cozinha: Microondas, Exaustor, Placa e forno",
+      "Fogão de sala"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 105,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 105,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

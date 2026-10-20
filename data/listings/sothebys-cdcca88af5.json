@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 75,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64450&foto=1205870&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64450&foto=1205870&f=1",
+  "description": "Descubra a Casa Adpropeixe, uma deslumbrante propriedade situada na albufeira da barragem da Caniçada, no concelho de Terras do Bouro, Gerês. \nCom uma arquitetura premiada, assinada por Carlos Castanheira e Clara Bastai, esta casa é uma verdadeira obra-prima em madeira. Construída em 2008, foi vencedora do prestigiado Prémio Nacional de Arquitetura em Madeira (PNAM2011), refletindo a sua excelência e originalidade.\nEsta casa V3, com uma área habitacional de 190.75 m2, oferece um ambiente acolhedor e luxuoso. Possui uma suite com casa de banho privativa, e mais dois quartos espaçosos que podem acomodar até oito pessoas. Dispõe ainda de uma casa de banho completa e uma sala comum em open-space, integrada com a sala de jantar com 53 m2 e cozinha, proporcionando espaços amplos e funcionais. Dispõe de uma zona de refeições no deck com 65 m2, equipada com churrasco, perfeita para desfrutar de momentos e da vista única do Parque natural.\n\nA casa conta com uma garagem de arrumos e zona técnica e estacionamento no logradouro. Dispõe de um ancoradouro privado licenciado, proporcionando acesso exclusivo à albufeira da barragem da Caniçada. Tem furo de água com capacidade de armazenamento de 5000, litros garante um abastecimento constante e seguro.\n\nA climatização da casa é assegurada por uma bomba de calor, ventilo-convectores e um recuperador de calor na sala, oferecendo conforto em todas as estações do ano. A casa é dotada de sistemas de domótica Only e Atouch, proporcionando uma experiência cómoda. A segurança é uma prioridade, com alarme e vídeo vigilância instalados.\n\nLocalizada no Parque Nacional da Peneda-Gerês, a Casa Adpropeixe desfruta de uma localização privilegiada na margem direita do rio Cávado, com vista para a albufeira da barragem da Caniçada. A propriedade eleva-se a 4,5 metros de altura numa palafita composta por 52 pilares de ferro e madeira, proporcionando uma ligação harmoniosa com a natureza circundante.\n\nA construção da casa utiliza madeiras de elevada qualidade, como o Pinho silvestre para a estrutura, Pinho de Riga para os soalhos e tetos, e Cumaru nos decks exteriores. O terreno de 18.700 m2 é uma verdadeira floresta, com uma vegetação densa e luxuriante, com carvalhos, medronheiros, bétulas, liquidâmbares, freixos, castanheiros, pinheiros, azevinhos, e uma exposição total a sul. A 1,5 hora de distância do aeroporto do Porto, proporciona uma experiência única e inesquecível.",
+  "geo": {
+    "lat": 41.6861289,
+    "lng": -8.1724734
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,44 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64450&foto=1205870&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64450&foto=1205870&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia",
+      "Furo",
+      "Mina",
+      "Nascente Própria"
+    ],
+    "Caixilharia": [
+      "Madeira",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Alarme (CCTV, Completo)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Rio",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 75,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 75,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 48,
   "image": "https://cdn.proppy.app/propertyfiles/1526/108550/040158b3-08fe-40e4-842f-da0ec22e15df.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "🏡 Moradia V2+1 – Ideal para Investimento | Fenais da Ajuda\n\nApresenta-se esta encantadora moradia com 2 mais 1 quartos, situada na freguesia de Fenais da Ajuda, em localização tranquila e em pleno contacto com a natureza.\n\nCom três quartos espaçosos e uma casa de banho, esta propriedade oferece um ambiente acolhedor e funcional, ideal para quem procura qualidade de vida ou uma excelente oportunidade de investimento.\n\nCom uma área total de 134 m², a moradia dispõe ainda de zona exterior, perfeito para momentos de lazer ao ar livre, e proporciona vistas sobre a montanha.\n\n🌿 Características principais:\n\nMoradia T2+1\n\nTrês quartos amplos\n\nUma casa de banho\n\nZona exterior\n\nLocalização tranquila e em contacto com a natureza\n\nVista montanha\n\nÁrea total: 134 m²\n\nExcelente potencial para investimento, habitação própria ou casa de férias\n\n💰 Oportunidade única numa zona calma e com paisagem natural envolvente.\n\n📞 Contacte-nos para mais informações ou para agendar a sua visita.",
+  "geo": {
+    "lat": 37.85274639999999,
+    "lng": -25.3246504
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,35 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/108550/040158b3-08fe-40e4-842f-da0ec22e15df.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 48,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Orientação solar: Norte",
+      "Localização central",
+      "Certificação energética: D",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados",
+      "Zona envolvente: Residencial",
+      "Vistas: Serra",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Norte"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 19,32",
+      "Área do(s) Quarto(s): 24,87",
+      "Área da Cozinha: 9,08",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio",
+      "Aquecimento água: Eléctrico, Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 8,
+  "area_bruta_m2": 48,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

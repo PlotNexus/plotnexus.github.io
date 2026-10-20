@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 5,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80234&foto=1624721&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80234&foto=1624721&f=1",
+  "description": "Situada no coração do Funchal, a poucos minutos a pé do centro da cidade, esta moradia isolada distingue-se pela sua localização privilegiada, pelas áreas generosas e pelo caráter singular que alia história e modernidade.\n\nConstruída em 1871 e totalmente remodelada através de um projeto de modernização cuidado e sofisticado, a propriedade preserva a sua identidade original enquanto integra acabamentos contemporâneos e pormenores arquitetónicos únicos que a tornam verdadeiramente distinta. Cada detalhe foi pensado para oferecer conforto, elegância e funcionalidade.\n\nCom tipologia T5, distribui-se por espaços amplos e luminosos, contando com cinco quartos e quatro casas de banho, ideais para uma família numerosa ou para quem valoriza áreas adicionais para escritório, hóspedes ou lazer. As zonas sociais revelam-se harmoniosas e convidativas, beneficiando de excelente exposição solar.\n\nNo exterior, a moradia dispõe de piscina privativa, perfeita para momentos de descontração em total privacidade, além de áreas envolventes que permitem desfrutar do clima ameno da ilha durante todo o ano. A garagem coberta assegura comodidade e segurança.\n\nPara elevar ainda mais o nível de conforto e bem-estar, a propriedade conta também com banho turco, proporcionando uma experiência de relaxamento exclusiva no ambiente privado do seu lar.\n\nA localização é um dos seus maiores trunfos: a curta distância a pé encontram-se comércio, serviços, restaurantes, escolas e todas as comodidades essenciais, permitindo um estilo de vida prático e cosmopolita, sem necessidade de recorrer constantemente a viatura.\n\nEsta é uma oportunidade para quem procura viver com distinção, conforto, centralidade e um toque de luxo.",
+  "geo": {
+    "lat": 32.64771613317,
+    "lng": -16.8946629508789
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,23 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80234&foto=1624721&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80234&foto=1624721&f=1"
   ],
-  "features": null,
+  "features": {
+    "Domótica": [
+      "Piscina (Exterior)",
+      "Ginásio (Banho Turco)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Mar"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_util_m2": 9,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

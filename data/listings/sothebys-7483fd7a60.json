@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 5,
   "area_m2": 629,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77214&foto=1571973&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77214&foto=1571973&f=1",
+  "description": "Moradia localizada na avenida mais premium da cidade, conta uma área total de 629 m2, dos quais 492m2 são de área bruta privativa.\nA entrada para a garagem faz-se por uma rua de sentido único, paralela à avenida. Existindo um estudo prévio para moradia isolada, o lote de terreno com 670 m2 pode oferecer, por exemplo, a possibilidade de construção de duas moradias geminadas, mediante projecto submetido à câmara municipal. \nNas proximidades e a poucos passos, a sua localização permite uma vivência a pé, com todo tipo de serviços nas imediações. \nA zona circundante conta com rede de transportes públicos, Museus de projecção mundial, parques e um vasto conjunto de colégios de prestígio, de raizes nacionais e internacionais. \nA sua proximidade com a avenida da Boavista dá acesso a uma vasta rede viária de destinos diversos a norte e sul da cidade. A marginal fica a menos de 2 km de distância.\nUma excelente oportunidade de investimento, em localização que será sempre e constantemente valorizada.\nNão hesite em nos contactar para mais informações.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,37 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77214&foto=1571973&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77214&foto=1571973&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 4; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 629,
-  "area_bruta_m2": null,
+  "area_util_m2": 492,
+  "area_bruta_m2": 629,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 451,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75196&foto=1635292&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75196&foto=1635292&f=1",
+  "description": "Apresentamos uma moradia excecional, ideal para quem valoriza conforto, privacidade e qualidade de vida. Com 5 quartos e uma generosa área de 450 metros quadrados, esta propriedade insere-se num magnífico terreno de 1.260 metros quadrados, com uma vista deslumbrante para o campo de golfe.\n\nNo rés-do-chão, encontram-se duas amplas salas de estar e de jantar, casa de banho social, escritório e duas suítes com closet. A sala de estar dá acesso a um alpendre fechado, que integra de forma harmoniosa a zona social da casa.\n\nNo primeiro piso, encontra-se uma suíte com closet, dois quartos adicionais e uma casa de banho completa, ampla e funcional, que serve ambos os quartos.\n\nNa cave, existe uma garagem com capacidade para três viaturas, lavandaria e uma zona de arrumos.\n\nO jardim oferece total privacidade e conta com uma piscina, área de barbecue e um pequeno pomar com árvores de fruto. A parte traseira da casa está virada para o campo de golfe, proporcionando uma vista ampla e desafogada.\n\nA moradia está equipada com aquecimento central, painéis solares, termoacumulador e ar condicionado reversível no alpendre.\n\nA Quinta da Beloura é conhecida pela sua localização privilegiada, onde a tranquilidade da natureza se alia à proximidade de todas as comodidades urbanas. Aqui desfruta-se de segurança e qualidade de vida, com acesso a campos de golfe, ténis e padel.\n\nNas imediações existem supermercados, hipermercados e prestigiadas escolas internacionais, como a TASIS e a Carlucci American School. A zona dispõe ainda de escolas de ténis e equitação, garantindo que todas as necessidades da família estejam asseguradas.\n\nA poucos minutos encontram-se hotéis de luxo como o Penha Longa Resort e o Pestana Sintra Golf Resort, ideais para lazer e relaxamento. E o melhor: esta moradia está apenas a 10 minutos de Cascais e de Sintra, e a 5 minutos do Estoril, com fácil acesso a todas as atrações da região.\n\nNão perca a oportunidade de viver num local que combina o melhor da natureza com a comodidade da cidade. Agende já a sua visita e descubra a sua nova casa.",
+  "geo": {
+    "lat": 38.8028097,
+    "lng": -9.3840983
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75196&foto=1635292&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75196&foto=1635292&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 451,
-  "area_bruta_m2": null,
+  "area_util_m2": 308,
+  "area_bruta_m2": 451,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

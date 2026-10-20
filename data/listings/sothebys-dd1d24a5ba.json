@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 6,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81352&foto=1643860&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81352&foto=1643860&f=1",
+  "description": "Apartamento duplex T3+2 contemporâneo com 428 m2 de área de construção, com terraço de 53 m2 e vistas magníficas de mar, em prestigiado condomínio com jardim e piscina. Localizado na privilegiada zona do Alto de Santa Catarina, reúne tranquilidade e sofisticação. O imóvel apresenta uma área bruta de construção de 428,88 m2, divididos por três pisos. Destaca-se o pé-direito alto, superior a 3 metros. O piso social conta com um hall de entrada imponente, onde avistamos de imediato o mar; uma sala com cerca de 50m2, com lareira moderna e acesso ao magnífico terraço em deck com vista de rio e de piscina; cozinha moderna totalmente equipada, com triturador de resíduos, máquina de café encastrada, forno de 90 cm, placa de vitrocerâmica e gás de 90 cm, máquina de lavar loiça, microondas encastrado, frigorifico americano, arca vertical de frio, arca vertical de vinhos; uma IS social. Neste piso destaca-se ainda uma suite independente para staff/office. No piso superior encontramos três quartos - dois deles em suite, tendo a master suite 29m2 e vista frontal de rio, com IS de 12m2. O andar inferior, com 214 m2, conta com uma garagem para 3 viaturas (70m2), uma sala de lazer (54m2), zona privada de sauna e banho turco (15 m2), garrafeira e lavandaria (15m2). \nAcabamentos premium: caixilharias Kawneer de vidro duplo; domótica remota (alarme, estores elétricos, sensores de inundação e gás, iluminação remota, videovigilância, som ambiente), AC Daikin, aspiração central, pavimento e armários em madeira exótica natural (sucupira) e mármore Tasso branco, painéis solares, pavimento radiante nas IS, loiças e torneiras da Philipe Starck. O condomínio beneficia de um bonito jardim, piscina e ginásio.\nO Alto de Santa Catarina é uma zona residencial tranquila e bem localizada, ideal para famílias que procuram qualidade de vida perto de Lisboa. Com vistas amplas sobre o rio Tejo, fica junto ao Parque Nacional do Jamor, um dos melhores complexos desportivos e de lazer da região, que oferece atividades ao ar livre, ciclovias e campos de ténis. A zona beneficia também da proximidade ao Passeio Marítimo de Algés, à Doca de Santo Amaro e à Marina de Oeiras, ótimos para passeios junto ao rio e atividades náuticas. Além disso, conta com o Colégio Español, muito procurado por famílias que valorizam ensino internacional. Bem servida de comércio local, escolas, supermercados e acessos rápidos à A5 e CRIL, combina tranquilidade e excelentes ligações a Lisboa e Cascais.",
+  "geo": {
+    "lat": 38.700058,
+    "lng": -9.2314692
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,58 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81352&foto=1643860&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81352&foto=1643860&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Alarme (Completo)",
+      "Música Ambiente (Completo)",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado, Tijolinho)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 70.09; Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 195,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 8,
   "area_m2": 1343,
   "image": "https://cdn.proppy.app/propertyfiles/2032/108971/e8d4ed8b-8949-483a-ba17-ed1dd28a1cb5.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Muito bem localizado, este pavilhão industrial com duas lojas de grande visibilidade e armazém, encontra-se inserido num lote de 2,304m2 na zona industrial.\n\nEm excelentes condições operacionais.\n\nCaracterísticas principais:\n\n- Duas lojas com grande visibilidade;\n\n- Sala de reuniões;\n\n- Vários espaços para armazéns;\n\n- Escritório;\n\n- Refeitório com instalações sanitárias e balneário (feminino e masculino);\n\n- 8 Wc;\n\n- Cobertura e telheiros novos;\n\n- Área exterior privada com estacionamento;\n\n- Furo privado com fornecimento de água;\n\n- Laboratório;\n\n- Fácil acesso à autoestrada A8 e a cinco minutos do centro de Caldas da Rainha.",
+  "geo": {
+    "lat": 39.4261314,
+    "lng": -9.1612939
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/108971/e8d4ed8b-8949-483a-ba17-ed1dd28a1cb5.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 1343,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 1343,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

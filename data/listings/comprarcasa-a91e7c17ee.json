@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 1,
   "image": "https://cdn.proppy.app/propertyfiles/5115/108468/e96bb774-e960-4c4d-95a9-660e45a80bd8.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
+  "description": "Este apartamento, atualmente em construção, oferece uma oportunidade única de adquirir uma residência moderna e funcional na prestigiada zona de Oliveira do Douro, em Vila Nova de Gaia. Com uma área útil de 97 metros quadrados e uma área bruta de 123,1 metros quadrados, este imóvel dispõe de dois quartos espaçosos e duas casas de banho, proporcionando conforto e privacidade para toda a família. A orientação solar leste e oeste garante uma excelente iluminação natural ao longo do dia, criando ambientes acolhedores e bem iluminados.\n\nA cozinha está totalmente equipada, ideal para quem aprecia preparar refeições com praticidade e estilo. O edifício conta ainda com elevador, facilitando o acesso a todos os pisos e tornando-o uma opção conveniente para todas as idades. A certificação energética A reflete um compromisso com a eficiência e sustentabilidade, contribuindo para custos de energia reduzidos e maior conforto térmico.\n\nA localização privilegia a conveniência do dia a dia, com diversos serviços essenciais a uma curta distância. A proximidade de supermercados, como o Intermarché a apenas cinco minutos a pé, e de restaurantes como a Domino's e a Arde Brasa, a poucos minutos de distância, torna a rotina mais prática. Além disso, a área dispõe de várias paragens de transporte público nas imediações, facilitando deslocações por toda a cidade e arredores, com mais de 40 pontos de transporte acessíveis em menos de 15 minutos a pé.",
   "geo": null,
   "source": {
     "name": "ComprarCasa",
@@ -21,10 +21,31 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/108468/e96bb774-e960-4c4d-95a9-660e45a80bd8.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 1,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Orientação solar: Este, Oeste",
+      "Elevador",
+      "Certificação energética: A",
+      "Lugar de garagem",
+      "Acessos: Transportes públicos",
+      "Localização: Centro, Interior",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude",
+      "Zona envolvente: Comercial, Turística"
+    ],
+    "Exterior": [
+      "Orientação Solar: Este, Oeste"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada",
+      "AquecimentoTermico: Eléctrico",
+      "Caixilharia: PVC",
+      "Aquecimento água: Eléctrico"
+    ]
+  },
+  "estado": "Em construção",
+  "area_util_m2": 97,
+  "area_bruta_m2": 1,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

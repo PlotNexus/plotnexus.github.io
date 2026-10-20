@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 5,
   "image": "https://cdn.proppy.app/propertyfiles/1515/107959/8b533943-eae6-454f-a702-5ee7c94a0dff.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T2 | Edifício Centenário | Centro de Borba | Oportunidade de Investimento\n\nLocalizado na Rua D. António Melo e Castro, nº 5 Esq., este apartamento T2 insere-se num edifício centenário no coração de Borba, Évora. O imóvel carece de algumas melhorias e em determinadas zonas o telhado encontra-se comprometido, mas destaca-se pelo enorme potencial de valorização numa das ruas mais típicas e autênticas da cidade.\n\nA oportunidade perfeita para quem procura investir numa recuperação e dar uma nova vida a um apartamento com caráter, preservando a identidade arquitetónica de Borba.\n\nCARACTERÍSTICAS DO IMÓVEL\n\n- Apartamento T2 em edifício centenário\n\n- Situado no centro histórico de Borba\n\n- Imóvel com necessidade de obras de recuperação\n\n- Telhado com zonas comprometidas\n\n- Grande potencial de valorização após reabilitação\n\nVIVER E INVESTIR EM BORBA | ÉVORA\n\n- Cidade reconhecida internacionalmente pelo mármore, com forte identidade cultural e histórica\n\n- Excelente localização no eixo Évora – Estremoz – Vila Viçosa\n\n- Proximidade a serviços, comércio, escolas, farmácias e restaurantes típicos\n\n- A poucos minutos de Vila Viçosa (10 km) e Estremoz (15 km)\n\n- Cerca de 50 minutos de Évora e a 1h30 de Lisboa\n\n- Investimento seguro e atrativo, com potencial de valorização em turismo e habitação\n\nEste apartamento no centro de Borba é uma oportunidade rara de adquirir um imóvel histórico com grande margem de valorização. Ideal para quem procura investir em reabilitação no coração do Alentejo.\n\nPara mais informações ou agendamento de visita, fale connosco.",
+  "geo": {
+    "lat": 38.806184158850286,
+    "lng": -7.45896081762356
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/107959/8b533943-eae6-454f-a702-5ee7c94a0dff.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento"
+    ]
+  },
+  "estado": "Por recuperar",
   "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

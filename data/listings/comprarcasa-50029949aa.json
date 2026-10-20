@@ -9,8 +9,11 @@
   "bathrooms": 4,
   "area_m2": 502,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108544/cb22c738-6a0b-496b-a1ec-9ec42e837db3.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Edifício tradicional com potencial único para reabilitação no coração de Vila Viçosa.\n\nSituado na Rua António José de Almeida, uma das artérias mais emblemáticas da vila e a poucos metros do Paço Ducal, este edifício senhorial de 502 m² e três pisos representa uma oportunidade rara para quem procura investir num imóvel com carácter, escala e localização premium.\n\nCombina elementos arquitetónicos tradicionais com uma estrutura versátil, ideal para projetos habitacionais, turísticos ou mistos.\n\nR/C: Loja com entrada independente, três divisões, WC, arrumos, marquise e acesso ao logradouro.\n\n1.º andar: Quatro quartos, sala de jantar, sala de estar, cozinha, arrumos, marquise e duas WC.\n\n2.º andar: Sala dupla, dois quartos, hall, arrumos, WC e varanda com vista panorâmica.\n\nOutras características: bom pé‑direito, fachada posterior com varandas e janelas amplas, elementos em madeira recuperáveis e frente urbana com dois números de polícia.\n\nPotencial de reabilitação: ideal para alojamento local, hotel de charme ou habitação; possibilidade de manter a loja no R/C; aproveitamento do logradouro para jardim privado ou apoio turístico; excelente orientação solar e janelas amplas que favorecem eficiência energética.\n\nLocalização premium: pleno centro de Vila Viçosa, vila nobre com crescente procura turística; a escassos metros do Paço Ducal, restaurantes típicos, comércio e serviços; zona tranquila com fácil acesso a estacionamento e circulação pedonal.\n\nUm imóvel para quem procura investir com alma, história e retorno, permitindo criar um projeto com assinatura e forte valorização patrimonial.",
+  "geo": {
+    "lat": 38.77801170000001,
+    "lng": -7.417348899999999
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,27 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108544/cb22c738-6a0b-496b-a1ec-9ec42e837db3.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Localização central",
+      "Certificação energética: E",
+      "Terraço",
+      "Localização: Centro",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Infantário, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Comercial, Turística",
+      "Vistas: Cidade",
+      "Nº fogos habitação: 1",
+      "Nº fogos comércio: q",
+      "Logradouro"
+    ],
+    "Interior": [
+      "Lareira"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 502,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 502,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

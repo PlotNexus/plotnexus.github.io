@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74227&foto=1476888&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74227&foto=1476888&f=1",
+  "description": "Situado na charmosa freguesia da Parede, em Cascais, o Urban Living é um novo condomínio fechado exclusivo. Com apartamentos de tipologias T2 a T4, todos com áreas exteriores e áreas interiores generosas, este projeto é ideal para quem procura uma casa espaçosa numa zona de excelência. Destacam-se as duas penthouses, que oferecem vistas panorâmicas para o mar, terraços e piscinas privadas, perfeitas para momentos de lazer.\nA pensar no bem-estar dos seus residentes, o condomínio inclui uma piscina exterior rodeada por um grande jardim paisagístico, ginásio equipado e estacionamento em box, garantindo conveniência e segurança. O Urban Living reflete uma arquitetura moderna e sustentável, com conclusão prevista para o final de Julho de 2026, proporcionando um espaço cuidadosamente projetado para o dia a dia.\nA localização é outro ponto de destaque. O Urban Living beneficia de uma proximidade estratégica a serviços essenciais, como supermercados, escolas e hospitais, bem como uma vasta oferta de restaurantes e zonas de lazer. As principais vias de acesso e a estação de comboios estão a poucos minutos, facilitando a mobilidade para Cascais, Lisboa ou outras zonas da região.\nParede, em Cascais, é conhecida pelo seu ambiente tranquilo e qualidade de vida superior. Com praias deslumbrantes, uma forte oferta cultural e desportiva, e uma envolvência natural única, é o local perfeito para quem procura um equilíbrio entre a vida urbana e o encanto da costa portuguesa.",
+  "geo": {
+    "lat": 38.6900602461377,
+    "lng": -9.34725277573239
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,40 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74227&foto=1476888&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74227&foto=1476888&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 233,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

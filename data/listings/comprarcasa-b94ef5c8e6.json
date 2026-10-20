@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 42,
   "image": "https://cdn.proppy.app/propertyfiles/1526/108656/12eaf8f2-e716-474f-91e8-11c9ec76fd11.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "🏡 Moradia V4+2 à Venda – Fenais da Ajuda, Ribeira Grande, São Miguel (Açores)\n\nDescubra esta moradia espaçosa e luminosa, situada numa zona tranquila dos Fenais da Ajuda, no concelho da Ribeira Grande. Uma excelente oportunidade para quem procura conforto, privacidade e qualidade de vida numa das mais belas zonas da ilha de São Miguel.\n\n✨ Características principais:\n\nTipologia: T4 + 2 Quartos \n\nBoa exposição solar durante todo o dia\n\nÁreas amplas e bem distribuídas\n\nDuas frentes\n\nQuintal e jardim ideais para momentos de lazer\n\nAnexo que pode ser utilizado como arrumos, lavandaria ou espaço de apoio\n\n1 WC\n\nLogradouro com potencial para estacionamento ou ampliação\n\nProximidade de comércio, serviços e transportes públicos\n\nA moradia encontra-se inserida numa zona calma e familiar, com fácil acesso às principais vias e a poucos minutos da Ribeira Grande e Ponta Delgada.\n\n💡 Ideal para habitação própria ou investimento!\n\nVenha conhecer esta excelente oportunidade e descubra o potencial desta casa nos Fenais da Ajuda.\n\n📞 Contacte-nos para mais informações ou para agendar a sua visita.",
+  "geo": {
+    "lat": 37.8510557,
+    "lng": -25.324479099999998
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,32 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/108656/12eaf8f2-e716-474f-91e8-11c9ec76fd11.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 42,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Orientação solar: Norte",
+      "Localização central",
+      "Certificação energética: D",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Escolas, Infantário",
+      "Zona envolvente: Residencial",
+      "Muro",
+      "Logradouro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Norte"
+    ],
+    "Interior": [
+      "AquecimentoTermico: Eléctrico, Gás",
+      "Caixilharia: Madeira",
+      "Aquecimento água: Eléctrico, Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 56,
+  "area_bruta_m2": 42,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

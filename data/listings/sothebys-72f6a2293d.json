@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 8,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79782&foto=1662173&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79782&foto=1662173&f=1",
+  "description": "Esta magnífica moradia isolada localiza-se na prestigiada zona de Francelos, Vila Nova de Gaia, Porto. Com uma impressionante área de terreno de 594 metros quadrados e uma área bruta de construção de 379,8 metros quadrados, a propriedade distingue-se pela sua arquitetura elegante e vistas deslumbrantes para o mar. A moradia oferece quatro quartos espaçosos e cinco casas de banho distribuídos por três pisos cuidadosamente planeados para proporcionar conforto e sofisticação. O piso térreo conta com uma sala de estar que se abre para um terraço encantador, ideal para momentos de convívio, enquanto a piscina privada proporciona um cenário de tranquilidade. O jardim bem cuidado e a varanda convidam ao prazer da vida ao ar livre. Para maior conveniência, a propriedade dispõe de uma garagem individual com capacidade para três automóveis. Construída em 2009, esta residência exclusiva oferece um equilíbrio perfeito entre privacidade e proximidade com o centro da cidade.",
+  "geo": {
+    "lat": 41.0767965,
+    "lng": -8.6291937
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,61 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79782&foto=1662173&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79782&foto=1662173&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Estores (Alumínio, Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Estores Eléctricos",
+      "Video-Porteiro",
+      "Alarme (CCTV, Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Paredes (Madeira)",
+      "Equipamento (Jardins, TV Cabo, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 39; Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Porto de Mar)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 8,
-  "area_bruta_m2": null,
+  "area_util_m2": 246,
+  "area_bruta_m2": 8,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

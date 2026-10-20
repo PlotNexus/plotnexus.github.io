@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78516&foto=1659241&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78516&foto=1659241&f=1",
+  "description": "Localizada em São Vicente, esta moradia isolada térrea destaca-se pela sua implantação num lote plano com 1 458 metros quadrados, oferecendo uma experiência residencial única para quem procura tranquilidade, conforto e privacidade.\n\nCom uma área bruta privativa de 469 metros quadrados, esta propriedade em construção, com finalização prevista para o final de 2026, dispõe de quatro suites, as zonas sociais dispostas em open space layout, ideal para famílias ou para quem aprecia espaços amplos e organizados. O imóvel conta ainda com garagem para três automóveis, piscina, varanda e exposição solar a norte, reunindo condições que favorecem um estilo de vida harmonioso. A ausência de escadas, típica de uma moradia térrea, assegura funcionalidade e acessibilidade.\n\nO design do imóvel conjuga elegância e conforto, proporcionando ambientes espaçosos, bem distribuídos e iluminados naturalmente. A zona exterior, generosa, permite criar diferentes espaços de lazer e convívio, adaptando-se a vários estilos de vida. \n\nA localização estratégica garante proximidade a vários serviços essenciais. A dois minutos encontra-se o centro de saúde de São Vicente, e a cinco minutos existem escolas. Supermercados estão acessíveis a cerca de dois minutos.\n\nO acesso à via expresso faz-se em apenas dois minutos, facilitando a ligação às principais cidades da região. A proximidade de restaurantes e serviços, a cerca de três minutos, confere ao imóvel um equilíbrio entre privacidade e conveniência.\n\nSituada numa zona tranquila de São Vicente, esta moradia é uma escolha inspiradora para quem valoriza qualidade de vida, conforto e localização estratégica.",
+  "geo": {
+    "lat": 32.80242,
+    "lng": -17.04934
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78516&foto=1659241&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78516&foto=1659241&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 469,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

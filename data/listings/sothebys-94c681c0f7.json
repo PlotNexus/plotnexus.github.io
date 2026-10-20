@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 946,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=36450&foto=742110&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=36450&foto=742110&f=1",
+  "description": "Fantástica moradia de tipologia T4 localizada no condomínio fechado \"Palheiro Village\" com vista privilegiada sobre a baía do Funchal. \nEsta moradia está distribuída por quatro pisos com acesso por escadas e elevador. No piso de entrada junto à estrada do condomínio temos a garagem fechada para dois automóveis e o imponente hall de entrada onde se encontram o elevador e as escadas de acesso aos pisos inferiores.\nNo piso zero encontramos uma enorme sala com lareira, cozinha e uma casa de banho de apoio. Ainda neste piso, existe um quarto de dormir com casa de banho privativa com acesso a um terraço exterior que por sua vez tem acesso a uma varanda em toda a frente sul, onde pode admirar a vista para o mar e para a baía do Funchal. \nNo piso menos um encontra-se o piso dos quartos, onde três amplas suites com grande luminosidade e acabamentos de qualidade dão acesso a outra grande varanda comum aos três quartos onde pode usufruir das vistas panorâmicas que caracterizam esta moradia. \nNo piso menos dois, está a área de convívio onde pode desfrutar de uma piscina infinita, uma zona de bar e de ginásio, com áreas ajardinadas, o que cria um ambiente único.",
+  "geo": {
+    "lat": 32.64864,
+    "lng": -16.88959
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,49 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=36450&foto=742110&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=36450&foto=742110&f=1"
   ],
-  "features": null,
+  "features": {
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Pré-Instalação)",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Equipamento (TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Escolas, Hospital, Padaria, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 946,
-  "area_bruta_m2": null,
+  "area_util_m2": 335,
+  "area_bruta_m2": 946,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

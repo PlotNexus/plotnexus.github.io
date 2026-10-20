@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 6,
   "image": "https://cdn.proppy.app/propertyfiles/5115/108382/47f827e2-fed8-448f-813c-c570508bc5d4.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "T2 de Luxo com 2 Suites no Parque da Cidade – Exclusividade, Conforto e Natureza\n\nApresentamos este magnífico apartamento T2 de luxo, inserido numa das zonas mais prestigiadas e tranquilas da cidade — junto ao Parque da Cidade. Com uma localização privilegiada entre a natureza e a cidade e Rio Lima, este imóvel alia conforto, sofisticação e qualidade de vida.\n\nCaracterísticas Principais:\n\nÁrea Generosa: Apartamento com áreas amplas, design moderno e acabamentos de alta qualidade.\n\n2 Suites: Duas suítes espaçosas, com roupeiros embutidos, casas de banho privativas com materiais de alta qualidade (mármore, loiças suspensas, torneiras de design), \n\nCozinha Totalmente Equipada: Cozinha em open space com eletrodomésticos de gama alta, armários lacados e bancadas em pedra natural.\n\nSala de Estar e Jantar: Zona social com acesso a varanda panorâmica, ideal para momentos de lazer e convívio.\n\nVaranda com Vista Verde e Rio Orientação solar privilegiada, com vista desafogada para o Parque da Cidade — o equilíbrio perfeito entre cidade e natureza.\n\nClimatização e Conforto: Ar condicionado por conduta, aquecimento central, estores elétricos, isolamento térmico e acústico de excelência.\n\nEstacionamento e Arrecadação: Lugar(es) de garagem em box e arrecadação privativa incluídos.\n\nCondomínio de Prestígio: Edifício recente, com arquitetura contemporânea, zonas comuns cuidadas e elevador.\n\nLocalização Imbatível:\n\nA poucos minutos da Foz, das praias e das principais vias de acesso ao centro da cidade e à A28.\n\nProximidade a colégios internacionais, centros comerciais, ginásios e restaurantes.\n\nAmbiente calmo, ideal para quem valoriza qualidade de vida sem abdicar da centralidade.\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.69408713865536,
+    "lng": -8.823008666881815
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,35 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/108382/47f827e2-fed8-448f-813c-c570508bc5d4.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 6,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Varanda",
+      "Ano construção: 2025",
+      "Arrecadação",
+      "Armários embutidos",
+      "Elevador",
+      "Certificação energética: A+",
+      "Varanda: 12,70",
+      "Lugar de garagem",
+      "Acessos: Transportes públicos, Comboio, Auto-estrada",
+      "Localização: Beira-rio",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Jardim, Areas verdes",
+      "Árvores"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Cozinha equipada",
+      "Cozinha: Microondas, Frigorifico, Exaustor, Máquina lavar e secar roupa, Máquina lavar louça, Placa e forno, Combinado",
+      "AquecimentoTermico: Eléctrico",
+      "Caixilharia: PVC, Vidros duplos, Caixilharia dupla"
+    ]
+  },
+  "estado": "Novo",
+  "area_util_m2": 9,
+  "area_bruta_m2": 6,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "A+"
 }

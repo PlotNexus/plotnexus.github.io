@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 5,
   "area_m2": 468,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=41708&foto=814001&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=41708&foto=814001&f=1",
+  "description": "Exuberante moradia com excelentes áreas e acabamentos de qualidade. Prima pela elegância dos materiais e pela vista fantástica sobre o mar. Desenvolve-se em três pisos, sendo que no primeiro encontra a garagem com 200 metros quadrados de área, e com capacidade para 10 carros e uma casa de banho. No piso seguinte estão as áreas sociais, nas quais se enquadram uma ampla sala comum, com excelente luminosidade, uma cozinha com boas áreas, lavandaria e casa de banho social. No piso seguinte conta com três suites, todos com acesso a uma ampla varanda. No exterior, rodeia-se por jardins bem cuidados e uma piscina. Conta com painéis solares, isolamento térmico e acústico garantido pelas paredes duplas exteriores e caixilharia de alumínio com vidro duplo, ar condicionado em todos os compartimentos, aspiração central e bomba de rega automática. Localizada a cinco minutos do centro da cidade, esta moradia fica numa zona nobre, orientada para sul e possui ótima exposição solar e muita luz natural em todas as divisões. Oferece proximidade a todo um conjunto de comércio e serviços, e é servida pelas principais vias que lhe asseguram um rápido acesso a toda a cidade e à via rápida.",
+  "geo": {
+    "lat": 32.6372,
+    "lng": -16.93983
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,63 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=41708&foto=814001&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=41708&foto=814001&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado, Ponto de Luz)",
+      "Equipamento (Casa Recolha Lixo, Jardins, Rega Automática)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 468,
-  "area_bruta_m2": null,
+  "area_util_m2": 344,
+  "area_bruta_m2": 468,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68184&foto=1445034&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68184&foto=1445034&f=1",
+  "description": "Moradia Isolada V3 inserida em empreendimento exclusivo com apenas cinco moradias com design, construção e acabamentos de luxo.\n\nLocalizada em São Gonçalo, a cerca de dez minutos do centro da cidade do Funchal e a 15 minutos do aeroporto internacional da Madeira, situa-se ainda próximo do campo de golfe do Palheiro. \nEsta localização garante um estilo de vida tranquilo, privado e exclusivo, perto das mais diversas comodidades, dada a sua proximidade aos demais serviços diários.\n\nDe arquitetura contemporânea, esta moradia destaca-se pela sua elegância e sofisticação sendo que no piso das áreas sociais encontra uma elegante cozinha, sala de jantar e sala de estar em plano aberto. Conta ainda com uma lareira suspensa de forma a criar um ambiente mais acolhedor nos dias frios. \nNeste piso encontra ainda acesso ao terraço exterior, que conta com uma piscina aquecida e com sistema de contracorrente integrado.\n\nNo piso superior, encontra um quarto em suite com áreas amplas, walk-in closet e acesso a varanda exterior coberta. \nAinda neste piso encontra outros dois quartos, também com acesso a varanda exterior coberta e ainda uma casa de banho completa de apoio aos mesmos. \n\nNo nível da cave encontra uma lavandaria equipada, bem como amplas áreas de armazenamento/arrumos. \nNeste mesmo piso encontra-se também a sala das máquinas.\n\nDevido à sua localização esta moradia conta com boa exposição solar diária, o que garante iluminação natural por toda a moradia. \nDado a sua disposição conta com vistas panorâmicas desafogadas e definitivas sobre o mar e sobre o centro e a baía da cidade do funchal, sendo possível também contemplar de um magnífico pôr do sol ao fim do dia.\n\nA moradia conta com instalação de ar condicionado, painéis fotovoltaicos com armazenamento de bateria e ainda conta com instalação de wall box para carregamento de viaturas elétricas.\n\nNo seu exterior, encontra também diversas áreas de jardim com instalação de rega automática, que oferecem um ambiente de natureza bem como a possibilidade de criar um espaço de horta.\n\nAs moradias inseridas neste empreendimento contam com diferentes zonas de estacionamento sendo que algumas contam com espaço de garagem fechada e outras contam com lugar de estacionamento coberto estilo carport.",
+  "geo": {
+    "lat": 32.65267,
+    "lng": -16.8781
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,58 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68184&foto=1445034&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68184&foto=1445034&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "PVC",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado, Focos, Ponto de Luz)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 237,
+  "area_bruta_m2": 415,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

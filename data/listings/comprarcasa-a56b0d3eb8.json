@@ -9,7 +9,7 @@
   "bathrooms": 4,
   "area_m2": 85,
   "image": "https://cdn.proppy.app/propertyfiles/1517/108558/3301d836-0088-42e4-b248-4d95f3524f60.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
+  "description": "Moradia térrea V3 com piscina de água salgada.\n\nMoradia de design moderno, excelente exposição solar, soluções tecnológicas para o conforto, segurança e eficiência energética, funcional e rodeada de tranquilidade da natureza.\n\nCom cerca de 283,85 m2 de área bruta, inserida num lote 864 m2.\n\nCaracterísticas:\n\n- 3 quartos, sendo um deles suite;\n\n- 2 casas de banho completas;\n\n- 1 casa de banho social;\n\n- Cozinha e sala em open space com muita luz natural;\n\n- Garagem fechada para 2 viaturas;\n\n- Sala de máquinas;\n\nAlpendre aberto de apoio à piscina;\n\n- Piscina 6x4.\n\nConstrução:\n\n- Alvenaria com tijolo térmico 25 mm;\n\n- Isolamento em capoto 8 cm;\n\n- Paredes interiores com tijolo 11 e revestido em reboco projetado;\n\n- Tetos falsos com isolamento de lã de rocha e com projetores led embutidos;\n\n- Alumínios termo lacados com vidro duplo e corte térmico;\n\n- Muro exterior tijolo de 15 a fechar a propriedade com altura de 1,50 m atrás e laterais, na frente com 1,00 m rebocado e pintado.\n\nEquipamentos e acabamentos:\n\n-Estores elétricos; \n\n- Vídeo porteiro com WiFi;\n\n- Portões automáticos na garagem e no muro da frente, com cancela, na entrada com trinco elétrico;\n\n- Bomba de calor para águas sanitárias;\n\n- Sistema VMC;\n\n- Painéis fotovoltaicos;\n\n-Ponto de carregamento para veículos elétricos na garagem;\n\n- Cozinha em termolaminado na cor branco, com tampo de pedra e totalmente equipado com eletrodomésticos:\n\n - Maquina de lavar loiça e máquina de lavar roupa;\n\n - Placa, forno e microondas;\n\n - Frigorifico combinado.\n\n- Piscina de água salgada;\n\n- Porta e aros lacados a branco;\n\n- Roupeiros na cor branco, portas de abrir, com interior em linho, com leds e um bloco de gavetas.\n\nPavimentos à escolha do cliente:\n\n- Pavimento cerâmico à escolha do cliente (até 20.000,00 €);\n\n-Pavimento vinílico à escolha do cliente (até 20.000,00 €);\n\n- Louças sanitárias suspensas;\n\n- Bases de duche em resina, cor branco;\n\n- Moveis com espelho para as casas de banho;\n\n- Torneiras misturadoras, torneira rampa com chuveiro no teto e monocomando para duche.\n\nPré-instalação de Ar-condicionado e Aspiração central .",
   "geo": null,
   "source": {
     "name": "ComprarCasa",
@@ -21,10 +21,28 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1517/108558/3301d836-0088-42e4-b248-4d95f3524f60.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Ano construção: 2025",
+      "Certificação energética: Em curso",
+      "Garagem",
+      "Capoto",
+      "Muro"
+    ],
+    "Exterior": [
+      "Piscina"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada",
+      "Cozinha: Microondas, Frigorifico, Máquina lavar roupa, Máquina lavar louça, Placa e forno, Combinado, Móveis",
+      "Caixilharia: Alumínio, Vidros duplos",
+      "Painel solar"
+    ]
+  },
+  "estado": "Em construção",
   "area_util_m2": 85,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 85,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "E"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 251,
   "image": "https://cdn.proppy.app/propertyfiles/5268/107690/3dd2709e-eb04-47ca-b7c7-fd5936650312.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "🔑 Moradia T3 Nova com Pérgola Coberta para 2 Carros! 🚗🏡\n\nVenha conhecer esta Moradia T3 – Projeto Chave na Mão 🔨, localizada na bonita zona da Abrunheira 🌳.\n\n🏗️ Construção Personalizada:\n\nOpte por construção em LSF (prazo 6 meses) ou tradicional – a escolha é sua!\n\n📐 Áreas:\n\n📏 Terreno: 251 m²\n\n🏠 Área Bruta de Construção: 145 m²\n\n✨ Composição da Moradia:\n\n3 🛏️ Quartos (inclui uma elegante Suíte com Closet)\n\n2 🛁 Casas de Banho\n\n🏡 Espaços pensados ao detalhe para conforto e funcionalidade\n\n🚪 Porta principal blindada com painéis em PVC branco\n\n🌀 Escada em mármore polido azul lagoa com estuque branco\n\n🌟 Características em Destaque:\n\n🛌 Suíte com Closet – privacidade e arrumação\n\n🛋️ Sala de Estar e Jantar – perfeitas para convívios\n\n🍽️ Cozinha Totalmente Equipada – design moderno e funcional\n\n🌬️ Sistema de ventilação natural + exaustor mecânico\n\n🌈 Soalho flutuante EGGER nos principais espaços\n\n🪟 Janelas oscilo-batente, vidro duplo, com corte térmico e acústico\n\n🌿 Exterior e Comodidade:\n\n🌇 Varanda com Pérgola Coberta (62.4 m²) – abrigo para 2 veículos e espaço exterior relaxante\n\n☀️ Quartos Luminosos e Confortáveis – ideais para o seu descanso\n\n📊 Divisão das Áreas Interiores:\n\nCozinha: 12.25 m²\n\nSala de Jantar: 10.85 m²\n\nWC Social: 2.93 m²\n\nSala: 21.58 m²\n\nQuarto 1: 12.78 m²\n\nQuarto 2: 12.76 m²\n\nSuíte: 14.00 m²\n\nCloset: 5.93 m²\n\nWC Suíte: 5.68 m²\n\n📍 Localização Privilegiada:\n\nSituada na Abrunheira, com fácil acesso a cafés ☕, escolas 🎓, supermercados 🛒 e outros serviços essenciais.\n\n🎯 Acabamentos de Alta Qualidade:\n\nMateriais de excelência para garantir conforto e durabilidade 💎.\n\nEntre em contacto e venha visitar esta moradia de sonho! ✨",
+  "geo": {
+    "lat": 38.769337199999995,
+    "lng": -9.3633648
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,43 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5268/107690/3dd2709e-eb04-47ca-b7c7-fd5936650312.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 251,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "features": {
+    "Geral": [
+      "Despensa",
+      "Ano construção: 2025",
+      "Armários embutidos",
+      "Terraço topo",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Lugar de garagem",
+      "Nº carros: 2",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Farmácia, Escolas, Centro de saude",
+      "Zona envolvente: Residencial",
+      "Vistas: Areas verdes",
+      "Árvores",
+      "Projecto aprovado"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Lareira",
+      "Recuperador de calor",
+      "Área do(s) Quarto(s): 12.78",
+      "Cozinha equipada",
+      "Área da Cozinha: 12.25",
+      "Cozinha: Frigorifico, Exaustor, Máquina lavar e secar roupa, Placa e forno, Placa, Despensa, Combinado, Móveis",
+      "AquecimentoTermico: Outro",
+      "Caixilharia: PVC, Vidros duplos, Caixilharia dupla"
+    ]
+  },
+  "estado": "Não aplicável",
+  "area_util_m2": 145,
+  "area_bruta_m2": 251,
+  "ano_construcao": 2025,
   "certificacao_energetica": null
 }

@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 190,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108165/c737a48e-c131-4d25-a64d-d7dfa79408a9.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno de 380 m2 com Ruina c/ Projeto Aprovado | Navarro - Alcaria Ruiva - Mértola\n\nNOTA: Tem caderneta predial com afetação de habitação, pelo que terá uma grande poupança ao nível do IMT\n\nNa aldeia de Navarro, freguesia de Alcaria Ruiva, em Mértola, encontra-se este terreno de 380 m², com uma casa de 190 m² em ruína. A propriedade destaca-se pela sua localização privilegiada, numa das extremidades da aldeia, com uma vista deslumbrante sobre os pinhais e a paisagem envolvente, a apenas 1h30 de Lisboa.\n\nO imóvel dispõe já de um projeto de reconstrução elaborado pelo arquiteto Luís Pereira Miguel e aprovado pela Câmara Municipal de Mértola, com uma arquitetura contemporânea e de elevada qualidade, que poderá ser orçamentado e acompanhado pela empresa vendedora. O projeto prevê uma moradia T3, composta por três quartos — incluindo uma master suite — todos com amplas portas de vidro abertas para o jardim. A sala e cozinha em open-space ligam-se diretamente a um deck espaçoso com pérgolas, ideal para momentos de lazer, em harmonia com um jardim mediterrânico com oliveiras.\n\nNota: o imóvel não possui WC.\n\nEstá ainda contemplada no projeto uma piscina infinita (sujeita a autorização), que reforça a exclusividade e o valor da propriedade.\n\nVIVER EM NAVARRO | MÉRTOLA\n\n- Aldeia tranquila, segura e pitoresca, perfeita para quem procura descanso em contacto com a natureza;\n\n- Céus limpos e estrelados, de rara beleza;\n\n- Região rica em património cultural, castelos, vinhos e gastronomia alentejana;\n\n- Ambiente propício a caminhadas e atividades ao ar livre;\n\n- Localização que alia o sossego da aldeia à proximidade de centros urbanos — apenas a 1h30 de Lisboa.\n\nEsta é a oportunidade ideal para construir, de forma económica, o seu refúgio no Alentejo, num cenário paradisíaco e autêntico, beneficiando da tranquilidade de uma aldeia habitada e cuidada.\n\nContacte-nos para mais informações ou para agendar a sua visita.",
+  "geo": {
+    "lat": 37.70517966845172,
+    "lng": -7.812178816879571
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108165/c737a48e-c131-4d25-a64d-d7dfa79408a9.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento"
+    ]
+  },
+  "estado": "Ruína",
   "area_util_m2": 190,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 190,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

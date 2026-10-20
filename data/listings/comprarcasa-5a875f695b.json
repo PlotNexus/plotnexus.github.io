@@ -8,9 +8,12 @@
   "bedrooms": null,
   "bathrooms": 2,
   "area_m2": 2,
-  "image": "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/af9427a9-2cba-4b1c-8bb6-3c67e6d348ad.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "image": "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/af9427a9-2cba-4b1c-8bb6-3c67e6d348ad.jpg?quality=70",
+  "description": "Este imóvel comercial usado situa-se em Oeiras, numa zona com localização central e excelente acessibilidade. Integra-se nas áreas de Oeiras e São Julião da Barra, Paço de Arcos e Caxias, oferecendo proximidade a serviços e vias de comunicação.\n\nCom uma área de construção de 156 m² e área bruta de 258,2 m², o espaço apresenta-se como uma base sólida para diferentes tipos de atividade. O imóvel foi construído em 1975 e mantém-se em funcionamento, com características adequadas a um uso prático e versátil.\n\nDispõe de 2 casas de banho e de áreas de apoio, incluindo, monta-cargas arrecadação/arrumos e uma zona de utilidade. Existe ainda jardim, que acrescenta um elemento exterior valorizador ao conjunto.\n\nSe procura um espaço comercial numa das zonas mais procuradas do concelho de Oeiras, esta é uma oportunidade a considerar. Marque a sua visita e avalie o potencial do imóvel para o seu negócio.",
+  "geo": {
+    "lat": 38.694167913272906,
+    "lng": -9.309447705636558
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -19,12 +22,44 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/af9427a9-2cba-4b1c-8bb6-3c67e6d348ad.jpg?quality=70&width=360&height=222&mode=crop"
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/af9427a9-2cba-4b1c-8bb6-3c67e6d348ad.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/c3105d31-41ad-4d16-983e-8c8e5056c2d3.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/a1d570f3-165e-47d8-ae01-2f6e4f4e2c46.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/44475cb7-026b-477b-9061-c5cf43d4aa35.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/aabec9f3-ae16-41af-82a4-64ff6c80cda1.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/b900c351-cdd4-4ecb-b624-b3f73ee3b8de.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/f15aa2ac-7e5c-44ae-bbc1-cb74e5952ba0.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/714e9689-142d-452b-b9cc-a55c5d0dcdd7.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/e7940b5e-df35-4448-a1c8-b2db20bcd6d0.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/9d3c383d-5352-4bc7-b305-6c26308ed7a4.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/b8035b84-10ed-43c0-8e1e-b6634f7456a0.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/01f52800-c7d3-48c2-b320-993aadd58182.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/ce4bfe15-d91d-476d-8043-7c1638f484df.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/04f099d4-615b-4fc6-a78a-8d04c2ada028.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/eb1cb556-6b7b-4d6b-bdaf-73f6f44cd0d5.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/e52c4cbc-fc89-4625-83ac-7c4ebe3239cb.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/2df2909d-f520-46df-892c-e78657db5a45.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/869d84a5-73e5-4f2b-baba-c4e64acc480d.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/de23eb69-5f75-44ac-979f-43fc5a8f825f.jpg?quality=70",
+    "https://cdn.proppy.app/propertyphotos/5300/aa9fef4b-d957-405c-ade3-580e180a10da/108412/da380c6e-f5e1-400e-aeec-d730e730ae1f.jpg?quality=70"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 2,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Ano construção: 1975",
+      "Arrecadação",
+      "Localização central",
+      "Certificação energética: C",
+      "Localização: Centro",
+      "Zona envolvente: Residencial, Comercial",
+      "Fração autónoma"
+    ],
+    "Exterior": [
+      "Jardim"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 156,
+  "area_bruta_m2": 2,
+  "ano_construcao": 1975,
+  "certificacao_energetica": "C"
 }

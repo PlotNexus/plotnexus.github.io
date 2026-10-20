@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71224&foto=1390490&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71224&foto=1390490&f=1",
+  "description": "Localizada na encantadora freguesia do Estreito Da Calheta, esta moradia isolada e térrea destaca-se pela sua proximidade ao oceano, oferecendo uma vista panorâmica deslumbrante e excelentes acessos. Esta propriedade é uma verdadeira joia para quem procura conforto e tranquilidade.\n\nCom uma área de lote de aproximadamente 1000 metros quadrados, esta residência moderna, com previsão de conclusão em 2025, oferece três suites espaçosas e uma casa de banho adicional. O imóvel é projetado para proporcionar uma experiência de vida aconchegante e confortável, com áreas comuns bem distribuídas no piso térreo. A garagem no subsolo inclui uma sala das máquinas, proporcionando conveniência e praticidade.\n\nA moradia possui dois lugares de estacionamento na garagem e outros dois lugares de estacionamento descoberto no interior da propriedade, uma varanda convidativa, perfeita para relaxar e apreciar a vista. A exposição solar otimizada garante luminosidade natural durante todo o dia, criando um ambiente sereno e acolhedor.\n\nEste imóvel é ideal para famílias, situando-se a apenas dois minutos das principais vias de acesso, como a via expresso, e a cinco minutos de escolas e restaurantes. Para as necessidades diárias, os supermercados estão a apenas dois minutos de distância.\nA localização privilegiada desta moradia não só oferece vistas espetaculares do oceano, mas também garante fácil acesso a todas as comodidades essenciais. Esta combinação única de elegância e funcionalidade faz desta propriedade uma escolha incomparável para quem procura um estilo de vida requintado e harmonioso.\n\nDescubra a experiência de viver numa casa que combina conforto, segurança e beleza natural, criando um ambiente de vida verdadeiramente único e inspirador.",
+  "geo": {
+    "lat": 32.73074,
+    "lng": -17.19436
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71224&foto=1390490&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71224&foto=1390490&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 320,
+  "area_bruta_m2": 260,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

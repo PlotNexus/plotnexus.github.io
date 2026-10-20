@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 197,
   "image": "https://cdn.proppy.app/propertyfiles/5115/108335/f3f15732-9543-4bf5-b779-cb27bbb2776c.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia situada na tranquila zona de Torre e Vila Mou, em Viana do Castelo, esta villa em construção oferece uma oportunidade única de criar uma residência personalizada num ambiente residencial funcional e bem localizado. Com uma área de 197 metros quadrados de construção e um terreno de 653,75 metros quadrados, esta propriedade combina espaço e privacidade, ideal para famílias que procuram conforto e tranquilidade. A casa dispõe de três quartos espaçosos e duas casas de banho, proporcionando uma distribuição prática e confortável para o dia a dia.\n\nA propriedade destaca-se pela sua localização central, próxima de infraestruturas essenciais, como a Escola Básica da Torre, a apenas 3 minutos de distância, garantindo conveniência para famílias com crianças. A cozinha equipada e a despensa oferecem praticidade, enquanto o ar condicionado assegura conforto durante todo o ano. O imóvel conta ainda com garagem, jardim e closets embutidos, complementando o seu potencial de habitação de alta qualidade. A certificação energética A+ reforça o compromisso com a eficiência e sustentabilidade.\n\nEste imóvel é uma excelente oportunidade para quem valoriza uma vida tranquila num ambiente residencial, com acesso fácil a serviços locais e pontos de interesse. A sua localização privilegiada permite uma vida prática, com acessos rápidos às principais vias e uma atmosfera de comunidade acolhedora. Com um design moderno e atenção aos detalhes, esta villa promete ser o lar perfeito para quem procura qualidade de vida e conforto em Viana do Castelo.\n\nComprarCasa Viana do Castelo – A sua imobiliária de confiança em Viana do Castelo\n\nComprarCasa Viana do Castelo é uma agência imobiliária que se distingue pela sua abordagem personalizada, onde a confiança, a transparência e o compromisso com os nossos clientes estão sempre em primeiro lugar. Sob a gestão da experiente Ana Fernandes, esta imobiliária oferece soluções completas para quem deseja comprar, vender ou arrendar imóveis na encantadora região de Viana do Castelo.\n\nCom uma vasta experiência no mercado local, a ComprarCasa Viana do Castelo é especializada em imóveis que atendem aos mais diversos perfis e necessidades. Seja para quem procura a casa dos seus sonhos, um investimento seguro ou uma solução para arrendar, a nossa equipa está preparada para encontrar a melhor opção, com o acompanhamento e apoio necessários a cada etapa do processo.\n\nA Ana Fernandes, enquanto gestora, assume um papel de liderança dedicado a assegurar que cada cliente seja tratado com a máxima atenção e respeito, proporcionando um serviço eficaz e personalizado, onde o seu interesse é sempre a nossa prioridade. A nossa missão é simplificar o processo imobiliário e torná-lo uma experiência positiva, desde a primeira consulta até à conclusão do negócio.\n\nCom uma vasta rede de contactos e uma compreensão profunda do mercado de Viana do Castelo, garantimos que cada transação seja realizada com segurança, rapidez e sem surpresas. Se está à procura de uma imobiliária de confiança para comprar, vender ou arrendar o seu imóvel, a ComprarCasa Viana do Castelo é a sua escolha certa.\n\nEntre em contacto connosco pelo número e deixe-nos ajudá-lo a encontrar o que procura.",
+  "geo": {
+    "lat": 41.7198587,
+    "lng": -8.7202349
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,39 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/108335/f3f15732-9543-4bf5-b779-cb27bbb2776c.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Despensa",
+      "Nº Licença AL: 611/24",
+      "Armários embutidos",
+      "Localização central",
+      "Certificação energética: A+",
+      "Garagem",
+      "Nº carros: 1",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia",
+      "Capoto",
+      "Muro",
+      "Projecto aprovado",
+      "Licença para construção",
+      "Fração autónoma"
+    ],
+    "Exterior": [
+      "Piso: R/C",
+      "Jardim"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Recuperador de calor",
+      "Cozinha equipada",
+      "Cozinha: Exaustor, Placa e forno, Esquentador, Despensa, Combinado",
+      "Caixilharia: Vidros duplos, Caixilharia dupla"
+    ]
+  },
+  "estado": "Em construção",
   "area_util_m2": 197,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 197,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

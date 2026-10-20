@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81340&foto=1646942&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81340&foto=1646942&f=1",
+  "description": "Excelente moradia T4+1 totalmente mobilada, com muita privacidade, inserida em condomínio fechado na Quinta da Bicuda, uma das zonas mais prestigiadas de Cascais. O condomínio é composto por apenas onze moradias com jardim privativo e piscina comum com zonas ajardinadas circundantes. A moradia prima pela luninosidade e conta com uma área bruta de construção de 344 metros quadrados e um jardim de uso exclusivo recentemente remodelado com 103 metros quadrados. \nO piso térreo é composto por uma ampla zona social, com largas janelas com acesso ao exterior, o que confere uma grande luminosidade e vivência exterior à casa. Neste piso encontramos ainda uma moderna cozinha totalmente equipada, com acesso direto à sala e ao jardim privado, um quarto en suite também com saída para o exterior. Neste piso encontramos ainda um espaço que poderá ser utilizado como quarto/escritório ou para outro efeito com largas janelas e com pré-instalação para aquecimento central e ar condicionado. No primeiro piso encontramos mais três suites, sendo uma a master suite, com roupeiros e casas de banho modernas e com acabamentos de qualidade, tendo uma delas uma varanda com vista para a piscina e jardim e as outras duas um terraço privativo cada uma delas. Na cave existe uma ampla garagem privativa com acesso direto à casa, com capacidade para quatro carros, zona ampla de lavandaria com balcão e uma arrecadação. Está equipada com aquecimento central e ar condicionado. Esta moradia é uma excelente opção para famílias que privilegiam uma zona prime, próxima da praia e de colégios nacionais e internacionais e dos mais variados serviços, mas que procuram também modernidade numa zona residencial. A escassos minutos da Quinta da Marinha e da Praia do Guincho, a walking distance do Racket Club e Ginásio da Quinta da Marinha e com rápidos acessos às Auto-estradas A5 e A16 e a 30 minutos do aeroporto de Lisboa.",
+  "geo": {
+    "lat": 38.7147105211235,
+    "lng": -9.45056034436035
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81340&foto=1646942&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81340&foto=1646942&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 239,
+  "area_bruta_m2": 78,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

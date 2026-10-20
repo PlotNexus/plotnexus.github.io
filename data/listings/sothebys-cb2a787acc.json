@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76392&foto=1553707&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76392&foto=1553707&f=1",
+  "description": "Localizada no prestigiado Quintas de Óbidos Country Club, esta excecional moradia T5, com 713 m² de área bruta privativa, inserida num lote de 5.647 m², a propriedade destaca-se pela sua arquitetura moderna e elegante, pelos interiores amplos e luminosos, e pela integração harmoniosa com a natureza envolvente, criando um ambiente de serenidade e requinte.\n\nDistribuída por três pisos, a moradia oferece uma ampla sala de estar com lareira, zona de jantar, escritório e uma cozinha totalmente equipada com eletrodomésticos de topo. Dispõe ainda de cinco suites, lavandaria, zonas de arrumação e uma cave com 100 m², com garagem, garrafeira, ginásio e área de apoio.\n\nNo exterior, os jardins meticulosamente cuidados, os terraços panorâmicos e a piscina privada criam o cenário ideal para momentos de lazer e contemplação, em total privacidade.\nEquipada com sistema de segurança e vídeo vigilância, ar condicionado, aquecimento central, pré-instalação de domótica e rega automática, esta moradia oferece o mais elevado padrão de conforto e eficiência.\n\nOs residentes beneficiam ainda de um Country Club exclusivo e de um Centro Hípico de excelência, projetado pela reconhecida cavaleira Jessica Kürten, reforçando o caráter único e distinto deste empreendimento.\nA poucos minutos dos conceituados campos de golfe Royal Óbidos, Bom Sucesso, Praia D’El Rey e West Cliffs, a apenas 10 minutos da vila medieval de Óbidos e 15 minutos de Caldas da Rainha, e com o Aeroporto de Lisboa a menos de uma hora, esta é uma propriedade rara, onde luxo, natureza e tranquilidade se unem em perfeita harmonia.",
+  "geo": {
+    "lat": 39.3648949924,
+    "lng": -9.2119503021
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76392&foto=1553707&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76392&foto=1553707&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 713,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

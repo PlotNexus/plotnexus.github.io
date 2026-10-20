@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 7,
   "area_m2": 7,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76610&foto=1537211&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76610&foto=1537211&f=1",
+  "description": "A Quinta do Poço, com uma moradia em construção, localiza-se entre Sobral de Monte Agraço e Arruda dos Vinhos, inserida num ambiente natural rodeado por colinas e vinhas. Com conclusão prevista para o primeiro trimestre de 2028, esta propriedade oferece uma oportunidade para quem procura viver próximo da natureza, a apenas 25 minutos de Lisboa e do Aeroporto. A moradia desenvolve-se em três pisos e conta com uma área bruta de construção de 964 metros quadrados, dos quais 490 metros quadrados pertencem à área dependente.\nO projeto combina linhas contemporâneas com a paisagem envolvente, priorizando espaços amplos e funcionais, com atenção à escolha dos acabamentos.\n \nO piso térreo é dedicado às áreas sociais. Inclui uma sala e cozinha em open space com frente envidraçada virada a sul, organizadas em três zonas distintas com um total de 114 m2. A zona social liga-se diretamente ao exterior, com um pátio equipado com barbecue e zona de refeições. Neste piso encontram-se ainda duas suites (29 m2 e 21 m2), um lavabo social, lavandaria, um atelier com 141 m2, uma estufa e garagem para duas viaturas. \nNo primeiro piso está a zona privada da moradia, com uma master suite de 46 m2 e uma suite adicional de 23 m2, ambas com vista para a paisagem envolvente. A este nível existe também uma garagem com 76 m2. \nNo piso menos um, a moradia conta com uma segunda garagem para quatro viaturas, zona técnica e um espaço amplo e polivalente, com possibilidade de ser adaptado a diversas funções, como sala de cinema, ginásio, sauna, sala de jogos, adega ou outra utilização à escolha do futuro proprietário. \n\nO terreno tem uma área total de 7.611 m2 e dispõe de dois poços, ligados ao sistema de rega. Conta ainda com uma ribeira e uma área de deck com vista para a linha de água criando um ambiente calmo e bucólico, ideal para momentos de contemplação e convívio. A moradia será equipada com ar condicionado, painéis fotovoltaicos e segue princípios de construção sustentável.",
+  "geo": {
+    "lat": 39.0018105,
+    "lng": -9.1135679
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,43 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76610&foto=1537211&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76610&foto=1537211&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia",
+      "Poço",
+      "Ribeiro"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 7,
-  "area_bruta_m2": null,
+  "area_util_m2": 5,
+  "area_bruta_m2": 7,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

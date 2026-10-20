@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 28,
   "image": "https://cdn.proppy.app/propertyfiles/5330/108233/fe4986d0-7166-405c-873d-36d38385a2cb.jpeg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra uma oportunidade única de investir numa propriedade exclusiva junto à Lagoa do Calvo, no Poceirão. Com uma extensão de 51.250 m², esta parcela de terreno oferece o equilíbrio perfeito entre tranquilidade, beleza natural e potencial de valorização, sendo ideal tanto para quem busca um refúgio privado quanto para quem deseja desenvolver projetos rurais ou turísticos.\n\nSituada numa zona serena, rodeada por natureza e acessível pelas ruas José Carvalho e Ribeiro Quindera, esta propriedade é um verdadeiro tesouro escondido. \n\nA sua configuração privilegiada inclui:\n\n• Um poço e um furo de água, assegurando uma fonte abundante e confiável de recurso hídrico, perfeitos para agricultura, irrigação ou uso doméstico sustentável.\n\n• Uma habitação em ruínas com 111 m², que oferece uma oportunidade de reconstrução mediante projeto aprovado, permitindo criar a casa dos seus sonhos num cenário de grande beleza natural.\n\n• Uma habitação T2 com anexos, totalizando uma área de construção de 134 m² (não legalizada), ideal para ampliar ou transformar conforme os seus desejos.\n\n• Duas linhas de água que atravessam a propriedade, proporcionando ainda mais recursos naturais e potencial para atividades agrícolas ou de lazer.\n\n• Árvores de fruto variadas e um solo classificado como Agroflorestal Categoria I e III, tornando-se um espaço perfeito para a implementação de projetos agrícolas, hortícolas ou de turismo rural.\n\nImportante: Para adquirir a propriedade através de crédito habitação, será necessário apresentar um projeto de reconstrução da habitação em ruínas e regularizar a área de construção existente.\n\nEsta é uma oportunidade rara de possuir um pedaço de paraíso, com potencial de valorização e múltiplas possibilidades de uso. \n\nSeja para construir a sua residência em plena natureza, desenvolver um projeto de turismo rural ou investir na agricultura, esta propriedade oferece o espaço e os recursos ideais para concretizar os seus sonhos. \n\nAproveite esta chance de viver ou investir num ambiente de paz, beleza natural e futuro promissor.",
+  "geo": {
+    "lat": 38.66076771796287,
+    "lng": -8.760729563189493
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,25 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5330/108233/fe4986d0-7166-405c-873d-36d38385a2cb.jpeg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Ano construção: 1951",
+      "Certificação energética: Isento",
+      "Acessos: Comboio",
+      "Localização: Interior",
+      "Zona envolvente: Residencial",
+      "Vistas: Campo",
+      "Árvores"
+    ],
+    "Interior": [
+      "Lareira",
+      "Cozinha: Chaminé, Outros, Placa e forno",
+      "Aquecimento água: Eléctrico"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 28,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 28,
+  "ano_construcao": 1951,
   "certificacao_energetica": null
 }

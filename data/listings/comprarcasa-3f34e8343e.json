@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 31,
   "image": "https://cdn.proppy.app/propertyfiles/1497/108395/0dd45d4f-5e4f-4072-a332-5c3b9aac8cf4.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Arrenda-se loja com 31m2 de área, c/casa de banho, arrumo na loja, grandes montras, arrecadação na cave, zona de movimento, muito central. Tlm: \n\nIMA - Sociedade de Mediação Imobiliária, Lda. Lic. AMI 2473, pertencente ao Grupo IMA , desde 1985, trata-se de uma empresa com elevada dinâmica e experiência ao seu serviço.\n\nEm qualquer momento, os imóveis aqui identificados podem ser reservados, arrendados, vendidos, retirados de venda ou com preços alterados.",
+  "geo": {
+    "lat": 39.75162692085422,
+    "lng": -8.932919524099132
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,17 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1497/108395/0dd45d4f-5e4f-4072-a332-5c3b9aac8cf4.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Ano construção: 1994",
+      "Arrecadação",
+      "Localização central",
+      "Certificação energética: C"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 31,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 31,
+  "ano_construcao": 1994,
+  "certificacao_energetica": "C"
 }

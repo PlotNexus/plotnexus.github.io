@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 165,
   "image": "https://cdn.proppy.app/propertyfiles/1526/108579/2b4b3979-e3e2-4a64-95fb-53dcd3bf5d35.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T3 com Terreno Amplo e Vista Serra – Algarvia, Nordeste (São Miguel, Açores)\n\nApresentamos esta encantadora moradia com 3 quartos, situada na freguesia da Algarvia, concelho do Nordeste, uma das zonas mais tranquilas e pitorescas da ilha de São Miguel.\n\n✨ Características principais:\n\n🛏️ 3 quartos espaçosos\n\n🛁 1 casa de banho\n\n🚪 Entrada lateral independente\n\n🌿 Zona exterior ampla ideal para lazer, cultivo ou criação de jardim\n\n🌄 Vista deslumbrante para a serra\n\n🌾 Terreno com 2.814 m², oferecendo múltiplas possibilidades de aproveitamento\n\nLocalizada numa zona calma e com excelente exposição solar, esta propriedade é perfeita tanto para quem procura um lar permanente como para quem deseja investir numa casa de férias ou num refúgio de campo.\n\nA moradia combina o charme rural com o potencial de personalização, beneficiando de um ambiente natural envolvente e de toda a serenidade típica do Nordeste.\n\nMarque já a sua visita!",
+  "geo": {
+    "lat": 37.84775734357835,
+    "lng": -25.233265662365294
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,38 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/108579/2b4b3979-e3e2-4a64-95fb-53dcd3bf5d35.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 165,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Orientação solar: Norte",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Escolas, Infantário",
+      "Vistas: Serra, Areas verdes",
+      "Muro",
+      "Logradouro",
+      "Recuado",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Norte"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 76,42",
+      "Área do(s) Quarto(s): 20,56",
+      "Área da Cozinha: 76,42",
+      "Cozinha: Placa e forno",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 150,
+  "area_bruta_m2": 165,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

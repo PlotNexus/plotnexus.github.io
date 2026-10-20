@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 140,
   "image": "https://cdn.proppy.app/propertyfiles/1515/108013/026d69af-01bf-4417-a8e7-facd2f9b0b0d.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Quinta com 9.000 m², situada no Bairro de S. José da Ponte, em Évora, composta por uma moradia unifamiliar de rés de chão e 1º andar com tipologia T4. Uma oportunidade única para viver com espaço, privacidade e tranquilidade, sem abdicar da proximidade ao centro da cidade.\n\nCARACTERÍSTICAS DA MORADIA E QUINTA\n\n- Moradia T4 distribuída em dois pisos\n\n- Poço que abastece diretamente a casa\n\n- Espaço para arrecadação\n\n- Tanque/piscina, construído, ideal para os dias mais quentes\n\n- Terreno amplo com 9.000 m², perfeito para lazer ou pequenos projetos agrícolas\n\nVIVER OU INVESTIR EM ÉVORA\n\n- Évora é uma cidade histórica, classificada como Património Mundial da UNESCO, que alia qualidade de vida, tranquilidade e oferta cultural. Viver nesta quinta é desfrutar do espaço e do contacto com a natureza, ao mesmo tempo que se beneficia da proximidade a escolas, comércio, serviços de saúde e transportes.\n\n- Além disso, esta é também uma excelente opção para quem pretende investir, dada a crescente procura imobiliária na cidade e o potencial de valorização.\n\nNOTA IMPORTANTE: Esta propriedade será escriturada sem recurso a financiamento bancário.\n\nSe procura uma propriedade que combine história, localização e qualidade de vida, esta é a oportunidade ideal.\n\nContacte-nos para mais informações ou para agendar a sua visita!",
+  "geo": {
+    "lat": 38.55693773653236,
+    "lng": -7.891008411636428
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,24 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/108013/026d69af-01bf-4417-a8e7-facd2f9b0b0d.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Certificação energética: F",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Industrial",
+      "Vistas: Campo, Cidade",
+      "Árvores",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Piscina"
+    ]
+  },
+  "estado": "Não aplicável",
   "area_util_m2": 140,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 140,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

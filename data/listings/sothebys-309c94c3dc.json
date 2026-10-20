@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73698&foto=1667550&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73698&foto=1667550&f=1",
+  "description": "Localizado num bairro onde a tradição perdura no tempo, com uma volumetria particular marcada pelo ritmo e harmonia das suas formas, surge o Conde da Ribeira. De desenho contemporâneo, numa relação perfeita com a história do local e a atualidade, nasce um edifício com espaços habitacionais sofisticados, elegantes e intemporais, valorizados através da sua materialidade e inspirados no estilo de vida vibrante e autêntico de quem habita e escolhe esta zona da cidade.\nO Conde da Ribeira é um empreendimento residencial urbano com muito charme. Constituído por dois blocos num único volume, com dois pisos subterrâneos de estacionamento e cinco pisos de habitação. Contempla 24 frações, com tipologias de T0 a T6 +1. O rés do chão é composto por um ginásio e um jardim comum de uso exclusivo das habitações. Os últimos pisos são reservados a cinco penthouses duplex.\nOs apartamentos são modernos e funcionais, com ambientes serenos e luminosos, que transmitem uma sensação de bem-estar permanente. Os espaços comuns, como cozinhas e salas, possuem equipamentos e acabamentos cuidadosamente selecionados e várias varandas que convidam a luz a entrar e permitem apreciar a vista.\nA vista do rio Tejo e a luz de Lisboa fazem parte deste cenário. A proximidade com as principais ruas de Alcântara proporciona facilidade de acessos a diversos pontos de interesse e, ao mesmo tempo, mantém um distanciamento equilibrado proporcionando tranquilidade e conforto, sem prescindir do ritmo intenso que a capital oferece. É uma zona cosmopolita e segura, propícia a um estilo de vida saudável, onde museus, monumentos icónicos, espaços verdes, comércio, oferta cultural, moda e inovação se conjugam numa nova dinâmica da cidade, uma Lisboa renovada, onde a autenticidade permanece intacta.",
+  "geo": {
+    "lat": 38.705430649805,
+    "lng": -9.17925953864096
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73698&foto=1667550&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73698&foto=1667550&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Domótica": [
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 205,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

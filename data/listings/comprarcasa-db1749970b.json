@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 2,
   "image": "https://cdn.proppy.app/propertyfiles/5300/108390/6d0ddb48-5d26-4fd3-8c3a-2e44acaad226.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Excelente apartamento T3 a 13 minutos da praia. O apartamento é constituído por 3 quartos, sala e 2 casas de banho, com 83m2 de área útil. Completamente renovado Moderno e luminoso, cozinha equipada com placa e forno e esquentador.\n\nLocalizado junto ao centro histórico de Porto Salvo em Oeiras \n\nFácil acesso a transportes, escolas e à A5. \n\nNão perca esta oportunidade única de adquirir um magnífico imóvel numa das áreas mais procuradas de Oeiras.\n\n Agende já a sua visita e apaixone-se por este agradável apartamento.",
+  "geo": {
+    "lat": 38.716065691496226,
+    "lng": -9.300497173389886
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,31 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5300/108390/6d0ddb48-5d26-4fd3-8c3a-2e44acaad226.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 2,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Ano construção: 1973",
+      "Localização central",
+      "Certificação energética: C",
+      "Valor do condomínio: 40, 20",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Centro",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Infantário, Policia",
+      "Zona envolvente: Residencial",
+      "Gás canalizado",
+      "Nº apartamentos por piso: 2",
+      "Árvores",
+      "Fração autónoma"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada",
+      "Cozinha: Placa e forno, Esquentador",
+      "Caixilharia: Vidros duplos, Caixilharia dupla"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 25,
+  "area_bruta_m2": 2,
+  "ano_construcao": 1973,
+  "certificacao_energetica": "C"
 }

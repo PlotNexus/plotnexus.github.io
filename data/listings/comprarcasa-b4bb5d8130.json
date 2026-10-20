@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 165,
   "image": "https://cdn.proppy.app/propertyfiles/5268/108824/33d1cb7d-5939-4b6e-9f79-bf7ecc7a2cb1.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra esta moradia T3 de nova construção na Lagoa, Mafra — onde conforto, qualidade e modernidade se unem num único espaço!\n\nCom linhas contemporâneas e tons claros que ampliam a luminosidade natural, esta casa oferece um ambiente acolhedor e elegante desde o primeiro momento.\n\n Interior moderno e totalmente equipado\n\nCozinha totalmente equipada, ideal para quem valoriza funcionalidade\n\n Estores elétricos para maior conforto\n\n❄️ Ar condicionado Bosch\n\n🔥 Lareira com recuperador de calor, perfeita para os dias mais frescos\n\nChão vinílico AC8, resistente e moderno\n\n Ar fossado na cozinha, WC e entrada\n\n Bomba de calor 270L, garantindo eficiência energética\n\nExterior pensado para viver e desfrutar\n\n Churrasqueira com zona de lavatório — ideal para convívios!\n\nAgradável espaço exterior perfeito para jardim, lazer ou pets\n\n Pérgola/garagem para proteger o carro\n\n Ambientes amplos, bem distribuídos e com excelente exposição solar\n\nEsta moradia combina a tranquilidade da Lagoa com a qualidade de construção e o conforto dos equipamentos modernos — o equilíbrio perfeito para famílias, quem trabalha a partir de casa ou quem procura uma vida mais calma perto de Mafra.\n\n🌟 Um imóvel completo, pronto a habitar e pensado ao detalhe para oferecer bem-estar, praticidade e qualidade de vida.",
+  "geo": {
+    "lat": 39.006196700000004,
+    "lng": -9.3896769
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,45 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5268/108824/33d1cb7d-5939-4b6e-9f79-bf7ecc7a2cb1.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 165,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Barbecue",
+      "Ano construção: 2025",
+      "Armários embutidos",
+      "Condomínio fechado",
+      "Localização central",
+      "Certificação energética: A+",
+      "Garagem",
+      "Lugar de garagem",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Correios, Farmácia, Escolas",
+      "Zona envolvente: Residencial",
+      "Vistas: Areas verdes",
+      "Árvores",
+      "Churrasqueira",
+      "Quintal",
+      "Fração autónoma"
+    ],
+    "Exterior": [
+      "Jardim"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Lareira",
+      "Recuperador de calor",
+      "Cozinha equipada",
+      "Cozinha: Microondas, Frigorifico, Exaustor, Máquina lavar louça, Placa e forno, Placa, Combinado, Móveis",
+      "Bomba de calor",
+      "Caixilharia: PVC, Vidros duplos, Caixilharia dupla, Lacada",
+      "Aquecimento água: Eléctrico",
+      "TV por cabo"
+    ]
+  },
+  "estado": "Novo",
+  "area_util_m2": 6,
+  "area_bruta_m2": 165,
+  "ano_construcao": 2025,
+  "certificacao_energetica": "A+"
 }

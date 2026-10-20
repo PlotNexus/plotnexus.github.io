@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 2,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75061&foto=1568151&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75061&foto=1568151&f=1",
+  "description": "Exclusiva moradia de 4 quartos com 457 metros quadrados de área bruta privativa na primeira linha de rio, junto à muralha Fernandina, numa zona classificada como património da UNESCO. O prédio, com características bem marcadas da arquitetura de finais do século XIX, foi alvo de reabilitação total em 2011, assumindo-se como uma habitação unifamiliar. A organização funcional permite uma fruição autónoma dos espaços. O amplo e central jardim interior, com 8,07m de pé direito e o recuo da “caixa” que forma a segunda fachada, garantem uma visão e leitura global e unificada dos espaços.\nA casa é composta por três suites, com possibilidade de mais uma, atualmente transformada em garrafeira. A master suite localiza-se no último piso e estende-se para um terraço privado com vistas deslumbrantes sobre o rio. Todos os quartos têm roupeiros embutidos. A cozinha, da Gneisse Vitrum, está equipada com eletrodomésticos Siemens em inox, garrafeira com armário de vinhos e arca. Ao nível do rés do chão, está o hall principal, a garagem para duas viaturas e uma zona de arrumação. Na cave encontramos a piscina aquecida, a sauna e uma zona de relaxamento em espaço climatizado. No primeiro piso encontramos uma ampla zona de lazer, onde se insere o jardim interior com pé direito duplo.\nInserida na zona histórica da cidade, goza de uma localização privilegiada junto ao Rio Douro e ao centro da cidade do Porto, onde está disponível, a uma curta distância a pé, todo o tipo de serviços e comércio tradicional, bem como espaços de lazer e diversas atrações turísticas e culturais como o Palácio da Bolsa, a Torre dos Clérigos, a Sé do Porto, a Igreja de São Francisco, entre outros. Dispõe de uma diversificada rede de transportes, restaurantes, supermercados e escolas. Uma vez que o Edifício está inserido em zona classificada, beneficia da isenção de IMI.",
+  "geo": {
+    "lat": 41.14127,
+    "lng": -8.617769
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75061&foto=1568151&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75061&foto=1568151&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 8; Vão de Telhado / Sotão"
+    ],
+    "Caixilharia": [
+      "Madeira",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Revestimento Exterior (Cerâmica, Granito, Pedra Natural)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Pedra Natural)",
+      "Tecto (Falso Pladur, Ponto de Luz)",
+      "Equipamento (Gás Canalizado, Ventilação Mecânica, Video-Porteiro)",
+      "Piscina (Interior)",
+      "Ginásio (Sauna)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 23; Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 2,
-  "area_bruta_m2": null,
+  "area_util_m2": 457,
+  "area_bruta_m2": 2,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

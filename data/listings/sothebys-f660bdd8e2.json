@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 3,
   "area_m2": 395,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79511&foto=1638934&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79511&foto=1638934&f=1",
+  "description": "Descubra uma moradia verdadeiramente exclusiva no prestigiado Belas Clube de Campo, onde elegância, conforto e privacidade se unem para proporcionar um estilo de vida incomparável.\n\nImplantada num generoso lote de 1.780 m² e com 330 m² de área bruta privativa, esta propriedade distingue-se pelos seus espaços amplos, luminosos e cuidadosamente distribuídos, pensados para o máximo bem-estar.\n\nAo entrar, é recebido por um impressionante hall com duplo pé-direito e claraboia, que inunda a casa de luz natural e cria uma atmosfera sofisticada desde o primeiro momento. No piso superior, encontram-se três quartos, incluindo uma elegante suíte, apoiados por duas casas de banho adicionais e duas salas versáteis, ideais para diferentes ambientes de lazer ou trabalho.\n\nA zona inferior, ao nível de rés-do-chão, oferece uma excelente extensão da área habitacional, com garagem, arrumos, casa de banho e três divisões adicionais que poderão ser adaptadas a quartos, escritório, ginásio ou sala de cinema — ajustando-se perfeitamente às suas necessidades.\n\nAs três varandas proporcionam vistas deslumbrantes sobre o campo de golfe, convidando ao relaxamento e ao contacto com a natureza, com uma excelente exposição solar ao longo de todo o dia.\n\nNo exterior, destaca-se um jardim cuidado e envolvente, complementado por uma piscina equipada com bomba de calor, perfeita para usufruir em qualquer estação. A moradia está ainda equipada com ar condicionado, lareira com recuperador de calor e sistema de rega automática, garantindo conforto e eficiência.\n\nInserida num ambiente seguro e tranquilo, esta propriedade oferece total privacidade, sendo ideal para quem valoriza qualidade de vida num cenário exclusivo.\n\nViver no Belas Clube de Campo é mais do que habitar uma casa — é abraçar um estilo de vida onde natureza, segurança e bem-estar estão sempre presentes.\n\nLocalizada a poucos minutos de Lisboa, com proximidade a escolas, 4 campos de padle, 4 campos de ténis, campo de golfe, comércio e transportes diários direto para o Colombo, esta é uma oportunidade única para quem procura sofisticação e tranquilidade.\n\nAlgumas das imagens apresentadas incluem Virtual Home Staging, com o objetivo de permitir visualizar o potencial dos espaços.",
+  "geo": {
+    "lat": 38.7544251,
+    "lng": -9.2553415
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,50 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79511&foto=1638934&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79511&foto=1638934&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 1; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Pavimento (Mármore)",
+      "Equipamento (Campo de Jogos, Rega Automática, TV Cabo)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 395,
-  "area_bruta_m2": null,
+  "area_util_m2": 330,
+  "area_bruta_m2": 395,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

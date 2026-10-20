@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77084&foto=1557896&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77084&foto=1557896&f=1",
+  "description": "Situada num dos recantos mais carismáticos de Lisboa, esta magnífica moradia de 4 quartos e 4 casas de banho é uma fusão perfeita entre charme histórico e conforto contemporâneo. Com uma área bruta privativa de 347 m², esta propriedade oferece espaços generosos, luz natural abundante e um ambiente sofisticado, ideal para quem valoriza a exclusividade no coração da cidade.\n\nA localização é simplesmente privilegiada: no centro histórico de Lisboa, a poucos passos de Alfama, do Castelo de São Jorge e da Sé. A envolvência é marcada por ruas pitorescas, miradouros com vistas deslumbrantes e uma atmosfera única, onde o passado se cruza com a vibrante vida lisboeta atual. Apesar do seu contexto histórico, o imóvel goza de acessibilidades modernas e convenientes, com proximidade a transportes públicos, comércio local, escolas e serviços essenciais.\n\nNo interior, os acabamentos de elevada qualidade e o cuidado nos detalhes refletem um estilo de vida requintado. As divisões distribuem-se de forma funcional, com quatro quartos amplos — ideais para famílias ou para receber convidados com todo o conforto — e quatro elegantes casas de banho. A moradia oferece ainda dois lugares de estacionamento privativos, uma mais-valia rara numa zona histórica da capital.\n\nCombinando a autenticidade da arquitetura lisboeta com o conforto de uma reabilitação pensada ao pormenor, esta moradia representa uma oportunidade única de viver Lisboa com sofisticação e história. Uma proposta exclusiva Sotheby’s International Realty — para quem procura mais do que uma casa: uma experiência de vida.",
+  "geo": {
+    "lat": 38.712055426114,
+    "lng": -9.13188259441222
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77084&foto=1557896&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77084&foto=1557896&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 347,
+  "area_bruta_m2": 469,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

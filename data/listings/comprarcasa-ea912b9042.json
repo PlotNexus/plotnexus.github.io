@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/2032/107704/2a1359f2-ebdf-45aa-b9a3-544936331a2a.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno rústico, com ampla vista sobre o mar, com uma área total de 5400m2, com ótima exposição solar.\n\nTem fácil acesso à estrada atlântica.\n\nFica a escassos 300m do Miradouro do Atlântico e das arribas.\n\nDeslumbrante vista sobre o oceano Atlântico, onde se podem admirar todos os sons e cheiros que só o mar proporciona, podendo observar um pôr-do-sol de suster a respiração.\n\nFica na zona da Fonte Santa, a meio caminho entre a Foz do Arelho e Salir do Porto.\n\nZona protegida e de grande beleza natural, sem viabilidade de construção.",
+  "geo": {
+    "lat": 39.47551300373555,
+    "lng": -9.187428126052863
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,16 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/107704/2a1359f2-ebdf-45aa-b9a3-544936331a2a.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar",
+      "Curta distância a pé da praia",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Mar"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,

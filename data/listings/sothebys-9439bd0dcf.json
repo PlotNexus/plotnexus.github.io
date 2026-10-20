@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 327,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70294&foto=1412710&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70294&foto=1412710&f=1",
+  "description": "Elegante moradia com quatro quartos e de três frentes, com 327 metros quadrados, de linhas sóbrias e intemporais, projeto da autoria do arquitecto Joaquim Duarte, situada numa das zonas mais nobres do Porto, composta por três pisos, simpática área exterior onde se destaca uma piscina aquecida, iluminada com possibilidade de diferentes cores de luz, com cobertura amovível e um agradável jacuzzi.\nAo nível da cave dispõe de ampla garagem para 3 carros e possibilidade de estacionamento exterior, lavandaria, sala, wc, um quarto, um pátio coberto com teto em vidro usado como ginásio.\nNo piso intermédio, um hall de entrada, dá acesso ao escritório, casa de banho de serviço, cozinha e sala comum com fogão de sala ao meio e a uma escadaria que liga os três pisos.\nAo nível da zona privada, destaca-se a suite com closet, casa de banho com banheira e cabine de duche, jardim de inverno e generosa varanda, dois quartos servidos por uma casa de banho completa.\nPela sua exposição solar, amplas janelas e claraboia dispõe de muita luz natural, a sua localização privilegiada a poucos minutos do Parque da cidade, a proximidade às praias da Foz do Douro e Matosinhos, a comércio diverso e serviços, farmácia, clínicas, colégios privados e escolas públicas, fazem dela a casa ideal para viver em família, para Alojamento Local, clínica ou para sede de empresa.",
+  "geo": {
+    "lat": 41.1656,
+    "lng": -8.669308
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,46 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70294&foto=1412710&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70294&foto=1412710&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Aluminio"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Segurança Activa)"
+    ],
+    "Edifício": [
+      "Piscina (Interior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 40; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Porto de Mar)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 327,
-  "area_bruta_m2": null,
+  "area_util_m2": 182,
+  "area_bruta_m2": 327,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

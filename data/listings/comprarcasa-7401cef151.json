@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1505/107638/6f65de62-e106-4007-9888-79c94a50a43a.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno para Construção com Ruína – Pesqueiro, São Bartolomeu\n\nLocalizado na zona do Pesqueiro, em São Bartolomeu, este terreno com 1.936 m2 oferece uma excelente oportunidade para construir a sua casa de sonho, num cenário onde o campo e o mar se encontram em perfeita harmonia.\n\nO terreno conta com uma ruína existente, permitindo a possibilidade de reconstrução ou criação de um novo projeto arquitetónico à sua medida. A zona é conhecida pela sua envolvência natural e ambiente sereno, ideal para quem procura privacidade, mas também proximidade aos serviços e comodidades essenciais.\n\nUma oportunidade única para investir numa das áreas mais autênticas e valorizadas da região.",
+  "geo": {
+    "lat": 38.670998280284486,
+    "lng": -27.303057924687195
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,21 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/107638/6f65de62-e106-4007-9888-79c94a50a43a.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar",
+      "Orientação solar: Sul",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Periferia",
+      "Serviços: Bancos, Universidade",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Campo, Areas verdes"
+    ],
+    "Exterior": [
+      "Orientação Solar: Sul"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,

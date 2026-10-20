@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72820&foto=1619746&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72820&foto=1619746&f=1",
+  "description": "Moradia isolada situada no Madalena do Mar localizada apenas a um minuto da praia da Madalena e 15 minutos da Ponta do Sol. A sul, a propriedade oferece vista panorâmica sobre a Madalena do Mar. Trata-se de uma moradia de tipologia V3, com instalação completa de ar-condicionado, piscina e quintal. No piso térreo encontramos as áreas sociais, a sala de estar, a cozinha e sala de jantar em open-space, com portas de acesso ao exterior de grandes dimensões, que permite desfrutar das vistas panorâmicas.\nA área exterior foi cuidadosamente pensada para proporcionar bem-estar e momentos de convívio, contando com piscina exterior, terraço amplo e privado, zona de churrasco, lounge exterior e espaço de refeições ao ar livre. No interior, a moradia destaca-se pela arquitetura aberta, pela luminosidade natural que combina design contemporâneo, materiais de qualidade e um ambiente acolhedor que convida ao descanso. A Madalena do Mar é reconhecida como uma zona solarenga e com um microclima ameno durante todo o ano. Muito procurada por nómadas digitais, amantes de natureza e desporto, turistas de luxo e famílias que privilegiam tranquilidade. Nas proximidades encontram-se praias encantadoras, trilhos pedestres, surf, parapente e passeios marítimos para observação de golfinhos e baleias, além do futuro campo de golfe da Ponta do Pargo, que acrescenta ainda mais valor à região.",
+  "geo": {
+    "lat": 32.7008861216979,
+    "lng": -17.1342774375732
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-20",
   "last_seen_at": "2026-10-20",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72820&foto=1619746&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72820&foto=1619746&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 250,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }
