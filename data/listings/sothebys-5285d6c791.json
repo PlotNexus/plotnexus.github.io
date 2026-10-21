@@ -6,25 +6,28 @@
   "currency": "EUR",
   "location": "Moradia, Ponta do Sol, Ponta do Sol",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 553,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77355&foto=1575346&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77355&foto=1638614&f=1",
+  "description": "Esta moradia situa-se na Ponta do Sol, uma das localidades mais soalheiras e encantadoras da ilha da Madeira. Reconhecida pelo seu clima ameno durante todo o ano e pela tranquilidade envolvente, a Ponta do Sol tem vindo a afirmar-se como uma das zonas de maior crescimento e valorização imobiliária da região, atraindo quem procura qualidade de vida, proximidade à natureza e um ambiente acolhedor junto ao mar.\n\nCom uma arquitetura de linhas modernas, esta moradia oferece um equilíbrio perfeito entre elegância e funcionalidade. No seu interior, contará com três quartos amplos em suíte, uma sala de estar luminosa em conceito open space integrada com uma cozinha totalmente equipada e acabamentos de elevada qualidade que conferem sofisticação a cada detalhe. As amplas janelas panorâmicas permitem desfrutar de uma vista privilegiada sobre o mar e as montanhas, proporcionando uma atmosfera única de conforto e serenidade.\n\nNo exterior, a propriedade complementa-se com uma piscina privativa, uma zona ajardinada ideal para momentos de lazer e relaxamento, bem como estacionamento e espaço técnico que garantem maior comodidade no dia a dia.\n\nEsta é a oportunidade perfeita para quem procura uma casa nova numa localização promissora, que alia modernidade, privacidade e uma paisagem de tirar o fôlego.",
+  "geo": {
+    "lat": 32.6795993040946,
+    "lng": -17.103604888916
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-ponta-do-sol-ponta-do-sol_pt_77355",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77355&foto=1575346&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77355&foto=1638614&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 553,
-  "area_bruta_m2": null,
+  "area_util_m2": 451,
+  "area_bruta_m2": 553,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,23 +8,70 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68298&foto=1298908&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68298&foto=1298908&f=1",
+  "description": "Este exclusivo empreendimento residencial, composto por 27 apartamentos de tipologias T1, T2 e T3, distingue-se pela sua localização privilegiada em zona turística, oferecendo acesso conveniente a uma ampla variedade de serviços, comércio e comodidades, que tornam o quotidiano mais prático e confortável.\n\nConcebido para proporcionar elevados níveis de conforto e bem-estar, o projeto destaca-se pela qualidade construtiva, pela amplitude dos espaços e por uma abordagem arquitetónica contemporânea. Todas as tipologias foram cuidadosamente desenhadas, com quartos em suíte e áreas generosas, incluindo varandas amplas que reforçam a luminosidade natural e a sensação de espaço.\n\nOs apartamentos dispõem de cozinhas e lavandarias totalmente equipadas, refletindo uma combinação harmoniosa entre funcionalidade e sofisticação. A sensação de amplitude e a atenção ao detalhe são elementos centrais deste empreendimento, pensado para oferecer uma experiência residencial distinta.\n\nInserido em condomínio fechado, o edifício assegura elevados padrões de segurança e privacidade, com porta principal dotada de código de acesso, sistema de vídeo-porteiro e portas de alta segurança nas frações, garantindo tranquilidade e controlo de acessos.\n\nNo exterior, os residentes beneficiam de agradáveis áreas ajardinadas e de uma piscina situada no último piso, ideal para momentos de lazer e relaxamento.\n\nComprometido com a excelência, o empreendimento foi construído com materiais de elevada qualidade, assegurando durabilidade, conforto e uma estética sofisticada e contemporânea.",
+  "geo": {
+    "lat": 32.64326,
+    "lng": -16.92367
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-sao-martinho-funchal_pt_68298",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68298&foto=1298908&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68298&foto=1298908&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 6"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Casa Recolha Lixo, Jardins, Rega Automática, Sala Condomínio, Video-Porteiro)",
+      "Ginásio (Solário)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 9,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

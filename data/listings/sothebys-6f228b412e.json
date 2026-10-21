@@ -8,23 +8,30 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 2,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73112&foto=1458277&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73112&foto=1458277&f=1",
+  "description": "Nova moradia contemporânea com quatro quartos, piscina, jardim e roof-top, com área bruta de construção de 257 m2 e inserida num terreno de 284 m2, no bairro do Cobre em Cascais.\nEsta casa possui três pisos distribuídos da seguinte forma:\nNo piso térreo encontramos o lavabo, as salas de estar e jantar com acessos a varanda, e cozinha integrada e muito bem equipada com eletrodomésticos da marca MIELE. \nNo piso superior existe uma suite master com closet e varanda, outros dois quartos com varanda, casa de banho completa, e ainda uma escada que dá acesso a um roof-top, coberto, com bela vista para a serra de Sintra.\nNo piso inferior encontramos também mais um quarto com janela, casa de banho, lavandaria, uma cozinha gourmet também totalmente equipada (frigorífico, freezer, maquina de lavar loiças, e pia) e integrada a uma boa sala de estar com acesso direto à piscina com deck de madeira e grande zona para barbecue, \nNo exterior existe espaço para três veículos.\nA casa é equipada com marcenaria de alta qualidade, materiais nobres de acabamento, garrafeira em duas temperaturas, sistema de alarme, lareira na sala, e ar condicionado em todas as divisões.\nO bairro do Cobre é uma zona residencial localizada próximo ao centro da vila de Cascais. Conhecido por ser tranquilo, atrai famílias e pessoas que buscam qualidade de vida em um ambiente calmo e acessível. O bairro tem uma boa infraestrutura, incluindo escolas internacionais, hospital CUF, comércio local e proximidade com áreas verdes, como o Parque Natural de Sintra-Cascais. O Cobre oferece uma mistura de habitações modernas e tradicionais, refletindo o charme característico da região.\nÉ também bem conectado a outras áreas de Cascais e Lisboa, facilitando o transporte, estando somente a 2 minutos do acesso à auto estrada A5, a 15 minutos de Sintra e a 30 minutos de Lisboa e do Aeroporto Internacional.\nMuito próximo também ao Cascais Shopping e ao Hospital de Cascais.",
+  "geo": {
+    "lat": 38.7070983,
+    "lng": -9.3833323
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-cobre-cascais_pt_73112",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73112&foto=1458277&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73112&foto=1458277&f=1"
   ],
-  "features": null,
+  "features": {
+    "Domótica": [
+      "Piscina (Exterior)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 2,
-  "area_bruta_m2": null,
+  "area_util_m2": 136,
+  "area_bruta_m2": 2,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

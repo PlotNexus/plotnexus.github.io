@@ -8,23 +8,53 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 9,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82603&foto=1703343&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82603&foto=1703343&f=1",
+  "description": "Situada em Vale de Parra, numa das zonas residenciais mais procuradas de Albufeira, a Villa Cordeiro é uma elegante moradia de quatro quartos que combina conforto, privacidade e uma localização privilegiada, entre as praias da Galé e a Herdade dos Salgados.\n\nCom 275,47 m² de área bruta privativa, distribuídos por três pisos, a propriedade foi cuidadosamente concebida para proporcionar uma vivência confortável e descontraída, seja como residência permanente, casa de férias ou investimento no Algarve.\n\nA orientação solar a sul garante uma excelente luminosidade natural ao longo do dia, enquanto as vistas sobre o campo e, ao longe, o mar, acrescentam uma sensação de serenidade e amplitude.\n\nNo exterior, a moradia distingue-se pela piscina privada, envolvida por generosas áreas de lazer e um jardim harmoniosamente integrado na propriedade. Um espaço pensado para desfrutar do clima algarvio, reunir família e amigos ou simplesmente aproveitar momentos de privacidade e tranquilidade.\n\nA propriedade dispõe ainda de garagem privativa e cave, oferecendo espaço adicional para estacionamento, arrumação e diferentes possibilidades de utilização.\n\nNo interior, o conforto é assegurado por caixilharia com vidro duplo, estores elétricos e sistema de ar condicionado, proporcionando condições agradáveis durante todo o ano.\n\nA localização constitui um dos principais atributos da Villa Cordeiro. A poucos minutos das praias da Galé e dos Salgados, dos campos de golfe, zonas comerciais, supermercados e de todos os serviços essenciais, permite usufruir da tranquilidade de uma zona residencial sem abdicar da proximidade aos principais pontos de interesse do Algarve.\n\nUma propriedade distinta, com carácter, espaço e uma localização privilegiada, ideal para quem procura uma casa no Algarve que conjugue qualidade de vida, privacidade e proximidade ao mar.",
+  "geo": {
+    "lat": 37.0872875,
+    "lng": -8.3084116
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-gale-salgados-albufeira_pt_82603",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82603&foto=1703343&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82603&foto=1703343&f=1"
   ],
-  "features": null,
+  "features": {
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Mar"
+    ],
+    "Zona": [
+      "Proximidade (Centros Comerciais, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 9,
-  "area_bruta_m2": null,
+  "area_util_m2": 47,
+  "area_bruta_m2": 9,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

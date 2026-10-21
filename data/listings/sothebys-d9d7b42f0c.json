@@ -8,23 +8,55 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 572,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66353&foto=1481442&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66353&foto=1481442&f=1",
+  "description": "Esta propriedade oferece uma oportunidade única para quem procura mais do que uma casa, mas um refúgio privado com uma vista permanente sobre o mar, a cidade e a serra. Situada numa zona exclusiva e tranquila, combina conforto e funcionalidade em cerca de 600 m² distribuídos por três pisos principais e dois intermédios.\nNo primeiro piso, encontram-se três quartos em suíte. Num dos pisos intermédios, há uma sala de cinema, uma garrafeira e uma área de arrumos. O outro piso intermédio inclui um escritório/biblioteca com vista desafogada e luz natural.\nNo piso inferior, há um quarto em suíte, cozinha em open space com sala de jantar, casa de banho social, lavandaria e sala de estar com lareira em pedra de basalto, com acesso ao exterior.\nNo terceiro piso, situam-se a garagem, uma casa de banho social e um salão amplo, dividido em duas áreas: uma destinada a ginásio e outra a churrasqueira, sala de jantar e sala de jogos, ambas com acesso ao exterior.\nA vista panorâmica permite apreciar o nascer e o pôr do sol, bem como a cidade iluminada à noite. Durante o Ano Novo, a casa oferece uma posição privilegiada para assistir ao fogo de artifício. Existe ainda potencial para a construção de uma piscina.\nA apenas cinco minutos do centro do Funchal, garante fácil acesso à cidade sem perder privacidade. As obras já realizadas incluíram isolamento térmico e acústico, impermeabilização e renovação completa da canalização e do sistema elétrico. A pré-instalação de videovigilância reforça a segurança.\nUma oportunidade para concluir um projeto numa das localizações mais valorizadas da Madeira, onde privacidade, conforto e paisagem se unem em equilíbrio.",
+  "geo": {
+    "lat": 32.65117,
+    "lng": -16.89727
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-funchal-santa-maria-maior-funchal_pt_66353",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66353&foto=1481442&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66353&foto=1481442&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Ginásio (Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Farmácia, Jardins, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 572,
-  "area_bruta_m2": null,
+  "area_util_m2": 448,
+  "area_bruta_m2": 572,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

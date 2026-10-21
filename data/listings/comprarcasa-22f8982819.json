@@ -9,22 +9,40 @@
   "bathrooms": 2,
   "area_m2": 99,
   "image": "https://cdn.proppy.app/propertyfiles/5115/105578/7debf92d-b0a0-4b8b-9c26-3af0988c765a.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T2\n\nDescubra esta joia nesta fantástica cidade de Viana do Castelo - um elegante apartamento com 2 quartos e 2 casas de banho. Com uma área alargada, , esta propriedade certificada energeticamente com classe B oferece o equilíbrio perfeito entre conforto e eficiência. Localizado numa cidade encantadora, este apartamento é uma pérola para quem procura viver numa área tranquila, mas ainda assim com fácil acesso a todas as comodidades. Não perca esta oportunidade única de adquirir esta propriedade de sonho para os amantes que gostam de viver, entre Cidade, Mar, Rio e a proximidade da montanha. \n\nPreço Sob. Consulta\n\nAgende uma visita e apaixone-se pela sua nova casa.",
+  "geo": {
+    "lat": 41.69571404529415,
+    "lng": -8.832450459863276
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/apartamento/t2-2-quartos/venda/santa-maria-maior-viana-do-castelo-viana-do-castelo-santa-maria-maior-e-monserrate-e-meadela-viana-do-castelo/novo?id=105578",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/105578/7debf92d-b0a0-4b8b-9c26-3af0988c765a.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 99,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha, Vista rio, Vista cidade",
+      "Armários embutidos",
+      "Elevador",
+      "Curta distância a pé da praia",
+      "Localização central",
+      "Certificação energética: B",
+      "Lugar de garagem",
+      "Acessos: Transportes públicos, Comboio, Auto-estrada",
+      "Localização: Centro, Beira-mar, Beira-rio",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Industrial, Comercial, Turística",
+      "Vistas: Mar, Rio, Serra, Campo, Jardim, Areas verdes, Prédios, Cidade"
+    ]
+  },
+  "estado": "Novo",
+  "area_util_m2": 65,
+  "area_bruta_m2": 99,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

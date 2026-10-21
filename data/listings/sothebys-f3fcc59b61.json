@@ -8,23 +8,70 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 374,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83009&foto=1690267&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83009&foto=1690267&f=1",
+  "description": "Moderna moradia com três quartos no coração de Nevogilde, com 243 metros quadrados de área bruta privativa, implantada num lote de 306 metros quadrados. A casa de linhas modernas, desenvolve-se em três pisos e acolhe no primeiro piso a zona social composta por duas salas. A acolhedora sala de estar com 40 metros quadrados e lareira e a tardoz a sala de jantar, com 20 metros quadrados, e que se estende para o jardim. No segundo piso está a suite com closet, e os dois quartos apoiados por uma casa de banho completa, ambos os banhos com luz natural. Ao nível da Cave está a garagem, a zona de tratamento de roupa, uma garrafeira e diversas zonas de arrumos.\nConstruída em 2011, o interior foi projetado com atenção ao detalhe, oferecendo acabamentos de elevada qualidade como aquecimento central em todas as divisões e ar condicionado na zona social e na suite, persianas e estores elétricos, alarme, musica ambiente, vídeo porteiro, soalho em madeira, caixilharia em aluminio com vidro duplo da Technal, cozinha equipada com armários lacados, caldeira mural a gás e painel energético com reservatório para o aquecimento das águas sanitárias. Garagem para duas viaturas. Orientação Solar: Norte-Sul.\nLocalização privilegiada na Foz do Douro, inserida em zona residencial de referência servida de todo o tipo de comércio tradicional e serviços, próxima a colégios internacionais, e a poucos minutos a pé da praia e do mar. A envolvência oferece também diversos locais de lazer como o Parque da Cidade, a marginal do mar e o Jardim de Serralves, proporcionando a prática de caminhadas e desportos ao ar livre.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-em-banda-aldoar-foz-do-douro-e-nevogilde-porto_pt_83009",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83009&foto=1690267&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83009&foto=1690267&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Alumínio, Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Gás Canalizado",
+      "Video-Porteiro",
+      "Música Ambiente (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pintado)",
+      "Equipamento (Gás Canalizado, Jardins, Ventilação Mecânica, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 57; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Jardins, Jardins Infância, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 374,
-  "area_bruta_m2": null,
+  "area_util_m2": 243,
+  "area_bruta_m2": 374,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

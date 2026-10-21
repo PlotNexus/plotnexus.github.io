@@ -9,22 +9,39 @@
   "bathrooms": 3,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/5115/105606/b3686baf-c718-4aa9-8327-5fb2025bfc2f.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Loja Comercial.\n\nEsta excelente Loja comercial, destaca-se pela sua localização, boa exposição solar \n\nVenha descobrir este magnífico imóvel comercial à venda em Viana do Castelo! Com uma localização privilegiada nesta vibrante cidade, este espaço semi-novo oferece 150 metros quadrados de possibilidades ilimitadas. Com três casas de banho e uma classificação energética D, este imóvel é perfeito para iniciar o seu negócio dos sonhos.\n\nTambém é um excelente negocio para poder fazer a sua própria habitação. \n\nLocalizado a poucos minutos de uma variedade de escolas, supermercados, restaurantes e farmácias, este imóvel oferece conveniência e acessibilidade incomparáveis. Desde o Jardim de Infância n.º 1 de Viana do Castelo até ao Hospital Particular de Viana do Castelo, todas as comodidades essenciais estão a uma curta distância.\n\nSe procura um espaço comercial num local dinâmico e cheio de vida, este imóvel em Viana do Castelo é a escolha perfeita para si. \n\nNão perca esta oportunidade única e venha visitar este imóvel espetacular hoje mesmo.",
+  "geo": {
+    "lat": 41.701225321441804,
+    "lng": -8.824503305957025
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/loja-comercio/0-quarto/venda/santa-maria-maior-viana-do-castelo-viana-do-castelo-santa-maria-maior-e-monserrate-e-meadela-viana-do-castelo/semi-novo?id=105606",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/105606/b3686baf-c718-4aa9-8327-5fb2025bfc2f.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista rio",
+      "Localização central",
+      "Certificação energética: D",
+      "Garagem",
+      "Nº carros: 1",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Periferia, Interior, Beira-mar, Beira-rio",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Centro de saude",
+      "Zona envolvente: Residencial, Industrial",
+      "Vistas: Mar, Rio, Campo, Jardim, Areas verdes, Prédios",
+      "Fração autónoma"
+    ]
+  },
+  "estado": "Semi-novo",
+  "area_util_m2": 150,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

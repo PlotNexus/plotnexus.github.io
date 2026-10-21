@@ -8,23 +8,65 @@
   "bedrooms": 1,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82491&foto=1684395&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82491&foto=1684395&f=1",
+  "description": "Moradia T1+1 no BLOOM Marinha - chave na mão!\nA Portugal Sotheby's International Realty apresenta, em exclusivo, esta moradia geminada T1+1 no BLOOM Marinha, situada na Quinta da Marinha, em Cascais. Inserida num condomínio privado com gestão profissional, recepção e segurança permanente, esta propriedade é vendida totalmente mobilada e equipada, oferecendo uma solução de chave na mão para residência permanente, segunda habitação ou investimento numa localização próxima do mar, da natureza e dos principais serviços de Cascais.\n\nA moradia desenvolve-se por dois pisos (+cave), com uma distribuição fluida dos espaços, privilegiando a luz natural e a ligação entre o interior e o exterior. No piso de entrada encontra-se a área social, composta por sala de estar e cozinha em open space, com acesso direto ao jardim privativo e à piscina privativa. Este piso inclui ainda uma casa de banho social.\n\nO primeiro piso é dedicado à zona privada, com uma suite composta por área de descanso, zona de vestir, roupeiros embutidos e soluções adicionais de arrumação, beneficiando de vistas sobre o jardim. A cave, com luz natural, integra uma zona social adicional, uma área de descanso com duas camas e uma casa de banho completa, oferecendo flexibilidade para familiares ou convidados.\n\nA propriedade inclui lugar de estacionamento no interior do lote e beneficia dos serviços do condomínio, incluindo recepção, segurança 24 horas, manutenção das áreas comuns, Wi-Fi e Business Centre.\n\nA Quinta da Marinha distingue-se pela baixa densidade de construção, privacidade e proximidade ao oceano. Nas proximidades encontram-se restaurantes, comércio, supermercados, serviços de saúde, colégios internacionais, clubes desportivos, campos de golfe, centro hípico, Marina de Cascais, praias do Guincho e o Parque Natural de Sintra.\n\nA ligação a Lisboa é assegurada pela A5 e pela Avenida Marginal, permitindo chegar ao centro da capital em cerca de 30 minutos. A estação ferroviária de Cascais oferece uma alternativa de transporte, enquanto o Aeroporto Humberto Delgado se encontra a aproximadamente 35 minutos.\n\nEsta propriedade reúne as características de uma residência na Quinta da Marinha, Cascais, com uma localização privilegiada entre o oceano, a natureza e uma oferta completa de serviços, proporcionando uma experiência residencial marcada pela privacidade, conforto e proximidade aos principais pontos de interesse da região.",
+  "geo": {
+    "lat": 38.7081118,
+    "lng": -9.4555858
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-geminada-quinta-da-marinha-cascais_pt_82491",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82491&foto=1684395&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82491&foto=1684395&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Court Ténis",
+      "Depósito Lixo",
+      "TV-Cabo",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Court Ténis, Jardins, Rega Automática, Video-Porteiro, Zelador / Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Garagem": [
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 146,
+  "area_bruta_m2": 332,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

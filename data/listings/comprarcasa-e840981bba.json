@@ -9,22 +9,37 @@
   "bathrooms": null,
   "area_m2": 9700,
   "image": "https://cdn.proppy.app/propertyfiles/1526/82134/48c02935-c455-4fc5-8bba-4468f4c55ab9.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno com 9.700,00 m2\n\nDestinado a Cultura Arvense\n\nTodo Plano\n\nVista Mar e Serra\n\nSanta Cruz é uma freguesia do concelho da Lagoa, com 14,26 km² de área e 3 528 habitantes (censos 2021). \n\nÉ a freguesia sede do concelho e a mais rural. Aqui se encontram alguns dos mais importantes espaços naturais da vila, como o miradouro da Lagoa do Fogo e a Chã da Marcela, com o seu parque florestal e de merendas.\n\nA história desta freguesia remonta ao século XV, mas ficamo-nos por uma data de extrema importância para o seu destino: 22 de Abril de 1522. Nesse dia, D. João III elevava Lagoa à categoria de vila e esta freguesia a sede do concelho.\n\nUm dos seus pontos mais interessantes é a Chã da Marcela, que abriga um pequeno parque florestal com uma extensa área. Ali crescem diversas espécies vegetais, umas endémicas (louro, queiró, urze, cedro do mato, uva da serra) e outras trazidas de fora da ilha, como as araucárias, as criptomérias, os cedros, as acácias e os pinheiros. Tem também parque de merendas.",
+  "geo": {
+    "lat": 37.7451046,
+    "lng": -25.5720746
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/terreno/-/venda/santa-cruz-lagoa-acores-lagoa-santa-cruz-ilha-de-sao-miguel/nao-aplicavel?id=82134",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/82134/48c02935-c455-4fc5-8bba-4468f4c55ab9.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Orientação solar: Norte, Sul",
+      "Certificação energética: Isento",
+      "Localização: Periferia",
+      "Zona envolvente: Turística",
+      "Vistas: Mar, Serra"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul"
+    ]
+  },
   "estado": null,
   "area_util_m2": 9700,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 9700,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

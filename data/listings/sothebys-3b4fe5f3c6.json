@@ -8,23 +8,66 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 578,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=58617&foto=1079193&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=58617&foto=1079193&f=1",
+  "description": "Magnífica moradia com cerca de 400 metros quadrados de área bruta de construção, inserida num lote de terreno com mais de quarenta e um mil metros quadrados, sobre o Rio Tâmega com ancoradouro particular.\nA nível do rés-do-chão encontramos a majestosa cozinha com 44.6 metros quadrados e zona de lavandaria, a sala de estar e sala de jantar com generosa área de 56 metros quadrados, duas suites e uma casa de banho social. No primeiro andar, encontram-se mais duas suites e, na cave, um salão com bar. A moradia dispõe de uma piscina maravilhosa onde poderá descansar e ver muito verde em seu redor. \nÀ entrada da propriedade, encontra-se a \"Casa Velha\" com dois quartos, uma casa de banho, um salão, o lagar e a adega. A Eira da propriedade está transformada num encantador T0. \nEsta exclusiva propriedade está localizada a 40 minutos do Aeroporto Internacional Francisco Sá Carneiro e do centro do Porto.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-livracao-marco-de-canaveses_pt_58617",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=58617&foto=1079193&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=58617&foto=1079193&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia",
+      "Furo",
+      "Poço"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Estores (PVC)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 65; Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Panorâmicas",
+      "Rio",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Porto de Rio)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Escolas, Farmácia, Hospital, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 578,
-  "area_bruta_m2": null,
+  "area_util_m2": 290,
+  "area_bruta_m2": 578,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

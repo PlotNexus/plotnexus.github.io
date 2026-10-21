@@ -6,25 +6,60 @@
   "currency": "EUR",
   "location": "Portimão, Faro",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 127,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlibXVzOGxza2t2ZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.x_rClDjBrNRPZJw9SrCpbnB0KYAgrNjXXRKqo7Oxd-I/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlibXVzOGxza2t2ZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.x_rClDjBrNRPZJw9SrCpbnB0KYAgrNjXXRKqo7Oxd-I/image;s=2048x1536;q=80",
+  "description": "Sublime Apartamento T2 Duplex inserido em Condomínio Privado com Piscina , Jardins , Padel , Ginásio , situado numa Zona muito tranquila da Cidade a dois passos do Centro e de todas as Comodidades .\n\nO Apartamento é composto por : Hall de Entrada , Casa de Banho de Serviço, Cozinha Equipada , Sala de Estar e Jantar e Varanda Com Vista Jardins no andar de cima temos Corredor e dois Quartos em Suite com Varanda .\n\nDispões ainda de uma Arrecadação e dois Lugares de Estacionamento.\n\nEstá Equipado com Ar condicionado , Domótica para as Luzes .\n\nO Condomínio dispõe de Piscina, Campo de Padel , Amplos Jardins , Ginásio , Sala de Condomínio para Festas e Estacionamento Privado para visitas dentro do Complexo.\n\nCondomínio = 130 / mês\nIMI = 680 / ano\n\nOuse Viver neste Luxuoso Espaço , Venha Conhecer, Faça-nos uma Visita, Esperamos por si.\n\nPortimão está localizado na região do Algarve, na costa sul de Portugal É o segundo maior concelho do Algarve em termos de área e população.\n\nLimita-se a norte com o concelho de Monchique, a leste com Silves e a oeste com Lagos.\nA geografia é marcada por praias de areia dourada, falésias escarpadas e uma paisagem interior caracterizada por colinas e vales.\n\nPortimão possui algumas das praias mais deslumbrantes do Algarve, incluindo a famosa Praia da Rocha, conhecida pela sua extensa faixa de areia e formações rochosas impressionantes.\n\nAlém da Praia da Rocha, há outras praias populares, como a Praia do Vau, Praia dos Três Irmãos e Praia do Alvor.\nAs falésias e formações rochosas ao longo da costa oferecem oportunidades para caminhadas e vistas panorâmicas deslumbrantes sobre o Oceano Atlântico.\n\nO turismo é uma parte essencial da economia de Portimão, atraindo visitantes de todo o mundo durante todo o ano.\nAs principais atrações incluem a Fortaleza de Santa Catarina, oferecendo vistas panorâmicas da costa e do rio Arade, e o Museu de Portimão, que apresenta a história da indústria conserveira na região.\n\nA Marina de Portimão é outra atração importante, oferecendo instalações para iatistas e uma variedade de lojas, restaurantes e bares à beira-mar.",
+  "geo": {
+    "lat": 37.14312,
+    "lng": -8.559607
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-duplex-em-condominio-privado-com-piscina-e-ginasio-po-ID1j32Q",
   "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlibXVzOGxza2t2ZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.x_rClDjBrNRPZJw9SrCpbnB0KYAgrNjXXRKqo7Oxd-I/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlibXVzOGxza2t2ZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.x_rClDjBrNRPZJw9SrCpbnB0KYAgrNjXXRKqo7Oxd-I/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVmc3JjM2Z6Nmhidy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.cXjSUGVrDtUF5QLPZwnzyjn7ABIAxkfqXmRbFwpIlcQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJvd2F2dDJ0c2lsNDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.IpJ2owucF8rJkcj_eaRT4_pOPX-6YPw8ZlLS5IcnvbM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRqczE0dnEwNDZmajItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.j99BjrqiF3XlR-_iew2V5UrZ-BZiHUT2RGSSA5eHG3c/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp6cjg3MTF6am1hYzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.wishobze8xviH-lpgtvYeCBmTm2TsqhfetPXPuSSFMc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndvcXgyYXh1ZXJ0bjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.O7zHAYIIzOv3PJCHpfdyq0GsY0Zstk4xPtW34CHOkAg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRqNGg0NXFvcDBuNjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.vobD6DKjm-5hgopKd7kBmCfoIl82RoVFz-_MnsLKdPE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJyZXFsaG5ldzc2bS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.RgjWGipwDebtaF140GyybHHaRYZyRwktpp7yh3VmiM4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImF5anNwYzJ0azdzci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.bILW31QGWRB7UbXSsAUL7jxdVVooqsmPxLLyjpDgUng/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImEzbGV5dG9hMWNkYjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.HaqQAmc0qXHMx5Q0a7HQL0cN2RDghnCVZMyvo7ijrww/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InM3MzV3b3ByaXdicDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tAJ7BViHmEN-ovUIDLchJqIdpNDCpTZ6tGlxSTCDCvA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJmdXBkMW83OWJ5My1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.uiYgFM3_J9m3F4Lk_btnB4miKBZ2z8jUMDOG9cP7QjU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InR6cmIweW52ZWZsaDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.c1RwQ53N-ZH2qvTlck8LXPK8iXsar60BdDlC0sZO-AQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im0xNGtsYWRzaWFtbjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UL955LS8OLIWOAnQy2ZWa5q1XWf5FPzvgtzqrq_dTBc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxldHhsbnBoOTR0ZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.UJe-9d3TtWWHrx79zWE5QL9_PB5CWVw58Yb7t4uLCgM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF2dnk2cjhmYzd0NzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.21xtRv50UdfXzBJpwiHuckjs51iI_aRt-8RRssfwWTU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5vYXFwc25ncXBidy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.R1FmKQqBgQbV3f_8GgmsLxESUuwoQRsGFarTFziAWVQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxwZnpjZzE0ZTluejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.W2QZlz4N8Wfbu8LEP0tyypIb3oSuNnItEJwMTH4-OrM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFnbnpoOGdmY3BnczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.f0dzMRKIQi_6YtzzY0-6CTaEjbHnS_KziUH3noD8ih8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFtNXdsd3dzZDM5eC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.a8yeU2DAMf0yXdxXImsDZvkAItNo0eYoCMRiIZTF2As/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Porta blindada"
+    ],
+    "Equipamentos": [
+      "Ar condicionado",
+      "Elevador",
+      "Cozinha independente",
+      "Varanda",
+      "Terraço",
+      "Jardim",
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 127,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 2012,
+  "certificacao_energetica": "C"
 }

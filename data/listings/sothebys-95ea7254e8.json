@@ -8,23 +8,61 @@
   "bedrooms": 5,
   "bathrooms": 7,
   "area_m2": 350,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68354&foto=1313177&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68354&foto=1313177&f=1",
+  "description": "Moradia geminada com cinco quartos, inserida na zona da Vilarinha, em lote com 613 metros quadrados, dispondo de uma área bruta de 350 metros quadrados, com uma magnífica área exterior com jardim e piscina.\nA casa é composta por quatro pisos, ficando a área social concentrada no piso de entrada, composta por cozinha, uma ampla sala comum com dois ambientes - zona de estar e zona de jantar - com acesso direto ao jardim e uma casa de banho social. \nNo piso superior existem três suites com roupeiros embutidos, com destaque para a master que dispõe de um closet. O último piso recuado é composto por uma sala multiusos, um quarto e uma casa de banho completa. Na cave, encontramos um salão de jogos, uma suite para a empregada, a lavandaria e áreas de arrumação. \nA área exterior oferece uma garagem para três carros, uma área técnica com máquinas, zona de arrumação e uma casa de banho de apoio à piscina.\nA moradia está dotada de acabamentos e materiais nobres, com detalhes de conforto e contemporaneidade, voltada a três frentes -nascente, poente e norte.\nLocalizada junto ao Parque da Cidade do Porto e ao CLIP, a uma curta distância do Colégio do Rosário e do Jardim de Serralves. \nA poucos minutos de distância do coração da Boavista, da praia e do mar.",
+  "geo": {
+    "lat": 41.1668353,
+    "lng": -8.6628952
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-geminada-aldoar-vilarinha-porto_pt_68354",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68354&foto=1313177&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68354&foto=1313177&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 4"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Segurança Activa)",
+      "Aspiração Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 45; Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 350,
-  "area_bruta_m2": null,
+  "area_util_m2": 250,
+  "area_bruta_m2": 350,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -9,22 +9,56 @@
   "bathrooms": 2,
   "area_m2": 4,
   "image": "https://cdn.proppy.app/propertyfiles/1526/74193/25f1aa75-9684-479a-a4f5-4adce4fcb065.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Apartamento com 2 Quartos\n\n2 Wc's\n\nZona para Tratamento de Roupa\n\nGás Canalizado\n\nArrecadação\n\nProximidade de Comércio e Serviços\n\nSituada na periferia da cidade de Ponta Delgada, da qual dista cerca de três quilómetros, é limitada a norte pela freguesia de Fajã de Cima, a sul e leste pela de S. Roque e a oeste pela de S. Pedro (urbana).\n\nDe solo pouco acidentado, apresenta-se baixa e plana no seu espaço central (daí o nome de Fajã), de onde sobressaem apenas dois outeiros, o mais alto dos quais chamado Pico da Abelheira, com 131 metros de altitude.\n\nPela excelente posição que ocupa em relação à cidade, a Fajã de Baixo foi desde sempre um local privilegiado de veraneio e a sua paisagem, coberta com o alvo acampamento das estufas brilhando ao sol, tem ainda a caracterizá-la alguns solares de bela traça, com os seus pórticos brasonados, as suas ermidas votivas e o enquadramento proporcionado por quintas, pomares e frondosos jardins antigos.",
+  "geo": {
+    "lat": 37.7591382,
+    "lng": -25.6484557
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/apartamento/t2-2-quartos/venda/faja-de-baixo-ponta-delgada-faja-de-baixo-ilha-de-sao-miguel/usado?id=74193",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/74193/25f1aa75-9684-479a-a4f5-4adce4fcb065.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 4,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Despensa",
+      "Orientação solar: Este, Oeste",
+      "Ano construção: 2005",
+      "Arrecadação",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Farmácia, Escolas",
+      "Zona envolvente: Residencial",
+      "Gás canalizado",
+      "Vistas: Cidade",
+      "Fração autónoma",
+      "Licença de Utilização: 153/05"
+    ],
+    "Exterior": [
+      "Orientação Solar: Este, Oeste"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 23,40",
+      "Área do(s) Quarto(s): 12,50",
+      "Área da Cozinha: 9,10",
+      "Cozinha: Placa e forno, Esquentador, Despensa",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio",
+      "Aquecimento água: Gás",
+      "TV por cabo"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 94,
+  "area_bruta_m2": 4,
+  "ano_construcao": 2005,
   "certificacao_energetica": null
 }

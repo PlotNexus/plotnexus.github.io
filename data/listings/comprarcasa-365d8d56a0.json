@@ -9,22 +9,37 @@
   "bathrooms": null,
   "area_m2": 8100,
   "image": "https://cdn.proppy.app/propertyfiles/1526/82834/0edbebb5-7b57-4d09-88e8-350a32776327.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno com 8.100,00 m2\n\nAcesso Pedonal\n\nCultura Arvense\n\nVista Mar\n\nÁgua de Pau é uma vila que coincide territorialmente com a freguesia homónima que integra o município de Lagoa, na costa Sul da ilha de São Miguel, na Região Autónoma dos Açores, em Portugal. Está situada a cerca de 17 km de Ponta Delgada e a 7 km da sede do município.\n\nA povoação/freguesia de Água de Pau foi elevada à categoria de vila pelo Decreto Legislativo Regional n.º 29/2003/A.\n\nApresenta 17,43 km² de área e cerca de 3000 habitantes, com uma densidade populacional de 175,4 hab./km².\n\nGrande parte da sua população dedica-se à agropecuária e à agricultura, sendo também de registar o número daqueles que têm a sua ocupação na construção civil, nos serviços e no comércio. O artesanato tem forte implantação na localidade, sendo de realçar os trabalhos em vime e de tecelagem.",
+  "geo": {
+    "lat": 37.7180259,
+    "lng": -25.4513003
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/terreno/-/venda/agua-de-pau-lagoa-acores-agua-de-pau-ilha-de-sao-miguel/nao-aplicavel?id=82834",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/82834/0edbebb5-7b57-4d09-88e8-350a32776327.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Orientação solar: Norte, Sul, Este, Oeste",
+      "Certificação energética: Isento",
+      "Localização: Periferia",
+      "Zona envolvente: Turística",
+      "Vistas: Mar, Serra, Campo, Areas verdes"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul, Este, Oeste"
+    ]
+  },
   "estado": null,
   "area_util_m2": 8100,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 8100,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

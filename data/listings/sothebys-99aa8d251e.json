@@ -8,23 +8,26 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63089&foto=1678452&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63089&foto=1678452&f=1",
+  "description": "Terreno com projeto aprovado, localizado numa zona muito tranquila e residencial da Fajã de Ovelha. \nCom um por do sol fantástico, esta moradia conta com dois pisos, sendo que no primeiro encontramos o hall de entrada e três quartos de dormir, todos em suíte. No piso inferior encontram-se as zonas sociais, com cozinha em open-space e lavandaria. \nNo exterior conta com um vasto jardim com piscina aquecida e jacuzzi. \nO terraço também será aproveitado para criar uma área de lazer onde pode desfrutar também da vista para o oceano e pôr do sol. \nA garagem com uma área de cerca de 87 metros quadrados, a piscina mede 13.00 x 300 e a zona de solário com cerca de 50 metros quadrados.",
+  "geo": {
+    "lat": 32.7891276,
+    "lng": -17.2356099
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-faja-da-ovelha-calheta-madeira_pt_63089",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63089&foto=1678452&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63089&foto=1678452&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 730,
+  "area_bruta_m2": 300,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

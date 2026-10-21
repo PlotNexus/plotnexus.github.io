@@ -8,23 +8,66 @@
   "bedrooms": 6,
   "bathrooms": 6,
   "area_m2": 332,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=57010&foto=1481580&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=57010&foto=1481580&f=1",
+  "description": "Moradia com excelente localização em Birre, Numa zona muito tranquila e com muito potencial, a necessitar de actualização. \nEsta moradia está inserida num excelente lote de 1683 m2, com muito espaço verde.\nEntrada com hall espaçoso, cozinha com porta para o exterior e despensa. Neste mesmo piso tem ainda uma sala de jantar, sala de estar com lareira, um escritório e mais uma sala multiusos, e casa de banho social.\nNo piso superior, quatro amplas suítes, sendo uma com varanda e dois quartos que possuem uma casa de banho em comum.\nTodas as áreas tem vista para o jardim e muita privacidade.\nNa zona exterior temos uma enorme área verde e uma garagem. A moradia dispõe de furo artesiano e tem seu lote de terreno virado a Sul Oeste.\nPoderá haver a possibilidade de aumento da área de construção e eventual destaque de parte do lote, informação não vinculativa e a confirmar com as entidades competentes.\nPróximo à moradia, temos todo o comércio local, hospital, farmácias, supermercados, centros hípicos, campos de golfe, variadas escolas nacionais e internacionais, próximo a praias e à costa do Guincho. Também tem muito fácil acesso a autoestrada A5 para Lisboa, que fica a 30 quilómetros.\nHá a possibilidade de quem quiser fazer uma piscina, pois tem espaço suficiente.\nVenha conhecer esta moradia e dar-lhe uma nova vida.",
+  "geo": {
+    "lat": 38.722594,
+    "lng": -9.4433525
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-cascais-cascais_pt_57010",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=57010&foto=1481580&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=57010&foto=1481580&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia",
+      "Furo"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Estores (Alumínio)"
+    ],
+    "Climatização": [
+      "Esquentador"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pintado)",
+      "Pavimento (Tijoleira)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 40; Eletricidade",
+      "Luz"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 332,
-  "area_bruta_m2": null,
+  "area_util_m2": 276,
+  "area_bruta_m2": 332,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

@@ -9,22 +9,35 @@
   "bathrooms": 1,
   "area_m2": 48,
   "image": "https://cdn.proppy.app/propertyfiles/1505/105571/6a0d3831-033b-460b-9873-05284d4e3298.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "No norte da Ilha Terceira encontra-se esta encantadora propriedade em ruínas à espera de ser transformada num verdadeiro tesouro. Com uma referência única, este imóvel promete ser o ponto de partida para a concretização do seu sonho de ter a casa perfeita. Com a sua linda vista para o mar sobre o verde exuberante do campo esta ruína tem o potencial para se tornar num magnífico lar ou num negócio de sucesso. Com um potencial ilimitado, esta propriedade está à venda e aguarda por alguém com visão e criatividade para a tornar numa habitação digna de admiração.. Venha descobrir o potencial desta propriedade e transforme-a no seu próximo projeto.",
+  "geo": {
+    "lat": 38.78828010197481,
+    "lng": -27.317182648879022
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/ruina/t1-1-quarto/venda/angra-do-heroismo-altares-ilha-terceira/por-recuperar?id=105571",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/105571/6a0d3831-033b-460b-9873-05284d4e3298.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 48,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Ano construção: 1937",
+      "Certificação energética: Isento",
+      "Localização: Periferia",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Mar, Serra, Campo",
+      "Licença de Utilização: Isenta."
+    ]
+  },
+  "estado": "Por recuperar",
+  "area_util_m2": 4,
+  "area_bruta_m2": 48,
+  "ano_construcao": 1937,
   "certificacao_energetica": null
 }

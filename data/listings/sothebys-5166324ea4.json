@@ -8,23 +8,59 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75650&foto=1534630&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75650&foto=1534630&f=1",
+  "description": "Extraordinária moradia, localizada em uma zona tranquila e soalheira com uma vista deslumbrante e definitiva. Disposta em dois pisos independentes.\n\nÉ composta por uma grande sala com cozinha em open-space, completamente equipada, luminosa e moderna com acesso direto à sala do churrasco.\nNo corredor, ao lado da cozinha, encontram-se a lavandaria, a casa de banho social e ao fundo os dois quartos, ambos em suite com acesso direto á piscina.\n\nNo piso de baixo, além de um grande local para arrumos encontramos um apartamento independente, com cozinha equipada, sala, casa de banho social, um quarto de arrumos e uma ampla e espaçosa suite com casa de banho privativa.\nEste apartamento desfruta de um jardim privativo e de uma entrada independente com acesso direito à estrada.\n\nO pátio coberto à entrada da casa pode convenientemente hospedar vários carros ao abrigo do sol e da chuva. \n\nA moradia está construída seguindo os mais altos padrões em termos técnicos e de materiais, oferece iluminação LED, ar condicionado, piscina infinita aquecida, alumínios de corte térmico e proteção solar. \nSituando-se numa das zonas mais amenas e agradáveis da ilha da Madeira.",
+  "geo": {
+    "lat": 32.7136499439259,
+    "lng": -17.1475967407227
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-arco-da-calheta-calheta-madeira_pt_75650",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75650&foto=1534630&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75650&foto=1534630&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Video-Porteiro",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Rega Automática, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Garagem": [
+      "Água",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Rural)",
+      "Proximidade (Escolas, Farmácia, Jardins Infância)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 277,
+  "area_bruta_m2": 300,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

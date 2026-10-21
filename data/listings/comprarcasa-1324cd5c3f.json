@@ -9,22 +9,55 @@
   "bathrooms": 2,
   "area_m2": 2,
   "image": "https://cdn.proppy.app/propertyfiles/1526/95106/ba9722f6-acfd-4d4d-a798-931730765ea8.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra o charme desta espetacular moradia na freguesia das Furnas, que aguarda por si para se tornar o seu refúgio de sonho. Com três quartos acolhedores e duas casas de banho elegantes, esta propriedade oferece uma casa com 322,20 m2 de área útil, inserida num terreno espaçoso de 362,00 m2.\n\nA propriedade apresenta uma condição usada, mas com um potencial incrível para se tornar o seu oásis pessoal. Com um jardim encantador, uma lareira acolhedora e vistas deslumbrantes para as montanhas e para a cidade, esta moradia promete ser o local perfeito para desfrutar da vida tranquila numa localização central.\n\nSituada na pitoresca freguesia de Furnas, esta propriedade está a apenas 15 minutos de uma variedade de restaurantes e cafés, onde pode deliciar-se com a culinária regional. Para as suas necessidades diárias, encontrará várias opções de supermercados e mercearias a curta distância.\n\nAlém disso, os jardins e parques deslumbrantes da freguesia das Furnas estão a poucos minutos de distância, permitindo-lhe desfrutar da natureza e da tranquilidade sempre que desejar. Com amenities como farmácias, escolas e opções de transporte nas proximidades, esta propriedade oferece um estilo de vida conveniente e acolhedor.\n\nVenha descobrir tudo o que Furnas tem para oferecer - desde os sabores locais à natureza deslumbrante, esta freguesia convida-o a experimentar o melhor de tudo num único local encantador. Agende já a sua visita e apaixone-se por esta moradia única.",
+  "geo": {
+    "lat": 37.774271,
+    "lng": -25.3094345
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
   },
   "listing_url": "https://www.comprarcasa.pt/imovel/moradia/t3-3-quartos/venda/furnas-povoacao-furnas-ilha-de-sao-miguel/usado?id=95106",
-  "published_at": "2026-10-20",
-  "last_seen_at": "2026-10-20",
+  "published_at": "2026-10-21",
+  "last_seen_at": "2026-10-21",
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/95106/ba9722f6-acfd-4d4d-a798-931730765ea8.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha, Vista cidade",
+      "Orientação solar: Este, Oeste",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Terraço",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Farmácia, Escolas, Infantário, Policia",
+      "Zona envolvente: Residencial",
+      "Vistas: Serra, Campo, Areas verdes, Cidade",
+      "Árvores",
+      "Muro",
+      "Logradouro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Este, Oeste"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 50,15",
+      "Lareira",
+      "Área do(s) Quarto(s): 32,50",
+      "Área da Cozinha: 42",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Madeira, Alumínio",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 2,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 2,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
