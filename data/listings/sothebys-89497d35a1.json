@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 550,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70703&foto=1386688&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70703&foto=1386688&f=1",
+  "description": "Apresentamos uma fantástica moradia localizada em Vila do Conde, inserida num amplo terreno com quase 7.500 m2, proporcionando um ambiente de grande tranquilidade e privacidade. \nTrata-se de uma exclusiva moradia com quatro quartos, mas com uma vivência de cinco quartos, duas salas de estar, uma excelente sala de jantar, uma ampla cozinha e uma lavandaria. A existência de grandes janelas permite a entrada de luz natural e proporciona uma boa conexão com o extenso jardim. \nNa sua magnifica área exterior, encontramos uma piscina, um campo de ténis, um espaçoso anexo com fachada envidraçada que inclui uma cozinha completa e uma churrasqueira, capaz de proporcionar momentos maravilhosos com amigos e familiares. Destacamos ainda a existência de parqueamento exterior coberto para 6 viaturas.\nA moradia está equipada com sistema de aquecimento central, painéis solares para aquecimento de água e ar condicionado em várias divisões. \nLocalizada em zona residencial tranquila, está próxima de estabelecimentos comerciais e transportes (metro). A moradia está a 5 kms da praia, a 16 kms do Centro do Porto e a 10 minutos do Aeroporto Francisco Sá Carneiro. Esta moradia é a escolha ideal para quem procura um estilo de vida luxuoso e confortável combinado com a tranquilidade e beleza natural de Vila do Conde. Venha conhecer este imóvel excecional e deixe-se encantar pelos seus detalhes únicos e acabamentos de alta qualidade.",
+  "geo": {
+    "lat": 41.27411,
+    "lng": -8.677135
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,51 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70703&foto=1386688&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70703&foto=1386688&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Court Ténis",
+      "Video-Porteiro",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Equipamento (Court Ténis)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 54; Local (Cave)"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 550,
-  "area_bruta_m2": null,
+  "area_util_m2": 430,
+  "area_bruta_m2": 550,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 21,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80785&foto=1704592&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80785&foto=1704592&f=1",
+  "description": "Moradia isolada de tipologia T4, situada na prestigiada zona do Lido, no Funchal, uma das áreas residenciais mais valorizadas da ilha da Madeira. Inserida num lote de 606 metros quadrados, esta propriedade distingue-se pela sua localização privilegiada, exposição solar a sul e proximidade ao mar, oferecendo um estilo de vida sofisticado, confortável e cosmopolita, a escassos minutos da Promenade do Lido e do centro da cidade.\n\nDesenvolvida integralmente num só piso, a moradia privilegia a acessibilidade e a fluidez entre espaços, sendo ideal para quem valoriza conforto sem barreiras e uma vivência prática e harmoniosa. Apresenta quatro amplas suites e um total de seis casas de banho, garantindo elevados padrões de privacidade, funcionalidade e bem-estar.\n\nO interior revela uma distribuição cuidada, composta por um elegante hall de entrada, instalação sanitária social, sala de estar e de jantar com excelente luminosidade, e uma cozinha em conceito open space, totalmente equipada com eletrodomésticos e uma prática ilha de apoio à preparação de refeições. A moradia inclui ainda lavandaria e encontra-se adaptada a pessoas com mobilidade reduzida, reforçando o seu carácter inclusivo e funcional.\n\nA arquitetura, de inspiração tradicional, alia-se a acabamentos de qualidade e a soluções contemporâneas de conforto, como sistema de ar condicionado, painéis solares para aquecimento de águas, portões automatizados e sistema de segurança com alarme e videovigilância.\n\nNo exterior, os espaços foram concebidos para proporcionar momentos de lazer e tranquilidade, destacando-se a piscina, o solário e os jardins cuidadosamente tratados, equipados com sistema de rega automática. A propriedade dispõe ainda de garagem e amplas áreas de estacionamento, com capacidade para várias viaturas.\n\nA localização é um dos seus principais atributos, oferecendo acesso facilitado a uma vasta oferta de serviços, restaurantes, hotéis e zonas balneares, garantindo uma vivência prática e dinâmica. As ligações às principais vias são rápidas e eficientes, permitindo uma mobilidade fluida para qualquer ponto da cidade ou da ilha.",
+  "geo": {
+    "lat": 32.6517631466256,
+    "lng": -16.9325763702393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,45 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80785&foto=1704592&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80785&foto=1704592&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 1"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins, Rega Automática, TV Cabo)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Centros Comerciais, Clínica, Farmácia, Hospital, Jardins, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 21,
-  "area_bruta_m2": null,
+  "area_util_m2": 28,
+  "area_bruta_m2": 21,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

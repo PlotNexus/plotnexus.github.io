@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 306,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74662&foto=1503788&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74662&foto=1503788&f=1",
+  "description": "Esta deslumbrante moradia, situada a poucos metros da praia, é um verdadeiro refúgio de luxo, inserido no seio de um pinhal exuberante que oferece privacidade e tranquilidade. O lote de terreno, com generosos 10.033 m², proporciona um amplo espaço ao ar livre, combinando a serenidade da natureza com o conforto de uma residência de alto padrão.\n\nCom uma arquitetura elegante e funcional, a casa conta com uma piscina exterior de generosas dimensões, ideal para relaxar ou usufruir de momentos de lazer em família e amigos. O campo de ténis privativo é um convite para a prática desportiva, enquanto os 4 quartos amplos, bem iluminados e de acabamentos requintados, garantem um refúgio de descanso com total conforto. As 3 casas de banho, projetadas com materiais de alta qualidade, oferecem um toque de sofisticação e funcionalidade.\n\nA sala de jantar e a sala de TV, espaçosas e bem integradas, oferecem um ambiente acolhedor para momentos de convívio, enquanto a cozinha, totalmente equipada e de design contemporâneo, é um convite à gastronomia, com amplas superfícies e acabamentos modernos. No exterior, a churrasqueira e o salão de apoio são perfeitos para longos almoços ou jantares ao ar livre, desfrutando da brisa fresca e do ambiente sereno.\n\nA varanda coberta, envolvida pela vegetação do pinhal, proporciona um espaço ideal para relaxamento, seja para ler um livro, desfrutar de uma bebida ou simplesmente apreciar o canto dos pássaros e a brisa suave que envolve toda a propriedade. Este é um local onde se pode fugir da agitação do dia a dia, encontrando um equilíbrio perfeito entre luxo, conforto e natureza.\n\nCombinando os melhores elementos de uma vida tranquila e luxuosa, esta moradia é a escolha ideal para quem procura um lar exclusivo, onde cada detalhe foi pensado para proporcionar a máxima qualidade de vida.",
+  "geo": {
+    "lat": 41.5135279,
+    "lng": -8.7713112
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,40 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74662&foto=1503788&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74662&foto=1503788&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia",
+      "Furo"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Court Ténis",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 306,
-  "area_bruta_m2": null,
+  "area_util_m2": 250,
+  "area_bruta_m2": 306,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

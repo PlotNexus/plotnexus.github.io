@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78491&foto=1621811&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78491&foto=1621811&f=1",
+  "description": "Fantástico empreendimento, localizado mesmo no centro do Funchal onde a qualidade de construção, nos espaços criados e nos serviços oferecidos, tornam este empreendimento único na Ilha da Madeira. De espaços feitos à medida das maiores aspirações em termos de sofisticação, qualidade e harmonia, sempre com a marca de construção de uma empresa líder de mercado há quatro décadas. Trata-se de um projeto de reconstrução que irá revitalizar e revelar uma nova faceta da cidade, num local cheio de carácter e história. Num enquadramento arquitetónico único composto por quatro edifícios interligados interiormente entre si e em harmonia com os vários jardins e espaços abertos, o projeto é composto por um total de 49 apartamentos e 12 espaços comerciais, com modernos e sofisticados acabamentos. As tipologias que variam de T0 a T3 e áreas que vão desde os 69 metros quadrados aos 423 metros quadrados, com formatos duplex e triplex, passando por lofts cheios de luz natural, até aos apartamentos com grandes terraços ou com piscinas privativas, são várias as opções para escolher um lar de sonho. A construção conta ainda com o Rooftop do empreendimento, com uma fantástica piscina panorâmica de utilização comum, solário e uma vista desafogada para o mar, para a serra e para toda a envolvência urbana. Estão incluídos ainda serviços como porteiro e concierge 24 horas, tudo para que a exclusividade e o conforto estejam garantidos. Ao se tornar proprietário de uma fração deste empreendimento terá ainda o privilégio de aderir a um cartão e fazer parte de um conjunto de serviços e vantagens. A obra está concluída e pronta a habitar . Excelente oportunidade!",
+  "geo": {
+    "lat": 32.6499988841497,
+    "lng": -16.9038391113281
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,46 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78491&foto=1621811&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78491&foto=1621811&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 6"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 4,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

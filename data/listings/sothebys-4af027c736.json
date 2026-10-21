@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 7,
   "area_m2": 9,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=52085&foto=1652265&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=52085&foto=1652265&f=1",
+  "description": "Moradia nova contemporânea de 5 quartos, localizada na vila de São Brás de Alportel, uma excelente opção para quem procura tranquilidade, segurança e comodidades para uma vivência permanente.\n\nA moradia possui, no rés-do-chão, uma cozinha em open space com sala de jantar e sala de estar, dois quartos en-suite e uma casa de banho social. As divisões de lazer têm acesso direto à zona envolvente da piscina e à área de refeições no exterior com cozinha exterior. A cozinha beneficia ainda de uma despensa independente, proporcionando maior funcionalidade e organização.\n\nO primeiro piso é constituído por três quartos en-suite com walk-in closet, sendo que o quarto principal, com 28 m², tem acesso a um amplo terraço para desfrutar das vistas.\n\nA cave possui garagem para dois carros, lavandaria e arrecadação. No exterior, a moradia conta com um jardim privativo e de baixa manutenção e uma piscina com bomba de calor e uma casa de banho de apoio à área de lazer exterior.\n\nA propriedade dispõe de ar condicionado, painéis solares, estores elétricos, sistema de domótica, portas e janelas de grandes dimensões com vidro duplo, que proporcionam uma extraordinária luminosidade e permitem tirar o máximo partido da vista envolvente em todas as divisões, bem como elevador.\n\nSituada numa zona calma e com bons acessos, esta moradia beneficia de excelente qualidade de construção e acabamentos.\n\nEsta é a casa perfeita para quem procura estar perto de todas as comodidades, com o conforto e a privacidade do campo.",
+  "geo": {
+    "lat": 37.1621506,
+    "lng": -7.8850967
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,37 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=52085&foto=1652265&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=52085&foto=1652265&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Video-Porteiro",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 9,
-  "area_bruta_m2": null,
+  "area_util_m2": 320,
+  "area_bruta_m2": 9,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

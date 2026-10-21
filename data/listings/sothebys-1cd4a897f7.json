@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82879&foto=1680000&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82879&foto=1680000&f=1",
+  "description": "Exclusivo apartamento T3 inserido num prédio de traça lisboeta com elevador.\n\nLocalizado numa das freguesias mais valorizadas de Lisboa, a freguesia da Misericórdia, na dinâmica Rua de São Paulo em frente ao icónico Mercado da Ribeira/Time Out Market.\n\nCom 200m² de area bruta privativa, o apartamento foi recentemente renovado de modo a optimizar o layout, sendo esta área distribuída por uma sala dividida em vários ambientes, de jantar e de estar, cozinha totalmente equipada, zona de arrumos/escritório, 3 quartos, 2 casas de banho amplas e varanda de 15m² com chafariz a tardoz. \n\nNa renovação foram incorporados acabamentos de topo como a pedra Lioz nas casas de banho e cozinha e preservados os elementos originais — chão em tábua corrida, pé direito com mais de 4m de altura, tetos trabalhados em estuque e azulejos do séc. XVIII — que foram sendo mantidos em excelente estado ao longo do tempo.\n\nFoi ainda instalado um sistema de aquecimento radiante em algumas paredes da casa. \n\nA envolvente beneficia de uma vasta oferta de comércio, restaurantes de renome, bares de assinatura, ginásios e fitness clubs e excelente conectividade a nível de rede de transportes e acessos.\n\nA versatilidade da zona torna esta propriedade especialmente apelativa para diferentes perfis de comprador. Seja como residência principal para quem valoriza centralidade, amplitude e o charme da arquitetura lisboeta, seja como investimento num dos bairros mais procurados da capital, este imóvel representa uma oportunidade rara de adquirir um património distinto numa localização de excelência e usufruir de um lifestyle vibrante, indulgente e requintado.",
+  "geo": {
+    "lat": 38.7111501,
+    "lng": -9.1490905
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82879&foto=1680000&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82879&foto=1680000&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 200,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

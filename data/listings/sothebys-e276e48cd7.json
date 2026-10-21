@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 219,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79656&foto=1620853&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79656&foto=1620853&f=1",
+  "description": "Situada em Alfragide, uma das zonas mais procuradas de Lisboa, esta moradia térrea isolada oferece um ambiente único para quem procura conforto e tranquilidade, mas com excelente proximidade à cidade. Com uma área bruta de construção de 219 m² e um terreno de 1227 m², esta propriedade tem grande potencial, sendo ideal para quem deseja personalizar a sua futura casa. A moradia, necessita de obra total, é composta por 3 quartos, 2 casas de banho, uma sala de estar, uma sala de jantar, uma cozinha e uma lavandaria.\n\nO imóvel dispõe de estacionamento para 2 carros, o que garante comodidade para os moradores e visitantes. A exposição solar a nascente e sul permite uma boa iluminação natural, tornando os espaços internos ainda mais agradáveis. A propriedade está situada em um terreno espaçoso, que oferece um grande potencial para ampliação ou criação de um jardim ou outras áreas de lazer.\n\nEm termos de localização, a moradia encontra-se a apenas 5 minutos de diversos restaurantes e supermercados, proporcionando fácil acesso a serviços essenciais. O hospital da Amadora está a 10 minutos, e a escola International Park encontram-se a apenas 2 minutos a pé. A proximidade com as principais vias e transportes públicos também facilita a mobilidade para outras áreas de Lisboa.\n\nAlfragide é uma área estratégica e tranquila, com excelente acesso ao centro de Lisboa, tornando-se um local perfeito para quem procura um equilíbrio entre a serenidade de uma zona residencial e a facilidade de acesso a serviços e transportes urbanos.",
+  "geo": {
+    "lat": 38.7317907095,
+    "lng": -9.2185592651
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79656&foto=1620853&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79656&foto=1620853&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 219,
-  "area_bruta_m2": null,
+  "area_util_m2": 187,
+  "area_bruta_m2": 219,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1505/83477/d65a32fc-e48f-44a1-9643-1608adc35662.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno agrícola localizado na encantadora freguesia das Cinco Ribeiras, na canada da Ribeira das Cinco à do Mouro, entre o Caminho de Cima e o Baldio, oferece 2904m² de oportunidades para agricultura e criação de gado. Este terreno é perfeito para quem busca um ambiente rural e autêntico nos Açores. Sua localização estratégica proporciona acesso conveniente a rotas importantes, facilitando o transporte de produtos e animais. Com espaço suficiente para cultivo e pastagem, este terreno oferece um cenário ideal para explorar atividades agrícolas e pecuárias. Aproveite a oportunidade de investir neste pedaço de terra fértil e criar um ambiente sustentável e produtivo em harmonia com a natureza açoriana.",
+  "geo": {
+    "lat": 38.70765265236117,
+    "lng": -27.308099219854075
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,11 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/83477/d65a32fc-e48f-44a1-9643-1608adc35662.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,

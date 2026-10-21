@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 999,
   "image": "https://cdn.proppy.app/propertyfiles/1526/69973/328fe0ea-ace9-43e5-88f5-d8b735c4a2bc.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Solar com 7 Quartos\n\nRés-do-Chão Destinado a Armazéns e Comércio\n\nÁreas Amplas\n\nQuintal\n\nCentro da Freguesia da Conceição\n\nProximidade da Praia do Monte Verde e Piscinas Naturais\n\nConceição é uma freguesia portuguesa do município da Ribeira Grande, com 12,74 km² de área e 2 425 habitantes (2011). A sua densidade populacional é 190,3 hab/km². Localiza-se a uma latitude 37 Norte e a uma longitude 25 Oeste, estando a uma altitude de 7 metros.\n\nA freguesia de Conceição forma juntamente com a Matriz, Ribeira Seca e Santa Bárbara a cidade de Ribeira Grande, que pertence à Ilha de São Miguel, na Região Autónoma dos Açores. Com uma extensão de 12,74 quilómetros quadrados, esta freguesia está situada na costa norte da ilha, parte oeste da cidade da Ribeira Grande, esta reclinada numa planície, e é delimitada pelas suas congéneres Matriz e Ribeira Seca.\n\nO Topónimo deve-se à padroeira da freguesia que é a Nossa Senhora da Conceição, cuja festa se celebra em Portugal, feriado nacional, e na freguesia a 8 de Dezembro.",
+  "geo": {
+    "lat": 37.8214651,
+    "lng": -25.5248291
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,32 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/69973/328fe0ea-ace9-43e5-88f5-d8b735c4a2bc.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 999,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Orientação solar: Norte, Sul",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Garagem",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Farmácia, Escolas, Infantário, Centro de saude",
+      "Zona envolvente: Residencial",
+      "Vistas: Cidade",
+      "Muro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Norte, Sul"
+    ],
+    "Interior": [
+      "Caixilharia: Madeira"
+    ]
+  },
+  "estado": "Por recuperar",
+  "area_util_m2": 908,
+  "area_bruta_m2": 999,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

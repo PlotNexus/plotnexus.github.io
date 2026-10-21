@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 787,
   "image": "https://cdn.proppy.app/propertyfiles/1515/92867/0cdff9cd-92ef-48f0-bee0-b29afa237bea.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Espaço Comercial Único em Mourão – 787 m² de Potencial e Charme Incomparável\n\nSe procura um imóvel com alma, versatilidade e localização privilegiada, este amplo espaço comercial em Mourão é a escolha perfeita para empreendedores visionários.\n\nCom 787 m² distribuídos por três pisos, o imóvel está localizado na Rua D. Manuel I, nº 21, e destaca-se pelo seu conceito open space e pelos tetos abobadados em tijolo burro, que conferem um carácter autêntico e uma atmosfera visualmente deslumbrante – um verdadeiro convite à criatividade e inovação.\n\nDESCRIÇÃO DO IMÓVEL\n\n- PISO 0:\n\nAo entrar, é recebido por um espaço de três divisões distintas, incluindo uma sala ampla com majestosos arcos em tijolo burro. Este cenário oferece o equilíbrio perfeito entre elegância e funcionalidade, ideal para configurar uma área de restauração, showroom, loja temática ou até um espaço cultural.\n\n- PISO -1:\n\nUma zona prática e organizada, perfeita para as áreas técnicas e apoio ao funcionamento eficiente do seu negócio.\n\n- PISO -2:\n\nCom acesso direto ao exterior, este nível oferece várias divisões, permitindo uma enorme flexibilidade para criar áreas adicionais, armazenamento ou mesmo zonas de serviço, conforme as necessidades da sua atividade.\n\nLOCALIZAÇÃO ESTRATÉGICA\n\nSituado em Mourão, uma localidade histórica e raiana, o imóvel beneficia da tranquilidade do Alentejo, com proximidade às praias fluviais e desportos náuticos da região. Além disso, está a apenas 65 km de Évora e a 85 km de Badajoz, garantindo acessos fáceis a grandes centros urbanos.\n\nPONTOS DE DESTAQUE\n\n- Potencial Versátil: Adequado para comércio, restauração ou projetos culturais.\n\n- Característica Única: Tetos abobadados e arcos em tijolo burro – charme e autenticidade incomparáveis.\n\n- Localização Atraente: Próximo de património histórico e pontos turísticos da região.\n\nAgende já a sua visita!",
+  "geo": {
+    "lat": 38.37986690924462,
+    "lng": -7.344323431580451
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,16 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/92867/0cdff9cd-92ef-48f0-bee0-b29afa237bea.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Ano construção: 2009",
+      "Certificação energética: C",
+      "Serviços: Bancos, Farmácia, Escolas"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 787,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 787,
+  "ano_construcao": 2009,
+  "certificacao_energetica": "C"
 }

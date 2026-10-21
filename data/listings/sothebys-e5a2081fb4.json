@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 300,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77511&foto=1571941&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77511&foto=1571941&f=1",
+  "description": "Mesmo no centro da Fajã da Ovelha, Calheta, nasce esta moradia de linhas modernas e elegantes, onde o betão à vista, a pedra basáltica e os tapa-sóis verdes conferem-lhe uma identidade muito particular, recriando um estilo contemporâneo das décadas de 60 e 70 do século passado. A sua orientação virada a sul proporciona muita luz sobre todas as divisões. A sua construção iniciar-se-á no início do quarto trimestre de 2025, com um prazo de construção de cerca de um ano.\n\nProjetada para quem valoriza conforto, privacidade e qualidade de vida, num lote de 735 metros quadrados, com uma área bruta de construção de 300 metros quadrados, esta residência oferece três quartos em suíte, proporcionando total comodidade e bem-estar a toda a família. As áreas sociais, amplas e luminosas, integram sala de estar, sala de jantar e cozinha totalmente equipada com eletrodomésticos Bosch, em conceito aberto, onde teremos um wc social de apoio, criando o ambiente perfeito para momentos de convívio. A cave conta com uma garagem para 2 viaturas e arrecadação, garantindo toda a conveniência do dia a dia.\n\nOs acabamentos de luxo com tetos em madeira, ar condicionado, quartos de banho com materiais de alta qualidade, assim como amplos roupeiros, conferem a esta moradia um nível de muito alta qualidade, onde todos os pormenores são pensados.\n\nNo exterior, o destaque vai para o jardim com cerca de 383 metros quadrados, piscina aquecida e terraços, onde poderá desfrutar da tranquilidade envolvente e de uma vista soberba sobre o mar, cenário perfeito para relaxar ou receber amigos. Com uma localização privilegiada, num dos locais mais procurados da costa sul da Madeira, esta moradia representa uma oportunidade única de investir numa casa nova, onde a sofisticação e a harmonia com a natureza encontram-se em perfeita sintonia. A sua proximidade às principais vias, coloca esta moradia próxima das acessibilidades ao mar e também do futuro campo de golfe que nascerá mesmo ao lado.",
+  "geo": {
+    "lat": 32.7768425744434,
+    "lng": -17.2234627708252
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,40 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77511&foto=1571941&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77511&foto=1571941&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Monomassa, Pedra Natural, Vidro (painéis))",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Madeira, Pedra Natural, Pintadas)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 45; Eletricidade",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ]
+  },
   "estado": null,
   "area_util_m2": 300,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 300,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 46,
   "image": "https://cdn.proppy.app/propertyfiles/1526/105699/b8c2f8dc-0be9-4388-bba5-25d0217e5b51.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra uma verdadeira joia histórica e tranquila na encantadora freguesia de Ponta Garça. Esta moradia, está à venda por 99.950,00€ e encontra-se numa localização privilegiada. Com uma área útil de 110,42m² e terreno de 235,4m², esta propriedade oferece uma oportunidade única para quem procura um projeto de renovação.\n\nLocalizada no concelho de Vila Franca do Campo, esta moradia possui uma vista incrível para o mar. Com uma orientação solar a sul e a oeste, poderá desfrutar do sol durante todo o dia.\n\nPonta Garça é um local cheio de encanto, com inúmeras facilidades ao seu alcance. A apenas 7 minutos a pé, encontrará o Meu Super Ponta Garça, uma mercearia acolhedora que tem tudo o que necessita . A poucos minutos de carro, poderá explorar Miradouro Vigia da Afurada e Marcelina, dois pontos de interesse natural que oferecem vistas deslumbrantes sobre a paisagem circundante.\n\nCom a combinação perfeita de tranquilidade, conveniência e beleza natural, esta moradia é ideal para quem procura um retiro relaxante, mas com fácil acesso a comodidades essenciais e maravilhas naturais. Não perca esta oportunidade de criar o seu refúgio dos sonhos!",
+  "geo": {
+    "lat": 37.719228,
+    "lng": -25.3811087
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,28 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/105699/b8c2f8dc-0be9-4388-bba5-25d0217e5b51.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 46,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Orientação solar: Sul, Oeste",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Periferia",
+      "Serviços: Supermercados, Correios, Farmácia, Escolas, Infantário, Centro de saude",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Serra, Campo, Areas verdes",
+      "Muro",
+      "Logradouro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Sul, Oeste"
+    ]
+  },
+  "estado": "Por recuperar",
+  "area_util_m2": 42,
+  "area_bruta_m2": 46,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

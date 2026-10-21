@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 76,
   "image": "https://cdn.proppy.app/propertyfiles/1526/78322/bc7d4c1e-5b95-45ff-aa84-aa85f459a724.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia com 2+1 Quartos\n\n2 Salas\n\nAnexo\n\nLogradouro\n\nChurrasqueira\n\nTerraço com Vista para o Ilhéu\n\nGaragem\n\nProximidade do Ilhéu de Vila Franca do Campo\n\nSão Miguel é uma freguesia portuguesa do município de Vila Franca do Campo, com 19,47 km² de área e 2 659 habitantes (2011). A sua densidade populacional é 136,6 hab/km². \n\nÉ a freguesia mais importante do município, onde se encontram a maior parte dos serviços, comércio e a câmara municipal.\n\nPouco tempo após a chegada à ilha de São Miguel, alguns dos primeiros povoadores vieram fixar-se neste local, que lhes pareceu propício devido ao aspeto fértil das suas terras e ao seu fácil acesso ao mar. Chamaram Vila Franca do Campo à povoação nascente, por esta se situar num “campo” plano e extenso e por ser “franca” de direitos. Segundo reza a história, foi seu fundador Gonçalo Vaz Botelho, que aqui se fixou em meados do séc. XV.",
+  "geo": {
+    "lat": 37.7147246,
+    "lng": -25.4323331
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,44 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/78322/bc7d4c1e-5b95-45ff-aa84-aa85f459a724.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 76,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista cidade",
+      "Barbecue",
+      "Orientação solar: Sul",
+      "Ano construção: 1977",
+      "Curta distância a pé da praia",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Garagem",
+      "Nº carros: 2",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Infantário",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Cidade",
+      "Churrasqueira",
+      "Muro",
+      "Logradouro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Sul"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 64,52",
+      "Área do(s) Quarto(s): 12,93",
+      "Área da Cozinha: 22,60",
+      "Cozinha: Exaustor, Placa e forno, Esquentador",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 87,
+  "area_bruta_m2": 76,
+  "ano_construcao": 1977,
   "certificacao_energetica": null
 }

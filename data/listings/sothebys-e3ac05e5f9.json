@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 5,
   "area_m2": 421,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75026&foto=1494130&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75026&foto=1494130&f=1",
+  "description": "CCom uma área total de 3.500 m², este condomínio privado é o refúgio perfeito para quem procura luxo, privacidade e proximidade ao mar. Com apenas cinco moradias independentes, o Serenity Villas oferece tranquilidade e um clima ameno, características típicas da Madeira, criando o ambiente ideal para viver o ano inteiro. Sua localização privilegiada proporciona uma experiência única de serenidade e contato com a natureza. A conclusão da obra está prevista para outubro de 2025, oferecendo aos futuros proprietários a oportunidade de adquirir uma moradia em um dos empreendimentos mais sofisticados da região. O condomínio está estrategicamente posicionado, a apenas quatro minutos de carro do complexo balnear Lido Galo Mar, com um centro de mergulho, e a sete minutos das deslumbrantes praias do Garajau, situadas dentro da Reserva Natural, e da Praia dos Reis Magos. Para os amantes de golfe, está a apenas 15 minutos do Palheiro Golf e a menos de 20 minutos do Clube de Golfe do Santo da Serra. A proximidade ao centro histórico do Funchal (a apenas 15 minutos) oferece fácil acesso à cultura, gastronomia e todas as comodidades que a cidade tem a oferecer. Além disso, o Aeroporto Internacional da Madeira fica a apenas 10 minutos de carro. Combinando acessibilidade, luxo e natureza, as Serenity Villas proporcionam um estilo de vida incomparável para quem busca tranquilidade, sem abrir mão da proximidade das conveniências urbanas. O condomínio, situado numa localização privilegiada da ilha, oferece um estilo de vida único, onde o conforto e a beleza natural se encontram em perfeita harmonia.\nCada uma das cinco moradias foi projetada para maximizar as vistas deslumbrantes do oceano, e conta com três amplos quartos, todos com casa de banho privativa, um escritório dedicado para quem busca um ambiente de trabalho tranquilo, além de uma cozinha e uma área de estar em open-space, ideais para convívio e entretenimento. As moradias são equipadas com eletrodomésticos topo de gama, sistema de CCTV para segurança, ar condicionado para o máximo conforto, lavandaria e uma garagem ampla. Algumas moradias contam com elevador privativo. A piscina privativa e infinita é, sem dúvida, mais um destaque do condomínio, oferecendo um ambiente perfeito para relaxamento e lazer, com uma vista panorâmica espetacular sobre o mar e as Ilhas Desertas.",
+  "geo": {
+    "lat": 32.6443193912229,
+    "lng": -16.8306880950927
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,67 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75026&foto=1494130&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75026&foto=1494130&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 1; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Depósito Lixo",
+      "Escritório",
+      "Rega Automática",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (CCTV)",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Paredes (Pintadas)",
+      "Equipamento (Casa Recolha Lixo, Jardins, Rega Automática, TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 85.30; Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave, Exterior)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 421,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 421,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

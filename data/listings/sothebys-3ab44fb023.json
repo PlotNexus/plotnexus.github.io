@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66680&foto=1311506&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66680&foto=1311506&f=1",
+  "description": "Esta moradia T3 em Santa Cruz, é um convite ao luxo e à tranquilidade. Situada numa localização privilegiada, oferece 299 metros quadrados de conforto, distribuídos por um terreno de 1088 metros quadrados, e uma vista deslumbrante sobre o nascer do sol, o oceano atlântico e a beleza natural da região.\nCom três quartos espaçosos, incluindo uma master suíte, e quatro casas de banho, a casa alia funcionalidade e elegância. No exterior, o generoso jardim, a piscina e a zona de churrasco proporcionam o cenário perfeito para momentos de lazer e convívio.\nA sua localização permite uma vida calma e privada, sem abdicar da proximidade aos serviços essenciais. A apenas oito minutos do aeroporto e com acesso rápido às principais vias, escolas e restaurantes, esta moradia oferece o equilíbrio perfeito entre serenidade e conveniência. Ideal para quem procura um estilo de vida luxuoso e sofisticado, em harmonia com a natureza.",
+  "geo": {
+    "lat": 32.7048188784121,
+    "lng": -16.7920981927986
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,47 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66680&foto=1311506&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66680&foto=1311506&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 38.70; Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Distante Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 300,
+  "area_bruta_m2": 421,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

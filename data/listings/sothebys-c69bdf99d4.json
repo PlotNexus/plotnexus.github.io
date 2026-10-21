@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72794&foto=1629999&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72794&foto=1629999&f=1",
+  "description": "Da inspiração do conceituado atelier de arquitetura Saraiva+ Associados e numa localização premium, definida pela envolvente social, gastronómica e cultural, a uma curta distância das melhores praias, campos de golf e marina, SIMPLE Vilamoura apresenta-se com cinco sublimes moradias com áreas de terreno que variam entre os 561 e os 871 m2. \nRodeada por um jardim privado e áreas amplas, a Blue Villa foi desenhada ao pormenor — desde a arquitetura minimalista e contemporânea do seu interior ao projeto paisagístico de cada espaço exterior com uma área total de terreno de 693m2.\nEstas moradias com área de construção de 281 m2 estão dividas em 3 pisos, projetados para que todas as divisões usufruam de luz natural e áreas amplas.\nNo piso térreo encontramos a sala de estar e sala de jantar, cozinha e copa, um escritório e duas casas-de-banho, para além do todo o espaço exterior com jardim, piscina e garagem para dois lugares de estacionamento. Os três quartos estão no piso superior, todos em suite com casa-de-banho privada e espaços exteriores.\nNo piso inferior, para além de uma zona de lavandaria e uma casa de banho, encontramos uma zona de estar ampla, que poderá ser usada como espaço de arrumação, escritório ou mesmo como sala de jogos.",
+  "geo": {
+    "lat": 37.0695602517,
+    "lng": -8.1025028228
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72794&foto=1629999&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72794&foto=1629999&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 4,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

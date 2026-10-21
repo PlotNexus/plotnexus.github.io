@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 419,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74387&foto=1485860&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74387&foto=1485860&f=1",
+  "description": "Entre num corredor acolhedor que conduz a uma cozinha totalmente equipada e a quatro quartos espaçosos, cada um acompanhado pela sua própria casa de banho privativa. Um quarto adicional com beliches oferece versatilidade para hóspedes ou família. A moradia dispõe de uma sala de estar espaçosa, adornada com uma lareira, que flui perfeitamente para uma área de jantar adjacente, ambas com acesso direto aos amplos terraços e à convidativa piscina.\n\nA moradia foi construída com materiais locais, como os tradicionais azulejos de Santa Catarina que adornam os terraços e os telhados, e transmite um ambiente encantador e autêntico. O piso térreo, revestido a azulejos de Santa Catarina, transmite um ambiente acolhedor e indígena.\n\nA moradia oferece vistas panorâmicas inigualáveis sobre o mar e sobre a costa algarvia, quer seja a partir do notável terraço coberto junto à piscina ou de qualquer outro espaço exterior. Adjacente à casa encontra-se um jardim exuberante adornado com árvores maduras, oferecendo o potencial para uma conversão de escritório ou ginásio. As comodidades adicionais incluem uma “Lavandaria” e uma garagem espaçosa, complementada por lugares de estacionamento exteriores. O ar condicionado e o piso radiante aumentam ainda mais o conforto da residência.",
+  "geo": {
+    "lat": 37.1091064,
+    "lng": -8.0017441
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,40 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74387&foto=1485860&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74387&foto=1485860&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Depósito"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Pavimento (Pedra Natural)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 419,
-  "area_bruta_m2": null,
+  "area_util_m2": 238,
+  "area_bruta_m2": 419,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

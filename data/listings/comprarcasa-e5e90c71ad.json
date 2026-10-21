@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 9,
   "image": "https://cdn.proppy.app/propertyfiles/1921/105925/c2536684-c27e-4d01-ae18-88d7b26331c5.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
+  "description": "Em Vila Nova de Poiares irá nascer um novo empreendimento com acabamentos premium!\n\nConstituídos por tipologias T2 e T3, este empreendimento reúne todos os requisitos para que possa usufruir de um estilo de vida com toda a qualidade desejada.\n\n \n\nNo interior de cada uma das frações iremos ter:\n\nSala e cozinha em open space com acesso a varanda; \n\nQuartos com roupeiro;\n\nSuíte com closet;\n\nWc completa ;\n\nCozinha;\n\nAquecimento das águas através de bomba de calor.\n\nNo piso das garagens cada fração terá 2 lugares de estacionamento.\n\nPrazo para finalização de obra: 01/06/2027\n\nT2 a partir de: 235.8000€\n\nT3 a partir de: 292.500€\n\nNão perca a oportunidade e marque já a sua visita!\n\nA informação que consta neste website é meramente indicativa e não tem caráter contratual. Poderá, por motivos técnicos, comerciais ou legais, ser sujeita a alterações sem aviso prévio.\n\nCompracasa é uma Rede Imobiliária integrada exclusivamente por associados da APEMIP (Associação dos Profissionais e Empresas de Mediação Imobiliária de Portugal), garantia de profissionalismo e de proteção dos direitos dos consumidores e utilizadores.\n\nA APEMIP ocupa hoje uma posição destacada no mercado imobiliário nacional, quer pela aposta contínua na afirmação do papel do profissional de mediação imobiliária na nossa sociedade, quer pela conquista de uma maior quota no mercado de transações de imóveis, na linha do lema “Fortalecer a Mediação, Dinamizar a Economia e Servir os Consumidores”.\n\nPor seu lado, a UCI (União de Créditos Imobiliários) é uma Instituição Financeira especialista na concessão de crédito à habitação a particulares através dos profissionais do sector imobiliário. A UCI resulta da joint venture entre dois dos maiores grupos financeiros da Europa: o Grupo Santander, o Grupo BNP Paribas. Desta união surge o compromisso de ajudar a desenvolver o sector da mediação imobiliária, colocando ao seu alcance as melhores ferramentas que possibilitem potenciar o negócio imobiliário.\n\nNeste sentido é perfeitamente lógico que estas duas entidades de referência do sector da mediação imobiliária (APEMIP e a UCI) tenham, em Junho de 2004, celebrado um acordo de colaboração dando origem à ComprarCasa – Rede Imobiliária da Apemip.\n\nComprarCasa inicia a sua atividade comercial em Agosto de 2004 assente na missão de “Ser a Maior e Melhor Rede Imobiliária Nacional oferecendo múltiplos serviços a mediadores imobiliários, baseados no conceito de marca comum”, possibilitando e potenciando sinergias que se transformem em valores acrescentados para o mercado, nomeadamente para si que pretende vender, comprar, arrendar ou trespassar um determinado imóvel.\n\nPolítica da Qualidade ComprarCasa Coimbra\n\nComprarCasa Coimbra tem como compromisso prestar um serviço de excelência aos diversos intervenientes no sector da mediação imobiliária, disponibilizando para tal as melhores ferramentas que possibilitam potenciar o negócio imobiliário. Este conceito de negócio, apesar de original, tem valores tradicionais na sua génese:\n\nProfissionalismo; Empenho; Capacidade e Competência.\n\nA política adotada pela ComprarCasa Coimbra consiste em trabalhar, sob um Sistema de Gestão da Qualidade, económico, eficaz e dinâmico, documentado e verificado regularmente para melhorar continuamente a sua adequação e eficácia, renovando-se sistematicamente com vista à melhoria contínua de desempenho da empresa, garantindo desta forma o ajustamento às necessidades dos clientes internos e externos, possibilitando-lhe a obtenção do objetivo de oferecer ao cliente um serviço de qualidade e valor acrescentado.\n\nA política de qualidade da Rede ComprarCasa proporciona um marco de referência ao estabelecer e rever periodicamente os objetivos da Rede e ao garantir o cumprimento dos requisitos da norma, Legislação, Regulamentação, Sistema da Qualidade implementado e outros requisitos aplicáveis à atividade.\n\nComprarCasa Coimbra. A melhor forma de encontrar a casa ideal.",
   "geo": null,
   "source": {
     "name": "ComprarCasa",
@@ -21,10 +21,25 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1921/105925/c2536684-c27e-4d01-ae18-88d7b26331c5.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 9,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Elevador",
+      "Certificação energética: A",
+      "Acessos: Transportes públicos, Metro, Auto-estrada, Terminal fluvial",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Escolas, Infantário, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Fração autónoma"
+    ],
+    "Interior": [
+      "Cozinha: Exaustor, Placa e forno",
+      "Caixilharia: Alumínio",
+      "Aquecimento água: Eléctrico"
+    ]
+  },
+  "estado": "Novo",
+  "area_util_m2": 6,
+  "area_bruta_m2": 9,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

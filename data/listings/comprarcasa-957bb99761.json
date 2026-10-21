@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 398,
   "image": "https://cdn.proppy.app/propertyfiles/1425/61043/7166a28d-7394-47f1-b53a-6a08b31cfceb.JPG?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Vende-se lote de terreno com 398m2 de área para construção de moradia individual, perto dos acessos A8. Loteamento de referência.\n\nIMA - Sociedade de Mediação Imobiliária, Lda. Lic. AMI 2473, pertencente ao Grupo IMA , desde 1985, trata-se de uma empresa com elevada dinâmica e experiência ao seu serviço.\n\nEm qualquer momento, os imóveis aqui identificados podem ser reservados, vendidos, retirados de venda ou com preços alterados.\n\nMarinha Grande\n\nDeslumbre-se com o sol, a praia e a mata, tire o máximo partido do clima ameno durante a maior parte do ano e pratique o seu desporto predileto. Conheça de perto a nossa história, a nossa cultura, as gentes e as tradições. Passeie pelos espaços verdes à beira do mar ou dos ribeiros, percorra os trilhos e repouse nas fontes… Desfrute de uma viagem através do vasto e característico património histórico, natural e artístico desta região singular…venha perceber por que razão se diz que na Marinha Grande “…quem não sopra já soprou…”",
+  "geo": {
+    "lat": 39.728377986002684,
+    "lng": -8.922224000277703
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1425/61043/7166a28d-7394-47f1-b53a-6a08b31cfceb.JPG?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento"
+    ]
+  },
+  "estado": "Não aplicável",
   "area_util_m2": 398,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 398,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

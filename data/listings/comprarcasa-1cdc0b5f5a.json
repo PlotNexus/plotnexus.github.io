@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 1349,
   "image": "https://cdn.proppy.app/propertyfiles/1526/67292/8c9874a5-100a-4aa9-a7ff-290074b50c22.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno com 1.349,00m2\n\nFacilidade de Acessos\n\nZona Central\n\nProximidade do Farol do Arnel\n\nVista Mar\n\nO Nordeste é uma vila e um município português na ilha de São Miguel, Região Autónoma dos Açores, com 101,51 km² de área e 4 937 habitantes (2011), subdividido em 9 freguesias. O município é limitado a sul pelo município da Povoação e a oeste pela Ribeira Grande e tem costa no oceano Atlântico a norte e leste.\n\nNo Nordeste existem muitos pontos turísticos como a Miradouro da Ponta do Sossego, Miradouro da Ponta da Madrugada, Serra da Tronqueira, Farol do Arnel, Parque Natural dos Caldeirões, entre outros miradouros que permitem avistar paisagens panorâmicas para o mar.\n\nO Nordeste é muito conhecido pela sua vegetação e pelas lindas flores como as hortênsias ou as azáleas que enfeitam as estradas do concelho.\n\nAqui se localiza o Pico da Vara, ponto mais alto da ilha de São Miguel, com cerca de 1100 metros de altitude. O seu relevo é de carácter montanhoso, recortado por ribeiras que deslizam por entre a vegetação. Com uma extensão aproximada de 1982 hectares, incorpora uma grande quantidade de vegetação endémica e típica da Macaronésia, assim como todo um conjunto de flora rara e de grande valor. O Priolo, ave endêmica da ilha, encontra aqui o seu habitat.\n\nDo Pico da Vara, miradouro natural, daqui se consegue ter uma impressionante panorâmica sobre grande parte da ilha, com destaque para o Planalto dos Graminhais, o Pico Verde e a Serra da Tronqueira, a sul, e as encostas da caldeira das Furnas e as serras de Água de Pau e Devassa, a oeste.",
+  "geo": {
+    "lat": 37.82397087048274,
+    "lng": -25.13725857896323
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,25 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/67292/8c9874a5-100a-4aa9-a7ff-290074b50c22.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar",
+      "Orientação solar: Este, Oeste",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Periferia, Beira-mar",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Mar",
+      "Árvores",
+      "Muro"
+    ],
+    "Exterior": [
+      "Orientação Solar: Este, Oeste"
+    ]
+  },
   "estado": null,
   "area_util_m2": 1349,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 1349,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

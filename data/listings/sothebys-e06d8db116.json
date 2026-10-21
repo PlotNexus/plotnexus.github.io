@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70329&foto=1648195&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70329&foto=1648195&f=1",
+  "description": "Apartamento com 3 quartos situado na freguesia de Oeiras, junto ao Parque dos Poetas, inserido em condomínio fechado. Destaca-se pela sua localização e pela organização funcional dos espaços, ideal para quem procura viver próximo de zonas verdes e serviços essenciais.\n\nCom uma área ampla e e largos vãos envidraçados, este imóvel dispõe de três quartos, incluindo uma suite, e três casas de banho. Localizado no 2.º andar de um edifício com elevador, construído em 2018, apresenta um estado de conservação excelente. Conta ainda com dois lugares de estacionamento e arrecadação , garantindo soluções de arrumação adicionais.\n\nO apartamento beneficia de exposição solar sul/norte, proporcionando uma excelente luminosidade ao longo do dia. Equipado com ar condicionado e aspiração central, oferece conforto térmico e funcionalidade. Integra ainda um amplo terraço, criando uma extensão do espaço interior, ideal para criação de um espaço gourmet. \n\nA localização permite acesso rápido a uma ampla oferta de serviços, incluindo o centro comercial Oeiras Parque, supermercados, escolas e unidades de saúde, todos a poucos minutos de distância a pé. A proximidade ao Parque dos Poetas convida a atividades ao ar livre e momentos de lazer.\n\nBem servido de acessos rodoviários, encontra-se próximo das principais vias da região, facilitando a ligação a Lisboa e Cascais. A estação de comboios situa-se a cerca de 10 minutos, garantindo uma alternativa prática de mobilidade.\n\nInserido numa zona consolidada de Oeiras, este imóvel combina centralidade, acessos e proximidade a comércio e serviços, num contexto urbano com forte qualidade de vida.",
+  "geo": {
+    "lat": 38.70196,
+    "lng": -9.301469
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,60 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70329&foto=1648195&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70329&foto=1648195&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Estores (Eléctricos, Térmicos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Pavimento (Mármore, Pedra Natural)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur, Ponto de Luz)",
+      "Equipamento (Casa Recolha Lixo, Sala Condomínio, TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Centros Comerciais, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 24,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

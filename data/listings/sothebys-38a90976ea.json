@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 6,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=51940&foto=1182487&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=51940&foto=1182487&f=1",
+  "description": "Moradia com piscina e ótimo espaço exterior.\nNo Interior dois grandes halls de distribuição: um no piso térreo, que faz distribuição para 3 salões, cozinha e dois WC; outro hall no 1º piso (intensamente iluminado com enorme claraboia de belo recorte estético e totalmente isolada do ponto de vista térmico), que faz distribuição para 4 suites, dois escritórios, um WC e para um outro hall que dá acesso à escada exterior de subida ao 1ºpiso. \nA decoração destes halls é de elevado nível estético, recorrendo a madeiras maciças de pinho cerne do Bussaco, com velatura de cerejeira, a vitrais sóbrios com bonitos desenhos geométricos e a ferros forjados de desenhos inspirados nas célebres colchas de Castelo Branco.\nToda a casa possuiu aquecimento central e ar condicionado.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,44 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=51940&foto=1182487&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=51940&foto=1182487&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Escritório",
+      "Rega Automática",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Paredes (Pintadas)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Local (Exterior)"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bombeiros, Escolas, Jardins, Jardins Infância, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 851,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

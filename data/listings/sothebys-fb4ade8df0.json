@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 540,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81214&foto=1674604&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81214&foto=1674604&f=1",
+  "description": "Esta moradia distingue-se pela combinação pouco comum entre espaço, privacidade e qualidade de vida, numa localização que permite viver com tranquilidade sem ficar afastado da cidade, da praia ou da cidade do Porto.\n\nDe autoria de arquiteto, a propriedade apresenta uma arquitetura pensada para valorizar a relação entre os espaços interiores e exteriores, a entrada de luz natural e uma vivência familiar confortável e versátil.\n\nInserida num terreno com 1.080 m², a propriedade oferece cerca de 320 m² de área privativa, com uma distribuição pensada para acompanhar diferentes necessidades e momentos da vida familiar.\n\nNo exterior, o jardim e a piscina assumem naturalmente o protagonismo. É uma área pensada para ser vivida durante todo o ano, seja para momentos em família, refeições ao ar livre ou simplesmente para desfrutar de um ambiente tranquilo e com muita privacidade.\n\nNo interior, as áreas sociais são amplas e luminosas, com uma relação equilibrada entre os diferentes espaços da casa e o jardim. A área privada, no primeiro piso, é composta por quatro quartos, permitindo uma utilização flexível de acordo com as necessidades de cada família. Para além dos quartos, a configuração da casa permite criar espaços dedicados a escritório, hóspedes, lazer ou outras utilizações, acompanhando diferentes fases da vida familiar.\n\nNo piso -1 encontra-se uma ampla área multifuncional, com acesso direto ao exterior, atualmente organizada como espaço de lazer, com home cinema e ginásio. Pela sua dimensão e configuração, é um espaço que pode ser adaptado às necessidades de cada proprietário.\n\nA moradia dispõe ainda de lavandaria, escritório, garagem para dois automóveis e diversas soluções de conforto e eficiência, incluindo painéis solares, aquecimento central, caixilharia com vidro duplo e sistema de alarme.\n\nA localização permite um acesso rápido a Vila do Conde, Porto, Matosinhos e ao Aeroporto Francisco Sá Carneiro, beneficiando ainda da proximidade a escolas, comércio, serviços, transportes e praias.\n\nUma residência familiar com excelentes áreas interiores e exteriores, arquitetura de autor e uma localização que combina tranquilidade e proximidade aos principais centros urbanos.",
+  "geo": {
+    "lat": 41.3533607319,
+    "lng": -8.7457180023
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,61 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81214&foto=1674604&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81214&foto=1674604&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia",
+      "Poço"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Granito, Pintado)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Jardins)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Praias, Serviços Públicos)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 540,
-  "area_bruta_m2": null,
+  "area_util_m2": 320,
+  "area_bruta_m2": 540,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

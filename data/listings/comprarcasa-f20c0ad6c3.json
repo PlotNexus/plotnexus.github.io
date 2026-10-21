@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 1360,
   "image": "https://cdn.proppy.app/propertyfiles/1526/69678/9b0c2c79-7f86-497b-9399-0d5b522244a7.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno Rústico com 1.360,00 m2\n\nTerreno Plano\n\nViabilidade de Construção\n\nProximidade de Serviços\n\nIdeal para Investimento\n\nCapelas é uma vila e sede de freguesia açoriana do município de Ponta Delgada, com 16,84 km² de área e 4 080 habitantes (2011). \n\nA sua densidade populacional é 242,3 hab/km². \n\nLocaliza-se a uma latitude 37.833 (37°50') Norte e a uma longitude 25.6833 (25°41') Oeste, estando a uma altitude de 60 metros. \n\nA atividade principal é a agricultura e a produção de chá mira.\n\nÉ banhada pelo Oceano Atlântico. Tem montanhas a sul.\n\nFoi elevada a vila e sede de concelho por Carta de Lei de 23 de Julho de 1839. O município era constituído pelas freguesias de Bretanha, Capelas, Fenais da Luz, Santo António e São Vicente Ferreira. Tinha, em 1849, 9 026 habitantes.\n\nContudo o concelho foi efémero, nunca tendo assumido na plenitude as respetivas funções. Foi extinto em 1855, retornando o seu território ao concelho de Ponta Delgada. Nunca perdendo o título de Vila mas caindo em esquecimento este foi reforçada a categoria de vila a 24 de Junho de 2003 pelo Decreto Legislativo Regional n.º 29/2003/A, de 24 de Junho, da Assembleia Legislativa. As populações de Capelas e freguesias vizinhas reivindicam a restauração do concelho.\n\nA vila das Capelas foi um importante centro da caça ao cachalote, funcionando no seu pequeno porto, na primeira metade do século XX, uma armação baleeira. Nas imediações do porto (Poços) foi instalada uma fábrica de óleo e farinha de cachalote, quando esta atividade terminou, ficou em ruínas e mais tarde foi demolida, ficando só a chaminé principal.",
+  "geo": {
+    "lat": 37.824642764248814,
+    "lng": -25.686527944647587
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,22 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/69678/9b0c2c79-7f86-497b-9399-0d5b522244a7.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Orientação solar: Norte",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Periferia",
+      "Zona envolvente: Turística",
+      "Muro"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte"
+    ]
+  },
   "estado": null,
   "area_util_m2": 1360,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 1360,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

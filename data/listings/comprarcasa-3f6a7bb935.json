@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 84,
   "image": "https://cdn.proppy.app/propertyfiles/1515/69629/c71ef68f-828c-4aed-9939-973e53f0a19c.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Espaço comercial de 84 m2, equipado e mobilado, na Praça Joaquim António de Aguiar 12 a 19, no Centro Histórico de Évora.\n\nO imóvel é composto por: sala de refeições com ar condicionado, interligada com a zona de balcão com 2 vitrines; zona de copa; cozinha e instalações sanitárias diferenciadas.\n\nO espaço é enriquecido com o equipamento que está ao dispor, nomeadamente: 1 fogão, 1 termoacumulador, 1 arca frigorífica, 1 arca congeladora, 1 fiambreira, 2 panelas de sopa elétricas, 1 balança eletrónica e 1 máquina de lavar loiça. \n\nDestacam-se no imóvel alguns pontos fortes, que merecem ser evidenciados, tais como:\n\n- O bom estado de conservação;\n\n- A localização, no centro da povoação.\n\nSendo Évora Património da Humanidade, a localização central da moradia constitui-se também como uma mais valia, dado que não o aproxima somente do comércio tradicional e de todo o tipo de serviços, mas também da cultura e da história, que se respiram no centro histórico.\n\nContacte-nos para visita ou mais informações!",
+  "geo": {
+    "lat": 38.57302856224475,
+    "lng": -7.913401790339211
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,25 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/69629/c71ef68f-828c-4aed-9939-973e53f0a19c.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Localização central",
+      "Certificação energética: C",
+      "Mobilado",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Policia",
+      "Zona envolvente: Turística"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 84,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 84,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

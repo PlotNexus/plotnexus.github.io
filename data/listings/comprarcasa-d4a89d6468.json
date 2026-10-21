@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 269,
   "image": "https://cdn.proppy.app/propertyfiles/5115/105886/ae0fbab1-2848-44a4-961d-e4c889025a4e.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia Nova T3 em Cardielos.\n\nDescubra esta moradia encantadora na pitoresca cidade de Viana do Castelo, Cardielos onde vai encontrar a vossa tranquilidade.\n\nEsta nova propriedade de 3 quartos e 2 casas de banho está situada a poucos passos da Escola Básica de Cardielos, gerida pelo Agrupamento de Escolas Pintor José de Brito. Com uma área total de 226 metros quadrados de terreno e 269 metros quadrados de área bruta, esta moradia num local sossegada, oferece o equilíbrio perfeito entre conforto e espaço.\n\nfica situada nas proximidades do rio Lima, entre Viana do Castelo e Ponte de Lima.\n\nTemos esta excelente moradia para si, com um desingn moderno no enquadramento do rustico, com todas as comodidades e acabamento de excelência. Em face final de construção. \n\n \n\nEsta moradia T3, com 3 pisos, garagem e piscina exterior tem tudo o que precisa para a ser a sua casa de sonho.\n\nPiso 0 – Garagem | Hall | Casa das máquinas | Arrumos\n\nPiso 1 – Cozinha open space | Sala de jantar | Sala de Estar | 2 Quartos | 1 Casa de banho | Varanda\n\nPiso 2 – Escritório/Quarto | Casa Banho | Terraço\n\nMarque a sua Visita!",
+  "geo": {
+    "lat": 41.71390257561082,
+    "lng": -8.735146850292976
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,23 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/105886/ae0fbab1-2848-44a4-961d-e4c889025a4e.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 269,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista rio",
+      "Arrecadação",
+      "Armários embutidos",
+      "Certificação energética: Em curso",
+      "Terraço",
+      "Garagem",
+      "Localização: Periferia, Beira-rio",
+      "Serviços: Supermercados",
+      "Vistas: Rio, Campo",
+      "Fração autónoma"
+    ]
+  },
+  "estado": "Novo",
+  "area_util_m2": 127,
+  "area_bruta_m2": 269,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

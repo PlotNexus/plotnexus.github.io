@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 5,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=58801&foto=1094637&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=58801&foto=1094637&f=1",
+  "description": "Fantástica moradia geminada, localizada numa zona de excelência da cidade, com 359 metros quadrados de área bruta privativa e inserida num terreno de 480 metros quadrados. Esta elegante moradia, está distribuída por três pisos, sendo que no piso de entrada desenvolve-se a zona social com uma requintada sala de estar e jantar com 47 metros quadrados, um escritório, casa de banho social e uma cozinha completamente equipada. No piso superior, encontra-se a agradável master suite com uma varanda e vista para o jardim e outras duas generosas suites ambas com varanda. O piso da cave é composto pela espaço garagem para seis carros e arrumos. Na zona exterior, existe um jardim com piscina, e um anexo onde está inserida a lavandaria e uma casa de banho com duche de apoio à zona da piscina. Esta moradia está Inserida em zona residencial de referência, com proximidade a comércio e serviços, escolas e colégios, e a minutos a pé do parque da cidade. Conjuga o requinte e a qualidade de vida, pela qualidade da construção e materiais, permitindo uma vivência familiar única.",
+  "geo": {
+    "lat": 41.16389,
+    "lng": -8.670567
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,52 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=58801&foto=1094637&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=58801&foto=1094637&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 80; Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Escolas, Farmácia, Jardins, Jardins Infância, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_util_m2": 279,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

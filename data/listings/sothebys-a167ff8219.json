@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82241&foto=1681998&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82241&foto=1681998&f=1",
+  "description": "Construída em 2024, esta moradia contemporânea T3 redefine o conceito de habitação moderna em Vilamoura, combinando arquitetura minimalista, materiais de excelência e uma localização privilegiada, a apenas 1 km do Hilton Vilamoura.\n\nSituada numa tranquila cul-de-sac, proporciona um ambiente de privacidade e exclusividade, ideal para quem procura um estilo de vida sofisticado no coração do Algarve.\n\nDesde a entrada, destaca-se a luminosidade natural e a amplitude dos espaços, evidenciada pelo impressionante pé-direito de 3,80 metros na sala de estar, criando uma ligação harmoniosa entre os diferentes ambientes da casa.\n\nDistribuída por três pisos, a moradia foi concebida para maximizar conforto e funcionalidade. A cave beneficia de luz natural e acolhe uma elegante suíte com closet, banheira e acesso direto à piscina, oferecendo um espaço independente perfeito para receber família ou convidados.\n\nNo topo da propriedade, um exclusivo rooftop com jacuzzi convida a desfrutar do clima algarvio durante todo o ano, seja para momentos de relaxamento ou para receber convidados.\n\nCada detalhe foi cuidadosamente selecionado para refletir um padrão de construção premium. \n\nEntre os principais destaques encontram-se:\n\n- Pavimento porcelânico de grandes dimensões 120 x 120 cm\n\n- Portas embutidas flush, totalmente integradas nas paredes para um design contemporâneo e minimalista\n\n- Duche com efeito cascata e função de hidromassagem\n\n- Iluminação com sensores de movimento nas zonas de circulação\n\n- Ar condicionado em todos os quartos\n\nAcabamentos de referência internacional, incluindo Dekton, Gessi e iluminação Vibia.\n\nA poucos minutos da Marina de Vilamoura, dos campos de golfe de referência internacional, das praias e de uma vasta oferta gastronómica e de lazer, esta moradia representa uma oportunidade rara para quem procura uma residência principal, casa de férias ou investimento numa das localizações mais procuradas do Algarve.\n\nTrata-se de uma propriedade contemporânea onde arquitetura, tecnologia e materiais de excelência se unem para criar uma experiência de habitação distinta.",
+  "geo": {
+    "lat": 37.0908105,
+    "lng": -8.1209035
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,63 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82241&foto=1681998&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82241&foto=1681998&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "PVC",
+      "Vidro Duplo",
+      "Estores (Eléctricos, PVC)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Estores Eléctricos",
+      "Música Ambiente (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Térmico)",
+      "Tecto (Focos, Ponto de Luz)",
+      "Equipamento (TV Cabo)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 230; Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Farmácia, Jardins, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 139,
+  "area_bruta_m2": 4,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

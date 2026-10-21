@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81977&foto=1657892&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81977&foto=1657892&f=1",
+  "description": "Na prestigiada Rua do Crasto, esta fração T3 no Foliage oferece uma combinação rara de localização, privacidade, áreas exteriores generosas e qualidade construtiva.\nSituado no piso térreo do Edifício Brown, este apartamento apresenta 180 m² de área bruta interior e 150 m² de área bruta exterior, num total de 330 m². A relação direta entre a zona social e o jardim privativo reforça a sensação de amplitude e cria uma vivência residencial serena, sofisticada e muito confortável.\nO jardim permite desfrutar de uma extensão natural da casa, ideal para quem valoriza espaço exterior, privacidade e uma atmosfera tranquila, mantendo-se próximo das praias da Foz, do Parque da Cidade, de Serralves, de escolas de referência, comércio, restaurantes e serviços.\nA fração dispõe de 2 lugares de estacionamento e arrumo, respondendo às necessidades de conforto e funcionalidade de uma habitação contemporânea.\nCom assinatura do arquiteto José Carlos Cruz, o Foliage foi concebido como um projeto de equilíbrio entre arquitetura, materialidade e natureza. Os acabamentos premium, a atenção ao detalhe e a envolvente verde tornam este empreendimento uma proposta residencial distinta numa das zonas mais procuradas do Porto.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,28 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81977&foto=1657892&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81977&foto=1657892&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Pavimento (Mármore)",
+      "Paredes (Madeira)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 180,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

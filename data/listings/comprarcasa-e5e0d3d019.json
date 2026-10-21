@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 2500,
   "image": "https://cdn.proppy.app/propertyfiles/1526/63996/e084f59b-56fd-4780-bc78-a07be3248dfe.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno com 2500,00 m2\n\nJunto a Ribeira com Passadiço em Madeira\n\nZona Plana Ideal para Cultivo\n\nÁgua de Pau é uma vila que integra o município de Lagoa, na costa Sul da ilha de São Miguel, na Região Autónoma dos Açores, em Portugal. \n\nEstá situada a cerca de 17 km de Ponta Delgada e a 7 km da sede do município. \n\nApresenta 17,43 km² de área e cerca de 3000 habitantes, com uma densidade populacional de 175,4 hab./km².\n\nGrande parte da sua população dedica-se à agropecuária e à agricultura, sendo também de registar o número daqueles que têm a sua ocupação na construção civil, nos serviços e no comércio. \n\nO artesanato tem forte implantação na localidade, sendo de realçar os trabalhos em vime e de tecelagem.",
+  "geo": {
+    "lat": 37.720943999836074,
+    "lng": -25.511608988703966
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,24 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/63996/e084f59b-56fd-4780-bc78-a07be3248dfe.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Orientação solar: Norte, Sul, Este, Oeste",
+      "Certificação energética: Isento",
+      "Localização: Periferia",
+      "Zona envolvente: Turística",
+      "Vistas: Serra, Campo",
+      "Árvores",
+      "Muro"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul, Este, Oeste"
+    ]
+  },
   "estado": null,
   "area_util_m2": 2500,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 2500,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

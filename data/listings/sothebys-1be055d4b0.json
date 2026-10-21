@@ -8,9 +8,12 @@
   "bedrooms": 8,
   "bathrooms": 4,
   "area_m2": 227,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78293&foto=1580519&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78293&foto=1580519&f=1",
+  "description": "Chalé secular para remodelação total, a 100 metros do mar, numa das em localizações mais privilegiadas de São Pedro do Estoril.\nCom uma área de construção de 227 m2, encontra-se dividida em 3 pisos da seguinte forma:\nPiso térreo - Sala (18,22 m2), cozinha com lavandaria, despensa e pátio exterior para estender a roupa, 3 salas (8.18, 8.41 e 12.53m2), WC completo e WC social.\nPiso intermédio - Quarto (12 m2) com varanda e acesso a sala (8,61 m2), 4 salas com cerca de 8 m2 cada, 2 WC's completos e arrumos.\nPiso superior - Sala (37 m2) orientada a sul com lareira, varanda e vista mar, escritório (6,17 m2) com acesso a varanda fechada, orientada a nascente, e WC completa.\nPotencial para converter em propriedade horizontal, sendo que neste momento existem entradas independentes para 2 ou 3 apartamentos.\nA presente informação não tem caráter contratual, carecendo o comprador da verificação prévia de toda a documentação do imóvel. Este anúncio poderá eventualmente ter alguma imprecisão da qual a agência não poderá ser responsabilizada.\n\nClassificação Energética: E",
+  "geo": {
+    "lat": 38.7035171,
+    "lng": -9.391423
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,35 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78293&foto=1580519&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78293&foto=1580519&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 3; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Mar"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Escolas, Jardins Infância, Praias)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 227,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 227,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

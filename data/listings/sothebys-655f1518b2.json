@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 8,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79890&foto=1637135&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79890&foto=1637135&f=1",
+  "description": "Esta moradia tradicional, impecavelmente conservada, beneficia de deslumbrantes vistas panorâmicas de 180 graus sobre a costa e o campo, situada numa localização tranquila e privada na encosta de São Sebastião, a apenas 5 minutos de carro da vibrante cidade de Loulé, 15 minutos dos diversos campos de golfe e praias e 20 minutos do Aeroporto de Faro. A partir da sua posição elevada, a propriedade oferece vistas amplas que se estendem de Faro a Albufeira, com paisagens magníficas em todos os níveis e pores do sol inesquecíveis a oeste durante todo o ano.\n\nCombinando o autêntico caráter português com confortos modernos, a moradia proporciona uma atmosfera acolhedora, elegante e convidativa. A luminosa área de estar e jantar em plano aberto constitui o coração da casa, dispondo de lareira e acesso direto à piscina, à zona de barbecue e a vários terraços, criando o ambiente ideal para desfrutar da vida ao ar livre e receber convidados.\n\nA propriedade é composta por quatro quartos espaçosos em suíte, todos equipados com roupeiros embutidos e ar condicionado, além de um WC social independente. A suíte principal, localizada no piso superior, beneficia de um amplo terraço privativo e de vistas magníficas sobre a costa e a paisagem rural envolvente. A moradia foi cuidadosamente concebida e decorada com elegância, conciliando a arquitetura tradicional com funcionalidades modernas e práticas.\n\nEntre os confortos modernos destacam-se as janelas com vidros duplos, aquecimento a gás e por bomba de calor reversível, ar condicionado, internet de fibra ótica de alta velocidade, televisão por cabo, sistema de alarme, CCTV, vídeo porteiro e portão de entrada automático. O abastecimento de água é garantido por um furo privado, que serve tanto a habitação como a rega do jardim, complementado por um sistema de descalcificação da água, existindo ainda a possibilidade de ligação à rede pública.\n\nNo exterior, os jardins paisagísticos, totalmente irrigados, integram-se harmoniosamente na envolvente natural e oferecem diversas zonas de estar e terraços tranquilos. Árvores de fruto maduras e vinhas enriquecem o cenário, incluindo laranjeiras, limeiras, limoeiros, pessegueiros de pêssego branco, ameixeiras, videiras, oliveiras e pimenteiras-rosa.\n\nA área exterior fica completa com uma piscina aquecida de água salgada, equipada com controlo automático de pH.\nOutras características incluem uma lavandaria e uma garagem dupla com portões elétricos e amplo estacionamento privativo.",
+  "geo": {
+    "lat": 37.1591395,
+    "lng": -8.0483856
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,61 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79890&foto=1637135&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79890&foto=1637135&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 0"
+    ],
+    "Água": [
+      "Companhia",
+      "Furo"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Esquentador",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Pavimento (Tijoleira)",
+      "Equipamento (Jardins, Rega Automática)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 8,
-  "area_bruta_m2": null,
+  "area_util_m2": 21,
+  "area_bruta_m2": 8,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

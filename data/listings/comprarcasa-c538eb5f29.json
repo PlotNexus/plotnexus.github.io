@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 3770,
   "image": "https://cdn.proppy.app/propertyfiles/2032/67697/5180c5a2-1702-4269-b2d6-5143699b67ce.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno Rústico com 3770m2 junto ao mar, onde é possivel desfrutar de uma imensa tranquilidade.\n\nFica localizado em Salgueirais, a escassos minutos da estrada Atlântica, de Salir do Porto e da Foz do Arelho.\n\nUma oportunidade única.\n\nSem viabilidade de construção.\n\nDa mesma forma, não é permitida a instalação de casas amovíveis, pré-fabricadas ou estruturas semelhantes com a finalidade de habitação, nem autocaravanas, uma vez que estas também estão sujeitas às regras e condicionantes aplicáveis ao terreno.\n\nAssim, o terreno não permite, nas condições atuais, a instalação de uma habitação, seja através de construção convencional ou através de uma solução amovível.\n\nDigna de uma paisagem deslumbrante, a Foz do Arelho oferece um magnífico areal situado na confluência da Lagoa com o mar e margens revestidas de um cenário verdejante.\n\nÉ o itinerário ideal para surfistas e amantes do sol e da praia. Na Foz do Arelho, com confluência da Lagoa de Óbidos com o Atlântico há, literalmente, água para todos os gostos. De um lado, a lagoa, com uma beleza inigualável e perfeita tanto para crianças como para amantes de windsurf, graças às suas águas calmas. Do outro, a praia aberta ao mar.\n\nA Praia de Salir do Porto é uma praia de areias finas e douradas, o local perfeito para famílias com ou sem crianças, desfrutarem tranquilamente.\n\nE as crianças adoram e divertem-se apenas a subir e a descer as dunas!\n\nAs dunas conferem à Praia de Salir do Porto uma vista maravilhosa, e o espaço envolvente então é bastante agradável e acolhedor.\n\nAs águas são normalmente calmas e claras, ideias para uns belos e refrescantes mergulhos.\n\nRustic land with 3770m2 by the sea, where it is possible to enjoy an immense tranquility.\n\nIt is located in Salgueirais, just minutes from the Atlantic road, Salir do Porto and Foz do Arelho.\n\nUnique opportunity.\n\nNo viability to build.\n\nWorthy of a stunning landscape, Foz do Arelho offers a magnificent sandy beach situated at the confluence of the lagoon and the sea, with its banks lined with green scenery.\n\nIt is the ideal itinerary for surfers and lovers of the sun and the beach. At Foz do Arelho, where the Óbidos Lagoon meets the Atlantic, there is literally water for all tastes. On one side, the lagoon, with its unparalleled beauty and perfect for children and windsurfers alike, thanks to its calm waters. On the other, the beach open to the sea.\n\nSalir do Porto Beach is a BEACH of fine golden sands, the perfect place for families with or without children to enjoy peacefully.\n\nAnd children love it and have fun just climbing up and down the dunes!\n\nThe dunes give Salir do Porto beach a wonderful view, and the surrounding area is very pleasant and welcoming.\n\nThe waters are usually calm and clear, ideal for a nice, refreshing swim.",
+  "geo": {
+    "lat": 39.4924281,
+    "lng": -9.1472702
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,18 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/67697/5180c5a2-1702-4269-b2d6-5143699b67ce.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar",
+      "Certificação energética: Isento",
+      "Localização: Beira-mar",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Mar, Campo, Areas verdes"
+    ]
+  },
   "estado": null,
   "area_util_m2": 3770,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 3770,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

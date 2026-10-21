@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 1,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78446&foto=1594850&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78446&foto=1594850&f=1",
+  "description": "Localizada em São Cristóvão do Douro, no concelho de Sabrosa, esta distinta moradia isolada T3 destaca-se pela sua arquitetura contemporânea e pelas vistas deslumbrantes sobre o Douro. Atualmente em funcionamento como guest house de charme, é um projeto conceptual do arquiteto Francisco Vieira de Campos, que combina de forma exemplar materiais tradicionais da região com a estética moderna do betão armado.\n\nCom 254 m² de área bruta privativa, distribuídos por três pisos com elevador, esta propriedade oferece uma experiência única de conforto e funcionalidade.\n\n- Piso 0: hall de entrada, restaurante totalmente equipado, sala de estar ampla e luminosa, cozinha industrial e casa de banho.\n\n- 1.º piso: três suites generosas, todas com excelente luz natural e casas de banho revestidas a mármore de Estremoz.\n\n- Piso -1: sala polivalente ideal para lazer, eventos ou expansão do negócio, além da área técnica de apoio.\n\nConstruída em 2021 e mantida em estado irrepreensível, esta moradia traduz o espírito do Alto Douro Vinhateiro, unindo autenticidade, materiais nobres e conforto, sempre com a paisagem do Douro como cenário permanente em todas as divisões.\n\nCom afetação a serviços, representa uma excelente oportunidade de investimento, seja para continuidade da exploração turística, criação de um boutique hotel ou desenvolvimento de um novo conceito de alojamento. Em alternativa, pode ser convertida facilmente para habitação própria, proporcionando uma residência exclusiva no coração de uma região única.\n\nSituada a apenas 10 minutos do Pinhão e 20 minutos de Vila Real, esta propriedade beneficia de uma localização privilegiada no Douro Vinhateiro – Património Mundial da UNESCO, reconhecido mundialmente pelas suas paisagens de exceção.",
+  "geo": {
+    "lat": 41.2177151,
+    "lng": -7.5665563
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,41 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78446&foto=1594850&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78446&foto=1594850&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pedra Natural)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Exterior)"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 1,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 1,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

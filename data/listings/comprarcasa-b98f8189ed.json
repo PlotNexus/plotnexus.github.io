@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 420,
   "image": "https://cdn.proppy.app/propertyfiles/1526/78511/67287f03-a491-4ee9-a438-ce536d23ea0e.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno com 420,00 m2\n\n12 Metros de Frente.\n\nViabilidade de Construção\n\nCentro da Freguesia da Ribeira Chã\n\nProximidade das Praias de Água D'Alto\n\nA Ribeira Chã é uma freguesia do concelho de Lagoa, com 2,52 km² de área e 365 habitantes (censos 2021). Freguesia criada pelo Decreto-Lei nº 47.014, de 18/05/1966, com lugares desanexados da freguesia de Água de Pau\n\nO desenvolvimento desta freguesia deu-se a partir da década de 1960, em boa parte por influência do padre João Caetano Flores, com a sua elevação a freguesia.\n\nA Ribeira Chã, povoação muito antiga, deve o seu nome à ribeira que corre nas suas proximidades e que desagua no mar, por uma grota coberta de lajes rasas ou chães.",
+  "geo": {
+    "lat": 37.7218721,
+    "lng": -25.4866819
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,20 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/78511/67287f03-a491-4ee9-a438-ce536d23ea0e.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Zona envolvente: Residencial",
+      "Vistas: Serra"
+    ]
+  },
   "estado": null,
   "area_util_m2": 420,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 420,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

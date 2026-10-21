@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70215&foto=1356623&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70215&foto=1356623&f=1",
+  "description": "Propriedade excepcional, localizada num emblemático edifício dos anos 30, foi totalmente renovada por um arquiteto especializado, preservando meticulosamente a sua arquitetura de época. Com tetos altos e ornamentados, e um elegante piso em carvalho, este apartamento proporciona um ambiente único e sofisticado.\n\nO apartamento é composto por 4 quartos, incluindo uma suíte, que apresenta materiais de excelente qualidade. Todas as casas de banho estão revestidas a mármore, sendo a da suíte equipada com uma luxuosa banheira, enquanto as outras duas possuem modernas cabines de duche.\n\nTanto os quartos como as restantes divisões oferecem amplas soluções de arrumação, proporcionando um ambiente organizado e funcional. A cozinha, totalmente equipada com eletrodomésticos da marca BOSCH e elegantes bancadas em pedra quartz, é um espaço de excelência para os amantes da culinária.\n\nPara garantir o máximo conforto, todas as divisões estão equipadas com ar condicionado. As janelas de vidro duplo proporcionam isolamento térmico e acústico, enquanto a porta blindada e o cofre de segurança garantem total tranquilidade e segurança aos residentes.\n\nA espaçosa sala de estar abre-se para uma encantadora varanda, convidando os moradores a desfrutar de momentos relaxantes e refeições ao ar livre.\n\nLocalizado nas Avenidas Novas, o coração moderno da cidade, este imóvel beneficia de uma localização privilegiada. Caracterizadas por ruas amplas e planas, as Avenidas Novas oferecem uma atmosfera residencial tranquila, com importantes zonas comerciais e empresariais nas proximidades.\n\nA área é rica em comércio local, serviços, restaurantes e centros comerciais de qualidade, além de oferecer uma excelente rede de transportes públicos. Os magníficos Jardins da Gulbenkian, o prestigiado El Corte Inglés e o majestoso Parque Eduardo VII estão apenas a uma curta distância.\n\nServido por uma completa rede de transportes públicos, incluindo a estação de metro do Saldanha com ligação à linha do Aeroporto, este imóvel proporciona fácil acesso às principais saídas da cidade, incluindo as autoestradas A5 (Cascais), A2 (Sul) e A1 (Norte).\n\nEste apartamento representa uma oportunidade única de viver com conforto, estilo e conveniência numa das áreas mais desejáveis de Lisboa. Marque já a sua visita e apaixone-se pelo seu novo lar nas Avenidas Novas.",
+  "geo": {
+    "lat": 38.74262,
+    "lng": -9.148866
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,50 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70215&foto=1356623&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70215&foto=1356623&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Portadas",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Pavimento (Mármore)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur, Focos)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 171,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

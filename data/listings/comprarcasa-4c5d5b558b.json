@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 844,
   "image": "https://cdn.proppy.app/propertyfiles/1515/83263/2f3b33c0-1ca1-48bf-b984-f7635cf69c74.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Quinta de 12 Hectares com Enorme Potencial em Évora – Oportunidade Ideal para Investidores\n\nEsta propriedade oferece um enorme potencial, sendo uma excelente oportunidade para investidores à procura de um projeto único em Évora. Localizada na entrada principal da cidade, a quinta alia a tranquilidade do campo à proximidade de todas as comodidades urbanas, tornando-se ideal para diversos tipos de desenvolvimento.\n\nCARACTERÍSTICAS PRINCIPAIS:\n\nÁrea Total: 12 hectares, com terreno vasto e uma rica vegetação, incluindo sobreiros, oliveiras, montado de azinho e um poço.\n\nParte Urbana (844 m²): Composta por dois edifícios, somando 844 m² de área construída, oferecendo diversas possibilidades de uso:\n\nPRIMEIRO EDIFÍCIO: \n\nConsiste numa única fração com 12 entradas independentes, oferecendo inúmeras possibilidades de adaptação, como: \n\n- Empreendimento Turístico de Grande Escala: Ideal para ser transformado num alojamento local ou hotel, aproveitando a diversidade de entradas e a configuração do imóvel.\n\n- Habitação Multifamiliar: A estrutura permite a criação de várias unidades residenciais independentes, perfeitas para habitação coletiva ou público jovem, bem como, lofts direcionados para o turismo.\n\nSEGUNDO EDIFÍCIO: \n\nCom 2 quartos, cozinha, sala e mais 5 divisões, este edifício pode ser utilizado como habitação adicional ou apoio logístico para qualquer projeto desenvolvido na propriedade.\n\nPOTENCIAL DE DESENVOLVIMENTO \n\nEsta propriedade tem um enorme potencial para diversos projetos multifuncionais, destacando-se pelo seu potencial turístico, habitacional ou agropecuário. A grande extensão de terreno, a localização estratégica e a flexibilidade da configuração dos edifícios tornam-na uma oportunidade única para investidores.\n\nEsta é a oportunidade de adquirir um imóvel único em uma das regiões mais dinâmicas e em crescimento de Portugal, com uma localização estratégica e um enorme potencial de desenvolvimento.",
+  "geo": {
+    "lat": 38.56919634787443,
+    "lng": -7.947138106104107
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,16 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/83263/2f3b33c0-1ca1-48bf-b984-f7635cf69c74.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 844,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista cidade",
+      "Certificação energética: D",
+      "Vistas: Campo, Cidade"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 687,
+  "area_bruta_m2": 844,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

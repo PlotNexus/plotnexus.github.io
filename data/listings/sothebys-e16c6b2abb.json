@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 339,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81248&foto=1640752&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81248&foto=1640752&f=1",
+  "description": "Esta moradia, recém-construída no Caniço, é ideal para quem valoriza conforto, modernidade e acabamentos de excelência. Com uma área bruta de construção de 339 metros quadrados, esta casa foi projetada para oferecer o máximo de conforto e de bem-estar. Os interiores são amplos, luminosos e bem distribuídos, refletindo um estilo de vida moderno e sofisticado. A zona social e a piscina ficam no primeiro piso, ficando o piso 0 reservado para os três quartos. A casa conta ainda com um quarto espaço que pode ser convertido em escritório, ginásio ou sala de cinema. \n\nNo exterior, esta moradia oferece várias áreas de lazer, contando com uma zona de churrasco e uma piscina privativa, perfeita para aproveitar o clima ameno da Madeira em total tranquilidade e privacidade, assim como uma soberba vista mar. No espaço exterior sobra ainda espaço para um terreno que permite a plantação de árvores de cultivo ou outras finalidades. \n\nEsta moradia fica a 15 minutos do centro do Funchal, com rápido acesso à estrada regional ou à via rápida e a cinco minutos dos principais serviços, como farmácia, supermercados ou restaurantes.",
+  "geo": {
+    "lat": 32.6443193912229,
+    "lng": -16.8306880950927
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81248&foto=1640752&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81248&foto=1640752&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 339,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 339,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

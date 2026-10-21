@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 222,
   "image": "https://cdn.proppy.app/propertyfiles/5115/105732/14e2688e-e669-4962-8798-55d5e3d478a5.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T2+1 para restauro Centro Histórico Viana do Castelo.\n\nEsta Moradia destaca-se pela sua localização com vista de duas frentes uma vista virada para o rio o que torna esta moradia encantadora. Esta bela casa no centro histórico de Viana do Castelo, para recuperar com um lindíssimo projeto aprovado para uma moradia de cave, rés do chão e 1º andar.\n\nNa cave com cerca de 50 m2 está previsto um hall, escritório com entrada de luz natural e um wc de serviço. O rés do chão terá um hall, sala de estar, cozinha e sala de jantar em open space.\n\nNo 1º piso estão previstos 2 quartos com roupeiros, vistas para o Rio e casa de banho completa.\n\nPossui também um estudo para reabilitação e transformação em dois apartamentos.\n\ncom óptimos acessos e uma localização privilegiada.\n\nUma excelente oportunidade para quem gosta de morar nesta bela cidade de Viana do Castelo.\n\nImóvel localizado em zona ARU (área de reabilitação urbana), cujo IVA para construção é de 6%.\n\nMarque a sua visita! .",
+  "geo": {
+    "lat": 41.694047597107456,
+    "lng": -8.834459665820306
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,23 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/105732/14e2688e-e669-4962-8798-55d5e3d478a5.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 222,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista rio, Vista cidade",
+      "Armários embutidos",
+      "Curta distância a pé da praia",
+      "Localização central",
+      "Certificação energética: F",
+      "Acessos: Transportes públicos, Comboio",
+      "Localização: Centro, Beira-mar, Beira-rio",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Comercial",
+      "Vistas: Mar, Rio, Prédios, Cidade"
+    ]
+  },
+  "estado": "Por recuperar",
+  "area_util_m2": 74,
+  "area_bruta_m2": 222,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

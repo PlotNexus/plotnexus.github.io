@@ -9,8 +9,11 @@
   "bathrooms": 5,
   "area_m2": 9,
   "image": "https://cdn.proppy.app/propertyfiles/1525/77928/acdaed19-6132-4380-9398-6806ec021891.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Magnífica Moradia de 6 assoalhadas + 4, em Belverde.\n\nEste maravilhoso imóvel encontra-se implantado em terreno com 1000 m2 e é constituído por:\n\nNa cave - Apartamento com garagem e entrada independente com sala de 30m2 com lareira e cozinha totalmente equipada.\n\nNo piso térreo - Hall com piso em cerâmica e ampla cozinha, 2 salas interligadas, cada com 30m2, com piso em cerâmica ; escritório, 3 quartos de 15 m2 e 2 quartos de 12 m2 com roupeiros; 2 Wc's amplos.\n\n1º piso - sala de jogos com acesso a terraço de 30 m2 e 2 quartos de 25 m2 e sala /quarto de 40 m2 com WC de serviço.\n\nNo exterior - Lago e Fonte; Churrasqueira e forno rústicos em cozinha típica portuguesa/pequena habitação de apoio; logradouro; extensos espaços verdes e jardins. Segunda garagem no exterior.\n\nA moradia está equipada com aquecimento central; ar condicionado; lareira com recuperador; caixilharia lacada a branco e vidros duplos. \n\nEste imóvel localiza-se numa zona residencial perto de serviços e comércio variado, transportes públicos, cafés, restaurantes, escolas, parques de lazer, a 15 minutos das praias da Fonte da Telha, entre outros.\n\nEXCELENTE OPORTUNIDADE, MARQUE A SUA VISITA!\n\nInserida na Rede Imobiliária ComprarCasa (a primeira e única rede imobiliária com Certificação ISO 9001 e a maior Rede Imobiliária Ibérica), a ComprarCasa Foros de Amora nasceu a 1 de Abril de 2017 licenciada com o AMI 12851 (licença de Mediação Imobiliária). A transparência, confiança, compromisso, inovação, trabalho em equipa, qualidade e profissionalismo são os pilares que norteiam a nossa forma de trabalhar.\n\nIntermediário de Crédito vinculado: Ilha Urbana Construções, Lda, registado junto do Banco de Portugal com o número de registo: 0003339. Serviços de Intermediação de Crédito: Apresentação ou proposta de contratos de crédito a consumidores; Assistência a consumidores, mediante a realização de atos preparatórios ou de outros trabalhos de gestão pré-contratual relativamente a contratos de crédito que não tenham sido por si apresentados ou propostos.",
+  "geo": {
+    "lat": 38.599046288938084,
+    "lng": -9.139242109441774
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,61 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1525/77928/acdaed19-6132-4380-9398-6806ec021891.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 9,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Geral": [
+      "Despensa",
+      "Barbecue",
+      "Orientação solar: Sul",
+      "Varanda",
+      "Ano construção: 1985",
+      "Arrecadação",
+      "Armários embutidos",
+      "Terraço topo",
+      "Localização central",
+      "Certificação energética: D",
+      "Varanda: sim",
+      "Terraço",
+      "Garagem",
+      "Lugar de garagem",
+      "Nº carros: mais de 10",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Vistas: Areas verdes",
+      "Acesso deficientes",
+      "Árvores",
+      "Churrasqueira",
+      "Muro",
+      "Logradouro",
+      "Projecto aprovado",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Sul"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Aquecimento",
+      "Ar condicionado",
+      "Área da(s) Sala(s): 40m2",
+      "Lareira",
+      "Recuperador de calor",
+      "Área do(s) Quarto(s): 15m2,15m2,15m2,12m2, 12m2, 25m2,25m2,30m2",
+      "Cozinha equipada",
+      "Área da Cozinha: 24m2",
+      "Cozinha: Microondas, Frigorifico, Exaustor, Máquina lavar e secar roupa, Máquina lavar roupa, Máquina lavar louça, Placa e forno, Placa, Despensa, Combinado, Móveis",
+      "AquecimentoTermico: Eléctrico",
+      "Fogão de sala",
+      "Caixilharia: PVC, Vidros duplos",
+      "Aquecimento água: Eléctrico",
+      "TV por cabo"
+    ]
+  },
+  "estado": "Renovado",
+  "area_util_m2": 458,
+  "area_bruta_m2": 9,
+  "ano_construcao": 1985,
+  "certificacao_energetica": "D"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 403,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82161&foto=1675430&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82161&foto=1675430&f=1",
+  "description": "Moradia T4+3 localizada em Murches, Cascais, inserida num condomínio privado consolidado e reconhecido pela qualidade das suas infraestruturas, amplas áreas verdes, piscina e espaços de lazer. Com 246,8 metros quadrados de área bruta privativa e 403,2 metros quadrados de área bruta de construção, esta propriedade destaca-se pela excelente exposição solar a sul, pela luminosidade natural presente em todas as divisões e pela organização funcional dos seus espaços. Distribuída por três pisos, dispõe no piso principal de sala de estar e sala de jantar com ligação ao exterior, cozinha equipada, despensa, lavandaria, instalação sanitária de apoio e um quarto adicional, ideal para escritório ou quarto de hóspedes. No piso intermédio encontram-se três quartos, um dos quais em suite, complementados por uma casa de banho de apoio. Todos os quartos beneficiam de armários embutidos, boas áreas e excelente luminosidade. No último piso desta moradia podemos destacar três amplos espaços multifuncionais apoiados por uma casa de banho completa, permitindo diferentes utilizações, nomeadamente quartos adicionais, escritório, biblioteca, ginásio, sala de cinema ou zonas de lazer. A moradia dispõe de quatro casas de banho, garagem fechada para duas viaturas, terraço, varandas e amplas áreas de arrumação. O condomínio beneficia de um conjunto de equipamentos pouco comuns na região, incluindo piscina de grandes dimensões, campo de ténis, polidesportivo, anfiteatro, sala de convívio e extensas zonas verdes, proporcionando uma utilização familiar completa em ambiente seguro e reservado. Os espaços comuns permitem a realização de atividades ao ar livre, momentos de lazer e convívio, bem como eventos familiares e festas de aniversário. Localizada numa das zonas residenciais mais procuradas do concelho de Cascais, beneficia da proximidade às praias da linha, ao centro de Cascais, à Serra de Sintra, bem como a comércio, serviços, escolas nacionais e internacionais, hospitais e clínicas privadas e aos principais acessos rodoviários, nomeadamente a A5. A combinação entre áreas generosas, luminosidade, versatilidade dos espaços, qualidade de construção e excelência das áreas comuns faz desta propriedade uma solução diferenciadora para quem procura qualidade de vida numa das localizações mais valorizadas da região de Cascais.\n\nAlgumas das imagens apresentadas incluem Virtual Home Staging, com o objetivo de permitir visualizar o potencial dos espaços.",
+  "geo": {
+    "lat": 38.7344853396932,
+    "lng": -9.44017142057419
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,45 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82161&foto=1675430&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82161&foto=1675430&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 3; Vão de Telhado / Sotão"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Court Ténis",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Pavimento (Mármore)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 403,
-  "area_bruta_m2": null,
+  "area_util_m2": 247,
+  "area_bruta_m2": 403,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 6,
   "image": "https://cdn.proppy.app/propertyfiles/1526/78451/d13b4944-10d2-49f5-a5b7-f2366f8fd49f.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Bem-vindo(a) a uma localização encantadora e dinâmica, onde a conveniência está a apenas alguns passos de distância. Esta moradia requintada, situada na bonita freguesia de Rabo de Peixe, oferece um total de 6 quartos e 2 casas de banho, num espaçoso terreno de 856 metros quadrados e uma área útil de 359,15 metros quadrados. Esta propriedade oferece tudo o que uma família precisa para viver confortavelmente.\n\nAlém de possuir um terraço espaçoso e um jardim encantador, esta propriedade oferece vistas deslumbrantes para a montanha, tornando-a o refúgio perfeito para relaxar e desfrutar da beleza natural dos Açores. A sua localização central torna-a ainda mais atraente, com churrasqueira para reuniões sociais, e armários embutidos para maior conveniência.\n\nLocalizada numa área vibrante, esta propriedade oferece uma seleção de 9 opções de mercearias a menos de 14 minutos de distância, garantindo que todas as suas necessidades estejam ao seu alcance. Além disso, com 4 escolas nas proximidades, incluindo a Escola Básica e Jardim de Infância António Tavares Torres a apenas 2 minutos de distância, esta área oferece um ambiente tranquilo e próspero para famílias.\n\nPara refeições e entretenimento, encontrará opções deliciosas a uma curta distância. Desde a pizzaria Allo Pizza a apenas 8 minutos de caminhada, até ao adorável restaurante O Chocolatinho, onde pode saborear deliciosas criações de chocolate a apenas 12 minutos de distância. Com esta variedade de opções à sua disposição, certamente encontrará algo para satisfazer as suas necessidades culinárias.\n\nAproveite a conveniência e tranquilidade deste bairro vibrante, onde as compras, a educação e as experiências gastronômicas estão ao alcance de uma curta caminhada. Seja você um profissional ocupado, uma família em crescimento ou um apreciador de boa comida, esta localização oferece o equilíbrio perfeito entre comodidades e charme. Venha e descubra o encanto desta área cativante, onde tudo o que precisa está a poucos passos de distância.",
+  "geo": {
+    "lat": 37.809628,
+    "lng": -25.5814025
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,42 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/78451/d13b4944-10d2-49f5-a5b7-f2366f8fd49f.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 6,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Barbecue",
+      "Orientação solar: Norte, Sul",
+      "Armários embutidos",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Terraço",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Farmácia, Escolas",
+      "Zona envolvente: Residencial",
+      "Vistas: Serra",
+      "Churrasqueira",
+      "Muro",
+      "Logradouro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Norte, Sul"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 36,27",
+      "Área do(s) Quarto(s): 18,23",
+      "Área da Cozinha: 28",
+      "Cozinha: Placa",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Madeira",
+      "Aquecimento água: Gás"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 15,
+  "area_bruta_m2": 6,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

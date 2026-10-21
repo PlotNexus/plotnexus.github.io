@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=58788&foto=1252191&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=58788&foto=1252191&f=1",
+  "description": "Apartamento de arquitetura moderna, com construção finalizada, localizado no centro de Carcavelos. Este apartamento com um mezanine de 60 m2, três suites, sala com 40.7 m2 mais escritório, wc social, cozinha. O apartamento tem uma área total de varandas de 19.6 m2.\nDispõe de lugar de garagem para 3 carros.\nBeneficia de uma localização central, que lhe permite o rápido acesso a praias, comércio e serviços. Está próximo de escolas internacionais, 26 kms do Aeroporto Internacional de Lisboa e a 8.5 km de Cascais.",
+  "geo": {
+    "lat": 38.68973,
+    "lng": -9.339109
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,51 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=58788&foto=1252191&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=58788&foto=1252191&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "PVC",
+      "Estores (Eléctricos, Térmicos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Gás Canalizado",
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Gás Canalizado)"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 5,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

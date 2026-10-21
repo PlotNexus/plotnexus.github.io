@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1525/69871/36d58174-d353-4657-b8e2-f4cccb7317f2.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno Urbano de 182m2 para Construção, nos Capuchos.\n\nCom projeto submetido e com viabilidade, à C. M. de Almada.\n\nTerreno residencial em zona limitada e privilegiada dos Capuchos perto de serviços e comércio variado, perto do Convento dos Capuchos e a 5 minutos da Costa da Caparica.\n\nNÃO PERCA ESTA OPORTUNIDADE!\n\nInserida na Rede Imobiliária ComprarCasa (a primeira e única rede imobiliária com Certificação ISO 9001 e a maior Rede Imobiliária Ibérica), a ComprarCasa Foros de Amora nasceu a 1 de Abril de 2017 licenciada com o AMI 12851 (licença de Mediação Imobiliária). A transparência, confiança, compromisso, inovação, trabalho em equipa, qualidade e profissionalismo são os pilares que norteiam a nossa forma de trabalhar.\n\nIntermediário de Crédito vinculado: Ilha Urbana Construções, Lda, registado junto do Banco de Portugal com o número de registo: 0003339. Serviços de Intermediação de Crédito: Apresentação ou proposta de contratos de crédito a consumidores; Assistência a consumidores, mediante a realização de atos preparatórios ou de outros trabalhos de gestão pré-contratual relativamente a contratos de crédito que não tenham sido por si apresentados ou propostos.",
+  "geo": {
+    "lat": 38.6796095,
+    "lng": -9.1565247
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1525/69871/36d58174-d353-4657-b8e2-f4cccb7317f2.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento",
+      "Acessos: Auto-estrada",
+      "Serviços: Supermercados, Escolas",
+      "Zona envolvente: Residencial"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,

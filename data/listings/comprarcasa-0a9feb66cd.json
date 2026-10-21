@@ -9,8 +9,11 @@
   "bathrooms": 4,
   "area_m2": 212,
   "image": "https://cdn.proppy.app/propertyfiles/2032/93050/91872d6c-4a7e-4e8e-8e3e-ca9777c4c57c.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T4 térrea, de design moderno com uma localização de excelência.\n\nDispõe de uma área bruta de construção de 212 m2, jardim e piscina privativa.\n\nDesenvolve-se num único piso térreo e é composta por sala e cozinha em conceito open-space, 4 quartos, dois dos quais suites, 4 casas de banho e lavandaria. Uma das suites com walk-in closet.\n\nAmplas janelas de vidro em todas as divisões, que lhe proporcionam uma grande luminosidade e contacto visual permanente com o jardim.\n\nO exterior desta propriedade destaca-se pela sua piscina privada, jardim e garagem, proporcionando um espaço perfeito para desfrutar do clima ameno e ensolarado da região. Localizada num condomínio privado.\n\nSituada no concelho de Óbidos, esta vila oferece privacidade e segurança, ideal para famílias ou casais que procuram um retiro tranquilo. a poucos minutos das principais praias do Oeste/Silver Coast e pode desfrutar dos campos de Golf.\n\nA apenas 45 minutos de Lisboa, uma excelente oportunidade para habitação própria ou casa de férias.\n\nAgende uma visita agora e deixe-se encantar por este magnífico imóvel.",
+  "geo": {
+    "lat": 39.3790143,
+    "lng": -9.1299755
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,37 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/93050/91872d6c-4a7e-4e8e-8e3e-ca9777c4c57c.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 212,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Condomínio fechado",
+      "Certificação energética: A+",
+      "Garagem",
+      "Nº carros: 2",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Periferia",
+      "Zona envolvente: Residencial, Turística",
+      "Projecto aprovado",
+      "Licença para construção"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Piscina"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Ar condicionado",
+      "Área da(s) Sala(s): 48m2",
+      "Área do(s) Quarto(s): 24m2;14m2;14m2;14m2",
+      "Cozinha equipada",
+      "Cozinha: Exaustor, Placa e forno, Esquentador",
+      "AquecimentoTermico: Eléctrico",
+      "Caixilharia: Alumínio, Vidros duplos, Caixilharia dupla",
+      "Aquecimento água: Eléctrico"
+    ]
+  },
+  "estado": "Em construção",
+  "area_util_m2": 73,
+  "area_bruta_m2": 212,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

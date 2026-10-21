@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1515/83609/c3894f24-92e7-4bed-8921-f84bb1040dcd.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno rústico de 7500 m2 c/ poço, localizado no Baldio do Casado, em Alqueva. \n\nEste terreno não possui qualquer construção habitacional e não tem viabilidade para futuras construções. \n\nA beleza desta propriedade é enriquecida pela presença de 152 oliveiras da variedade de azeitona galega, que contribuem para a cultura e paisagem do local. \n\nÉ um verdadeiro refúgio no campo, oferecendo a oportunidade ideal para a implementação do seu pequeno projeto agrícola.\n\nA poucos metros de distância encontra-se a Praia Fluvial da Amieira, um destino muito procurado por turistas durante a temporada de verão. Além disso, a região oferece uma vasta oferta gastronómica típica do Alentejo, tornando-a ainda mais atrativa. \n\nLocalizada a aproximadamente 60 km de Évora e a 55 km da fronteira com Espanha, esta propriedade oferece uma localização estratégica para quem procura tranquilidade e, ao mesmo tempo, fácil acesso a centros urbanos e atrações turísticas.\n\nPara agendar uma visita ou obter mais informações sobre esta propriedade, não hesite em contactar-nos!",
+  "geo": {
+    "lat": 38.2237260483392,
+    "lng": -7.5217130593833605
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,12 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/83609/c3894f24-92e7-4bed-8921-f84bb1040dcd.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento",
+      "Vistas: Campo"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,

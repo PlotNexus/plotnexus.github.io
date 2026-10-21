@@ -9,7 +9,7 @@
   "bathrooms": null,
   "area_m2": 360,
   "image": "https://cdn.proppy.app/propertyfiles/1497/57522/1df040ed-16d9-4cf7-bdf9-89853b3b3fbf.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
+  "description": "Vende-se lote terreno para construção de pequeno prédio com arrumos na cave, garagens e arrecadações no rés-do-chão, um apartamento tipo T-3 no piso 1, um apartamento tipo T-3 no piso 2. \n\nIMA - Sociedade de Mediação Imobiliária, Lda. Lic. AMI 2473, pertencente ao Grupo IMA , desde 1985, trata-se de uma empresa com elevada dinâmica e experiência ao seu serviço.\n\nEm qualquer momento, os imóveis aqui identificados podem ser reservados, vendidos, retirados de venda ou com preços alterados.",
   "geo": null,
   "source": {
     "name": "ComprarCasa",
@@ -21,10 +21,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1497/57522/1df040ed-16d9-4cf7-bdf9-89853b3b3fbf.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 360,
-  "area_bruta_m2": null,
+  "area_util_m2": 270,
+  "area_bruta_m2": 360,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 96,
   "image": "https://cdn.proppy.app/propertyfiles/1526/68935/6032b604-8508-434c-af3d-bd6efbf1946b.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia de 3 Quartos\n\nPiso Único\n\nArmazém com 279,00 m2\n\nTerreno com 13.040,00 m2\n\nÁrvores de Fruto\n\nVista para o Ilhéu de Vila Franca do Campo\n\nRibeira Seca , freguesia do Concelho de Vila Franca Do Campo, está situada na costa sul da Ilha de S. Miguel, ocupa uma área de cerca de 5.5 km 2 e tem como zonas limítrofes as freguesias da Ribeira das Tainhas a leste e a Freguesia de São Miguel a oeste.\n\nA freguesia atualmente possui cerca de 1000 habitantes.\n\nGrande parte da população da freguesia da Ribeira Seca dedica-se às atividades primárias. Sendo que a produção de banana e produção e tratamento do tradicional vinho de cheiro tem vindo a ter grande importância na economia da Freguesia. Sendo de destacar ainda a atividade pecuária e a construção civil.\n\nA Freguesia da Ribeira Seca é a mais Jovem freguesia do Concelho de Vila Franca do Campo.",
+  "geo": {
+    "lat": 37.7205182,
+    "lng": -25.4245698
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,35 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/68935/6032b604-8508-434c-af3d-bd6efbf1946b.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 96,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Orientação solar: Norte, Sul",
+      "Certificação energética: Isento",
+      "Localização: Periferia",
+      "Serviços: Supermercados, Escolas",
+      "Zona envolvente: Turística",
+      "Vistas: Mar, Serra, Campo",
+      "Árvores",
+      "Muro",
+      "Quintal"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Norte, Sul"
+    ],
+    "Interior": [
+      "Área do(s) Quarto(s): 13",
+      "Área da Cozinha: 22.50",
+      "AquecimentoTermico: Gás",
+      "Caixilharia: Alumínio",
+      "Aquecimento água: Gás",
+      "TV por cabo"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 6,
+  "area_bruta_m2": 96,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

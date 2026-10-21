@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 415,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77741&foto=1591035&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77741&foto=1591035&f=1",
+  "description": "No coração do Magoito, Sintra, com 415 metros quadrados de área de construção, pensada para quem procura conforto e qualidade de vida, a poucos minutos da Praia do Magoito. Esta casa contemporânea, com conclusão prevista para 2026, destaca-se pela conjugação de espaços amplos, luz natural e ligação direta ao exterior.\nDistribuída por dois pisos, esta moradia oferece quatro suítes, cinco casas de banho, varandas, terraço e piscina privativa. No piso térreo tem a cozinha, sala de estar e jantar em open-space, com acesso direto ao terraço e a piscina, uma casa de banho social e uma suite. Neste piso existe ainda uma lavandaria e uma garagem para duas viaturas, contando ainda com mais três lugares de estacionamento cobertos no exterior, com entrada direta para a zona de serviço.\nNo primeiro piso, conta com três suites, todas com acesso a varanda, garantindo conforto e privacidade para todos os membros da família.\nConstruída com acabamentos de qualidade, integra caixilharia de alumínio com corte térmico, vidros de controlo solar, ar condicionado, ventilação forçada, revestimento exterior em capoto, pré-instalação de aquecimento por pavimento radiante e recuperador de calor. A orientação solar nascente, sul e poente assegura luminosidade ao longo de todo o dia.\nA moradia situa-se a cerca de dois km da Praia do Magoito, conhecida pelas suas falésias e areal com elevado teor de iodo. A envolvente combina habitação, comércio local, cafés, restaurantes e áreas naturais preservadas.\nO Aeroporto Internacional de Lisboa encontra-se a apenas 40 minutos, tornando esta moradia isolada no Magoito uma excelente opção para viver com tranquilidade perto do mar, sem abdicar da proximidade a Lisboa.",
+  "geo": {
+    "lat": 38.863457,
+    "lng": -9.4342797
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77741&foto=1591035&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77741&foto=1591035&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 415,
-  "area_bruta_m2": null,
+  "area_util_m2": 316,
+  "area_bruta_m2": 415,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

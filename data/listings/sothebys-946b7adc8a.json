@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79312&foto=1596650&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79312&foto=1596650&f=1",
+  "description": "Situado no coração de Alfama, entre a Graça e o Tejo, o Ando Living Alfama Clubhouse redefine o conceito de habitar Lisboa. Este projeto exclusivo integra 56 apartamentos turísticos — desde estúdios a T3 — distribuídos por três edifícios históricos que preservam a traça pombalina, agora renovada com design contemporâneo e acabamentos de elevada qualidade.\nA intervenção arquitetónica respeita a herança do século XVIII, reinterpretando-a com conforto moderno. Os interiores foram concebidos pela premiada equipa da AvroKO, que valorizou a luz natural, a fluidez entre espaços interiores e exteriores e uma paleta inspirada no ambiente marítimo. O empreendimento oferece piscina no terraço com vista para o Tejo, pátio ajardinado, ginásio, serviços de concierge e receção 24 horas, proporcionando funcionalidade e bem-estar aos residentes.\nA sua localização em Alfama, um dos bairros mais autênticos de Lisboa, permite viver a cidade de forma plena. Próximo de restaurantes típicos, casas de fado, miradouros e da frente ribeirinha, o Ando Living encontra-se igualmente a curta distância do centro histórico, com fácil acesso a transportes públicos, principais eixos rodoviários e serviços essenciais.\nLisboa continua a afirmar-se como um destino de eleição para quem procura qualidade de vida e oportunidades de investimento. O Ando Living Alfama Clubhouse representa uma rara combinação entre tradição, conforto e um modo de vida cosmopolita, onde cada detalhe foi pensado para criar uma experiência residencial única e contemporânea.",
+  "geo": {
+    "lat": 38.7113522,
+    "lng": -9.1361634
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,21 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79312&foto=1596650&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79312&foto=1596650&f=1"
   ],
-  "features": null,
+  "features": {
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 108,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

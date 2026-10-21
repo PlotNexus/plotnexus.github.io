@@ -9,8 +9,11 @@
   "bathrooms": 1,
   "area_m2": 9,
   "image": "https://cdn.proppy.app/propertyfiles/5115/105923/a2367fd2-a80f-428e-870c-f323de6b9045.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "APARTAMENTOM T1\n\nDescubra este apartamento renovado numa das cidades mais encantadoras de Portugal, Viana do Castelo. Com um quarto e uma casa de banho, esta propriedade oferece um refúgio acolhedor no coração da cidade.\n\nLocalizado a poucos minutos de parques deslumbrantes como o Jardim Dom Fernando e o Campo da Agonía, esta casa proporciona uma atmosfera serena e tranquila para relaxar. Com 13 escolas a uma curta distância, incluindo o prestigiado Instituto Politécnico de Viana do Castelo, a educação de qualidade está ao seu alcance.\n\nA rica oferta gastronómica da cidade também está à sua disposição, com uma variedade de restaurantes a poucos passos de distância. Além disso, supermercados, farmácias e até um cinema estão próximos, garantindo conveniência e facilidade no dia a dia.\n\nCom todas estas comodidades e a beleza natural circundante, Viana do Castelo convida-o a explorar um estilo de vida repleto de possibilidades. \n\nMarque já a sua visita e descubra o que esta cidade encantadora tem para lhe oferecer.",
+  "geo": {
+    "lat": 41.692217099999986,
+    "lng": -8.836713291601557
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,23 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/5115/105923/a2367fd2-a80f-428e-870c-f323de6b9045.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista rio, Vista cidade",
+      "Arrecadação",
+      "Armários embutidos",
+      "Curta distância a pé da praia",
+      "Certificação energética: Em curso",
+      "Acessos: Transportes públicos, Comboio",
+      "Localização: Centro, Interior, Beira-rio",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Centro de saude, Policia",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Mar, Rio, Prédios, Cidade"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 9,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

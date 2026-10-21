@@ -8,9 +8,12 @@
   "bedrooms": 8,
   "bathrooms": 4,
   "area_m2": 1590,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=55328&foto=1019500&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=55328&foto=1019500&f=1",
+  "description": "No Alto Alentejo, no centro histórico de Elvas, apenas a 20 quilómetros de Badajoz, 42 quilómetros de Estremoz, 84 quilómetros de Évora e 200 quilómetros de Lisboa, encontramos o maravilhoso Palácio dos Mesquita Pimentel, com 500 anos de história.\n\nSituado no Largo de Santa Clara, um dos lugares mais típicos e mais belos de Elvas, e muito perto da Catedral. O&nbsp;Largo de Santa Clara&nbsp;é composto por uma pitoresca praça triangular com casas senhoriais com brasão, e a&nbsp;Igreja de Nossa Senhora da Consolação. Esta praça fica perto da Porta Árabe do século X, é flanqueada por duas torres e coroada com uma galeria.\n\nO Palácio Mesquita Pimentel foi construído no século XVI por Luís de Mesquita Pimentel, nobre cavaleiro da cidade de Elvas. O Palácio albergou o Rei Filipe II de Espanha em 1580 enquanto este viveu em Elvas antes de partir para Lisboa. Vários meses antes, o Palácio tinha sido alvo de grandes obras executadas pelo arquitecto régio Juan de Herrera, o arquitecto que construíu o Mosteiro do Escorial. Originalmente, o Palácio estava ligado ao edifício situado um pouco mais abaixo, à Porta do Sol, formando apenas um edifício.\n\nO Palácio sofreu algumas alterações nos séculos XVIII e XIX, conservando apenas na fachada lateral, sobre a Rua Tenente Passos e Sousa, uma janela de canto com colunelos, típica da arquitectura espanhola do final do século XVI. No interior do Palácio, encontramos um grande pátio ao qual se acede a partir de um portal coroado pelo brasão dos Mesquita Pimentel.\n\nUm troço impressionante da primeira muralha islâmica atravessa o Palácio. Esta cerca foi construída no século IX, e inclui a antiga Porta do Templo da muralha, com um arco original em ferradura e entrada em cotovelo. \n\nDistribuído por três pisos e com tectos altos ornamentados, o Palácio tem actualmente oito quartos, sete salas, quatro casas de banho, três bibliotecas/escritórios, três lareiras em mármore, duas cozinhas, cinco celeiros com abóbadas, cavalariças, casa da lenha, garagem, vários pátios, terraços, varandas e jardins. No quintal, existe uma cisterna Árabe para rega e um espaço amplo onde se poderia colocar uma piscina.\n\nO Palácio oferece ainda belas vistas panorâmicas da cidade de Elvas e do seu enquadramento idílico e sendo Património, qualifica também para certos benefícios fiscais.\n\nEsta propriedade oferece a oportunidade de criar um Boutique Hotel de Charme repleto de história e cultura e verdadeiramente único e excepcional.",
+  "geo": {
+    "lat": 38.8806682,
+    "lng": -7.1634813
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,46 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=55328&foto=1019500&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=55328&foto=1019500&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Poço"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Cidade",
+      "Jardins",
+      "Panorâmicas",
+      "Pastagens",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 1590,
-  "area_bruta_m2": null,
+  "area_util_m2": 1060,
+  "area_bruta_m2": 1590,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

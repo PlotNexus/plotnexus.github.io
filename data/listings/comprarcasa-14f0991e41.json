@@ -9,7 +9,7 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1523/67961/afefbb6f-63e2-4bde-9a28-8dde6480ddee.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
+  "description": "Terreno com área de 11.000m2.\n\nDispõe de 1600m2 de construção.\n\nSitua-se em zona residencial. A 5 minutos do centro de Fafe.\n\nCom fácil acesso a transportes públicos e à entrada da auto estrada.\n\nPróximo dos principais serviços, tais como, supermercados, hipermercados, hospital, escolas, infantário, etc.\n\nVenha conhecer!!",
   "geo": null,
   "source": {
     "name": "ComprarCasa",
@@ -21,10 +21,19 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1523/67961/afefbb6f-63e2-4bde-9a28-8dde6480ddee.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Ano construção: 1944",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos, Auto-estrada",
+      "Localização: Periferia",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Hospital, Escolas, Infantário, Lar de terceira idade, Universidade, Policia",
+      "Zona envolvente: Residencial"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,
-  "ano_construcao": null,
+  "ano_construcao": 1944,
   "certificacao_energetica": null
 }

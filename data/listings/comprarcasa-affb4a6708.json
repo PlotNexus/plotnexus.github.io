@@ -9,8 +9,11 @@
   "bathrooms": 3,
   "area_m2": 690,
   "image": "https://cdn.proppy.app/propertyfiles/2032/105887/3ad030d4-0e61-4d3d-920b-b3253c41c385.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Esta propriedade dispõe de uma área bruta privativa total de 690m² e está dividida entre rés do chão, primeiro andar e um logradouro.\n\nA moradia foi completamente remodelada e conta com três quartos, uma sala com lareira e cozinha em conceito open space , casa de banho, marquise e terraço. A parte habitacional está localizada no primeiro andar.\n\nNo rés do chão, dispõe de um espaço comercial que anteriormente funcionava como restaurante. Este espaço inclui uma cozinha, casas de banho, arrumos, despensa e amplas salas, sendo ideal para quem deseja iniciar ou expandir uma atividade comercial.\n\nA sua localização privilegiada oferece fácil acesso à Auto Estrada A8, a cerca de 10 minutos de distância, também a uma vasta gama de serviços, lojas, restaurantes, jardins, escolas e excelentes ligações de transportes públicos.\n\nTrata-se do imóvel perfeito para quem pretende criar uma residência única, casa de férias e investimento.\n\nOs Casais da Ponte são uma aldeia do distrito de Leiria e concelho de Caldas da Rainha, situados na prestigiada Costa da Prata/ Silver Coast. A apenas 45 minutos do aeroporto de Lisboa e a uma curta distância da praia, Óbidos e dos prestigiados campos de Golf da Praia Del Rey, Bom Sucesso Resort e West Cliffs.",
+  "geo": {
+    "lat": 39.4231741,
+    "lng": -9.1025742
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,21 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/2032/105887/3ad030d4-0e61-4d3d-920b-b3253c41c385.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 690,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: E",
+      "Terraço",
+      "Localização: Periferia",
+      "Zona envolvente: Residencial",
+      "Logradouro"
+    ],
+    "Interior": [
+      "Lareira"
+    ]
+  },
+  "estado": "Renovado",
+  "area_util_m2": 406,
+  "area_bruta_m2": 690,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 4,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78978&foto=1598078&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78978&foto=1598078&f=1",
+  "description": "Situada num dos pontos mais valorizados de Vilamoura, entre a Rua do México e a Rua do Brasil, perto do Hilton, encontra esta moradia distinta que recebeu o 2º Prémio de Arquitetura Mourisca — um verdadeiro ícone da identidade algarvia.\n\nMantida de forma exemplar, preserva o seu charme original, harmonizando linhas tradicionais com uma atmosfera acolhedora e autêntica. No exterior, o jardim cuidado e a piscina privativa criam um cenário perfeito para dias de tranquilidade.\n\nCom vista parcial para o campo de golfe, a casa oferece uma sala ampla e luminosa, cozinha prática, um quarto no rés-do-chão e dois quartos no piso superior, todos com ótima privacidade. Conta ainda com cave/garagem.\n\nUma oportunidade rara de adquirir uma moradia com história, autenticidade e excelente localização — a poucos minutos da Marina, praias, restaurantes e serviços de referência.\n\nIdeal para viver todo o ano, desfrutar em férias ou como investimento de alto prestígio.",
+  "geo": {
+    "lat": 37.0930911280556,
+    "lng": -8.10535155435333
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78978&foto=1598078&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78978&foto=1598078&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 4,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 4,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 2960,
   "image": "https://cdn.proppy.app/propertyfiles/1526/65731/db48be14-7951-42a4-be18-29b068f8505e.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Descubra a oportunidade de adquirir um terreno único na encantadora freguesia de Água de Pau, em Lagoa (Açores). Com uma área total de 2.960,00 m2, este terreno oferece vistas deslumbrantes para a montanha e uma orientação solar privilegiada, com exposição a norte, sul, este e oeste. \n\nLocalizado a uma curta caminhada de 13 minutos de duas opções gastronómicas tentadoras, o terreno em Caloura proporciona acesso fácil a autênticos restaurantes de frutos do mar, como o Casa de Pasto Marisca e o Caloura Bar Esplanada. Desfrute da hospitalidade acolhedora e das delícias culinárias que definem esta pitoresca vila piscatória, enquanto explora a beleza natural que a rodeia.\n\nÉ terra de produção de vinho com particular predominância para o vinho de cheiro.\n\nAgende já a sua visita e comece a planear o seu futuro em Caloura.",
+  "geo": {
+    "lat": 37.71638863238497,
+    "lng": -25.50472590380576
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,25 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/65731/db48be14-7951-42a4-be18-29b068f8505e.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Orientação solar: Norte, Sul, Este, Oeste",
+      "Ano construção: 1989",
+      "Certificação energética: Isento",
+      "Localização: Periferia, Interior",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Policia",
+      "Zona envolvente: Residencial, Turística",
+      "Vistas: Serra",
+      "Muro"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul, Este, Oeste"
+    ]
+  },
   "estado": null,
   "area_util_m2": 2960,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "area_bruta_m2": 2960,
+  "ano_construcao": 1989,
   "certificacao_energetica": null
 }

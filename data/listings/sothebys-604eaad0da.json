@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67567&foto=1551164&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67567&foto=1551164&f=1",
+  "description": "Localizado no prestigiado Condomínio da Giribita, este magnífico Apartamento duplex no 1º e 2º andar oferece uma oportunidade única de viver à beira-Mar. Com uma área bruta de habitação de 220 m2 + 50 m2 de garagem, este imóvel é uma ótima opção para viver proporcionando uma experiência de vida exclusiva.\n\nCom uma Sala comum de 60 m2, Cozinha, W.C. social e Terraço no 2º piso; os 4 quartos espaçosos situam-se no 1º piso, uma Master suíte, uma Suíte e dois Quartos com um W.C. de apoio, o apartamento oferece conforto para a vida quotidiana. O terraço privativo é um convite para desfrutar de momentos relaxantes ao ar livre, complementando a elegância e funcionalidade do espaço interior com o exterior. Tem também uma garagem e arrecadação de aproximadamente 50 m2, para 2 carros, já preparada para o carregamento dos V.E.\n\nIntegrado no Condomínio fechado da Giribita, com porteiro, este imóvel mantem a qualidade e o requinte. O condomínio tem uma vista de Mar privilegiada, jardim e piscina e proporciona uma atmosfera tranquila que elevam a experiência de viver neste local.\n\nConstruído em 2003, o edifício possui elevador, garantindo comodidade e acessibilidade. A exposição solar do Sul e Poente proporciona iluminação natural durante todo o dia.\n\nA proximidade a serviços essenciais, como supermercados a 5 minutos de distância de carro e em “walking distance” tem restaurantes a 10 minutos, 15 minutos da estação de comboios o que destaca a conveniência desta localização única. Além disso, encontra-se a apenas a uma curta distância das principais vias, facilitando a mobilidade.\n\nViva o estilo de vida costeiro com a proximidade ao passeio marítimo de Oeiras, no qual proporciona uma atmosfera vibrante e rejuvenescedora. \n\nEste é um convite para adquirir um imóvel que combina elegância, localização privilegiada e comodidades modernas. Não perca a oportunidade de tornar este apartamento duplex na Giribita a sua nova Casa à beira-mar. Entre em contacto para agendar uma visita e descobrir todos os detalhes deste espaço exclusivo.",
+  "geo": {
+    "lat": 38.69785,
+    "lng": -9.283937
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,22 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67567&foto=1551164&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67567&foto=1551164&f=1"
   ],
-  "features": null,
+  "features": {
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Mar"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 86,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

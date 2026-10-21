@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77951&foto=1596245&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77951&foto=1596245&f=1",
+  "description": "Situada na prestigiada zona da Ajuda, em São Martinho, esta moradia de assinatura do arquiteto Paulo David distingue-se pela sua arquitetura contemporânea e pela vista deslumbrante sobre o oceano. Com orientação solar a sul, nascente e poente, oferece uma luminosidade excecional ao longo de todo o dia.\n\nConstruída em 2021, dispõe de 437 metros quadrados de área bruta e 301 metros quadrados de área privativa, com 80 metros quadrados de varandas. Composta por quatro quartos, sendo que dois são em suite, três casas de banho, cozinha moderna totalmente equipada, sala de jantar e ampla sala de estar com ligação fluida aos espaços exteriores. Dispõe ainda de garagem com capacidade para três viaturas e arrecadação.\n\nLocalizada numa área tranquila e consolidada, a poucos minutos de escolas, supermercados, hospitais, restaurantes e com rápido acesso à via rápida e ao centro do Funchal, esta moradia representa o equilíbrio perfeito entre conforto, privacidade e design arquitetónico de excelência.",
+  "geo": {
+    "lat": 32.6517631466256,
+    "lng": -16.9325763702393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77951&foto=1596245&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77951&foto=1596245&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 301,
+  "area_bruta_m2": 301,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

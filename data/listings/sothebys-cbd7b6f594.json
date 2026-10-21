@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 270,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79720&foto=1661383&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79720&foto=1661383&f=1",
+  "description": "Descobre esta moradia recém-construída em Caxias, Oeiras, um verdadeiro refúgio de tranquilidade urbana. Esta moradia isolada destaca-se pela sua total privacidade com bons acessos às vias principais para chegar rápidamente a Lisboa ou a Cascais. Desenvolve-se em três pisos bem distribuídos em 270 m² de área bruta de construção. Esta propriedade oferece o equilíbrio perfeito entre design moderno e conforto funcional. No piso inferior, encontra-se uma entrada acolhedora, uma sala multiuso e uma arrecadação espaçosa. O espaço destinado a estacionamento prevê estacionamento para dois carros, está equipado com carregamento de carros elétricos e ainda tem um espaço adicional para até três veículos ao ar livre. O piso térreo é o coração da casa, destacando-se pela cozinha em open space ao lado de uma sala iluminada virada a sul, proporcionando um ambiente perfeito para momentos em família e acesso direto ao jardim com piscina de com água tratada com sal. Este piso conta ainda com uma lavandaria funcional, um quarto ou escritório versátil e uma casa de banho completa com duche. Subindo ao piso superior, encontramos uma suite com closet e varanda, oferecendo um espaço privado e confortável. Dois quartos adicionais com varandas constroem a área de descanso, completados por uma casa de banho completa de apoio a estes dois quartos. A propriedade está equipada com ar condicionado, aquecimento de águas por bomba de calor e painéis solares, garantindo eficiência energética com certificado classe B. A localização é uma mais-valia, estando numa zona calma, mas com excelentes acessos. Aproveita o melhor do clima e do conforto moderno nesta fantástica moradia.",
+  "geo": {
+    "lat": 38.6962533320445,
+    "lng": -9.30527961528321
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,40 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79720&foto=1661383&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79720&foto=1661383&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 270,
-  "area_bruta_m2": null,
+  "area_util_m2": 180,
+  "area_bruta_m2": 270,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

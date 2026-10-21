@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81027&foto=1685240&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81027&foto=1685240&f=1",
+  "description": "Charmoso duplex com terraço, inserido num edifício do século XIX, onde o carácter histórico se alia a um ambiente acolhedor e sofisticado.\n\nCom uma área de aproximadamente 160 m² no piso térreo e 15 m² na cave, esta propriedade dispõe ainda de um agradável logradouro e de um terraço com cerca de 20 m², criando uma ligação harmoniosa entre os espaços interiores e exteriores.\n\nLocalizado no prestigiado Príncipe Real, a escassos metros do emblemático Jardim do Príncipe Real, beneficia de uma localização privilegiada numa das zonas mais exclusivas de Lisboa.\n\nO imóvel preserva elementos originais de grande valor, como tetos altos, pavimento em madeira maciça, janelas e portadas típicas da arquitetura pombalina, complementadas por elegantes molduras e persianas em madeira natural.\n\nO espaço exterior assume particular destaque, oferecendo o cenário ideal para momentos de lazer, convívio e tranquilidade em pleno coração da cidade.\n\nUma propriedade única, repleta de charme e autenticidade.",
+  "geo": {
+    "lat": 38.7167664,
+    "lng": -9.1501136
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81027&foto=1685240&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81027&foto=1685240&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 168,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

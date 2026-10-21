@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 7,
   "area_m2": 91,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68747&foto=1359835&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68747&foto=1359835&f=1",
+  "description": "Localizada na cidade de Espinho, esta moradia, de finais do século 19, totalmente remodelada mantendo a traça histórica, de seis quartos é verdadeiramente notável. Com quatro suítes e sete casas de banho, oferece um espaço luxuoso e confortável para a sua família, dispondo, ainda, de estacionamento para dois carros e um terraço espaçoso.\n\nNo piso térreo, encontrará três quartos, duas casas de banho, uma cozinha em open space integrada com a sala e uma área de lavandaria versátil que pode ser transformada numa sala de jogos ou escritório.\n \nJá no piso superior, encontramos duas suítes com closets generosos, uma casa de banho de serviço e cozinha totalmente equipada, juntamente com uma ampla sala de estar e jantar, ligada a um agradável terraço virado a poente.\n\nO último piso destaca-se por um salão fantástico com mais de 50 metros quadrados, com amplas janelas, proporcionando luz natural, tendo, ainda uma vista para o mar. Juntamente, com mais uma casa de banho de serviço e um quarto suíte, proporcionando bastante conforto e comodidade.\n\nA proximidade a serviços, 350 metros de distância praia e a facilidade de acesso às principais vias tornam esta propriedade uma escolha única.\n\nA exposição solar nascente, poente, sul e norte cria uma atmosfera única em todos os espaços da casa.\n\nCom todas as comodidades próximas, desde estabelecimentos de restauração a escolas e hospitais, a localização é privilegiada.",
+  "geo": {
+    "lat": 41.00719,
+    "lng": -8.641033
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68747&foto=1359835&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68747&foto=1359835&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 91,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 91,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

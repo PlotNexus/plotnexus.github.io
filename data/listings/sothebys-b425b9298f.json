@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83406&foto=1708883&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83406&foto=1708883&f=1",
+  "description": "No coração do Príncipe Real, integrado num dos mais prestigiados condomínios residenciais de Lisboa, este apartamento oferece um equilíbrio singular entre arquitetura contemporânea, conforto e natureza. Uma morada onde a energia da cidade dá lugar à serenidade de jardins privados.\n\nCom duas amplas suítes e três casas de banho, os interiores revelam uma distribuição harmoniosa, pensada para proporcionar privacidade e fluidez entre os espaços. A cozinha em conceito aberto integra-se na generosa sala de estar, criando um ambiente luminoso e convidativo, que se prolonga naturalmente para o terraço.\n\nVoltado para os jardins do condomínio, este espaço exterior convida a desfrutar de momentos de tranquilidade numa envolvente de inspiração tropical. O cuidado paisagístico e a sua relação com a arquitetura conferem ao conjunto uma atmosfera reservada, em pleno centro de Lisboa.\n\nO conforto é assegurado pelo ar condicionado quente e frio e pelo piso radiante nas casas de banho. Os painéis solares e a classificação energética A complementam as características do imóvel, que dispõe ainda de um lugar de estacionamento privativo com carregamento para veículo elétrico.\n\nO condomínio oferece serviços de porteiro, concierge e segurança 24 horas, proporcionando comodidade e tranquilidade no quotidiano.\n\nA localização permite usufruir da identidade cosmopolita do Príncipe Real, entre jardins, boutiques, restaurantes e espaços culturais. A proximidade à Avenida da Liberdade, ao Chiado, a São Bento e ao Largo do Rato, bem como os acessos às Amoreiras e ao El Corte Inglés, acrescenta conveniência a uma vivência marcada pela centralidade.\n\nUma residência distinta para quem valoriza a privacidade, o conforto e o privilégio de viver Lisboa com a natureza como cenário.\n\nClasse Energética: A",
+  "geo": {
+    "lat": 38.716482,
+    "lng": -9.1533875
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,21 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83406&foto=1708883&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83406&foto=1708883&f=1"
   ],
-  "features": null,
+  "features": {
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 160,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

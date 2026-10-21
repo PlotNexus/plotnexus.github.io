@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 297,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78147&foto=1583573&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78147&foto=1583573&f=1",
+  "description": "Situada na Ribeira Brava, na tranquila zona da Banda de Além, esta moradia T3 de linhas contemporâneas, orientada a sul, oferece uma vista soberba sobre o mar e a envolvente paisagem rural, proporcionando uma atmosfera de serenidade e bem-estar.\n\nDistribuída por três pisos, destaca-se pela funcionalidade e amplitude dos espaços. No piso térreo encontra-se uma ampla garagem com capacidade para oito viaturas, zona de arrumos e uma prática cozinha de apoio à área exterior com churrasqueira. No primeiro piso situam-se as zonas sociais — sala de estar, sala de jantar e cozinha em open space —, um quarto e uma casa de banho completa. A varanda deste piso convida à contemplação da magnífica vista sobre o oceano.\n\nO segundo piso é dedicado à área privada, com duas espaçosas suítes de cerca de 19 metros quadrados cada e uma varanda comum com vista panorâmica. No exterior, um agradável jardim com pérgola confere identidade e charme à propriedade, oferecendo espaço suficiente para a construção de uma piscina.\n\nAnexa à moradia, encontra-se uma parcela de terreno com cerca de 1761 metros quadrados, ideal para a construção de novas moradias, ampliação das zonas ajardinadas ou aproveitamento agrícola, beneficiando de um clima propício ao cultivo de frutos tropicais — um verdadeiro potencial de investimento.\n\nApesar da envolvente tranquila, a propriedade situa-se a apenas cinco minutos do centro da Ribeira Brava, com acesso rápido à via rápida em direção ao Funchal, ao aeroporto ou à costa oeste da ilha. Uma moradia que alia conforto, privacidade e grande potencial num cenário natural privilegiado.",
+  "geo": {
+    "lat": 32.6695824524426,
+    "lng": -17.0655509010498
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,41 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78147&foto=1583573&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78147&foto=1583573&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 1; Nº Pisos: 3"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado, Vidro (painéis))"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 130; Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Mar",
+      "Panorâmicas"
+    ]
+  },
   "estado": null,
   "area_util_m2": 297,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 297,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

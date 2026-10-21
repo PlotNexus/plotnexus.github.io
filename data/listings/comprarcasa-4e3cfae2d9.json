@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1515/78321/9cbd1498-2b4f-4b01-85d4-b32397066e7a.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno urbano para construção na Tapada do Alborro, em Reguengos de Monsaraz. Um excelente oportunidade de investimento!\n\nO terreno tem 51250 m2 de área total e poderá ser loteado, tendo viabilidade de construção para habitação, comércio e serviços.\n\nEncontra-se parcialmente murado, sendo enriquecido com cultura arvense e olival.\n\nDestaca-se a sua localização, perto de zona residencial e da praça de touros de Reguengos de Monsaraz, tendo bons acessos.\n\nBoa oportunidade de investimento visto que a cidade de Reguengos de Monsaraz proporciona a quem nela habita uma excelente qualidade de vida, oferecendo aos seus habitantes um vasto conjunto de comércio e serviços, mas também infraestruturas turísticas, devido ao crescimento do setor no concelho.\n\nContacte-nos para visita ou para mais informações!",
+  "geo": {
+    "lat": 38.41953,
+    "lng": -7.536584
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,17 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/78321/9cbd1498-2b4f-4b01-85d4-b32397066e7a.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada",
+      "AquecimentoTermico: Eléctrico",
+      "Aquecimento água: Eléctrico"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,
