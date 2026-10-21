@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 5,
   "area_m2": 443,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68698&foto=1313432&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68698&foto=1313432&f=1",
+  "description": "Bem-vindo a esta impressionante e moderna villa, situada numa pequena urbanização pacata e pitoresca perto da vibrante cidade de Albufeira, na região do Algarve. Construída há apenas dois anos, esta luxuosa residência exibe elegância contemporânea e oferece uma experiência de um estilo de vida incomparável.\n\nAo se aproximar da propriedade, você será recebido pelo seu design exterior elegante, caracterizado por linhas limpas, varandas e janelas amplas que permitem a entrada de muita luz natural nos espaços de convívio. Localizada num terreno elevado, a villa oferece belas vistas da paisagem circundante.\n\nDesenvolvendo-se por três pisos, esta espaçosa villa é composta por cinco quartos, quatro deles em suite em que cada um dispõe de uma varanda privativa. Um quarto está convenientemente localizado no piso térreo, ideal para hóspedes ou como suíte master, enquanto os outros quatro quartos estão situados no segundo andar, garantindo privacidade e tranquilidade.\n\nNo piso térreo, você encontra uma cozinha aberta contemporânea equipada com eletrodomésticos de última geração e amplo espaço de armazenamento. Adjacente à cozinha, há uma sala de estar e, para reuniões mais formais, uma sala de jantar separada oferece um ambiente elegante com amplas janelas que emolduram vistas dos arredores exuberantes. Do outro lado, há uma casa de banho social.\nSuba até o terraço no último piso e admire as vistas deslumbrantes da área verde circundante com a cidade de Albufeira e o Oceano Atlântico. Este espaço amplo está preparado para receber um jacuzzi. Será o local perfeito para relaxar e desfrutar do pôr do sol.\n\nOutro destaque desta propriedade é o seu espaço ao ar livre. O adorável jardim com oliveiras antigas, uma piscina de tamanho generoso e o grande terraço são projetados para relaxar e entreter.\n\nEstacionamento nunca é um problema com a opção de estacionamento na cave e demais. Além disso, a villa conta com aspiração centralizada, ar condicionado em todas as divisões e painéis solares para eficiência energética e sustentabilidade.\n\nA localização privilegiada perto de Albufeira oferece aos moradores fácil acesso a todas as comodidades, incluindo praias privilegiadas, campos de golfe de classe mundial, vida noturna vibrante e encantadoras lojas e restaurantes locais. Seja para uma residência permanente ou um retiro de férias luxuoso, esta villa moderna oferece uma vida contemporânea num dos destinos mais procurados de Portugal.",
+  "geo": {
+    "lat": 37.0832625257944,
+    "lng": -8.28645006881714
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,69 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68698&foto=1313432&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68698&foto=1313432&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Estores Eléctricos",
+      "Gás Canalizado",
+      "Rega Automática",
+      "TV-Cabo",
+      "Alarme (CCTV, Completo)",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Pavimento (Marmorite)",
+      "Paredes (Monomassa, Pintadas, Tijoleira)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Jardins, TV Cabo)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Cidade",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 443,
-  "area_bruta_m2": null,
+  "area_util_m2": 295,
+  "area_bruta_m2": 443,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

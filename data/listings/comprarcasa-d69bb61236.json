@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1505/65091/024965b9-0d2f-4a50-a8f4-1066e839210c.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno rústico, com 8555 m2, \n\nLocalizado na freguesia de São Sebastião, no Areeiro Ponta da Ribeira Seca. \n\nIdeal para a exploração de atividades de agropecuária, \n\nAcesso fácil com transporte e mesmo a pé.\n\nTerreno com potencial para gado, ou outro tipo de criação, bem dividido e limpo.\n\nZona como poucas habitações onde a vizinhança é maioritariamente terrenos rústicos de exploração agrícola.\n\nVila de São Sebastião é uma vila e uma freguesia do município de Angra do Heroísmo, situada no sueste da ilha Terceira.",
+  "geo": {
+    "lat": 38.68077191773244,
+    "lng": -27.096805836674502
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,7 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/65091/024965b9-0d2f-4a50-a8f4-1066e839210c.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,

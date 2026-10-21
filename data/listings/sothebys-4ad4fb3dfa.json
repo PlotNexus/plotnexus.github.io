@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 400,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83164&foto=1711899&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83164&foto=1711899&f=1",
+  "description": "Na deslumbrante paisagem da Ponta do Pargo, junto ao futuro campo de golfe, encontra-se esta exclusiva moradia contemporânea T3, onde a arquitetura moderna se integra harmoniosamente com a natureza envolvente e a vista infinita sobre o Atlântico.\n\nProjetada com elevados padrões de qualidade, a propriedade destaca-se pelos acabamentos premium, pela luminosidade natural e pela fluidez entre os espaços interiores e exteriores.\n\nCom três suites elegantes, todas com casa de banho privativa, a master suite oferece um verdadeiro refúgio, com amplo closet e varanda privada com vista mar.\n\nA zona social apresenta uma ampla sala de estar com janelas panorâmicas, cozinha totalmente equipada com materiais de excelência e uma ligação direta ao exterior, promovendo uma vivência interior-exterior contínua.\n\nNo exterior, a piscina privativa, os terraços ensolarados e o jardim cuidadosamente paisagístico criam o cenário perfeito para momentos de lazer, sempre com o oceano como pano de fundo.\n\nInserida num ambiente de elevada tranquilidade e exclusividade, esta moradia representa uma oportunidade única para quem procura luxo, privacidade e contacto direto com a natureza.",
+  "geo": {
+    "lat": 32.81009,
+    "lng": -17.25186
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83164&foto=1711899&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83164&foto=1711899&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 400,
-  "area_bruta_m2": null,
+  "area_util_m2": 232,
+  "area_bruta_m2": 400,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

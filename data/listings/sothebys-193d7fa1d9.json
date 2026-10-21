@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 337,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80079&foto=1626161&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80079&foto=1626161&f=1",
+  "description": "Moradia T4 em banda, situada em Nevogilde, Porto, com uma localização privilegiada junto ao Parque da Cidade, numa das zonas residenciais mais procuradas da cidade. Trata-se de uma oportunidade particularmente interessante para quem procura uma moradia familiar numa zona tranquila e com grande proximidade a zonas verdes e ao mar, tal como, aos principais eixos urbanos do Porto.\nCom 337 m² de área bruta de construção e 218 m² de área bruta privativa, esta moradia, construída em 1988, desenvolve-se ao longo de quatro pisos e beneficia de uma boa exposição solar dada a sua localização. \nNo piso térreo, a zona social é composta por um hall de entrada, sala de estar e de jantar, e a cozinha. No primeiro piso localizam-se os quatro quartos e duas casas de banho completas, proporcionando uma clara separação entre as áreas sociais e privadas. O último piso, em sótão, oferece um espaço versátil que pode ser utilizado como escritório, sala de jogos ou sala multifunções, adequando-se facilmente a diferentes estilos de vida. Inclui também três lugares de estacionamento em garagem ao nível da cave, onde se encontram ainda zonas de arrumação com acesso direto ao jardim nas traseiras. \nA localização é um dos principais fatores de valorização deste imóvel. A poucos minutos a pé do Parque da Cidade do Porto, permite usufruir de amplas zonas verdes, percursos pedonais e áreas de lazer. A Avenida da Boavista encontra-se nas proximidades, assegurando rápidos acessos ao centro da cidade, à zona da Foz e às principais vias rodoviárias, tal como, encontra-se a menos de 1 km das praias do Porto, nomeadamente da zona do Castelo do Queijo. Esta moradia beneficia ainda da proximidade a comércio, serviços, restauração e supermercados. A área envolvente é predominantemente residencial, com moradias e ruas tranquilas, sendo igualmente uma mais-valia a curta distância às principais escolas internacionais do Porto, o que reforça o seu potencial como residência permanente para famílias.\nEsta moradia em Nevogilde representa uma excelente opção para quem procura viver numa zona consolidada do Porto, com boa acessibilidade, espaços exteriores, dimensão acima da média e forte potencial de valorização.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80079&foto=1626161&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80079&foto=1626161&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 4; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 337,
-  "area_bruta_m2": null,
+  "area_util_m2": 218,
+  "area_bruta_m2": 337,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

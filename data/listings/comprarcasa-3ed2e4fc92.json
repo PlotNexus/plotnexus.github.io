@@ -9,8 +9,11 @@
   "bathrooms": 2,
   "area_m2": 198,
   "image": "https://cdn.proppy.app/propertyfiles/1526/65054/7bb1a749-be5b-4861-91a0-15d06ff810bc.png?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Moradia de 4+1 Quartos\n\n3 Salas de Estar\n\n2 Wc's\n\nQuintal\n\nLogradouro \n\nCentro da Freguesia da Ribeirinha\n\nA freguesia da Ribeirinha, com uma área de aproximadamente 18,05km2, confronta com o mar e com as freguesias de Nossa Senhora da Estrela e Porto Formoso (concelho da Ribeira Grande).\n\nO topónimo Ribeirinha deriva do curso de água que neste lugar raramente terá revestido o carácter torrencial, tão frequente nas ilhas açorianas.",
+  "geo": {
+    "lat": 37.8276966,
+    "lng": -25.4996645
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,41 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/65054/7bb1a749-be5b-4861-91a0-15d06ff810bc.png?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 198,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Orientação solar: Norte, Sul",
+      "Ano construção: 1975",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Supermercados, Farmácia, Escolas",
+      "Zona envolvente: Residencial",
+      "Vistas: Serra",
+      "Árvores",
+      "Muro",
+      "Logradouro",
+      "Quintal",
+      "Data construção: 1975"
+    ],
+    "Exterior": [
+      "Jardim",
+      "Orientação Solar: Norte, Sul"
+    ],
+    "Interior": [
+      "Área da(s) Sala(s): 24,22",
+      "Área do(s) Quarto(s): 16,19",
+      "Área da Cozinha: 16,44",
+      "Cozinha: Esquentador",
+      "Caixilharia: Alumínio",
+      "Aquecimento água: Gás",
+      "TV por cabo"
+    ]
+  },
+  "estado": "Usado",
+  "area_util_m2": 180,
+  "area_bruta_m2": 198,
+  "ano_construcao": 1975,
   "certificacao_energetica": null
 }

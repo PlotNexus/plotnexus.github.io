@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77988&foto=1600458&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77988&foto=1600458&f=1",
+  "description": "Apartamento com três suites, com 161 metros quadrados de área bruta privativa, inserido no moderno e icónico prédio Miramar Tower, localizado na Foz do Douro. A zona social, orientada a Sul e Poente, apresenta uma sala comum com 44 metros quadrados que comunica diretamente com o cozinha e com a varanda com 39 metros quadrados, com vista sobre o rio Douro. A zona privada é composta por três suites, a master suite com closet, é servida por uma varanda, a poente, com 22 metros quadrados. As casas de banho das suites têm luz natural. Escolha cuidada nos acabamentos, com caixilharias minimalistas Ecosteel, fachada de betão à vista, casas de banhos com louças suspensas e revestimentos e pavimentos em mármore compacto, cozinha lacada GNEISSE, eletrodomésticos da Miele, pavimentos multicamada em carvalho, armários embutidos lacados, climatização assegurada por ar condicionado por conduta oculta, bomba de calor com painéis solares térmicos para cada apartamento. Três frentes, orientado a Norte, Sul e Poente. Dotado de três lugares de estacionamento e um arrumo. A Miramar Tower é um projecto do prestigiado gabinete de arquitectura OODA, que conceberam um edifício de arquitectura contemporânea e disruptiva, com predominância do vidro, conferindo muita luminosidade e transparência, privilegiando os espaços exteriores e as vistas inigualáveis sobre a Foz e o Rio Douro. O layout numa linguagem muito funcional, permite uma vivência única onde existe uma metamorfose entre o interior e o espaço exterior: sala comum e cozinha comunicantes, zona dedicada ao tratamento de roupa, casa de banho social, a sala de jantar acompanhada por uma majestosa área exterior com que metros quadrados, proporciona fins de tardes únicos a contemplar o pôr-do-sol.Proximidade a comércio e serviços, escolas e colégios de referência. Na vizinhança, é ainda possível encontrar diversas zonas de lazer como o Parque da Pasteleira, o Parque de Serralves a marginal e o Jardim do Passeio Alegre, proporcionando a prática de atividade física e caminhadas. As praias da Foz estão a uma curta caminhada.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,54 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77988&foto=1600458&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77988&foto=1600458&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Térmico)",
+      "Pavimento (Granito)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur, Focos)",
+      "Equipamento (Casa Recolha Lixo, Jardins, Sala Condomínio, Ventilação Mecânica, Video-Porteiro, Zelador / Porteiro)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 37.5; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 98,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

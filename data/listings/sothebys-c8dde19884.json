@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75360&foto=1499080&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75360&foto=1499080&f=1",
+  "description": "Penthouse Exclusiva a estrear, de tipologia T2 com 200m² mais espaços exteriores, assinada pelo conceituado Arquiteto Pardal Monteiro em prédio recém construído, vista rio, varandas e 2 lugares de garagem.\n\nApresentamos esta magnífica Penthouse T2, uma verdadeira joia arquitetônica situada num dos mais prestigiados edifícios da autoria do reconhecido Arquiteto Pardal Monteiro. Com uma área generosa de 200m², este imóvel conjuga elegância intemporal com conforto contemporâneo, num ambiente de absoluta exclusividade.\n\nComposta por duas amplas suítes – ambas com closet – esta penthouse oferece um layout sofisticado e funcional. A sala de estar, luminosa e acolhedora, é enquadrada por três das sete janelas com vista desafogada para o Rio Tejo, criando um cenário de rara beleza natural.\n\nA cozinha, totalmente equipada, dispõe de uma ampla despensa, ideal para quem aprecia praticidade e organização. Conta ainda com ar condicionado, aquecimento central e acabamentos de luxo em todos os espaços.\n\nA varanda generosa convida a momentos de contemplação e lazer ao ar livre, enquanto os dois lugares de estacionamento asseguram total conveniência no dia a dia.\n\nSituada numa localização privilegiada, com fácil acesso a transportes públicos e comércio – incluindo o Continente a poucos metros – esta penthouse é a escolha ideal para quem procura qualidade de vida, sofisticação e centralidade.",
+  "geo": {
+    "lat": 38.7260490796279,
+    "lng": -9.11273002616667
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,63 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75360&foto=1499080&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75360&foto=1499080&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Portadas",
+      "PVC",
+      "Velux / Telhado",
+      "Vidro Duplo",
+      "Estores (Eléctricos, PVC, Térmicos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Estores Eléctricos",
+      "Gás Canalizado",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (Pré-Instalação)",
+      "Música Ambiente (Pré-Instalação)",
+      "Aspiração Central (Pré-Instalação)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Cerâmica, Monomassa)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 201,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

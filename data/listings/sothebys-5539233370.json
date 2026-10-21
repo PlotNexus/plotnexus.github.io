@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81525&foto=1648632&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81525&foto=1648632&f=1",
+  "description": "Inserida no exclusivo empreendimento AVANT GARDEN, esta fração T3 destaca-se pela sua atmosfera de tranquilidade, luminosidade e sofisticação discreta, proporcionando uma forma de viver onde o conforto e a qualidade de vida assumem verdadeiro protagonismo. Com uma área interior de 166m², esta habitação foi pensada para oferecer uma vivência harmoniosa entre os espaços interiores e exteriores, ideal para quem valoriza privacidade, bem-estar e funcionalidade no dia a dia. Situada no primeiro piso, beneficia de três suítes e uma casa de banho social. Destaque para a sala de 42m2 e cozinha de 9m2 em open space, com saída para uma varanda de 13m2, características que reforçam o caráter único da fração e a sua ligação a um estilo de vida mais sereno e exclusivo. Integrada num condomínio de ambiente reservado, com jardim comum e piscina exterior, esta unidade permite usufruir de um enquadramento raro na Foz do Porto, onde a centralidade se conjuga com a calma, a discrição e a proximidade ao mar, a zonas verdes, comércio, serviços e restauração. Complementada por 2 lugares de estacionamento e arrumos, esta fração constitui uma excelente oportunidade para habitação própria ou investimento, reunindo os atributos certos para quem procura uma casa com identidade, conforto e localização premium.",
+  "geo": {
+    "lat": 41.15884,
+    "lng": -8.652817
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,40 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81525&foto=1648632&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81525&foto=1648632&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Termolacada"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Garagem": [
+      "Área (m2): 41"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 166,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

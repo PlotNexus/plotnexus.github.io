@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 4380,
   "image": "https://cdn.proppy.app/propertyfiles/1526/71435/71238062-a526-4227-af00-df6bff91daa8.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno Rústico com 4.380,00 m2\n\nCentralidade\n\nProximidade de Zona Balnear\n\nVista Mar e Serra\n\nSanto António é uma freguesia portuguesa do município de Ponta Delgada, com 11,73 km² de área e 1 829 habitantes (2011). A sua densidade populacional é 155,9 hab/km².\n\nSituada na costa norte do concelho, dista cerca de 18 quilómetros de Ponta Delgada. Confronta com o mar e com as freguesias de Capelas, Feteiras, Sete Cidades e Santa Bárbara.\n\nFreguesia com grande desenvolvimento nos últimos anos (2006) muito devido à melhoria da rede viária e no forte investimento no turismo em zonas tais como: Zona balnear do Rosário, zona de lazer do Rosário,Largo da Mourisca,Miradouro da Fonte Grande, recuperação das pias etc,em termos de infraestruturas e valores humanos, mantendo contudo a sua traça tradicional. Detém no ramo do Turismo a Casa do Monte - unidade de Turismo de Habitação, entre outros, restaurante 4 Plátanos, entre outros. Dista apenas 18 km do Centro de Ponta Delgada.\n\nLocaliza-se a uma latitude de 37°51' norte e a uma longitude de 25°42' oeste.\n\nA atividade principal é a agricultura.",
+  "geo": {
+    "lat": 37.8573209,
+    "lng": -25.7028517
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,26 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/71435/71238062-a526-4227-af00-df6bff91daa8.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Orientação solar: Norte, Sul, Este, Oeste",
+      "Localização central",
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Escolas",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Serra",
+      "Muro"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul, Este, Oeste"
+    ]
+  },
   "estado": null,
   "area_util_m2": 4380,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 4380,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

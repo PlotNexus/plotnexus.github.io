@@ -8,9 +8,12 @@
   "bedrooms": 15,
   "bathrooms": 4,
   "area_m2": 480,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76815&foto=1548899&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76815&foto=1548899&f=1",
+  "description": "Licenciada em 1930 e projetada pelo arquiteto Augusto dos Santos Malta, esta moradia independente representa um testemunho da expansão residencial do Porto nas primeiras décadas do século XX. Formado na Escola de Belas-Artes do Porto, Augusto dos Santos Malta pertence à geração de arquitetos que marcou o crescimento urbano de Campanhã, Bonfim, Paranhos e Ramalde, sendo igualmente autor do projeto do Colégio Alemão do Porto e coautor da Sinagoga Kadoorie – Mekor Haim, a maior sinagoga da Península Ibérica e uma das mais relevantes obras da arquitetura Art Déco em Portugal.\n\nCom 430 m² de área bruta privativa, distribuídos por três pisos e 18 divisões, o imóvel encontra-se atualmente em exploração como Alojamento Local, dispondo de 15 quartos e capacidade para acolher até 30 hóspedes. Esta configuração assegura uma operação consolidada, conciliando rendimento imediato com a possibilidade de uma reinterpretação arquitetónica capaz de elevar o imóvel para um posicionamento de maior exclusividade.\n\nAs intervenções realizadas privilegiaram a funcionalidade da exploração turística, preservando a autenticidade da construção original e permitindo que um futuro projeto de reabilitação valorize a linguagem arquitetónica da década de 1930. A escala do edifício, a qualidade da sua implantação e a identidade da sua traça oferecem uma base sólida para um projeto distintivo, onde património e contemporaneidade podem coexistir de forma harmoniosa.\n\nLocalizada na confluência da Rua de Justino Teixeira com a Rua D. Lopo de Almeida, a escassos minutos a pé da Estação de Campanhã, a propriedade beneficia de uma localização estratégica no epicentro de uma das mais significativas operações de regeneração urbana da cidade. A proximidade à estação ferroviária, ao metro, à rede de autocarros, aos principais eixos rodoviários, bem como a uma ampla oferta de comércio, serviços, escolas e equipamentos de saúde, reforça a sua atratividade para diferentes perfis de utilização.\n\nPela autoria do projeto, enquadramento histórico, dimensão e localização, esta é uma propriedade invulgar no mercado portuense, particularmente indicada para investidores e operadores que valorizem ativos com identidade arquitetónica e capacidade de criação de valor. A sua versatilidade permite equacionar diferentes utilizações, desde um boutique hotel ou uma unidade de hospitality premium até uma residência sénior de elevado padrão ou um projeto residencial multifamiliar de qualidade superior.",
+  "geo": {
+    "lat": 41.1547875027955,
+    "lng": -8.59129250044103
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76815&foto=1548899&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76815&foto=1548899&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 480,
-  "area_bruta_m2": null,
+  "area_util_m2": 430,
+  "area_bruta_m2": 480,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

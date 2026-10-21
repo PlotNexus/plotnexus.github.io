@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77493&foto=1679928&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77493&foto=1679928&f=1",
+  "description": "Localizada na freguesia da Lombada, no concelho de Ponta do Sol, esta moradia isolada de tipologia V4 destaca-se pela sua envolvência serena e pela excelente organização dos espaços, ideal para quem procura um ambiente privado e harmonioso.\n\nCom uma área de lote de 480 metros quadrados e área bruta privativa de 220 metros quadrados, esta propriedade é composta por quatro quartos, dos quais dois são suites, e quatro casas de banho. A moradia conta ainda com três lugares de estacionamento, arrecadação em anexo e varanda. Construída em 2025, oferece um ambiente moderno e funcional, com acabamentos de elevada qualidade. O piso térreo inclui duas suites, zonas sociais amplas e uma casa de banho social, enquanto o piso superior contempla mais dois quartos e uma casa de banho completa de apoio. A zona exterior oferece um terraço convidativo e uma piscina que complementa de forma requintada os momentos de lazer.\n\nA localização é outro dos pontos fortes desta propriedade. A escassos minutos de supermercados, escolas e restaurantes (1 a 2 minutos), oferece uma experiência de vida prática e confortável. As principais vias de acesso encontram-se a 5 minutos, permitindo uma ligação rápida a outras zonas da ilha.\n\nA apenas 30 minutos do hospital, esta moradia encontra-se bem servida de infraestruturas e transportes. A exposição solar a oeste garante uma excelente iluminação natural ao longo da tarde, tornando os espaços ainda mais acolhedores.\n\nEsta é uma oportunidade única de adquirir uma casa que alia conforto, elegância e tranquilidade, ideal para residência permanente ou casa de férias.",
+  "geo": {
+    "lat": 32.68463,
+    "lng": -17.09399
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77493&foto=1679928&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77493&foto=1679928&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 250,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

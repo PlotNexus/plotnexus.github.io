@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 6,
   "area_m2": 629,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77885&foto=1644230&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77885&foto=1644230&f=1",
+  "description": "Num cenário de rara beleza natural, sobre um planalto privilegiado na região de Amarante, ergue-se a distinta Casa da Costa Grande — uma propriedade onde a autenticidade do campo português se funde com conforto contemporâneo e um estilo de vida verdadeiramente exclusivo. A apenas 45 minutos da cidade do Porto, esta é uma oportunidade singular para quem valoriza tranquilidade, sofisticação e proximidade urbana. Envolta por uma atmosfera de serenidade absoluta e com vistas panorâmicas sobre a montanha, a propriedade beneficia de uma implantação elevada que lhe confere luminosidade, privacidade e uma ligação contínua à paisagem envolvente. A vinha jovem que acompanha o terreno acrescenta carácter e potencial, evocando o estilo de vida vínico tão característico desta região. O interior revela uma harmonia cuidada entre espaço, luz e funcionalidade. Com cinco quartos amplos e acolhedores em suite, duas elegantes casas de banho e uma zona social generosa, a moradia foi pensada para proporcionar conforto e bem-estar em todas as estações. A sala de estar, luminosa e convidativa, prolonga-se naturalmente para o exterior, enquanto a cozinha totalmente equipada reflete praticidade aliada a um toque contemporâneo. No exterior, a experiência eleva-se: um jardim cuidadosamente enquadrado na paisagem, um terraço com vistas desafogadas e uma piscina exterior que convida ao lazer em total privacidade transformam cada momento num verdadeiro retiro. A zona de refeições ao ar livre e churrasqueira cria o cenário ideal para receber com elegância, celebrando o melhor da vida ao ar livre. Pensada tanto para uso privado como para exploração turística de alto nível, a propriedade oferece ainda espaços de entretenimento como mesa de bilhar e pingue-pongue, complementando uma oferta diferenciadora. A sua reputação é irrepreensível, destacando-se com classificação máxima na prestigiada plataforma Booking.com, evidenciando um histórico de excelência e elevada satisfação dos hóspedes. A localização estratégica permite fácil acesso a referências culturais de relevo, como o emblemático Paço dos Duques de Bragança e o histórico Castelo de Guimarães, bem como ao Aeroporto Francisco Sá Carneiro, assegurando conveniência sem comprometer a exclusividade. Uma propriedade que transcende o conceito de casa de campo — um verdadeiro refúgio de prestígio, onde cada detalhe convida a viver com tempo.",
+  "geo": {
+    "lat": 41.2139813767,
+    "lng": -8.002166748
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,48 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77885&foto=1644230&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77885&foto=1644230&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada)",
+      "Centralidade (Rural)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 629,
-  "area_bruta_m2": null,
+  "area_util_m2": 467,
+  "area_bruta_m2": 629,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83793&foto=1716403&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83793&foto=1716403&f=1",
+  "description": "Entre Alcântara e Belém, na Rua da Junqueira, este elegante apartamento T3+1, com três casas de banho completas, destaca-se pela sua amplitude, luminosidade e localização privilegiada. Com 281 m² de área bruta privativa, ocupa os pisos superiores de um edifício de traça tradicional, recentemente alvo de uma reabilitação integral, distribuído por três níveis.\n\nO piso de entrada é dedicado às áreas sociais e dispõe de uma ampla sala de estar, sala de jantar, cozinha totalmente equipada e uma casa de banho. No piso superior encontra-se a área privada, composta por três quartos, uma sala de TV, duas casas de banho e um estúdio que poderá facilmente ser convertido num quarto adicional.\n\nO último piso é constituído por uma encantadora torre, que se abre para um espaço exclusivo de leitura, oferecendo magníficas vistas a 360 graus sobre Lisboa e o rio Tejo — um cenário único para desfrutar da famosa luz e tranquilidade da cidade. A orientação solar nos quatro lados garante uma excelente luminosidade natural ao longo de todo o dia. A propriedade inclui ainda um lugar de estacionamento.\n\nResguardada do ruído da ponte e da estrada principal, esta localização permite usufruir do melhor de Alcântara, Belém e de toda a zona dos museus. A poucos minutos, através da nova ponte pedonal do MAAT, é possível aceder às animadas docas, à marina, aos restaurantes e às ciclovias junto ao rio. Esta ponte de design conduz a uma das melhores zonas ribeirinhas do Tejo, onde é possível caminhar ou andar de bicicleta até às praias do oceano ou em direção ao centro da cidade.\n\nA zona é rica em património único, destacando-se o Mosteiro dos Jerónimos, a Torre de Belém, o Centro Cultural de Belém (CCB), o museu de arte MACAM, o MAAT e os extensos jardins junto ao rio. O apartamento beneficia ainda da proximidade do Hospital CUF Tejo, uma das melhores unidades privadas de saúde de Lisboa.\n\nUm apartamento verdadeiramente único, onde o espaço, a luz, a história e o rio se encontram numa das zonas mais emblemáticas da frente ribeirinha de Lisboa.",
+  "geo": {
+    "lat": 38.6980737,
+    "lng": -9.1906053
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83793&foto=1716403&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83793&foto=1716403&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 281,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

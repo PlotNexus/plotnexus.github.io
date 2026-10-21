@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 25,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=49328&foto=1393923&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=49328&foto=1393923&f=1",
+  "description": "Extraordinária moradia isolada de quatro suites, com vistas deslumbrantes sobre o rio Douro e a cidade do Porto. A zona social é composta por um digno hall, uma sala comum, com um prolongamento de um terraço de 146 metros quadrados, cozinha totalmente equipada com eletrodomésticos topo de gama da Siemens, com lavandaria e uma casa de banho social. Na zona privada, temos as quatro suites, duas delas com acesso a uma varanda de quarenta e um metros quadrados. A moradia tem box para três carros e um lugar na garagem comum. O novo condomínio privado Quinta de São Marcos, vai nascer numa das últimas encostas de socalcos da zona ribeirinha de Vila Nova de Gaia, na margem sul do rio Douro. Numa zona calma e privilegiada de Gaia, o projeto beneficia da combinação perfeita entre a natureza, com os seus terraços, sobre ruínas que contam histórias de vários povos e do Castelo de Gaia e onde a calma do rio Douro preenche a paisagem. A arquitetura moderna proporciona comodidade absoluta e bem estar e com acabamentos de qualidade superior que contam com pavimentos em madeira de carvalho, mármores, ar condicionado, bomba de calor, painéis solares, recuperador de calor, caixilharia Cortizo, e videoporteiro.\nO novo empreendimento residencial Quinta de São Marcos, de 5000 metros quadrados e ligação ao rio, contará com 23 apartamentos e três moradias com áreas entre os 72 e os 288 metros quadrados, e tipologias entre T1 e T4, com espaços de sala e ginásio de condomínio, jardim exteriores e vistas deslumbrantes sobre o rio Douro e a cidade do Porto.",
+  "geo": {
+    "lat": 41.14305,
+    "lng": -8.64732
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,53 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=49328&foto=1393923&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=49328&foto=1393923&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Alarme (CCTV, Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Pavimento (Mármore)",
+      "Paredes (Granito)",
+      "Equipamento (Gás Canalizado, Jardins, Sala Condomínio, Video-Porteiro)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 85.2; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 25,
-  "area_bruta_m2": null,
+  "area_util_m2": 288,
+  "area_bruta_m2": 25,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

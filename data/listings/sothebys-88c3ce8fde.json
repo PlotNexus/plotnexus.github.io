@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 6,
   "area_m2": 465,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=59807&foto=1112054&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=59807&foto=1112054&f=1",
+  "description": "No coração da região do Douro, em Gestaçô, Baião, encontra-se esta distinta propriedade inserida num terreno com cerca de 11.000 m², rodeada pela serenidade da paisagem duriense, entre vinhas, árvores de fruto, serras e vales.\n\nImplantada numa posição elevada e privilegiada, a propriedade beneficia de uma envolvente de grande beleza natural, vistas panorâmicas e elevada privacidade, proporcionando um ambiente de tranquilidade e contacto permanente com a natureza.\n\nCom 465 m² de área bruta de construção e 426 m² de área privativa, a moradia desenvolve-se em dois pisos e apresenta uma distribuição generosa e funcional. Dispõe de cinco quartos, quatro dos quais em suite, seis casas de banho, amplas áreas de estar e jantar, cozinha equipada e um espaçoso salão.\n\nCom quatro frentes e exposição solar a nascente, sul, poente e norte, a casa beneficia de excelente luminosidade natural ao longo do dia. Entre as suas características destacam-se ainda o aquecimento central, caixilharia dupla, acabamentos em pedra natural e granito e garagem para duas viaturas.\n\nNo exterior, os diferentes espaços foram concebidos para usufruir plenamente da paisagem e do clima da região. Varandas, pátio e zona de refeições ao ar livre prolongam as áreas sociais da casa, enquanto a piscina e a zona de churrasqueira criam um cenário privilegiado para momentos de lazer, sempre enquadrados pelas amplas vistas sobre os vales e a serra.\n\nA propriedade conjuga dimensão, privacidade e uma forte ligação à paisagem característica do Douro, mantendo simultaneamente bons acessos e proximidade aos principais serviços de Baião.\n\nA cerca de uma hora da cidade do Porto e do Aeroporto Internacional Francisco Sá Carneiro, esta é uma propriedade particularmente indicada para quem procura uma residência de campo exclusiva, uma segunda habitação ou um refúgio de natureza no Norte de Portugal.",
+  "geo": {
+    "lat": 41.1629903665376,
+    "lng": -7.90161574238892
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,50 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=59807&foto=1112054&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=59807&foto=1112054&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Revestimento Exterior (Pedra Natural, Pintado)",
+      "Pavimento (Granito)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Pastagens",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 465,
-  "area_bruta_m2": null,
+  "area_util_m2": 25,
+  "area_bruta_m2": 465,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

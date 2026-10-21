@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1515/92707/b08fcd54-e9a2-4cc7-b2f5-562619421d9b.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno com uma área de 15335 m², com viabilidade de construção, situado no Olival do Saramugo, na cidade de Elvas.\n\nEste terreno está inserido no perímetro urbano, o que permite a viabilidade de construção, oferecendo diversas possibilidades para o desenvolvimento de projetos residenciais.\n\nA propriedade é caracterizada pela presença de oliveiras e cultura arvense, proporcionando um ambiente rural e tranquilo, ideal para quem procura contacto com a natureza e um estilo de vida mais sustentável.\n\nCom excelente localização e potencial de crescimento, este terreno representa uma oportunidade única para investidores e empreendedores que desejam apostar na região de Elvas.\n\nElvas é uma cidade histórica e culturalmente rica, reconhecida pela UNESCO. As suas muralhas e fortificações são testemunhos da sua história e resistência. Com uma atmosfera tranquila e acolhedora, Elvas oferece um estilo de vida relaxado e autêntico, onde os moradores podem desfrutar da rica herança cultural, da deliciosa gastronomia alentejana e das paisagens deslumbrantes que cercam a cidade. Conta com uma localização privilegiada, a apenas 30 km de Badajoz e a uma curta distância de carro de Évora, a capital do distrito. \n\nNão perca a oportunidade de conhecer melhor esta propriedade. Entre em contacto connosco para agendar uma visita ou obter mais informações. Estamos à sua disposição para concretizar os seus planos de investimento!",
+  "geo": {
+    "lat": 38.873884981388706,
+    "lng": -7.182697308498934
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,14 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/92707/b08fcd54-e9a2-4cc7-b2f5-562619421d9b.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: G"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": null,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "G"
 }

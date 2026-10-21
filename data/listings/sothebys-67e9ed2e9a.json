@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77379&foto=1670767&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77379&foto=1670767&f=1",
+  "description": "Excelente imóvel no Campo Pequeno com jardim privativo, num dos bairros mais emblemáticos, centrais e bem servidos de Lisboa, encontra-se este duplex com 6 quartos e um charme inconfundível. Com uma área generosa de 255 m² de ABP, este imóvel combina na perfeição elegância, conforto e funcionalidade, oferecendo espaço de sobra para receber família e amigos, sem abrir mão da privacidade e da exclusividade que só um lar único pode proporcionar.\n\nA sua localização privilegiada garante acesso rápido a transportes, comércio, serviços e a alguns dos pontos mais icónicos da cidade, tornando o dia a dia mais prático e dinâmico.\n\nDistribuído em dois pisos harmoniosamente conectados, o duplex conta com 4 casas de banho, acabamentos de alta qualidade e detalhes arquitetônicos que fazem toda a diferença. As amplas janelas proporcionam espaços de luz natural, criando uma atmosfera acolhedora e sofisticada. O elevador garante acesso prático e conveniente, elevando o padrão de conforto a um nível superior.\nO imóvel tem um jardim de uso exclusivo da fração com 78 metros quadrados, onde pode desfrutar do mesmo com bastante privacidade.\n\nCom um ambiente urbano vibrante à porta e todas as comodidades a poucos passos, esta propriedade representa uma rara oportunidade de viver no centro de Lisboa com espaço, estilo e qualidade. Este duplex é mais do que uma casa — é um estilo de vida sofisticado, pensado para quem exige o melhor.",
+  "geo": {
+    "lat": 38.7428443,
+    "lng": -9.1432919
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77379&foto=1670767&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77379&foto=1670767&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 255,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

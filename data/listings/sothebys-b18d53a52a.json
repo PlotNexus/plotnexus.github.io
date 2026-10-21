@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=60173&foto=1194180&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=60173&foto=1194180&f=1",
+  "description": "Apartamento T4 Duplex na Foz Velha inserido num edifício que resulta da recuperação de um edifício antigo em harmonia com uma nova construção. O edifício comtempla sete apartamentos de tipologias T1, T3 e T4. A zona social do apartamento é no primeiro piso, e a zona dos quartos é no rés-do-chão. O apartamento tem cerca de 315 metros quadrados, sala com 63 metros quadrados acompanhada de um terraço com 10 metros quadrados e quatro suites. Dispõe de dois lugares de garagem e um arrumo.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,35 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=60173&foto=1194180&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=60173&foto=1194180&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 95,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

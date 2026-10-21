@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": 29,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=59818&foto=1618596&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=59818&foto=1618596&f=1",
+  "description": "Fantástica Moradia de arquitetura contemporânea e acabamentos de padrões com elevada qualidade. Com 487.29 metros quadrados de construção, esta moradia T2 + 1, fica localizada numa zona sossegada, com boas acessibilidades e com vista magnífica sobre o mar. Desenvolve-se em dois pisos, sendo que no primeiro é composta por um hall de entrada, uma master suite com mais de 50metros quadrados, closet, uma casa de banho social, uma área para usar como escritório, um quarto para a lavandaria e uma cozinha moderna em open space com uma ampla sala de jantar e sala de estar com acesso ao exterior, onde se encontra a piscina e jardim. Ainda neste piso, encontra-se uma Garagem para três carros. No piso inferior, é composto por um apartamento completamente independente, com uma master suite igualmente ampla, casa de banho social, e cozinha em open space para a sala de estar e sala de jantar, com acesso ao exterior, onde encontra um alpendre para refeições no exterior e um fantástico jardim com acesso também à piscina. Esta moradia conta ainda com uma anexo, que pode ser transformado em um T0 ou um escritório, com entrada independente da casa, onde pode estacionar mais dois carros. Toda esta composição harmoniosa oferece conforto, requinte e luxo a quem desfruta deste espaço. As janelas grandes garantem muita luz natural e no exterior existe uma envolvência fantástica oferecida pela vista soberba sobre o mar com piscina aquecida e uma zona de barbecue. Excelente oportunidade para investimento ou uma família que procura espaço, requinte e muita tranquilidade.",
+  "geo": {
+    "lat": 32.7351978,
+    "lng": -17.1737037
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,60 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=59818&foto=1618596&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=59818&foto=1618596&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado)",
+      "Equipamento (Casa Recolha Lixo, Jardins, Rega Automática, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 29,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 29,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

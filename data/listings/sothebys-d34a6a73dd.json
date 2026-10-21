@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 6,
   "area_m2": 350,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76310&foto=1534827&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76310&foto=1534827&f=1",
+  "description": "Apresentamos uma moradia única e sofisticada, inserida na zona urbana de Évora, perto do Convento do Espinheiro, que alia o conforto da vida moderna à elegância de um design arquitetônico arrojado. Com uma área total de 397 m², esta propriedade destaca-se pela qualidade dos acabamentos, funcionalidade e privacidade.\n\nA moradia principal é composta por cinco suites amplas, proporcionando total conforto e independência. As várias zonas sociais distribuem-se harmoniosamente, incluindo uma ampla sala de estar, sala de refeições e uma sala de TV na cave, que se complementa com uma requintada adega de 33,5 m² — ideal para momentos de lazer e convívio.\n\nO imóvel integra ainda um anexo totalmente ligado à casa principal, com potencial para ser transformado num apartamento T1 autónomo. Este espaço conta com quarto, cozinha, sala e casa de banho, ideal para receber hóspedes ou para rentabilização.\n\nNo exterior, destaca-se a piscina, rodeada por um ambiente tranquilo e resguardado, estacionamento exterior e garagem com capacidade para duas viaturas.\n\nEquipada com sistema de domótica, painéis solares e certificação energética Classe A, esta moradia reflete uma preocupação com a sustentabilidade e a eficiência energética.\n\nConstruída em 2016, esta propriedade é a escolha ideal para quem procura um estilo de vida moderno, funcional e exclusivo, numa das mais encantadoras cidades do Alentejo.",
+  "geo": {
+    "lat": 38.6051947,
+    "lng": -7.8767038
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,79 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76310&foto=1534827&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76310&foto=1534827&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia",
+      "Furo"
+    ],
+    "Caixilharia": [
+      "PVC",
+      "Velux / Telhado",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Depósito Gás",
+      "Depósito Lixo",
+      "Escritório",
+      "Estores Eléctricos",
+      "Parabólica",
+      "Rega Automática",
+      "Solar",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (Completo, Segurança Activa)",
+      "Música Ambiente (Completo)",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Cerâmica, Monomassa, Pedra Natural, Pintado, Vidro (painéis))",
+      "Hall de Entrada (Iluminação Aut.)",
+      "Pavimento (Marmorite)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Falso Pladur, Focos, Ponto de Luz)",
+      "Equipamento (Campo de Jogos, Casa Recolha Lixo, Jardins, Rega Automática, Sala Condomínio, Tomadas de Computador, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 30; Eletricidade",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas",
+      "Pastagens"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bombeiros, Clínica, Escolas, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 350,
-  "area_bruta_m2": null,
+  "area_util_m2": 5,
+  "area_bruta_m2": 350,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

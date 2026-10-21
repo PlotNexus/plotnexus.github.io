@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77744&foto=1573656&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77744&foto=1573656&f=1",
+  "description": "Apartamento com três quartos e um escritório inserido num edifício de arquitetura pombalina no Chiado, com elevador e garagem. O pé-direito generoso e a criteriosa reabilitação — do edifício e da fração — evidenciam a utilização de materiais nobres. A área social é ampla e luminosa, com uma sala espaçosa que integra harmoniosamente as zonas de estar e de jantar, e cozinha totalmente equipada com eletrodomésticos Smeg. O apartamento tem três quartos, incluindo uma confortável suíte, duas casas de banho e um lavabo, além de um escritório facilmente adaptável a um quarto adicional e mais uma divisão versátil, ideal para sala de televisão, área de lazer ou espaço multifuncional.\nO edifício beneficia-se de acesso por duas ruas, sendo uma delas a escassos cinco minutos a pé da estação de metro Baixa-Chiado. O apartamento ainda tem uma arrecadação e um lugar de estacionamento em garagem coberta no interior do edifício — uma mais-valia rara e altamente valorizada no centro histórico de Lisboa.\nLocalizado no bairro da Misericórdia, proporciona um estilo de vida singular, envolto em história, cultura e dinamismo urbano. A localização ímpar deste apartamento, com 201 metros quadrados de área bruta, oferece a oportunidade de viver numa das zonas mais emblemáticas da cidade, onde centralidade, sofisticação e autenticidade se cruzam. É ideal para quem procura um quotidiano cosmopolita e genuinamente lisboeta.\nA poucos minutos a pé encontram-se diversas opções de transporte — metro, autocarros e comboios com ligações a Cascais, Sintra e a outros pontos do país, bem como uma vasta oferta de restaurantes, cafés históricos, galerias de arte, comércio tradicional e alguns dos mais icónicos miradouros da cidade, além da proximidade ao rio Tejo. Tudo isto aliado à tranquilidade de uma rua reservada. Supermercados, escolas e unidades de saúde situam-se igualmente a curta distância.\nA proximidade a vias rápidas, ao aeroporto e às principais autoestradas garante ligações práticas e eficientes dentro e fora da cidade. Amplo, este apartamento oferece uma oportunidade única de viver o verdadeiro estilo de vida lisboeta com sofisticação, conforto e autenticidade.\nSe necessitar de estacionamento adicional, ainda existe a possibilidade de avença mensal num edifício contíguo.",
+  "geo": {
+    "lat": 38.7076631,
+    "lng": -9.1426532
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,37 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77744&foto=1573656&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77744&foto=1573656&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pintado)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 186,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

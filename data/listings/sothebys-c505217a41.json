@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78608&foto=1583432&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78608&foto=1583432&f=1",
+  "description": "Localizado no Eco Village do Pestana Tróia Eco Resort, este apartamento situa-se a poucos passos das areias de Tróia. Inserido numa reserva ecológica com 100 hectares, o empreendimento combina conforto, natureza e privacidade num ambiente seguro e bem organizado.\nO apartamento tem 123 metros quadrados de área bruta privativa e 139 metros quadrados de área bruta de construção, dispõe de interiores luminosos e de um jardim e piscina privativos, proporcionando uma vivência tranquila e prática. O apartamento conta com uma sala comum e cozinha em open concept, uma master suite e dois quartos em suite, todos com acesso directo ao jardim privativo e piscina.\nA apenas cinco minutos a pé da praia, os residentes beneficiam de diversas infraestruturas no resort: dois restaurantes, um bar, centro de fitness e spa, campos de ténis e padel, campos polivalentes e uma ciclovia.\nCom uma localização privilegiada, a apenas uma hora de Lisboa, em frente ao terminal do Ferry Boat, e perto do campo de golfe de Tróia, da Marina e do Casino de Tróia, o imóvel permite fácil acesso a várias opções de lazer. A 15 minutos dos novos campos de golfe da Costa Alentejana, é também uma excelente opção para amantes do desporto.\nCombinando o conforto de uma casa com as vantagens de um empreendimento turístico gerido pelo grupo Pestana, este apartamento representa não só uma solução ideal para férias, mas também uma oportunidade de investimento sólida, com potencial de rentabilidade e valorização futura.",
+  "geo": {
+    "lat": 38.491143,
+    "lng": -8.9034794
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78608&foto=1583432&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78608&foto=1583432&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 125,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75464&foto=1613808&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75464&foto=1613808&f=1",
+  "description": "Localizado em Matosinhos Sul, este apartamento Penthouse T4 insere-se no prestigiado empreendimento. Esta cobertura distingue-se pela sua localização, a poucos metros da praia, da marginal e do Parque da Cidade, proporcionando uma vivência única junto ao mar e a amplos espaços verdes.\nCom uma área bruta privativa de 176,5 m² e uma área total de construção de 227,4 m², o imóvel oferece quatro quartos, dois dos quais em suite, quatro casas de banho completas, arrecadação na cave e dois lugares de estacionamento. No último andar do edifício, destaca-se pelo terraço com 50,9 m², ideal para desfrutar de momentos ao ar livre. A orientação solar a nascente e sul proporciona luz natural durante todo o dia. \nMatosinhos Sul combina a tranquilidade de um ambiente residencial com a proximidade a todos os serviços essenciais. O imóvel está próximo de restaurantes, supermercados, unidades de saúde públicas e privadas, e colégios internacionais de referência. A poucos minutos encontra-se também o polo universitário do Porto.\nO empreendimento é da responsabilidade de um construtor reconhecido, garantindo elevados padrões de qualidade, com sistema de aquecimento e arrefecimento por multisplits, bomba de calor para águas sanitárias e blackouts elétricos. Um espaço onde o mar e a cidade se encontram para proporcionar uma experiência única de habitação.\nA localização oferece rápidos acessos à VCI, A28 e A4, permitindo uma ligação eficiente ao Porto e a outras zonas. A estação de metro mais próxima fica a apenas 5 minutos a pé, garantindo excelente mobilidade sem necessidade de viatura.",
+  "geo": {
+    "lat": 41.1844362,
+    "lng": -8.6962775
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,46 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75464&foto=1613808&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75464&foto=1613808&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 5,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

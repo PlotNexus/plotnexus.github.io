@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 280,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73195&foto=1603914&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73195&foto=1603914&f=1",
+  "description": "Moderna moradia com três quartos, na primeira linha do Rio Douro, com 235 metros quadrados de área bruta privativa. A casa de linhas modernas, desenvolve-se em quatro pisos e acolhe no primeiro piso a zona social composta por duas salas, a de estar, que oferece uma vista única sobre a Foz do rio Douro e a de jantar, apoiada por um pátio para refeições ao ar livre, equipado com churrasqueira, a cozinha e uma casa de banho social. Ao nível do Rés-do-chão está a garagem, uma sala multiusos com pátio, a casa de banho social e a zona de tratamento de roupa. No segundo piso, recuado, está a suite, um quarto, com acesso a um terraço virado para o Rio e uma casa de banho completa. O último piso recuado acomoda o terceiro quarto apoiado por um terraço, com vistas panorâmicas para toda a foz do Rio Douro e Mar. Construída em 2006, o interior foi projetado com atenção ao detalhe, oferecendo acabamentos de elevada qualidade como ar condicionado em todas as divisões, estores elétricos, alarme, vídeo porteiro, soalho, roupeiros e móveis da casa de banho em madeira, armários da cozinha lacados, cozinha equipada e painel solar. Garagem para duas viaturas. Orientação Solar: Norte-Sul.\nLocalização privilegiada na primeira linha do rio, inserida em zona residencial de referência servida de todo o tipo de comércio e serviços, próxima a colégios internacionais, e a poucos minutos a pé da praia e do mar. A envolvência oferece também diversos locais de lazer como o Passeio Alegre, o Parque da Cidade e o Jardim de Serralves.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,53 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73195&foto=1603914&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73195&foto=1603914&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 4"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Aspiração Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pintado)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 37.8; Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 280,
-  "area_bruta_m2": null,
+  "area_util_m2": 5,
+  "area_bruta_m2": 280,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

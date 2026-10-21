@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=60854&foto=1477949&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=60854&foto=1477949&f=1",
+  "description": "Este apartamento está inserido num empreendimento requintado e moderno, erguido no local do histórico Hotel Madeira Palácio, originalmente parte da cadeia Hilton, um projeto do renomado arquiteto português Carlos Ramos. A propriedade oferece vistas deslumbrantes sobre o Oceano Atlântico e o Cabo Girão, proporcionando um estilo de vida luxuoso e exclusivo. O condomínio conta com uma ampla gama de comodidades, incluindo piscina infinita, piscina para crianças, zonas de convívio, ginásio, sala de condomínio, estacionamento para visitantes, uma área de serviços dedicada, jardins exuberantes e uma localização privilegiada, perto de todos os bens e serviços essenciais para o dia a dia. O apartamento dispõe de três quartos, sendo dois deles em suíte, enquanto o terceiro compartilha uma casa de banho com a zona social. A cozinha, em estilo open-space, está integrada à ampla sala de estar, oferecendo acesso direto ao exterior, onde se encontra uma ampla varanda, ideal para apreciar a vista e a tranquilidade do local. Localizado numa área de excelência tanto turística quanto residencial, este apartamento fica no último piso, oferecendo uma vista definitiva e deslumbrante para o mar. A propriedade também conta com dois lugares de estacionamento e uma arrecadação no rés-do-chão. Com 7.000 metros quadrados de jardins ao redor, rodeados por árvores de grande porte, o empreendimento inclui um elevador exclusivo para acesso direto à Praia Formosa. Sua proximidade ao centro comercial Fórum Madeira, aos transportes públicos, às principais artérias rodoviárias e à zona turística do Lido tornam esta uma propriedade única e inimitável. Esta é uma fantástica oportunidade para quem busca um apartamento de luxo com vistas de tirar o fôlego e uma localização privilegiada. Ideal para quem deseja conforto, privacidade e qualidade de vida, este imóvel oferece tudo o que é necessário para viver bem na Madeira, em uma das zonas mais exclusivas e tranquilas da cidade.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,59 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=60854&foto=1477949&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=60854&foto=1477949&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 10"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Tecto (Estucado, Falso Pladur)",
+      "Equipamento (Jardins, Rega Automática, Sala Condomínio, Video-Porteiro, Zelador / Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 151,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

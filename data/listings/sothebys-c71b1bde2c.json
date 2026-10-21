@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 234,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74884&foto=1668567&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74884&foto=1668567&f=1",
+  "description": "Viver junto à Avenida Marechal Gomes da Costa é desfrutar diariamente de um dos endereços mais exclusivos da cidade, onde a tranquilidade residencial, os espaços verdes, a proximidade ao mar e o acesso aos melhores colégios internacionais se conjugam para proporcionar uma qualidade de vida verdadeiramente excecional.\nInserida na prestigiada zona de Serralves, esta moradia isolada destaca-se pela sua arquitetura elegante, pela abundante luz natural e pela excelente organização dos espaços. Com uma área total de 234 m², foi cuidadosamente reconstruída em 2025 para responder às exigências da vida contemporânea, oferecendo conforto, funcionalidade e um ambiente acolhedor para toda a família.\nAo entrar, somos recebidos por um hall amplo e luminoso, complementado por uma elegante escadaria que estabelece a ligação entre os diferentes pisos da habitação. Neste piso encontra-se também uma casa de banho social, uma cozinha com luz natural e espaço para refeições informais, e uma magnífica sala com 37 m². A orientação solar a sul garante luminosidade durante todo o dia, criando um ambiente caloroso e convidativo. A ligação direta da sala ao jardim permite uma perfeita integração entre o interior e o exterior da casa.\nNo exterior, o jardim privado e a piscina transformam-se no cenário ideal para momentos de lazer, convívio e descanso. As ligações de água e eletricidade já existentes permitem criar facilmente uma agradável zona de barbecue ou uma área de refeições ao ar livre, perfeita para aproveitar os dias de sol com família e amigos.\nO piso superior é dedicado à área mais privada da habitação, dispondo de três quartos, incluindo uma confortável suite, concebidos para proporcionar tranquilidade e bem-estar.\nNo piso inferior, a versatilidade é um dos grandes destaques. Além da lavandaria e de uma casa de banho completa, existem duas amplas salas com luz natural, totalizando 33 m², que podem adaptar-se a diferentes necessidades: escritório, sala de estudo, espaço de trabalho remoto, ginásio, sala de jogos ou quarto de hóspedes.\nA localização é, sem dúvida, um dos maiores atributos desta propriedade. Numa zona residencial de excelência, rodeada de serviços, comércio, transportes públicos e acessos rápidos aos principais pontos da cidade, beneficia ainda da proximidade a alguns dos mais conceituados estabelecimentos de ensino do Porto. O Colégio do Rosário encontra-se a apenas cerca de 8 minutos a pé e o Liceu Francês a aproximadamente 10 minutos de caminhada.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,38 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74884&foto=1668567&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74884&foto=1668567&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Termolacada",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Zona": [
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 234,
-  "area_bruta_m2": null,
+  "area_util_m2": 156,
+  "area_bruta_m2": 234,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

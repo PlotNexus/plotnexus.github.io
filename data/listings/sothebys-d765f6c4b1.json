@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79828&foto=1614809&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79828&foto=1614809&f=1",
+  "description": "Apartamento T4 Duplex em condomínio fechado com jardim e piscina comum, localizado na Guia, uma das zonas mais procuradas de Cascais. O apartamento destaca-se pelas suas amplas áreas e conta com uma área bruta de construção de 346 metros quadrados. \nO piso principal é composto por uma ampla sala com dois ambientes, zona de estar com lareira com recuperador de calor e zona de jantar, com varanda e amplas janelas panorâmicas. Neste piso encontramos também a cozinha totalmente equipada com varanda e acesso a zona de barbecue, três quartos, um dos quais em suite e uma casa de banho de apoio aos restantes quartos. \nO segundo piso conta com uma ampla master suite com casa de banho e com uma área total de 26 metros quadrados, tendo ainda uma agradável varanda.\nO apartamento beneficia ainda de aspiração central e ar condicionado, bem como de duas largas boxes fechadas para estacionamento de vários carros e zona de arrumos. Para maior comodidade e praticabilidade, o apartamento tem acesso a elevador.\n\nO apartamento contempla igualmente um terraço exclusivo, podendo funcionar como área de leitura e descanso ou um solário com total privacidade.\nEste excelente condomínio oferece ainda uma piscina, ginásio, sauna e um simpático jardim comum.\n \nConstitui uma excelente oportunidade para quem privilegia uma localização estratégica próxima de todo o tipo de serviços (walking distance do Lidl, padaria da torre, etc), escolas, nacionais e internacionais, a poucos minutos a pé da da Casa da Guia e a 5 minutos da Auto estrada A5 e A16.",
+  "geo": {
+    "lat": 38.7030496,
+    "lng": -9.4434851
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79828&foto=1614809&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79828&foto=1614809&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 196,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

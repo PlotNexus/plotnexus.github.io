@@ -8,9 +8,12 @@
   "bedrooms": 8,
   "bathrooms": 8,
   "area_m2": 5,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81566&foto=1665597&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81566&foto=1665597&f=1",
+  "description": "Moradia V11 de inspiração rústica, situada numa zona tranquila junto às margens da Lagoa de Óbidos, onde a privacidade, a natureza e a serenidade assumem um papel central.\n\nInserida num agradável jardim, a propriedade beneficia de uma vista ampla e deslumbrante sobre a lagoa, criando uma atmosfera única de tranquilidade e ligação à paisagem envolvente.\n\nO acesso direto à lagoa constitui um dos seus elementos mais distintivos, proporcionando uma experiência privilegiada e rara, em perfeita harmonia com a natureza.\n\nA poucos minutos da Praia da Foz do Arelho e de São Martinho do Porto, oferece uma localização excecional entre lagoa, mar e natureza, com bons acessos e proximidade a comércio, serviços e zonas de lazer.\n\nPronta a habitar e a cerca de 50 minutos de Lisboa, representa uma oportunidade singular para residência permanente, casa de férias ou exclusivo refúgio de fim de semana na Costa de Prata.",
+  "geo": {
+    "lat": 39.432812136,
+    "lng": -9.2233657836
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,46 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81566&foto=1665597&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81566&foto=1665597&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Estores (PVC)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Farmácia, Hospital, Jardins Infância, Praias)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_util_m2": 440,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

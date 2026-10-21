@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71536&foto=1412378&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71536&foto=1412378&f=1",
+  "description": "Localizado na freguesia de Sacavém e Prior Velho, este apartamento com quatro quartos, situado no renomado condomínio fechado Garden Residence, representa uma oportunidade única para quem busca um estilo de vida sofisticado e tranquilo, sem abrir mão da proximidade a todas as comodidades urbanas.\nEste apartamento, localizado no 3º andar, possui uma área bruta de construção de 349,7 metros quadrados, com 258,8 metros quadrados de área bruta privativa, oferecendo um espaço generoso e bem distribuído. Composto por quatro quartos, sendo dois deles suítes, e um total de quatro casas de banho, o imóvel foi projetado para proporcionar o máximo de conforto e funcionalidade.\n\nO apartamento conta ainda com três lugares de estacionamento e uma arrecadação na cave, oferecendo conveniência e espaço adicional para armazenamento, facilitando a organização do quotidiano.\n\nConstruído em 2011, o condomínio Garden Residence oferece uma piscina que proporciona um espaço ideal para momentos de lazer. O ambiente seguro e privado do condomínio é adequado a famílias que valorizam um estilo de vida tranquilo e sofisticado.\n\nA localização do imóvel é a apenas a cinco minutos do Aeroporto de Lisboa e a sete minutos da Ponte Vasco da Gama, o apartamento oferece fácil acesso a algumas das principais vias de Lisboa, facilitando deslocações rápidas para o centro da cidade e para outras regiões. O Parque das Nações, um dos polos mais dinâmicos de Lisboa, fica a apenas 10 minutos, oferecendo uma vasta gama de opções de lazer, restauração e entretenimento.\n\nA Estação do Oriente está a 10 minutos de distância, e o metro a oito minutos, garantindo excelente conectividade. Para além disso, a proximidade a escolas de referência, como o Colégio Pedro Arrupe, bem como a hospitais de renome como o Hospital do SAMS e a CUF Descobertas, assegura que todas as necessidades da vida familiar estão a curta distância.\n\nA Sotheby's International Realty conta com quase 300 anos de história enquanto conceituada empresa responsável por transacionar bens de luxo. Está presente em Portugal desde 2007 com dez escritórios e mais de 200 profissionais altamente qualificados e disponíveis para o satisfazer. A sua missão é \"A arte de unir casas extraordinárias a vidas extraordinárias.\" Não hesite em contactar-nos caso esta oportunidade seja do seu interesse.",
+  "geo": {
+    "lat": 38.78308,
+    "lng": -9.125849
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,47 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71536&foto=1412378&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71536&foto=1412378&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Jardins, Rega Automática, Video-Porteiro, Zelador / Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Centros Comerciais, Escolas, Farmácia, Hospital, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 8,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

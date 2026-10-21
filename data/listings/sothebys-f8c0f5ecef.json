@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=53691&foto=990772&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=53691&foto=990772&f=1",
+  "description": "Moradia no centro histórico de Sintra com uma vista deslumbrante da encosta da serra. O acesso à casa faz-se através de uma escadaria situada perto de praça principal da vila. Entrando pela porta principal, passamos por baixo de um alpendre coberto de trepadeiras e acedemos a um charmoso pátio cheio de árvores e plantas. A casa tem dois pisos, sendo o piso térreo a zona social com hall, sala de estar, sala de jantar, cozinha e quarto de empregada com quarto de banho que facilmente poderá ser alterado para zona de lavandaria ou aberto para aumentar a cozinha. No piso de cima temos quatro quartos e dois quartos de banho, todos com vista para a serra e mar. Também neste piso é possível alterar o layout dos quartos de forma a aumentar o número de quartos de banho. O jardim tem vários socalcos e recantos, típicos dos jardins românticos de Sintra. A piscina é orientada a poente, com vista para o vale e o mar.",
+  "geo": {
+    "lat": 38.79664,
+    "lng": -9.392635
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,32 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=53691&foto=990772&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=53691&foto=990772&f=1"
   ],
-  "features": null,
+  "features": {
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Pavimento (Tijoleira)",
+      "Paredes (Pintadas)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 204,
+  "area_bruta_m2": 4,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

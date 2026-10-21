@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 200,
   "image": "https://cdn.proppy.app/propertyfiles/1526/70182/730b9e7c-9c6d-4711-9467-c9f7acd3278b.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Conjunto de 2 Terrenos com 10.200,00 m2\n\nMata de Criptomérias\n\nVista Mar e Serra\n\nGinetes é uma freguesia portuguesa do município de Ponta Delgada, com 12,07 km² de área e 1 378 habitantes (2011). A sua densidade populacional é 114,2 hab/km².\n\nGinetes tem uma estrada que liga Mosteiros a Ponta Delgada.\n\nA atividade principal é a agricultura. É banhada pelo Oceano Atlântico a sul e oeste. Tem montanhas a norte e nordeste.",
+  "geo": {
+    "lat": 37.8485491,
+    "lng": -25.8388673
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,23 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/70182/730b9e7c-9c6d-4711-9467-c9f7acd3278b.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Orientação solar: Norte, Sul, Este, Oeste",
+      "Certificação energética: Isento",
+      "Localização: Periferia",
+      "Zona envolvente: Turística",
+      "Vistas: Mar, Serra",
+      "Árvores"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul, Este, Oeste"
+    ]
+  },
   "estado": null,
   "area_util_m2": 200,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 200,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

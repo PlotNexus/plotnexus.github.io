@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1515/91887/964ee146-fa85-4314-837a-2d7698c8f3e7.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno com 16.019 m² | Viabilidade de Construção Flexível | Oportunidade de Investimento em Amieira\n\nLocalizado na Courela da Balhana, na Rua de Évora, em Amieira (concelho de Portel), este terreno apresenta um enorme potencial para diferentes tipos de projetos imobiliários. Atualmente, existe viabilidade para loteamento de até 17 lotes — 13 habitacionais e 4 para serviços/indústria — mas essa não é uma obrigação, podendo o espaço ser adaptado a projetos distintos, como a construção de uma moradia unifamiliar de grandes dimensões, com quintal e privacidade.\n\nCARACTERÍSTICAS DO TERRENO\n\n- Área total de 16.019 m²\n\n- Viabilidade de loteamento para 17 lotes:\n\n- 13 habitacionais (área média de 422 m² cada, com possibilidade de habitações até tipologia T5, com 150 m² de construção máxima)\n\n- 4 destinados a armazéns, indústria, comércio ou serviços (área média de 840 m² cada)\n\n- Alternativamente, possibilidade de projeto para moradia unifamiliar com áreas amplas e espaço exterior\n\n- Flexibilidade total de aproveitamento conforme a visão do comprador\n\n- Desenvolvimento de infraestruturas e obtenção do alvará a cargo do investidor, garantindo controlo sobre todo o processo\n\nLOCALIZAÇÃO E BENEFÍCIOS\n\n- Apenas a 1 km da Praia Fluvial da Amieira, muito procurada no verão e com forte potencial turístico\n\n- Gastronomia típica alentejana e ambiente acolhedor\n\n- A cerca de 60 km de Évora e 55 km da fronteira com Espanha\n\n- Localização estratégica com boas acessibilidades\n\nSeja para desenvolver um empreendimento ou construir uma moradia única no coração do Alentejo, este terreno oferece uma oportunidade de investimento versátil e com elevado potencial.\n\nPara mais informações ou agendamento de visita, fale connosco.",
+  "geo": {
+    "lat": 38.284732097678926,
+    "lng": -7.55845413850848
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,7 +24,15 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1515/91887/964ee146-fa85-4314-837a-2d7698c8f3e7.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento",
+      "Serviços: Escolas, Centro de saude",
+      "Vistas: Campo, Areas verdes",
+      "Árvores",
+      "Logradouro"
+    ]
+  },
   "estado": null,
   "area_util_m2": null,
   "area_bruta_m2": null,

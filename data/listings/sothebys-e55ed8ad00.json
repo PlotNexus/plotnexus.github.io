@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81708&foto=1653347&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81708&foto=1653347&f=1",
+  "description": "Descubra o Algarve 3.0\n\nO ARCAYA é um novo conceito residencial que nasce em Vilamoura, pensado para quem procura viver no Algarve com qualidade, e não apenas passar férias. Inspirado pela natureza e com um forte compromisso com a sustentabilidade, este projeto desenvolvido pelo atelier de arquitetura Batlleiroig propõe uma nova forma de habitar: mais consciente, integrada e duradoura.\n\nAs Arcaya Homes combinam conforto contemporâneo com um estilo de vida ligado à natureza. Nesta fase de lançamento, destacamos as moradias T3 com 165 m² de área interior, todas com piscina privativa.\n\nCada casa oferece amplas zonas exteriores, com jardins e terraços pensados para tirar o máximo partido do clima e da envolvente natural. \n\nMais do que um projeto, o ARCAYA é uma visão: criar uma comunidade residencial sustentável no coração do Algarve, com trilhos, parques naturais e um ambiente de tranquilidade onde se vive com propósito e bem-estar.",
+  "geo": {
+    "lat": 37.0813895157058,
+    "lng": -8.09259476184081
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,36 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81708&foto=1653347&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81708&foto=1653347&f=1"
   ],
-  "features": null,
+  "features": {
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Alarme (CCTV)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Exterior)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 165,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

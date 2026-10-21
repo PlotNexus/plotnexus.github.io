@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 91,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79232&foto=1600889&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79232&foto=1600889&f=1",
+  "description": "Esta moradia V4+ combina na perfeição a elegância e o charme do subúrbio com o fácil acesso à cidade do Porto ou ao aeroporto. Com uma forte presença de natureza à sua volta, poderá desfrutar da paz e sossego de uma vizinhança de elite. \n\nAo entrar, um hall acolhedor conduz à sala, à cozinha e às áreas privativas. A sala, ampla e luminosa, destaca-se pelo pé-direito duplo e pelo recuperador de calor de dupla face, que aquece de forma eficiente as zonas de estar e de jantar. No mezzanino, encontra um espaço versátil — ideal para um escritório, uma biblioteca ou simplesmente um canto mais reservado para trabalhar, ler ou criar.\n\nA moradia dispõe de quatro suítes, todas com ar condicionado e acesso direto ao jardim.\n\nO jardim, virado a sul, é um verdadeiro refúgio ao ar livre, perfeito para relaxar, brincar com as crianças, dar liberdade aos animais de estimação ou receber amigos para fins de tarde tranquilos. Junto à cozinha, um anexo dedicado a churrascos e convívios permite aproveitar este espaço durante todo o ano.\n\nA cozinha, ampla e funcional, tem espaço para refeições informais e muita arrumação, ideal para o ritmo do dia a dia.\n\nNo rés-do-chão, encontramos dois quartos adicionais que, atualmente, são utilizados como escritórios e têm uma casa de banho completa ao dispor. Ainda neste piso, um salão de festas com uma salamandra cria o cenário perfeito para jantares de família ou convívios descontraídos com jogos. O acesso direto à garagem torna tudo ainda mais prático.\n\nA garagem fechada tem capacidade para três carros e é possível estacionar vários mais no exterior.\n\nA localização permite deslocações diárias rápidas e cómodas, seja para o centro urbano, para as principais vias de acesso ou para o aeroporto, tudo a poucos minutos de distância. De carro, demora-se 8 minutos até ao aeroporto e 15 minutos até à Rotunda da Boavista.\n\nSe procura espaço, privacidade e conforto num ambiente tranquilo e bem servido, esta moradia tem tudo para o surpreender. \n\nPara mais informações, entre em contacto.",
+  "geo": {
+    "lat": 41.2335046,
+    "lng": -8.6207793
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,47 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79232&foto=1600889&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79232&foto=1600889&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Pavimento (Granito)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 91,
-  "area_bruta_m2": null,
+  "area_util_m2": 56,
+  "area_bruta_m2": 91,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

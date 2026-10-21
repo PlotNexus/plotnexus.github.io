@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 2,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80464&foto=1653093&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80464&foto=1653093&f=1",
+  "description": "Esplêndida moradia de estilo tradicional localizada numa zona residencial de Vilamoura, a escassos minutos da Marina de Vilamoura, dos conceituados campos de golfe e das belas praias da região.\n\nA propriedade foi construída de acordo com elevados padrões de excelência e qualidade, proporcionando conforto e uma agradável experiência de viver em casa. Esta moradia beneficia de elevada exposição solar e abundante luz natural, criando um ambiente acolhedor e harmonioso em todas as divisões.\n\nA propriedade é composta por quatro amplos quartos em suite, maravilhosamente distribuídos pelos seus dois pisos. As restantes divisões incluem uma cozinha totalmente equipada com eletrodomésticos de qualidade, uma casa de banho social e uma espaçosa sala de estar ligada à sala de jantar, com acesso direto a um jardim cuidadosamente tratado e a uma majestosa piscina aquecida.\n\nA área exterior da moradia conta ainda com uma churrasqueira e uma zona dedicada a refeições ao ar livre, permitindo desfrutar de agradáveis momentos de lazer com família e amigos.\n\nA propriedade inclui ainda uma garagem com espaço para uma viatura e duas divisões destinadas a arrumos.\n\nInserida num dos resorts de luxo mais conceituados da Europa, esta é a moradia ideal para uma família que procura desfrutar do estilo de vida proporcionado pelas diversas infraestruturas e comodidades que Vilamoura tem para oferecer.",
+  "geo": {
+    "lat": 37.0919188,
+    "lng": -8.1035223
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80464&foto=1653093&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80464&foto=1653093&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 2,
-  "area_bruta_m2": null,
+  "area_util_m2": 5,
+  "area_bruta_m2": 2,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

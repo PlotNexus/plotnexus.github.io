@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71756&foto=1408976&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71756&foto=1408976&f=1",
+  "description": "Junto à Praia dos Salgados, encontra-se o Salgados Beach Villas. A meros minutos a pé da praia, lagoa e campo de golfe, este fantástico empreendimento encontra-se numa das zonas mais ricas e diversas do Algarve. O Salgados Beach Villas oferece moradias de tipologias T2 a T4, com áreas otimizadas para se viver confortavelmente. Os materiais e acabamentos selecionados são únicos, escolhidos cuidadosamente para providenciar um ambiente requintado mas que ao mesmo tempo é descontraído. Todas as moradias contam com uma zona de terraço e jardim, piscina e estacionamento subterrâneo com acesso individual e direto a cada uma das frações. O Salgados Beach Villas é um empreendimento intemporal, onde é possível conjugar um estilo de vida sofisticado a tudo o que a Herdade dos Salgados tem para oferecer.",
+  "geo": {
+    "lat": 37.0897,
+    "lng": -8.322392
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71756&foto=1408976&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71756&foto=1408976&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 279,
+  "area_bruta_m2": 318,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

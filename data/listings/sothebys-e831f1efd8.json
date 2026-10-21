@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 7,
   "area_m2": 448,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=56808&foto=1081081&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=56808&foto=1081081&f=1",
+  "description": "Extraordinária moradia de cinco quartos, com 336 metros quadrados de área bruta privativa, que se desenvolve em quatro pisos, apoiados por um elevador. \nPossui quatro suites, uma delas com comunicação com um quarto. Dispõe de excelentes níveis de acabamentos, climatização com pavimento radiante, através de bomba de calor, painéis solares, aspiração central e sistema de som ambiente. A cozinha conta com acabamento lacado e equipamento \"De Dietrich\". As casas de banho são revestidas a mármore. Possui ainda um logradouro de 105 metros quadrados com zona de deck e uma agradável piscina exterior, e garagem com 76 metros quadrados com capacidade para quatro carros. \nCom um excelente localização, esta moradia encontra-se próxima de uma das principais vias da cidade com acesso facilitado à autoestrada e a outros pontos de interesse. Nas imediações é possível encontrar o Parque da Cidade e o Colégio internacional do Porto (CLIP), assim como comércio e variada oferta de serviços como farmácia, polícia, hospital, entre outros. A Avenida da Boavista encontra-se a um quilómetro e as praias de Matosinhos e Foz a menos de 20 minutos a pé.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,56 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=56808&foto=1081081&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=56808&foto=1081081&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Granito)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 76; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 448,
-  "area_bruta_m2": null,
+  "area_util_m2": 336,
+  "area_bruta_m2": 448,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

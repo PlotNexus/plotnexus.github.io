@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80967&foto=1711731&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80967&foto=1711731&f=1",
+  "description": "No coração de um dos bairros mais emblemáticos de Lisboa, este apartamento único distingue-se pela sua arquitetura escultural e pela sua atmosfera marcadamente contemporânea.\n\nSituado numa rua histórica ao longo das muralhas do Castelo de São Jorge, nas imediações da Igreja da Graça, este imóvel integra-se num projeto exclusivo composto por apenas três apartamentos independentes, pensados como verdadeiras casas privadas.\n\nTotalmente reabilitado sob a assinatura do arquiteto Pedro Domingos, o edifício revela uma identidade forte, marcada por uma arquitetura geométrica e por uma estética inspirada no brutalismo. Os materiais nobres — betão aparente, madeira de pinho, mármore de Carrara, marmorite e ferro — são aqui valorizados na sua expressão mais pura.\n\nA luz natural desempenha um papel central, difundida através de aberturas cuidadosamente desenhadas e de claraboias que organizam os volumes com elegância. As amplas janelas com estrutura metálica prolongam os espaços de vida para uma varanda que oferece uma vista espetacular sobre os telhados de Lisboa.\n\nDe dia como de noite, o panorama evolui, proporcionando um verdadeiro quadro vivo, com a Igreja da Graça e a alma vibrante da cidade como pano de fundo.\n\nNas proximidades do Teatro Taborda, o imóvel beneficia de um ambiente simultaneamente cultural, autêntico e tranquilo. A rua, de acesso reservado, garante calma e discrição.\n\nUm imóvel raro, para uma experiência de vida única em Lisboa.",
+  "geo": {
+    "lat": 38.7146673482571,
+    "lng": -9.1334811909851
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80967&foto=1711731&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80967&foto=1711731&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 156,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

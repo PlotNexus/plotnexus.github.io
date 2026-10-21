@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80664&foto=1626536&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80664&foto=1626536&f=1",
+  "description": "T3 Duplex localizado na prestigiada Quinta da Beloura II, no segundo andar do condomínio fechado chamado Splendid Beloura. Este elegante apartamento duplex com três frentes de varandas, tem excelente exposição solar e é uma oportunidade única no mercado imobiliário. Com uma área bruta privativa de 184 metros quadrados e uma área bruta de construção de 360 metros quadrados, esta propriedade oferece um espaço generoso e confortável para viver.\nCom duas suítes e um quarto, este apartamento é ideal para famílias que valorizam o conforto e a privacidade. Além disso, possui três casas de banho, garantindo comodidade e praticidade para todos os moradores. As varandas espaçosas, com 45 metros quadrados, são perfeitas para relaxar e desfrutar de momentos ao ar livre com vista desafogada também para a Serra de Sintra. No sótão temos 90 metros quadrados com pé direito habitável que poderá ser utilizado como um escritório ou como segunda zona de estar.\nEste imóvel encontra-se em excelente estado de conservação, sendo uma opção perfeita para quem procura uma casa pronta para habitar, com estacionamento em box de 59 metros quadrados para dois veículos, proporcionando segurança e conveniência. O condomínio oferece um espaço exterior muito simpático com piscina e jardim. \nA localização privilegiada deste apartamento oferece fácil acesso às principais vias, como a A16 e a A5, bem como ao IC19, garantindo uma ligação rápida a outras áreas e a 20 minutos do aeroporto de Lisboa. Além disso, está a apenas 10 km da estação de comboios mais próxima, facilitando a mobilidade. A Quinta da Beloura dispõe de campo de golfe, academia de ténis, ginásio, centro equestre, hotel, espaços empresariais e comerciais, restauração e diversas escolas, incluindo a American International School of Lisbon e o TASIS, tornando o quotidiano ainda mais conveniente.\nNão perca a oportunidade de adquirir este imóvel único na Quinta da Beloura II. Agende já a sua visita e descubra o conforto, elegância e localização privilegiada deste apartamento duplex. Não deixe escapar esta oportunidade de viver num ambiente sofisticado e exclusivo. Entre em contacto connosco hoje mesmo!",
+  "geo": {
+    "lat": 38.758744,
+    "lng": -9.3850219
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,59 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80664&foto=1626536&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80664&foto=1626536&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Gás Canalizado",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Gás Canalizado, Jardins, Sala Condomínio, TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 59; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Centros Comerciais, Clínica, Escolas, Farmácia, Hospital, Jardins Infância, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 33,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

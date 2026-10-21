@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 3832,
   "image": "https://cdn.proppy.app/propertyfiles/1526/70416/69e94ef7-1697-4b02-91a9-d4eb126317ab.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno Rústico com 3.832,00 m2 com Moradia de Apoio\n\nProximidade do Centro da Vila da Povoação\n\nVista Mar e Serra\n\nA Povoação é uma vila portuguesa na ilha de São Miguel, Região Autónoma dos Açores, com cerca de 2 100 habitantes.\n\nÉ sede do município da Povoação[2] com 110,30 km² de área e 6 327 habitantes (2011), subdividido em 6 freguesias. O município é limitado a norte pelos municípios da Ribeira Grande e de Nordeste, a oeste por Vila Franca do Campo e tem costa no oceano Atlântico a leste e sul.\n\nO Concelho da Povoação, com área de 110.30 km2 aproximadamente, situa-se na zona oriental da costa sul da ilha, distando 60 Km da cidade de Ponta Delgada. É delimitado pelos Municípios de V. Franca (Poente), Ribeira Grande (Norte) e de Nordeste (Nascente). O Concelho é constituído por seis freguesias (Povoação, Furnas, Nossa Senhora dos Remédios, Ribeira Quente, Água Retorta e Faial da Terra) e tem cerca de 7000 habitantes. \n\nPor todo o Concelho se usufrui de um conjunto magnífico de paisagens, parques, miradouros, praias (inclusive uma de água tépida). A Lagoa das Furnas é, por seu turno, outro recanto ao qual não ficará indiferente pela beleza e magia que o envolve.",
+  "geo": {
+    "lat": 37.750397839410375,
+    "lng": -25.245858669280995
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,23 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/70416/69e94ef7-1697-4b02-91a9-d4eb126317ab.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista mar, Vista montanha",
+      "Orientação solar: Norte, Sul",
+      "Certificação energética: Isento",
+      "Localização: Periferia",
+      "Serviços: Supermercados, Bancos, Correios, Farmácia, Escolas, Infantário, Lar de terceira idade, Centro de saude, Policia",
+      "Zona envolvente: Residencial",
+      "Vistas: Mar, Serra"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul"
+    ]
+  },
   "estado": null,
   "area_util_m2": 3832,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 3832,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

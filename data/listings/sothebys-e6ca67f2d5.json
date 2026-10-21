@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76074&foto=1526118&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76074&foto=1526118&f=1",
+  "description": "Situada numa das zonas mais exclusivas e cosmopolitas de Lisboa, esta fração autónoma no rés-do-chão de um prédio tradicional foi convertida em quatro apartamentos independentes, atualmente explorados como Alojamento Local.\n\nCada unidade dispõe de um quarto, sala, cozinha e casa de banho, sendo que duas delas contam ainda com varanda privada, acrescentando valor e conforto à experiência dos hóspedes. Apesar de estar ao nível do rés-do-chão, o imóvel beneficia de boa entrada de luz natural, criando ambientes acolhedores e agradáveis.\n\nOs apartamentos foram totalmente renovados, com materiais modernos e soluções funcionais, mantendo-se elementos característicos da arquitetura original do edifício, o que proporciona um equilíbrio entre autenticidade e contemporaneidade.\n\nEste imóvel representa uma excelente oportunidade de investimento, com yield bruta superior a 6,8%, sustentada por uma operação de Alojamento Local já em funcionamento, com taxa de ocupação muito elevada e desempenho consistente.\n\nLocalização premium:\nO Príncipe Real é reconhecido pela sua elegância e sofisticação, atraindo tanto residentes como turistas. Rodeado de jardins emblemáticos, restaurantes de autor, lojas independentes e espaços culturais, este bairro oferece uma qualidade de vida urbana incomparável. A proximidade ao Jardim do Príncipe Real, à Praça das Flores, à Avenida da Liberdade e ao Bairro Alto garante uma localização privilegiada, num dos eixos mais valorizados de Lisboa.\n\nUma proposta única para quem procura investir com segurança e retorno imediato numa das zonas mais prestigiadas da cidade.",
+  "geo": {
+    "lat": 38.7111501,
+    "lng": -9.1490905
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,22 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76074&foto=1526118&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76074&foto=1526118&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 5"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 143,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

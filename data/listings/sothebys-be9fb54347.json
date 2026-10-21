@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79406&foto=1599467&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79406&foto=1599467&f=1",
+  "description": "Ando Living – Santos House é um projeto residencial exclusivo situado no coração de Lisboa, entre a Lapa e Santos. Este edifício histórico, totalmente reabilitado, combina autenticidade e conforto contemporâneo, oferecendo 32 apartamentos mobilados de luxo. As tipologias variam entre T1 e T3, distribuídas por cinco pisos, com licença turística e possibilidade de arrendamento de curta duração através do grupo Ando Living.\nCom uma fachada revestida a azulejos de elevado valor patrimonial, varandas em ferro forjado e tetos ornamentados com 3,5 metros de altura, o edifício preserva o carácter original, incorporando tecnologia moderna de construção anti-sísmica, isolamento acústico e eficiência energética.\nLocalizado em Santos, um dos bairros mais autênticos e criativos de Lisboa, o Ando Living encontra-se próximo de galerias de arte, restaurantes, museus, estúdios de yoga e cafés artesanais. A zona beneficia ainda da futura expansão do metro, além de acessos rápidos ao centro histórico, ao rio Tejo e às principais vias da cidade.\nSantos é uma área central, bem conectada e repleta de energia cultural, onde o passado e o presente se encontram em perfeita harmonia. O Ando Living – Santos House oferece assim um modo de viver genuinamente lisboeta, pensado para quem procura investir, residir ou usufruir da cidade com autenticidade e conforto.",
+  "geo": {
+    "lat": 38.7100523,
+    "lng": -9.1590861
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,21 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79406&foto=1599467&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79406&foto=1599467&f=1"
   ],
-  "features": null,
+  "features": {
+    "Vistas": [
+      "Cidade",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 151,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

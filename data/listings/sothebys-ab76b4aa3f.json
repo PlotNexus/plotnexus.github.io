@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 197,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81033&foto=1637277&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81033&foto=1637277&f=1",
+  "description": "Esta moradia isolada de tipologia T3 situa-se em Carvoeiro, no Algarve, destacando-se pela sua construção moderna, concluída em 2019, e pelo seu potencial de rentabilidade. Desenvolvida com projeto da arquiteta Marlene Uldschmidt, apresenta linhas contemporâneas e uma organização funcional dos espaços. Com três suítes e exposição solar a sul, surge como uma solução versátil para habitação permanente, casa de férias ou investimento.\n\nCom uma área bruta privativa de 171 metros quadrados e área bruta de construção de 197 metros quadrados, a moradia distribui-se por dois pisos. No piso térreo encontra-se uma suíte, cozinha em open space com sala de estar, casa de banho de serviço, arrecadação e garagem em box para um carro.\n\nNo primeiro piso existem duas suítes, uma varanda e acesso direto ao terraço, criando um espaço exterior adicional. A construção integra soluções técnicas que ajudam no isolamento e controlo de humidade, incluindo uma caixa de ar sob o piso térreo, contribuindo para eficiência e manutenção controlada.\n\nLocalizada a cerca de 10 minutos a pé da praia, beneficia da proximidade a restaurantes, supermercados e comércio local. A envolvente permite um quotidiano funcional, com diversos serviços acessíveis a curta distância.\n\nOs acessos às principais vias são rápidos, facilitando a mobilidade dentro da região. A zona oferece boas ligações rodoviárias, permitindo chegar facilmente a vários pontos do Algarve.\n\nInserida numa área tranquila de Carvoeiro, esta moradia conjuga arquitetura contemporânea com uma localização estratégica, representando uma opção sólida para quem valoriza proximidade ao mar e qualidade de construção.",
+  "geo": {
+    "lat": 37.1356631,
+    "lng": -8.4517228
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,52 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81033&foto=1637277&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81033&foto=1637277&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Estores (Eléctricos, PVC)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Alarme (CCTV, Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 197,
-  "area_bruta_m2": null,
+  "area_util_m2": 171,
+  "area_bruta_m2": 197,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

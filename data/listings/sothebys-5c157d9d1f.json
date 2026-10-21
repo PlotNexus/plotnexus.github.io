@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 55,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79279&foto=1713746&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79279&foto=1713746&f=1",
+  "description": "Experimente a elegância costeira a apenas 20 metros da praia, localizada junto à prestigiada zona da Senhora da Luz.\nEsta moderna e novíssima villa, com 3+1 quartos, oferece uma rara combinação de privacidade, engenharia europeia de alta qualidade e vistas deslumbrantes para o mar. Situada numa rua residencial tranquila e de sentido único, proporciona um refúgio de paz no bairro costeiro mais sofisticado do Porto.\n\nEducação de Classe Mundial a uma Curta Distância:\n\n• Oporto British School: Localizada a apenas 400 metros, a uma confortável caminhada de 5 minutos da sua porta.\n• Maple Bear Canadian School: Uma excelente opção de educação bilingue, a apenas 7 minutos a pé.\n• Comodidade para a Família: Elimine a viagem matinal para a escola e desfrute de um estilo de vida verdadeiramente acessível a pé.\n\n Características e Estilo de Vida Premium:\n\n• Localização Privilegiada: A poucos passos do oceano, boutiques de luxo, restaurantes requintados e mercados biológicos.\n• Vistas para o Oceano: Concebidas para maximizar a luz natural.\n• Layout com 3+1 quartos: Interiores versáteis e espaçosos, ideais para a vida familiar moderna ou para escritórios executivos em casa.\n• Estacionamento privativo: Garagem segura para 2 carros, um diferencial nesta histórica zona costeira.\n• Acessibilidade preparada para o futuro: Pré-instalação para elevador privado com acesso a todos os pisos.\n\nEngenharia de elite e eficiência energética:\n\n• Caixilharias Schüco: Janelas de alta especificação, com engenharia alemã, que proporcionam um isolamento acústico e térmico de classe mundial.\n• Fachada ETICS: Sistema de isolamento exterior de última geração que garante o conforto climático durante todo o ano.\n• Climatização premium: Totalmente equipada com ar condicionado Mitsubishi de última geração.\n• Eletrodomésticos Bosch de alta qualidade na cozinha\n• Aquecimento de água ecológico: Bomba de calor Solius 300L de alta capacidade para a máxima eficiência energética.\n• Preparada para aquecimento central: Sistema pré-instalado, permitindo personalizar facilmente as suas preferências de aquecimento no inverno.\n\nPorquê Foz do Douro? A Foz do Douro é a morada mais cobiçada do Porto, famosa pelo seu charme histórico, segurança excecional e estilo de vida vibrante ao ar livre. Esta propriedade representa não só uma casa de luxo, mas também um ativo seguro e de alto valor no próspero mercado imobiliário de luxo de Portugal.",
+  "geo": {
+    "lat": 41.153501178503,
+    "lng": -8.67915891488038
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79279&foto=1713746&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79279&foto=1713746&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Termolacada"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Pavimento (Mármore)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 42; Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 55,
-  "area_bruta_m2": null,
+  "area_util_m2": 180,
+  "area_bruta_m2": 55,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

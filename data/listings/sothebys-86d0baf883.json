@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 453,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82208&foto=1674373&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82208&foto=1674373&f=1",
+  "description": "Localizada numa zona tranquila e central de Vilamoura, esta elegante moradia em banda representa uma excelente oportunidade para residência permanente, casa de férias ou investimento imobiliário. Inserida numa das áreas mais prestigiadas do Algarve, beneficia de proximidade a todas as comodidades essenciais e aos principais pontos de interesse da região.\n\nCom uma área bruta de construção de 453 m² e tipologia T4+1, a propriedade distingue-se pelos seus espaços amplos e luminosos. Dispõe de cinco quartos, todos com roupeiros embutidos e ar condicionado, uma generosa sala de estar e jantar com pé-direito elevado, lareira e abundante luz natural, além de quatro casas de banho e uma cozinha totalmente equipada. O aquecimento central e os acabamentos de qualidade reforçam o conforto e a funcionalidade da moradia. Dispõe também de uma garagem com lugar para 2 carros.\n\nA cave, de grandes dimensões e grande versatilidade, oferece múltiplas possibilidades de utilização, podendo ser adaptada a sala de jogos, ginásio, escritório ou zona de lazer. Este piso inclui ainda lavandaria e amplas áreas de arrumação.\n\nNo exterior, a propriedade convida a desfrutar do estilo de vida algarvio, com piscina privada, zona de estar coberta e terraço com churrasqueira, ideais para momentos de convívio e lazer ao ar livre. \n\nA localização é um dos seus maiores atributos, situando-se a poucos minutos da Marina de Vilamoura, dos prestigiados campos de golfe, supermercados, escolas, restaurantes e com excelentes acessos ao Aeroporto Internacional de Faro.",
+  "geo": {
+    "lat": 37.1070801,
+    "lng": -8.1318177
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82208&foto=1674373&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82208&foto=1674373&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 453,
-  "area_bruta_m2": null,
+  "area_util_m2": 385,
+  "area_bruta_m2": 453,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }
