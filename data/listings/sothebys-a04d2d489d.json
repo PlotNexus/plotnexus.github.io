@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79653&foto=1605704&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79653&foto=1605704&f=1",
+  "description": "Apartamento T4 com 177 m² de área privativa, varanda excecional de 203 m² e quatro lugares de estacionamento, inserido num condomínio privado de arquitetura contemporânea nas encostas do Rio Douro.\n\nA localização oferece um equilíbrio raro entre a proximidade ao centro do Porto e a tranquilidade de uma envolvente natural, com vistas abertas sobre o rio e excelentes acessos urbanos. Integrado no Novo Centro de Vila Nova de Gaia, o empreendimento beneficia de uma área em forte valorização, com comércio, serviços, restauração e espaços verdes nas imediações.\n\nA poucos metros da futura Linha de Metro Rubi, o projeto garante uma ligação rápida e eficiente ao Porto, reforçando a conveniência do dia a dia e o potencial de investimento.\n\nO condomínio é composto por 114 apartamentos, com piscina na cobertura, pista de atletismo e áreas comuns pensadas para o bem-estar. Algumas frações dispõem ainda de piscina privativa, elevando o nível de conforto e exclusividade.\n\nOs interiores distinguem-se pela qualidade dos materiais e acabamentos, com equipamentos premium e soluções técnicas orientadas para eficiência, conforto térmico e acústico, assegurando um elevado padrão de construção.",
+  "geo": {
+    "lat": 41.1311551,
+    "lng": -8.6108598
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79653&foto=1605704&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79653&foto=1605704&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 177,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

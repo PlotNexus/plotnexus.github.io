@@ -8,9 +8,12 @@
   "bedrooms": 10,
   "bathrooms": 6,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68685&foto=1318605&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68685&foto=1318605&f=1",
+  "description": "Esta moradia localizada no bairro de Benfica, Lisboa, dispõe de 10 quartos e 6 casas de banho, encontrando-se a funcionar como Lar de Idosos há vários anos. Encontra-se em pleno funcionamento, com alvará e todas as licenças inerentes a esta área de atividade. A moradia divide-se por 4 pisos, do piso -1 ao piso 2, todos eles ligados por uma escada e um elevador que liga o piso térreo aos 2 pisos superiores. No piso -1 encontra-se a parte mais técnica do lar, onde podemos encontrar um espaço de lavandaria, um espaço para arrumos diversos, arrecadações e o vestiário dos colaboradores com uma casa de banho. No piso térreo, encontram-se as áreas sociais, que se dividem numa sala de estar e de refeições, duas casas de banho, uma delas de acessibilidade total, um gabinete médico e uma cozinha totalmente equipada e adequada a esta atividade. Tanto o gabinete médico como a cozinha dispõem de uma porta e janela para o exterior. Os pisos superiores destinam-se exclusivamente a zona de descanso, onde podemos encontrar 5 quartos e 2 casas de banho em casa piso. O acesso a estes 2 pisos é feito através de escadas e elevador. Os materiais utilizados no revestimento da cozinha e casas de banho, são de cerâmica branca de alta resistência para facilitar a manutenção e higiene. A exposição solar é um fator importante, proporcionando uma abundância de luz natural em toda a casa. Nos pisos superiores, a moradia dispõe de generosas varandas que permitem usufruir de espaços exteriores. No piso térreo encontramos um terraço onde se pode disfrutar de um confortável espaço exterior. A localização é excelente, junto a uma zona central, excelentes acessos, proximidade de transportes públicos, jardins e escolas. O bairro de Benfica é bastante familiar, acolhedor e com todo o tipo de comércio tradicional, cafés, restaurantes e hospitais. Existe também a possibilidade de comprar apenas a moradia sem o negócio.",
+  "geo": {
+    "lat": 38.74716,
+    "lng": -9.201268
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68685&foto=1318605&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68685&foto=1318605&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 313,
+  "area_bruta_m2": 180,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

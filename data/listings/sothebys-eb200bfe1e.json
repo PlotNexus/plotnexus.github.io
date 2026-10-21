@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 236,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68886&foto=1346408&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68886&foto=1346408&f=1",
+  "description": "Localizada na deslumbrante Lagoa de Albufeira, em Sesimbra, esta magnífica moradia isolada de 4 quartos oferece uma experiência de vida luxuosa e confortável. Com uma área bruta privativa de 236 metros quadrados, esta propriedade é uma verdadeira joia para quem procura uma residência de excelência.\nA moradia dispõe de 4 quartos e 3 casas de banho completas, sendo uma delas numa elegante suite com closet e acesso a um terraço com vistas deslumbrantes para o mar. O pé direito alto confere uma sensação de amplitude e luminosidade em toda a casa, realçando ainda mais o seu charme.\nNo piso térreo, uma sala jantar abre-se para um deck exterior e jardim. A ampla sala de estar com lareira proporciona um ambiente perfeito para desfrutar nos dias mais frios. A cozinha totalmente equipada conecta-se harmoniosamente com um deck exterior e jardim, ideal para refeições ao ar livre e momentos de convívio.\nO espaço exterior é um dos grandes atrativos desta propriedade, com uma piscina convidativa e amplos terraços onde pode desfrutar de momentos relaxantes e contemplar magníficos sunsets sobre o mar.\nEm termos de localização, esta moradia oferece proximidade a diversos serviços, como supermercados, escolas e restaurantes, garantindo uma vida prática e conveniente. Além disso, está estrategicamente situada próximo às principais vias e transportes, facilitando o acesso a outras áreas de interesse na região.\nNão perca a oportunidade de adquirir esta moradia única, onde o conforto, a elegância e a qualidade de vida se fundem num cenário idílico à beira-mar. Agende já a sua visita e apaixone-se por este verdadeiro paraíso na Lagoa de Albufeira.",
+  "geo": {
+    "lat": 38.5064157,
+    "lng": -9.1743923
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,54 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68886&foto=1346408&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68886&foto=1346408&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Gás Canalizado",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Distante Cidade)",
+      "Proximidade (Escolas, Ginásio, Jardins, Jardins Infância, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 236,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 236,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

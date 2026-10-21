@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 350,
   "image": "https://cdn.proppy.app/propertyfiles/1497/15932/b2b4ff00-3d21-4083-906a-7786697f54ee.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Oportunidade!\n\nLotes de terreno com área de construção 350m2, em zona plana e calma. \n\nCentro da Cidade da Marinha Grande.",
+  "geo": {
+    "lat": 39.74933352715243,
+    "lng": -8.941065011298287
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,21 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1497/15932/b2b4ff00-3d21-4083-906a-7786697f54ee.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 350,
-  "area_bruta_m2": null,
+  "features": {
+    "Geral": [
+      "Certificação energética: Isento",
+      "Acessos: Transportes públicos",
+      "Localização: Centro",
+      "Serviços: Centro comercial, Supermercados, Bancos, Correios, Farmácia, Escolas, Infantário, Lar de terceira idade, Universidade, Centro de saude"
+    ],
+    "Interior": [
+      "Cozinha equipada",
+      "Cozinha equipada"
+    ]
+  },
+  "estado": "Novo",
+  "area_util_m2": 224,
+  "area_bruta_m2": 350,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

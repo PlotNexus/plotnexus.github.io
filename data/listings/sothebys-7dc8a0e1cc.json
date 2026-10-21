@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Moradia Isolada, Campelo e Ovil, Baião",
   "bedrooms": 10,
-  "bathrooms": null,
+  "bathrooms": 6,
   "area_m2": 1240,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79259&foto=1611942&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79259&foto=1611942&f=1",
+  "description": "Em Baião, numa zona de grande tranquilidade e total privacidade, encontra esta moradia de exceção, uma propriedade que se destaca pela dimensão, qualidade de construção e capacidade de proporcionar um estilo de vida superior. Implantada num terreno de 1.050 m² e com uma área bruta de construção rara no mercado — 1.240 m² — esta casa oferece o equilíbrio perfeito entre conforto, funcionalidade e exclusividade. Os seus 790 m² de área privativa distribuem-se por divisões generosas, cinco suítes amplas e luminosas que garantem privacidade a toda a família, várias salas pensadas para diferentes momentos do dia e uma cozinha totalmente equipada que combina modernidade, eficiência e qualidade. Nos 450 m² de área dependente encontra-se uma das maiores mais-valias da propriedade: uma piscina interior aquecida que permite desfrutar de lazer e bem-estar durante todo o ano, num ambiente totalmente resguardado. A moradia conta ainda com garagem ampla, arrumos e soluções tecnológicas que elevam o conforto diário, como painéis solares, bomba de calor e portão automático, assegurando eficiência energética e comodidade. Mais do que uma casa de grande escala, esta propriedade distingue-se pela forma como foi pensada para facilitar o dia a dia, receber família e amigos com elegância e proporcionar um ambiente seguro, confortável e preparado para o futuro. Para quem procura espaço, privacidade, qualidade de construção e uma moradia com características únicas na região, esta é uma oportunidade raramente disponível no mercado. Agende a sua visita e descubra um imóvel que supera expectativas desde o primeiro contacto.",
+  "geo": {
+    "lat": 41.1644348,
+    "lng": -8.0344986
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79259&foto=1611942&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79259&foto=1611942&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 1240,
-  "area_bruta_m2": null,
+  "area_util_m2": 790,
+  "area_bruta_m2": 1240,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

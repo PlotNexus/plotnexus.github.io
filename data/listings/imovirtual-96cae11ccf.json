@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Marrazes e Barosa, Leiria",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 75,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InY1bHkyYjhhMGMxcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1Qd_7nubHuoCfWSHY0PPQmtTRxwn-wPz19jrItNwYvY/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InY1bHkyYjhhMGMxcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1Qd_7nubHuoCfWSHY0PPQmtTRxwn-wPz19jrItNwYvY/image;s=2048x1536;q=80",
+  "description": "Apartamento T1 / Garagem Box / Quinta da Alçada\n\nDescrição do imóvel:\n\nApartamento T1, inserido num prédio com elevador. Dispõe de cozinha semi-equipada, sala com lareira, despensa, marquise, varanda e garagem box. Beneficia de videoporteiro, roupeiros embutidos e excelente exposição solar. Excelente opção para habitação própria ou investimento.\n\nLocalização e envolvente:\n\nSituado na Quinta da Alçada, Marrazes, em Leiria. Zona calma e residencial com bons acessos e ligação ao centro da cidade. Na envolvente existe oferta de comércio e serviços, cafés, pastelarias, supermercados, farmácias e estabelecimentos de ensino, incluindo a Escola Básica da Quinta do Alçada, transportes públicos e aos principais eixos rodoviários da cidade.\n\nPrédio (conforme a Caderneta Predial Urbana):\n\n\"Prédio em Regime de Propriedade Horizontal\"\n\nPrincipais características:\n\n- Sala com lareira\n\n- Cozinha semi-equipada (placa e exaustor)\n\n- Despensa\n\n- Quarto com roupeiro embutido\n\n- WC\n\n- Varanda\n\n- Marquise\n\n- Garagem box\n\n- Vídeoporteiro\n\n- Prédio com elevador\n\nÁreas (conforme a Caderneta Predial Urbana):\n\n- Área bruta privativa: 75,0000 m²\n\n- Área bruta dependente: 26,7000 m²\n\nÁrea do terreno integrante: 0,0000 m²\n\nOutros valores:\n\n- IMI: 164,25€ (anual)\n\n- Valor Patrimonial Tributário (VPT): 54.751,26 €\n\n***\n\nCom HALLSTAR Consultores Imobiliários…\n\nA prioridade são as pessoas!\n\nO seu voto de CONFIANÇA é o nosso compromisso.\n\nPautamo-nos pela objetividade e TRANSPARÊNCIA em todas as fases do processo, proporcionando-lhe a SEGURANÇA que merece.\n\nNão há pessoas iguais, casas iguais nem negócios iguais.\n\nAdaptamo-nos às suas necessidades.\n\nINFORMAÇÃO e ACOMPANHAMENTO são as palavras-chave para a sua tomada de decisão.\n\nPrimamos por um serviço de qualidade e pela SATISFAÇÃO dos nossos clientes.\n\nNotas:\n\n*Se for consultor imobiliário, este imóvel está disponível para partilha de negócio. Apresente aos seus clientes compradores e agende a sua visita.\n\n*Para maior facilidade na identificação deste imóvel refira, por favor, o respetivo ID.",
+  "geo": {
+    "lat": 39.75729,
+    "lng": -8.821087
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,40 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InY1bHkyYjhhMGMxcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1Qd_7nubHuoCfWSHY0PPQmtTRxwn-wPz19jrItNwYvY/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InY1bHkyYjhhMGMxcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1Qd_7nubHuoCfWSHY0PPQmtTRxwn-wPz19jrItNwYvY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InB0eTU5aHRtNmlnbC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ._-jZu2Ur1_j0xu4E8PVj1uM7_UB8qicab8mfEsWTAc8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImtscXB6d3ZhNzdrbjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jZbUgJQVccphamrF8ySdvKv6Ke-edoSHYUFFipngrzo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh5bzZ5a2Rvaml6ODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rEn7YB2Du2uCT4ZF7z8KKtlFS0E3JApzYY26JIENXHo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Impsb2NsazMydHdiNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.vOGXPwoS4apbtRzwOscPTzggr1QqfOlkhGMqDZeaiko/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjB3bjhvdWl0N3Z2YTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.j-snP8BkqNUpmabXHvfNaD4ZQZ9kKMlfWA_7RN-xVXU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ino3MzFnOGlqbmRrZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.DdOKX07rHTGBndKr4aFm13YNcm4QYziNUqtc5sBe-b8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ink1aXpqbGYyemxoNTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.b1s0zU-qxqRmoa2N1MmN_J8ZnHjxNeJ-rHYAKXapsKQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxlYjZxcWprNWtuNjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.PWgngk8CIEFyVeUhlb6ZaayPKxpsgjINBXQrvWE1cWs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImY5OGpuMWhyOGQ5ODMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BhhvAFaY-Gn4SJKVa1j4Njs_dNQPogwr2v8oh-A0jW8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp3ODZ2ZGN4b3N1cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1FeAg0oFPVgbOLVudFvfGKs5y_oaMhRA0RX2CEcMZ_U/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9oczAzZW53azc5NDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.HFIb2yE-aqnGdPvDKV8WQoT3jqjYiT2eHbY31sOdh5w/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRtejNkazhscG5yNDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.QiNU9Wv_K7jcAfXULaiWRUIUCVUHam-xMf2c7xYfrCs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFxcHdocTF3MGpwZjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kh3Rd8KwdAXhpUJXbbMjL2N_iBekjQhJY_-xFof3w4s/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRmczNyZWI4eHhyNi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.VIR3ZCPQ3mbczcp46IqjtnbluZRtBQ5jZSaTA-LKQxE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImY2emcybmxlcHNmdzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9Yb09E0Ed3ChLZXDUtD_FWE5J9ajv88yMd4--jAdpzs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im84dnQyMmhwM292aTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.AlPT_LayIrz73RmdIevvw44fYZqD79fkjV0ekc17f7c/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVocnE5a3g0NWYxNjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.AHSZlE_V_y0rkYNtsoeNedmPt61nWG8HHo9aD4u3cXs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InN6cW03cm1mYXlyOTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.GR84tTZv3JLQfNBz_T8Fms0hUj1hoLJcbqNaXghimHI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im93cmE0MGZpeDh6czEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.hZzXnJMIEAzSahPUa6q_i9INMUwL36GChQrF95KhJCU/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Varanda",
+      "Garagem",
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 75,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 1999,
+  "certificacao_energetica": "BMINUS"
 }

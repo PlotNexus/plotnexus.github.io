@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78389&foto=1620971&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78389&foto=1620971&f=1",
+  "description": "Inserida num moderno complexo residencial na freguesia de Santa Luzia, esta moradia de design sofisticado combina a conveniência de estar próxima do centro do Funchal com a serenidade de uma zona tranquila e predominantemente residencial. Beneficia de uma vista privilegiada sobre a baía e de excelente exposição solar, que enche os interiores de luz natural ao longo do dia.\n\nO projeto, concebido para se integrar harmoniosamente na paisagem urbana, distribui-se por dois pisos, garantindo autonomia e privacidade. No piso térreo, a zona social em conceito open space inclui sala, cozinha moderna e casa de banho social, com acesso direto aos terraços, à piscina privativa e a um pequeno relvado.\n\nO piso superior é dedicado à área privada, com três elegantes suítes, todas com varanda, permitindo desfrutar plenamente das vistas deslumbrantes sobre o Funchal. A moradia conta ainda com uma espaçosa garagem de 100 metros quadrados, reforçando a funcionalidade e o conforto.\n\nUma propriedade contemporânea que alia elegância, privacidade e localização privilegiada, ideal para quem procura viver o melhor da cidade num ambiente de tranquilidade e requinte.",
+  "geo": {
+    "lat": 32.65432,
+    "lng": -16.9111
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78389&foto=1620971&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78389&foto=1620971&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 68,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

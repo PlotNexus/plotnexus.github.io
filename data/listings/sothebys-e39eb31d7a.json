@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63766&foto=1178824&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63766&foto=1178824&f=1",
+  "description": "Elegante apartamento T2 inserido em edifício contemporâneo, localizado entre o emblemático Largo de Camões e o vibrante Cais do Sodré.\n\nCom uma agradável varanda e vista sobre o rio, esta propriedade oferece uma atmosfera luminosa e sofisticada, ideal para quem procura viver no coração de Lisboa.\n\nO apartamento é vendido totalmente mobilado e equipado, incluindo louças e têxteis, pronto a habitar ou a rentabilizar de imediato.\n\nDispõe ainda de um lugar de estacionamento, um verdadeiro valor acrescentado nesta localização central.\n\nPela sua localização privilegiada e características, representa uma excelente oportunidade de investimento.",
+  "geo": {
+    "lat": 38.7076168,
+    "lng": -9.1422641
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63766&foto=1178824&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63766&foto=1178824&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 120,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

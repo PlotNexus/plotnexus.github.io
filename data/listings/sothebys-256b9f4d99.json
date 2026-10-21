@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 411,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82605&foto=1711734&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82605&foto=1711734&f=1",
+  "description": "Inserida no concelho de Mafra, esta moradia de tipologia V4 nasce da ligação entre a natureza e a arquitetura contemporânea, proporcionando um ambiente pensado para quem valoriza espaço exterior, privacidade e proximidade aos principais acessos. Um imóvel onde a envolvente natural faz parte do quotidiano, sem abdicar da facilidade de ligação a Lisboa e ao litoral.\n\nCom 231 m² de área bruta privativa e 411 m² de área bruta de construção, a moradia apresenta uma distribuição funcional, privilegiando a amplitude das áreas sociais e a relação entre o interior e o exterior. Dispõe de quatro quartos, três deles em suíte, num total de cinco casas de banho, oferecendo o conforto necessário para a vida familiar e para receber convidados.\n\nNova, a estrear, esta moradia integra soluções construtivas orientadas para o bem-estar, incluindo piso radiante, pré-instalação de ar condicionado e estores de alumínio. A varanda prolonga os espaços interiores e convida a desfrutar da exposição solar nascente e sul.\n\nA localização permite viver rodeado por natureza, mantendo uma relação próxima com os principais serviços. As escolas encontram-se a cerca de cinco minutos, sendo possível aceder facilmente ao comércio, restauração e restantes equipamentos essenciais da região.\n\nOs principais acessos rodoviários situam-se a apenas oito minutos, permitindo deslocações rápidas para Lisboa, Ericeira, Cascais e outros pontos de interesse da região. A proximidade às principais vias facilita igualmente o acesso aos transportes e às diferentes zonas do concelho.\n\nMafra distingue-se pela combinação entre património, espaços verdes e proximidade ao mar, oferecendo um estilo de vida onde o contacto com a natureza acompanha a rotina diária. A poucos minutos da pitoresca Aldeia da Mata Pequena, com as suas casas caiadas que transmitem bem a atmosfera de uma antiga aldeia saloia, esta moradia representa uma oportunidade para quem procura uma habitação contemporânea, com espaço exterior, conforto e uma localização que aproxima o campo, a cidade e a costa atlântica.",
+  "geo": {
+    "lat": 38.9209249,
+    "lng": -9.3080728
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,29 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82605&foto=1711734&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82605&foto=1711734&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Furo"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Estores (Alumínio)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos"
+    ],
+    "Zona": [
+      "Proximidade (Escolas, Jardins, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 411,
-  "area_bruta_m2": null,
+  "area_util_m2": 231,
+  "area_bruta_m2": 411,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

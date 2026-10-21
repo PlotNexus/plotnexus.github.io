@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70077&foto=1377223&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70077&foto=1377223&f=1",
+  "description": "Deslumbrante apartamento T4 +1 com 269 metros quadrados de área bruta privativa, inserido num condomínio de referência de Matosinhos Sul.\n \nÉ composto por uma espaçosa sala de estar e jantar com mais de 63 metros quadrados com acesso com a uma magnífica varanda com 13 metros quadrados virada a poente.\n\nA cozinha, totalmente equipada, com uma zona adicional de tratamento de roupa. \n\nDois dos quatro quartos são suíte, sendo o +1 com acesso privativo a mais uma casa de banho. \n\nO apartamento conta ainda com aquecimento central, vidros duplos, estores elétricos e estacionamento para três viaturas com arrumos de 16 metros quadrados.\n\nO condomínio contempla um Health Club para utilização exclusiva dos moradores com piscina coberta, solário exterior em deck, jacuzzi, balneários e sala polivalente. \n\nCom uma localização privilegiada em Matosinhos, a poucos passos da marginal e da praia, próximo de comércio e diferentes cadeias de supermercados, restaurantes e esplanadas, ginásios e todo o tipo de serviços. \n\nPossui, também, com uma vasta oferta de transportes públicos com autocarros a dois minutos e estação de metro a um quilómetro. \n\nCom excelentes acessos, muito próximo da Estrada da Circunvalação e acesso à autoestrada A4 com ligação à A28 a cerca de oito minutos permitindo o fácil acesso a outros pontos da cidade. \nO Parque da Cidade do Porto fica a menos de cinco minutos a pé, proporcionando a prática de atividades e desportos ao ar livre.",
+  "geo": {
+    "lat": 41.17388,
+    "lng": -8.682096
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,57 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70077&foto=1377223&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70077&foto=1377223&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Interior)",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Sala Condomínio, Zelador / Porteiro)",
+      "Piscina (Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 8,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

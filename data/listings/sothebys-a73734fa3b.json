@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 8,
   "area_m2": 4,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80261&foto=1634093&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80261&foto=1634093&f=1",
+  "description": "Apresentamos uma magnífica moradia localizada no Pinhal D'Aberta, em Esmoriz, um bairro residencial de excelência no distrito de Aveiro. Situada num generoso lote de 2.132 m², esta propriedade destaca-se pelos seus amplos jardins, perfeitamente enquadrados num ambiente verde e sereno. A proximidade à praia de Esmoriz, a poucos metros de distância, oferece um estilo de vida ímpar, equilibrando natureza e bem-estar.Com uma área bruta privativa de 623 m², a moradia está repartida por dois pisos, ostentando design e conforto em todas as divisões. Seis quartos generosos garantem privacidade, enquanto as zonas sociais amplas permitem múltiplos ambientes de convívio e recepção. A piscina, emoldurada pelo jardim, convida a longos dias de lazer, proporcionando momentos únicos em família e com amigos.Esta propriedade oferece diversos espaços exteriores, incluindo varandas e terraços perfeitos para refeições ao ar livre e relaxamento. Além do vasto espaço interno, há uma garagem individual e aparcamento, acomodando até quatro veículos, assegurando comodidade e segurança.Apesar da tranquilidade do entorno, a localização é estratégica, com acessos rápidos a Vila Nova de Gaia, Porto e ao Aeroporto Francisco Sá Carneiro. Além disso, a área oferece uma vasta gama de serviços essenciais, como escolas, supermercados e farmácias, garantindo um quotidiano cómodo e funcional.Não perca a oportunidade de viver numa moradia que combina dimensão, privacidade, localização e qualidade de vida, num ambiente ideal para criar memórias e receber amigos.",
+  "geo": {
+    "lat": 40.9601411,
+    "lng": -8.6453712
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,45 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80261&foto=1634093&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80261&foto=1634093&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Paredes (Pintadas)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 51.4"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 4,
-  "area_bruta_m2": null,
+  "area_util_m2": 623,
+  "area_bruta_m2": 4,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

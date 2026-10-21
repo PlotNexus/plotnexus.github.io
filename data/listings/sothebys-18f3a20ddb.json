@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76748&foto=1543207&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76748&foto=1543207&f=1",
+  "description": "Apartamento T3 vista mar\nSituado na freguesia da Parede, este elegante apartamento T3 integra um edifício de construção recente, a escassos metros do mar. Com uma generosa área bruta, o imóvel oferece três suites bem dimensionadas, que combinam conforto e funcionalidade. Dois dos quartos têm acesso direto a um amplo terraço de 48 metros quadrados, ideal para desfrutar de momentos de lazer ao ar livre durante todo o ano.\n\nA sala e a cozinha abrem-se para uma varanda com 25 metros, que acompanha toda a extensão destas divisões. Orientada a oeste, esta varanda proporciona uma agradável vista lateral para o mar, perfeita para apreciar o pôr do sol.\n\nA sala principal destaca-se pela sua amplitude e pela excelente exposição solar ao longo do dia, criando um ambiente luminoso e acolhedor. Os acabamentos são contemporâneos, com materiais neutros e duráveis, permitindo uma fácil adaptação do espaço a diferentes estilos de decoração.\n\nA propriedade inclui ainda dois lugares de estacionamento em garagem fechada, oferecendo maior comodidade numa localização central junto à orla marítima. A qualidade da construção e a disposição funcional das divisões asseguram um elevado nível de conforto térmico e acústico em toda a casa.\n\nLocalizado no coração da Parede, o imóvel está a uma curta distância a pé de uma vasta gama de serviços, como escolas, supermercados, restaurantes, comércio local e zonas de lazer. A proximidade da estação de comboios permite um acesso rápido a Lisboa e Cascais, enquanto as principais vias rodoviárias garantem uma excelente mobilidade.\n\nA curta distância de hospitais, centros de saúde e outros serviços essenciais contribui para uma vivência prática e conveniente. A Parede é uma localidade com forte identidade portuguesa, atualmente em franca valorização, ideal para quem procura qualidade de vida num ambiente urbano tranquilo, junto ao mar.",
+  "geo": {
+    "lat": 38.6900602461377,
+    "lng": -9.34725277573239
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,43 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76748&foto=1543207&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76748&foto=1543207&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Edifício": [
+      "Pavimento (Granito)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 30; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Bons, Comboio)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 160,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82089&foto=1660387&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82089&foto=1660387&f=1",
+  "description": "O Rivage Douro é um exclusivo condomínio fechado composto por apenas 29 apartamentos de tipologias T2, T3 e T4, numa localização privilegiada com vistas de primeira linha sobre o Rio Douro.\n\nProjetado pelo gabinete Paulo Merlini Arquitetos, distingue-se pela arquitetura contemporânea e sofisticada, onde cada detalhe foi pensado para proporcionar uma experiência residencial única. Os apartamentos são amplos, luminosos e intimistas, com interiores generosos e acabamentos de elevada qualidade.\n\nCada apartamento dispõe de um amplo terraço privativo com piscina, criando uma ligação natural entre os espaços interiores, a natureza e o rio. As grandes janelas minimalistas da fachada voltada para o Douro permitem a entrada abundante de luz natural, criando uma atmosfera serena e envolvente.\n\nAs áreas sociais privilegiam o conforto e a convivência, enquanto os terraços privados, com vistas panorâmicas sobre o Douro, prolongam naturalmente os interiores para o exterior. O condomínio dispõe ainda de serviço de concierge e de box fechada para 2, 3 ou 4 carros, consoante a tipologia.\n\nLocalizado a apenas 5 minutos do centro do Porto e a cerca de 1 minuto da VCI, o Rivage Douro oferece uma localização estratégica, próxima da cidade mas afastada da sua azáfama, ideal para quem procura privacidade, tranquilidade e proximidade à natureza.\n\nOs apartamentos contam com acabamentos premium, incluindo soalho maciço, mármore Travertino nas suítes, louças Roca, torneiras Bruma e eletrodomésticos Smeg.\n\nO Rivage Douro é uma forma exclusiva de viver junto ao Douro, combinando privacidade, conforto, arquitetura de excelência e vistas verdadeiramente únicas.",
+  "geo": {
+    "lat": 41.1359598,
+    "lng": -8.5331431
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82089&foto=1660387&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82089&foto=1660387&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 66,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

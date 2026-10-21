@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": null,
   "image": "https://cdn.proppy.app/propertyfiles/1505/25814/95a333ef-1f08-4d6d-bd57-5c98d8590180.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno \n\nA freguesia da Agualva, localiza-se na cidade da Praia da Vitoria, entre as Freguesias de São Brás, Vila Nova e Quatro Ribeiras. \n\nAgualva mantém as suas atividades culturais e tradições , como festas do Espirito Santo e os Bodos, onde se poderá apreciar os carros de bois, as iguarias confecionadas para as ocasiões.\n\nA freguesia conta com um dos pontos mais altos da ilha, o Pico Alto, derivado das suas características, poderá usufruir de nascentes que abastecem os moinhos ainda existentes na região e onde juntos das mesmas foi criado o Trilho da Ribeira da Agualva. Podemos também visitar a Reserva Natural da Alagoa da Fajazinha, localizada na Fajazinha.",
+  "geo": {
+    "lat": 38.77359192628766,
+    "lng": -27.173545360565186
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,8 +24,16 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1505/25814/95a333ef-1f08-4d6d-bd57-5c98d8590180.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Certificação energética: Isento",
+      "Localização: Periferia",
+      "Zona envolvente: Residencial",
+      "Vistas: Serra"
+    ]
+  },
+  "estado": "Por recuperar",
   "area_util_m2": null,
   "area_bruta_m2": null,
   "ano_construcao": null,

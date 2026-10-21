@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 2,
   "area_m2": 620,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68682&foto=1312238&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68682&foto=1312238&f=1",
+  "description": "Moradia de estilo clássico totalmente recuperada, com um valor arquitetónico notável, fruto de uma reabilitação cuidada que respeitou integralmente a traça original. Elementos como os tetos trabalhados, lambris e detalhes decorativos de época foram preservados, conferindo um charme único e intemporal, agora aliado ao conforto e funcionalidade de uma casa moderna. A propriedade encontra-se em excelente estado de conservação.\n\nImplantada num terreno com 1.400 m², destaca-se pelos belíssimos jardins envolventes, com árvores centenárias, frondosas e floridas, criando um ambiente sereno e privado, ideal para momentos de lazer ao ar livre.\n\nA moradia desenvolve-se essencialmente em dois pisos, com cave para arrumos e um sótão aproveitado com cerca de 100 m², oferecendo múltiplas possibilidades de utilização.\n\nLocalizada em pleno centro de Ovar, permite fácil acesso a pé a todo o tipo de comércio, serviços e equipamentos. A saída da cidade está a apenas 2 minutos de carro e o centro do Porto a 20 minutos de distância.\n\nViver em Ovar\nConhecida como a \"cidade-museu do azulejo\", Ovar encanta com as suas fachadas revestidas por azulejos coloridos, que não só refletem a luz do sol, como protegem as habitações do clima húmido das zonas ribeirinhas. A paisagem natural do concelho oferece uma harmoniosa combinação de ria, mar e floresta — um verdadeiro paraíso para os amantes da natureza e das atividades ao ar livre. Com cerca de 15 km de costa atlântica e extensas zonas ribeirinhas, Ovar proporciona uma qualidade de vida invejável num ambiente calmo, seguro e cheio de beleza natural.",
+  "geo": {
+    "lat": 40.85597,
+    "lng": -8.613212
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,27 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68682&foto=1312238&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68682&foto=1312238&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4"
+    ],
+    "Caixilharia": [
+      "Madeira"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 620,
-  "area_bruta_m2": null,
+  "area_util_m2": 400,
+  "area_bruta_m2": 620,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

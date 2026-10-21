@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83407&foto=1702942&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83407&foto=1702942&f=1",
+  "description": "Um apartamento de charme no coração de Belém, com o Tejo como cenário.\nNo centro de Belém, uma das zonas mais emblemáticas e prestigiadas de Lisboa, este magnífico apartamento de 5 quartos, alia a elegância da arquitectura clássica à amplitude, luminosidade e a uma das vistas mais especiais que Lisboa tem para oferecer.\nNum edifício de traça antiga e carácter, este apartamento distingue-se pelos seus elementos arquitectónicos originais, tectos altos e trabalhados, divisões generosas e extraordinária sensação de espaço que percorre toda a casa.\nCom três frentes e orientação a sul, beneficia de uma luminosidade natural excepcional ao longo do dia. A sua posição privilegiada permite ainda desfrutar de uma belíssima vista sobre o rio Tejo e alguns dos monumentos mais emblemáticos de Portugal, incluindo o Padrão dos Descobrimentos e a Torre de Belém, um cenário verdadeiramente único e que confere à propriedade uma identidade muito própria.\nAs áreas amplas e bem proporcionadas permitem múltiplas possibilidades de utilização e personalização, preservando ao mesmo tempo o carácter e a alma de uma casa com a elegância própria dos edifícios históricos de Lisboa. É uma propriedade pensada para quem valoriza espaço, arquitectura, luz e vistas, sem abdicar da centralidade e da qualidade de vida.\nViver em Belém é usufruir de uma das zonas mais qualificadas e completas de Lisboa. Entre o rio e os jardins, os monumentos históricos, museus, espaços culturais, restaurantes e uma vasta oferta de comércio e serviços, Belém combina tranquilidade e qualidade de vida com excelentes acessos ao centro da cidade.\nA zona beneficia de uma boa oferta de escolas e colégios, equipamentos culturais e desportivos, espaços verdes e infraestruturas de apoio, tornando-a particularmente atractiva para famílias. A proximidade ao rio e aos jardins proporciona um ambiente raro dentro da cidade, ideal para caminhadas, actividades ao ar livre e momentos de lazer.\nCom ligações rodoviárias e transportes públicos que permitem uma ligação fácil ao centro e às principais zonas da cidade, Belém mantém também uma forte procura no mercado residencial. A sua relevância histórica, qualidade urbana, localização junto ao Tejo e escassez de imóveis com estas características contribuem para o seu forte potencial enquanto activo imobiliário, seja para residência própria, seja como investimento. Uma propriedade excepcional onde a história, a arquitectura e o Tejo fazem parte da experiência de viver todos os dias.",
+  "geo": {
+    "lat": 38.7015104,
+    "lng": -9.2036526
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,35 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83407&foto=1702942&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83407&foto=1702942&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 160,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

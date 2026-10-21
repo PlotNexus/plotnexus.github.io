@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 22,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70720&foto=1379113&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70720&foto=1379113&f=1",
+  "description": "Trata-se de uma sofisticada e exclusiva moradia V3, harmoniosamente distribuída por três pisos, respetivamente circundados por um inspirador jardim, varanda e terraço. Dispõe também de uma box individual para estacionamento automóvel, esta com cerca de 24 m2,e de uma excelente lavandaria. \n\nAinda no rés do chão, e com acesso direto à zona ajardinada, desenvolve-se a área social deste soberbo imóvel. Nesta, encontramos uma ampla e espaçosa sala de estar e de jantar com cozinha em open - space, esta com uma ilha em krion branco, perfazendo no total uns generosos 52,50 m2. Este piso é ainda apoiado por uma casa de banho de serviço.\n\nPassando ao 1º piso, acedemos à zona privada do imóvel, onde podemos usufruir de uma master suite de 21 m2,com uma inspiradora claraboia na zona de duche. O segundo quarto oferece uns cativantes e charmosos 15 m2, em regime de suite. \n\nNo 2º e último piso, encontramos um luminoso e excelente espaço para instalação do terceiro quarto da moradia, ou se o proprietário assim o entender, poderá esta área ser usada como escritório, biblioteca ou sala de convívio, uma vez que os seus 16 m2 assim o permitem.\n\nNo que diz respeito a acabamentos e materiais de construção, será de destacar entre outros : Ar condicionado por conduta e ventilação mecânica controlada (VMC), Caixilharia em alumínio com corte térmico, pré-instalação de câmaras de vigilância, bomba de calor, cozinha Bosch totalmente equipada, cave de vinhos da marca Haier, sistema de domoótica. Ao nível dos revestimentos interiores podemos destacar porcelânico da Baldocer, quartz sand white jateado, mármore de Estremoz e revestimento de paredes com porcelânico Travertino. Não poderíamos deixar de referir o intemporal e elegante soalho em multicamadas de madeira de carvalho. Como detalhe de elegância e requinte, será também de destacar os roupeiros com luz led no interior, e o closet da suite principal com portas de vidro de bronze Stopsol e aros em alumínio de bronze.\n\nA sua localização premium permiti-lhe estar a escassos 14 Kms do Porto, a 2 min da A29, a 15 min da A41, a 15 min da A1 e A8, a escassos minutos da Estação de Comboio de Espinho, a 2 min do Golf de de Miramar, 15 min do Oporto Golf Club e a 25 km do aeroporto. Encontra-se também nas proximidades da escola primária local e do Colégio Dos Salesianos de Arcozelo. As praias da Aguda e de Miramar estão a uma walking distance de 2 e 5 minutos, respetivamente.",
+  "geo": {
+    "lat": 41.05866,
+    "lng": -8.652788
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,62 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70720&foto=1379113&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70720&foto=1379113&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Tecto (Falso Pladur, Focos, Ponto de Luz)",
+      "Equipamento (Gás Canalizado, Rega Automática, TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 24; Casa de Banho",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 22,
-  "area_bruta_m2": null,
+  "area_util_m2": 65,
+  "area_bruta_m2": 22,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Moradia, São Pedro de Sintra, Sintra",
   "bedrooms": 15,
-  "bathrooms": null,
+  "bathrooms": 5,
   "area_m2": 883,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=51149&foto=953734&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=51149&foto=953734&f=1",
+  "description": "Prédio para recuperação total composto por rés do chão, primeiro andar e moradia independente situada no centro de São Pedro de Sintra. O edifício ocupa todo o quarteirão, tendo um charmoso pátio no interior e três espaços comerciais.\nNo piso zero encontramos três lojas frente rua, funcionando em duas um restaurante com cozinha e duas divisões. Às lojas pode ser afecto um armazém e uma garagem para quatro ou cinco viaturas. \nNo piso um, e com entrada lateral, temos o acesso principal à moradia com 15 quartos, duas casas de banho, cozinha e sala dupla. Várias divisões estão viradas para o simpático pátio interior. A zona nascente da moradia tem acesso à estrada através de um pequeno jardim. Existe ainda uma moradia com três quartos, sala, cozinha e casa de banho com acesso directo à garagem. A casa tem 883 metros quadrados de construção, logradouro com 40 metros quadrados e terraço em frente das lojas com de 35 metros quadrados.",
+  "geo": {
+    "lat": 38.79206,
+    "lng": -9.380183
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=51149&foto=953734&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=51149&foto=953734&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 883,
-  "area_bruta_m2": null,
+  "area_util_m2": 864,
+  "area_bruta_m2": 883,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

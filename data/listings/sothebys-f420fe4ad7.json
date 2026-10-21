@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82914&foto=1695620&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82914&foto=1695620&f=1",
+  "description": "Moradia com três quartos, com 253 metros quadrados de área bruta de construção e 226 metros quadrados de área exterior. Inserida no novo condomínio privado Vale da Areia, em Ferragudo, esta unidade distingue-se pela sua funcionalidade, qualidade construtiva e ligação direta à natureza.\nProjetada para proporcionar conforto e bem-estar, será entregue totalmente mobilada e equipada, com acabamentos contemporâneos e uma distribuição eficiente dos espaços. O jardim privativo, os terraços generosos e o estacionamento exclusivo garantem um estilo de vida confortável e independente — ideal para residência permanente, férias ou investimento numa zona com elevado potencial de valorização.\nO Vale da Areia é um empreendimento de pequena escala, localizado numa zona elevada de Ferragudo, a poucos minutos a pé das praias e do centro da vila. Composto por moradias de 2 a 5 quartos com vista mar, o condomínio oferece piscina comum, zonas verdes e espaços de lazer de uso exclusivo dos residentes.\nA localização estratégica proporciona fácil acesso à marina de Ferragudo, a Portimão, à autoestrada A22 e a uma variedade de serviços, comércio local, escolas e restaurantes. Uma oportunidade sólida de investimento no mercado residencial do Algarve.",
+  "geo": {
+    "lat": 37.1248072431,
+    "lng": -8.5179233551
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,38 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82914&foto=1695620&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82914&foto=1695620&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 255,
+  "area_bruta_m2": 253,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

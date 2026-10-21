@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74869&foto=1564815&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74869&foto=1564815&f=1",
+  "description": "No tranquilo countryside algarvio, encontra-se esta quintinha de charme, que combina autenticidade com conforto moderno.\n\nA casa, totalmente térrea, garante máxima acessibilidade e bem-estar. Atualmente com dois quartos, oferece ainda um enorme potencial de conversão para quatro quartos, tornando-se assim numa residência ideal para famílias ou para receber convidados com todo o conforto.\n\nNo exterior, a propriedade surpreende com a sua piscina de borda infinita, perfeita para momentos de lazer e contemplação da paisagem envolvente. Para além disso, dispõe de painéis solares, reforçando a eficiência energética e a sustentabilidade do imóvel.\n\nO generoso terreno abre múltiplas possibilidades para jardins, espaços de lazer e até zonas de cultivo, proporcionando uma verdadeira experiência de vida no campo, a apenas cinco minutos da charmosa cidade de Loulé.",
+  "geo": {
+    "lat": 37.1400666549277,
+    "lng": -8.0241394042164
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74869&foto=1564815&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74869&foto=1564815&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 300,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

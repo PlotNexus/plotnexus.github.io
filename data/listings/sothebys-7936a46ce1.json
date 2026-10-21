@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82712&foto=1692865&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82712&foto=1692865&f=1",
+  "description": "Apartamento com Charme na Rua do Loreto\n\nNo coração do Chiado, na emblemática Rua do Loreto, encontra este apartamento de excelência, instalado num edifício de charme com elevador.\n\nCom uma área bruta de 260 m², o imóvel distribui-se por 6 assoalhadas, oferecendo um layout espaçoso e versátil, ideal para quem procura viver numa das zonas mais autênticas e cosmopolitas de Lisboa.\n\nDestaca-se a elegante sala abobadada, um elemento arquitetónico de grande carácter que confere uma atmosfera única e sofisticada ao espaço. De notar ainda os azulejos de época, que preservam a traça original do edifício e acrescentam um toque de autenticidade histórica ao imóvel. O apartamento inclui ainda cozinha, 3 casas de banho e 2 saguões que garantem luminosidade natural adicional.\n\nA localização privilegiada coloca-o a poucos passos de comércio de referência, restauração de qualidade, galerias de arte e da vibrante vida cultural do Chiado e Bairro Alto, com fácil acesso ao rio Tejo e ao centro histórico da cidade.\n\nUma oportunidade rara para quem valoriza autenticidade, localização e carácter arquitetónico num dos bairros mais desejados de Lisboa.",
+  "geo": {
+    "lat": 38.7107178,
+    "lng": -9.144527
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82712&foto=1692865&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82712&foto=1692865&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 260,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

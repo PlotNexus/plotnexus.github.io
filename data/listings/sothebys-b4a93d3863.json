@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76315&foto=1533300&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76315&foto=1533300&f=1",
+  "description": "Moradia de 200m² em betão armado, localizada na zona ribeirinha privilegiada de Setúbal. Construção executada por especialista familiar do proprietário, garantindo solidez estrutural e acabamentos de qualidade. \n\nDistribuição interna compreende 3 quartos (todos com área suite completa), 4 casas de banho equipadas com sanitários premium, garagem subterrânea dimensionada para 3 viaturas de grande porte, ginásio privativo , sala de estar de dimensões generosas com fluxo contínuo para os espaços exteriores, e cozinha totalmente equipada com eletrodomésticos de última geração. Área exterior de 236m² apresenta topografia regular, com potencial imediato para implementação de piscina retangular ou freeform, zona de churrasco fixa com chaminé integrada, e ampla arrecadação traseira (ideal para armazenamento de equipamentos marítimos ou agrícolas). Inclui ainda sector agrícola adjacente à serra, com solo fértil apto para cultivo de espécies mediterrânicas. \nGeoestratégia excecional: acesso pedonal de 5 minutos ao restaurante estrelado Michelin Xtoria (cozinha contemporânea de mariscos) e ao Mercado do Livramento (classificado como melhor mercado de Portugal pela AHRESP).\n\nDistâncias rodoviárias otimizadas: 3 minutos para o Parque Natural da Arrábida (rede de trilhos certificados) e Praia de Albarquel (bandeira azul), 7 minutos para as praias de Galapos e Figueirinha (top 5 nacional em qualidade de areia/água) e terminal fluvial com ligações diárias por catamarã para Troia/Comporta. Conectividade terrestre garantida pelo nó da A2/IP1, permitindo acesso ao centro de Lisboa em 20 minutos cronometrados e ao campo de golfe Quinta do Peru (18 buracos PGA) em idêntico intervalo temporal.\n\nValorização imobiliária documentada: registo de apreciação média superior a 8% ao ano, nos últimos 36 meses (dados SIR - Sistema de Informação Residencial).\n\nPotencial de rendimento turístico: faixa comprovada de €2.000-€3.000/semana no período estival (junho-setembro), com perspetiva de valorização adicional mediante a conclusão do projeto municipal de expansão do passeio ribeirinho (fase atual de execução orçamentada).",
+  "geo": {
+    "lat": 38.5318186,
+    "lng": -8.8882496
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76315&foto=1533300&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76315&foto=1533300&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 200,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

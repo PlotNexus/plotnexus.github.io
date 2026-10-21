@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71746&foto=1408409&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71746&foto=1408409&f=1",
+  "description": "O Odeon Theatre é um edifício icónico com uma localização única, ao lado da Avenida da Liberdade, com 10 apartamentos exclusivos.\nEste edifício icónico da Lisboa, dos anos 20 do século passado, foi totalmente renovado com o mesmo aspeto e sensação da antiga arquitetura tendo sido a zona do palco e plateia aproveitados para se fazer um restaurante &amp; bar único.\nFoi o primeiro teatro de Lisboa e um ícone cultural. O ODEON era conhecido como \"o Teatro\" do seu tempo, frequentado pela elite e reconhecido pelo seu glamour.\nCom uma fusão de pombalino com influência de Gustave Eiffel, foram preservados todos os elementos arquitetónicos que o tornam tão especial, ao mesmo tempo que foram concebidos espaços interiores de alta qualidade, com inovação, conforto e elegância para os residentes.\nA luz do sol entra para criar um ambiente acolhedor, uma vez que os apartamentos estão virados para sul e proporcionam uma orientação solar perfeita com vistas para a elegante Avenida da Liberdade ou para a encantadora Porta de Santo Antão.\nOs apartamentos foram cuidadosamente concebidos para proporcionar o máximo conforto e estilo de vida através de interiores estruturados, excelente aproveitamento dos espaços e da luz natural, tetos altos com mezzanines, marquises e grandes terraços com vista para a Avenida da Liberdade.\nO apartamento tem a cozinha totalmente equipada, zona de lavandaria, chão aquecido, acabamentos de primeira qualidade e roupeiros embutidos.\nÀ entrada do apartamento encontramos as escadas para o primeiro andar, a casa de banho social e de seguida a sala com uma agradável cozinha aberta com uma ilha onde se encontra o fogão, a cave de vinhos, forno, micro-ondas e vários espaços de arrumação.\nParte da sala tem duplo pé direito e duas enormes portas que se abrem para um simpático e bonito terraço que nos convida a refeições prolongadas.\nO espaçoso quarto (suite), que ocupa todo o primeiro piso do apartamento, tem uma zona de closet e permite ainda ter espaço para ter uma secretária / mesa de trabalho.\nO apartamento conta ainda com um espaço de arrumações e lavandaria, ar condicionado e um lugar de garagem.",
+  "geo": {
+    "lat": 38.71681,
+    "lng": -9.141454
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71746&foto=1408409&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71746&foto=1408409&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Madeira",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Gás Canalizado",
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação, Lojas)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado, Vidro (painéis))",
+      "Hall de Entrada (Iluminação Aut.)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Pedra Natural, Pintadas)",
+      "Tecto (Falso Pladur, Focos)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 12.5; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Farmácia, Hospital, Jardins, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 127,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

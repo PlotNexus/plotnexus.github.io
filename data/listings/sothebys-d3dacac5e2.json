@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83295&foto=1693740&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83295&foto=1693740&f=1",
+  "description": "No coração de Vilamoura, o L'Orangerie é um dos condomínios mais tranquilos e reconhecidos da região. É aqui que esta moradia V2+2 em banda se encontra, a poucos passos dos campos de golfe Dom Pedro e a uma curta distância de carro da Praia da Falésia.\n\nA casa distribui-se por três pisos com uma lógica simples e harmoniosa. No rés-do-chão, a sala e a sala de jantar em open space, com lareira, prolongam-se naturalmente para o jardim privado, onde uma área de churrasco convida às refeições ao ar livre. A cozinha é totalmente equipada, existe uma casa de banho de serviço e um quarto em suíte com acesso direto a um terraço privativo. Um segundo terraço, coberto, acolhe ainda uma área de lavandaria sob teto envidraçado.\n\nA cave surpreende pela luminosidade, dois quartos com luz natural, uma casa de banho completa e uma arrecadação completam este nível, com acesso direto a dois lugares de estacionamento privativos em garagem.\n\nNo piso superior, a suíte principal tem casa de banho com duche e um terraço amplo e generoso, perfeito para aproveitar os dias ensolarados do Algarve do início ao fim.\n\nO condomínio é fechado, com segurança 24 horas e piscina comum com zona infantil. Escola internacional, comércio e serviços estão igualmente a poucos minutos.",
+  "geo": {
+    "lat": 37.1025646,
+    "lng": -8.1361637
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83295&foto=1693740&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83295&foto=1693740&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 94,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

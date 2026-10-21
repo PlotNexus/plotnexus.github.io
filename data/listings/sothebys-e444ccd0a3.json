@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83491&foto=1708128&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83491&foto=1708128&f=1",
+  "description": "Excecional apartamento T2, totalmente remodelado a estrear, localizado numa das zonas residenciais mais prestigiadas do Monte Estoril, a poucos minutos a pé da praia e da estação de comboios e próximo de todos os serviços, comércio e restaurantes do Monte Estoril, Estoril e Cascais.\nCom 153 m² de área bruta privativa e 236 m² de área bruta de construção, o apartamento distingue-se pelas áreas generosas, pela luminosidade e, sobretudo, pela qualidade irrepreensível da remodelação, pensada ao detalhe e realizada pelos atuais proprietários para uso próprio.\nA zona social desenvolve-se num amplo espaço em open space, onde sala, zona de jantar e cozinha se articulam de forma fluida. A lareira acrescenta conforto e carácter ao ambiente, enquanto as varandas orientadas a sul prolongam naturalmente os espaços interiores e beneficiam de excelente exposição solar. A cozinha foi concebida com particular atenção à funcionalidade e à qualidade dos equipamentos, contando com eletrodomésticos Miele, frigorífico e congelador integrados Liebherr e torneira Quooker com água filtrada, a 100 °C e gaseificada. O apartamento dispõe ainda de uma lavandaria independente e zona técnica, permitindo preservar a elegância e organização das áreas principais. \nNa zona privada encontram-se duas suites, ambas com excelentes áreas. A master suite destaca-se pelas suas dimensões e pelo acesso direto a um amplo terraço, muito luminoso e com potencial para criar uma verdadeira zona exterior privada, um espaço de descanso e privacidade pouco comum num apartamento. A remodelação revela uma criteriosa seleção de materiais e equipamentos de elevada qualidade: pavimento em madeira de carvalho Havwoods, mármore do Brasil, tintas inglesas Little Greene, puxadores em bronze fundido Dauby, interruptores e tomadas Modelec em madeira de carvalho e radiadores em ferro fundido Castrads com tubagem em cobre. Nas casas de banho foram selecionadas loiças Catalano e torneiras CEA, ambas de origem italiana. O conforto foi igualmente uma prioridade, com sistema de ventilação integrada em todo o apartamento e bomba de calor Daikin para aquecimento de águas. \nInserido num condomínio privado com jardim, piscina concierge, o apartamento beneficia ainda de três lugares de estacionamento e uma arrecadação no mesmo piso.",
+  "geo": {
+    "lat": 38.7058898,
+    "lng": -9.4046446
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,36 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83491&foto=1708128&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83491&foto=1708128&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Equipamento (Zelador / Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 153,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

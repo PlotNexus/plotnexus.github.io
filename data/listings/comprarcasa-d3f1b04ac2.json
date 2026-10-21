@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 4594,
   "image": "https://cdn.proppy.app/propertyfiles/1526/51959/219a6172-6f6c-4c81-aa1e-26d7317b8024.jpg?quality=70&width=360&height=222&mode=crop",
-  "description": null,
-  "geo": null,
+  "description": "Terreno de 64.594,00 m2\n\nConstituído por Mata Criptoméria e Pastagem\n\nVista Vale das Furnas \n\nInvestimento\n\nFurnas é uma freguesia portuguesa do concelho da Povoação, com 70,20 km² de área e 1 439 habitantes (2011). A sua densidade populacional é 42,5 hab/km². Localiza-se a este de Ponta Delgada e Lagoa e sudeste de Ribeira Grande. Confronta com o Oceano Atlântico a sul e montanhas a norte.\n\nAs principais actividades económicas são a agricultura e turismo.\n\nAs Furnas são muito conhecidas pelas suas águas termais, nomeadamente as caldeiras, a Poça da Beija e piscinas térmicas. Para além disso as Furnas são conhecidas pelo Hotel Terra Nostra constituído por uma piscina natural de águas termais e um magnifico jardim botânico, o Parque Terra Nostra e ainda também se pode visitar o parque natural onde se encontra alguns animais e algumas espécies de plantas. Também é nas Furnas que se encontra uma lagoa, a Lagoa das Furnas.\n\nSão também tradicionais das Furnas, os bolos lêvedos e o curioso cozido onde os ingredientes são cozinhados debaixo da terra sob o calor dos vulcões (a carne demora cerca de 5 a 6 horas e o bacalhau cerca de 3 a 4 horas). Este facto faz salientar um requintado sabor.\n\nEsta localidade possui uma das maiores e mais diversificadas colecções botânicas do arquipélago.",
+  "geo": {
+    "lat": 37.7452852,
+    "lng": -25.3091965
+  },
   "source": {
     "name": "ComprarCasa",
     "url": "https://www.comprarcasa.pt"
@@ -21,10 +24,23 @@
   "images": [
     "https://cdn.proppy.app/propertyfiles/1526/51959/219a6172-6f6c-4c81-aa1e-26d7317b8024.jpg?quality=70&width=360&height=222&mode=crop"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Geral": [
+      "Vista: Vista montanha",
+      "Orientação solar: Norte, Sul, Este, Oeste",
+      "Certificação energética: Isento",
+      "Localização: Centro",
+      "Zona envolvente: Turística",
+      "Vistas: Serra, Areas verdes",
+      "Árvores"
+    ],
+    "Exterior": [
+      "Orientação Solar: Norte, Sul, Este, Oeste"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 4594,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 4594,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

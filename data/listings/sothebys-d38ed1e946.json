@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": 180,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80766&foto=1688205&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80766&foto=1688205&f=1",
+  "description": "Obra Nova em Campo de Ourique: Moradia Vertical com Elevador Privativo\n\nNo coração de Campo de Ourique, o bairro mais autêntico, valorizado e familiar de Lisboa, nasce uma peça de arquitetura rara e profundamente autoral. Uma obra nova que combina a sofisticação de uma moradia vertical com o conforto absoluto de um elevador interior privado que articula todos os pisos (complementado por escadas escultóricas).\n\nProjetada com engenharia contemporânea de vanguarda, a sua estrutura metálica garante máxima precisão construtiva, amplos vãos livres, excelente desempenho sísmico e elevada durabilidade. Uma residência singular para uma família especial.\n\nLuz, Espaço Exterior e Estacionamento\n\nExposição Solar a Sul: \n\nGrandes planos envidraçados inundam a casa de luz natural o dia todo.\n\n33 m² de Área Exterior: Varandas privativas em todos os pisos e um terraço no topo com vistas desafogadas e verdes.\n\nEstacionamento Garantido: Piso térreo multifuncional e versátil, ideal para garagem, atelier, ginásio ou escritório.\n\nMemorial Técnico e de Acabamentos (Especificação Integral)\n\nPara quem valoriza o rigor do detalhe, a materialidade e a nobreza construtiva:\n\nEnvelope Exterior: Fachada e cobertura totalmente revestidas a camarinha de zinco antracite.\n\nCaixilharias: Alumínio com rotura térmica e vidros duplos com controlo solar.\n\nPavimentos Interiores: Diálogo perfeito entre a madeira de Carvalho e a pedra Mármore Estremoz.\n\nPavimentos Exteriores: Terraços revestidos em lajetas de pedra Mármore Estremoz.\n\nCozinha Gourmet: Totalmente equipada, com armários folheados a Carvalho e tampos na intemporal pedra Lioz.\n\nCasas de Banho de Autor: Louças sanitárias suspensas, móveis folheados a Carvalho, lavatórios e bases de duche esculpidos em pedra maciça de Mármore Estremoz, resguardos em vidro temperado extra claro e misturadoras embutidas em aço inoxidável.\n\nConforto, Climatização e Eficiência\n\nVentilação Mecânica de Fluxos Cruzados em todos os pisos (renovação contínua do ar).\n\nPré-instalação de Ar Condicionado em todas as divisões.\n\nBomba de Calor AQS (sistema para águas quentes sanitárias com quente, fria e retorno).\n\nVídeo-porteiro com terminais em todos os pisos.\n\nO Estilo de Vida em Campo de Ourique.\n\nEsta moradia excecional coloca-o a uma curta distância a pé do icónico Mercado de Campo de Ourique, do Jardim da Parada, de pastelarias históricas, de prestigiados colégios internacionais e de todo o comércio de proximidade que define este bairro único.",
+  "geo": {
+    "lat": 38.7177243767341,
+    "lng": -9.16958501779099
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,16 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80766&foto=1688205&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80766&foto=1688205&f=1"
   ],
-  "features": null,
+  "features": {
+    "Exposição Solar": [
+      "Sul"
+    ]
+  },
   "estado": null,
   "area_util_m2": 180,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 180,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

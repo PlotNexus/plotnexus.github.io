@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 259,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76356&foto=1604984&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76356&foto=1604984&f=1",
+  "description": "Moradia T3 situada numa zona tranquila e de fácil acesso, a apenas dois minutos do campo de golfe e muito próxima da vila, onde se encontram diversos serviços essenciais, como supermercados, escolas, farmácia e restauração.\n\nA propriedade desenvolve-se em dois pisos, sendo que a vivência principal ocorre praticamente toda num único nível, proporcionando conforto e funcionalidade no quotidiano. No piso principal encontram-se uma ampla cozinha, lavandaria, sala de estar e sala de jantar, três quartos, uma casa de banho social, uma casa de banho completa de apoio aos quartos e uma master suíte com casa de banho privativa. Ainda neste piso localiza-se a garagem.\n\nO piso superior é composto por um mezanino que integra um quarto adicional com casa de banho privativa e varanda, um espaço em open space que pode funcionar como escritório ou sala de estar, e ainda um quarto de arrumos.\n\nNo exterior, a moradia dispõe de agradáveis áreas ajardinadas e de uma ampla zona com árvores de fruto, ideal para quem valoriza espaços verdes e contacto com a natureza. A propriedade conta ainda com tanque de água e sistema de domótica que permite, entre outras funcionalidades, a abertura de portões através do telemóvel.\n\nTodo o terreno é urbano, oferecendo potencial para ampliação da área de construção. Dispõe de garagem e espaço exterior com capacidade de estacionamento para mais cinco viaturas.\n\nUma excelente oportunidade para quem procura tranquilidade, proximidade a serviços e ao golfe, aliando conforto, espaço e potencial de valorização.",
+  "geo": {
+    "lat": 32.7231296150971,
+    "lng": -16.8167096153442
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,46 @@
   "published_at": "2026-10-21",
   "last_seen_at": "2026-10-21",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76356&foto=1604984&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76356&foto=1604984&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Rega Automática",
+      "Ginásio (Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Mar",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Rural)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 259,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 259,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }
