@@ -8,23 +8,39 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81427&foto=1662963&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81427&foto=1662963&f=1",
+  "description": "Apartamento T4 situado em Alvalade, Lisboa, no 7.º andar de um edifício com elevador, destacando-se pela sua área e pela versatilidade de utilização. Este imóvel representa uma oportunidade tanto para habitação própria como para investimento, nomeadamente para colocação no mercado de arrendamento, beneficiando de uma localização central numa das zonas mais consolidadas da cidade.\n\nCom uma área bruta privativa de 197 m², o apartamento é composto por quatro quartos, dois deles em suite, e um total de três casas de banho. A sala, com áreas generosas, permite a criação de diferentes ambientes distintos, seja para zona de estar ou de refeições, enquanto a cozinha ampla oferece espaço adequado para utilização diária. O imóvel encontra-se em bom estado de conservação e integra um prédio construído em 1986, com estrutura sólida e funcional.\n\nDispõe ainda de uma varanda com 10 m², proporcionando um espaço exterior complementar. O apartamento inclui dois lugares de estacionamento em garagem de prédio, bem como duas arrecadações, assegurando soluções adicionais de arrumação, um fator valorizado em contexto urbano.\n\nA localização é um dos principais pontos deste imóvel. Situado em Alvalade, beneficia da proximidade a uma vasta oferta de comércio e serviços, incluindo supermercados como Pingo Doce e Lidl, farmácias, cafés e restaurantes. A zona é também conhecida pela presença de espaços verdes, como o Jardim do Campo Grande, ideal para momentos ao ar livre, caminhadas ou prática de atividade física.\n\nAo nível de acessos, encontra-se a cerca de 5 minutos da Segunda Circular, facilitando a ligação ao Aeroporto de Lisboa e às principais vias da cidade. Em termos de transportes públicos, está a aproximadamente 5 minutos a pé de estações de metro e a 5 minutos de carro de estações de comboio, garantindo mobilidade eficiente.\n\nDestaca-se ainda a proximidade a várias instituições de ensino superior, como a Cidade Universitária de Lisboa, onde se inserem a Universidade de Lisboa, o Instituto Superior Técnico e outras faculdades de referência. Esta envolvente académica reforça o potencial do imóvel para arrendamento, especialmente junto de estudantes e profissionais deslocados.\n\nAlvalade é reconhecida pela sua organização urbana, ruas amplas e ambiente residencial equilibrado, combinando centralidade com uma vivência de bairro, tornando-se uma escolha consistente para quem procura viver em Lisboa com acesso facilitado a tudo o que a cidade oferece.",
+  "geo": {
+    "lat": 38.7540457,
+    "lng": -9.1442049
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-alvalade-lisboa_pt_81427",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81427&foto=1662963&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81427&foto=1662963&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 197,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -8,23 +8,73 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 389,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83510&foto=1707763&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83510&foto=1707763&f=1",
+  "description": "Chalet dos anos 30, localizado no centro histórico de Sintra, com uma área de total de construção de 389 metros quadrados. \nA propriedade é composta por dois pisos, água furtadas, jardim e garagem. O primeiro andar e o sótão são um apartamento em duplex com cinco quartos, três dos quais são no sótão, um deles em suite, duas casas de banho completas, cozinha com área de refeições, sala dupla com varanda.\nO rés do chão, com 104,56 m2 de área está em tosco. A preparação para a obra foi realizada. O piso foi rebaixado para a instalação do sistema radiante de aquecimento, as paredes foram picadas até á pedra e o entulho removido.\nO lote, que mede 281 metros quadrados, faz frente para duas ruas e tem duas entradas independentes. O jardim mede 131,7 metros quadrados.\nDado que o rés do chão está ainda com a obra a ser concluída, permite que o novo proprietário a termine como um único apartamento ou opte por dividir em dois apartamentos.\nO telhado foi importado da Alemanha e instalado por técnicos qualificados.\nEste prédio está localizado no centro histórico, perto do Mercado Municipal, perto de serviços como supermercados, bancos, lavanderias, transportes públicos, lojas, a 22 kilometros de Lisboa, a quarenta minutos do aeroporto, a 15 quilómetros de Cascais e vinte minutos das praias. \n\nAlgumas das imagens apresentadas incluem Virtual Home Staging, com o objetivo de permitir visualizar o potencial dos espaços.",
+  "geo": {
+    "lat": 38.803951857058,
+    "lng": -9.37980320753759
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-sintra-centro-historico-sintra_pt_83510",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83510&foto=1707763&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83510&foto=1707763&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Madeira",
+      "Portadas",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Gás Canalizado",
+      "TV-Cabo",
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pedra Natural, Pintado)",
+      "Pavimento (Tijoleira)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado)",
+      "Equipamento (Gás Canalizado, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Garagem": [
+      "Área (m2): 15; Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 389,
-  "area_bruta_m2": null,
+  "area_util_m2": 240,
+  "area_bruta_m2": 389,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

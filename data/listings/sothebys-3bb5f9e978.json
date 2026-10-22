@@ -8,23 +8,72 @@
   "bedrooms": 3,
   "bathrooms": 5,
   "area_m2": 46,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70484&foto=1363236&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70484&foto=1363236&f=1",
+  "description": "Moradia Contemporânea em Fase de Projeto com Vistas Deslumbrantes sobre o Mar. Atualmente em fase de acabamentos, esta moradia de estilo contemporâneo, com três quartos, todos em suite, foi meticulosamente planejada para tirar pleno partido da sua localização privilegiada. O design inovador foca-se na integração harmoniosa entre os espaços internos e a paisagem envolvente, oferecendo uma experiência única de conforto e elegância. A propriedade destaca-se por uma espaçosa piscina infinita que parece fundir-se com o horizonte, criando um ambiente de relaxamento e tranquilidade incomparáveis. As vistas panorâmicas sobre o mar, capturadas de vários pontos da casa, são verdadeiramente deslumbrantes.\nInternamente, a moradia foi concebida com áreas amplas e bem distribuídas, combinando funcionalidade e aconchego. Cada espaço foi pensado para proporcionar uma atmosfera acolhedora, ideal para quem busca um estilo de vida moderno e confortável, sem abrir mão da sofisticação.",
+  "geo": {
+    "lat": 32.71062,
+    "lng": -17.14857
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-geminada-arco-da-calheta-calheta-madeira_pt_70484",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70484&foto=1363236&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70484&foto=1363236&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Rega Automática",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Paredes (Pintadas)",
+      "Equipamento (Jardins, Rega Automática)",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 116.05; Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Rural)",
+      "Proximidade (Bancos, Bombeiros, Farmácia, Ginásio, Hospital, Jardins, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 46,
-  "area_bruta_m2": null,
+  "area_util_m2": 5,
+  "area_bruta_m2": 46,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

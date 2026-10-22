@@ -8,23 +8,71 @@
   "bedrooms": 3,
   "bathrooms": null,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69313&foto=1333698&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69313&foto=1333698&f=1",
+  "description": "Localizado na prestigiada cidade de Vila Conde com muita história e tradição de mar, este magnífico apartamento situado na cobertura com 3 quartos apresenta-se como um imóvel único e diferenciado. Com uma área bruta de construção de 182 metros quadrados, esta penthouse oferece um estilo de vida exclusivo e contemporâneo. O seu principal destaque é o amplo terraço de 270 metros quadrados, equipado com piscina privativa e jacuzzi, proporcionando vistas deslumbrantes para o mar.\nEsta propriedade é um verdadeiro refúgio, situando-se a poucos metros da praia e beneficiando de uma exposição solar privilegiada, nascente, sul e poente. O acesso é facilitado pelo elevador privativo, conduzindo a um hall de entrada que separa as áreas sociais das privadas. A sala, inundada de luz natural, abre-se para o terraço, seguida da cozinha, equipada com eletrodomésticos de qualidade da marca Siemmens e balcão em granito preto angola, oferece um ambiente funcional e elegante.\nNa zona privada, encontram-se três quartos, dois dos quais suítes, proporcionando conforto e privacidade aos seus residentes. O edifício destaca-se pela sua qualidade de construção, com acabamentos de excelência, como sistema de Capotto, caixilharia Cortizo e porta blindada.\nAlém do seu interior impecável, este imóvel beneficia de uma localização privilegiada, com excelentes acessibilidades a todas as zonas da cidade e proximidade a uma variedade de serviços e comércio, incluindo escolas, clínicas e supermercados. Para além disso, encontra-se a uma curta distância dos principais colégios internacionais, e do aeroporto Francisco Sá Carneiro.",
+  "geo": {
+    "lat": 41.36637,
+    "lng": -8.760562
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-vila-do-conde-vila-do-conde_pt_69313",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69313&foto=1333698&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69313&foto=1333698&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 16.20; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 155,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

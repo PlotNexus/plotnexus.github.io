@@ -8,23 +8,68 @@
   "bedrooms": 5,
   "bathrooms": 7,
   "area_m2": 95,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69274&foto=1473989&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69274&foto=1473989&f=1",
+  "description": "Exclusiva moradia isolada com cinco quartos, com 387 metros quadrados de área bruta privativa, localizada junto à Quinta da Vinha, na zona da Afurada, Vila Nova de Gaia.\nInserida num lote com 1040 metros quadrados e com quatro frentes, foi pensada para proporcionar o máximo conforto e funcionalidade, garantindo espaços amplos e bem distribuídos.\nAo nível do Piso 0, a moradia é composta por uma ampla e espaçosa sala com acesso direto ao deck exterior e ao jardim, uma cozinha moderna com armários lacados e zona de refeições e ligação ao espaço exterior, uma lavandaria, um escritório e uma suite de empregada. O Piso 1, acolhe as cinco suites, sendo que duas delas têm closet, a maioria dos quartos tem varanda e a master tem um terraço. Neste piso existe também um escritório em mezzanine.\nProjectada para tirar o máximo proveito da exposição solar, as principais divisões estão viradas a poente e o jardim principal está orientado a Sul, proporcionando luminosidade natural durante todo o dia.\nEntre outros atributos de construção e acabamentos, destacamos as portadas em madeira, os estores elétricos, o piso radiante e o sistema de ar condicionado em algumas divisões\nGaragem fechada para duas viaturas e espaço para estacionamento de mais 2 viaturas no exterior. Jardins bem cuidados na parte frontal, lateral e traseira do imóvel.\nEsta moradia é a escolha ideal para quem procura um lar sofisticado, confortável, com excelente localização e privacidade. Localizada junto ao acesso da A1 na Arrábida, está a uma curta distância do Arrábida Shopping, do Hospital da Luz, do Colégio dos Cedros, a 5 minutos de carro da Marina da Afurada, do Rio Douro e do Mar. O centro da cidade do Porto está a apenas 10 minutos de distância e a futura estação de metro da linha Rubi a cerca de 600 metros.",
+  "geo": {
+    "lat": 41.14161,
+    "lng": -8.643775
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-arrabida-vila-nova-de-gaia_pt_69274",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69274&foto=1473989&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69274&foto=1473989&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Portadas",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Equipamento (Jardins, Rega Automática, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 30; Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 95,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 95,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

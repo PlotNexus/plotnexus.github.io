@@ -8,23 +8,31 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74929&foto=1710890&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74929&foto=1710890&f=1",
+  "description": "O Alba nasce na Rua do Açúcar, em Marvila, um dos bairros mais vibrantes e emergentes de Lisboa. Este projeto de reabilitação transforma um antigo armazém de materiais de construção em cinco habitações independentes, cada uma com 200m² e espaço exterior privado.\n\nMantendo a essência arquitetónica original, o Alba equilibra a história com a modernidade. A sua fachada icónica foi preservada, enquanto os interiores foram cuidadosamente desenhados para proporcionar um ambiente sofisticado, com materiais e acabamentos que unem a estética industrial à elegância contemporânea.\n\nAs habitações destacam-se pela sua flexibilidade, permitindo diferentes configurações de layout para se adaptarem às necessidades dos seus moradores. Desde espaços abertos em estilo loft até soluções mais tradicionais, cada detalhe foi pensado para oferecer conforto, serenidade e funcionalidade.\n\nLocalizado em Marvila, um bairro que reflete o espírito inovador e criativo de Lisboa, o Alba beneficia de uma envolvência cultural e artística vibrante, proximidade ao Tejo e excelentes acessibilidades. É uma proposta única para quem procura um lar distinto na capital portuguesa.",
+  "geo": {
+    "lat": 38.7418332673775,
+    "lng": -9.10697937005432
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-em-banda-marvila-lisboa_pt_74929",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74929&foto=1710890&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74929&foto=1710890&f=1"
   ],
-  "features": null,
+  "features": {
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 208,
+  "area_bruta_m2": 391,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

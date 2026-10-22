@@ -8,23 +8,31 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77610&foto=1562872&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77610&foto=1562872&f=1",
+  "description": "O Pharma Village é um empreendimento de luxo em Alvalade, Lisboa, que alia história, modernidade e sustentabilidade. Resultado da reabilitação de um antigo edifício farmacêutico, oferece 17 apartamentos T2 e T3, 3 villas T1+1 e uma exclusiva penthouse T4 com piscina privativa.\n\nTodas as unidades contam com varandas, terraços ou jardins, estacionamento preparado para carregamento elétrico e, em algumas tipologias, piscinas privativas. O projeto integra ainda painéis solares, reforçando o compromisso com a eficiência energética.\n\nCom localização privilegiada num dos bairros mais emblemáticos da cidade, rodeado de comércio, escolas e transportes, o Pharma Village oferece uma vida de bairro autêntica, com toda a sofisticação e conforto contemporâneos.",
+  "geo": {
+    "lat": 38.7540457,
+    "lng": -9.1442049
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/duplex-alvalade-lisboa_pt_77610",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77610&foto=1562872&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77610&foto=1562872&f=1"
   ],
-  "features": null,
+  "features": {
+    "Zona": [
+      "Acessos (Metro, Transportes Púb.)",
+      "Proximidade (Bancos, Escolas, Farmácia, Ginásio, Hospital, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 57,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

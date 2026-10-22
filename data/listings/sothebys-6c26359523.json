@@ -8,23 +8,71 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73490&foto=1453832&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73490&foto=1453832&f=1",
+  "description": "Apartamento de quatro quartos, com 172 metros quadrados de área bruta privativa no coração da cidade do Porto. O apartamento está inserido num condomínio icónico, a zona social é composta por uma sala comum e uma cozinha em conceito aberto, apoiadas por uma espaçosa varanda com 25 metros quadrados, orientada a Sul, uma casa de banho social e lavandaria. A cozinha é contemporânea e totalmente equipada, e apresenta uma configuração prática para a utilização quotidiana, com móveis lacados, bancadas e parede entre móveis em Dekton, equipada com eletrodomésticos de gama superior SMEG. Os quatro quartos são em suite, com roupeiros lacados embutidos. O pavimento é em soalho multicamada de Riga e a caixilharia é em alumínio lacado com vidro duplo. A climatização é garantida através do sistema de ar condicionado por conduta oculta (VRV) e o aquecimento das águas quentes sanitárias é assegurado por caldeira a gás e painel solar. O apartamento dispõe de de dois lugares de garagem que acomodam quatro carros. Duas frentes: Norte e Sul. O prédio apresenta uma mistura de património e modernidade no coração da cidade do Porto. A reabilitação foi pensada e concebida com uma atenção cuidada aos detalhes e à qualidade da reconstrução, tendo em vista a maximização do conforto e criando uma atmosfera convidativa e moderna que se mantém fiel às origens do edifício. O espaço e a luz natural, realçam os pormenores modernos e confere à residência um ambiente único. A localização privilegiada, proporciona uma agradável vivência citadina. O empreendimento Bonjardim é o novo centro de atração da cidade, com uma praça em calçada portuguesa rodeada de jardins com relvado e árvores de grande porte que será um ponto de encontro com esplanadas, cafés, restaurantes, lojas e serviços. O condomínio oferece ainda um conjunto de comodidades aos moradores como sala de condomínio, ginásio equipado e ainda uma pista de corrida e uma zona de lounge, ambos na cobertura do edifício.",
+  "geo": {
+    "lat": 41.1551735,
+    "lng": -8.6229393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-baixa-porto_pt_73490",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73490&foto=1453832&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73490&foto=1453832&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Pavimento (Granito)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur, Focos)",
+      "Equipamento (Jardins, Rega Automática, Ventilação Mecânica, Video-Porteiro)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 53.36; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 91,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

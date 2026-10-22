@@ -8,22 +8,41 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76565&foto=1532008&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76565&foto=1532008&f=1",
+  "description": "O Sá da Bandeira é um novo empreendimento onde o edifício original dará lugar a uma nova estrutura com oito modernos apartamentos, com tipologias desde Estúdio a T3, combinando de forma harmoniosa tradição e modernidade.\nEste edifício, antiga sede de um banco, robustamente construído nos anos 60, está a ser meticulosamente restaurado, preservando o seu charme histórico e integrando elementos de design contemporâneo. O espaço interior revela uma surpreendente modernidade com áreas generosas, pés direitos altos e tipologias com enorme atenção ao detalhe.\nSituado no centro vibrante da cidade do Porto, conhecido pela sua riqueza cultural e energia dinâmica, o Sá da Bandeira oferece o cenário perfeito para amantes de história, criativos urbanos e famílias que procuram uma casa que encarna o apelo intemporal do Porto.\nTrata-se de um fantástico projeto de reabilitação na melhor localização da cidade do Porto, na Rua Sá da Bandeira, junto à Estação de São Bento, Mercado do Bolhão e à Avenida dos Aliados, principal artéria de referência da cidade do Porto, com hotéis e lojas de luxo, charme e requinte, representa um forte compromisso com a preservação da herança histórica do Porto.",
+  "geo": {
+    "lat": 41.14643,
+    "lng": -8.610179
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-porto_pt_76565",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76565&foto=1532008&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76565&foto=1532008&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Escolas, Jardins, Padaria, Serviços Públicos)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 130,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

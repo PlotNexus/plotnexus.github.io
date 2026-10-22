@@ -8,23 +8,33 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83754&foto=1709853&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83754&foto=1709853&f=1",
+  "description": "Amplo apartamento T3 inserido num condomínio fechado de apenas 8 frações, proporcionando uma vivência muito familiar e tranquila. O condomínio distingue-se pelo magnífico jardim com árvores maduras, pela piscina de água salgada e pelo ginásio, criando um ambiente exclusivo e de grande qualidade de vida.\nEste imóvel destaca-se pela sua generosa área bruta de construção, com 232 m², pelas divisões amplas e luminosas, e pela funcionalidade do seu layout. A zona social é um excelente exemplo dessa amplitude, com uma sala de estar e de refeições de 53 m², e uma master suite, com 27 metros quadrados.\nO apartamento dispõe ainda de uma cozinha luminosa, totalmente equipada, com despensa e vista aberta para o pinhal e para o mar. Conta também com uma zona de lavandaria, três lugares de garagem e arrecadação. Entre os equipamentos, destacam-se os estores elétricos, caixilharia de vidro duplo, ar condicionado, lareira, aquecimento e aspiração central.\nLocalizado no Bairro do Cobre, a escassos minutos do centro de Cascais, uma zona residencial muito procurada pela sua tranquilidade e qualidade de vida, este apartamento beneficia de uma envolvente equilibrada, onde convivem habitações modernas e tradicionais, mantendo o charme característico da região.\nA área é extremamente bem conectada, com acesso rápido à autoestrada A5, permitindo chegar a Sintra em cerca de 15 minutos e a Lisboa ou ao Aeroporto Internacional em aproximadamente 30 minutos. A proximidade ao Cascais Shopping, ao Hospital de Cascais, a escolas internacionais, como o tão procurado King’s College, e a diversos serviços essenciais.\nSe o que procura é conforto, amplas áreas exteriores e qualidade de vida, não hesite em contactar-nos.\nA Sotheby's International Realty conta com quase 300 anos de história enquanto conceituada empresa responsável por transacionar bens de luxo. Está presente em Portugal desde 2007 com dez escritórios e inúmeros profissionais altamente qualificados e disponíveis para o ajudar - \"A arte de unir casas extraordinárias a vidas extraordinárias\".",
+  "geo": {
+    "lat": 38.7100956,
+    "lng": -9.4309016
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-cobre-cascais_pt_83754",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83754&foto=1709853&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83754&foto=1709853&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Aspiração Central (Completo)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 185,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

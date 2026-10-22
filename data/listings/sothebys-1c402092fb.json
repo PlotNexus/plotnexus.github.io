@@ -8,23 +8,71 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77971&foto=1568486&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77971&foto=1568486&f=1",
+  "description": "Trata-se de um exclusivo apartamento T2, inserido no contexto do pleno verde da emblemática Rua do Crasto, em plena Foz do Douro. O empreendimento \" Foliage, projecto da autoria do Arquiteto José Carlos Cruz, traduz o perfeito equilíbrio entre espaços interiores e exteriores, onde a luz natural e o verde circundante se cruzam harmoniosamente. \n\nEste piso térreo, apresenta como mais valia o seu espaçoso jardim privado, com cerca de 100 m2, perfeito para relaxar e conviver com toda a tranquilidade. \n\nVisando proporcionar um estilo de vida único, todos os materiais de construção e acabamentos deste elegante e inigualável apartamento, obedecem aos mais altos padrões de qualidade, de entre os quais podemos destacar : Revestimento de fachadas e varandas em grés porcelânico vidrado ; Pavimento em mármore Travertino Resinado, paredes revestidas com painéis folheados a madeira de nogueira, pavimento em soalho estratificado de madeira hard marple, teto falso em gesso cartonado com isolamento acústico, blackouts elétricos, cozinhas com eletrodomésticos da marca Míele, balcão e contra tampo em compacto de pedra, do tipo Neolith. \n\nQuanto à climatização, dispõe de A/C por condutas, bomba de calor para AQS e pavimento radiante elétrico nas IS das suites. Ao nível da segurança, apresenta sistema de vídeo vigilância nas zonas comuns, e sistema automático de de detecção de intrusão, inundação e incêndio nas restantes áreas. Ao nível da domótica oferece painel tátil para controlo centralizado de iluminação, screens e climatização. Esta sofisticada fração, apresenta ainda dois lugares de garagem, com ponto de carregamento para veículos elétricos.\n\nO empreendimento \"Foliage\", localizado junto a toda uma variedade de serviços, desde colégios internacionais, restaurantes, hospitais, praias, parques e jardins, é sem dúvida a escolha mais acertada, para conseguir um recanto de charme e excelência, na ancestral cidade do Porto.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-aldoar-foz-do-douro-e-nevogilde-porto_pt_77971",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77971&foto=1568486&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77971&foto=1568486&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (CCTV)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa)",
+      "Pavimento (Marmorite)",
+      "Paredes (Monomassa)",
+      "Tecto (Falso Pladur, Focos)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 128,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

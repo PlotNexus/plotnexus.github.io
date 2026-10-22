@@ -8,23 +8,63 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82518&foto=1670462&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82518&foto=1670462&f=1",
+  "description": "Este extraordinário apartamento T4, inserido no exclusivo Gaia Hills, foi concebido para quem procura um estilo de vida onde a sofisticação, a tranquilidade e uma vista incomparável sobre o rio Douro e a cidade do Porto fazem parte do quotidiano.\nCom uma impressionante área exterior de 193 m², distribuída por um amplo terraço e jardim privativo, esta residência oferece um cenário único para desfrutar do nascer do sol sobre o rio, receber amigos ou simplesmente apreciar uma das paisagens mais emblemáticas do Norte de Portugal. Uma vista verdadeiramente exclusiva, que transforma cada momento numa experiência memorável.\nO interior destaca-se pela elegância, luminosidade e amplitude dos espaços. A sala de estar, com cerca de 50 m², abre-se para o exterior através de amplos envidraçados, criando uma perfeita continuidade entre a casa e a paisagem. A cozinha, com copa e cerca de 18 m², alia design contemporâneo e funcionalidade, oferecendo igualmente uma vista privilegiada sobre o Douro.\nA zona privada integra duas confortáveis suites e dois quartos apoiados por uma casa de banho completa, proporcionando o equilíbrio ideal entre privacidade e conforto para toda a família. O apartamento dispõe ainda de três lugares de garagem e beneficia de ar condicionado e bomba de calor para climatização e aquecimento das águas sanitárias, assegurando eficiência energética e bem-estar durante todo o ano.\nO Gaia Hills é um empreendimento residencial de excelência que redefine o conceito de viver em Vila Nova de Gaia. Implantado na histórica Quinta de Vale de Amores e assinado pelo prestigiado gabinete Saraiva+Associados, combina arquitetura contemporânea, sustentabilidade e uma integração harmoniosa na paisagem.\nConcebido como um bairro de referência, oferece áreas comerciais, anfiteatro, Ágora para convívio ao ar livre, amplos espaços verdes e um parque natural que reforça a ligação entre cidade e natureza. A arquitetura bioclimática, as soluções de eficiência energética, os coletores solares, a recolha de águas pluviais, a ventilação natural e os pontos de carregamento para veículos elétricos refletem um compromisso claro com o futuro.\nLocalizado junto ao Cais do Cavaco, beneficia de excelentes acessibilidades, proximidade às futuras ligações do Metro do Porto, ao Terminal Intermodal de Campanhã e à nova Ponte D. António Francisco dos Santos. A apenas 8 minutos do centro do Porto e a 18 minutos do Aeroporto Francisco Sá Carneiro.",
+  "geo": {
+    "lat": 41.1311551,
+    "lng": -8.6108598
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-santa-marinha-e-sao-pedro-da-afurada-vila-nova-de-gaia_pt_82518",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82518&foto=1670462&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82518&foto=1670462&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 376,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

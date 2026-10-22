@@ -8,23 +8,66 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79667&foto=1606091&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79667&foto=1606091&f=1",
+  "description": "Apartamento T3 com 161 m2, com uma varanda com 82 m2, voltada a poente, sul e nascente.\nDotado de dois lugares de estacionamento em box, inserido no novo empreendimento Serralves Garden, situado junto à Av. Marechal Gomes da Costa e da Avenida da Boavista.\nDispõe de três suites,um WC social, a sala com 35 m2 com a cozinha integrada em ilha com 12 metros quadrados, equipada com eletrodomésticos Gaggenau, torneiras Gessi e lavandaria fechada. \nA climatização é assegurada por ar condicionado por conduta e pavimento radiante e bomba de calor para AQS.\nSerralves Garden é um empreendimento residencial localizado junto à Avenida da Boavista, numa das zonas mais procuradas do Porto, próximo ao Parque de Serralves. Trata-se de um condomínio privado de pequena escala, composto por apenas 14 habitações, com tipologias de T2 a T4, todas com áreas exteriores, assumindo como principal fator de diferenciação a relação direta com o jardim envolvente e a proximidade a um dos principais espaços verdes da cidade.\nOs apartamentos apresentam áreas interiores generosas, e as diferentes tipologias foram desenhadas para responder a vários perfis de utilização, privilegiando uma organização funcional dos espaços e uma ligação fluida entre áreas interiores e exteriores. \nA arquitetura é da autoria do Atelier Phocus Architects pelo arquiteto Pedro Moreira em parceria com a arquiteta Cristina Couto, com uma abordagem contemporânea, marcada pela simetria, seleção criteriosa de materiais, a fachada é revestida a travertino e forte integração paisagística. O edifício encontra-se em desenvolvimento, com conclusão prevista para 2027.\nA localização beneficia de proximidade a comércio, serviços, ao colégio do Rosário e à Escola Francesa, supermercados e unidades de saúde. O acesso às principais vias da cidade, como a Avenida da Boavista e a VCI, é rápido, permitindo ligações eficientes ao centro do Porto e às zonas da Foz e Matosinhos. A área é igualmente bem servida por transportes públicos.\nInserido numa zona residencial consolidada, Serralves Garden posiciona-se entre a cidade, a natureza e a oferta cultural de referência, com o Parque e a Fundação de Serralves como enquadramento direto. Um projeto pensado para quem valoriza localização, privacidade e espaços exteriores no Porto.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-serralves-porto_pt_79667",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79667&foto=1606091&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79667&foto=1606091&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pedra Natural)",
+      "Paredes (Madeira)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Jardins, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 38.50; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 161,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

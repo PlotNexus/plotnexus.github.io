@@ -8,22 +8,49 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75073&foto=1488284&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75073&foto=1488284&f=1",
+  "description": "O novo empreendimento Campolide Residences é um condomínio exclusivo com apenas 15 apartamentos. Com tipologias T1 a T4, destaca-se pela excelência da sua construção e vistas desafogadas. Algumas características distintivas são ainda a existência de dois lugares de estacionamento por fração, arrecadações e amplos espaços exteriores. Com entrega prevista para 2027, este empreendimento foi concebido para proporcionar conforto, funcionalidade e sofisticação num ambiente moderno e exclusivo.\nOs apartamentos distinguem-se pelas suas áreas generosas, entre 111 e 235 m2, e pelos seus layouts bem desenhados. Cada fração dispõe de uma configuração eficiente, proporcionando um ambiente harmonioso e adaptado às necessidades contemporâneas. O empreendimento integra ainda estacionamento privativo em cave, arrecadações e áreas comuns concebidas para facilitar o dia a dia dos residentes, incluindo parqueamento para bicicletas.\nA localização do Campolide Residences garante uma ligação privilegiada aos principais eixos rodoviários da cidade, como o Eixo Norte-Sul, a 2ª Circular, a A5 e o centro de Lisboa. Para além da excelente rede viária, a proximidade a serviços essenciais, escolas, unidades de saúde e diversas opções de restauração e comércio reforça a conveniência e o dinamismo da zona.\nCampolide é uma das zonas mais procuradas de Lisboa, combinando um ambiente urbano e desenvolvido com uma oferta diversificada de comércio, serviços e espaços verdes, como o Parque de Monsanto, o maior espaço verde da capital. Com um enquadramento privilegiado, este empreendimento redefine os padrões de habitação contemporânea na cidade, proporcionando um equilíbrio perfeito entre acessibilidade, conforto e qualidade de vida.",
+  "geo": {
+    "lat": 38.7263671412,
+    "lng": -9.1636276245
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-campolide-lisboa_pt_75073",
-  "published_at": "2026-10-21",
-  "last_seen_at": "2026-10-21",
+  "published_at": "2026-10-22",
+  "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75073&foto=1488284&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75073&foto=1488284&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores (Eléctricos, Térmicos)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Escolas, Farmácia, Ginásio, Jardins, Serviços Públicos)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 172,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null
