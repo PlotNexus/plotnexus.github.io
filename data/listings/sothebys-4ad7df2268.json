@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68003&foto=1296215&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68003&foto=1296215&f=1",
+  "description": "Esplêndido apartamento de três quartos com uma área privativa de 168 metros quadrados, com 31 metros quadrados de varandas. \nPossui uma espaçosa sala de 47m2 voltada para o sul, com uma varanda de 19.5m2 com vistas para o rio. \nA cozinha e a lavandaria estão totalmente equipadas. \nO apartamento dispõe de duas suites (20 e 16 metros quadrados) e um quarto adicional com 15 metros quadrados, acompanhados por uma varanda de 11 metros quadrados, voltada para o interior do condomínio. \nDotado de aquecimento central a gás de cidade, o apartamento possui recursos de segurança, como um sistema de alarme. \no estacionamento dos carros é assegurado por uma box fechada para dois carros e um lugar de garagem coberto e um arrumo com 15 metros quadrados. \nO edifício destaca-se pela sua proximidade a uma variedade de serviços e comodidades. Os restaurantes requintados existentes na área, proporcionam opções gastronómicas diversificadas. A proximidade a supermercados, escolas e uma variedade de serviços essenciais acrescenta comodidade ao quotidiano. Além disso, a facilidade de acesso a transportes públicos, bem como o acesso privilegiado às principais vias, torna a mobilidade na cidade uma experiência sem complicações. Este apartamento inserido em condomínio fechado, projecto assinado pelo arquiteto Pedro Balonas, é uma oportunidade única de viver com luxo e conforto no coração do Porto. Com uma vista panorâmica para o rio, instalações de lazer como piscina interior, sauna, banho turco e ginásio, este é um investimento excecional para quem procura a harmonia entre sofisticação e comodidade.",
+  "geo": {
+    "lat": 41.14841,
+    "lng": -8.636531
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68003&foto=1296215&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68003&foto=1296215&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Alumínio, Eléctricos)"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação, Lojas)",
+      "Isolamento (Acústico, Térmico)",
+      "Paredes (Madeira, Pintadas)",
+      "Tecto (Falso Pladur, Focos)",
+      "Equipamento (Casa Recolha Lixo, Gás Canalizado, Sala Condomínio, TV Cabo, Video-Porteiro)",
+      "Piscina (Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 64.41; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 2,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

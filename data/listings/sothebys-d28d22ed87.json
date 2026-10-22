@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68467&foto=1303565&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68467&foto=1303565&f=1",
+  "description": "Condomínio fechado mas aberto à paisagem, o UNIQUE Tagus é um projecto residencial onde interior e exterior unem valências para lhe oferecer uma proposta de vida irrepetível. Do luxo quotidiano do seu apartamento aos amplos jardins e a uma série de instalações e comodidades exclusivas incluindo ginásio, piscinas, sauna, duche-sensação, sala de cinema e co-working, poucas são as razões para sair da sua nova casa.\nCom um total de 102 apartamentos, oferecendo tipologias de T1 a T4 e áreas entre os 60 m2 e os 265 m2 o UNIQUE Tagus adapta-se às suas preferências e necessidades — de romântico refúgio para dois com a cidade no horizonte, a promessa de espaço e campo para uma vivência familiar em pleno. Todos os apartamentos do UNIQUE Tagus assumem uma estética contemporânea, privilegiando perspectivas limpas, espaços desobstruídos e linhas direitas. Merecem ainda destaque os apartamentos com terraços na cobertura, que surpreendem com jacuzzis e piscinas privativas — uma proposta de redefinição do conceito de “exclusivo” e a promessa de novas vivências no seu quotidiano.\nNa margem sul do Tejo, a 25 mins do Aeroporto Internacional de Lisboa e convenientemente próximo dos acessos a três das principais auto-estradas do país (A1 – Norte, A2 – Sul e A6 – Espanha), Alcochete beneficia de uma das mais interessantes localizações da Grande Lisboa. Se preferir deixar o carro em casa, são diversos os autocarros que o colocam em Lisboa, e os barcos com partida do Montijo deixam-no no centro da acção, em pleno Cais do Sodré.",
+  "geo": {
+    "lat": 38.7562165,
+    "lng": -8.9537947
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,47 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68467&foto=1303565&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68467&foto=1303565&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Alumínio, Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Equipamento (Parque Infantil, Sala Condomínio, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bombeiros, Clínica, Escolas, Ginásio, Hospital, Jardins, Jardins Infância, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 211,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

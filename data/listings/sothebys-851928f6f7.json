@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82582&foto=1679107&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82582&foto=1679107&f=1",
+  "description": "Apartamento T3 Novo a Estrear com Varandas e Garagem – Avenida 5 de Outubro, Avenidas Novas\n\nExcelente apartamento T3 para venda nas Avenidas Novas, localizado numa zona residencial exclusiva da Avenida 5 de Outubro. O imóvel encontra-se inserido num edifício de obra nova (concluído em 2024), posicionado numa secção de rua sem saída, o que garante uma atmosfera residencial pacífica e invulgar para o centro da cidade.O apartamento está situado num 8.º andar em prédio com elevador, oferecendo uma vista desafogada e dupla orientação solar (Nascente/Poente), beneficiando de imensa luminosidade natural durante todo o dia.\n\nCaracterísticas Principais:\n\nÁrea Bruta Privativa: 133 m²Piso: 8.º andar (com elevador) Estado: Novo a estrear (Construção de 2024 )Zona Social: Sala comum generosa com excelente exposição a poente e acesso direto a uma varanda. Zona Privada: 1 Suite principal orientada a nascente com varanda privativa + 2 Quartos orientados a poente com roupeiros embutidos. Casas de Banho: 1 casa de banho completa de apoio aos dois quartos + casa de banho da suite. Estacionamento: 1 Lugar de garagem amplo (capacidade para 2 carros pequenos ou 1 carro grande + 1 mota). Arrecadação: Espaço de arrumos independente incluído.\n\nPontos Fortes e Envolvência: A distribuição inteligente das áreas separa perfeitamente a zona social da zona de descanso.\n\nA localização nas Avenidas Novas coloca-o a uma curta distância a pé de todo o tipo de comércio, serviços, escolas e redes de transportes, mantendo o privilégio de um ambiente silencioso devido à configuração da rua. Esta é uma das opções mais competitivas do mercado atual para quem procura habitação premium pronta a estrear no centro de Lisboa.",
+  "geo": {
+    "lat": 38.748342,
+    "lng": -9.1506935
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82582&foto=1679107&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82582&foto=1679107&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 133,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

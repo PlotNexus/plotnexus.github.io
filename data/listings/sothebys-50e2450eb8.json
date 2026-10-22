@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 313,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77291&foto=1556055&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77291&foto=1556055&f=1",
+  "description": "Moradia geminada com piscina, em zona residencial tranquila, na proximidade da praia em Leça da Palmeira, com jardim, terraço e uma incrível vista de mar.\nDesenvolvendo-se em 3 pisos, no piso -1, encontramos uma garagem fechada para dois carros, lavandaria e zona de arrumação. No primeiro piso, somos recebidos por um hall que nos conduz a um escritório, WC social, cozinha com porta de acesso ao jardim e uma luminosa sala comum, ligada a uma simpática zona exterior com deck, onde se usufrui de vista mar, perfeita para momentos de lazer, na qual encontramos uma convidativa piscina. A zona exterior dispõe de uma zona para churrasco, com ligação próxima à cozinha da casa.\nNo 2º piso, temos duas suites, uma delas com uma rasgada janela e desafogada vista de mar, com um closet de dimensões generosas, e um amplo WC. No mesmo piso, temos, também, um quarto com um WC de apoio. No interior da casa, uma elegante escada faz a ligação entre pisos, levando-nos ao piso superior, onde agradável um terraço/solário, acompanhando toda a área da casa, nos recebe, oferecendo vistas panorâmicas e de mar. \nPara conforto adicional, a moradia dispõe de ar condicionado e estores elétricos.\nLocalizada em zona de excelência, com bons acessos, transportes públicos, próxima de hospitais, escolas, restaurantes, e toda a simpática vivência que a zona de Leça da Palmeira junto à praia oferece. A 5 minutos a pé de uma praia de extenso areal, da Piscina das Marés, obra de referência do premiado Arquiteto Siza Vieira, e de toda um calçadão que permite agradáveis caminhadas.",
+  "geo": {
+    "lat": 41.1935435524833,
+    "lng": -8.7009981878662
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,57 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77291&foto=1556055&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77291&foto=1556055&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "PVC",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Estores Eléctricos",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Paredes (Pintadas)",
+      "Equipamento (Jardins)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 33.8; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Bons, Porto de Mar, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 313,
-  "area_bruta_m2": null,
+  "area_util_m2": 220,
+  "area_bruta_m2": 313,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

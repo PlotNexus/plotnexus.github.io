@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 357,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76256&foto=1527666&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76256&foto=1527666&f=1",
+  "description": "Encantadora moradia de quatro frentes situada numa zona nobre de Leça da Palmeira, que combina harmonia, inspiração e uma conexão única com o mar e a natureza. Com um jardim bem cuidado, garagem e elevador, esta residência oferece um ambiente perfeito para quem busca conforto e tranquilidade.\n\nCom áreas generosas, 295 metros quadrados, distribuídos em dois pisos, o piso térreo revela uma área social acolhedora e funcional. Ao entrar, encontra-se um hall de entrada com acesso ao elevador, uma ampla sala de estar e jantar que comunica diretamente com o jardim, ideal para momentos de lazer ao ar livre, com uma zona de estar e refeições para os dias mais quentes. \nA cozinha totalmente equipada, lavandaria, um WC de serviço, um escritório e um quarto de serviço, completam este nível.\nNo piso superior, estão os três quartos, incluindo uma suíte com closet, apoiada por terraço com 11 metros quadrados com vistas sobre a paisagem envolvente.\nA climatização é assegurada por aquecimento central e a garagem acolhe dois carros.\n\nLocalizada a poucos passos da praia e do farol de Leça, esta casa está inserida numa zona residencial tranquila, predominantemente composta por moradias. com projecto do Arquitecto Rogério Cavaca.\nA cerca de 400 metros da praia dos Beijinhos, dispõe de comércio e serviços nas proximidades, além de acessos facilitados às autoestradas, aeroporto permitindo uma rápida ligação ao centro de Matosinhos e ao Porto. Inspirada pela proximidade do mar e da piscina das marés (Obra do Arquiteto Siza Vieira), esta residência é um convite a viver em harmonia com a natureza, desfrutando de vistas privilegiadas e de uma atmosfera serena e inspiradora.",
+  "geo": {
+    "lat": 41.1844362,
+    "lng": -8.6962775
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,48 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76256&foto=1527666&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76256&foto=1527666&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Caixilharia": [
+      "Madeira",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Segurança Activa)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Térmico)",
+      "Equipamento (Gás Canalizado, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 33.5; Portão Automático"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 357,
-  "area_bruta_m2": null,
+  "area_util_m2": 296,
+  "area_bruta_m2": 357,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

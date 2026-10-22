@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 206,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74344&foto=1612872&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74344&foto=1612872&f=1",
+  "description": "Com 250 metros quadrados de área habitável, a Villa Valentina é uma moradia T3 que combina design moderno, conforto, privacidade e uma vista excecional sobre o Oceano Atlântico. Dispõe de três quartos, quatro casas de banho, ar condicionado, cozinha totalmente equipada, piscina aquecida, terraço soalheiro com zona de churrasco e uma varanda panorâmica no piso superior. Conta ainda com um quarto extra, ideal para sala de cinema, escritório ou ginásio, bem como dois lugares de estacionamento privativos, tornando-a uma oportunidade única para quem procura um investimento sólido no setor turístico de gama alta. Graças à sua localização privilegiada em encosta, a Villa Valentina oferece uma vista totalmente livre e panorâmica sobre o oceano, visível a partir da piscina, do terraço e de várias áreas interiores, assim como da varanda superior. Cada pôr do sol transforma-se num cenário memorável, proporcionando uma experiência verdadeiramente diferenciada.\nSituada na pitoresca e soalheira Ponta do Sol, a moradia encontra-se registada como alojamento local e publicada nas principais plataformas de reservas, onde se destaca pelas excelentes avaliações. Apresenta altas taxas de ocupação e uma reputação consolidada, fruto não só das suas vistas extraordinárias, mas também do conforto e elegância das suas instalações. Renovada por completo no início de 2024, está num estado irrepreensível e pronta para gerar rentabilidade imediata. A área exterior foi cuidadosamente pensada para proporcionar bem-estar e momentos de convívio, contando com piscina exterior aquecida de vista infinita, terraço amplo e privado, zona de churrasco com forno tradicional, lounge exterior e espaço de refeições ao ar livre. No interior, a moradia destaca-se pela arquitetura aberta, pela luminosidade natural e por uma decoração que combina design contemporâneo, materiais de qualidade e um ambiente acolhedor que convida ao descanso. A Ponta do Sol é reconhecida como a zona mais solarenga e quente da ilha, muito procurada por expatriados, nómadas digitais, amantes de natureza e desporto, turistas de luxo e famílias que privilegiam tranquilidade. Nas proximidades encontram-se praias encantadoras, trilhos pedestres, surf, parapente e passeios marítimos para observação de golfinhos e baleias, além do recente campo de golfe da Ponta do Pargo, que acrescenta ainda mais valor à região.",
+  "geo": {
+    "lat": 32.6795993040946,
+    "lng": -17.103604888916
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,59 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74344&foto=1612872&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74344&foto=1612872&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Alumínio)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Escritório",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Equipamento (Jardins, Rega Automática, TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Rural)",
+      "Proximidade (Bombeiros, Clínica, Jardins, Padaria, Polícia, Praias, Serviços Públicos)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 206,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 206,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

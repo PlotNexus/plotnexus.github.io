@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66305&foto=1272982&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66305&foto=1272982&f=1",
+  "description": "Localizado na zona central de Vilamoura, a dois passos da Marina, o Vilamoura Parque é um condomínio privado, que exala um estilo de vida premium com jardins e piscinas privadas e amplas áreas verdes num ambiente de exclusividade, elegância e qualidade.\nA arquitetura contemporânea, com linhas refinadas e elementos em madeira, permite que as casas se incorporem num ambiente natural, criando um equilíbrio perfeito entre espaços privados e comuns. Um prestígio incomparável que, também, se reflete na escolha dos materiais e acabamentos de alta qualidade utilizados na construção.\nEste fantástico projeto inclui moradias com 2 e 3 quartos onde todas dispõem de garagem em box com acesso direto ao interior. Os ambientes interiores são elegantes e luminosos, aquecidos pela presença de um pátio central, que é o coração da habitação. Os exteriores, com jardins e piscinas privadas, proporcionam uma vivência única, numa localização excecional. No âmbito de uma preocupação com a sustentabilidade ambiental, todas as unidades terão certificação energética Classe A+.\nNo Vilamoura Parque, pode disfrutar de uma localização ímpar, com amplos espaços verdes privados, a dois passos da marina e de todos os serviços que precisa para viver, ou passar férias.",
+  "geo": {
+    "lat": 37.0818487,
+    "lng": -8.114291
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66305&foto=1272982&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66305&foto=1272982&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 202,
+  "area_bruta_m2": 165,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

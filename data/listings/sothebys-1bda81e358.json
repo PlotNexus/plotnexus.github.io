@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82120&foto=1694297&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82120&foto=1694297&f=1",
+  "description": "Apartamento T3 integrado no exclusivo M33 Residence, um empreendimento contemporâneo situado em Vilamoura, no concelho de Loulé, uma das localizações mais prestigiadas e procuradas do Algarve.\n\nCom uma arquitetura moderna, áreas generosas e acabamentos de qualidade, este apartamento foi concebido para proporcionar conforto, funcionalidade e uma experiência de vida sofisticada.\n\nA propriedade dispõe de três quartos, quatro casas de banho e estacionamento para duas viaturas, oferecendo uma excelente combinação de espaço e comodidade, seja como residência permanente, casa de férias ou investimento.\n\nA distribuição interior foi cuidadosamente pensada para privilegiar o conforto e a privacidade, com espaços amplos e harmoniosamente organizados. Uma solução particularmente interessante para famílias ou para quem valoriza a dimensão e a qualidade de um apartamento contemporâneo numa localização premium.\n\nA localização permite usufruir de tudo o que Vilamoura tem para oferecer, encontrando-se próxima da Marina, dos campos de golfe, das praias, de restaurantes, comércio e serviços. Ao mesmo tempo, o empreendimento beneficia de um ambiente tranquilo e exclusivo, característico desta zona do Algarve.\n\nUma oportunidade diferenciadora para adquirir um apartamento T3 de qualidade em Vilamoura, combinando espaço, conforto, modernidade e uma localização de excelência.",
+  "geo": {
+    "lat": 37.0840299,
+    "lng": -8.1211548
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82120&foto=1694297&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82120&foto=1694297&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 49,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79051&foto=1591501&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79051&foto=1591501&f=1",
+  "description": "Inspirado pela elegância intemporal dos empreendimentos mais icónicos, nasce o Lux, um edifício onde a luz, o mar e o design se fundem para criar uma nova referência de habitação de prestígio no Funchal.\n\nCom uma arquitetura de linhas sofisticadas e presença marcante, o Lux oferece apartamentos com piscinas privadas, amplas varandas com vista mar garantida, jardins paisagísticos, ginásio moderno e zonas de lazer concebidas para o bem-estar e a serenidade dos seus residentes.\n\nOs interiores distinguem-se pela qualidade dos acabamentos e pela atenção ao detalhe: todos os quartos são em suíte, e as zonas sociais dos apartamentos T2 e T3 — em open space — incluem casa de banho de apoio e lavandaria.\n\nLocalizado numa das zonas mais privilegiadas da cidade, a poucos passos do centro, o Lux conjuga exclusividade, conforto e privacidade num conceito de vida sofisticado.\nMais do que um nome, Lux é uma promessa — de brilho, leveza e de um viver acima do comum.",
+  "geo": {
+    "lat": 32.6526662758532,
+    "lng": -16.9030183068848
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,16 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79051&foto=1591501&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79051&foto=1591501&f=1"
   ],
-  "features": null,
+  "features": {
+    "Edifício": [
+      "Piscina (Exterior)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 120,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

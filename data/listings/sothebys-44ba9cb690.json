@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 158,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75803&foto=1637945&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75803&foto=1637945&f=1",
+  "description": "Excelente moradia geminada muito bem localizada no centro de Vilamoura, junto ao Hilton Resort, Old Course e ao Pinhal Golf Course, a escassos minutos de restaurantes e cafés, clubhouses, assim como do Browns Sports Center.\n\nEsta propriedade beneficia de amplas áreas interiores e exteriores, proporcionando uma vivência familiar muito privativa.\n\nNo rés do chão, a moradia inclui uma casa de banho social que serve de apoio a um quarto, uma cozinha compartimentada que poderá ser modernizada e convertida em open space e uma ampla sala de estar com mesa de jantar e acesso ao belíssimo jardim maduro.\n\nNo primeiro andar, a propriedade contempla duas suites com terraços privativos.\n\nEste é o investimento ideal para primeira habitação, casa para desfrutar das férias ou rentabilizar, numa zona amplamente desejada pelos investidores nacionais e internacionais, a escassos minutos de todas as comodidades locais.",
+  "geo": {
+    "lat": 37.0695602517,
+    "lng": -8.1025028228
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75803&foto=1637945&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75803&foto=1637945&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 158,
-  "area_bruta_m2": null,
+  "area_util_m2": 5,
+  "area_bruta_m2": 158,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

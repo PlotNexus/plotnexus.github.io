@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76593&foto=1541895&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76593&foto=1541895&f=1",
+  "description": "Inserido no prestigiado e exclusivo Sun Cliffs Resort, este elegante apartamento T2, situado no oitavo andar com uma vista mar absolutamente espetacular, proporciona uma combinação rara e única de conforto refinado, luxo contemporâneo e uma beleza natural impressionante, situado numa das mais emblemáticas e cobiçadas localizações do Algarve, junto às majestosas falésias da icónica Ponta da Piedade, em Lagos. Com áreas amplas e generosas, este apartamento destaca-se pelas suas duas varandas privadas, perfeitas para desfrutar da tranquilidade e das vistas panorâmicas sobre o Oceano Atlântico. Totalmente mobilado e equipado com acabamentos premium de elevada qualidade, que criam um ambiente sofisticado, acolhedor e funcional. O design moderno e contemporâneo, aliado à abundante luz natural que inunda os espaços interiores, confere a este imóvel uma atmosfera de requinte e bem-estar. Esta propriedade é a escolha ideal para quem procura um refúgio exclusivo para férias ou um investimento turístico com elevada rentabilidade, beneficiando de uma localização privilegiada e de todas as facilidades que um resort de luxo pode oferecer. Integrado num complexo hoteleiro de cinco estrelas, gerido pela reconhecida e prestigiada Sonae Capital, o Sun Cliffs Resort proporciona aos seus residentes acesso a uma vasta gama de comodidades premium, incluindo um SPA de classe mundial, um moderno ginásio equipado, piscinas interiores e exteriores, um restaurante de alta gastronomia, um rooftop lounge com vistas panorâmicas deslumbrantes sobre o mar, um parque infantil e um kids club para os mais pequenos, além de um serviço de hotelaria e concierge de excelência, que garantem uma experiência de vida única e exclusiva. Esta é uma oportunidade verdadeiramente singular para adquirir um imóvel exclusivo num dos destinos costeiros mais desejados e valorizados da Europa. No Sun Cliffs Resort, viver transcende o simples conceito de moradia; é, acima de tudo, um privilégio incomparável, onde a elegância, o conforto e a natureza se unem para criar um estilo de vida verdadeiramente inigualável.\nA uma curta distancia do centro histórico de Lagos, esta é a escolha perfeita para quem procura elegância e luxo, num ambiente descontraído e cosmopolita como Lagos. Extremamente perto de todas as facilidades necessárias como, farmácias, centro de saúde, hospitais, supermercados, restaurantes e escolas. \nLagos emana história, cultura e beleza natural.",
+  "geo": {
+    "lat": 37.0886224584327,
+    "lng": -8.67030491028137
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,51 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76593&foto=1541895&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76593&foto=1541895&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "PVC",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "TV-Cabo",
+      "Piscina (Exterior, Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Equipamento (TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Dunas",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Porto de Mar, Porto de Rio)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Hospital, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 117,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

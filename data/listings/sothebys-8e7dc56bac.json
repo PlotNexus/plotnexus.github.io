@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82059&foto=1661054&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82059&foto=1661054&f=1",
+  "description": "Fantástico apartamento composto por três suites, com área interior de 155.14 metros quadrados e áreas exteriores compostas por duas varandas, com 25.02 metros quadrados e 21.32 metros quadrados respetivamente. Dispõe ainda de dois lugares de garagem e arrumo. Possui duas frentes: uma voltada à Avenida da Boavista e outra a sul, para a Rua de António Patrício. Está inserido no icónico edifício localizado na prestigiada zona da Boavista, junto ao nobre Bairro de Hollywood, o Prisma é um empreendimento que se destaca pela sua elegância e sofisticação. As suas características distintivas incluem acabamentos de alta qualidade, varandas e terraços generosos, que proporcionam vistas deslumbrantes sobre a Boavista e o verde do Bairro Hollywood. O Prisma oferece aos residentes um jardim privativo com 800 metros quadrados, um ginásio e uma sala de condomínio equipados, tornando este local verdadeiramente especial. Este empreendimento, assinado pelo premiado atelier Ventura+Partners, do arquiteto Manuel Ventura, foi inspirado numa estética singular, com uma riqueza volumétrica, com módulos geométricos de forma piramidal. Com uma localização privilegiada, encontra-se a apenas 10 minutos das principais vias de acesso, 20 minutos da estação de comboios e 5 minutos do metro, tornando a deslocação pela cidade rápida e conveniente. A proximidade a restaurantes, hospitais, supermercados e escolas, todos a cerca de 5 a 15 minutos de distância, garante comodidade e facilidade no quotidiano dos moradores.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,51 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82059&foto=1661054&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82059&foto=1661054&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Alumínio, Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação, Lojas)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Gás Canalizado, Jardins, Sala Condomínio)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 155,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

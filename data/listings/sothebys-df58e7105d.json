@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 526,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76756&foto=1554511&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76756&foto=1554511&f=1",
+  "description": "Moradia singular, localizada em Esmoriz, onde o design arquitetónico de excelência se funde com um ambiente acolhedor e espaços cuidadosamente desenhados para proporcionar o máximo conforto. Esta propriedade não é apenas uma casa, é um verdadeiro refúgio, rodeado por jardins exuberantes e uma atmosfera de tranquilidade inigualável.\nCom uma área de 526m2 de construção, inserida num generoso terreno de 2.700m2, esta moradia é ideal para quem procura espaço, privacidade e o toque único de uma residência bem cuidada.\nAo atravessar os portões desta propriedade, será recebido por jardins lindíssimos e cuidadosamente mantidos, um espaço verde que embeleza e garante a privacidade da moradia.\nNa zona social exterior, destacam-se:\nTelheiro espaçoso, ideal para refeições ao ar livre e momentos de convívio com família e amigos.\nChurrasqueira, perfeita para os dias de verão.\nAdega, onde poderá armazenar e apreciar os seus vinhos.\nSuite privativa, que oferece um espaço independente para hóspedes ou serviços.\nGaragem ampla para dois carros, com espaço adicional para arrumos, garantindo funcionalidade e organização.\nAo entrar na moradia, o rés do chão convida com ambientes amplos e bem delineados:\nSalão espaçoso, com luz natural abundante, perfeito para momentos de lazer e convívio.\nCozinha ampla, ideal para os amantes da culinária, equipada e com bastante espaço de arrumação.\nSalão de Jogos, um espaço perfeito para entreter amigos e familiares, ideal para noites divertidas.\nLavandaria prática e WC de apoio, que complementam a funcionalidade desta área.\nO primeiro piso é dedicado à área mais privada da moradia, proporcionando conforto e privacidade:\nTrês quartos amplos (um deles Suite) com roupeiros embutidos.\nSalão adicional, ideal como espaço de lazer ou leitura, com áreas amplas e bem iluminadas.\nCozinha com copa e despensa, que garante toda a conveniência para o dia a dia.\nNo segundo piso, encontramos um sótão amplo, que poderá ser adaptado às mais diversas necessidades - seja como zona de arrumação, escritório ou até um estúdio privado. Este piso inclui ainda:\nWC completo, assegurando conforto e independência.\nEspaços de arrumação adicionais, perfeitos para manter a casa sempre organizada e funcional.",
+  "geo": {
+    "lat": 40.9552706157,
+    "lng": -8.6247825622
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76756&foto=1554511&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76756&foto=1554511&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Pavimento (Tijoleira)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado)",
+      "Equipamento (TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada)",
+      "Centralidade (Rural)",
+      "Proximidade (Praias, Serviços Públicos)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 526,
-  "area_bruta_m2": null,
+  "area_util_m2": 289,
+  "area_bruta_m2": 526,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

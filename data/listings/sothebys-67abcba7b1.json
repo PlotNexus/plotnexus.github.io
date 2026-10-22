@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 5,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73731&foto=1609188&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73731&foto=1609188&f=1",
+  "description": "Moradia T3 de arquitetura contemporânea na Abrunheira, em fase final de construção, com 224 metros quadrados de área bruta de construção, inserida num lote de 436 metros quadrados, numa zona nobre de Sintra em pleno crescimento de novas construções.\nO piso térreo da moradia é composto por espaço em conceito de open space interligando a sala com a cozinha, contando ainda com uma casa de banho social. \nNo primeiro piso existem três quartos, todos eles com varanda e roupeiros, sendo um deles em suíte, existindo ainda uma casa de banho de apoio aos restantes quartos. Na cave, além da garagem para dois carros, conta com uma lavandaria e um espaço multiusos. A área exterior é bastante ampla, com jardim e piscina.\nMoradia de design moderno com ambiente acolhedor, aliando luxo, estilo e eficiência energética, perfeito para desfrutar com a família e amigos. \nPode ainda encontrar todo o tipo de comércio e serviços a cinco minutos, nomeadamente o Alegro Sintra e o Hospital CUF Sintra. Poderá usufruir também de inúmeras atividades de lazer como golf, ginásio, spa, ténis, padel e Clube Equestre. A cinco minutos encontra escolas públicas e privadas de referência, como o Colégio da Beloura, o Colégio do Ramalhão, a TASIS International School e a Carlucci American International School of Lisbon (CAISL).\nAcessos rápidos a Lisboa, Sintra, Cascais e Estoril (A16, A5, IC19), ficando a apenas 35 minutos do Aeroporto de Lisboa. Cascais e Oeiras ficam a apenas 15 minutos e a apenas a 10 minutos da histórica Vila de Sintra.\nEsta moradia irá oferecer um estilo de vida contemporâneo e sofisticado numa localização privilegiada!",
+  "geo": {
+    "lat": 38.7647734,
+    "lng": -9.35242
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,35 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73731&foto=1609188&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73731&foto=1609188&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 35; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Serra"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_util_m2": 161,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

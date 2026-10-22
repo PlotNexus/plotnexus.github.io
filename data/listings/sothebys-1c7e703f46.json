@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 120,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=20633&foto=632628&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=20633&foto=632628&f=1",
+  "description": "Moradia triplex completamente renovada com três quartos a apenas a alguns passos da marina de Vilamoura.\nRenovada com detalhes de requinte e luxo, conta com materiais de alta qualidade, contando com painéis solares responsáveis pelo aquecimento da água, do piso radiante por toda a casa e ainda pelo aquecimento da piscina exterior de água salgada.\nUma sala comum no piso térreo que conta com vista para a Marina, cozinha completamente equipada e dois terraços, um frontal com deck e zona de refeições e outro nas traseiras onde está localizada a piscina, onde é também possível vislumbrar a marina devido à arquitectura pensada para o efeito.\nNo primeiro e segundo piso contam-se três quartos com uma agradável vista sobre a marina, duas casas de banho e uma arrecadação.\nUm luxuoso e único imóvel numa localização privilegiada e com uma vista única e desimpedida na segunda linha da magnífica marina de Vilamoura. \nA piscina aquecida de água salgada tem aproximadamente um metro e setenta centímetros de profundidade para maravilhosos mergulhos de verão.\nUm excelente investimento para habitar, para férias em família ou para rentabilizar no coração de Vilamoura.",
+  "geo": {
+    "lat": 37.07859,
+    "lng": -8.117881
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,59 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=20633&foto=632628&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=20633&foto=632628&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Estores Eléctricos",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Granito, Pintado)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Madeira)",
+      "Equipamento (Jardins, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 120,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 120,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

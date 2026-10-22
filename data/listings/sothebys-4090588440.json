@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 282,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64814&foto=1224329&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64814&foto=1224329&f=1",
+  "description": "Moradia contemporânea, nova a estrear, localizada numa zona residencial em Carcavelos.\nÉ composta por três pisos, o piso principal é composto por uma ampla sala de estar e jantar com acesso direto ao jardim com piscina, cozinha equipada e uma casa de banho social. \nO primeiro piso tem três quartos um em suite com closet e uma casa de banho completa de apoio aos restantes quartos. \nO piso inferior um tem duas salas com 35 metros quadrados cada, uma delas com acesso a um pátio com cerca de 15 metros quadrados e uma casa de banho completa. \nEstacionamento para duas viaturas. \nA localização é muito próxima de todos os serviços, escolas, comércio, praias, transportes e os principais acessos para Lisboa, Cascais, Sintra.",
+  "geo": {
+    "lat": 38.69778,
+    "lng": -9.335836
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64814&foto=1224329&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64814&foto=1224329&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 282,
-  "area_bruta_m2": null,
+  "area_util_m2": 198,
+  "area_bruta_m2": 282,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

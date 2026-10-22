@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 310,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83746&foto=1712494&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83746&foto=1712494&f=1",
+  "description": "Arquitetura contemporânea, piscina e uma área interior particularmente generosa definem esta moradia na Madalena, em Vila Nova de Gaia. Implantada num terreno de 439 m², a propriedade desenvolve-se em três pisos e conta 242 m² de área bruta privativa.\n\nA linguagem arquitetónica é marcadamente atual, com volumes geométricos depurados, grandes superfícies envidraçadas e uma combinação de materiais que confere identidade à fachada. A relação entre os espaços interiores e o exterior foi pensada para privilegiar a entrada de luz natural e uma vivência fluida da casa.\n\nA organização pelos três pisos permite separar de forma funcional as diferentes áreas. No piso inferior encontram-se a garagem, uma sala, arrumos, lavandaria e instalação sanitária. O piso intermédio integra as principais áreas habitacionais, enquanto o piso superior acolhe a zona mais privada da casa. \n\nNo exterior, a piscina assume-se como um dos elementos centrais da propriedade, criando uma extensão natural da área social e um espaço vocacionado para os momentos de lazer e convívio.\n\nSituada na Madalena, Vila Nova de Gaia, esta é uma propriedade particularmente interessante para quem procura uma moradia recente, de expressão arquitetónica contemporânea, com áreas amplas, espaço exterior e piscina, aliando conforto familiar a um desempenho energético eficiente.",
+  "geo": {
+    "lat": 41.1175125889,
+    "lng": -8.6525058746
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,60 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83746&foto=1712494&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83746&foto=1712494&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Gás Canalizado",
+      "Solar",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 23.2; Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Rio"
+    ],
+    "Zona": [
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Escolas, Hospital, Jardins Infância, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 310,
-  "area_bruta_m2": null,
+  "area_util_m2": 242,
+  "area_bruta_m2": 310,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

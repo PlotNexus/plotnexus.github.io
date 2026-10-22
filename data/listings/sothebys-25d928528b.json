@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 300,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69342&foto=1340548&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69342&foto=1340548&f=1",
+  "description": "Situada num enclave exclusivo, a Urbanização Serra e Mar, esta moradia oferece uma experiência de vida serena e privada, sendo vendida totalmente mobilada. Implantada num lote de quase 2000 metros quadrados, esta propriedade de características únicas, com dois pisos, uma área bruta de construção de mais de 300 metros quadrados e quatro quartos, esta moradia foi meticulosamente remodelada em 2020, garantindo o mais alto padrão de qualidade em cada detalhe. Ao entrar pelo piso térreo, a moradia revela a sua verdadeira grandiosidade, onde será recebido por uma elegante sala de estar, que se destaca como o coração da casa, inundada de luz natural através de janelas em ambos os lados, que capturam as deslumbrantes vistas panorâmicas da serra, com uma lareira de dupla face que adiciona um toque acolhedor, enquanto o acesso direto ao terraço e varanda convida a desfrutar dos espaços ao ar livre. O pé direito alto com vigas decorativas em madeira proporciona uma sensação de grandeza e elegância, enquanto as janelas e portas em curva acentuam o estilo mediterrâneo, adicionando um toque de charme único. Ainda neste piso, encontramos uma cozinha totalmente equipada, com uma porta independente para o exterior, proporcionando comodidade e praticabilidade. O luxo continua com a master suite, neste mesmo piso, que é um verdadeiro retiro privado, completo com um enorme terraço, onde o espetáculo das montanhas e do campo é um cenário constante, com um toldo elétrico para sombra e iluminação LED para noites encantadoras sob as estrelas. Esta moradia exemplifica o conforto moderno com ar condicionado split em toda a casa, garantindo um clima ideal em qualquer estação. Além disso, a propriedade conta com 24 painéis fotovoltaicos para energia sustentável, uma garagem adjacente e um piso inferior que abriga uma arrecadação, três quartos, um deles en suite, uma lavandaria e todas com acesso à zona social da piscina. O espaço exterior é um verdadeiro paraíso, com uma zona de piscina deslumbrante, de generosas dimensões, com 10x5m, área de refeições exterior coberta, completa com lavatório de apoio e churrasqueira para encontros memoráveis com familiares e amigos. Localizada estrategicamente, a moradia fica a apenas 10 minutos do Morgado Golfe e do Penina Golfe Resort, próxima do Autódromo do Algarve. As deslumbrantes praias estão a apenas 15 minutos de distância e o Aeroporto de Faro fica a apenas 50 minutos de carro.",
+  "geo": {
+    "lat": 37.184978,
+    "lng": -8.5824641
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,74 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69342&foto=1340548&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69342&foto=1340548&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia",
+      "Poço"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Portadas",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Depósito Lixo",
+      "Parabólica",
+      "Rega Automática",
+      "Solar",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (Pré-Instalação)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Pavimento (Tijoleira)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Estucado, Ponto de Luz)",
+      "Equipamento (Parabólica, Rega Automática, TV Cabo)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Luz",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Panorâmicas",
+      "Pastagens",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons)",
+      "Centralidade (Distante Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 300,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 300,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

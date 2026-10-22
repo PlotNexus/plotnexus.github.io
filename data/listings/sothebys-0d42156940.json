@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83370&foto=1704330&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83370&foto=1704330&f=1",
+  "description": "No coração do centro histórico de Lisboa, esta fração de 159 m², situada no segundo andar de um edifício histórico na prestigiada Rua Anchieta, impressiona desde a entrada pelo seu pé-direito de 3,45 metros, que confere ao espaço uma amplitude e uma qualidade raramente encontradas no centro da cidade, apresentando uma oportunidade singular para quem reconhece o potencial de um imóvel antes de este se tornar evidente para todos.\n\nA área e a configuração do espaço permitem equacionar diferentes soluções e tipologias, de acordo com o projeto a desenvolver, numa zona onde a oferta de imóveis com estas características é cada vez mais limitada e a procura se mantém consistente.\n\nA localização é um dos seus principais atributos. A menos de 100 metros do Largo de São Carlos e do restaurante Belcanto, e a cerca de 700 metros do Terreiro do Paço e da Rua Augusta, encontra-se inserida num dos eixos mais emblemáticos e valorizados de Lisboa. Uma envolvente marcada pela arquitetura histórica, cultura, restauração e comércio de referência, com forte atratividade tanto para residência como para investimento.\n\nCom certificado energético de classe C e documentação regularizada, esta propriedade reúne localização, dimensão e potencial de transformação, constituindo uma oportunidade para desenvolver um projeto personalizado num dos endereços mais distintos da capital.\n\nUma propriedade para quem procura investir em Lisboa com visão de longo prazo, num contexto onde o caráter histórico e o potencial de valorização se encontram.",
+  "geo": {
+    "lat": 38.7107286,
+    "lng": -9.1412323
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83370&foto=1704330&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83370&foto=1704330&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 2,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

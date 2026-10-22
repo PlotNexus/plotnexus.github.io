@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68028&foto=1295110&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68028&foto=1295110&f=1",
+  "description": "Entre Santos e o Chiado, no coração de Lisboa encontramos fantástico e super luminoso duplex com uma excelente exposição solar no quarto andar de um prédio da traça tradicional, sem elevador. O apartamento é composto por duas suites uma das quais com closet, cozinha aberta, casa de banho social, uma pequena zona de lavandaria e uma varanda tão característica das construções em Lisboa, o espaço do primeiro andar pode ser convertido numa fantástica master suite com um terraço que convida ao lazer e leitura. \n\nCom uma localização privilegiada, na Rua do Poço dos Negros, num dos bairros mais \"cool\" do Mundo, segundo o Lonely Planet, permite fácil acesso a uma ampla gama de serviços, incluindo restaurantes, lojas, mercados locais e transporte público. A área também é conhecida pela sua atmosfera histórica e encantadora, com diversas opções culturais e de lazer nas proximidades e a 5 minutos walking distance da zona Ribeirinha, a 10 minutos do Chiado e do Príncipe Real e brevemente abrangida pela linha de metro existindo um parque para residentes na zona.\n\nA reabilitação ficou a cargo de um gabinete de arquitectos que pensou e realizou um trabalho de reabilitação minucioso com a substituição de todo o telhado e estrutura em aço bem como de todo o pavimento, não podemos deixar de destacar os detalhes, acabamentos de luxo e carpintarias feitas à medida.\n\nEste é um apartamento onde sentimos a singularidade da luz e atmosfera de Lisboa",
+  "geo": {
+    "lat": 38.7103767,
+    "lng": -9.1507089
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68028&foto=1295110&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68028&foto=1295110&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 158,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

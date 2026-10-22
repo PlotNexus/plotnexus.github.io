@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83382&foto=1700580&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83382&foto=1700580&f=1",
+  "description": "Apartamento T5 em Serralves, Porto, inserido no Edifício Marechal, condomínio fechado da autoria do arquiteto Alcino Soutinho, com amplos espaços verdes ajardinados, construído em 2003. Com 304 m² de área bruta de construção, duas frentes nascente/poente e 23 m² de varandas, destaca-se pela amplitude das áreas, segurança e proximidade à Casa de Serralves.\nA área social apresenta um amplo hall de acesso à sala de 41 m², com lareira e varanda, e à cozinha de 28 m² totalmente equipada e com lavandaria independente. A área privada dispõe de cinco quartos, incluindo duas suites, e quatro casas de banho. O apartamento tem no total três varandas. A garagem integra três boxes fechadas, com 56 m² no todo, permitindo quatro lugares de estacionamento e carregamento de veículos elétricos, além de 8 m² de arrumos. \nO condomínio, de elevada qualidade de construção, permite uma vivência rodeada de jardins privativos, oferecendo piscina interior, ginásio, jacuzzi, banho turco, sauna, spa, sala de jogos e sala de condomínio para eventos, com cozinha de apoio e instalações sanitárias. A segurança inclui portaria e vigilância permanente, 24 horas por dia, 365 dias por ano.\nSituado a 100 metros da Avenida Marechal Gomes da Costa e a 150 metros da Casa de Serralves, encontra-se numa zona residencial de referência no Porto, com acesso a escolas internacionais como LFIP, Rosário, OBS e CLIP, supermercados, comércio, restauração, serviços, transportes e principais vias rodoviárias.\nUma opção direcionada a famílias que procuram uma casa no Porto com áreas generosas, num ambiente calmo com espaços exteriores privados, segurança e acesso a equipamentos de lazer, numa zona urbana premium e sofisticada. A localização junto a Serralves e a qualidade do condomínio reforçam o potencial de valorização e a procura por esta zona residencial.",
+  "geo": {
+    "lat": 41.1601339799985,
+    "lng": -8.65821184257507
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,58 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83382&foto=1700580&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83382&foto=1700580&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Gás Canalizado",
+      "Alarme (Completo)",
+      "Piscina (Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação, Lojas)",
+      "Revestimento Exterior (Tijolinho)",
+      "Equipamento (Gás Canalizado, Jardins, Lago / Espelho de Água, Sala Condomínio, Zelador / Porteiro)",
+      "Piscina (Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 56; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 213,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

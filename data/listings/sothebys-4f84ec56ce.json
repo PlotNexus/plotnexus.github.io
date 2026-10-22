@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=45707&foto=927128&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=45707&foto=927128&f=1",
+  "description": "Descubra o equilíbrio perfeito entre elegância, conforto e localização privilegiada no coração de Lisboa.\n\nEste exclusivo apartamento T4 situa-se na emblemática Rua dos Correeiros, em plena Baixa, uma das zonas mais prestigiadas e vibrantes da cidade. Inserido num edifício recente (2020) com elevador, no 4º piso, beneficia de uma excelente exposição solar nascente e de uma luminosidade natural única.\n\nCom uma área bruta privativa de 136 m², este imóvel apresenta um design moderno e funcional, com acabamentos de elevada qualidade. Dispõe de quatro quartos, incluindo duas suítes, duas casas de banho de apoio e uma ampla zona social em open-space que integra harmoniosamente a cozinha e a sala, criando um ambiente ideal para convívio e bem-estar.\n\nTotalmente renovado com critérios exigentes e inserido no segmento de luxo, este apartamento destaca-se pelo seu estado impecável e pela atenção ao detalhe em cada divisão.\n\nLocalizado em rua pedonal, oferece tranquilidade e, simultaneamente, proximidade a todo o tipo de comércio, serviços, cultura e transportes — o verdadeiro privilégio de viver no centro histórico de Lisboa.\n\nUma oportunidade única para quem procura um imóvel distinto, seja para residência própria ou investimento",
+  "geo": {
+    "lat": 38.71059,
+    "lng": -9.137306
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,19 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=45707&foto=927128&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=45707&foto=927128&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 4"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 136,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

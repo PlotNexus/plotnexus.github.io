@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 5,
   "area_m2": 563,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83401&foto=1711635&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83401&foto=1711635&f=1",
+  "description": "Exclusiva propriedade implantada num terreno de 2.350 m², com moradia isolada de 408 m² de área bruta privativa, que se distingue pela dimensão, privacidade e extraordinária versatilidade, oferecendo um estilo de vida raro na proximidade do Porto. Renovada entre 2023 e 2025, combina o carácter de uma moradia de grandes dimensões com o conforto contemporâneo, dispondo de aquecimento central, AC em alguns dos quartos, bomba de calor e painéis fotovoltaicos.\nPensada para quem valoriza espaço, tranquilidade e qualidade de vida, apresenta uma distribuição ampla e funcional, com ambientes generosos e uma forte ligação entre o interior e o exterior. No piso de entrada, um imponente hall, com excelente pé-direito e elegante escadaria, confere personalidade e presença à casa. Este piso dispõe ainda de escritório com casa de banho completa, facilmente convertível numa suite, ampla sala de estar e jantar, WC social e uma cozinha de excelentes dimensões, complementada por copa e acesso direto ao terraço e jardim, com área de barbecue e refeições ao ar livre.\nNo piso superior encontra-se a área privada, composta por duas suites, um quarto e uma divisão adicional de grande versatilidade, ideal para quarto, escritório ou espaço de apoio à família. Existe ainda uma suite adicional, particularmente adequada para hóspedes, garantindo conforto, privacidade e autonomia.\nO exterior é um dos grandes elementos diferenciadores. O amplo terreno ajardinado oferece elevado potencial para a construção de uma piscina, permitindo criar um verdadeiro espaço privado de lazer e bem-estar. A propriedade dispõe ainda de estufa, pomar com árvores de fruto e vários anexos exteriores, incluindo cavalariças, proporcionando condições para a criação de animais, como cães ou cavalos. Destaca-se também um alpendre com cozinha regional, perfeito para refeições e momentos de convívio ao ar livre. A propriedade inclui espaços de arrumos multiusos, garagem com 155m2, tendo ainda espaço para aparcamento. \nPela sua dimensão e características, adapta-se a diferentes estilos de vida: residência permanente para uma família, segunda habitação ou refúgio para quem trabalha remotamente e procura conciliar natureza, espaço e tranquilidade, garantindo privacidade e segurança, mantendo excelente proximidade dos principais centros urbanos. A localização beneficia de acessos rápidos ao Aeroporto e à cidade do Porto, permitindo desfrutar de uma envolvente tranquila sem abdicar da centralidade, serviços e praia.",
+  "geo": {
+    "lat": 41.2244671,
+    "lng": -8.6981839
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,56 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83401&foto=1711635&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83401&foto=1711635&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia",
+      "Poço"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática"
+    ],
+    "Edifício": [
+      "Revestimento Exterior (Pintado)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 155; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 563,
-  "area_bruta_m2": null,
+  "area_util_m2": 408,
+  "area_bruta_m2": 563,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

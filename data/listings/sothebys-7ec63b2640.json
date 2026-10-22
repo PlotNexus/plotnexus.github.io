@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 186,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79437&foto=1612957&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79437&foto=1612957&f=1",
+  "description": "Situada no Monte, Funchal, esta moradia isolada de tipologia T3 distingue-se pela localização, pela vista ampla sobre a cidade e pelo excelente estado de conservação, revelando-se uma opção única para quem procura um imóvel exclusivo e sereno.\n\nConstruída em 2001, desenvolve-se por três pisos que oferecem um ambiente espaçoso e harmonioso, onde a vista sobre a baía do funchal pode ser apreciada tanto no interior como no exterior. O imóvel dispõe de quintal com jardim, zona de churrasco, varandas generosas e dois lugares de estacionamento, assegurando funcionalidade e segurança no dia a dia. A exposição solar realça cada espaço, criando uma atmosfera convidativa e confortável ao longo de todas as horas do dia.\n\nO enquadramento envolvente é discreto e privado, ideal para quem privilegia tranquilidade sem abdicar de um estilo de vida sofisticado. \n\nA localização garante acessos rápidos, encontrando-se a apenas cinco minutos das principais vias rodoviárias, o que facilita deslocações para várias zonas do funchal e da ilha. A proximidade a serviços essenciais contribui para uma vivência prática e organizada.\n\nTambém a cinco minutos situam-se zonas de restauração, supermercados e o hospital, assegurando uma centralidade equilibrada. A envolvente combina serenidade residencial com conveniência urbana, reforçando o caráter convidativo desta propriedade.",
+  "geo": {
+    "lat": 32.6767094991326,
+    "lng": -16.9031757354736
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79437&foto=1612957&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79437&foto=1612957&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 186,
-  "area_bruta_m2": null,
+  "area_util_m2": 180,
+  "area_bruta_m2": 186,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

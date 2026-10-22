@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 35,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73732&foto=1601050&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73732&foto=1601050&f=1",
+  "description": "Situada na Vilarinha, esta moradia em banda T4+1, inserida num condomínio fechado destaca-se pela organização dos espaços, pela amplitude das divisões e pelo conjunto de áreas interiores e exteriores que tornam o imóvel especialmente funcional para utilização familiar.\n\nCom 396 m² de área bruta de construção, a moradia inclui cinco casas de banho, três suítes, quatro quartos e um espaço adicional.\n \nA cave tem estacionamento para três carros, lavandaria, área técnica, casa de banho e um espaço com luz natural e acesso direto ao pátio inglês. \n\nNo piso térreo, encontramos toda a área social. Esta inclui uma cozinha com bastante arrumação e totalmente equipada, uma casa de banho social e uma sala de estar e jantar com mais de 40 metros quadrados, com ligação direta a um terraço virado a poente. \n\nNo primeiro piso, encontramos duas suítes bastante luminosas com mais de 26 metros quadrados. Tendo uma delas varanda privativa. \n\nNo último piso, há uma suíte principal com uma generosa área de closet com acesso a uma área exterior.\n\nÉ de realçar a qualidade dos acabamentos e dos materiais utilizados nesta moradia. Os quartos e a sala têm soalho de afizélia, as casas de banho têm revestimentos em mármore e o imóvel está equipado com aquecimento central e painéis solares para aquecimento de águas sanitárias.\n\nA casa está inserida numa zona residencial maioritariamente unifamiliar e a uma curta distância do Parque da Cidade do Porto, onde é possível praticar exercício físico e diversos desportos. \n\nÉ possível encontrar todo o tipo de comércio e serviços a 5 minutos de distância. Encontra-se a poucos passos da Universidade Lusíada, próximo do CLIP e a uma curta distância do OBS, do Colégio do Rosário, da Escola Francesa e do Colégio Alemão. A proximidade das avenidas da Boavista e Antunes Guimarães permite ligações simples e rápidas ao centro do Porto.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,57 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73732&foto=1601050&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73732&foto=1601050&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Video-Porteiro",
+      "Música Ambiente (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 31.95; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 35,
-  "area_bruta_m2": null,
+  "area_util_m2": 55,
+  "area_bruta_m2": 35,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }
