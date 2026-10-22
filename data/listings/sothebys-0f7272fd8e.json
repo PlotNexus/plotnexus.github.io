@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74188&foto=1468885&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74188&foto=1468885&f=1",
+  "description": "O empreendimento Paulo Dias Novais é um condomínio fechado de luxo composto por 7 frações com tipologias T2 a T4. Na sua composição encontramos, na maioria 5 apartamentos T3, 1 T2 e um T4 Duplex. A sua construção tem uma linguagem marcadamente contemporânea, localiza-se junto à Avenida da Boavista e a 200 metros da Avenida Marechal Gomes da Costa, localização muito valorizada comercialmente. Este apartamento T3 tem na área social uma sala com kitchenette que comunica com uma belíssima varanda de 29 metros quadrados, onde pode disfrutar de bons momentos de lazer em total privacidade, dispõe ainda de uma suite com uma área muito generosa, dois quartos que se apoiam numa casa de banho completa e ainda um wc de serviço. Os materiais são de qualidade superior, destacando-se o chão em madeira maciça colocado em espiga o que confere muito charme ao apartamento. Tem ar condicionado e bomba de calor para aquecimento das áreas sanitárias. Dispõem de uma box para dois carros. A construção já iniciou e prevê-se a sua conclusão para final de 2026.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,40 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74188&foto=1468885&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74188&foto=1468885&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 25; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Bons, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 119,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

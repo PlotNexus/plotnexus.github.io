@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83979&foto=1716982&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83979&foto=1716982&f=1",
+  "description": "Costa do Castelo | Viver Lisboa a partir do alto\n\nHá endereços que se escolhem pela vista. Este é um deles.\n\nNa Costa do Castelo, num edifício de traça antiga inteiramente reinventado em 2021, este T2 de 130 m² de área bruta privativa desdobra-se diante de uma vista deslumbrante sobre a cidade e o rio, daquelas que mudam com a luz de cada hora do dia.\n\nA sala, ampla e luminosa, é o coração da casa. A cozinha, a suíte e o segundo quarto, com casa de banho social completa, completam um espaço pensado para o conforto, com ar condicionado em toda a casa.\n\nA reabilitação total traduz-se em acabamentos de elevada qualidade, onde cada detalhe foi cuidado para respeitar o carácter do edifício sem abdicar do conforto contemporâneo.\n\nAqui, o charme de um dos bairros mais emblemáticos de Lisboa encontra a exigência de uma reabilitação total. Uma casa onde cada manhã começa com o casario e o Tejo a seus pés.",
+  "geo": {
+    "lat": 38.7132425,
+    "lng": -9.1347099
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83979&foto=1716982&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83979&foto=1716982&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 130,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

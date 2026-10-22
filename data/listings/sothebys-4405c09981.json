@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80991&foto=1670203&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80991&foto=1670203&f=1",
+  "description": "Apartamento T4 convertido num amplo T2 renovado na Av. Infante Santo, no coração da Estrela - uma das zonas mais prestigiadas e tradicionais de Lisboa, conhecida pela sua elegância, convergência entre um estilo de vida cosmopolita e nuances tipicamente bairristas; numa avenida arborizada que figura como uma das mais carismáticas da cidade, proximidade ao rio Tejo, a poucos minutos a pé do Jardim da Estrela e do coração da Lapa.\n\nEste imóvel distingue-se pela combinação entre o charme original e a reabilitação contemporânea de elevada qualidade, representando uma excelente oportunidade para quem procura conforto, localização privilegiada e um estilo de vida urbano sofisticado.\n\nCom uma área bruta privativa de 164 m², o apartamento situa-se no 2.º andar de um edifício com elevador e apresenta espaços amplos, beneficiando de exposição solar nascente. Dispõe de duas suítes, uma casa de banho social e uma zona social com 3 metros de altura de pé direito, concebida com atenção ao detalhe, proporcionando uma fluidez harmoniosa entre sala de jantar, sala de estar e escritório com varanda. Conta com uma cozinha ampla, com sala de refeições dedicada e uma lavandaria fechada. O imóvel foi totalmente renovado em 2010, encontrando-se em excelente estado e oferecendo acabamentos modernos e materiais criteriosos.\n\nO apartamento conta ainda com uma arrecadação no logradouro, garantindo funcionalidade adicional.\n\nA localização é um dos grandes trunfos deste imóvel: Situado na Av. Infante Santo, encontra-se próximo das principais vias de acesso e rodeado por uma vasta oferta de serviços, comércio e lazer. A poucos minutos a pé localizam-se supermercados, restaurantes, escolas de referência (públicas e privadas nacionais e internacionais), farmácias e hospitais.\n\nAssegura-se uma mobilidade prática para toda a cidade através de estação de metro em construção na Estrela (em alternativa: 10m a pé da já existente no Largo do Rato) e paragens de autocarro diversas junto ao imóvel.\n\nCom uma envolvente residencial de prestígio e vista urbana característica de uma das zonas mais exclusivas da cidade, este apartamento representa uma opção inequivocamente distinta para quem valoriza viver numa área com identidade, requinte e tradição, sem abdicar do conforto contemporâneo. \n\nUma residência que alia história, qualidade e localização excecional em Lisboa.",
+  "geo": {
+    "lat": 38.7117434104348,
+    "lng": -9.16384970321045
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,17 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80991&foto=1670203&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80991&foto=1670203&f=1"
   ],
-  "features": null,
+  "features": {
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 164,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

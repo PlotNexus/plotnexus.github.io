@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79606&foto=1641168&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79606&foto=1641168&f=1",
+  "description": "Esta penthouse T3, inserida num exclusivo condomínio, na primeira linha de mar, é ideal para famílias que procuram verdadeira qualidade de vida. \n\nTrata-se de um imóvel único, moderno e em excelente estado de conservação, como novo, pensado para quem valoriza o luxo, o conforto e uma ligação permanente ao oceano, sem abdicar da proximidade à cidade.\n\nCom vista mar e orientação solar a sul, esta penthouse beneficia de luz natural direta durante todo o ano, criando ambientes luminosos e acolhedores.\n\nA ampla varanda, que circunda todo o apartamento, e o soberbo terraço de acesso exclusivo, com piscina/jacuzzi aquecida e cobertura térmica no último piso, convidam a momentos de lazer e contemplação, onde o som do mar se torna parte do quotidiano.\n\nCom uma área bruta privativa de 134,9 m² , este imóvel conta com generosas áreas exteriores de 179,8 m², incluindo o espaçoso terraço com piscina/jacuzzi no piso superior.\n\nO apartamento dispõe de um hall de entrada, uma casa de banho de serviço e uma espaçosa sala, com acesso à varanda. A cozinha está totalmente equipada com eletrodomésticos da marca Siemens. Os três quartos, todos suítes, têm acesso à varanda, garantindo assim o máximo de conforto e privacidade.\n\nOs acabamentos refletem um elevado padrão de qualidade e tecnologia, com sistema de domótica, ar condicionado, recuperador de calor, roupeiros embutidos com iluminação LED e caixilharia Technal com vidro duplo, assegurando eficiência térmica e acústica.\n\nInclui ainda uma garagem fechada para quatro viaturas e arrumos.\n\nLocalizado a apenas 9 km da cidade do Porto, este apartamento representa uma oportunidade fantástica de viver com sofisticação e conforto numa localização absolutamente privilegiada, que permite usufruir da tranquilidade do mar, mantendo a ligação urbana.",
+  "geo": {
+    "lat": 41.1308961787,
+    "lng": -8.6543941497
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,57 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79606&foto=1641168&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79606&foto=1641168&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos, Térmicos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Música Ambiente (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 65.9; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 9,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

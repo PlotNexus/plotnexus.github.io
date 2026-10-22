@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 300,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=57957&foto=1064341&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=57957&foto=1064341&f=1",
+  "description": "Esta acolhedora e espaçosa moradia encontra-se muitíssimo bem localizada, muito próxima dos melhores resorts da Europa. Estando apenas a 5 min da Quinta do Lago, 10min de Vale do Lobo e 15min de Vilamoura e do Aeroporto de Faro, a propriedade usufrui de uma imensa privacidade, estando igualmente próxima de todos os serviços públicos e privados, escolas, centros comerciais, etc. A moradia está inserida num imponente lote de 3.200m2, com jardins de assinatura paisagística, quintal com árvores de fruto maduras, piscina, áreas técnicas, arrecadações, carport para 2 viaturas, área de BBQ.\nNo interior encontramos 3 quartos de excelentes dimensões com casas de banho privativas, sendo que um deles é a master suite no piso superior, com acesso ao terraço de cerca de 70m2 e varanda privativa. Conta, ainda, com uma sala com recuperador de calor e um escritório/TV room de grandes dimensões, lavandaria/despensa e, cozinha de design atual e bem equipada. Aproveitando a orientação N-S há imensa luz natural que entra e, que com a ajuda das caixilharias de alumínio com vidro duplo mantém uma temperatura interior agradável todo o ano bem como o isolamento acústico face ao exterior.\nA propriedade conta, também, com isolamento através de capoto na face norte e isolamento do telhado, furo, cisterna, rega automática, portão automático, painéis solares de aquecimento de águas sanitárias e fossa séptica. A certificação energética actual será de C ou mesmo B-.\nEsta propriedade é um ótimo investimento como residência permanente ou de férias e está concebida para privilegiar o conforto interior e o apreço pelas áreas exteriores bem como pela sua localização muito central e reservada.",
+  "geo": {
+    "lat": 37.075693,
+    "lng": -7.9924125
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=57957&foto=1064341&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=57957&foto=1064341&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 300,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 300,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

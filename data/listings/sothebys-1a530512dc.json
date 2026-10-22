@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 6,
   "area_m2": 484,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76528&foto=1543926&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76528&foto=1543926&f=1",
+  "description": "Localizada em Santo Estêvão das Galés-Monfirre, numa posição elevada e privilegiada da serra, esta magnífica moradia T4+3 combina privacidade, conforto e vistas desafogadas sobre o vale envolvente. Implantada num generoso lote de 2.062 m² e com uma área bruta de construção de 484 m², esta propriedade foi concebida para proporcionar uma experiência de vida exclusiva, onde a tranquilidade da natureza se alia à proximidade dos principais centros urbanos.\nDistribuída por três pisos, a moradia apresenta espaços amplos, luminosos e cuidadosamente planeados. No piso superior encontram-se quatro elegantes suites, incluindo uma ampla master suite equipada com jacuzzi e closet. No piso inferior, a propriedade dispõe ainda de dois quartos adicionais, apoiados por duas casas de banho completas, bem como uma espaçosa sala multifuncional com acesso direto ao jardim e à piscina aquecida e coberta.\nA área social destaca-se pela sua funcionalidade e conforto, com uma cozinha totalmente equipada com eletrodomésticos Bosch, complementada por lavandaria independente e uma casa de banho social. Os acabamentos de elevada qualidade refletem-se nos pavimentos em xisto natural, na madeira maciça de Sucupira e nos detalhes em Iroko náutico, conferindo sofisticação e durabilidade a toda a propriedade.\nO conforto é garantido através de ar condicionado Daikin, caixilharia Technal com corte térmico e estores elétricos de segurança, assegurando eficiência energética e isolamento acústico.\nNo exterior, a propriedade oferece um verdadeiro refúgio privado, com piscina aquecida e coberta, jardim cuidadosamente mantido com sistema de rega automática alimentado por furo, zona de barbecue, terraço coberto, árvores de fruto e horta. A privacidade é assegurada por uma combinação harmoniosa de vedação natural e artificial.\nA garagem coberta tem capacidade para duas viaturas, existindo ainda amplo estacionamento exterior para até dez automóveis.\nSituada a apenas 10 minutos de Mafra, Malveira e Venda do Pinheiro, e a curta distância da Ericeira, Sintra, Cascais e Lisboa, esta propriedade beneficia de excelentes acessos rodoviários e proximidade a comércio, serviços e escolas.\nUma oportunidade rara para quem procura uma moradia distinta, onde espaço, privacidade, conforto e localização se unem em perfeita harmonia.",
+  "geo": {
+    "lat": 38.8749146,
+    "lng": -9.2498714
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,16 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76528&foto=1543926&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76528&foto=1543926&f=1"
   ],
-  "features": null,
+  "features": {
+    "Edifício": [
+      "Piscina (Exterior)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 484,
-  "area_bruta_m2": null,
+  "area_util_m2": 342,
+  "area_bruta_m2": 484,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

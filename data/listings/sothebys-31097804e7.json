@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74432&foto=1604148&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74432&foto=1604148&f=1",
+  "description": "Localizado no coração da cidade do Funchal, o Monterosa Residence oferece o privilégio de viver a poucos passos de comércio, serviços, restauração, cultura e zonas de lazer, proporcionando uma experiência urbana verdadeiramente distinta.\n\nEste elegante apartamento T2, situado no terceiro piso e com orientação a nascente, é composto por dois quartos, sendo um deles em suíte. O imóvel dispõe ainda de um lugar de estacionamento e uma arrecadação, integrando um condomínio que oferece um conjunto de comodidades de elevado padrão, incluindo piscina concebida para momentos de lazer, terraço para banhos de sol, terraço panorâmico com vistas deslumbrantes sobre o Funchal, ginásio totalmente equipado, serviços de concierge, vigilância e segurança, bem como ar condicionado e aquecimento.\n\nEste empreendimento singular encontra-se inserido num edifício histórico, originalmente projetado pelo conceituado arquiteto português Raul Chorão Ramalho, e combina de forma exemplar a autenticidade da tradição com a sofisticação da vida contemporânea. Cada residência foi cuidadosamente desenhada para criar uma atmosfera elegante, acolhedora e distinta, onde a herança arquitetónica se harmoniza com o conforto e a estética moderna. Todos os apartamentos são personalizados e únicos, garantindo um elevado nível de exclusividade a cada proprietário.",
+  "geo": {
+    "lat": 32.6475894990088,
+    "lng": -16.9056492790039
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74432&foto=1604148&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74432&foto=1604148&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 112,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

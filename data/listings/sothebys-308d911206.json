@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82553&foto=1708799&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82553&foto=1708799&f=1",
+  "description": "Apresentamos um apartamento de luxo exclusivo de 3 quartos e 3 casas de banho, localizado no prestigiado coração de Lisboa.\n\nSituado num primeiro andar na icónica Calçada Salvador Correia de Sá, adjacente à sofisticada zona da Rua da Boavista, este imóvel combina na perfeição a herança arquitetónica lisboeta com o design de interiores contemporâneo de alta gama. É o refúgio ideal para quem procura cosmopolitismo, privacidade e um estilo de vida sofisticado na capital portuguesa.\n\nDestaques do Imóvel:\n\nEspaços Sociais de Design: \n\nA zona de estar e de jantar estende-se por salas amplas e ricamente decoradas, onde os tetos altos, a iluminação cénica e os espelhos de parede inteira maximizam a sensação de espaço e requinte.\n\nSuites de Elegância Ímpar: Os três quartos oferecem uma atmosfera de hotel boutique. Duas das vertentes visuais destacam-se: uma suite master com painéis de madeira exótica e tons quentes, e quartos adicionais de estética ultra-clean, dominados pelo branco e acentuados por papéis de parede artísticos e mobiliário de assinatura.\n\nCozinha Gourmet de Alta Performance: Um espaço minimalista e funcional equipado com eletrodomésticos topo de gama (incluindo o icónico frigorífico Smeg), bancadas em pedra e uma ilha central perfeita para momentos de show cooking privados.\n\nCasas de Banho de Luxo: Três casas de banho revestidas com materiais nobres, louças suspensas e acabamentos impecáveis que garantem o máximo conforto.\n\nCharme Exterior e Localização: Com varandas clássicas viradas para uma das zonas mais dinâmicas, artísticas e vibrantes de Lisboa, o apartamento oferece vistas urbanas autênticas a poucos passos do Rio Tejo, do Chiado e dos melhores restaurantes gourmet da cidade.",
+  "geo": {
+    "lat": 38.7086601,
+    "lng": -9.1472702
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82553&foto=1708799&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82553&foto=1708799&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 150,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

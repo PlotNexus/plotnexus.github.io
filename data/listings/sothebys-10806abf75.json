@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82376&foto=1708364&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82376&foto=1708364&f=1",
+  "description": "Apartamento T4 localizado no Estoril, uma opção para quem procura uma habitação de áreas generosas, com vista desafogada e proximidade aos principais serviços e acessos da linha de Cascais.\nCom uma área bruta privativa de 178,42 m², este apartamento dispõe de quatro quartos, incluindo uma suite, uma casa de banho de apoio e uma distribuição funcional das divisões. Situa-se no segundo andar de um edifício construído em 2022, equipado com elevador.\nA zona social beneficia de boa exposição solar, com orientações nascente, norte e sul/poente, permitindo a entrada de luz natural ao longo do dia. O imóvel conta ainda com varanda, arrecadação na cave e dois lugares de estacionamento.\nA localização é um dos seus principais atributos. Encontra-se próximo de restaurantes, supermercados, estabelecimentos de ensino e diversos serviços essenciais. O CascaiShopping está a cerca de 10 minutos, bem como o Hospital de Cascais, da A5, permitindo ligações rápidas a Lisboa e aos restantes pontos do concelho de Cascais. A estação de comboios encontra-se a cerca de cinco minutos, proporcionando uma alternativa eficiente de mobilidade.\nViver no Estoril é beneficiar de uma localização consolidada, próxima de praias, zonas de lazer, serviços e infraestruturas, numa das áreas mais procuradas da linha de Cascais para residência permanente ou investimento imobiliário.",
+  "geo": {
+    "lat": 38.7165309,
+    "lng": -9.4048851
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82376&foto=1708364&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82376&foto=1708364&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 42,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83557&foto=1706972&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83557&foto=1706972&f=1",
+  "description": "Localizada em Carcavelos, numa zona residencial consolidada e de reconhecida qualidade, esta moradia T5, com 316 m², distingue-se pela excelente exposição solar, pelas áreas generosas e pela proximidade a uma ampla oferta de serviços, comércio e principais acessibilidades.\n\nA propriedade apresenta uma organização interior funcional e equilibrada, dispondo de quatro quartos com ar condicionado, roupeiros embutidos e varanda, bem como de uma master suite com closet e roupeiro. A moradia integra ainda quatro casas de banho.\n\nA área social é composta por um amplo salão, beneficiando de abundante luz natural, ar condicionado e lareira, proporcionando um ambiente confortável e adequado tanto à vivência familiar como à receção de convidados.\n\nA cozinha, de dimensões generosas e com acesso direto ao jardim, encontra-se totalmente equipada e organizada em duas áreas distintas: uma zona de confeção e uma zona de refeições. Dispõe ainda de despensa e de iluminação natural.\n\nAo nível dos acabamentos e equipamentos, destacam-se o pavimento em madeira de carvalho, o ar condicionado, o aquecimento central, as janelas com vidros duplos, a aspiração central e os painéis solares.\n\nNo exterior, a propriedade dispõe de um cuidado jardim, horta biológica, piscina, churrasqueira, amplo terraço e uma zona de refeições coberta, reunindo condições ideais para usufruir de momentos de lazer e convívio em total conforto.\n\nA localização constitui um dos principais atributos do imóvel, encontrando-se próxima de comércio, serviços, hospitais e estabelecimentos de ensino nacionais e internacionais de referência, nomeadamente St. Dominic’s International School e St. Julian’s School. O acesso à A5 situa-se a aproximadamente cinco minutos, enquanto a Praia de Carcavelos se encontra a cerca de dez minutos de carro.\n\nA aproximadamente 15 minutos de Cascais e 35 minutos de Lisboa, esta moradia representa uma excelente opção para famílias que valorizam espaço, conforto, privacidade e qualidade de vida, numa localização privilegiada junto à costa.",
+  "geo": {
+    "lat": 38.7060985,
+    "lng": -9.3292629
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83557&foto=1706972&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83557&foto=1706972&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 258,
+  "area_bruta_m2": 282,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

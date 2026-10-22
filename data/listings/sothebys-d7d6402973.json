@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 31,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77774&foto=1576917&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77774&foto=1576917&f=1",
+  "description": "Apresentamos uma excelente oportunidade para quem valoriza a proximidade ao mar e o sossego de uma zona residencial consolidada. Esta moradia, originalmente T3 e atualmente convertida em T2, oferece a possibilidade de reconversão de um terceiro quarto, adaptando-se facilmente às necessidades de famílias em crescimento ou a quem procura mais espaço.\n\nA propriedade distribui-se por vários níveis e encontra-se em excelente estado de conservação. A zona social foi cuidadosamente pensada para promover o conforto e o convívio, com uma ampla sala com ligação direta ao terraço e jardim, ideais para momentos de lazer ao ar livre.\n\nA moradia dispõe de uma suíte com closet e um quarto com closet apoiado por uma casa de banho, tem ainda mais duas casas de banho adicionais, cozinha totalmente equipada, vários armários embutidos que garantem uma ótima capacidade de arrumação e dois lugares de estacionamento.\n\nA exposição solar norte-sul proporciona uma luminosidade equilibrada ao longo do dia, contribuindo para um ambiente acolhedor e energeticamente eficiente.\n\nA localização é um dos grandes trunfos desta propriedade. Situada em Leça da Palmeira, na zona histórica, com a praia a trezentos metros, beneficia da proximidade a escolas, supermercados, serviços de saúde, restauração e outras comodidades. O fácil acesso à A28 e à Via Norte permite uma ligação rápida ao Porto, Matosinhos e ao Aeroporto Francisco Sá Carneiro.\n\nTrata-se de uma moradia com identidade própria, onde a funcionalidade dos espaços e a qualidade da construção refletem uma escolha segura e ajustada ao estilo de vida contemporâneo. Uma opção ideal para quem procura viver perto da orla marítima, sem abdicar de conforto, tranquilidade e acessibilidade.",
+  "geo": {
+    "lat": 41.1844362,
+    "lng": -8.6962775
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,40 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77774&foto=1576917&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77774&foto=1576917&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 31,
-  "area_bruta_m2": null,
+  "area_util_m2": 17,
+  "area_bruta_m2": 31,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

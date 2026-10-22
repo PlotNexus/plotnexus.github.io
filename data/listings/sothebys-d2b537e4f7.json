@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 5,
   "area_m2": 196,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77626&foto=1561794&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77626&foto=1561794&f=1",
+  "description": "Descubra esta magnífica moradia isolada V3+1 com piscina, jardim e garagem coberta para até cinco viaturas, situada numa das mais prestigiadas e tranquilas zonas residenciais de Albufeira. Construída em 2015, esta propriedade combina sofisticação, conforto e funcionalidade, ideal para quem procura um estilo de vida exclusivo no coração do Algarve. Com uma área bruta de construção de 196 metros quadrados, a moradia distribui-se por dois pisos e oferece três amplos quartos em suite, proporcionando total privacidade.\nNo rés-do-chão, encontra-se uma espaçosa sala de estar e jantar com lareira e acesso direto ao exterior, uma cozinha moderna e equipada, uma casa de banho social e uma confortável suite. \nNo piso superior, destacam-se duas suites com varandas privativas e um escritório convertido em quarto adicional com casa de banho privativa. \nA cave inclui uma lavandaria funcional, uma garagem coberta para um ou dois carros e uma garagem fechada com capacidade para cinco viaturas. Com excelente exposição solar, todos os espaços da casa são banhados por luz natural.\nLocalizada a apenas três quilometros da EN125 e a menos de 1 quilometro das praias de Albufeira, a moradia está próxima de todos os serviços essenciais: supermercados a 450 metros, escolas a 500 metros, hospital a 650 metros, paragem de autocarro a 500 metros e estação de comboios a 4,4 quilometros, com campos de golfe a 5 quilometros e o Aeroporto Internacional de Faro a cerca de 35 quilometros.\nEsta propriedade única destaca-se pelo seu design contemporâneo, áreas generosas e localização privilegiada, perfeita para quem valoriza tranquilidade sem abdicar da proximidade ao centro e às melhores atrações da região.",
+  "geo": {
+    "lat": 37.092931631731,
+    "lng": -8.2294903749939
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,58 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77626&foto=1561794&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77626&foto=1561794&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Portadas",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Gás Canalizado",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Paredes (Monomassa, Pintadas)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 196,
-  "area_bruta_m2": null,
+  "area_util_m2": 144,
+  "area_bruta_m2": 196,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

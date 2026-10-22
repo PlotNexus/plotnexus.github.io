@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": 396,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80392&foto=1635682&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80392&foto=1635682&f=1",
+  "description": "A Casa das Galhofas é uma moradia verdadeiramente única, onde reinam a paz e a tranquilidade, embaladas pelo som harmonioso dos pássaros. Localizada perto de Caminha, oferece vistas deslumbrantes sobre o majestoso rio Minho, proporcionando um cenário natural único e inspirador.\n\nTotalmente renovada, a casa mantém todos os elementos originais que lhe conferem charme e autenticidade, combinando-os com bom gosto e requinte. O resultado é um espaço acolhedor, elegante e funcional, pensado ao pormenor para garantir o máximo conforto e bem-estar.\n\nA moradia dispõe de quatro quartos amplos e luminosos, acompanhados por duas casas de banho completas. Inclui também duas salas espaçosas, ideais para momentos de convívio e relaxamento, uma sala de jogos perfeita para o entretenimento em família ou com amigos e uma cozinha ampla e totalmente equipada para o dia a dia e para receber convidados.\n\nNo exterior, a piscina é o destaque, rodeada por uma ampla área de lazer, perfeita para desfrutar dos dias de sol com total privacidade. A propriedade inclui também um espigueiro tradicional que atualmente é utilizado como arrumos de apoio à zona exterior, bem como um recanto encantador, perfeito para refeições ao ar livre e para desfrutar de momentos inesquecíveis em contacto com a natureza.\n\nA oferta é complementada por um terreno adicional com cerca de 1400 m², com viabilidade para construção de uma segunda moradia e com vistas deslumbrantes sobre o rio Minho. Os acessos são excelentes e nas proximidades encontram-se todo o tipo de serviços essenciais, garantindo conveniência e qualidade de vida.\n\nA Casa das Galhofas é, sem dúvida, uma oportunidade única para quem procura tranquilidade, conforto e uma paisagem de cortar a respiração.",
+  "geo": {
+    "lat": 41.8932689738684,
+    "lng": -8.81751537313681
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,37 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80392&foto=1635682&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80392&foto=1635682&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Porto de Rio)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 396,
-  "area_bruta_m2": null,
+  "area_util_m2": 240,
+  "area_bruta_m2": 396,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

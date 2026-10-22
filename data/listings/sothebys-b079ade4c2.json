@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67720&foto=1284529&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67720&foto=1284529&f=1",
+  "description": "Apartamento T4 na Foz do Douro, a apenas 200 metros da praia, com 184,30 m² de área bruta privativa, vistas de mar e garagem fechada para dois automóveis. Inserido num edifício de três pisos com apenas três frações, reúne localização, privacidade e proximidade ao Atlântico, numa das zonas mais valorizadas da cidade do Porto.\n\nO apartamento desenvolve-se num único piso e é composto por uma sala comum com acesso a uma varanda orientada a poente, com vistas de mar, quatro quartos, incluindo duas suites, uma casa de banho completa de apoio, cozinha independente e lavandaria. A distribuição dos espaços proporciona conforto e funcionalidade para a vida familiar.\n\nA envolvente oferece uma ampla oferta de comércio, serviços, restaurantes, cafés e esplanadas, permitindo usufruir do dia a dia sem necessidade de grandes deslocações. Nas proximidades encontram-se escolas e colégios de referência, bem como a Porto Business School.\n\nOs acessos à VCI situam-se a cerca de seis minutos, assegurando ligações rápidas ao centro do Porto, à Boavista, ao aeroporto e aos principais eixos rodoviários da cidade.\n\nViver na Foz do Douro é beneficiar da proximidade da praia, da marginal e dos espaços verdes, ideais para caminhadas, corrida, passeios de bicicleta e momentos ao ar livre. Este apartamento é uma excelente opção para quem procura um T4 junto ao mar, numa localização de referência, tanto para habitação própria como para investimento.",
+  "geo": {
+    "lat": 41.1522949,
+    "lng": -8.6768835
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67720&foto=1284529&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67720&foto=1284529&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 3,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

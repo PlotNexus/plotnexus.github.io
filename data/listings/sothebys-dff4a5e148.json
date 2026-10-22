@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 360,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69961&foto=1636037&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69961&foto=1636037&f=1",
+  "description": "Arcaya é um projeto que irá nascer em Vilamoura, focado na sustentabilidade e com um novo conceito de criar um Algarve 3.0: um destino para viver e não apenas para passar férias. Este projeto concebido pelo atelier de arquitetura Batlleiroig com um grande foco em sustentabilidade traz uma nova experiência de comunidade residencial de luxo, com muita natureza, parques e trilhos.\n\nAs Arcaya Homes oferecem a combinação perfeita entre espaços interiores e exteriores. As casas sustentáveis de qualidade superior contam com cerca de 240 metro quadrados de área bruta de construção, inseridas em lotes que vão dos 1.000 aos 2.000 metros quadrados. Com amplas áreas exteriores, compostas por jardins e terraços, viverá a essência da natureza com o máximo conforto.\n\nTerracotta, Timber e Sand são as três casas de assinatura que encontrará no primeiro lançamento do Arcaya. Todas elas têm até quatro quartos e uma piscina privada e estão abertas à personalização de acordo com as suas preferências; cada uma delas funde-se com a natureza de uma forma única que irá inspirar a sua nova vida.",
+  "geo": {
+    "lat": 37.0813895157058,
+    "lng": -8.09259476184081
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69961&foto=1636037&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69961&foto=1636037&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 360,
-  "area_bruta_m2": null,
+  "area_util_m2": 240,
+  "area_bruta_m2": 360,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

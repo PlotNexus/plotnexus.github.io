@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81725&foto=1653691&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81725&foto=1653691&f=1",
+  "description": "O The Grove Residences é a nova fase residencial do ARCAYA, em Vilamoura, concebida para quem procura uma vivência integrada na natureza sem abdicar de conforto e conveniência. Inserido num ambiente marcado por parques, trilhos e áreas verdes, o projeto propõe uma nova abordagem ao estilo de vida no Algarve, focada no bem-estar e numa ligação equilibrada entre arquitetura e paisagem.\n\nO projeto é composto por apartamentos T2 distribuídos por seis edifícios de baixa densidade, rodeados por jardins cuidadosamente desenhados e organizados em torno de uma piscina central comum. As unidades apresentam áreas interiores entre aproximadamente 108 m² e 118 m², complementadas por amplos terraços e jardins privativos que podem atingir até 391 m².\n\nCom layouts funcionais, cozinhas e salas em open-plan e grandes vãos envidraçados, os apartamentos foram pensados para prolongar a vivência interior para o exterior. Todas as unidades incluem dois lugares de estacionamento e acesso às amenities do ARCAYA, incluindo clubhouse, wellness center, ginásio, restaurantes, espaços de coworking e serviços exclusivos.\n\nA poucos minutos da marina, praias e campos de golfe de Vilamoura, o The Grove Residences combina natureza, privacidade e uma vivência contemporânea durante todo o ano.",
+  "geo": {
+    "lat": 37.0813895157058,
+    "lng": -8.09259476184081
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81725&foto=1653691&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81725&foto=1653691&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 118,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null
