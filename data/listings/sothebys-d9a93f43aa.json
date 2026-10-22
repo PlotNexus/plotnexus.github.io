@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78428&foto=1638209&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78428&foto=1638209&f=1",
+  "description": "Este magnífico apartamento de três quartos tem vista direta e contínua sobre o rio Douro e o oceano, e está inserido num condomínio fechado na cidade do Porto.\n\nO imóvel foi integralmente renovado, privilegiando a funcionalidade, a eficiência e a utilização de materiais de elevada durabilidade e desempenho, como a madeira de sucupira e o mármore italiano, que conferem qualidade e resistência aos acabamentos.\n\nCom uma área bruta privativa de 144 m², o apartamento tem uma distribuição funcional e equilibrada. A zona social é composta por uma sala e uma cozinha totalmente equipada em open space, com ligação direta a uma varanda virada a sul, que proporciona vistas amplas e desimpedidas sobre o rio e o mar. Inclui ainda três suítes bem dimensionadas e um total de quatro casas de banho. \n\nA disposição em três frentes garante excelente exposição solar e iluminação natural ao longo de todo o dia. O sistema de climatização é assegurado por piso radiante e ar condicionado. Inclui ainda dois lugares de estacionamento e um espaço de arrumos.\n\nO condomínio dispõe de portaria 24 horas, videovigilância, ginásio, sauna, parque infantil e jardim, oferecendo infraestruturas e serviços que garantem conforto, segurança e qualidade de vida num ambiente exclusivo.\n\nO apartamento situa-se a escassos metros da marginal do Douro, do polo universitário do Campo Alegre e das principais vias de entrada e saída da cidade. A zona envolvente é uma área residencial consolidada, com presença de comércio, serviços e espaços verdes.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78428&foto=1638209&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78428&foto=1638209&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Video-Porteiro",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Campo de Jogos, Casa Recolha Lixo, Jardins, Parque Infantil, Sala Condomínio, Video-Porteiro, Zelador / Porteiro)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 31.7; Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 144,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

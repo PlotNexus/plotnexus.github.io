@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=39794&foto=1682443&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=39794&foto=1682443&f=1",
+  "description": "O Palácio Lusíadas é um palácio centenário no coração de Alcântara. Com traça parisiense, a reabilitação deste palácio do século XIX preservou todos os pormenores e características arquitectónicas que tornam este edifício tão especial. Construído originalmente com grande ênfase na qualidade e nos detalhes arquitectónicos, o palácio foi totalmente reabilitado, num projeto do Arqº Nuno Montenegro, que acentuou uma forma requintada de proporcionar dez apartamentos exclusivos, cheios de elegância, charme e conforto.\nCom um maravilhoso tecto de 3,5 metros de altura, decorados com molduras originais trabalhadas, cada apartamento é espaçoso e bem pensado para proporcionar sofisticação, conforto e privacidade.\nTodos os apartamentos incluem pátio ou varanda privada, espaço para arrumos, estacionamento, elevador e um grande jardim de condomínio.\nApartamentos de luxo, num edifício com história, completamente remodelado, misturando autenticidade e modernidade.\nOportunidade de investimento: neste edifício há uma oportunidade única de investimento, um apartamento de origem que mantém um contrato de arrendamento antigo, com renda atualizada de cerca de 2,400 euros. Este apartamento não sofreu obras de reabilitação, é vendido no estado em que se encontra e o valor de venda não inclui as obras de reabilitação. Com 238 m2, conta com duas frentes, áreas amplas, tectos trabalhados com 3,5 metros, duas varandas, caixilharias novas e arrecadação nova. Apresentamos as imagens inspiracionais dos apartamentos já reabilitados.\nAlcântara é o local onde o charme de Lisboa se encontra com a tradição, oferecendo uma combinação perfeita de sol, rio e muito comércio local.\nA apenas 10 minutos do centro da cidade, o bairro é rodeado por amplas áreas verdes, ciclovias e uma animada vida à beira-rio, com restaurantes acolhedores, o Lx Factory, mercados típicos e lojas tradicionais que revelam o autêntico espírito lisboeta a cada esquina.",
+  "geo": {
+    "lat": 38.705430649805,
+    "lng": -9.17925953864096
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,38 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=39794&foto=1682443&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=39794&foto=1682443&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 6"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Bons, Comboio, Porto de Rio)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 238,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

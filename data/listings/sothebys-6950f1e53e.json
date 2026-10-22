@@ -8,9 +8,12 @@
   "bedrooms": 9,
   "bathrooms": 4,
   "area_m2": 450,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78582&foto=1638618&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78582&foto=1638618&f=1",
+  "description": "Localizada na cidade de Santarém, na zona histórica da cidade, esta moradia isolada com uma tipologia T9 distribui-se por vários pisos e destaca-se pela sua versatilidade interior e espaço exterior generoso, sendo uma excelente oportunidade para quem procura uma casa com múltiplas zonas funcionais, central e com boa exposição solar.\n\nCom uma área de construção de 450 m² e 300 m² de área privativa, esta moradia desenvolve-se em três pisos. O piso 0 tem salas multiuso, um escritório, uma segunda cozinha de apoio e 2 W.C. No Piso 1, temos um hall de entrada, 2 salas com um escritório, uma cozinha e 3 quartos com o apoio de um W.C. Este piso tem um páteo com uma entrada de luz natural que confere um caracter distinto á moradia. \n\nNo piso 2 está uma área de quartos, com 4 quartos de áreas generosas e um WC de apoio com 1 terraço de 50 m2 com vista de exterior.\n\nA garagem situa-se no piso 0, com espaço para 2 carros.\n A moradia data de 1937 e encontra-se em estado razoável de conservação. Um dos grandes atrativos é o terraço com 422 m², ideal para usufruir do espaço exterior ao longo do ano.\n\nEsta moradia beneficia de boa orientação solar (nascente, sul e poente), permitindo luminosidade natural durante grande parte do dia. A cave com arrecadação oferece áreas adicionais de arrumação ou lazer, o que reforça a sua funcionalidade.",
+  "geo": {
+    "lat": 39.2349624,
+    "lng": -8.6819202
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78582&foto=1638618&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78582&foto=1638618&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 450,
-  "area_bruta_m2": null,
+  "area_util_m2": 300,
+  "area_bruta_m2": 450,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

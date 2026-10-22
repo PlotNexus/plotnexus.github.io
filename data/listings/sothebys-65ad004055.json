@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81993&foto=1658071&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81993&foto=1658071&f=1",
+  "description": "Apartamento T1 integrado no Edifício Molhe da Montevideu, localizado na Avenida Montevideu, junto ao mar, na Foz do Porto.\nCom 93,10 m² de área bruta de habitação com varandas, esta fração beneficia de vista traseira e dispõe de 1 lugar de garagem.\nO empreendimento é composto por apenas 17 frações e foi concebido para oferecer uma experiência residencial exclusiva, marcada por conforto, privacidade e acabamentos de elevada qualidade.\nA localização permite usufruir de uma envolvente privilegiada, junto à praia, aos jardins da Foz, às ciclovias, ao Parque da Cidade, a restaurantes, cafés e comércio tradicional.\nO apartamento será entregue totalmente mobilado e decorado, numa solução chave na mão.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81993&foto=1658071&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81993&foto=1658071&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 8,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Duplex, Alcântara, Lisboa",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77864&foto=1567231&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77864&foto=1567231&f=1",
+  "description": "Magnífico T2 duplex em empreendimento turístico de luxo cinco estrelas localizado junto à zona histórica de Belém, na zona ocidental e ribeirinha da capital portuguesa. Estes apartamentos, completamente mobilados e equipados, apresentam amplas varandas que oferecem uma vista sedutora sobre o rio Tejo. As suas linhas modernas e a localização privilegiada proporcionam uma experiência luxuosa, com uma vista deslumbrante para o rio Tejo.\nInspirados nos grandes Descobrimentos Portugueses e nas influências contemporâneas de Lisboa, os quartos combinam tons de azul suaves com detalhes em madeira de carvalho. Equipados com tecnologia de última geração e comodidades exclusivas, garantem uma experiência confortável e sofisticada. A ampla varanda, com uma área de 9 m2, oferece um espaço exterior agradável, ideal para momentos de relaxamento e convívio ao ar livre.\nEsta é uma oportunidade única para adquirir um imóvel com retorno de investimento garantido. O hotel oferece comodidades exclusivas, incluindo um bar no terraço com vista panorâmica para o rio, um restaurante de alto padrão, um premiado spa, um ginásio equipado com aparelhos de última geração, lojas de luxo, salas de reunião e estacionamento.\nPossibilidade de usufruir do apartamento quatro semanas por ano.\nA localização privilegiada, a apenas cinco minutos de carro do centro de Lisboa, junto ao rio, torna este apartamento perfeito para desfrutar de tudo o que a cidade tem a oferecer em termos de história, cultura e gastronomia. Rodeado por importantes edifícios históricos e museus, como o MATT, o CCB, o Padrão dos Descobrimentos, a Torre de Belém e o Mosteiro dos Jerónimos – todos eleitos como património mundial da UNESCO, além da famosa Confeitaria dos Pastéis de Belém, do Centro de Congressos de Lisboa e FIL (Feira Internacional de Lisboa), todos a uma curta distância a pé.\n\nNota: As fotografias apresentadas são meramente ilustrativas e correspondem a diferentes tipologias do empreendimento, não constituindo obrigação ou representação exata da unidade em venda.",
+  "geo": {
+    "lat": 38.705430649805,
+    "lng": -9.17925953864096
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77864&foto=1567231&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77864&foto=1567231&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 99,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 26,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78206&foto=1584458&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78206&foto=1584458&f=1",
+  "description": "Esta casa de três quartos, e uma cave de 52 metros quadrados com luz natural e saída para o exterior, combina conforto e funcionalidade numa zona residencial tranquila próxima do centro de Cascais. Um dos seus principais destaques é a agradável área exterior com jardim e uma pequena piscina - espaço ideal para momentos de lazer em família ou para receber convidados num ambiente reservado.\n\nCom uma área bruta de construção de 250,26 metros quadrados, esta propriedade localizada em Abuxarda distribui-se por dois pisos, complementados por uma ampla cave com excelente luminosidade natural graças às suas generosas portas de vidro. A zona social é composta por uma espaçosa sala de estar e de jantar, com acesso direto ao jardim, uma cozinha funcional e um lavabo. No piso superior encontram-se os quartos, acessíveis por escada. Dois deles partilham uma casa de banho, sendo que um dispõe de uma pequena varanda. A suite principal inclui também uma varanda com vista para o jardim.\n\nO espaço interior foi concebido para privilegiar a fluidez e a funcionalidade entre as divisões, beneficiando-se de exposição solar a sul, norte e poente, o que garante luminosidade natural ao longo de todo o dia. A moradia dispõe ainda de um lugar de estacionamento coberto.\n\nA cave, ampla e versátil, oferece múltiplas possibilidades de utilização, além de integrar a zona de serviço e a arrecadação. Construída em 2011, a propriedade encontra-se em muito bom estado de conservação.\n\nNo exterior, uma área de 104 metros quadrados combina harmoniosamente o terraço, o jardim e a piscina, criando um ambiente acolhedor e privativo.\n\nA localização constitui outro dos seus principais atributos: situa-se a apenas 4 km do centro de Cascais e a menos de 2 minutos da A5, da A16, da Avenida de Sintra e do Colégio Amor de Deus, garantindo fácil acesso a Lisboa e às principais áreas do concelho, incluindo praias e o centro histórico. Nas imediações encontram-se ainda supermercados, restaurantes, hospitais, escolas internacionais e outros serviços essenciais.\n\nEsta moradia representa uma excelente oportunidade para quem procura viver com conforto, tranquilidade, espaço exterior e proximidade a tudo o que Cascais tem de melhor para oferecer.",
+  "geo": {
+    "lat": 38.7190745,
+    "lng": -9.4225821
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,51 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78206&foto=1584458&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78206&foto=1584458&f=1"
   ],
-  "features": null,
+  "features": {
+    "Caixilharia": [
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Paredes (Pintadas)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 26,
-  "area_bruta_m2": null,
+  "area_util_m2": 92,
+  "area_bruta_m2": 26,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

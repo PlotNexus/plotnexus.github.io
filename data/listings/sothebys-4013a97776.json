@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=46821&foto=859609&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=46821&foto=859609&f=1",
+  "description": "Fantástica moradia térrea situada num bonito e tranquilo aldeamento de Albufeira.\nÉ composta por cinco quartos, sendo três em suite, uma cozinha e uma ampla sala de estar. O seu vasto jardim de cerca de mil e oitocentos metros quadrados, assim como a sua piscina são ideais para desfrutar do sol do Algarve.\nA moradia que em si já é um convite para férias, descanso e tranquilidade, tem actualmente um projecto de renovação e ampliação.\nA intenção é modernizar e ampliar a casa mantendo a construção existente que irá \"casar\" com as novas áreas e reduzir assim os custos da obra.\nNesse projecto, os cinco quartos mantêm-se, a sala de estar tem um pé direito de mais de três metros que da mais imponência a zona, e a piscina exterior é aumentada. Foi ainda prejectada uma zona de spa/piscina aquecida onde poderá ser colocada uma sauna/banho turco, ou eventualmente um ginásio. Existe a possibilidade de submeter o projecto por via da comunicação prévia para poder começar a obra rapidamente.\nTrata-se de um autêntico oásis de paz e de sossego perto de todas as comodidades, sem dúvida uma excelente oportunidade de negócio para aproveitar as suas férias, viver o ano inteiro, ou rentabilizar.",
+  "geo": {
+    "lat": 37.0956536441229,
+    "lng": -8.21624629391785
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,32 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=46821&foto=859609&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=46821&foto=859609&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Madeira",
+      "Portadas"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Jardins)",
+      "Piscina (Exterior)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 234,
+  "area_bruta_m2": 452,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

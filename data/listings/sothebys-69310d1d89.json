@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 284,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81422&foto=1655014&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81422&foto=1655014&f=1",
+  "description": "Descubra a elegância e modernidade desta moradia T4 junto á Praia da Granja, Vila Nova de Gaia, no distrito do Porto. Inserida numa zona residencial consolidada, esta moradia unifamiliar é um refúgio perfeito para quem procura privacidade e proximidade ao mar. Com uma área bruta de construção de 284 m², distribuída por dois pisos, foi concluída em 2020 e está em excelente estado, pronta a habitar. Oferece três quartos, uma suite, um espaço adicional para escritório e quatro casas de banho. A atrativa zona social no piso térreo combina sala e cozinha num open space harmonioso, com abundância de luz natural. No exterior, desfrute de uma área de lazer impecável com piscina de água salgada aquecida, área de churrasco e espaço para arrumos. A proximidade a serviços, escolas e rápidas ligações à A29 e A44, bem como transportes públicos, tornam esta moradia uma escolha excecional para o seu novo lar. Com garagem para dois carros, esta propriedade alia conforto e funcionalidade. Classe energética A.",
+  "geo": {
+    "lat": 41.0387803288332,
+    "lng": -8.6468517780304
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,57 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81422&foto=1655014&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81422&foto=1655014&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Isolamento (Térmico)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 49; Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 284,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 284,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

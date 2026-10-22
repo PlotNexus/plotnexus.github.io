@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=55259&foto=1034051&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=55259&foto=1034051&f=1",
+  "description": "Luxuoso apartamento de um quarto situado no emblemático edifício Heron Castilho que converge entre a Rua Braamcamp e a Rua Castilho.\nEste apartamento, com 84 metros quadrados de área bruta privativa, foi totalmente renovado e mobilado com projeto de design de interiores em 2021 tendo acabamentos de luxo e uma decoração muito cuidada e sofisticada.\n\nÉ composto por um amplo hall de entrada, onde encontramos uma casa de banho social, uma divisão para arrumos e acesso à generosa sala com cozinha em open space, a qual está separada da sala de estar por uma ilha desenhada especificamente para este apartamento. A cozinha é totalmente equipada inclusive com máquina de lavar/secar roupa. Tem ainda um sofisticado quarto em suite com roupeiros embutidos e uma luxuosa casa de banho completa.\n\nExiste ar condicionado embutido em toda a casa.\n\nTodos os materiais são de elevada qualidade e bom gosto, desde a aplicação de pedra natural nas casas de banho e cozinha, às paredes da suite revestidas de painéis aveludados, e até a separar o hall de entrada da sala temos uma elegante porta preta em ferro e vidro.\n\nÉ um apartamento único, onde o requinte e conforto se encontram de uma maneira sublime. O apartamento está totalmente equipado, mobilado e decorado, logo pronto a ser usado de imediato.\n\nO prédio é repleto de charme com segurança 24 horas e elevadores. Afeto a este apartamento está ainda um lugar de estacionamento e arrecadação.\n\nTrata-se de uma das localizações mais prime de Lisboa devido à proximidade à Avenida da Liberdade, onde encontra as lojas com as melhores e mais luxuosas marcas do mundo, os melhores restaurantes, teatros, jardins e todos os serviços e, por estar também junto ao Marquês de Pombal, está estrategicamente localizado no centro da cidade e com fácil acesso às saídas rápidas de Lisboa, por exemplo para Cascais ou para o aeroporto.\n\nÉ o apartamento ideal tanto como residência permanente como para investimento dada a elevada procura para arrendamento nesta zona.\n\nA Sotheby's International Realty conta com quase 300 anos de história enquanto conceituada empresa responsável por transacionar bens de luxo. Está presente em Portugal desde 2007 com dez escritórios e mais de 200 profissionais altamente qualificados e disponíveis para o satisfazer. A sua missão é \"A arte de unir casas extraordinárias a vidas extraordinárias.\" Não hesite em contactar-nos caso esta oportunidade seja do seu interesse!",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,26 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=55259&foto=1034051&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=55259&foto=1034051&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 5,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76911&foto=1546247&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76911&foto=1546247&f=1",
+  "description": "Situada no prestigiado resort de golfe e praia Vale do Lobo, esta moradia em banda com três quartos representa uma excelente oportunidade para quem procura viver ou investir numa das zonas mais exclusivas do Algarve. Com uma tipologia T3 e uma localização privilegiada, destaca-se pela proximidade ao campo de golfe e à costa, sendo ideal para quem valoriza um estilo de vida ativo, com acesso a campos de golfe de renome, praia, ginásio &amp; spa, restaurantes de qualidade e segurança 24 horas.\n\nDistribuída por dois pisos principais, o rés-do-chão conta com hall de entrada, ampla sala com lareira e zona de refeições, cozinha totalmente equipada, um quarto e uma casa de banho completa. No exterior, o terraço virado a sul convida a momentos ao ar livre, com piscina, zona de barbecue e espaço para espreguiçadeiras. Existe ainda um segundo terraço mais resguardado, perfeito para refrescar nos dias quentes de verão.\n\nNo primeiro piso encontramos duas suites, uma delas com varanda e vista desafogada sobre o campo de golfe Oceano Course, reforçando a ligação entre o interior e a paisagem envolvente. A moradia possui boa exposição solar e segue uma arquitetura tradicional.\n\nA localização oferece acesso rápido a múltiplos serviços essenciais dentro do resort, restaurantes a apenas 4 minutos, clínica médica e supermercados a 2 minutos. \n\nA envolvência destaca-se pela tranquilidade e pela qualidade dos acessos. A curta distância das principais vias rodoviárias, garante deslocações eficientes para outras áreas do Algarve. E escolas públicas e privadas a uma distância de 5 minutos de carro. \n\nVale do Lobo é reconhecido pela sua oferta integrada de lazer, bem-estar e desporto, num ambiente seguro e cuidadosamente planeado, sendo uma escolha de excelência tanto para residência permanente como para férias.",
+  "geo": {
+    "lat": 37.047886,
+    "lng": -8.064678
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,37 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76911&foto=1546247&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76911&foto=1546247&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 162,
+  "area_bruta_m2": 300,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

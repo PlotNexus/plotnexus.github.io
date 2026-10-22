@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75160&foto=1498045&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75160&foto=1498045&f=1",
+  "description": "Apresentamos este apartamento T2 completamente remodelado, com 3 casas de banho, no coração do Chiado, um dos bairros mais cobiçados de Lisboa. Ao entrar, será recebido por uma ampla sala com tetos altos e uma orientação privilegiada numa esquina, que proporciona luz natural de duas ruas.\n\nEste apartamento destaca-se pela sua entrada em arco, que torna a sala ainda mais impressionante.\n\nA cozinha, totalmente nova e espaçosa, conta com belíssimos armários e eletrodomésticos Bosch. O apartamento inclui roupeiros embutidos em toda a casa, inclusive nos dois quartos em suite. Com entradas por duas ruas distintas, este imóvel oferece fácil acesso ao Chiado e à Baixa, bem como ao resto da cidade, com duas linhas de Metro a poucos minutos a pé.\n\nNão perca esta oportunidade de viver com todo o conforto moderno no coração da Lisboa histórica.",
+  "geo": {
+    "lat": 38.7111501,
+    "lng": -9.1490905
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75160&foto=1498045&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75160&foto=1498045&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 172,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

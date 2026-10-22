@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63722&foto=1182620&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63722&foto=1182620&f=1",
+  "description": "Esta esplêndida moradia T3 localiza-se na Fajã da Ovelha, na ilha da Madeira. Com um terreno com cerca de 2000 metros quadrados, esta propriedade oferece uma sensação de privacidade e tranquilidade. Com uma piscina e jardins deslumbrantes, os seus dias serão preenchidos com relaxamento e lazer a desfrutar da vista mar. A propriedade dispõe ainda de árvores de fruto na parte inferior do jardim e um lago.\nA cozinha em open space, com uma ampla área de refeições que se estende até à sala de estar, cria um ambiente perfeito para entreter amigos e familiares. A churrasqueira ao lado da moradia é bónus adicional para os amantes de grelhados e de convívios.\nCom a sua localização na Fajã da Ovelha, esta moradia é perfeita para quem pretende um estilo de vida relaxado e descontraído, a poucos minutos de distância de todas as comodidades locais e dos maravilhosos locais turísticos que a ilha da Madeira tem para oferecer. Esta é uma oportunidade única de viver numa das zonas mais encantadoras da Madeira.",
+  "geo": {
+    "lat": 32.7675265,
+    "lng": -17.2165304
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63722&foto=1182620&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63722&foto=1182620&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 162,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 305,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80057&foto=1653134&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80057&foto=1653134&f=1",
+  "description": "Situada junto ao Pico de São Gonçalo, esta moradia T3 de linhas clássicas, sente a cidade do Funchal aos seus pés com uma vista privilegiada desde a Avenida do Mar, passando pelos Picos de São Martinho, e Santo António, até às nossas zonas serranas, onde podemos contemplar todo o skyline da capital madeirenses. \nEsta moradia desenvolve-se no segundo andar por três quartos de dormir, sendo um deles em suite e uma casa de banho de apoio aos outros dois quartos, no andar de entrada temos as zonas sociais, com sala de jantar e de estar, cozinha, um agradável escritório, a lavandaria, e ainda um quarto de banho social, no piso inferior encontrámos uma ampla garagem com capacidade para cinco viaturas, uma pequena casa de banho e arrecadação. Pela sua dimensão, poderá aproveitar para fazer uma sala de cinema ou um ginásio, ou uma outra divisão para outros fins.\nUm aproveitamento de varandas no andar de entrada proporciona uma pequena sala de inverno, que poderá ser equipada para um ginásio, envolvida pelo jardim composto por árvores de frutos regionais, como as abacateiras, anoneiras ou pitangueiras.\nUma moradia feita à dimensão de uma família, com o conforto que os dias de hoje exigem.\nInserida numa zona exclusivamente residencial, a propriedade oferece um ambiente de grande tranquilidade e privacidade, sem abdicar da proximidade ao centro do Funchal e a uma ampla oferta de serviços essenciais, incluindo restaurantes, farmácias, comércio local e outras comodidades do quotidiano.",
+  "geo": {
+    "lat": 32.6497396627931,
+    "lng": -16.8817883476074
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80057&foto=1653134&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80057&foto=1653134&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 305,
-  "area_bruta_m2": null,
+  "area_util_m2": 153,
+  "area_bruta_m2": 305,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

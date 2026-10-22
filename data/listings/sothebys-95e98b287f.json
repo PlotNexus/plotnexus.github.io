@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 6,
   "area_m2": 2187,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74456&foto=1481508&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74456&foto=1481508&f=1",
+  "description": "Moradia inserida num lote de terreno com 3013 metros quadrados, com 1136 metros quadrados de área bruta privativa, distribuída por dois volumes de construção. \nA casa principal distribui-se por três pisos, cave, rés-do-chão, e primeiro piso em mezzanine. Tem cinco suites, três salas/escritórios, sala de estar, sala de jantar, cozinha com copa, lavandaria, dispensa, garagem fechada para 3 carros, e arrumos. \nNo exterior dispõe de jardins, uma piscina, um campo de ténis, e um anexo. \nO anexo tem garagem fechada para 2 carros, um grandioso salão com zona de jogos com duas mesas de bilhar, uma mesa de ping-pong, matrecos, uma mesa de jogos, bar com frigorífico, garrafeira, zona de jantar, zona de estar, e acesso a uma cozinha totalmente equipada com frigorifico combinado, placa, microondas e dispensa. A cozinha comunica com a zona de jantar através de uma abertura por cima da zona de confeção. Este anexo dispõe ainda de balneário de apoio à piscina, um ginásio, sauna, três quartos, e três casas de banho. \nA Moradia encontra-se a 3 minutos do aeroporto do Porto Francisco Sá Carneiro, a 4 minutos da TECMAIA, e a 9 minutos da Universidade da Maia. Proximidade a supermercados, padarias, farmácias, espaços comerciais, e excelentes acessos a vias rápidas. \nÉ um imóvel com uma localização privilegiada, situado numa rua exclusiva de moradias, pouco movimentada, excelente para uma família numerosa, ou para investimento em student housing atendendo à sua proximidade com a Universidade da Maia.",
+  "geo": {
+    "lat": 41.2581641,
+    "lng": -8.6604475
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,49 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74456&foto=1481508&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74456&foto=1481508&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Poço"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Court Ténis",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Pastagens"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 2187,
-  "area_bruta_m2": null,
+  "area_util_m2": 1136,
+  "area_bruta_m2": 2187,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

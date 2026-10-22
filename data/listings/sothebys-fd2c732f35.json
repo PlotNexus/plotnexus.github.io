@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72714&foto=1468236&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72714&foto=1468236&f=1",
+  "description": "Moradia nova, de estilo contemporâneo, com piscina, virada a sul, com vista mar e campo, em Albufeira.\n\nLocalizada na prestigiada zona das Sesmarias, em Albufeira, esta moradia representa uma oportunidade única para quem procura conforto, modernidade e proximidade às praias mais icónicas da região, como a Praia de São Rafael, a 5 minutos.\n\nConstruída em 2024, a moradia oferece uma área bruta privativa de 270 m² distribuídos em três níveis e inclui uma cave multifuncional com 75 m², ideal para garagem ou futuras adaptações e arrecadação. No piso térreo, destacam-se a sala de estar com lareira, área de refeições e cozinha equipada em open space, com janelas amplas orientadas a sul, proporcionando acesso direto ao espaço exterior, um quarto en-suite e uma casa de banho social. No primeiro piso, encontramos três quartos adicionais, todos com varandas, sendo um deles en-suite, além de uma casa de banho social.\n\nO espaço exterior foi cuidadosamente pensado, com uma piscina voltada a sul permitindo desfrutar de dias ensolarados e com vistas desafogadas para o mar e campo. O imóvel também inclui estacionamento para duas viaturas e está equipado com ar condicionado, aquecimento central, painéis solares, desumidificador e aquecedor, garantindo eficiência energética e conforto em todas as estações.\n\nInserida numa urbanização tranquila, esta propriedade beneficia de uma localização estratégica. A apenas 7 km da EN125 e 9 km da estação de comboios, a paragem de autocarro a 500 metros e o Aeroporto Internacional de Faro a 40 km, oferece excelente acessibilidade. Com serviços essenciais próximos, como supermercados e restaurantes a 500 metros, escolas a 900 metros, Marina de Albufeira a 2 km e o centro de Albufeira, hospital e golfe a 4,5 km, a comodidade é garantida.\n\nEsta moradia contemporânea alia design moderno, funcionalidade e uma localização privilegiada, ideal para quem valoriza qualidade de vida, proximidade ao mar e uma envolvente tranquila.\n\nIdeal para uma nova residência, férias ou para rentabilizar.",
+  "geo": {
+    "lat": 37.0822432,
+    "lng": -8.2981235
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72714&foto=1468236&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72714&foto=1468236&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 270,
+  "area_bruta_m2": 452,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

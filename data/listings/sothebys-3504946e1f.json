@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79129&foto=1609869&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79129&foto=1609869&f=1",
+  "description": "Situado no Belas Clube de Campo, em Sintra, este apartamento T3+1 no rés do chão combina conforto, áreas generosas e um grande jardim e terraço privativo. \n\nTem um enquadramento natural distinto, marcado pela vista para a Serra de Sintra. Com 169 m² de área bruta privativa e um jardim e terraço com 327 m², oferece um espaço exterior raro, ideal para quem valoriza privacidade e contacto com a natureza. Tem já a possibilidade de construir no jardim privado do apartamento, uma piscina privada para o mesmo. \n\nA zona social apresenta uma sala ampla e um office com ligação direta ao terraço, proporcionando continuidade entre interior e exterior. A cozinha foi pensada para funcionalidade diária e os três quartos incluem uma suíte com zona de closet e uma casa de banho de apoio aos dois quartos. \n\nConstruído em 2018, o edifício inclui elevador e integra-se num condomínio com vigilância 24 horas / 7 dias semana, reconhecido pela gestão eficiente e pelos espaços verdes envolventes. Conta com três lugares de estacionamento já com carregador para VE instalado e uma arrecadação.\n\nA orientação solar favorece a luminosidade ao longo do dia. A localização permite acesso rápido à CREL (5 min) e encontra-se a poucos minutos de serviços essenciais, supermercados, restauração e escolas. O Centro Comercial UBBO fica a 5 minutos e Centro Comercial Colombo com metro fica a cerca de 10 minutos de carro, bem como unidades de saúde e transportes.\n\nEste apartamento no Belas Clube de Campo oferece um estilo de vida equilibrado, com zonas exteriores amplas, tranquilidade e proximidade a Lisboa e Cascais, numa solução ideal para quem procura qualidade de vida, com um lifestyle com golfe, rodeado de ar livre e natureza num dos empreendimentos residenciais mais consolidados da grande Lisboa.",
+  "geo": {
+    "lat": 38.7544251,
+    "lng": -9.2553415
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79129&foto=1609869&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79129&foto=1609869&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 169,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

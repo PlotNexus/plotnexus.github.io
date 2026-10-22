@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 8,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71342&foto=1405593&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71342&foto=1405593&f=1",
+  "description": "Esplêndida moradia totalmente renovada com vistas soberbas para o campo e mar, na zona de Boliqueime, que tem atraído cada vez mais investidores nacionais e internacionais por se tratar de uma zona calma e tranquila, ainda que próxima das praias, campos de golfe, centros desportivos, restaurantes, assim como de outras comodidades dos resorts de luxo de Vilamoura, Vale do Lobo e Quinta do Lago. Totalmente voltada a sul, a moradia encontra-se cuidadosamente apresentada, com um landscaping de baixa manutenção que se integra perfeitamente com a sua arquitetura tradicional. O hall de entrada conduz os residentes a uma cozinha moderna totalmente equipada com acesso direto a um amplo terraço, o local ideal para desfrutar de momentos de descontração em família e com amigos, rodeados pela bela envolvência natural. Convenientemente localizada junto à cozinha, a sala de jantar e de estar fundem-se numa só ampla divisão com acesso ao terraço. A moradia é composta por cinco quartos, dois no rés do chão e três no primeiro piso, constituído assim a propriedade ideal para uma família numerosa. \nA cave é constituída por uma ampla área de lazer, incluindo bar, zona de jogos com mesa de snooker e sala de cinema. Este piso inferior também tem uma garagem para dois carros, assim como espaço para arrumos. \nA zona social exterior é composta por uma sumptuosa piscina aquecida com cobertura, assim como por vários espaços de lazer e convívio. \nCom um vivência bastante prática, esta moradia é o investimento ideal para quem procura residir permanentemente, desfrutar das férias ou até mesmo rentabilizar.",
+  "geo": {
+    "lat": 37.1305378,
+    "lng": -8.1285511
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71342&foto=1405593&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71342&foto=1405593&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 8,
-  "area_bruta_m2": null,
+  "area_util_m2": 58,
+  "area_bruta_m2": 8,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

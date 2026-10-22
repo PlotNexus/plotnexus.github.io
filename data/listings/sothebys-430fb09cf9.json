@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74878&foto=1493967&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74878&foto=1493967&f=1",
+  "description": "Entre no charme da modernidade com este impressionante apartamento de 2 quartos no prestigiado condomínio Unique Belém, concluído em 2022, situado numa das áreas mais cobiçadas de Belém, Lisboa. Localizado no rés-do-chão, este imóvel harmoniza interiores amplos e funcionais com um toque de natureza. Dispõe de duas suítes espaçosas, ambas com casas de banho privativas modernas, além de uma terceira casa de banho social, perfeita para receber visitas com conforto e elegância. As áreas de convivência são generosas para um T2, ideais para momentos de lazer ou para reunir amigos e família. No exterior, um pequeno jardim privativo proporciona um refúgio verde, perfeito para desfrutar de um café matinal ou de um fim de tarde sereno. A propriedade inclui dois lugares de estacionamento na garagem, equipados com carregamento elétrico, oferecendo praticidade e um olhar para o futuro, além de uma arrecadação para armazenamento adicional. O condomínio Unique Belém eleva o padrão de vida com uma piscina convidativa para relaxar e um ginásio bem equipado para manter a forma. Este empreendimento combina arquitetura contemporânea com a riqueza cultural de Belém, estando a poucos passos de monumentos icônicos, da deslumbrante beira-rio e de todas as comodidades modernas que a zona oferece. Mais do que uma simples casa, este apartamento representa um estilo de vida sofisticado e conectado. Não deixe escapar esta oportunidade única de adquirir uma jóia rara numa das localizações mais prestigiadas e desejadas de Lisboa!",
+  "geo": {
+    "lat": 38.7058743895297,
+    "lng": -9.19932246199107
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,56 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74878&foto=1493967&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74878&foto=1493967&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave"
+    ],
+    "Água": [
+      "Depósito"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Alarme (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 5,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

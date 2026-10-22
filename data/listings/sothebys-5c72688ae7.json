@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68102&foto=1452085&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68102&foto=1452085&f=1",
+  "description": "O Arthouse Boavista é um empreendimento residencial que redefine os padrões de luxo ao conjugar de forma magistral a arte e a sofisticação. Aqui, o extraordinário encontra morada, proporcionando uma experiência de vida sem precedentes para aqueles que procuram o ápice da elegância e do conforto.\nNo coração deste empreendimento encontra-se uma profunda sinergia entre a arte e a sofisticação. Cada residência do Arthouse Boavista é uma obra prima por si só, onde a arquitetura primorosa se une à funcionalidade e ao design inovador. Os interiores foram meticulosamente projetados para oferecer o máximo conforto, enquanto as áreas comuns são verdadeiras galerias de arte que convidam à contemplação e à admiração.\nNeste enclave de luxo, a arte é mais do que uma decoração, é uma parte intrínseca da vida quotidiana. O Arthouse Boavista representa o encontro entre a estética sublime e o requinte, onde a expressão artística se mescla ao estilo de vida sofisticado dos seus moradores. Aqui, cada momento é uma celebração da vida no seu estado mais refinado.\nO Edifício Tenente Valadim foi, em 1981, a primeira sede e sucursal do BPI (Banco Português de Investimentos) e ganha agora uma nova vida pelas mãos da Arquitecta Rosário Rodrigues do conceituado atlier Ferreira de Almeida Arquitetos LDA. Os sofisticados interiores são criação da talentosa designer Carla Guilhem e contam com peças especialmente criadas pelo conceituado artista Jotape.",
+  "geo": {
+    "lat": 41.16201,
+    "lng": -8.639631
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,30 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68102&foto=1452085&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68102&foto=1452085&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 159,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

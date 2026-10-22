@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 324,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78119&foto=1599021&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78119&foto=1599021&f=1",
+  "description": "Esta elegante moradia unifamiliar, localizada em Chaves, oferece 324 m² de área de construção num terreno de 3.276 m². Com tres quartos, escritorio, sala de estar, cozinha equipada e garagem para dois carros (44,3 m²), inclui ainda uma varanda e terraço.\n\nDesenhada pelo renomado arquiteto José Carlos Nunes de Oliveira, a casa destaca-se pelo design minimalista e eficiência energética, com acabamentos premium e grandes janelas que maximizam a luz natural.\n\nMateriais e Acabamentos:\n\nEstrutura: Betão armado com paredes exteriores revestidas por painéis de poliestireno expandido, colados e fixados com rede de fibra e argamassa projetada pigmentada.\nInterior: Alvenaria seca de gesso cartonado para reboco e pintura.\nTetos: Totalmente em gesso cartonado.\nCobertura: Betonilhas leves com pendente para drenagem, isoladas com painéis roofmate e impermeabilização protegida por seixo rolado.\nCaixilharia: Alumínio de baixo perfil com corte térmico e vidros duplos baixo-emissivos.\n\nSituada em Chaves, uma cidade termal famosa pelas suas águas quentes (73-76°C), ideal para turismo e bem-estar. Próxima do centro e das Termas de Chaves, oferece acesso a serviços e uma atmosfera rural em consolidação urbana, a poucos minutos de vias principais.\n\nPerfeita para quem procura um lar sustentável num destino termal único, com design assinado por um arquiteto de renome e acabamentos de alta qualidade, ideal para investimento turístico.",
+  "geo": {
+    "lat": 41.7622231,
+    "lng": -7.4671935
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,29 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78119&foto=1599021&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78119&foto=1599021&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 44.3"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Panorâmicas"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 324,
-  "area_bruta_m2": null,
+  "area_util_m2": 6,
+  "area_bruta_m2": 324,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

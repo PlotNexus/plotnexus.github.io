@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81428&foto=1682223&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81428&foto=1682223&f=1",
+  "description": "Moradia V5 situada numa zona residencial tranquila e privilegiada, nas imediações do prestigiado Vila Sol e a escassos minutos de Vilamoura, esta elegante moradia geminada de cinco quartos combina funcionalidade, conforto e uma excelente distribuição dos espaços.\n\nDistribuída harmoniosamente por três pisos, a propriedade foi concebida para proporcionar uma vivência prática e confortável. No piso superior encontram-se três quartos luminosos, incluindo uma suíte que garante privacidade e comodidade.\n\nO piso térreo integra uma cozinha moderna e uma ampla sala de estar, ambas com ligação direta ao jardim, estabelecendo uma ligação harmoniosa entre os espaços interiores e exteriores.\n\nNo exterior, a piscina, a zona de descanso e a área de barbecue criam o ambiente ideal para momentos de lazer e convívio, permitindo desfrutar do clima ameno do Algarve ao longo de todo o ano.\n\nNa cave, a moradia dispõe de dois quartos adicionais e de uma área versátil, passível de ser adaptada a sala de jogos, ginásio ou zona multimédia, acompanhando diferentes estilos de vida e necessidades.\n\nInserida numa área calma, mas estrategicamente próxima de Quarteira e Almancil, a propriedade beneficia de fácil acesso a todos os serviços essenciais. Em apenas cinco a dez minutos é possível chegar a algumas das melhores praias da região, bem como a uma vasta oferta de restaurantes, bares e opções de entretenimento.\n\nCom uma localização privilegiada e um excelente potencial, esta moradia constitui uma oportunidade para residência permanente, casa de férias ou investimento no Algarve.",
+  "geo": {
+    "lat": 37.0830223,
+    "lng": -8.0764062
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81428&foto=1682223&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81428&foto=1682223&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 157,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

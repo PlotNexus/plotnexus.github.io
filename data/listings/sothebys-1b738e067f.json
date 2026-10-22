@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75161&foto=1497998&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75161&foto=1497998&f=1",
+  "description": "Viva o encanto da Lisboa histórica com todo o conforto da vida moderna!\nTemos o prazer de apresentar este magnífico apartamento totalmente renovado com 2 quartos e 3 casas de banho, no coração do Chiado — um dos bairros mais desejados da cidade.\n\nEntre numa ampla sala com pé-direito alto e uma localização de esquina privilegiada, banhada por luz natural proveniente de duas ruas.\n\nA cozinha, totalmente nova, está equipada com armários elegantes e eletrodomésticos Bosch topo de gama—um verdadeiro convite para os amantes da culinária.\n\nAmbos os quartos em suíte oferecem roupeiros embutidos personalizados, combinando funcionalidade com sofisticação.\n\nCom entradas por duas ruas distintas e a poucos minutos de duas linhas de Metro, este apartamento oferece acesso facilitado ao Chiado, Baixa e ao restante de Lisboa.\n\nNão perca esta oportunidade única de viver num verdadeiro tesouro renovado, no coração vibrante da cidade!",
+  "geo": {
+    "lat": 38.7111501,
+    "lng": -9.1490905
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75161&foto=1497998&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75161&foto=1497998&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 172,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

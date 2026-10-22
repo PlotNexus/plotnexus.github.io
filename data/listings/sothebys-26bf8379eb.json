@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83042&foto=1706747&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83042&foto=1706747&f=1",
+  "description": "Há residências de luxo. E depois existem propriedades verdadeiramente irrepetíveis.\n\nNo último piso deste exclusivo condomínio, esta extraordinária Penthouse T4 representa uma oportunidade rara de adquirir uma das mais distintas residências de Paços de Ferreira. Um refúgio privado onde arquitetura contemporânea, design intemporal e uma envolvência natural se unem para proporcionar um estilo de vida reservado, sofisticado e absolutamente exclusivo.\n\nCom 202,11 m² de área interior e um magnífico terraço com 131,83 m², esta penthouse foi concebida para viver sem fronteiras entre o interior e o exterior. O grande protagonista é a sua piscina privativa, um privilégio reservado a muito poucos, que transforma cada momento numa experiência única: começar o dia com um mergulho ao nascer do sol, desfrutar de longos almoços ao ar livre, receber amigos em total privacidade ou simplesmente contemplar o horizonte enquanto o tempo abranda.\n\nA privilegiada orientação solar permite que a luz natural percorra a residência ao longo de todo o dia, valorizando cada espaço e reforçando a ligação permanente entre os amplos interiores e o terraço panorâmico, onde a paisagem se torna parte integrante da experiência de viver.\n\nA zona social, ampla e elegante, desenvolve-se em conceito aberto, criando um ambiente fluido entre a sala de estar, a sala de jantar e a cozinha contemporânea totalmente equipada. As generosas superfícies envidraçadas ampliam a sensação de espaço e fazem desaparecer a fronteira entre a arquitetura e a natureza. Na área mais reservada, quatro quartos, incluindo uma sofisticada master suite, foram pensados para proporcionar conforto absoluto, privacidade e serenidade.\n\nInserida num condomínio privado rodeado por mais de 6.500 m² de áreas verdes, esta residência beneficia de uma arquitetura inspirada na natureza, acabamentos de elevada qualidade e uma localização privilegiada, próxima de todos os serviços essenciais e dos principais acessos, oferecendo o equilíbrio perfeito entre serenidade e conveniência.\n\nComplementam esta propriedade três lugares de estacionamento em box fechada, reforçando o conforto e a exclusividade de uma residência concebida para quem valoriza espaço, discrição e qualidade de vida.\n\nMais do que uma Penthouse, esta é uma propriedade destinada a um público que reconhece o verdadeiro valor da exclusividade: um lugar onde o luxo deixa de ser uma característica e passa a ser uma forma de viver.\n\nData de entrega prevista 9/2027.",
+  "geo": {
+    "lat": 41.2793303437338,
+    "lng": -8.37991833686829
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,37 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83042&foto=1706747&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83042&foto=1706747&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Térmico)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 202,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

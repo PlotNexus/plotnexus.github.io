@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80677&foto=1637490&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80677&foto=1637490&f=1",
+  "description": "Apartamento T4 Duplex totalmente renovado, com características únicas de charme que combinam o conforto de uma moradia com a praticidade de um apartamento. Com entrada privativa, este imóvel oferece uma sensação de exclusividade e privacidade rara no contexto urbano.\n\nCom uma área generosa de 230m² distribuídos por dois pisos, destaca-se pela excelente organização dos espaços e pela qualidade da recente remodelação. No piso de entrada, encontra-se uma ampla e luminosa sala de estar e jantar, que se articula harmoniosamente com o hall de distribuição. A cozinha, de grande charme e elevada funcionalidade, estabelece ligação direta a um agradável terraço privativo, ideal para momentos de lazer. Ainda neste piso, dispõe de dois quartos, duas casas de banho, e uma zona de lavandaria.\n\nNo piso superior, o apartamento surpreende com uma sala de estar multiusos, proporcionando uma área adicional de convívio e conforto. Conta ainda com dois quartos, e uma casa de banho. No total, o imóvel oferece 3 casas de banho. Nesta casa temos um espaço exterior verdadeiramente acolhedor.\n\nEquipado com ar condicionado em ambos os pisos, este apartamento garante conforto durante todo o ano.\n\nA localização é, sem dúvida, um dos seus maiores trunfos. Inserido num dos bairros mais característicos e em pleno desenvolvimento da cidade, beneficia de proximidade a serviços, transportes e acessos rodoviários privilegiados, permitindo ligações rápidas ao centro e às principais vias de saída. Muito perto da CUF, e de toda a zona ribeirinha, restaurantes e zonas de lazer.\n\nUma oportunidade única para quem procura um imóvel distinto, com espaço, charme e uma localização estratégica.",
+  "geo": {
+    "lat": 38.7053303739423,
+    "lng": -9.17217527999268
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,37 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80677&foto=1637490&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80677&foto=1637490&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 230,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

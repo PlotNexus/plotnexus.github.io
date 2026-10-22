@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78205&foto=1640181&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78205&foto=1640181&f=1",
+  "description": "Magnífica moradia geminada inserida num agradável e exclusivo condomínio fechado, situado numa zona residencial muito tranquila e, ao mesmo tempo, central de Vilamoura. A localização é verdadeiramente privilegiada: junto dos prestigiados campos de golfe, e a apenas alguns minutos da Marina, da praia, e de todas as comodidades essenciais.\n\nConstruída com materiais de alta qualidade e recentemente totalmente remodelada, esta moradia distingue-se pelas suas divisões amplas, luminosas e bem distribuídas. As grandes janelas envidraçadas proporcionam uma luz abundante e oferecem bonitas vistas sobre o campo de golfe e o jardim.\n\nA moradia conta com três confortáveis quartos no primeiro piso, e dois quartos adicionais na cave, com luz natural, ideais para receber convidados ou criar zonas de lazer e trabalho. \n\nA espaçosa e acolhedora sala de estar tem acesso directo a um generoso terraço, perfeito para refeições ao ar livre ou momentos de descontração\n\nA moradia dispõe ainda de uma cave ampla com acesso directo a garagem com lugar para dois carros.\n\nO condomínio oferece um belíssimo jardim maduro, uma fantástica piscina comum, e diversas áreas de lazer, ideais para aproveitar o clima ameno e soalheiro do Algarve.\n\nEsta casa é ideal para residência permanente, férias em família, ou investimento com excelente potencial de rentabilidade.",
+  "geo": {
+    "lat": 37.1024569139214,
+    "lng": -8.13313345714722
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78205&foto=1640181&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78205&foto=1640181&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 151,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

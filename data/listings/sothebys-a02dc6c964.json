@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73773&foto=1471565&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73773&foto=1471565&f=1",
+  "description": "Apartamento de tipologia T4, penthouse, localizado no coração do Funchal. Este apartamento oferece uma combinação perfeita entre sofisticação e conveniência. Com uma área bruta privativa de 222 metros quadrados e uma vista deslumbrante sobre o mar, a cidade e as montanhas, este imóvel proporciona uma experiência única de viver no centro da cidade.\nPensado para o conforto e funcionalidade do dia a dia, este apartamento é composto por um amplo corredor, casa de banho social, uma cozinha totalmente equipada, a zona social é verdadeiramente imersiva, com uma ampla sala de estar e de jantar, que se abre para uma varanda ampla, tornando este espaço ideal para refeições ao ar live, relaxar e apreciar as vistas. \nA área privada é composta por quatro quartos, incluindo uma master suite de 32 metros quadrados, com varanda privativa e vistas panorâmicas sobre o centro histórico do funchal, o mar e as montanhas. O apartamento conta ainda com mais uma casa de banho completa e uma segunda casa de banho transformada atualmente em lavandaria. Com excelente exposição solar e orientação, o imóvel garante ambientes tranquilos e sem ruído, criando o cenário perfeito para um estilo de vida urbano e relaxante. Conta ainda com dois lugares de garagem e uma arrecadação.\nA localização é imbatível, está a poucos passos do Jardim Municipal, da Avenida Arriaga, da Marina, do Mercado dos Lavradores e de muitos outros pontos de interesse da cidade. Serviços essenciais, restaurantes, cafés e lojas estão à porta, oferecendo toda a conveniência de viver no centro do Funchal. A poucos minutos da Via Rápida e de zonas de lazer como campos de ténis e padel, e a 20 minutos do Aeroporto Internacional da Madeira, o imóvel oferece também fácil acesso a atividades de lazer, como golfe, com o Palheiro Golf a apenas 15 minutos e o Clube de Golfe do Santo da Serra a 30 minutos.Este apartamento é o equilíbrio perfeito entre luxo, conforto e praticidade. Um lugar ideal para quem deseja viver a vida intensa e encantadora da cidade, com todo o conforto que se pode pedir. Excelente oportunidade.",
+  "geo": {
+    "lat": 32.6475894990088,
+    "lng": -16.9056492790039
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,33 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73773&foto=1471565&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73773&foto=1471565&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Casa Recolha Lixo)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 222,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

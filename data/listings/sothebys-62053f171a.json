@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=43670&foto=808710&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=43670&foto=808710&f=1",
+  "description": "Localizado a Norte da Igreja Matriz e do Castelo de Idanha-a-Nova, o Solar dos Marqueses da Graciosa implanta-se numa das praças mais importantes da vila, com raízes quinhentistas ocupando neste espaço uma posição de relevo tanto pela sua dimensão, como pelo tipo de arquitetura que ostenta.Defronte à fachada principal observa-se um pequeno adro calcetado que se prolonga a toda a largura do imóvel sendo sustentado por um forte paredão que, no topo, é ornamentado por pináculos piramidais assentes em plintos, demarcando assim as entradas laterais e a escadaria de acesso. O espaço de entrada no solar, fronteiro à escadaria, é marcado pela presença de quatro colunas lisas de pedra que sustentam a varanda de granito com balaustrada do primeiro piso. No interior do solar, no átrio da antiga entrada principal virada à rua, existe uma escadaria dupla com varandim de acesso ao piso superior. Ao nível do piso nobre é de destacar, pelo valor patrimonial que detêm, os tetos de caixotões e os lambris de azulejos dos séculos XVII a XIX. A capela, de reduzidas dimensões, possuiu uma entrada lateral ligada ao exterior, destacando-se o seu teto piramidal. Ideal para um Hotel de Charme.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-22",
   "last_seen_at": "2026-10-22",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=43670&foto=808710&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=43670&foto=808710&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 1966,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }
