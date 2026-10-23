@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 6,
   "area_m2": 5,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=51577&foto=1596042&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=51577&foto=1596042&f=1",
+  "description": "Soberba moradia localizada a poucos minutos do centro do Funchal. \nComposta por três pisos, à entrada encontramos a cozinha e uma zona de refeições, um escritório com varanda privativa, e uma espaçosa zona de estar com outra zona de refeições. Os pisos são em mármore, e ainda neste mesmo nível há uma garagem para dois carros.\nNo segundo andar, encontra-se a zona dos quartos, três neste piso, todos eles em suite e varanda. A casa oferece grandes espaços de arrumação. \nNo piso inferior temos a churrasqueira, zona de refeições e um apartamento T2 totalmente equipado com sala e bar. Este apartamento pode ser rentabilizado por temporada, pois tem uma entrada privativa e uma varanda que oferece uma vista desafogada sobre a cidade do Funchal.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=51577&foto=1596042&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=51577&foto=1596042&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

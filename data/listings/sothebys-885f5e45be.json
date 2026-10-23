@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 682,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82125&foto=1673815&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82125&foto=1673815&f=1",
+  "description": "Situada numa zona tranquila e serena de Ponta Delgada, no concelho de São Vicente, esta propriedade beneficia de uma excelente exposição solar e de uma magnífica vista sobre o oceano Atlântico. Composta por três unidades habitacionais independentes, apresenta-se como uma solução versátil para residência própria, investimento turístico ou rentabilização.\nNo primeiro andar encontra-se um apartamento de tipologia T3, composto por três quartos, dois deles servidos por uma casa de banho completa e um deles em suite. A área social integra uma cozinha moderna totalmente equipada em conceito open space, complementada por sistema de chão aquecido que proporciona conforto durante todo o ano. Os espaços amplos e a abundante luz natural contribuem para uma atmosfera acolhedora e harmoniosa.\nAo nível do rés-do-chão encontra-se um apartamento T1 com cozinha totalmente equipada, casa de banho completa e acesso direto ao jardim, criando uma agradável ligação entre os espaços interiores e exteriores.\nA propriedade inclui ainda um espaçoso apartamento T0 com aproximadamente cem metros quadrados, composto por sala de estar, zona de refeições, cozinha e casa de banho. A sua configuração permite uma fácil adaptação para tipologia T2, acrescentando valor e potencial de utilização.\nInserida numa das mais pitorescas localidades da costa norte da Madeira, esta propriedade combina privacidade, conforto e flexibilidade, constituindo uma excelente oportunidade para quem procura um imóvel com múltiplas possibilidades de utilização e um enquadramento natural verdadeiramente inspirador.",
+  "geo": {
+    "lat": 32.8219030154127,
+    "lng": -16.9903564453125
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82125&foto=1673815&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82125&foto=1673815&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 682,
-  "area_bruta_m2": null,
+  "area_util_m2": 378,
+  "area_bruta_m2": 682,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

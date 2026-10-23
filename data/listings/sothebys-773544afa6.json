@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 3,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80548&foto=1624793&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80548&foto=1624793&f=1",
+  "description": "Apresentamos uma oportunidade exclusiva em Lavra: uma moradia contemporânea em fase de projeto, comercializada na modalidade \"chave na mão\", ideal para quem procura uma solução completa, sem preocupações nem incertezas. \n\nLocalizada a poucos passos da Praia da Agudela e a apenas 15 minutos de Leça da Palmeira, esta propriedade foi concebida para proporcionar uma experiência de habitação moderna, onde o conforto, a funcionalidade e a elegância se unem de forma natural.\n\nA moradia tem quatro quartos, amplas áreas sociais com ligação direta ao exterior, garagem, jardim privativo e piscina, bem como zonas de apoio cuidadosamente integradas no conjunto.\n\nA aquisição nesta modalidade garante um imóvel totalmente concluído, com acompanhamento integral da construção, elevados padrões de execução e atenção aos detalhes, proporcionando uma experiência simples, segura e transparente.\n\nAs imagens 3D apresentadas ilustram com fidelidade o projeto aprovado, evidenciando a qualidade arquitetónica e o potencial desta propriedade.\n\nTrata-se de uma solução ideal para quem valoriza viver junto ao mar com conforto, privacidade e a tranquilidade de uma casa nova pronta a habitar.\n\nHá também a possibilidade de adquirir o lote de terreno com o projeto, sem construção.",
+  "geo": {
+    "lat": 41.2434438511138,
+    "lng": -8.71311843979492
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,31 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80548&foto=1624793&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80548&foto=1624793&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 3,
-  "area_bruta_m2": null,
+  "area_util_m2": 24,
+  "area_bruta_m2": 3,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 252,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68683&foto=1389310&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68683&foto=1389310&f=1",
+  "description": "Descubra o Refúgio dos Seus Sonhos no Coração do Algarve. Apresentamos uma moradia térrea totalmente remodelada, localizada em São Brás de Alportel no campo Algarvio. Esta propriedade, com uma área bruta privativa de 188 m² e mais sótão amplo, oferece espaço e conforto em abundância, ideal para quem busca qualidade de vida em um cenário tranquilo.\n\nA moradia dispõe de 5 quartos espaçosos e 4 casas de banho modernas, além de zonas sociais de lazer perfeitas para momentos em família ou entre amigos. No exterior, desfrute de uma piscina refrescante e amplos terraços, tudo isso rodeado por um lote generoso de 2465 m², com viabilidade para construir mais 350 m².\n\nEsta é uma excelente oportunidade para investir no coração do Algarve, seja para viver, para uma casa de férias ou como investimento imobiliário. Venha conhecer este pedaço de paraíso e sinta o charme e a serenidade do countryside Algarvio.",
+  "geo": {
+    "lat": 37.16185,
+    "lng": -7.885413
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,19 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68683&foto=1389310&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68683&foto=1389310&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Aquecimento Central (Pré-Instalação)"
+    ],
+    "Edifício": [
+      "Piscina (Exterior)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 252,
-  "area_bruta_m2": null,
+  "area_util_m2": 100,
+  "area_bruta_m2": 252,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

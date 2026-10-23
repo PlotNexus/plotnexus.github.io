@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79296&foto=1596531&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79296&foto=1596531&f=1",
+  "description": "Localizada nos arredores de Grândola, a Villa 6 faz parte do exclusivo empreendimento Sobreiras Country Hotel.\n\nA villa de 219,50 m² dispõe de 3 suites, uma sala de estar âmpla com cozinha integrada e uma casa de banho social.\n\nA villa possui classificação energética A+ e cada detalhe, dos materiais às obras de arte, foi cuidadosamente selecionado pelos proprietários.\n\nA propriedade inclui uma grande piscina num terreno de 4.000 m² com uma vista incrível para os sobreiros da propriedade.\n\nA Villa 6 é entregue totalmente mobiliada, sendo que também poderá ser rentabilizada através do hotel - que pode fazer a manutenção da villa.",
+  "geo": {
+    "lat": 38.1018383008955,
+    "lng": -8.55334604433594
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79296&foto=1596531&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79296&foto=1596531&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 220,
+  "area_bruta_m2": 190,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

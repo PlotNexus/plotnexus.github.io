@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77720&foto=1569163&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77720&foto=1569163&f=1",
+  "description": "Este sofisticado apartamento de um quarto encontra-se na prestigiada Quinta da Marinha, uma das áreas residenciais mais exclusivas da freguesia de Cascais. Com uma área bruta privativa de 85 metros quadrados, a propriedade alia elegância, conforto e privacidade, tornando-se ideal tanto para residência como para investimento.\nInserido no conceituado Sheraton Cascais Resort, em condomínio fechado, o imóvel oferece aos proprietários um estilo de vida incomparável, com acesso a comodidades de excelência: ginásio totalmente equipado, spa, piscina e restaurantes de renome, como o Yakuza by Olivier e o Glass Terrace. Serviços exclusivos como room service, limpeza de quarto e concierge dedicado reforçam a experiência de viver num verdadeiro resort de luxo.\nA localização é outro ponto de destaque. A apenas 3 km da A5 e 5 km da Marginal, garante fácil ligação a Lisboa e às principais vias de acesso. Na área envolvente encontram-se escolas de referência, como a King’s College School (3 km) e o Colégio Amor de Deus (5 km).\nComo fator adicional de valorização, o apartamento conta com uma rentabilidade garantida de €40.000 nos próximos quatro anos, além da possibilidade de utilização pelo proprietário por até 90 dias por ano. Uma solução perfeita para quem deseja unir investimento seguro a um estilo de vida exclusivo.\nTrata-se de uma oportunidade rara para adquirir um apartamento de elevada qualidade numa das zonas mais cobiçadas de Cascais, com retorno garantido e usufruto pessoal.",
+  "geo": {
+    "lat": 38.7035171,
+    "lng": -9.391423
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,50 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77720&foto=1569163&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77720&foto=1569163&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Jardins, Zelador / Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 85,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

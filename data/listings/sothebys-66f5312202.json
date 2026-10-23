@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81379&foto=1660529&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81379&foto=1660529&f=1",
+  "description": "Numa das localizações mais icónicas e valorizadas de Lisboa, junto ao Instituto Superior Técnico, apresenta-se este distinto apartamento na Alameda, onde a centralidade se alia a um estilo de vida sofisticado.\n\nInserido em edifício de traça sólida, com nove pisos, elevador e condomínio rigorosamente organizado, este imóvel oferece um enquadramento de conforto e discrição no coração da cidade.\n\nSituado no 5.º andar, o apartamento revela uma distribuição harmoniosa e áreas generosas, integrando cinco quartos e quatro casas de banho, ideais para responder às exigências de uma vivência contemporânea com espaço e funcionalidade. A varanda proporciona um agradável prolongamento exterior, enquanto a luminosidade natural confere elegância e bem-estar aos interiores.\n\nO imóvel encontra-se no seu estado original, mantendo condições habitáveis, o que permite utilização imediata, ao mesmo tempo que oferece uma excelente oportunidade de renovação e personalização ao gosto do futuro proprietário.\n\nElemento raro e altamente valorizado nesta zona, dispõe ainda de garagem individual em pátio interior.\n\nA envolvente distingue-se pela excelência de acessos, proximidade a uma vasta rede de transportes públicos, comércio selecionado, serviços e instituições de referência.\n\nUma oportunidade única para quem procura um ativo imobiliário de prestígio, seja para residência própria ou investimento seguro numa das zonas mais consolidadas da cidade.",
+  "geo": {
+    "lat": 38.7363623,
+    "lng": -9.1359517
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,53 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81379&foto=1660529&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81379&foto=1660529&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Esquentador"
+    ],
+    "Domótica": [
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico)",
+      "Equipamento (Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 189,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

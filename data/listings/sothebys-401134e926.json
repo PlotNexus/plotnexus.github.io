@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82521&foto=1670327&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82521&foto=1670327&f=1",
+  "description": "Apartamento T2 situado no piso 3 do Foz Elements, empreendimento residencial contemporâneo localizado na Foz do Douro. Com 96 m² de área interior e 19 m² de área exterior, esta fração beneficia de varanda, proporcionando uma agradável extensão da zona social e uma vivência luminosa e confortável. O apartamento apresenta áreas bem distribuídas, acabamentos de qualidade e uma linguagem arquitetónica moderna e intemporal. Dispõe ainda de arrumo e 2 lugares de garagem, reunindo características muito valorizadas para quem procura um T2 funcional, com estacionamento privativo e localização de excelência numa das zonas mais prestigiadas do Porto.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82521&foto=1670327&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82521&foto=1670327&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 96,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

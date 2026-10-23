@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71850&foto=1410867&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71850&foto=1410867&f=1",
+  "description": "Localizado no coração vibrante das Avenidas Novas, o Miguel Bombarda 54 oferece um toque de elegância e história. Composto por 14 exclusivos apartamentos de tipologia T1 e T2, este edifício, original dos anos 20, destaca-se pela sua arquitetura tradicional com características de charme preservadas. Projetado pelo conceituado arquiteto Tiago Correia, as escrituras estão previstas até ao final de 2026.\nCom áreas generosas que variam entre os 79 e 130 m², às quais acrescem áreas exteriores para todas as frações, cada unidade oferece amplos interiores, ideais para quem procura conforto e sofisticação. Os tetos trabalhados e as grandes áreas conferem um charme único, sendo perfeitos tanto para quem procura uma habitação ou oportunidade de investimento. O edifício preserva detalhes arquitetónicos originais, criando um equilíbrio perfeito entre a tradição e a modernidade. Além disto, os apartamentos foram pensados para proporcionar funcionalidade e conforto, com layouts perfeitamente otimizados. As áreas amplas permitem um excelente aproveitamento da luz natural, enquanto os acabamentos de qualidade garantem durabilidade e requinte. \nA localização deste edifício é incomparável, situando-se próximo de vários serviços essenciais. Nas imediações, encontram-se restaurantes, cafés, supermercados e escolas, que tornam a vida dos seus residentes mais prática e onde o conceito de “Ten minute City” se aplica perfeitamente. O empreendimento tem também uma excelente proximidade às principais vias rodoviárias, garantindo uma fácil deslocação para outras zonas da capital. Em termos de transportes públicos, a estação de metro mais próxima está a poucos minutos a pé, facilitando as deslocações dentro da cidade e arredores. Para quem necessita de transporte ferroviário, a proximidade da estação de comboios é uma vantagem adicional. A zona é igualmente bem servida por várias linhas de autocarros e ciclovias, tornando a mobilidade urbana simples e eficiente.\nInserido numa das zonas mais emblemáticas de Lisboa, as Avenidas Novas, este empreendimento oferece uma combinação de tradição, modernidade e elegância. Conhecida pela sua arquitetura clássica e avenidas largas, esta zona proporciona um estilo de vida cosmopolita, com fácil acesso a centros culturais, áreas verdes e zonas comerciais. O empreendimento Miguel Bombarda 54 é, sem dúvida, uma oportunidade única para quem procura investir ou residir numa das localizações mais privilegiadas de Lisboa.",
+  "geo": {
+    "lat": 38.73695,
+    "lng": -9.149027
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71850&foto=1410867&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71850&foto=1410867&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Centros Comerciais, Escolas, Farmácia, Ginásio, Hospital, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 104,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

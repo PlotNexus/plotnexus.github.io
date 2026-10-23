@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80410&foto=1620974&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80410&foto=1620974&f=1",
+  "description": "Magnifica penthouse de dois quartos, com mais de 112 metros quadrados de área bruta privativa e com 86 metros quadrados de terraço, inserido num dos melhores condomínios da cidade, Bonjardim - City Center Living.\n \nA zona social é composta por uma sala e uma cozinha em conceito aberto, orientada a poente, proporciona um ambiente acolhedor e luminoso, estendendo-se para o magnífico terraço.\n \nEste espaço exterior, acessível a partir de todas as divisões do apartamento, é perfeito para momentos de lazer e convívio, contando ainda com um jacuzzi e uma vista deslumbrante sobre a cidade do Porto.\n \nA cozinha é contemporânea e totalmente equipada, e apresenta uma configuração prática para a utilização quotidiana, com móveis lacados, bancadas e parede entre móveis em Dekton, equipada com eletrodomésticos de gama superior SMEG.\n\nAdicionalmente, este apartamento ainda apresenta uma casa de banho social e lavandaria.\n \nOs dois quartos são em suite, com roupeiros lacados embutidos, ambos com acesso direto ao terraço.\n\nA master suite, em particular, conta com uma área separada de closet com iluminação natural, proporcionando uma experiência funcional e sofisticada.\n\nO pavimento é em soalho multicamada de Riga e a caixilharia é em alumínio lacado com vidro duplo.\n \nA climatização é garantida através do sistema de ar condicionado por conduta oculta (VRV) e o aquecimento das águas quentes sanitárias é assegurado por caldeira a gás e painel solar. \n\nO apartamento dispõe de dois lugares de garagem e arrumos, garantindo o máximo de comodidade aos moradores. \n\nO Bonjardim - City Center Living apresenta uma mistura de património e modernidade no coração da cidade do Porto.\n\nCom uma praça em calçada portuguesa rodeada de jardins com relvado e árvores de grande porte que será um ponto de encontro com esplanadas, cafés, restaurantes, lojas e serviços. \n\nO condomínio oferece ainda um conjunto de comodidades aos moradores como sala de condomínio, ginásio equipado e ainda uma pista de corrida e uma zona de lounge, ambos na cobertura do edifício.\n\nCom uma localização privilegiada, a poucos passos de algumas das áreas mais icónicas da cidade, como o Mercado do Bolhão, a Avenida dos Aliados e a Rua de Santa Catarina. \n\nA proximidade a transportes públicos, como o metro e autocarros, e a grande oferta de serviços e comodidades, como comércio, restauração e lazer.",
+  "geo": {
+    "lat": 41.1488431,
+    "lng": -8.6089842
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,56 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80410&foto=1620974&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80410&foto=1620974&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 22.54; Eletricidade",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 85,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

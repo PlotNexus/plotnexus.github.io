@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 68,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83352&foto=1706597&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83352&foto=1706597&f=1",
+  "description": "Moradia de arquitetura singular no centro de Aveiro.\n\nViver em Aveiro significa optar por uma cidade que alia identidade, qualidade de vida e uma localização privilegiada. Conhecida como a \"Veneza de Portugal\", Aveiro destaca-se pelos seus canais, pelos moliceiros tradicionais, pela arquitetura de inspiração art nouveau e pela proximidade à Ria de Aveiro e às praias da região. Aveiro é uma cidade dinâmica e acolhedora, com uma forte ligação à cultura, à gastronomia e à natureza, mantendo simultaneamente uma dimensão que permite desfrutar do quotidiano com tranquilidade.\n\nÉ neste contexto, no centro de Aveiro, que se encontra esta residência com características verdadeiramente singulares. Trata-se de uma residência onde a localização se alia à dimensão, à privacidade e a uma arquitetura com muita personalidade.\n\nA moradia foi alvo de uma intervenção integral no último ano e encontra-se atualmente totalmente renovada, estando preparada para proporcionar conforto e funcionalidade contemporâneos sem perder os elementos arquitetónicos que lhe conferem caráter. Os tetos trabalhados e os pormenores presentes em toda a casa revelam uma identidade própria, distinguindo-a das construções de linguagem mais convencional.\n\nNo interior, encontramos uma ampla sala de estar e de jantar, três suítes, um escritório, uma lavandaria, uma casa de banho de serviço e uma sala de jogos, que criam diferentes ambientes para a vida familiar e para receber convidados.\n\nNo exterior, a residência apresenta uma das suas principais particularidades: um amplo jardim, algo raro numa zona tão central, que inclui uma piscina, uma zona de churrasco e diversos espaços de lazer. Trata-se de um ambiente pensado para aproveitar os dias de maior luminosidade, para reunir a família e os amigos ou, simplesmente, para desfrutar da privacidade que a residência proporciona.\n\nA garagem fechada tem capacidade para dois automóveis e existe ainda espaço no exterior para vários outros veículos.\n\nEsta moradia tem uma presença muito própria, combinando uma localização central em Aveiro com uma dimensão exterior pouco habitual, uma arquitetura distinta e uma renovação integral recente.\n\nTrata-se de uma oportunidade para quem procura uma residência com caráter, espaço e privacidade, sem abdicar da proximidade ao centro de uma das cidades mais singulares e desejadas do centro de Portugal.",
+  "geo": {
+    "lat": 40.6494192592666,
+    "lng": -8.62845998161469
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,51 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83352&foto=1706597&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83352&foto=1706597&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4"
+    ],
+    "Água": [
+      "Companhia",
+      "Furo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 24.42; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave, Exterior)"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 68,
-  "area_bruta_m2": null,
+  "area_util_m2": 317,
+  "area_bruta_m2": 68,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

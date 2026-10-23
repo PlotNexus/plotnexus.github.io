@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 234,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65892&foto=1278318&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65892&foto=1278318&f=1",
+  "description": "Fantástica moradia unifamiliar, localizada numa zona residencial perto de todos os serviços essenciais. A apenas cinco minutos do centro do Funchal, esta moradia conta com bons acessos, áreas amplas e com bons acabamentos. Esta moradia desenvolve-se em dois pisos, sendo que o primeiro é composto por um amplo hall de entrada, sala de estar com lareira e sala de jantar com acesso ao exterior, uma casa de banho social, cozinha ampla, despensa e lavandaria. Ainda neste piso encontra a garagem para três carros e um salão de jogos com bar de apoio que pode ser adaptado também para uma sala de cinema. \nNo piso superior, encontra a master suíte, dois quartos de dormir, uma casa de banho completa, um escritório com varanda privativa e uma área destinada a arrumos. \nNo exterior encontramos jardins bem cuidados, uma área para refeições com churrasqueira e espaço também para construir uma piscina, caso seja desejável.",
+  "geo": {
+    "lat": 32.6613323,
+    "lng": -16.9447146
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,57 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65892&foto=1278318&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65892&foto=1278318&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Esquentador"
+    ],
+    "Domótica": [
+      "Escritório",
+      "Alarme (CCTV, Completo, Segurança Activa)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pedra Natural, Pintado)",
+      "Pavimento (Mármore)",
+      "Paredes (Pintadas)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Mar",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 234,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 234,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

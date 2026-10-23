@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75256&foto=1495360&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75256&foto=1495360&f=1",
+  "description": "Este apartamento T2, situado na freguesia de Famões, no bairro Quinta da Barroca, oferece uma excelente oportunidade para quem procura um imóvel moderno e confortável, com boas áreas e excelente exposição solar. Com conclusão prevista para o primeiro trimestre de 2026, este imóvel destaca-se pela sua luminosidade e vista desafogada. A exposição solar nascente e poente proporciona um ambiente claro e acolhedor ao longo do dia.\nO apartamento localiza-se no 2º piso de um prédio de 2 pisos, sem elevador, e conta com dois quartos, uma casa de banho e duas varandas que permitem a apreciação do exterior. Além disso, o imóvel inclui um sótão com cerca de 16 m², com 1 WC, luz natural e um grande terraço, ideal para arrumos ou para desfrutar de momentos ao ar livre. A cave, com 91 m², conta com 2 casas de banho e é também equipada com janelas, que proporcionam luz natural e mais espaço de arrumação adicional. O imóvel oferece ainda dois lugares de estacionamento, garantindo a conveniência e a facilidade de acesso ao dia a dia. A arrecadação, localizada no R/C, proporciona mais área de arrumos.\nCom excelentes acabamentos, o apartamento é ideal para quem procura um lar novo, com áreas amplas e práticas. O ano de construção é previsto para 2026, oferecendo todas as condições de uma habitação moderna e bem equipada.\nEm termos de localização, o imóvel encontra-se a apenas 7 minutos da IC17/CRIL, facilitando o acesso às principais vias de comunicação da região. A estação de metro está a cerca de 10 minutos de distância, oferecendo uma boa ligação ao transporte público e ao centro urbano. A tranquilidade da zona e a proximidade às principais vias tornam este apartamento uma escolha estratégica para quem valoriza a acessibilidade e o conforto.",
+  "geo": {
+    "lat": 38.7889367,
+    "lng": -9.204296
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75256&foto=1495360&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75256&foto=1495360&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 91,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }
