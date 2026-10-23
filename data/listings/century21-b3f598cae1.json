@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 81,
   "image": "https://images.century21.pt/a2031ac6-5863-4eef-a7ca-e7bc89590083/c21-corroios-10.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.621853,
     "lng": -9.0902137
@@ -22,12 +22,18 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://images.century21.pt/a2031ac6-5863-4eef-a7ca-e7bc89590083/c21-corroios-10.jpg"
+    "https://images.century21.pt/a2031ac6-5863-4eef-a7ca-e7bc89590083/c21-corroios-10.jpg",
+    "https://images.century21.pt/6deaef5f-332b-48d5-ab0e-5a762bcac8d7/c21-corroios-6.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Propriedade plena",
+      "Acesso por estrada"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 81,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "area_bruta_m2": 98,
+  "ano_construcao": 1984,
+  "certificacao_energetica": "C"
 }

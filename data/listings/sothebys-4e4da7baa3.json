@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82298&foto=1672683&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82298&foto=1672683&f=1",
+  "description": "Descubra este elegante apartamento localizado na Rua de São João Bosco, numa das zonas mais prestigiadas do Porto, junto à Avenida da Boavista.\n\nEste imóvel, totalmente renovado, destaca-se pelo equilíbrio entre design contemporâneo, conforto e funcionalidade. Composto por dois quartos e duas casas de banho, uma das quais recentemente acrescentada, apresenta-se totalmente mobilado e decorado com peças de design atual, proporcionando um ambiente sofisticado e pronto a habitar.\n\nA sala de estar, ampla e luminosa, foi pensada para favorecer momentos de convívio e relaxamento, beneficiando da excelente exposição solar e da harmonia dos espaços.\n\nPara maior comodidade, o apartamento dispõe ainda de um lugar de garagem e um espaço de arrumos na cave, características diferenciadoras numa localização central da cidade.\n\nCom uma área bruta privativa de 100 m² e uma área útil de 85 m², encontra-se no 3.º andar de um edifício de seis pisos, servido por dois elevadores.\n\nUma propriedade que combina elegância, conforto e localização privilegiada, ideal para quem procura um estilo de vida urbano com elevado padrão de qualidade no coração do Porto.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82298&foto=1672683&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82298&foto=1672683&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 0"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC",
+      "Estores (Térmicos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)",
+      "Aspiração Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Granito)",
+      "Pavimento (Mármore)",
+      "Paredes (Monomassa)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Jardins, Parque Infantil, TV Cabo, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Garagem": [
+      "Área (m2): 17; Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 100,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

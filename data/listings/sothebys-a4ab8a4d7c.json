@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63829&foto=1317198&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63829&foto=1317198&f=1",
+  "description": "O Green Plaza é um novo condomínio excecionalmente bem localizado em Carcavelos, na linha de Cascais. Esta é uma zona reconhecida pelas suas praias, a proximidade a distintos centros de ensino como a Universidade NOVA School of Business and Economics, tradicionais espaços verdes como a Quinta da Alagoa e com inúmeras opções de desporto ao ar livre para a sua saúde e lazer.\nO Green Plaza é composto por 39 apartamentos e oferece tipologias de T1 a T4, com áreas entre os 69 e 202 m2. Brindadas pelo sol, as amplas áreas interiores de cada apartamento estão desenhadas para fazer brilhar o seu estilo, deixando entrar a incomparável luz Cascalence. Os interiores estão valorizados com acabamentos de requinte, em espaços confortáveis e totalmente funcionais.\nDos jardins privados às amplas áreas interiores, cada espaço conta com a segurança e toda a privacidade que procura num condomínio privado. No Green Plaza irá ter ao seu dispor como vários espaços de lazer, como o jardim e piscina exterior e uma sala multiusos totalmente equipada. Aqui, a tranquilidade une-se ao estilo, naturalmente.\nVenha descobrir o Green Plaza e admire o que a natureza preparou para si em cada novo dia. Explore a vizinhança, as áreas verdes, o comércio local, caminhe pela praia ou deixe-se apenas relaxar sob o sol à beira da piscina.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,45 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63829&foto=1317198&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63829&foto=1317198&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Térmico)",
+      "Equipamento (Jardins, Sala Condomínio)",
+      "Piscina (Exterior)"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Centros Comerciais, Escolas, Hospital, Jardins, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 103,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

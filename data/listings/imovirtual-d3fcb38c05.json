@@ -6,25 +6,40 @@
   "currency": "EUR",
   "location": "Albufeira e Olhos de Água, Albufeira, Faro",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 104,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNmcXY3cXdyNThjOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2D2B0o0OZSW7c9KILgLdT03miOPp7x6odXJ3WYDcEcQ/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNmcXY3cXdyNThjOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2D2B0o0OZSW7c9KILgLdT03miOPp7x6odXJ3WYDcEcQ/image;s=2048x1536;q=80",
+  "description": "ALBUFEIRA - APARTAMENTO - 4 ASSOALHADAS 103M² - PISCINA - MUITO BOM ESTADO - LUMINOSO\n\nSituado em Albufeira, este apartamento de construção de 2009 ocupa o primeiro piso de um condomínio fechado com porteiro, oferecendo uma exposição a sul e a nascente que garante uma luminosidade natural ao longo de todo o dia.\n\nCom uma área habitável de 103 m², o apartamento distribui-se por quatro assoalhadas bem organizadas: uma sala de estar e uma sala de jantar comunicantes que formam um espaço de vida amplo e arejado, uma cozinha independente totalmente equipada, dois quartos confortáveis e duas casas de banho completas. O hall de entrada confere uma transição elegante entre o exterior e as divisões interiores, e um espaço de arrumos complementa a organização do quotidiano.\n\nO apartamento dispõe de dois varandins com orientação privilegiada, ideais para desfrutar do clima algarvio. O condomínio conta com quatro piscinas partilhadas, proporcionando um ambiente de lazer e bem-estar a poucos passos de casa.\n\nEm termos de equipamentos, o imóvel está dotado de ar condicionado reversível, lareira, fibra ótica, televisão por cabo, cablagem telefónica e aquecimento individual elétrico — garantindo conforto em todas as estações do ano. O condomínio fechado com porteiro assegura tranquilidade e segurança permanentes.\n\nPara agendar uma visita a este apartamento, entre em contacto connosco.\n\n#ref: 963408",
+  "geo": {
+    "lat": 37.107487,
+    "lng": -8.26015
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-em-albufeira-e-olhos-de-agua-de-103-57-m2-ID1ixCR",
-  "published_at": "2026-10-23",
+  "published_at": "2026-07-01",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNmcXY3cXdyNThjOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2D2B0o0OZSW7c9KILgLdT03miOPp7x6odXJ3WYDcEcQ/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNmcXY3cXdyNThjOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2D2B0o0OZSW7c9KILgLdT03miOPp7x6odXJ3WYDcEcQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndwZzg4bWF4ZXVrczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Ws5jpLpoj1YtlzoWsQ_v27CA2pcrKTKZUgWfL9uPjXA/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Condomínio fechado"
+    ],
+    "Equipamentos": [
+      "Ar condicionado",
+      "Varanda"
+    ],
+    "Multimédia": [
+      "Internet"
+    ]
+  },
   "estado": null,
   "area_util_m2": 104,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "ano_construcao": 2009,
+  "certificacao_energetica": "C"
 }

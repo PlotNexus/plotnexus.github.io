@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 65,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79733&foto=1623530&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79733&foto=1623530&f=1",
+  "description": "Inserida num dos mais prestigiados condomínios privados da região, esta moradia de dois andares combina conforto, elegância e um ambiente tranquilo rodeado pela natureza.\nMoradia em banda com quatro quartos, com 308.4 metros quadrados de área bruta de construção, composta por dois pisos, com destaque para o amplo jardim apoiado por piscina e um incrível terraço na zona social.\nNo primeiro andar, encontramos uma casa de banho de serviço, um quarto versátil (ideal para hóspedes ou escritório), uma ampla cozinha funcional integrada com sala jantar e sala de estar, com excelente luminosidade, graças às amplas janelas, que dão ainda acesso ao deck e à zona do jardim. \nNo piso inferior, destacam-se três quartos com áreas generosas, incluindo uma suíte muito espaçosa, perfeita para momentos de descanso e privacidade. Neste piso encontramos ainda uma casa de banho completa e uma acolhedora sala de estar, ideal para reunir a família.\nO exterior é um verdadeiro refúgio, onde irá poder desfrutar de uma ótima piscina aquecida, uma extensa área verde para lazer e um espaço perfeito para convívios, ideal para receber amigos e família ao longo de todo o ano. \nTudo isto integrado no ambiente exclusivo e seguro de Vale Pisão, onde a tranquilidade e o contacto com a natureza se unem à proximidade das principais vias de acesso e serviços, estando localizado a escassos 15 km de Santo Tirso e a 20 km da cidade do Porto. \nEste condomínio fechado oferece um estilo de vida privilegiado com segurança permanente, campo de golfe e clubhouse.",
+  "geo": {
+    "lat": 41.2603882108,
+    "lng": -8.5017013549
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,59 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79733&foto=1623530&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79733&foto=1623530&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Escritório",
+      "Estores Eléctricos",
+      "Gás Canalizado",
+      "TV-Cabo",
+      "Alarme (Segurança Activa)",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)",
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Pedra Natural)",
+      "Paredes (Pintadas)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 29; Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bombeiros, Escolas, Farmácia, Ginásio, Hospital, Jardins)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 65,
-  "area_bruta_m2": null,
+  "area_util_m2": 15,
+  "area_bruta_m2": 65,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

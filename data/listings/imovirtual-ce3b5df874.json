@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Marrazes e Barosa, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 72,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9rb2lqMzkzaXQycDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.StDfp_sfHa9a2cafRN9v2GlbcgyrKCUEx2lFXNA9amE/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9rb2lqMzkzaXQycDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.StDfp_sfHa9a2cafRN9v2GlbcgyrKCUEx2lFXNA9amE/image;s=2048x1536;q=80",
+  "description": "Procura um apartamento moderno, acolhedor e com uma localização prática? Apresentamos este fantástico apartamento T2 renovado em Leiria, ideal para quem valoriza conforto, luminosidade e proximidade aos principais serviços.Com uma área de 72 m², este imóvel destaca-se pela sua organização funcional e pelo ambiente contemporâneo.Características do imóvel:• 2 quartos com boa luminosidade;• Sala e cozinha em conceito open-space;• Cozinha equipada;• Casa de banho moderna;• Localização próxima de comércio, serviços e transportes.Uma excelente opção para primeira habitação!Se procura um espaço confortável para começar uma nova etapa da sua vida, este apartamento poderá ser a escolha certa.Entre em contacto conosco para saber mais e agendar a sua visita.Imagem melhorada e mobilada por IA.Contacte-nos de segunda a domingo das 10H às 20Hreferência Triomphe Imo Invest TPH001-578",
+  "geo": {
+    "lat": 39.762173,
+    "lng": -8.81144
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,12 +22,18 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9rb2lqMzkzaXQycDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.StDfp_sfHa9a2cafRN9v2GlbcgyrKCUEx2lFXNA9amE/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9rb2lqMzkzaXQycDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.StDfp_sfHa9a2cafRN9v2GlbcgyrKCUEx2lFXNA9amE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJycWRtOHgzdnJkODItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jUUjmb6h8i9cKZ0i0nOguGIslPGwQMo46GC5jKDH2AU/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamento": [
+      "Máquina de lavar loiça",
+      "Frigorífico"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 72,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

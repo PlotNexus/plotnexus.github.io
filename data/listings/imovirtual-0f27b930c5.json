@@ -6,25 +6,34 @@
   "currency": "EUR",
   "location": "Covilhã e Canhoso, Covilhã, Castelo Branco",
   "bedrooms": 0,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 33,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InN1czUwbmM1aDI3cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FCcnlF0jDGhAvjmk2sCPnsPzslPaqFMRREGFP1I0Qtc/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InN1czUwbmM1aDI3cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FCcnlF0jDGhAvjmk2sCPnsPzslPaqFMRREGFP1I0Qtc/image;s=2048x1536;q=80",
+  "description": "Apartamento T0, com boa exposição solar, localizado na Covilhã, próximo de todos os bens e serviços essenciais.\nDispõe de cozinha independente e divisão para arrumos na garagem (no lugar de garagem), proporcionando maior funcionalidade ao espaço.\nConta ainda com lugar de garagem, lavandaria comum, prédio com elevador e vistas para a cidade e serras, sendo uma excelente oportunidade para habitação própria ou investimento para rentabilização.\n\nCaracterísticas\nÁgua\nCompanhia\n\nEdifício\nTipo Empreendimento: Habitação\n\nVistas\nCidade, Panorâmicas, Serra\n\nZona\nAcessos: Bons, Transportes Púb.\nCentralidade: Centro da Cidade\nProximidade: Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado",
+  "geo": {
+    "lat": 40.271145,
+    "lng": -7.4917526
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-estudio-covilha-covilha-e-canhoso-ID1j3uy",
-  "published_at": "2026-10-23",
+  "published_at": "2026-10-22",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InN1czUwbmM1aDI3cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FCcnlF0jDGhAvjmk2sCPnsPzslPaqFMRREGFP1I0Qtc/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InN1czUwbmM1aDI3cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FCcnlF0jDGhAvjmk2sCPnsPzslPaqFMRREGFP1I0Qtc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjVmNXRoaXdvdzc2bDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0._D87D5ZGsTxG6Qgkpn_00gFjAMK0Cci-Kbt6Ldsd9Fw/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 33,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

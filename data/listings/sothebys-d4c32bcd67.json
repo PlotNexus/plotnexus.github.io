@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 160,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67719&foto=1299607&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67719&foto=1299607&f=1",
+  "description": "Moradia térrea tradicional recentemente renovada, numa excelente localização no centro de Albufeira, perto de supermercados, restaurantes e de todas as comodidades. A cozinha é moderna e totalmente equipada, e a sala de estar/jantar é espaçosa e luminosa, com lareira e portas em vidro com acesso ao terraço e jardim. Um dos três quartos é en-suite e todos têm acesso direto ao jardim ou ao terraço. Uma outra suite para hóspedes fica ao lado da moradia. No exterior, há uma piscina privada aquecida de onde ainda se pode ver o mar e um agradável jardim de baixa manutenção. Existem painéis solares fotovoltaicos para complementar o fornecimento de eletricidade e painéis de água quente.",
+  "geo": {
+    "lat": 37.0944719,
+    "lng": -8.2357981
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,43 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67719&foto=1299607&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67719&foto=1299607&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Painel Solar"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Rega Automática",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Rega Automática)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 160,
-  "area_bruta_m2": null,
+  "area_util_m2": 120,
+  "area_bruta_m2": 160,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

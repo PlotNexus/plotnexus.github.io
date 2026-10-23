@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78687&foto=1596765&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78687&foto=1596765&f=1",
+  "description": "Localizado em Albufeira, este deslumbrante e glamoroso apartamento tipo penthouse é a escolha ideal para quem procura uma residência moderna. Situado no piso 2 de um edifício com piscina, o imóvel oferece um ambiente sofisticado e confortável, com uma área bruta de construção de 209 metros quadrados, materiais de qualidade e ar condicionado. Com dois quartos, incluindo uma suíte, e duas casas de banho, este apartamento destaca-se pelos seus terraços com pré-instalação de jacuzzi e pela abundância de luz natural, virado a sul. A propriedade inclui dois lugares de estacionamento na garagem e box. A cozinha está totalmente equipada e tem barbecue no exterior. Este apartamento beneficia de uma localização privilegiada, a apenas cerca de 100 m da praia e com vistas para o mar. A proximidade às principais vias, como a N125 a 5 km de distância, à estação de comboios a 7 km e paragem de autocarro próxima facilita o acesso e a mobilidade. Além disso, a área circundante oferece uma vasta gama de serviços, incluindo restaurantes, supermercados, escolas e hospital, tudo a uma curta distância. O Aeroporto Internacional de Faro situa-se a 40 km. \nEste apartamento é ideal para quem procura um estilo de vida premium em Albufeira para uma nova residência, um apartamento para férias ou simplesmente bom investimento imobiliário.",
+  "geo": {
+    "lat": 37.0880599,
+    "lng": -8.2444884
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78687&foto=1596765&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78687&foto=1596765&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 209,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

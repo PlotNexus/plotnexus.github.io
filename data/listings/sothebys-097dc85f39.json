@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83377&foto=1702502&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83377&foto=1702502&f=1",
+  "description": "Situado no rés do chão do M33 Residence, este elegante apartamento T2 combina arquitetura contemporânea, conforto e uma localização privilegiada no coração de Vilamoura.\n\nCom uma área interior cuidadosamente distribuída, o apartamento dispõe de dois quartos, uma casa de banho e um lugar de estacionamento privativo. Os espaços foram concebidos para proporcionar uma experiência de vida confortável e funcional, complementada por uma linguagem arquitetónica moderna, linhas elegantes e acabamentos de qualidade.\n\nA localização é um dos seus principais atributos. Inserido numa zona residencial tranquila, o imóvel encontra-se a curta distância da Marina de Vilamoura, dos campos de golfe, das praias, de restaurantes e de uma vasta oferta de comércio e serviços.\n\nPela sua localização e características, este apartamento apresenta-se como uma excelente opção para residência permanente, refúgio de férias ou investimento num dos destinos mais exclusivos e procurados do Algarve.\n\nUma oportunidade para adquirir um apartamento contemporâneo em Vilamoura, com o enquadramento e o estilo de vida distintivos que caracterizam este destino.",
+  "geo": {
+    "lat": 37.0840299,
+    "lng": -8.1211548
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83377&foto=1702502&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83377&foto=1702502&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 28,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

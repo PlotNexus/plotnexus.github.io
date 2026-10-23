@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79677&foto=1613294&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79677&foto=1613294&f=1",
+  "description": "Penthouse Duplex de Prestígio em Edifício Histórico Reabilitado\n\nInserido num edifício histórico totalmente recuperado, este exclusivo penthouse duplex distingue-se pela sua elegância intemporal, luminosidade excecional e vistas verdadeiramente emblemáticas sobre o Castelo de São Jorge e as colinas de Lisboa.\nDistribuído por dois pisos, o imóvel combina funcionalidade contemporânea com charme arquitetónico clássico, num prédio de apenas três pisos, preservando a privacidade e o carácter único do conjunto.\n\nPiso Inferior\n\nUm quarto acolhedor\n\nEspaço versátil ideal como escritório ou closet\n\nCasa de banho completa\n\nCozinha totalmente equipada, pensada para o quotidiano moderno\n\nPiso Superior\n\nSuite principal de linhas elegantes\n\nCasa de banho social\n\nAmpla sala de estar com lareira, onde o conforto se alia à sofisticação\n\nAcesso direto a um magnífico terraço, perfeito para contemplar vistas panorâmicas sobre Lisboa\n\nCom orientação solar a Sul, este penthouse beneficia de luz natural ao longo de todo o dia, valorizando cada espaço e criando uma atmosfera luminosa e serena.\nUma propriedade rara, ideal para quem procura exclusividade, vistas icónicas e um estilo de vida distinto no coração de Lisboa.",
+  "geo": {
+    "lat": 38.7175048,
+    "lng": -9.146428
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79677&foto=1613294&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79677&foto=1613294&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 111,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

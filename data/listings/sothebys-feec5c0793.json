@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81198&foto=1651126&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81198&foto=1651126&f=1",
+  "description": "Este magnífico apartamento T4 situa-se na tranquila Rua Dom António Barroso, no Porto, a apenas alguns passos da Estação de Metro da Casa da Música. Com uma construção realizada em 2008, esta propriedade destaca-se pelo seu excelente estado de conservação e pela sua localização privilegiada. Este apartamento, distribuído por dois níveis, proporciona uma divisão equilibrada entre a área social e a área privativa. O piso de entrada acolhe um generoso hall que conduz a uma sala de estar com orientação solar a sul e poente, permitindo uma luminosidade notável. A sala é complementada por uma ampla varanda voltada a poente. No mesmo nível, encontra-se uma cozinha moderna e totalmente equipada com electrodomésticos Bosch, bem como uma lavandaria independente. Uma casa de banho de serviço apoia a zona social. O andar superior é dedicado aos quartos, com uma suite e três quartos adicionais servidos por uma casa de banho completa. Este apartamento oferece ainda quatro lugares de garagem e uma espaçosa arrecadação na cave. A propriedade não é apenas um espaço de conforto mas também de conveniência, com pontos de interesse e transportes públicos nas proximidades, garantindo uma vida urbana facilitada.",
+  "geo": {
+    "lat": 41.1588467,
+    "lng": -8.630737
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,53 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81198&foto=1651126&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81198&foto=1651126&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Gás Canalizado",
+      "Aspiração Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 56.62; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 4,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

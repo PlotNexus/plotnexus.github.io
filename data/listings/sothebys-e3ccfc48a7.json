@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82643&foto=1673581&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82643&foto=1673581&f=1",
+  "description": "Entre o Atlântico e o Rio Douro nasce o The Grand Splendouro, um empreendimento exclusivo onde arquitetura contemporânea, sofisticação e inovação se unem para criar uma experiência residencial incomparável.\n\nCom apenas 32 apartamentos de luxo, tipologias T2 a T5 Penthouse, cada residência foi concebida para privilegiar a amplitude, a luz natural e as vistas deslumbrantes sobre o oceano. Materiais nobres, acabamentos premium e tecnologia de última geração elevam o conforto a um novo patamar.\n\nPiscina aquecida, ginásio, coworking, áreas verdes, Private Box Lift System e uma localização privilegiada na emblemática Seca do Bacalhau fazem deste projeto uma referência do luxo em Vila Nova de Gaia.\n\nMais do que uma casa.\nUm novo estilo de vida.",
+  "geo": {
+    "lat": 41.1308961787,
+    "lng": -8.6543941497
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82643&foto=1673581&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82643&foto=1673581&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 174,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74650&foto=1489170&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74650&foto=1489170&f=1",
+  "description": "Trata-se de um exclusivo e sofisticado apartamento T3, localizado na inspiradora zona da Foz do Douro, a escassos minutos a pé da praia do Molhe, do Ourigo, dos Ingleses e do Homem do Leme. Este inigualável imóvel, está inserido num condomínio de luxo, cujo histórico palacete dos anos 40, passou por um criterioso processo de reabilitação, do qual resultaram 10 frações habitacionais, distribuídas por frações da tipologia T2 a T5. Este apartamento dispõe, de entre outras mais valias, de 1 lugar de aparcamento para 2 veículos e de um convidativo espaço exterior. A sala e a cozinha apresentam-se em open - space, estando perfeitamente assegurada a divisão entre esta zona social e a área privativa dos 3 quartos, dois deles em suite. Com uma inquestionável localização premium, e com toda uma envolvência eclética desde praia, a estabelecimentos de ensino de referência, zonas de comércio de excelência, restauração, cultura e lazer, apresenta-se como a escolha acertada para usufruir de um requintado estilo de vida",
+  "geo": {
+    "lat": 41.1575349796948,
+    "lng": -8.67465462451173
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,52 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74650&foto=1489170&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74650&foto=1489170&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (CCTV)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 8,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82311&foto=1670813&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82311&foto=1670813&f=1",
+  "description": "Moradia em Banda | Tróia Resort\n\nInserida no exclusivo Tróia Resort, esta elegante moradia em banda oferece um estilo de vida privilegiado onde a natureza, o conforto e a segurança se combinam em perfeita harmonia.\n\nCom uma área de 153 m², a habitação desenvolve-se em dois pisos funcionalmente bem distribuídos. No piso térreo encontramos uma sala de estar, cozinha totalmente equipada, casa de banho e um quarto versátil que pode igualmente funcionar como escritório — ideal para quem procura flexibilidade no dia a dia. No piso superior, duas suítes garantem privacidade e conforto, destacando-se a suíte principal pelo seu closet privativo.\n\nA cozinha conta com equipamentos da marca Siemens, alinhando estética e eficiência num dos espaços mais utilizados da casa. Em termos de conforto térmico, a moradia dispõe de ar condicionado, piso radiante e painéis solares, assegurando eficiência energética e bem-estar em qualquer estação do ano.\n\nO jardim privativo de 57 m² convida ao descanso e ao lazer ao ar livre, num ambiente tranquilo rodeado pela beleza singular da Península de Tróia. Completam a propriedade dois lugares de estacionamento privativos e arrecadação, assegurando toda a praticidade do quotidiano.\n\nIntegrada num condomínio com segurança 24 horas, esta moradia combina a tranquilidade de uma segunda habitação de resort com todas as comodidades de uma residência permanente — a poucos passos das praias de areia dourada, dos campos de golfe e de todos os serviços do Tróia Resort.\n\nDetém ainda licença de Alojamento Local, abrindo a possibilidade de rentabilização imediata do imóvel — uma vantagem significativa num destino turístico de referência nacional, com procura consolidada ao longo de todo o ano.\n\nUma oportunidade única para quem procura qualidade de vida, segurança e a exclusividade de um dos destinos mais procurados da costa portuguesa.",
+  "geo": {
+    "lat": 38.4893785519902,
+    "lng": -8.90007123013306
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82311&foto=1670813&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82311&foto=1670813&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 153,
+  "area_bruta_m2": 190,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

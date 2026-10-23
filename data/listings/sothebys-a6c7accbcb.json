@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81892&foto=1667736&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81892&foto=1667736&f=1",
+  "description": "Apresentamos este espaçoso apartamento T4, situado no 3.º andar de um edifício de traça tradicional, sem elevador, numa das zonas residenciais mais valorizadas de Lisboa.\nCom excelente exposição solar e abundante luz natural, este imóvel destaca-se pelas suas áreas generosas, ampla varanda e enorme potencial de valorização.\n\nO apartamento dispõe de 4 quartos, 3 casas de banho, Ampla varanda, Excelente distribuição das divisões e muita luminosidade natural.\n\nLocalizado num 3.º andar, beneficia de maior privacidade, tranquilidade e excelente entrada de luz natural.\n\nEncontra-se em bom estado geral, necessitando apenas de tratamento no pavimento em parquet e pintura, uma intervenção simples que permitirá valorizar ainda mais o charme e a elegância original da casa.\n\nA localização é um dos seus maiores trunfos, inserido numa zona de excelência, com proximidade a uma oferta educativa de referência, incluindo a Escola Secundária Rainha Dona Leonor, a escola do bairro Escola do Bairro de São Miguel, o Externato São Miguel Arcanjo, bem como acesso rápido a polos universitários de prestígio como a Universidade de Lisboa, o ISCTE e o Instituto Superior Técnico.\n\nBeneficia ainda da proximidade de comércio local, supermercados, serviços, espaços verdes, transportes públicos e excelentes acessos às principais vias da cidade.\n\nUma oportunidade rara para personalizar um apartamento com carácter, espaço e localização privilegiada, ideal para habitação própria ou investimento seguro.",
+  "geo": {
+    "lat": 38.7474409,
+    "lng": -9.1456875
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,38 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81892&foto=1667736&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81892&foto=1667736&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 4,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

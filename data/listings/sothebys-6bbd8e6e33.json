@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69786&foto=1397950&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69786&foto=1397950&f=1",
+  "description": "A Quinta do Alverde é um condomínio privado de 4.600 m2, composto por 2 edifícios residenciais e um conjunto exclusivo de amenities que conjugam a facilidade e o conforto do estilo de vida urbano, com o acesso exclusivo a extensas áreas verdes. Localizado na fronteira entre Oeiras e Lisboa e ladeado pela natureza, este novo empreendimento desfruta de uma localização central e estratégica, que permite o acesso a qualquer parte em minutos.\nA Quinta do Alverde é um condomínio privado onde uma arquitetura moderna e sustentável se ergue sobre um amplo manto verde. Possui extensos jardins, estacionamento privativo subterrâneo e áreas exclusivas de lazer. Adicionalmente, dispõe de espaços e serviços de conveniência e bem-estar, onde se destacam as duas piscinas exteriores, o ginásio, sauna, lavandaria e centro de Petcare. O condomínio mantém ainda uma relação única com o Jardim de Outurela e o seu complexo desportivo, contando com uma passagem exclusiva que liga as áreas verdes do condomínio à natureza e ao lazer envolvente.\nOs apartamentos T1 a T4 da Quinta do Alverde destacam-se pelas suas áreas generosas, onde amplas janelas integram o interior sofisticado do apartamento com as vistas privilegiadas para a natureza e os jardins privados que envolvem os edifícios. Todas as frações da Quinta do Alverde foram projetadas com materiais e acabamentos sustentáveis que evocam uma sensação de luxo e conforto que se estende por toda a casa, sendo que o projeto tem certificação LEED - a creditação mais valorizada internacionalmente, no âmbito da sustentabilidade.\nSituado em Carnaxide, no concelho de Oeiras, o condomínio está adjacente à A5 (autoestrada que liga Lisboa a Cascais) e à N117 (estrada que liga Belém à 2ª Circular), oferecendo conforto e conveniência em deslocações de curta e longa distância.",
+  "geo": {
+    "lat": 38.72109,
+    "lng": -9.221003
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,42 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69786&foto=1397950&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69786&foto=1397950&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (CCTV)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins, Sala Condomínio, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Centros Comerciais, Escolas, Farmácia, Ginásio, Hospital, Jardins, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 101,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

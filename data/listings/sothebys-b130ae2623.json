@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84003&foto=1716778&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84003&foto=1716778&f=1",
+  "description": "A poucos passos da Marina de Vilamoura e em frente a um dos conhecidos Irish pubs da marina, esta moradia geminada renovada combina uma localização difícil de replicar com o potencial de uma excelente casa de férias ou investimento para arrendamento.\n\nInserida numa das primeiras linhas residenciais junto à marina, a propriedade destaca-se pelo seu estado de conservação e pela qualidade da renovação, apresentando-se como uma das casas mais cuidadas deste conjunto.\n\nA localização é o seu principal ativo. A Marina de Vilamoura concentra restaurantes, bares, lojas, hotéis, entretenimento e acesso ao mar, criando um ambiente com procura durante grande parte do ano. A proximidade às praias, ao casino e aos campos de golfe reforça ainda mais o seu apelo junto do mercado internacional de férias.\n\nPara um comprador que procura uma propriedade para utilização própria, esta é uma localização onde se pode deixar o carro e viver verdadeiramente a marina a pé. Para quem procura rendimento, a mesma localização oferece uma combinação particularmente interessante de procura turística, proximidade a serviços e escassez de propriedades residenciais tão próximas da marina.\n\nUma oportunidade para adquirir uma moradia pronta a utilizar numa das localizações mais reconhecidas de Vilamoura, com potencial para combinar uso pessoal, preservação de valor e retorno em arrendamento local.",
+  "geo": {
+    "lat": 37.0785189,
+    "lng": -8.1177612
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84003&foto=1716778&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84003&foto=1716778&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 120,
+  "area_bruta_m2": 303,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

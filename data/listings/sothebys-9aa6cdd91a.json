@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72822&foto=1708123&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72822&foto=1708123&f=1",
+  "description": "Apartamento T3 com vistas sobre o Douro junto à Douro Marina\n\nCom uma localização privilegiada, este apartamento distingue-se pela sua relação única com o rio e pela tranquilidade da zona ribeirinha de Vila Nova de Gaia, uma das mais procuradas. É composto por duas suítes, um quarto com casa de banho de apoio, uma sala muito espaçosa com cerca de 30 m2, uma cozinha em espaço aberto e uma lavandaria. \n\nCom uma envolvente marcada pela natureza, pelo rio e pela proximidade da marina, este apartamento proporciona uma experiência residencial em que o conforto e a paisagem assumem um papel de destaque.\n\nAs amplas vistas sobre o Douro acompanham o quotidiano, conferindo aos espaços uma atmosfera luminosa e envolvente e criando um cenário privilegiado para desfrutar de cada momento.\n\nO apartamento encontra-se totalmente equipado, estando pronto a ser utilizado como residência permanente, segunda habitação ou investimento.\n\nA proximidade da marina acrescenta uma dimensão muito particular a esta localização, oferecendo acesso a atividades náuticas, restauração e espaços de lazer, mantendo simultaneamente boas ligações ao Porto e aos principais pontos de interesse da região.\n\nTrata-se de uma propriedade pensada para quem procura qualidade de vida, conforto e uma localização junto ao rio, num cenário que combina tranquilidade e proximidade à cidade.",
+  "geo": {
+    "lat": 41.1345891163145,
+    "lng": -8.66685032836516
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,39 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72822&foto=1708123&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72822&foto=1708123&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 36.31"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 7,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

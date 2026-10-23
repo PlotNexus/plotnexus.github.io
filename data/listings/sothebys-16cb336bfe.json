@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74562&foto=1495254&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74562&foto=1495254&f=1",
+  "description": "Este apartamento com 3 quartos em Barcarena é uma oportunidade única para quem procura qualidade de vida numa localização tranquila, mas com bons acessos. Com uma vista panorâmica e um ambiente acolhedor, este imóvel destaca-se pela sua funcionalidade e pelas suas áreas bem distribuídas.\n\nA área bruta privativa de 127 m² acomoda três quartos, sendo dois deles em suite, e três casas de banho completas. Construído em 1988, o apartamento encontra-se em excelente estado de conservação. O espaço exterior é valorizado pela presença de um jardim e de uma piscina, proporcionando um refúgio ideal para momentos de lazer e descontração.\n\nCom orientação solar nascente, sul e poente, a luz natural é um dos grandes destaques deste imóvel, criando uma atmosfera luminosa e confortável. \n\nA localização é um dos grandes trunfos deste apartamento. Situado a poucos minutos das principais vias, garante ligações rápidas e fáceis a Lisboa e outros pontos de interesse. Serviços essenciais como escolas e supermercados estão a curta distância, garantindo conveniência no dia a dia.\n\nA proximidade à estação de comboios torna as deslocações ainda mais práticas, especialmente para quem trabalha em Lisboa. Além disso, as zonas verdes e os espaços de lazer nas imediações tornam este apartamento ideal para famílias ou para quem valoriza o contacto com a natureza.\n\nVenha conhecer este apartamento T3 em Barcarena, onde conforto, funcionalidade e localização se unem para criar o lar ideal. Marque já a sua visita!",
+  "geo": {
+    "lat": 38.7332001,
+    "lng": -9.2880845
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74562&foto=1495254&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74562&foto=1495254&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 127,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

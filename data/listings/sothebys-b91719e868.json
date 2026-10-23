@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71821&foto=1410347&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71821&foto=1410347&f=1",
+  "description": "Apartamento com dois quartos, com 113 metros quadrados de área total, com terraço privativo, um lugar de garagem e cave, inserido no novo empreendimento Verdelago, na Praia Verde Algarve.\nCom uma sala ampla, uma varanda coberta e duas suites com closet e casa de banho completa. Uma das suites também com varanda para o exterior. Vem totalmente mobilado e equipado.\n\nO Verdelago, envolvido pela beleza dos cenários naturais, praias e belíssimas paisagens está localizado a 45 min do aeroporto de Faro e a 2 kilómetros da via do Infante.\nO terreno com frente mar e com 1,2 kms de extensão apresenta um clube de aldeamento, open market e piscina. \nNo clube de aldeamento estão localizados os principais serviços de apoio tais como a recepçao,bares, restaurantes com open kitchen, esplanadas, piscina e extensas zonas verdes.\n\nO open market, espaço para adquirir bens de primeira necessidade, produtos gourmet e artigos produzidos no proprio empreendimento, conta com uma aplicação interna onde se podem pedir os produtos online e ser entregues nas respectivas fracçoes.\nA piscina infinita com vista para as zonas das charcas e do pinhal com vista a sul é envolvida por uma larga zona de estar com sombreamentos e espreguiçadeiras.\nConta tambem com Campos de Padel e Ténis e para os mais pequenos Kids Club com possiblidade de babysitting.\n\nNa praia, conta ainda com um apoio balnear de uma aréa com 36 mil metros quadrados, com bar/restaurante,esplanada, cozinha, instalações sanitárias privativas e postos de primeiros socorros.\nServiço de segurança e vigilância com recepção e portaria 24 horas, sistema cctv no apartamento, drones que rondam o empreendimento, tudo com tecnologia 5G.\n\nO Verde lago beneficia de um baixo índice de construção de oito virgula sete porcento beneficiando assim de uma natureza rica e natural com grandes extensões de vegetação lagos e animais residentes.\n\nEm termos de investimento, caso não queira utilizar o apartamento o ano todo, o Verdelago disponibiliza propostas de rendimento de 3% a 5%",
+  "geo": {
+    "lat": 37.1738962,
+    "lng": -7.4802325
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,54 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71821&foto=1410347&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71821&foto=1410347&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Termolacada",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (CCTV)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Campo de Jogos, Casa Recolha Lixo, Court Ténis, Jardins, Parque Infantil, Rega Automática, TV Cabo, Zelador / Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada)",
+      "Proximidade (Jardins, Praias)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 99,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

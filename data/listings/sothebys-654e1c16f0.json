@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 186,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83451&foto=1711448&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83451&foto=1711448&f=1",
+  "description": "Apresentamos esta moradia isolada situada na Ponta do Pargo, no concelho da Calheta, na Ilha da Madeira, uma localização marcada pela tranquilidade e pela proximidade ao campo de golfe.\n\nConstruída em 2021, a propriedade distribui-se por dois pisos e dispõe de três quartos em suite no primeiro andar, garantindo privacidade e conforto. No rés-do-chão, a cozinha em open space encontra-se integrada com a sala de estar, criando uma área funcional e convidativa para o quotidiano e para momentos de convívio.\n\nNo exterior, a moradia beneficia de uma ampla área de lazer, com jardim, solário e piscina, complementada por uma vista para o mar.\n\nCom 186 metros quadrados de área bruta de construção, está inserida num terreno com 473 metros quadrados e dispõe de 165 metros quadrados de área útil. A propriedade é vendida totalmente mobilada e conta ainda com garagem individual para dois automóveis e um anexo destinado a arrumos.\n\nDispõe também de licença de alojamento local, tornando-se uma opção interessante tanto para residência permanente como para investimento.\n\nUma propriedade que alia tranquilidade, espaço exterior, vista para o mar e uma localização distinta na costa oeste da Madeira.",
+  "geo": {
+    "lat": 32.8013939,
+    "lng": -17.2435956
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83451&foto=1711448&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83451&foto=1711448&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 186,
-  "area_bruta_m2": null,
+  "area_util_m2": 172,
+  "area_bruta_m2": 186,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

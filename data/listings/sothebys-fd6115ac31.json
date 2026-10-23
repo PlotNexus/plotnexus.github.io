@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 312,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64511&foto=1226348&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64511&foto=1226348&f=1",
+  "description": "Situada numa zona tranquila e residencial, esta magnífica moradia oferece o equilíbrio perfeito entre conforto, privacidade e proximidade a todas as conveniências. Localizada a apenas três minutos do Madeira Shopping e a dez minutos do centro do Funchal, apresenta uma localização privilegiada.\n\nDistribuída por dois pisos, no piso térreo encontra-se a ampla sala de estar e jantar, uma cozinha funcional e uma casa de banho social. No piso superior, a área privada é composta por quatro quartos, um deles em suíte, e uma casa de banho de apoio.\n\nNo exterior, a moradia conta com uma generosa área de lazer, perfeita para momentos em família ou com amigos, com zona de churrasqueira e piscina, criando o cenário ideal para desfrutar do clima ameno da ilha durante todo o ano.",
+  "geo": {
+    "lat": 32.6577138,
+    "lng": -16.941238
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64511&foto=1226348&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64511&foto=1226348&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 312,
-  "area_bruta_m2": null,
+  "area_util_m2": 287,
+  "area_bruta_m2": 312,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76472&foto=1532112&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76472&foto=1532112&f=1",
+  "description": "Recentemente renovada e significativamente melhorada, esta encantadora moradia de estilo quinta, virada a sul, está situada numa zona tranquila de Poço Novo, no campo de Loulé, a apenas 5 minutos do centro da cidade e a cerca de 20 minutos do Aeroporto Internacional de Faro.\n\nCom 3 quartos, a propriedade oferece um ambiente acolhedor, confortável e funcional, ideal para quem procura privacidade, tranquilidade e proximidade a todos os serviços. Encontra-se também perto do MAR Shopping Algarve e de várias zonas comerciais.\n\nNo exterior, destaca-se uma agradável piscina aquecida de 50 m², envolvida por um jardim paisagístico de baixa manutenção, bem como uma convidativa zona de refeições ao ar livre, perfeita para desfrutar do clima algarvio.\n\nA moradia foi totalmente remodelada, incluindo nova canalização, instalação elétrica, painéis solares, novas unidades de ar condicionado, eletrodomésticos recentes e pintura interior e exterior. Beneficia ainda de duas fontes de água: rede pública para uso doméstico e furo licenciado com 140 metros de profundidade, apoiado por tanque de água para rega e piscina.\n\nDistribuída por dois pisos, o rés do chão é composto por uma cozinha em plano aberto, totalmente mobilada e equipada, com ampla arrumação e zona de refeições. A sala de estar, confortável e luminosa, dispõe de lareira. Neste piso encontram-se ainda dois quartos com roupeiros embutidos, servidos por uma casa de banho completa.\n\nNo primeiro andar, a suite principal oferece roupeiro embutido, acesso a um terraço privado com vistas desafogadas sobre o campo e uma casa de banho totalmente renovada com piso aquecido.\n\nA propriedade inclui ainda sistema de fibra ótica sem fios, alarme, câmaras de segurança, furo licenciado e encontra-se totalmente legalizada junto da Câmara Municipal de Loulé.",
+  "geo": {
+    "lat": 37.132813686,
+    "lng": -8.0136680603
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,44 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76472&foto=1532112&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76472&foto=1532112&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "PVC",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Alarme (CCTV)",
+      "Piscina (Exterior)"
+    ],
+    "Garagem": [
+      "Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade, Rural)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 155,
+  "area_bruta_m2": 65,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

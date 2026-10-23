@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76984&foto=1551431&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76984&foto=1551431&f=1",
+  "description": "Amplo Apartamento T3 com 3 Suítes e Localização de Excelência\n\nDescubra este magnífico apartamento de 3 suítes com generosos 188 m² de área privativa, ideal para quem valoriza conforto, espaço e qualidade de vida. Com áreas amplas e bem distribuídas, o imóvel destaca-se pelas duas varandas espaçosas — uma virada para a rua e outra para as traseiras, proporcionando luz natural durante todo o dia e ambientes ventilados.\n\nA cozinha está totalmente equipada e conta com uma prática zona de lavandaria independente. O apartamento dispõe ainda de 2 lugares de garagem em garagem fechada, oferecendo toda a comodidade e segurança.\n\nLocalizado numa zona residencial de prestígio, junto à Avenida Marechal Gomes da Costa, este imóvel está a apenas 10 minutos da praia e rodeado por todo o tipo de serviços, comércio, escolas e acessos rápidos ao centro da cidade e às principais vias rodoviárias.\n\nIdeal para famílias ou para quem procura investir com qualidade.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,48 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76984&foto=1551431&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76984&foto=1551431&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 4,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

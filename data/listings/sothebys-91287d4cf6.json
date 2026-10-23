@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=61561&foto=1210893&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=61561&foto=1210893&f=1",
+  "description": "Moradia virada para sul, com luz solar direta durante o dia todo e excelentes vistas para o mar e para o monumento de Santa Teresinha.\nComposta por cinco quartos de dormir, dois deles com WC privativo. Todas as casas de banho têm banheira e duas delas têm bidé.\nNo piso superior, encontramos um quarto de dormir em suite, contíguo com uma sala e grandes armários embutidos. Todos os outros quartos têm também armários embutidos no seu interior ou no corredor adjacente. Em todos os armários embutidos há um espelho de corpo inteiro. Um dos quartos de dormir e a sala têm acesso, a um terraço coberto (total de dois terraços cobertos com acesso tanto pelo exterior da casa como pelo interior).\nA cozinha, localizada no piso inferior, está completamente equipada (incluindo micro-ondas, máquina de lavar loiça, fogão com gás canalizado e forno, frigorífico, máquina de lavar e secar roupa e sistema de deteção de incêndios e gás) e comunica com o quarto de jantar. Ao lado da cozinha há ainda uma despensa.\nA sala de estar é ampla e possui uma lareira (desenhada e construída em cantaria basáltica do Porto Santo) com difusor de calor para os quartos de dormir. Toda a casa encontra-se decorada com mobília inglesa de mogno e vinhático de elevada qualidade. Todos os tapa-sóis da casa têm redes mosquiteiras incorporadas.\nOs extensos jardins seguem uma orientação única e estão desenhados para o prazer visual e para a fruição, característica das antigas Quintas Madeirenses. \nA grande maioria das árvores são carvalhos da Califórnia. Há tanto áreas de sombra como de sol distribuídas pelos extensos jardins. \nDispersas pelo exterior da casa estão peças de cantaria basáltica.\nA casa está equipada ainda com piscina aquecida, jacuzzi, uma ampla churrasqueira e garagem para dois automóveis que foi convertida em salão de jogos. A piscina tem um espaçoso solário e duche quente. Tanto na piscina como na churrasqueira a água das torneiras é potável. Dentro da propriedade mas em área descoberta é possível o estacionamento de vários automóveis. Há ainda uma arrecadação onde estão alojadas as máquinas necessárias para o aquecimento da piscina.\nHá um poço para água de rega com capacidade de duas horas de água de rega incluídas.\nEncontra-se próxima de vários serviços como farmácia, restaurantes, supermercado, ATM, bomba de gasolina e padarias. \nIncluída na venda está a empresa Casa do Retiro, Casa de Campo Lda. Um negócio de aluguer da propriedade para férias.",
+  "geo": {
+    "lat": 32.6947983,
+    "lng": -17.0982397
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,58 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=61561&foto=1210893&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=61561&foto=1210893&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Água": [
+      "Companhia",
+      "Poço"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pedra Natural)",
+      "Equipamento (Gás Canalizado, Jardins, Rega Automática)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 200,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

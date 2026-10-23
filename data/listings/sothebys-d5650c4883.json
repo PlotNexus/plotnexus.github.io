@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=53052&foto=1525198&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=53052&foto=1525198&f=1",
+  "description": "O empreendimento Prateato situado no coração de Marvila, considerado o bairro mais descontraído de Lisboa, a poucos metros do rio Tejo e rodeado de antigas fábricas e armazéns, outrora zona industrial de Lisboa. Este empreendimento de 18 lofts e 29 apartamentos com tipologias de T1 a T5, a maioria deles com terraço ou jardim, está localizado numa rua calma a poucos metros de todas as infraestruturas que estão a chegar a esta zona oriental da cidade de Lisboa. Marvila encontra-se em franco desenvolvimento a nível comercial, habitacional, restauração, jardins e escritórios, é já considerado o bairro artístico de Lisboa onde se encontram galerias de arte, designers, hubs creativos, coworks, cervejarias artesanais, ... o que torna esta zona num local ideal para quem gosta de viver num ambiente descontraído e calmo. Também para quem quer investir, Marvila é possivelmente a Freguesia de Lisboa com maior potencial de valorização nos próximos anos. \nO Prateato conta com três estilos diferentes de lofts e apartamentos, \"Green\", \"Classic\" e \"Terrace\", para proporcionar aos futuros residentes a hipótese de poderem escolher o apartamento de acordo com as necessidades e com o estilo de vida que têm. Neste Bairro junto ao Rio Tejo vemos hoje os antigos armazéns transformados em espaços de co-work, incubadoras de empresas, galerias de arte, espaços culturais diversos e restaurantes do mundo. É o Beer District de Lisboa com três fábricas de cerveja artesanal. Facilidade e rapidez nos acessos ao centro da cidade.\nEste apartamento especificamente, está localizado à entrada do empreendimento e é composto por uma suite mais um quarto, garagem para 1 carro e um simpático jardim de quarenta metros quadrados.\nOportunidade única na zona oriental de Lisboa.",
+  "geo": {
+    "lat": 38.74067,
+    "lng": -9.102707
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,31 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=53052&foto=1525198&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=53052&foto=1525198&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 142,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }
