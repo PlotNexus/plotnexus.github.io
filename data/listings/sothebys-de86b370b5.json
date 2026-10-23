@@ -8,23 +8,40 @@
   "bedrooms": 3,
   "bathrooms": 1,
   "area_m2": 9,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75410&foto=1620156&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75410&foto=1620156&f=1",
+  "description": "Uma oportunidade verdadeiramente rara no coração de Cacela Velha, uma das vilas mais emblemáticas e preservadas do Algarve.\n\nCom vistas abertas sobre a Ria Formosa e o Oceano Atlântico, esta propriedade distingue-se não apenas pela sua localização excecional, mas também pelo projeto de arquitetura totalmente aprovado, pensado para valorizar a identidade histórica da vila enquanto introduz conforto contemporâneo, privacidade e luminosidade.\n\nO projeto prevê a renovação e ampliação da moradia para cerca de 190 m² de área construída, distribuídos por três amplas suítes, espaços de estar e jantar em conceito aberto e uma forte ligação entre interior e exterior. O jardim mediterrânico murado cria um ambiente reservado e tranquilo, complementado por vários terraços panorâmicos com vista sobre os telhados caiados de branco de Cacela Velha, a Ria Formosa e o mar.\n\nCada detalhe foi concebido para respeitar o caráter autêntico algarvio, incorporando simultaneamente soluções modernas de conforto e eficiência energética, com certificação prevista A/A+.\n\nInserida numa zona histórica protegida, onde oportunidades deste género são extremamente limitadas, esta é uma propriedade singular — ideal como residência principal, casa de férias exclusiva ou investimento patrimonial no Algarve Oriental.\n\nA poucos passos da praia, de restaurantes de referência e da beleza natural única do Parque Natural da Ria Formosa, oferece um estilo de vida raro, marcado pela tranquilidade, autenticidade e ligação à natureza.\n\nCacela Velha encontra-se a apenas 15 minutos de Tavira, 45 minutos do Aeroporto Internacional de Faro e 25 minutos da fronteira com Espanha.",
+  "geo": {
+    "lat": 37.1593589037605,
+    "lng": -7.54288673399844
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-cacela-velha-vila-real-de-santo-antonio_pt_75410",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75410&foto=1620156&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75410&foto=1620156&f=1"
   ],
-  "features": null,
+  "features": {
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons, Porto de Mar)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Clínica, Farmácia, Jardins, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 9,
-  "area_bruta_m2": null,
+  "area_util_m2": 4,
+  "area_bruta_m2": 9,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

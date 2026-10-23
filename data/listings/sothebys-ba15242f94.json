@@ -8,23 +8,55 @@
   "bedrooms": 3,
   "bathrooms": 5,
   "area_m2": 353,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80990&foto=1654954&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80990&foto=1654954&f=1",
+  "description": "Apresentamos uma oportunidade única de investimento numa das zonas mais prestigiadas da cidade: a Foz do Douro, junto ao emblemático Passeio Alegre. Trata-se de uma moradia para reabilitação, com projeto de arquitetura já em fase de aprovação, que combina o charme da localização à modernidade de uma habitação pensada ao detalhe, com o carisma de uma fachada preservada. O projeto contempla uma elegante moradia de quatro pisos e ainda um terraço na cobertura, com uma área bruta de habitação com 353 metros quadrados, pensada para proporcionar conforto, funcionalidade e sofisticação. A área social no primeiro piso destaca-se por uma ampla sala comum com 65 metros quadrados, com ligação direta a um agradável jardim privativo e uma pequena varanda voltada ao jardim do Passeio Alegre, ideal para momentos de lazer e convívio. A cozinha, com 11 metros quadrados, é desenhada com ligação à zona de jantar, complementada por um WC social. Na zona privada, encontram-se três generosas suítes, duas das quais com closet, com áreas de 9 metros quadrados, 19 metros quadrados e 27 metros quadrados, garantindo total conforto e privacidade. A moradia inclui ainda uma segunda sala ou escritório com 40 metros quadrados, perfeita para trabalho remoto ou espaço multifuncional. O projeto contempla um elevador com acesso a todos os pisos e garagem para dois carros com 46 metros quadrados, lavandaria e zona de arrumos. No topo, a cobertura revela um magnífico terraço com cerca de 55 metros quadrados, ideal para desfrutar de vistas desafogadas e momentos ao ar livre. Inserido numa zona cosmopolita da Foz Velha, com proximidade a comércio tradicional, restaurantes e serviços e ainda a 10 minutos a pé do colégio Inglês, Oporto British School. As praias, a marginal do Rio e a Avenida Brasil estão ao virar da esquina. Uma vez localizado na Foz Velha, zona classificada como Área de Reabilitação Urbana, o que proporcionará na execução da obra, a obtenção de benefícios fiscais.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-em-banda-foz-do-douro-porto_pt_80990",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80990&foto=1654954&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80990&foto=1654954&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 4; Vão de Telhado / Sotão"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Cerâmica, Pintado)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 46; Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Bons, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 353,
-  "area_bruta_m2": null,
+  "area_util_m2": 307,
+  "area_bruta_m2": 353,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

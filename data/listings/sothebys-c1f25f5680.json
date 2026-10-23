@@ -8,23 +8,48 @@
   "bedrooms": 2,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75495&foto=1506529&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75495&foto=1506529&f=1",
+  "description": "Extraordinário apartamento de dois quartos + um, em Duplex, com 207 metros quadrados de área bruta privativa, situado na emblemática Foz Velha, que eleva o conceito de vivência costeira de luxo. \nEm frente ao oceano, com fachada a poente voltada para o mar, cada ambiente foi criado para maximizar a luz natural e as vistas deslumbrantes sobre a zona costeira. \nInserido num edifício de traça antiga, este charmoso apartamento encontra-se implantado numa zona urbana de prestígio, onde cafés históricos e elegantes esplanadas se alinham junto à orla marítima. \nO acesso ao edifício é feito pela fachada a nascente, ao nível da rua. Na fachada a poente, a fração encontra-se numa cota elevada ao nível da rua. No primeiro piso, existe um corredor que distribui, para um lado, a casa de banho social e a cozinha, e para o outro lado, uma ampla e luminosa sala com uma vista impactante sobre o mar. A cozinha com bancadas em mármore, está totalmente equipada com forno, placa, microondas, frigorífico e exaustão. No piso inferior temos um corredor que distribui para sul, duas suites com armários embutidos e casas de banho completas com base de chuveiro, e para nascente, uma sala com casa de banho completa e arrumos. No meio deste corredor temos duas portas ocultas, uma com a zona técnica, e outra, com arrumação. Todos as divisões dispõem de A/C e o aquecimento é feito por piso radiante. Caixilharia com corte térmico em madeira kambala, com vidro duplo. O pavimento é soalho de madeira e todas as casas de banho em pedra mármore. Os armários embutidos e portas são MDF com acabamento lacado branco, conferindo a este cativante apartamento um ambiente ainda mais luminoso e sereno.\nEste exclusivo T2 Duplex na Foz Velha representa uma rara oportunidade de viver na primeira linha de mar, com acesso pedonal a farmácias, restaurantes, pastelarias, supermercados, e a 10 minutos de carro da via de cintura interna.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/duplex-foz-velha-porto_pt_75495",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75495&foto=1506529&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75495&foto=1506529&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 207,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

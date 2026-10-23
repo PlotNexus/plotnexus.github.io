@@ -8,23 +8,66 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 5,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82389&foto=1690366&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82389&foto=1690366&f=1",
+  "description": "Esta moradia T3 está localizada no prestigiado Gramacho Golf Resort, entre Carvoeiro e Ferragudo, no Algarve. Inserida num condomínio fechado que integra um campo de golfe de referência na região, destaca-se pela segurança 24 horas, pela gestão profissional do empreendimento e pela sua localização privilegiada.\n\nConstruída em 2001, esta moradia distribui-se por dois pisos e conta com 198,5 metros quadrados de área bruta de construção e 183,2 metros quadrados de área bruta privativa. A distribuição dos espaços foi concebida para proporcionar conforto e funcionalidade, quer para residência permanente, quer para casa de férias ou investimento.\n\nNo piso térreo encontram-se a cozinha, a sala de estar e de jantar, uma casa de banho social, dois quartos e uma segunda casa de banho completa de apoio aos quartos. No exterior, a propriedade dispõe de piscina privativa, jardim, zona de barbecue e espaço para estacionamento. No primeiro piso situa-se a suite principal, complementada por uma varanda com exposição solar a sul e poente. A moradia está equipada com ar condicionado e sistema de alarme, proporcionando maior comodidade e segurança aos seus ocupantes.\n\nA moradia integra um condomínio com gestão profissional que inclui manutenção de jardins, serviço de piscina, administração e segurança permanente. Os proprietários beneficiam ainda de um desconto de 40% na utilização dos campos de golfe do resort, uma mais-valia para os apreciadores da modalidade.\n\nA localização permite acesso rápido a supermercados situados a curta distância a pé, restaurantes, incluindo um restaurante dentro do próprio condomínio, escolas, serviços de saúde e diversas comodidades essenciais ao dia a dia.\n\nCom proximidade às principais vias rodoviárias do Algarve, esta propriedade beneficia de boas ligações a Carvoeiro, Ferragudo, Portimão e às praias da região. A envolvente combina a tranquilidade de um resort de golfe com a conveniência de estar próximo de zonas comerciais, serviços e pontos de interesse do Algarve.\n\nUma oportunidade para quem procura uma moradia com piscina, inserida num condomínio de golfe com segurança 24 horas, gestão integrada e uma localização estratégica entre Carvoeiro e Ferragudo.",
+  "geo": {
+    "lat": 37.1267162369091,
+    "lng": -8.48899868308106
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-estombar-e-parchal-lagoa-algarve_pt_82389",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82389&foto=1690366&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82389&foto=1690366&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Portadas"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Rega Automática",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Estucado, Ponto de Luz)",
+      "Equipamento (Jardins, Rega Automática, Sala Condomínio, Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_util_m2": 2,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

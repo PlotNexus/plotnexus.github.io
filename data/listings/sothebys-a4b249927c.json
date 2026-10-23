@@ -8,22 +8,81 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82211&foto=1676180&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82211&foto=1676180&f=1",
+  "description": "Este apartamento com três quartos goza de uma localização ideal no Funchal (inserido no referenciado condomínio \"The Place\"), combinando simultaneamente uma extraordinária vista sobre a baía da capital e uma proximidade dos mais diversos serviços. \nSituado na zona dos Barreiros, está incluído num condomínio privado com jardins, duas piscinas, dois lugares de estacionamento, arrecadação e ligação para carregamento de automóvel elétrico. A ampla sala virada a Sul é acompanhada por uma cozinha em espaço semiaberto, assim como uma arrecadação próxima. \nO quarto principal possui uma casa de banho privativa e os restantes dois quartos partilham a outra casa de banho. Todas as divisões deste apartamento são bastante bem iluminados por luz natural e exposição solar direta, sendo valorizada a qualidade dos materiais utilizados, assim como as várias áreas deste moderno imóvel. \nNas proximidades não apenas se encontram bons acessos, quer ao centro do Funchal, como à via rápida que permite a saída da cidade, mas igualmente serviços diversos como escolas, farmácias, supermercados, hospital, entre vários outros. \nEsta é sem dúvida uma excelente opção moderna, confortável, prática, sossegada e bastante bem servida de comodidades diversas nas proximidades.",
+  "geo": {
+    "lat": 32.6505408916664,
+    "lng": -16.9285583496094
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-sao-martinho-funchal_pt_82211",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82211&foto=1676180&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82211&foto=1676180&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Portadas",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Aquecimento Central (Pré-Instalação)",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Gás Canalizado",
+      "TV-Cabo",
+      "Piscina (Exterior)",
+      "Ginásio (Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)",
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Granito)",
+      "Pavimento (Mármore)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado)",
+      "Equipamento (Gás Canalizado, Gerador de Emergência, Jardins, Parque Infantil, Rega Automática, Sala Condomínio, TV Cabo)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Porto de Mar)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 188,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

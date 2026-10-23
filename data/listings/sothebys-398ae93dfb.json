@@ -8,23 +8,26 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79267&foto=1597568&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79267&foto=1597568&f=1",
+  "description": "Localizada numa das zonas mais exclusivas e tranquilas do Algarve, esta moradia independente oferece o equilíbrio perfeito entre conforto, privacidade e proximidade às melhores atrações de Vilamoura. A poucos minutos da Marina, das praias e dos prestigiados campos de golfe, esta é uma oportunidade única para viver ou investir numa das áreas mais valorizadas da região.\n\nInserida num lote de 450 m², com área concessionada adicional de cerca de 400 m², a propriedade dispõe de 177 m² de área bruta, distribuída por três quartos (dois em suíte), três casas de banho, ampla sala de estar e jantar com muita luz natural e cozinha totalmente equipada.\n\nO exterior foi pensado para desfrutar ao máximo do estilo de vida algarvio, contando com um jardim privado, piscina de 10 m x 3,8 m e uma zona de barbecue perfeita para convívios ao ar livre. A moradia inclui ainda garagem, arrecadação, ar condicionado em todas as divisões e aquecimento central, garantindo conforto em qualquer época do ano.\n\nCom excelentes áreas e uma localização privilegiada, esta moradia é ideal tanto para residência permanente como para rentabilização através de arrendamento.",
+  "geo": {
+    "lat": 37.0925627709765,
+    "lng": -8.10700385781098
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-vilamoura-loule_pt_79267",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79267&foto=1597568&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79267&foto=1597568&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 5,
+  "area_bruta_m2": 360,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

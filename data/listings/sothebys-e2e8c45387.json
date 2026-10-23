@@ -8,23 +8,45 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 293,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81058&foto=1639640&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81058&foto=1639640&f=1",
+  "description": "Moradia isolada T4 localizada em Morelinho, Sintra, ideal para quem procura viver numa zona tranquila, com proximidade à natureza e bons acessos a Lisboa. Com uma organização funcional e áreas generosas, esta propriedade destaca-se pela sua distribuição equilibrada e pela ligação entre os espaços interiores e exteriores.\n\nCom 293 m² de área bruta privativa, esta moradia dispõe de quatro quartos, incluindo uma suíte, e três casas de banho. No piso térreo encontra-se uma ampla sala de estar com lareira e recuperador de calor, sala de jantar, cozinha equipada com acesso direto ao jardim, lavandaria, escritório/quarto e uma casa de banho social.\n\nNo piso superior, a zona privada inclui uma master suite com varanda e vista para a Serra de Sintra, dois quartos adicionais, uma casa de banho completa e zona de arrumos com acesso ao sótão. A exposição solar a sul, nascente e poente garante boa luminosidade ao longo do dia.\n\nO exterior conta com jardim, árvores de fruto, zona de estendal coberto, arrumação de lenha e telheiro com capacidade para duas viaturas. A moradia está equipada com aquecimento central, vidros duplos, vídeo porteiro, alarme, painéis fotovoltaicos e carregador para veículos elétricos.\n\nLocalizada a cerca de 10 minutos da A16 e da estação de comboios de Portela de Sintra, permite uma ligação rápida a Lisboa. Na envolvente encontra-se uma vasta oferta de supermercados, escolas e serviços essenciais.\n\nInserida numa zona residencial consolidada, esta moradia oferece uma combinação entre privacidade, funcionalidade e proximidade urbana, sendo uma opção sólida para residência permanente ou investimento.",
+  "geo": {
+    "lat": 38.8028097,
+    "lng": -9.3840983
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-morelinho-sintra_pt_81058",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81058&foto=1639640&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81058&foto=1639640&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2; Vão de Telhado / Sotão"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 293,
-  "area_bruta_m2": null,
+  "area_util_m2": 249,
+  "area_bruta_m2": 293,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

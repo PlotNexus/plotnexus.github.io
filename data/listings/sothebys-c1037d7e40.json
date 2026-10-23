@@ -8,23 +8,26 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=57578&foto=1062072&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=57578&foto=1062072&f=1",
+  "description": "Moradia Isolada recentemente renovada na integra, situada em uma zona tranquila com bastante privacidade, a apenas 10 minutos de carro da praia da Galé. Esta moradia de linhas tradicionais contem três quartos, no qual um deles em suite , duas casas de banho, uma sala com um óptimo pé direito e uma cozinha com bastante luz natural.A propriedade é composta por um anexo independente, também recentemente renovado na totalidade composto por um quarto, uma casa de banho, cozinha equipada e uma sala com decoração moderna.",
+  "geo": {
+    "lat": 37.1264754,
+    "lng": -8.2996637
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-albufeira-albufeira_pt_57578",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=57578&foto=1062072&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=57578&foto=1062072&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 180,
+  "area_bruta_m2": 196,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

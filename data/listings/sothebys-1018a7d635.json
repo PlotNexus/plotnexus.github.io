@@ -8,23 +8,72 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75019&foto=1490608&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75019&foto=1490608&f=1",
+  "description": "Exclusivo apartamento de 3 quartos com vista mar situado na prestigiada Freguesia da Foz do Douro, no distrito do Porto.\n \nCom uma área generosa de mais 149 metros quadrados, este moderno apartamento oferece um estilo de vida luxuoso e confortável. Inserido num condomínio premiado internacionalmente, o imóvel destaca-se pela sua arquitetura contemporânea, pelos materiais de alta qualidade utilizados e pelos seus espaços exteriores. \n\nO apartamento possui uma suite e mais 2 quartos servidos por uma casa de banho completa, além de um WC de apoio à área social. \n\nA espaçosa e luminosa sala, com 40 metros quadrados, proporciona acesso a uma maravilhosa varanda com vista sobre o oceano. \n\nCom uma cozinha totalmente equipada com eletrodomésticos da marca SMEG.\n\nTodas as divisões têm acesso a uma ampla varanda com mais de 44 m2.\n\nOs acabamentos nobres e os equipamentos modernos, como sistema de domótica, alarme de intrusão, piso radiante, ar condicionado na suíte e painéis solares, garantem conforto e segurança aos moradores. \n\nAlém disso, o imóvel oferece estacionamento em box privativa para 2 carros, proporcionando conveniência e praticidade. \n\nA sua localização privilegiada coloca-o próximo à Universidade Católica, ao Museu de Serralves e a colégios internacionais de renome. \n\nCom fácil acesso a comércio, supermercados e uma variedade de serviços, bem como à VCI, os moradores desfrutam de uma vida urbana dinâmica e confortável. \n\nPara quem aprecia atividades ao ar livre, o imóvel está a uma curta distância a pé do rio e do mar, perfeito para caminhadas e prática de desportos. \n\nCom excelente acessibilidade a transportes públicos, restaurantes e bares, bem como a hospitais públicos e privados, esta residência é ideal para quem busca uma vida urbana sofisticada e conveniente.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-foz-do-douro-porto_pt_75019",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75019&foto=1490608&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75019&foto=1490608&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Video-Porteiro",
+      "Aspiração Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins, Sala Condomínio, Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 25,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

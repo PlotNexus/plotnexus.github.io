@@ -8,23 +8,64 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81173&foto=1709212&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81173&foto=1709212&f=1",
+  "description": "Este apartamento de tipologia T2, com 20 m² de terraço privativo, foi pensado para quem valoriza o equilíbrio entre o design contemporâneo e o bem estar. Localizado na Estrela e inserido no exclusivo condomínio Villa Infante, um projeto concluído em 2024 e assinado pelo arquiteto Frederico Valsassina, este apartamento oferece uma vivência fluida e confortável em plena cidade.\n\nCom 107 m² de área bruta privativa, privilegia a relação entre os espaços interiores e exteriores. Localizado no rés-do-chão, apresenta uma distribuição funcional e equilibrada, com dois quartos, um dos quais em suite, e três casas de banho. A cozinha em open space integra-se harmoniosamente na zona social, criando um ambiente fluido e acolhedor. O terraço privativo, com 20 m² e exposição solar a poente, prolonga naturalmente a área interior e oferece um espaço versátil para refeições ao ar livre, momentos de lazer ou simplesmente para desfrutar da luz das tardes de Lisboa.\n\nO apartamento destaca-se ainda pela sua capacidade de arrumação, com diversos armários integrados, e dispõe também de um lugar de garagem, elevador e bicicletário.\n\nOs residentes têm acesso a um ginásio exclusivo do condomínio, equipado com aparelhos de topo de gama, bem como a amplas áreas ajardinadas que envolvem o condomínio e reforçam a sensação de tranquilidade e privacidade. O condomínio dispõe ainda de serviço de portaria de segunda a sexta-feira, entre as 9h00 e as 18h00.\n\nA localização é mais um dos dos grandes atributos desta propriedade. A Estrela combina o carácter residencial e a autenticidade de um dos bairros históricos de Lisboa com uma oferta diversificada de comércio, restauração, serviços e espaços culturais. \n\nNas proximidades encontram-se a Tapada das Necessidades, o Rio Tejo e diversos pontos de interesse que permitem desfrutar plenamente do estilo de vida lisboeta.\n\nCom uma rede de transportes diversificada e acessos privilegiados às principais vias de circulação, incluindo a Ponte 25 de Abril, a localização proporciona uma ligação eficiente ao centro de Lisboa, a diferentes zonas da cidade e à margem sul.\n\nEste apartamento representa uma oportunidade para quem procura uma residência contemporânea, pronta a habitar, com terraço privativo, estacionamento e as comodidades de um condomínio de referência, numa das localizações mais distintas de Lisboa.\n\nA mobília poderá ser negociada.",
+  "geo": {
+    "lat": 38.7056646,
+    "lng": -9.1692889
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-lisboa-lisboa_pt_81173",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81173&foto=1709212&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81173&foto=1709212&f=1"
   ],
-  "features": null,
+  "features": {
+    "Caixilharia": [
+      "Madeira",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Rega Automática",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado, Vidro (painéis))",
+      "Pavimento (Granito)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Jardins, Parque Infantil, Rega Automática, TV Cabo, Zelador / Porteiro)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 107,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

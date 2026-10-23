@@ -8,23 +8,33 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74605&foto=1504954&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74605&foto=1504954&f=1",
+  "description": "OAK35 é um empreendimento exclusivo composto por 22 apartamentos T2, T3 e T4, localizado numa das áreas mais prestigiadas de Vilamoura. Esta localização privilegiada oferece um ambiente tranquilo e de baixa densidade, garantindo privacidade sem comprometer a proximidade a tudo o que torna Vilamoura um destino único.\n\nDesenhado com uma atenção meticulosa aos detalhes, o OAK35 combina funcionalidade, elegância e um design sofisticado, criando espaços que unem conforto e caráter. Cada apartamento foi cuidadosamente concebido para oferecer os mais altos padrões de qualidade, com acabamentos premium e layouts inteligentes que elevam a experiência do dia a dia. As amplas varandas e janelas panorâmicas garantem uma luminosidade única e uma ligação harmoniosa com o exterior, enquanto os materiais selecionados asseguram sofisticação e durabilidade.\n\nNum cenário exclusivo e sereno, o OAK35 representa a escolha ideal para quem procura privacidade, uma localização privilegiada e um estilo de vida sofisticado.",
+  "geo": {
+    "lat": 37.0695602517,
+    "lng": -8.1025028228
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-quarteira-loule_pt_74605",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74605&foto=1504954&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74605&foto=1504954&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 115,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

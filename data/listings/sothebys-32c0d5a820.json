@@ -8,23 +8,63 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77805&foto=1585729&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77805&foto=1585729&f=1",
+  "description": "Luminosa Penthouse Duplex T4 com vistas panorâmicas deslumbrantes do Rio Tejo e da Ponte 25 de Abril, situada na freguesia da Estrela.\n\nCom uma área bruta privativa de 145m² e uma varanda corrida de 11m², esta propriedade está inserida num prédio de traça clássica, localizado na emblemática Praça da Armada, uma das praças mais encantadoras de Lisboa, pontuada por majestosos jacarandás e envolta num ambiente de história, cultura e património arquitectónico.\n\nNo primeiro piso deste Duplex, encontramos a zona social, a cozinha fechada, a master suite, uma casa de banho social e uma lavandaria com arrumos. Este piso desfruta de cinco porta-janelas orientadas a Sul. O piso superior oferece três quartos banhados por luz natural proveniente de quatro janelas Velux e mais uma casa de banho. Esta residência surpreende pela luminosidade, pela harmonia dos materiais nobres e pelo cuidado nos detalhes. As portadas originais em madeira e o soalho de madeira maciça reforçam o carácter autêntico e acolhedor deste apartamento. A abundante arrumação e a funcionalidade do layout tornam-no perfeito para quem valoriza estética e conforto.\n\nO edifício, orientado a Sul e composto por apenas quatro fracções e uma loja no rés-do-chão, mantém todo o encanto da arquitectura tradicional lisboeta. O acesso faz-se por uma escadaria em ferro forjado, bonita e bem iluminada. Embora não possua elevador, existe viabilidade técnica para a instalação de um elevador exterior na fachada tardóz. O prédio foi totalmente remodelado no início dos anos 2000 e, mais recentemente, as fachadas e a escadaria foram integralmente renovadas em 2024, encontrando-se em excelente estado de conservação. O apartamento apresenta-se igualmente impecável.\n\nLocalização privilegiada, próxima do Lisboan International School, do Hospital Privado CUF Tejo, das avenidas 24 de Julho, de Ceuta e Infante Santo, do Ministério dos Negócios Estrangeiros, do Palácio e da Tapada das Necessidades, da LX Factory, das Docas de Santo Amaro e das margens do Tejo. A zona dispõe de excelentes acessos e transportes: entre as futuras estações de metro de Infante Santo e Alcântara, nas imediações das estações de comboio de Alcântara-Terra e Alcântara-Mar, com fácil ligação à estrada marginal de Cascais, à Ponte 25 de Abril e várias auto-estradas.\n\nUma casa com alma, ideal para quem procura viver ou investir numa das áreas mais vibrantes de Lisboa, numa zona em plena requalificação e com forte potencial de valorização.",
+  "geo": {
+    "lat": 38.7049487,
+    "lng": -9.1707527
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/ultimo-pisopenthouse-estrela-lisboa_pt_77805",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77805&foto=1585729&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77805&foto=1585729&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 5"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Portadas",
+      "Velux / Telhado",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Gás Canalizado",
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Gás Canalizado)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 145,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }
