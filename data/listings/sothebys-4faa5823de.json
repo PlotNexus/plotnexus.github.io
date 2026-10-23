@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": 27,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70144&foto=1365648&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70144&foto=1365648&f=1",
+  "description": "Quinta de charme na freguesia de Colares inserida num lote com 7640m2 numa zona histórica de Sintra.\nQuinta da Abreja com linhas rústicas e árvores exóticas no seu exterior que dispõe de uma linha de água natural que acompanha todo o lote.\n\nNo R/C observamos o hall de entrada com um quarto e uma casa de banho que podem ficar independentes, uma cozinha ampla com acabamentos em madeira, sala de estar com acesso a um terraço com cerca de 100m2 e a ligação a uma suíte com banheira de hidromassagem, um escritório e uma área de lavandaria.\nGaragem independente com 70m2 e uma casa de caseiros com cerca de 60m2.\nNo 1º piso existem duas suítes e diversas varandas e áreas exteriores.\n\nTerreno com uma dimensão de destaque no centro de uma das freguesias mais desejadas no coração da Serra de Sintra com vista sobre o palácio da Pena a poucos minutos de carro da praia grande.",
+  "geo": {
+    "lat": 38.7987347,
+    "lng": -9.4473093
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70144&foto=1365648&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70144&foto=1365648&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 27,
-  "area_bruta_m2": null,
+  "area_util_m2": 84,
+  "area_bruta_m2": 27,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

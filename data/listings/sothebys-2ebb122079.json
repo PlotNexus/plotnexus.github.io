@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77386&foto=1627189&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77386&foto=1627189&f=1",
+  "description": "Na emblemática cidade de Lagos, rodeado de belas praias de areias douradas e arribas, encontramos o Dona Ana Beach Residences. Um condomínio de luxo com spa, piscinas de exterior e interior, ginásio, sauna e jacuzzi, que estará finalizado no final de 2025, estando a apenas 1 km de praias como a D. Ana, Praia do Camilo, Praia do Canavial e Ponta da Piedade. Este local é um importante ponto de referência turístico, sendo, sem dúvida, um dos espaços de maior beleza e história de Portugal.\n\nEsta sumptuosa unidade de 3 quartos, com 147 m² e duas amplas varandas para lazer, dispõe de cozinha e sala de estar/jantar em open space, usufruindo de uma abundante luminosidade que harmoniza com cores neutras e materiais de elevadíssima qualidade.\n\nUma das suas particularidades mais evidentes é, claramente, a sua localização privilegiada, inserida numa área com acessos de qualidade e infraestruturas de apoio para quem deseja usufruir de passeios, refeições e da espetacularidade que a sua posição geográfica elevada proporciona.\n\nAinda que a poucos minutos do centro da cidade, esta zona está muito bem servida de serviços, comércios e unidades hoteleiras, beneficiando tanto residentes permanentes como sazonais. Trata-se também de uma área de grande afluência e atração turística, podendo, por isso, ser considerada uma excelente oportunidade de rentabilidade passiva.",
+  "geo": {
+    "lat": 37.1010549,
+    "lng": -8.6781133
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77386&foto=1627189&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77386&foto=1627189&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 147,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

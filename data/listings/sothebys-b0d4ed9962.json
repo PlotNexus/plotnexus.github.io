@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70575&foto=1375821&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70575&foto=1375821&f=1",
+  "description": "Espantoso apartamento T2 situado no Complexo Turístico Monte Rei situado na extremidade do complexo no último andar com uma vista de tirar o fôlego. Ao entrar, depara-se com um cenário de luminosidade e conforto, onde se destacam os detalhes de requinte e bom gosto. A cozinha em plano aberto e a sala bastante ampla são particularmente impressionantes, com uma janela pitoresca que oferece uma vista de tirar o fôlego para a natureza circundante. Deste ponto, é possível ver a piscina do condomínio, o famoso campo de golfe da região junto ao lago, e toda a zona verde envolvente.\n\nJunto à sala e com ligação à suíte master, encontra-se uma maravilhosa varanda com uma área social de repouso. O apartamento dispõe de dois quartos, sendo um deles uma suíte com bastante luminosidade, graças às suas amplas janelas. Ambos os quartos oferecem conforto e muita arrumação, devido à seleção cuidadosa do mobiliário.\n\nPor estar inserido nas Monte Rei Clubhouse Residences, este apartamento proporciona acesso a diversas comodidades adicionais, incluindo restaurantes requintados, um spa e o campo de golfe Jack Nicklaus Signature. Este ambiente cria um cenário perfeito para que possa relaxar e desfrutar plenamente de uma experiência única na região.",
+  "geo": {
+    "lat": 37.2085461,
+    "lng": -7.5491816
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70575&foto=1375821&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70575&foto=1375821&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 2,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

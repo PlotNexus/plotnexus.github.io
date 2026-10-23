@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 120,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83425&foto=1702237&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83425&foto=1702237&f=1",
+  "description": "Esta magnífica moradia totalmente renovada com conclusão em março de 2024, encontra-se situada no coração do centro histórico de Armação de Pêra, oferecendo uma combinação perfeita entre o charme tradicional da vila e o conforto e modernidade de uma casa recentemente remodelada. Com quatro quartos e quatro casas de banho, a propriedade distribui-se por vários pisos e apresenta espaços amplos, luminosos e cuidadosamente concebidos. No piso térreo, destaca-se uma elegante área em conceito aberto, onde a cozinha moderna se integra com a sala de jantar e a sala de estar, criando um ambiente acolhedor e funcional, ideal para momentos de convívio em família ou com amigos. Nos pisos superiores encontram-se os quatro quartos e as respetivas casas de banho, proporcionando conforto e privacidade. No último piso, a moradia dispõe ainda de um magnífico terraço privado, perfeito para relaxar, desfrutar da vista sobre o centro histórico de Armação de Pêra e apreciar o maravilhoso pôr do sol algarvio. A localização é, sem dúvida, um dos grandes destaques desta propriedade: a praia de Armação de Pêra fica a apenas 2 minutos a pé, permitindo desfrutar do mar e da praia com toda a comodidade. Nas imediações encontra uma excelente variedade de restaurantes, cafés, supermercados, comércio tradicional, farmácias e todos os principais serviços, estando tudo o que necessita a poucos passos de distância. A moradia beneficia ainda de uma localização estratégica para quem pretende explorar o Algarve, com acesso rápido à Via do Infante (A22), permitindo deslocações fáceis para Albufeira, Lagoa, Portimão e outras localidades da região. O Aeroporto Internacional de Faro encontra-se a uma distância aproximadamente de 45 minutos em carro, tornando esta propriedade igualmente conveniente para proprietários e hóspedes que chegam de diferentes pontos da Europa. Uma excelente oportunidade para quem procura uma moradia moderna, espaçosa e pronta a habitar, numa localização privilegiada, junto à praia e no centro de tudo o que Armação de Pêra tem para oferecer.",
+  "geo": {
+    "lat": 37.1021861776453,
+    "lng": -8.35879325856875
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,49 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83425&foto=1702237&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83425&foto=1702237&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Pavimento (Marmorite)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Falso Pladur, Focos, Ponto de Luz)",
+      "Equipamento (TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Norte"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 120,
-  "area_bruta_m2": null,
+  "area_util_m2": 101,
+  "area_bruta_m2": 120,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

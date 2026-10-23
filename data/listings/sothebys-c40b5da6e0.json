@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82656&foto=1694719&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82656&foto=1694719&f=1",
+  "description": "Este elegante apartamento T2, totalmente remodelado e com terraço privativo, representa uma oportunidade distinta numa das zonas mais valorizadas de Lisboa, combinando o charme da arquitetura tradicional da cidade com o conforto e a funcionalidade de uma renovação contemporânea.\n\nInserido num edifício exclusivo composto por apenas quatro frações, o imóvel beneficia de um projeto de reabilitação integral, que contemplou a renovação das estruturas, fachada, cobertura, áreas comuns, bem como das redes de água e eletricidade. O resultado é um ambiente residencial cuidado, reservado e tranquilo, ideal para quem valoriza privacidade e qualidade de vida no centro da cidade.\n\nO terraço privativo acrescenta uma dimensão especial à propriedade, proporcionando um agradável espaço exterior para momentos de lazer e convívio, uma característica particularmente valorizada em Lisboa.\n\nA localização é outro dos seus grandes atributos. Situado num eixo privilegiado entre Campo de Ourique, o Largo do Rato e as Amoreiras, permite desfrutar de uma vivência essencialmente pedonal, com acesso imediato a uma ampla oferta de comércio tradicional, pastelarias, restaurantes de referência, ginásios, farmácias e serviços.\n\nA poucos minutos a pé da estação de Metro do Rato e de diversas ligações de transportes públicos, encontra-se igualmente próximo do Centro Comercial Amoreiras, do Jardim da Estrela e de algumas das mais prestigiadas escolas e colégios da cidade.\n\nUma propriedade que alia autenticidade, conforto contemporâneo e um espaço exterior privativo, numa localização central e particularmente procurada de Lisboa.",
+  "geo": {
+    "lat": 38.7190916,
+    "lng": -9.1555758
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82656&foto=1694719&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82656&foto=1694719&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 1,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

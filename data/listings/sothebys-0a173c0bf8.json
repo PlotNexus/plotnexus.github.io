@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80547&foto=1662754&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80547&foto=1662754&f=1",
+  "description": "Descubra este exclusivo apartamento T3 no condomínio privado Manare Residence, um empreendimento de apenas cinco unidades situado em Alcabideche, numa localização privilegiada entre Cascais, Sintra e Lisboa.\n\nA poucos minutos de prestigiadas escolas internacionais, como a International Preparatory School, a TASIS Portugal, a Carlucci American International School of Lisbon e a Butterfly, bem como de comércio, serviços e acessos à A5 e A16, oferece a combinação ideal entre tranquilidade residencial e conveniência urbana.\n\nCom 168 m² de área bruta de construção e 132 m² de espaço exterior privativo, o apartamento destaca-se pelas áreas generosas e excelente relação entre interior e exterior. Dispõe de uma ampla sala de estar e jantar com cozinha em open space, WC social, uma master suite e dois quartos apoiados por uma casa de banho completa.\n\nNo exterior, beneficia de um terraço com acesso pela sala e por um dos quartos, bem como de um jardim privativo com jacuzzi, acessível pela master suite e por outro quarto.\n\nA propriedade inclui ainda dois lugares de estacionamento em garagem fechada e uma arrecadação.\n\nO Manare Residence oferece um estilo de vida marcado pelo conforto, privacidade e funcionalidade, num ambiente residencial exclusivo que combina a serenidade do quotidiano com a proximidade de tudo o que é essencial.",
+  "geo": {
+    "lat": 38.7368866,
+    "lng": -9.3833138
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,24 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80547&foto=1662754&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80547&foto=1662754&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 140,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

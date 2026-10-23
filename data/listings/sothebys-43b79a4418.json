@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 75,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82755&foto=1686215&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82755&foto=1686215&f=1",
+  "description": "Esta moradia T4 apresenta uma arquitetura moderna e distingue-se pelas áreas generosas, pela luz natural e pelo excelente estado de conservação. O ideal para uma família que gosta de conviver e procura conforto e tranquilidade.\n\nNo piso principal, encontra-se uma ampla zona social composta por sala de estar com lareira, sala de jantar e a cozinha em ilha. As grandes janelas permitem uma excelente entrada de luz e estabelecem uma ligação direta ao jardim e às zonas exteriores.\n\nA área privada é composta por quatro quartos com roupeiros embutidos, incluindo uma suíte com closet e uma casa de banho completa, e por uma casa de banho de serviço, com varanda ao longo dos quartos e acesso ao pátio superior, onde se pode observar uma paisagem verde e usufruir da luz natural durante todo o dia.\n\nUm dos pontos fortes desta moradia é a piscina interior, que permite a sua utilização durante todo o ano.\n\nNo exterior, encontra-se um jardim bem cuidado e uma zona de churrasqueira, ideal para refeições e para momentos em família ou com amigos.\n\nA casa dispõe ainda de climatização, lareira, pavimento em madeira na zona dos quartos, caixilharia de qualidade e vários espaços de arrumação, assim como, uma garagem privada para 2 carros e uma cave com casa de banho.\n\nEsta propriedade está a 10 minutos do centro de Santo Tirso, 15 minutos de Paços de Ferreira e a 30 minutos do centro do Porto.",
+  "geo": {
+    "lat": 41.2788385144962,
+    "lng": -8.48466396326709
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,60 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82755&foto=1686215&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82755&foto=1686215&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Gás Canalizado",
+      "TV-Cabo",
+      "Alarme (Completo)",
+      "Piscina (Interior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa)",
+      "Pavimento (Tijoleira)",
+      "Paredes (Monomassa)",
+      "Tecto (Focos)",
+      "Equipamento (Gás Canalizado, TV Cabo)",
+      "Piscina (Interior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 32.5; Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Escolas, Farmácia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 75,
-  "area_bruta_m2": null,
+  "area_util_m2": 7,
+  "area_bruta_m2": 75,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

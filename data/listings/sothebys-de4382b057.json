@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 5,
   "area_m2": 9,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81242&foto=1681332&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81242&foto=1681332&f=1",
+  "description": "Exclusiva moradia isolada com quatro quartos com 545 metros quadrados de área bruta de construção, inserida num lote de terreno com 928 metros quadrados, em pleno centro da cidade da Maia. A área social é composta por uma ampla sala comum com lareira, apoiada por uma varanda e jardim na frente da casa, orientada a Poente. A cozinha, com cerca de 22 metros quadrados dispõe de uma copa e de uma despensa. Ainda neste piso está incluída a zona privada, composta por um escritório/quarto, uma casa de banho completa de apoio à zona social, duas suites. No primeiro piso, existe uma sala com 45 metros quadrados, utilizada como suíte. A semi-cave abriga uma sala multiusos com recuperador de calor, uma cozinha e uma casa de banho completa, e abre-se para o jardim tardoz. Garagem para 2 viaturas, zona de tratamento de roupa, churrasqueira, uma casa de banho e arrumos diversos estão acomodados no fundo do terreno. A casa, construída nos anos oitenta, apresenta linhas arquitetónicas da época e está equipada com aquecimento por pavimento radiante. A distribuição funcional das divisões proporciona um ambiente acolhedor e harmonioso. Esta é uma oportunidade única de viver numa localização privilegiada, com acesso a comércio e serviços, escolas e colégios internacionais, e todas as comodidades da cidade, mantendo a serenidade e o charme de uma moradia exclusiva. A uma curta distância a pé do metro e do centro da cidade da Maia. Proporciona um estilo de vida cosmopolita com a facilidade de comércio e serviços nas redondezas.",
+  "geo": {
+    "lat": 41.2335046,
+    "lng": -8.6207793
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,43 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81242&foto=1681332&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81242&foto=1681332&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Edifício": [
+      "Revestimento Exterior (Pintado)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 37; Eletricidade",
+      "Luz",
+      "Local (Exterior)"
+    ],
+    "Zona": [
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 9,
-  "area_bruta_m2": null,
+  "area_util_m2": 4,
+  "area_bruta_m2": 9,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

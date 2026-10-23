@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82343&foto=1688545&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82343&foto=1688545&f=1",
+  "description": "No coração da zona histórica de Carnide, encontra esta moradia única, com 145 m² de área, onde o charme da arquitetura tradicional se alia ao conforto de uma casa pensada para o dia a dia.\n\nCom uma configuração T2+1, a habitação oferece espaços amplos e luminosos, ideais para quem valoriza privacidade e funcionalidade. O terceiro quarto encontra-se num ambiente independente no exterior, proporcionando a solução perfeita para receber familiares, criar um escritório, um atelier ou um espaço de hóspedes.\n\nO espaço exterior é um dos grandes destaques desta propriedade. Dividido em dois ambientes distintos, convida a desfrutar de momentos de convívio, refeições ao ar livre ou simplesmente a relaxar num ambiente tranquilo e reservado, longe do ritmo acelerado da cidade.Carnide é um dos bairros mais autênticos e históricos de Lisboa. Com origem no século XII, preserva a identidade de uma antiga aldeia saloia, oferecendo ruas empedradas, um forte espírito de comunidade e uma atmosfera única que faz esquecer que estamos na capital. A poucos minutos de casa encontra a emblemática Zona Antiga de Carnide, a Igreja de São Lourenço, o Santuário de Nossa Senhora da Luz e agradáveis espaços verdes, como o Parque da Quinta da Luz e o Parque da Quinta do Bom Nome. A vida no bairro é enriquecida por uma excelente oferta de restaurantes tradicionais, esplanadas acolhedoras e comércio local, tornando cada passeio uma experiência genuinamente lisboeta.Além do seu ambiente singular, Carnide beneficia de excelentes acessibilidades, com a estação de Metro de Carnide (Linha Azul), diversas carreiras da Carris e rápidos acessos aos principais eixos rodoviários da cidade. Esta é mais do que uma moradia. É uma oportunidade de viver num dos bairros mais carismáticos de Lisboa, onde a história, a tranquilidade e a qualidade de vida se encontram todos os dias.\n\nSe procura uma casa com personalidade, espaço exterior e uma localização verdadeiramente especial, esta poderá ser a sua próxima casa.",
+  "geo": {
+    "lat": 38.7605095743108,
+    "lng": -9.18367662275386
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82343&foto=1688545&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82343&foto=1688545&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 150,
+  "area_bruta_m2": 228,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

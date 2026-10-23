@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 303,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80987&foto=1639176&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80987&foto=1639176&f=1",
+  "description": "Inserida na valorizada zona residencial das Encostas das Oliveiras, esta elegante moradia T3 destaca-se pelo seu ambiente tranquilo, privacidade e proximidade à marina, campos de golfe e praias, oferecendo o equilíbrio perfeito entre serenidade e estilo de vida sofisticado.\n\nCom excelente exposição solar e abundante luz natural, a propriedade apresenta espaços amplos e bem distribuídos, que se prolongam para agradáveis áreas exteriores, incluindo piscina privada, jardim e terraços ideais para momentos de lazer ou convívio.\n\nNo piso principal, a sala de estar beneficia de acesso direto ao exterior, complementada por cozinha totalmente equipada, um quarto e uma casa de banho. No piso superior, encontram-se dois quartos, incluindo uma suíte, e um segundo quarto com acesso a uma generosa varanda com vista para a piscina.\n\nO piso inferior oferece uma área versátil, perfeita para diferentes utilizações, bem como garagem/cave privada.\n\nTrata-se de uma excelente oportunidade, seja para residência permanente, casa de férias ou investimento.",
+  "geo": {
+    "lat": 37.1060855,
+    "lng": -8.1232159
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80987&foto=1639176&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80987&foto=1639176&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 303,
-  "area_bruta_m2": null,
+  "area_util_m2": 202,
+  "area_bruta_m2": 303,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

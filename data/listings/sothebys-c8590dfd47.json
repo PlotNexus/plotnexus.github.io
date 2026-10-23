@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 113,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=40737&foto=758098&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=40737&foto=758098&f=1",
+  "description": "Exclusiva propriedade inserida em terreno com cerca de 3000 metros quadrados, com uma Moradia Isolada contemporânea com três quartos e uma&nbsp;vista deslumbrante para o rio e para a serra. Composta por uma suite e dois quartos apoiados por uma belíssima casa de banho toda em mármore e uma sala com cozinha integrada. Excelentes acabamentos e ar condicionado.\nCom uma localização única no Gerês,&nbsp;junto à Barragem da Caniçada, com ancoradouro privado, 100 metros de linha de água de frente, numa das mais belas e atractivas regiões naturais de Portugal, considerada pela UNESCO como Reserva Mundial da Biosfera.&nbsp;",
+  "geo": {
+    "lat": 41.658984,
+    "lng": -8.1811968
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,46 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=40737&foto=758098&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=40737&foto=758098&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Granito)",
+      "Pavimento (Granito)",
+      "Paredes (Granito)",
+      "Tecto (Focos)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Rio",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons)",
+      "Centralidade (Rural)",
+      "Proximidade (Bancos, Bombeiros, Escolas, Farmácia, Hospital, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 113,
-  "area_bruta_m2": null,
+  "area_util_m2": 95,
+  "area_bruta_m2": 113,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

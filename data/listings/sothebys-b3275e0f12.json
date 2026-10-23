@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72365&foto=1666550&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72365&foto=1666550&f=1",
+  "description": "Este apartamento, localizado no rés-do-chão, tem a particularidade de um pátio exclusivo de 35 metros quadrados. Ao entrar na sala, que é apoiada por uma kitchenette, o olhar é imediatamente capturado pela luz natural que invade o espaço (de quase 30 metros quadrados), graças às grandes janelas. Esta zona social da casa é também servida por uma casa de banho completa. Na zona privada do apartamento, existe uma suite com closet, sendo as paredes da casa de banho revestidas a pedra natural. \n\nO Sousa Martins Premium Apartments é um empreendimento residencial exclusivo localizado no número 6 da Rua Sousa Martins, em plenas Avenidas Novas, Lisboa. A poucos minutos do Marquês de Pombal e da Avenida da Liberdade, este projeto oferece um estilo de vida sofisticado no centro da cidade. O empreendimento é composto por 12 apartamentos, de tipologias T1 e T2, todos com jardins ou varandas privativas, ideal para quem deseja viver numa zona central, com proximidade a espaços verdes e uma vasta oferta cultural e gastronómica.\n\nCom uma arquitetura moderna e funcional, desenhada para maximizar o conforto, todos os apartamentos são equipados com acabamentos de alta qualidade, assegurados pela COPORGEST. Os interiores foram projetados para proporcionar uma vivência prática e elegante, integrando tecnologias e materiais de ponta, como caixilharias com isolamento térmico e acústico, pavimentos de madeira natural, armários lacados, e cozinhas equipadas com eletrodomésticos de gama alta.",
+  "geo": {
+    "lat": 38.7410926,
+    "lng": -9.1471513
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,55 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72365&foto=1666550&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72365&foto=1666550&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 6"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "PVC",
+      "Velux / Telhado",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Alarme (Completo, Pré-Instalação)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 89,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

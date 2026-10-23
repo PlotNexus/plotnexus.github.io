@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 3,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73854&foto=1554401&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73854&foto=1554401&f=1",
+  "description": "Esta moradia isolada localizada na tranquila e aprazível zona da Goldra de Baixo, próximo a Loulé, é a escolha ideal para quem procura privacidade, tranquilidade e proximidade aos principais serviços e vias de acesso. Com 3 quartos, sendo 1 suite e 3 casas de banho, este imóvel oferece um ambiente confortável e funcional. A sua área bruta privativa de 185 m², distribuída por dois pisos, proporciona espaços amplos e bem iluminados, ideais para uma família. Além disso, a moradia conta com lugar de garagem para 2 carros e um terreno circundante com piscina e uma boa área exterior para lazer ou jardinagem de 1941 m2.\n\nA moradia foi construída em 2010 e está em excelente estado de conservação. No piso 1 encontra-se uma ampla sala de estar, cozinha, um quarto, uma casa de banho, uma despensa e um hall de entrada. No piso 1, além de dois quartos, há uma casa de banho e dois terraços para desfrutar de momentos de lazer ao ar livre. A localização desta moradia é um dos seus maiores atrativos. A apenas 13 km do aeroporto de Faro, da praia e de campos de golfe, a propriedade encontra-se numa zona privilegiada, com excelentes acessos a todas as comodidades, sendo o centro comercial mais próximo a apenas 3 km. O imóvel oferece também uma ruína de 40 m², com possibilidade de ampliação ou construção adicional, oferecendo ainda mais potencial.\n\nCom boas acessibilidades às principais vias de comunicação e à cidade de Loulé, esta moradia é a opção ideal para quem valoriza a proximidade de serviços, sem abrir mão de um ambiente calmo e privado.",
+  "geo": {
+    "lat": 37.1177558,
+    "lng": -7.9968401
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73854&foto=1554401&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73854&foto=1554401&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 3,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 3,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

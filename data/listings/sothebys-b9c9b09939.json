@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82859&foto=1710934&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82859&foto=1710934&f=1",
+  "description": "Descubra o Ferreiros Residences, um novo e exclusivo empreendimento no coração do Funchal, na bela Ilha da Madeira. Este apartamento de luxo oferece uma fusão perfeita entre a arquitetura tradicional das fachadas madeirenses e um interior contemporâneo que exala sofisticação. Composto por dois quartos espaçosos e três elegantes casas de banho, este imóvel de exceção possui uma área bruta de 127,65 metros quadrados e uma área útil de 115,55 metros quadrados, proporcionando um espaço abundante e confortável. A localização privilegiada no centro da cidade garante proximidade a todo o tipo de comércio e serviços, tornando o seu dia a dia mais prático e funcional. Para além disso, o empreendimento oferece estacionamento privado, garantindo conveniência e segurança. Os acabamentos e materiais de construção utilizados são superiores aos padrões de mercado, assegurando qualidade e durabilidade. Desfrute de momentos de lazer e descontração na magnífica piscina, o complemento perfeito para o estilo de vida que este apartamento proporciona. Quer esteja à procura de uma residência exclusiva ou de um investimento seguro, o Ferreiros Residences é a escolha ideal.",
+  "geo": {
+    "lat": 32.6513278,
+    "lng": -16.9103333
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82859&foto=1710934&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82859&foto=1710934&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 65,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74677&foto=1480009&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74677&foto=1480009&f=1",
+  "description": "Apartamento em construção com três quartos. Este apartamento dispõe de uma sala acompanhada de um belíssimo jardim orientado a poente onde pode desfrutar de momentos de lazer em total privacidade. Composto por uma suite e dois quartos que se apoiam num wc completo, dispõe ainda de um wc de serviço. Destacam-se os acabamentos de qualidade superior, soalho em madeira natural, mármore nos wc´s e louças da Duravit, caixilharias de baixo perfil com vidro duplo e corte térmico, equipamentos da Bosh e ar condicionado. A localização é das mais valorizadas comercialmente, a cinquenta metros quadrados do parque da cidade, bem fornecido de todo tipo de comércio e transportes e com o mar a escassos minutos a pé. Ainda assim é uma zona calma, essencialmente de moradias. Estas características conferem uma grande qualidade de vida aos seus habitantes.\nEste apartamento tem dois lugares de garagem.\nA empresa construtora e promotora é uma das mais bem referenciadas na cidade do Porto com diversos projetos vencedores o que confere conforto e garantias aos seus clientes.\nA obra já iniciou e estima a sua conclusão para o segundo trimestre de 2026.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,43 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74677&foto=1480009&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74677&foto=1480009&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 116,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

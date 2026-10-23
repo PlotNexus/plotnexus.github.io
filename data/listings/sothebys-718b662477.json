@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 228,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78760&foto=1586073&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78760&foto=1586073&f=1",
+  "description": "Elegante moradia com 3 quartos na Lapa, distribuída por 3 pisos, com pequeno terraço.\nProjetada de raiz por prestigiado gabinete de arquitetura, esta moradia com a área bruta de 245 m2, tem a seguinte disposição: no piso térreo encontramos uma sala de estar, arrumos, wc social, uma cozinha equipada (eletrodomésticos marca Míele) e um pátio. \nNo primeiro piso temos duas suites. E o segundo piso totalmente atribuído à master suite, que lhe confere áreas amplas e total privacidade. \nA moradia tem painéis solares e bomba de calor para aquecimento das águas, tem ainda ar condicionado e vidros duplos.\nSituada numa das artérias principais da Lapa, com um fácil acesso a uma vasta rede de transportes e próxima de restaurantes, cafés, bancos, comércio e serviços, supermercados, escolas e zonas verdes. \nLocalização central e privilegiada próxima do Jardim da Estrela e da Basílica da Estrela.",
+  "geo": {
+    "lat": 38.7103876,
+    "lng": -9.1610285
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,28 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78760&foto=1586073&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78760&foto=1586073&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ]
+  },
   "estado": null,
   "area_util_m2": 228,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 228,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

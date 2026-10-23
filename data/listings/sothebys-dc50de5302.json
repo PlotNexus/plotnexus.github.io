@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68849&foto=1314200&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68849&foto=1314200&f=1",
+  "description": "Magnifico e majestoso prédio inserido numa das ruas icónicas da baixa portuense, com proximidade à Avenida dos Aliados.\nPrédio composto por um conjunto de apartamentos que resultam da reabilitação de um edifício habitacional, convertido em sete apartamentos e uma loja de dois pisos para comercio ou serviços.\nApartamento de dois quartos, um em suite, sala com 17 metros quadrados e varanda com 6 metros quadrados e cozinha equipada com porta de correr com ligação à sala. Duas frentes, a nascente e poente.\nCom uma localização muito central, o prédio será constituído por três frações de tipologia T0, três frações de tipologia T1, uma fração T2 e uma fração de comercio e serviço. \nA reabilitação deste edifício garante a conservação do edificado existente, mantendo o desenho da frente urbana da rua. Os novos apartamentos aliam as exigências de conforto contemporâneas à excelência da localização, criando um todo apelativo, tanto para a habitação como para exploração turística.\nProximidade ao centro histórico e à margem do rio, com transportes e metro que permitem com facilidade fazer a ligação a outros pontos da cidade, à Boavista e à Foz do Douro e à zona oriental.",
+  "geo": {
+    "lat": 41.1499187,
+    "lng": -8.6120949
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,44 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68849&foto=1314200&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68849&foto=1314200&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Madeira",
+      "Portadas"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação, Lojas)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Granito)",
+      "Pavimento (Tijoleira)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (TV Cabo, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 98,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

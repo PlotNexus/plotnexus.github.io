@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 5,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82093&foto=1680598&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82093&foto=1680598&f=1",
+  "description": "Exclusiva moradia única, onde a arquitetura contemporânea se alia ao conforto e à elegância, criando um espaço pensado para quem valoriza qualidade de vida junto ao mar.\nLocalizada na tranquila e pitoresca vila de Afife, no coração da deslumbrante Costa Verde, esta propriedade beneficia de uma posição privilegiada no final de uma rua em calçada, proporcionando privacidade e serenidade. A partir da varanda do primeiro piso, é possível apreciar a proximidade do oceano, enquanto todas as comodidades essenciais da vila se encontram a uma curta distância a pé, incluindo mercado local, café, restaurantes e a magnífica praia de Afife, conhecida pela sua beleza natural preservada.\nCom um design moderno e cuidadosamente concebido, esta elegante moradia destaca-se pela luminosidade dos seus espaços e pela harmonia dos seus ambientes. As amplas janelas do chão ao teto permitem que a luz natural invada cada divisão, criando uma ligação fluida entre o interior e o exterior. A decoração, marcada por tons suaves e materiais de elevada qualidade, transmite uma sensação constante de tranquilidade, conforto e sofisticação.\nNo piso superior encontram-se três quartos acolhedores, concebidos para proporcionar descanso e bem-estar. A suíte principal oferece um ambiente exclusivo, com casa de banho privativa e acesso a uma varanda onde o azul do mar surge como cenário permanente.\nNo exterior, a experiência de viver esta casa torna-se ainda mais especial. A sala de estar prolonga-se naturalmente para o terraço através das amplas superfícies envidraçadas, revelando uma elegante piscina aquecida envolvida por um deck em madeira. Na zona posterior da habitação, um espaçoso terraço coberto convida a longos almoços em família e agradáveis refeições ao ar livre, com acesso direto à cozinha. A localização é um dos seus maiores atributos. Em poucos minutos a pé poderá desfrutar da autenticidade da vida de aldeia, visitar o mercado local, tomar um café ou saborear a gastronomia regional nos restaurantes da zona. A praia encontra-se igualmente próxima, acessível através de um percurso encantador que atravessa campos rurais e passadiços sobre as dunas, até chegar às extensas areias douradas banhadas pelo Atlântico.\nA apenas alguns minutos do centro de Viana do Castelo, esta moradia beneficia ainda de excelentes acessibilidades, estando a cerca de 50 minutos do Aeroporto Internacional do Porto e muito próxima da fronteira com Espanha.",
+  "geo": {
+    "lat": 41.7788648109,
+    "lng": -8.8567829132
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,49 @@
   "published_at": "2026-10-23",
   "last_seen_at": "2026-10-23",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82093&foto=1680598&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82093&foto=1680598&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Aspiração Central (Pré-Instalação)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Pedra Natural)",
+      "Pavimento (Mármore)",
+      "Paredes (Pintadas)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_util_m2": 201,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }
