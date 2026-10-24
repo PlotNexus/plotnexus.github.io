@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 185,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77125&foto=1565024&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77125&foto=1565024&f=1",
+  "description": "Majestosa moradia de tipologia T3, com uma área bruta privativa de 185 metros quarados, inserida num lote de 876 metros quadrados, com vista desafogada para o campo de golfe, localizada no Condomínio Bom Sucesso, com segurança 24 horas, em Óbidos.\nO condomínio oferece diversas zonas comuns de lazer, incluindo piscina, ginásio, parque infantil, campos de ténis, basquetebol, padel e futebol. O Club House dispõe de restaurante, bar e uma esplanada relaxante com vista para o campo de golfe.\nO Bom Sucesso Resort está situado a apenas 15 minutos da vila histórica de Óbidos, próximo da Lagoa e a 5 minutos das praias do Rei Cortiço e do Bom Sucesso.\nEsta moradia, da autoria do prestigiado arquiteto Alcino Soutinho, distribui-se da seguinte forma:\nNo primeiro piso, encontramos o hall de entrada, uma sala com recuperador de calor, cozinha, lavandaria e um casa de banho social. No segundo piso, existem três suites, duas com closet e uma com roupeiros, todas com casa de banho privativa e acesso a varandas.\nNo exterior, destaca-se uma ampla zona de lazer com jardim e piscina privativa com 32m2.\nEstá localizada a 5 minutos da escola internacional, a 30 minutos da escola internacional de Torres Vedras e a apenas 1 hora de Lisboa.\nEste é o local ideal para viver com a sua família, com uma excelente qualidade de vida, fora dos grandes centros urbanos, mas com fácil acesso.",
+  "geo": {
+    "lat": 39.3648949924,
+    "lng": -9.2119503021
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,46 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77125&foto=1565024&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77125&foto=1565024&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Térmicos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Jardins, Rega Automática, TV Cabo)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Centralidade (Periferia Cidade)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 185,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 185,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

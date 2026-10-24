@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 3,
   "area_m2": 235,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82248&foto=1690077&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82248&foto=1690077&f=1",
+  "description": "Entre o mar e a cidade, esta moradia T5 oferece uma rara combinação de privacidade, espaço e qualidade de vida. \nIntegralmente reconstruída em 2025, encontra-se inserida num terreno de 2.500 m², onde a tranquilidade da natureza se alia ao conforto da arquitetura contemporânea.\n\nCom mais de 200m² de área bruta de construção, a habitação distribui-se por dois pisos cuidadosamente concebidos para privilegiar a funcionalidade, a luminosidade e a ligação ao exterior.\n\nNo rés-do-chão encontra-se um amplo salão multifuncional, dois quartos, uma casa de banho completa e lavandaria, proporcionando uma organização versátil, ideal para receber convidados, criar uma zona independente ou adaptar a diferentes estilos de vida.\n\nO piso superior acolhe a área social, onde a sala e a cozinha em conceito open space criam um ambiente amplo e acolhedor. Neste piso encontram-se ainda dois quartos, uma suite e uma casa de banho de apoio e varanda orientada a sul, com acesso direto ao exterior, prolongando assim naturalmente os espaços interiores e beneficiando de excelente exposição solar ao longo de todo o dia.\n\nO exterior constitui um dos grandes privilégios desta propriedade. O terreno, com cerca de 2.500 m², proporciona privacidade e uma forte ligação à natureza, destacando-se a presença de aproximadamente 50 árvores de fruto, citrinos, que conferem carácter e autenticidade a este espaço singular.\n\nLocalizada numa das zonas residenciais mais procuradas de Canidelo, beneficia de rápidos acessos à A1, A44, VL8 e Ponte da Arrábida. As praias de Canidelo, Salgueiros e Madalena encontram-se a cerca de cinco minutos de automóvel, o centro histórico de Vila Nova de Gaia a dez minutos, a Baixa do Porto a quinze minutos e o Aeroporto Francisco Sá Carneiro a aproximadamente vinte minutos.\n\nMais do que uma moradia, esta é uma propriedade pensada para quem procura espaço, privacidade e uma elevada qualidade de vida, conciliando a tranquilidade da natureza com a proximidade ao mar e ao centro urbano.",
+  "geo": {
+    "lat": 41.1270211990579,
+    "lng": -8.63798975944519
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,22 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82248&foto=1690077&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82248&foto=1690077&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 235,
-  "area_bruta_m2": null,
+  "area_util_m2": 108,
+  "area_bruta_m2": 235,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

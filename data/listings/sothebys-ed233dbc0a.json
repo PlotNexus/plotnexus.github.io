@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75384&foto=1516762&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75384&foto=1516762&f=1",
+  "description": "Localizado na freguesia de Vau, no concelho de Óbidos, este apartamento T3 inserido no prestigiado condomínio West Cliffs Ocean &amp; Golf Resort é uma excelente oportunidade para quem procura um imóvel novo num ambiente exclusivo.\nO “West Cliffs” é um resort de 5 estrelas, com uma localização ímpar na Costa de Prata, a apenas 1 hora de distância de Lisboa e perfeitamente enquadrado entre a Lagoa de Óbidos e o Oceano Atlântico. Intensificado pela natureza em que se insere, o complexo (constituído pelo resort, pelas propriedades e pelo premiado campo de golfe) foi desenhado de forma integrada com a paisagem, em harmonia com o ambiente e mantendo a sustentabilidade do ecossistema local. \nCom uma área bruta privativa de 148 metros quadrados, o apartamento dispõe de três quartos, sendo dois deles suites, e três casas de banho no total. Conta com aparcamento e beneficia de elevador. O edifício foi construído em 2023 e o imóvel oferece conforto e privacidade. Possui ainda terraço, ideal para momentos ao ar livre.\nA forte ligação do “West Cliffs” ao golfe é enriquecida pela prática de outras actividades (praia, surf, vela, mergulho ou canoagem) ou simplesmente pelo desejo de visitar Óbidos, Praia d’El Rey ou as Berlengas.\nA Sotheby's International Realty conta com cerca de 300 anos de história enquanto conceituada empresa responsável por transacionar imóveis do segmento de luxo. A Sotheby's International Realty, está presente em Portugal desde 2007 com a missão: \"A arte de unir casas extraordinárias a vidas extraordinárias.\"",
+  "geo": {
+    "lat": 39.3648949924,
+    "lng": -9.2119503021
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75384&foto=1516762&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75384&foto=1516762&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 150,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

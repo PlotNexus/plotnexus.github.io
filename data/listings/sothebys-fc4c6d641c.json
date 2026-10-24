@@ -8,9 +8,12 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 164,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80287&foto=1624810&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80287&foto=1624810&f=1",
+  "description": "Numa localização privilegiada do Algarve, com vistas panorâmicas sobre dois dos mais prestigiados campos de golfe da região, o Gramacho e Vale da Pinta, esta propriedade urbana, destaca-se pelo seu potencial, quer para habitação própria, quer para investimento turístico. Com 7.860 m², esta propriedade beneficia de uma posição elevada e dominante, com orientação a sul, proporcionando excelente exposição solar e vistas amplas sobre a paisagem envolvente, apresentando um ligeiro declive natural, permitindo que a construção existente esteja situada na zona mais alta da propriedade, tirando total partido das vistas abertas sobre os fairways verdes e o cenário natural circundante. Atualmente existe uma moradia com 164 m² de área bruta, oferecendo potencial para reabilitação ou integração num novo projeto arquitetónico para construção de uma moradia com piscina com pelo menos 300 m² de área de construção, criando a oportunidade de desenvolver uma residência contemporânea de luxo, perfeitamente integrada na paisagem. Para além da vertente residencial, a propriedade apresenta também excelente potencial de desenvolvimento turístico, podendo permitir um projeto até 600 m² de área de construção, sujeito naturalmente aos respetivos processos de licenciamento. A dimensão generosa do terreno possibilita a criação de uma verdadeira propriedade privada de charme, com amplos jardins, zonas de lazer e espaços exteriores desenhados para aproveitar plenamente a tranquilidade da envolvente e as vistas privilegiadas sobre o golfe. A propriedade dispõe já de infraestruturas essenciais, incluindo água, eletricidade e saneamento básico, facilitando o desenvolvimento de qualquer projeto futuro. Inserido numa das zonas mais procuradas do Algarve, este terreno oferece um estilo de vida onde natureza, golfe e proximidade ao mar se encontram em perfeita harmonia, estando a poucos das praias de Carvoeiro, Ferragudo e Praia da Rocha, conhecidas pelas suas falésias douradas e águas cristalinas, bem como de restaurantes de referência, marinas e experiências gastronómicas, bem como fácil acesso a algumas das paisagens naturais mais icónicas do Algarve, incluindo as falésias e trilhos costeiros que fazem desta zona um dos destinos mais desejados do sul da Europa. Além disso, a propriedade encontra-se a aproximadamente 45 minutos do Aeroporto internacional de Faro.",
+  "geo": {
+    "lat": 37.1345025835437,
+    "lng": -8.48367181597749
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,32 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80287&foto=1624810&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80287&foto=1624810&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Panorâmicas",
+      "Pastagens"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 164,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 164,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

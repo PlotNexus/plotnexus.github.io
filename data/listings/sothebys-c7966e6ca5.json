@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83483&foto=1708459&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83483&foto=1708459&f=1",
+  "description": "Em Linda-a-Velha, este apartamento T4 distingue-se pela vista desafogada sobre o rio Tejo, pela amplitude dos espaços e pelo potencial de transformação em duplex, através da integração de um sótão com cerca de 90 m² ao apartamento de aproximadamente 120 m².\nSituado no último piso de um edifício de 1968, o apartamento dispõe de quatro quartos, três casas de banho e áreas sociais marcadas pela entrada de luz natural. Uma varanda com cerca de 11,8 m² acompanha três dos quartos, prolongando a relação da casa com o exterior e com a paisagem envolvente.\nUm dos elementos diferenciadores desta propriedade é precisamente o sótão, com aproximadamente 90 m². A possibilidade de integração deste espaço permite equacionar a criação de um duplex com uma área total próxima dos 210 m², sujeito às necessárias verificações técnicas, legais e autorizações aplicáveis. Uma oportunidade para desenvolver uma configuração residencial à medida e acrescentar uma nova dimensão à casa.\nA localização beneficia da proximidade a comércio, restauração, supermercados, escolas e serviços de saúde, incluindo o Hospital de Santa Cruz. A envolvente residencial de Linda-a-Velha permite ainda um quotidiano com diversos serviços a curta distância.\nOs acessos à A5, CRIL/A36 e Marginal proporcionam ligações rápidas a Lisboa, Oeiras e Cascais. A estação ferroviária de Algés encontra-se a aproximadamente cinco a sete minutos de carro, com ligação à Linha de Cascais.\nUma oportunidade para quem procura um apartamento T4 em Linda-a-Velha com vista rio, varanda e um potencial pouco comum de transformação, beneficiando da possibilidade de integração do sótão e eventual criação de um duplex.",
+  "geo": {
+    "lat": 38.7105247,
+    "lng": -9.2409439
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83483&foto=1708459&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83483&foto=1708459&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 211,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

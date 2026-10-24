@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 243,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77444&foto=1650068&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77444&foto=1650068&f=1",
+  "description": "Situada na tranquila Zona da Palmeira, em Santa Cruz, na Ilha da Madeira, esta nova moradia isolada com tipologia T3 oferece uma vista cativante e definitiva sobre o mar e a serra. O seu principal fator diferenciador é a harmonia entre arquitetura contemporânea e funcionalidade, destacando-se pela piscina no terraço e pelos três quartos em suíte, ideais para quem valoriza privacidade e conforto.\n\nCom uma área bruta de construção de 243 metros quadrados, esta propriedade foi concebida com atenção ao detalhe. A moradia é composta por quatro casas de banho, estacionamento exterior para dois carros, áreas exteriores cuidadosamente distribuídas, varanda com 20 metros quadrados, terraço com 50 metros quadrados e um jardim envolvente. Privilegia a exposição solar nascente e sul, assegurando luminosidade natural ao longo do dia.\n\nO rés-do-chão acolhe a entrada principal, solário, estacionamento e a piscina com uma vista serena. No piso -1 encontram-se os três quartos em suíte, enquanto o piso -2 dispõe de sala de estar e de jantar, cozinha, arrecadação e acesso ao jardim.\n\nA localização é outro ponto forte, a apenas um minuto da via rápida e a dois minutos do centro de Santa Cruz, onde se encontram diversos restaurantes. Supermercados e escolas situam-se a escassos três minutos, oferecendo conveniência no quotidiano.\n\nEsta moradia única representa uma oportunidade rara para quem procura um lar seguro, tranquilo e com características exclusivas.",
+  "geo": {
+    "lat": 32.6883900222736,
+    "lng": -16.789013671875
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77444&foto=1650068&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77444&foto=1650068&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 243,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 243,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

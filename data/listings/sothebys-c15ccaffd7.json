@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": 169,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79822&foto=1661758&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79822&foto=1661758&f=1",
+  "description": "No coração de Baião, numa localização privilegiada sobre o vale do Douro, encontra-se esta propriedade de carácter singular, onde a arquitetura tradicional, a natureza e uma magnífica vista sobre o rio Douro se conjugam num cenário de grande tranquilidade e privacidade.\n\nCom orientação solar a sul, a propriedade desenvolve-se num terreno de aproximadamente 10.268 m², organizado em socalcos e marcado pela presença de vinha e oliveiras, preservando a identidade e autenticidade da paisagem duriense.\n\nA moradia principal, de construção anterior a 1951 e distribuída por dois pisos, apresenta uma traça tradicional e integra quatro quartos, áreas de estar, cozinha, instalações sanitárias e espaços de apoio agrícola, mantendo diversos elementos originais que lhe conferem carácter e história.\n\nNo exterior, a piscina com vista sobre a paisagem proporciona um espaço privilegiado de lazer e contemplação, em perfeita comunhão com a envolvente natural.\n\nJunto à piscina encontra-se ainda uma construção em pedra para a qual foi desenvolvido e aprovado pela Câmara Municipal um projeto de reabilitação e ampliação, com todas as especialidades. A proposta arquitetónica contempla dois quartos, sala e cozinha, instalação sanitária, varanda e uma área de jacuzzi, combinando a pedra existente com uma linguagem contemporânea e potenciando significativamente a utilização deste espaço.\n\nA propriedade beneficia ainda de uma localização particularmente interessante: o Douro Palace Hotel Resort &amp; SPA encontra-se a cerca de dois minutos de carro, estando igualmente próxima do cais e da estação ferroviária de Aregos, com ligação à Linha do Douro.\n\nA aproximadamente uma hora do Porto e do Aeroporto Francisco Sá Carneiro, esta propriedade apresenta-se como uma oportunidade diferenciada para residência permanente, segunda habitação ou projeto de natureza turística, reunindo mais de um hectare de terreno, piscina, excelente exposição solar e uma das características mais procuradas na região: uma vista privilegiada sobre o Douro.",
+  "geo": {
+    "lat": 41.1099498173463,
+    "lng": -8.00564098762742
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,42 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79822&foto=1661758&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79822&foto=1661758&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Rio",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Comboio, Porto de Rio)",
+      "Centralidade (Periferia Cidade, Rural)",
+      "Proximidade (Escolas, Farmácia, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 169,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 169,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

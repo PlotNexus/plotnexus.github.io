@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74338&foto=1475820&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74338&foto=1475820&f=1",
+  "description": "Este apartamento impressionante, localizado no coração de Vilamoura, oferece uma localização privilegiada, a apenas alguns minutos a pé de todos os serviços essenciais e da famosa marina da cidade. Com uma configuração moderna em duplex, o imóvel conta com um quarto no piso inferior, integrado à espaçosa sala de estar e à cozinha em conceito aberto, proporcionando um ambiente amplo e arejado. No piso superior, encontram-se mais dois quartos, ambos com áreas generosas, oferecendo bastante espaço de arrumação e conforto.\n\nA cozinha e a sala, em estilo open-plan, criam um ambiente social perfeito, ideal para o dia a dia ou para receber visitas. Da sala, tem acesso direto a um terraço de boas dimensões, onde se encontra uma pequena piscina, proporcionando momentos de relaxamento com total privacidade. A orientação solar a sul garante uma excelente exposição solar ao longo do dia, tornando o apartamento luminoso e acolhedor. Este imóvel é uma excelente oportunidade para quem procura conforto, estilo e proximidade com os principais pontos de Vilamoura.",
+  "geo": {
+    "lat": 37.0800553,
+    "lng": -8.1153115
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74338&foto=1475820&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74338&foto=1475820&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 145,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

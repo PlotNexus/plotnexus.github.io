@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67837&foto=1602723&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67837&foto=1602723&f=1",
+  "description": "Deslumbre-se com este extraordinário apartamento top floor situado num dos mais prestigiados condomínios de Vilamoura.\n\nNum enquadramento perfeito entre os icónicos campos de golfe e as belíssimas praias algarvias, esta propriedade oferece-lhe a combinação ideal entre tranquilidade, elegância e proximidade à Marina e a todas as comodidades.\n\nO apartamento distingue-se pela sua luminosidade e pela excelente distribuição de espaços:\n\nDois quartos em suíte, amplos e confortáveis, que garantem privacidade e bem-estar;\n\nCozinha moderna e totalmente equipada, prática e funcional, pensada para quem valoriza qualidade;\n\nCasa de banho social;\n\nSala de estar generosa, com acesso direto a uma magnífica varanda com vista desafogada sobre os jardins, a piscina e o campo de golfe — o cenário perfeito para relaxar ou receber amigos.\n\nNa cave, encontrará dois lugares de estacionamento e arrecadação, assegurando toda a conveniência e espaço extra que necessita.\n\nO condomínio oferece ainda uma vasta gama de comodidades exclusivas: recepção, elevadores, ginásio, sauna, banho turco e duches, garantindo um estilo de vida confortável e sofisticado.\n\nSeja para viver, desfrutar das suas férias ou investir com elevado potencial de rentabilidade, este é o apartamento ideal em Vilamoura.",
+  "geo": {
+    "lat": 37.1022,
+    "lng": -8.134069
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,51 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67837&foto=1602723&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67837&foto=1602723&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Casa Recolha Lixo, Jardins, Rega Automática, Sala Condomínio, Video-Porteiro, Zelador / Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 9,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83306&foto=1701624&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83306&foto=1701624&f=1",
+  "description": "No Palmares Ocean Living &amp; Golf Resort, em Lagos, este apartamento de canto de tipologia T1+1 distingue-se pela localização privilegiada, maior exposição solar e vistas abertas para o mar e para o campo de golfe. Com dois quartos e duas casas de banho, representa uma oportunidade para quem procura um apartamento com vista mar no Algarve, num resort em primeira linha de mar e golfe.\n\nO imóvel apresenta uma configuração de canto que favorece a entrada de luz natural e a relação com a paisagem envolvente. Concluído em 2023, integra a primeira fase dos Signature Apartments, projeto concebido pelo atelier RCR Arquitectes. Dispõe ainda de dois lugares de estacionamento cobertos e uma arrecadação.\n\nO condomínio disponibiliza piscina, jardins paisagísticos, estacionamento e acesso às comodidades do resort. O apartamento beneficia da proximidade ao Clubhouse, ao campo de golfe e à praia. O restaurante Preceito encontra-se dentro do próprio resort. A configuração do imóvel permite ainda a sua divisão em duas partes independentes, criando uma solução com potencial para maximizar a rentabilidade.\n\nA localização permite chegar ao centro de Lagos em poucos minutos, assim como à Meia Praia e às principais vias rodoviárias. A estação ferroviária de Lagos encontra-se também a curta distância, facilitando as deslocações pelo Algarve.\n\nNa envolvente existem supermercados, escolas, serviços de saúde, comércio e restauração, permitindo conciliar a tranquilidade de um resort junto ao mar com a proximidade das principais comodidades.\n\nO Palmares Ocean Living &amp; Golf Resort caracteriza-se pela localização em primeira linha de mar e de golfe, pelo campo premiado de 27 buracos e pelas vistas sobre o Atlântico e a Baía de Alvor. Com a expansão do resort e a futura integração de um hotel JW Marriott, Palmares reforça a sua posição como destino residencial e turístico de referência em Lagos.",
+  "geo": {
+    "lat": 37.1485503777,
+    "lng": -8.6596298217
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,71 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83306&foto=1701624&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83306&foto=1701624&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Parabólica",
+      "Rega Automática",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (Segurança Activa)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Hall de Entrada (Iluminação Aut.)",
+      "Pavimento (Marmorite)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Falso Pladur, Ponto de Luz)",
+      "Equipamento (Campo de Jogos, Casa Recolha Lixo, Court Ténis, Jardins, Parabólica, Parque Infantil, Rega Automática, Sala Condomínio, TV Cabo, Video-Porteiro, Zelador / Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Dunas",
+      "Jardins",
+      "Mar",
+      "Panorâmicas",
+      "Rio",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 119,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

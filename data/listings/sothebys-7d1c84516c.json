@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 45,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75728&foto=1508788&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75728&foto=1508788&f=1",
+  "description": "Moradia bem conservada, com 3 quartos e 3 casas de banho, situada nos arredores da charmosa vila de Paderne e combina na perfeição conforto, privacidade e praticidade. Seja para um retiro tranquilo ou para viver perto de todas as comodidades, esta propriedade oferece o equilíbrio ideal entre sossego e conveniência.\n\nNo interior, a casa destaca-se por uma área de estar espaçosa e acolhedora, equipada com aquecimento por piso radiante para os meses mais frios, e ar condicionado integrado que garante conforto durante todo o ano. As janelas com vidros duplos proporcionam isolamento térmico e acústico, enquanto a caldeira e os painéis solares asseguram uma solução eficiente e sustentável para o aquecimento de água, ajudando a manter os custos energéticos baixos. A lareira tradicional acrescenta ainda charme e calor nos dias de inverno.\n\nNo exterior, o espaço é igualmente atrativo: um jardim privado, totalmente vedado e com portões elétricos, oferece segurança e privacidade. O terreno inclui várias árvores de fruto, espaço para uma horta e um agradável lounge coberto com bar — perfeito para convívios ao ar livre. A piscina privada com tratamento de sal, convida a momentos de lazer em plena natureza. Há ainda rega automática e uma área generosa de arrumação que complementam a funcionalidade da propriedade.\n\nLocalizada numa zona calma e serena, mas a poucos minutos de carro do centro de Paderne, esta moradia oferece o melhor dos dois mundos: tranquilidade no dia a dia e fácil acesso a lojas, restaurantes e atrações locais.",
+  "geo": {
+    "lat": 37.1761543,
+    "lng": -8.2009133
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75728&foto=1508788&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75728&foto=1508788&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 45,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 45,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

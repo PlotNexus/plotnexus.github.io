@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=17010&foto=1487351&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=17010&foto=1487351&f=1",
+  "description": "Apartamento T4 com 190 m2, constituído por uma sala, sete quartos, três casas de banho, cozinha, marquise e varanda fechada. O edifício é de boa construção, foi recentemente remodelado e, apesar de não ter elevador, tem condições para ser colocado.\n\nEstá localizado numa zona central e privilegiada das Avenidas Novas, bem servida de comércio, serviços e transportes, perto da Gulbenkian e El Corte Inglês. \n\nTrata-se de uma opção excecional para quem procura um apartamento de estilo tradicional, espaçoso, com boa exposição solar, no centro de Lisboa. Atualmente o apartamento tem exploração em short-renting, no entanto, é uma excelente opção para quem pretenda remodelar para revender ou para viver, ou até fazer arrendamento por quartos com yield prevista de 7%.",
+  "geo": {
+    "lat": 38.73584,
+    "lng": -9.150754
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=17010&foto=1487351&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=17010&foto=1487351&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 190,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73550&foto=1461346&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73550&foto=1461346&f=1",
+  "description": "Localizada em uma zona residencial tranquila de Vilamoura, esta moradia em banda de 176 m² combina praticidade com um toque de charme algarvio. Construída em 1991 e recentemente renovada, a casa está a uma curta distância a pé da famosa Marina de Vilamoura, oferecendo uma excelente qualidade de vida.\n\nDistribuída em quatro pisos, a moradia apresenta uma cave, atualmente utilizada como sala de jogos e área de estar e poderá ser convertida noutras finalidades. No piso térreo, encontra-se uma cozinha equipada, uma ampla sala de estar e uma casa de banho. O primeiro andar dispõe de dois quartos espaçosos e uma casa de banho. Já o segundo andar acomoda uma suíte principal com acesso a um terraço privativo, ideal para relaxar e aproveitar a exposição solar nascente e poente.\n\nPossui ar condicionado e salamandra que aquece toda a casa, além de um terraço com barbecue, perfeito para momentos de convívio. Existe estacionamento no exterior.\n\nLocalização conveniente, entre Vilamoura e Quarteira, proporciona proximidade à praia e ao ambiente vibrante da Marina de Vilamoura, apenas a 5 minutos a pé e também ao golfe. A 6 km da N125, 9 kms da estação de comboios e 23 kms do Aeroporto Internacional de Faro, a casa oferece fácil acesso às principais vias. A curta distância a pé de comodidades e serviços como restaurantes, supermercados, o famoso mercado de Quarteira, escolas, centro desportivo como piscinas e ténis, hospital, áreas de lazer e paragem de autocarro.\n\nEsta moradia é uma oportunidade perfeita para quem procura uma casa renovada ao pé da praia e da marina de Vilamoura e é ideal para uma nova residência, uma moradia para férias ou um bom investimento imobiliário.\n\nVenha conhecer esta moradia que equilibra a vivência tradicional do Algarve com todas as comodidades modernas á beira-mar e numa área muito procurada.",
+  "geo": {
+    "lat": 37.0735355,
+    "lng": -8.1109564
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73550&foto=1461346&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73550&foto=1461346&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 176,
+  "area_bruta_m2": 121,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

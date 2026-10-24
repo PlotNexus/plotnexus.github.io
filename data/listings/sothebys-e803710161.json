@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 3,
   "area_m2": 312,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75116&foto=1559760&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75116&foto=1559760&f=1",
+  "description": "Uma Vista que Enche a Alma — Moradia com Projeto de Renovação, no Coração do Funchal\nNo caminho para o emblemático Monte e com uma vista inesquecível de 180 graus sobre o anfiteatro do Funchal, esta moradia é um convite à inspiração e à tranquilidade. Erguida num terreno de 968 metros quadrados e com uma área bruta de construção de 286 metros quadrados, a casa distribui-se por três pisos, oferecendo cinco quartos espaçosos, três casas de banho e uma prática arrecadação no sótão.\n\nAqui, o nascer do sol é um espetáculo diário, e a cidade estende-se a seus pés como uma pintura viva. Embora a propriedade necessite de modernização, já existe um projeto aprovado que inclui a requalificação total do imóvel e a construção de uma piscina, acrescentando um toque contemporâneo ao seu carácter tradicional.\n\nMais do que uma casa — um lugar onde se pode criar memórias, respirar a beleza da Madeira e sentir-se verdadeiramente em casa.",
+  "geo": {
+    "lat": 32.6767094991326,
+    "lng": -16.9031757354736
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75116&foto=1559760&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75116&foto=1559760&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 312,
-  "area_bruta_m2": null,
+  "area_util_m2": 287,
+  "area_bruta_m2": 312,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=62808&foto=1152959&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=62808&foto=1152959&f=1",
+  "description": "Numa localização deslumbrante com vista para uma praia exclusiva, dentro de um grande parque natural protegido, o Martinhal Beach Resort &amp; Hotel foi denominado \"o melhor resort familiar de luxo da Europa\" e situa-se perto da cidade histórica de Sagres, no Barlavento Algarvio, a Riviera de Portugal.\nDotado de um hotel de cinco estrelas e uma aldeia turística com um conjunto de casas familiares e quartos de hotel espaçosos, a essência do resort caracteriza-se por um luxo subtil e uma hospitalidade genuína. A arquitetura contemporânea e elegante complementa a personalidade orgânica do resort, que foi moldada para se integrar facilmente no Parque Natural envolvente.\nAs instalações do Martinhal incluem várias piscinas aquecidas, interiores e exteriores, um ginásio, o Finisterra Spa, um campo polidesportivo, campos de Ténis e Padel, vários clubes infantis e lojas. As opções de lazer são abundantes e satisfazem os mais diferentes gostos, diferentes idades e diferentes requisitos.\nO Martinhal dispõe também de alguns dos pratos e vinhos mais frescos, saborosos e interessantes de Portugal. Tendo por base uma filosofia de utilização de produtos genuinamente portugueses da mais alta qualidade e honrando métodos de preparação consagrados pelo tempo, o resort é um dos melhores do Algarve para apreciar a deliciosa gastronomia nacional e regional.\nExistem várias oportunidades de investimento nas casas do Martinhal e algumas com retorno de arrendamento garantido de 10 anos.",
+  "geo": {
+    "lat": 37.01398,
+    "lng": -8.934753
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,38 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=62808&foto=1152959&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=62808&foto=1152959&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior, Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Equipamento (Court Ténis, Jardins, Parque Infantil)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 138,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

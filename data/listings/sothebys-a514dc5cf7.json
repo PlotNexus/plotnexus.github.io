@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83734&foto=1706301&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83734&foto=1706301&f=1",
+  "description": "Apresentamos este notável apartamento NOVO T2 Duplex, localizado na Rua Gomes Freire, em Arroios, Lisboa. Este imóvel, inserido num empreendimento de alta qualidade, oferece um ambiente moderno e sofisticado para quem procura o máximo conforto. O apartamento dispõe de dois quartos e duas casas de banho, distribuindo-se por dois pisos, com uma área bruta de 100 metros quadrados, e com 2 varandas, garantindo um espaço amplo e versátil. \nO empreendimento 141 Gomes resulta da reabilitação minuciosa de um edifício histórico mantendo todo o seu charme e ao qual se adicionaram todas as comodidades atuais., com elevador, jardim e piscina. Destaca-se ainda pela sua localização privilegiada em Lisboa, sendo uma excelente escolha para quem deseja viver no coração da cidade, com fácil acesso a diversas comodidades e serviços de qualidade. Ideal para quem aprecia uma habitação contemporânea inserida num contexto urbano dinâmico.\n\nNota: As imagens são meramente ilustrativas",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83734&foto=1706301&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83734&foto=1706301&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 100,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

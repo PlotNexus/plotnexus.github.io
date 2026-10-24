@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 79,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83751&foto=1712402&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83751&foto=1712402&f=1",
+  "description": "Numa das localizações mais convenientes do Algarve, esta elegante moradia independente em Boliqueime combina espaço, conforto e privacidade com uma localização privilegiada entre Vilamoura e Albufeira.\n\nDistribuída por dois pisos, esta propriedade apresenta uma configuração T4 cuidadosamente pensada para responder tanto às necessidades de uma residência permanente como de uma sofisticada casa de férias. \n\nO piso térreo é marcado pela amplitude e luminosidade dos espaços sociais. A cozinha, recentemente renovada e totalmente equipada, apresenta um design contemporâneo e funcional, enquanto as salas de estar e jantar oferecem uma atmosfera acolhedora e elegante. Este piso dispõe ainda de um quarto e de uma casa de banho completa, proporcionando uma solução versátil para hóspedes, família ou utilização como escritório. \n\nNo piso superior encontra-se a zona privada da residência, composta por três quartos, incluindo uma suite, acompanhados por uma segunda casa de banho. Um dos quartos é atualmente utilizado como escritório. \n\nNo exterior, a propriedade revela uma das suas maiores qualidades, um jardim reservado e generoso, pensado para desfrutar do clima algarvio durante todo o ano, permitindo assim, criar diferentes ambientes para refeições ao ar livre ou simplesmente relaxar com total privacidade. \n\nA propriedade beneficia ainda de uma garagem de grandes dimensões, com acesso direto ao interior da casa, complementada por estacionamento exterior. \n\nEsta moradia é dotada de painéis solares, sistema de vigilância e ar condicionado em todas as divisões.",
+  "geo": {
+    "lat": 38.4105582509461,
+    "lng": -7.91015625
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,39 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83751&foto=1712402&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83751&foto=1712402&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Segurança Activa)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Campo",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 79,
-  "area_bruta_m2": null,
+  "area_util_m2": 198,
+  "area_bruta_m2": 79,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

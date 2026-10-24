@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=52437&foto=1224127&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=52437&foto=1224127&f=1",
+  "description": "O Sun Cliffs Resort nasce junto a um dos locais mais emblemáticos do Algarve, a Ponta da Piedade em Lagos, rodeado por três praias famosas: Dona Ana, Camilo e Canavial.\n\nNo Sun Cliffs encontra 72 apartamentos de alta qualidade totalmente mobilados, com vistas panorâmicas extraordinárias, inseridos num complexo hoteleiro de 5 estrelas gerido pela Sonae Capital. Este resort moderno em Lagos dispõe de várias comodidades desde o SPA e piscina, a salas de conferência e reunião, restaurante, clubhouse e campos de padel.\n\nOs apartamentos do Sun Cliffs contam com diversas tipologias, de T1 a T3, passando por T1+, T2 e T2+, com áreas que vão desde os 82 aos 146 m2. A partir do segundo piso, os apartamentos começam a oferecer deslumbrantes vistas do oceano que rodeia Lagos.",
+  "geo": {
+    "lat": 37.08685,
+    "lng": -8.673607
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,41 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=52437&foto=1224127&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=52437&foto=1224127&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Court Ténis",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 84,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

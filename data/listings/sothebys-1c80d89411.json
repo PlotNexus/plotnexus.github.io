@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 240,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71878&foto=1718672&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71878&foto=1718673&f=1",
+  "description": "Moradia de assinatura, localizada no coração da pequena vila da Mexilhoeira Grande, próxima ao golfe da Penina e do Autódromo do Algarve. Esta moradia de design com linhas contemporâneas e vãos abertos para o exterior é uma verdadeira tela em branco, inundada por luz natural e projetada para proporcionar o máximo em comodidade e estilo, com certificação energética A para um excelente conforto térmico e eficiência. Com 240 m² de área bruta de construção, esta residência exclusiva é a oportunidade ideal para quem busca uma casa de qualidade superior numa das regiões mais valorizadas do Algarve. Com três pisos, a moradia dispõe de uma configuração versátil que permite o seu uso completo como uma residência única ou, alternativamente, a utilização dos dois pisos superiores como habitação própria e a rentabilização do andar inferior, que conta com dois quartos, cozinha, sala com lareira e uma entrada independente, ideal para B&amp;B. A moradia oferece quatro quartos ao todo, três casas de banho com duche italiano, duas cozinhas totalmente equipadas, duas salas de estar e uma zona de lavandaria. Conta ainda com ar condicionado mono-split nas áreas sociais e pré-instalação nos quartos, além de acabamentos de excelência como o chão em tijoleira de Santa Catarina e caixilharia em madeira exótica de Iroko com vidro duplo Saint-Gobain. São 134 m² de terraços e áreas ao ar livre, com vistas fabulosas para o oceano e para a ria de Alvor. A localização estratégica permite fácil acesso aos serviços e comércio local e às praias de Alvor, Portimão e Lagos, ideal para quem deseja estar próximo de tudo, mas sem abrir mão da tranquilidade. A moradia será entregue chave-na-mão, completamente equipada e pronta a habitar, no segundo quadrimestre de 2025. Agende já a sua visita e venha conhecer este imóvel único, que une sofisticação, design contemporâneo, conforto térmico e eficiência em uma localização privilegiada no Algarve.",
+  "geo": {
+    "lat": 37.1620050850884,
+    "lng": -8.60073494171143
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,59 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71878&foto=1718672&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71878&foto=1718673&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "PVC",
+      "Vidro Duplo",
+      "Estores (Eléctricos, PVC, Térmicos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Parabólica",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Pavimento (Tijoleira)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Falso Pladur, Focos, Ponto de Luz)",
+      "Equipamento (Parabólica, Rega Automática, TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 240,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 240,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

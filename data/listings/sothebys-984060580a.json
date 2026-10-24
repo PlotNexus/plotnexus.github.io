@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 121,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71921&foto=1608051&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71921&foto=1608051&f=1",
+  "description": "Apresentamos a Moradia Charmosa V3, uma residência totalmente remodelada no coração de Vilamoura, ideal para quem busca um estilo de vida sofisticado e tranquilo. Localizada num condomínio em frente do campo de golfe Old Course Dom Pedro, com piscina privada e mais com acesso a uma piscina comum, esta moradia em banda oferece o equilíbrio perfeito entre privacidade e conveniência.\n\nA casa proporciona uma atmosfera serena, perfeita para os amantes de golfe e aqueles que apreciam a proximidade com as melhores comodidades que Vilamoura tem a oferecer.\n\nCozinha moderna e totalmente equipada, integrada com a sala de estar e jantar, dois quartos em suite, casa de banho social e lavandaria no rés-do-chão e uma suíte no primeiro andar com um terraço amplo. Ar condicionado embutido nas paredes e pré-instalação de lareira na sala.\n\nNos exteriores desfrute de um pátio privado com piscina privada, perfeito para momentos de lazer com família e amigos. Aparcamento para estacionar um carro. Esta moradia combina elegância, modernidade e uma localização privilegiada. Seja para residência permanente ou casa de férias, a Moradia Charmosa V3 é um verdadeiro refúgio de conforto e luxo.",
+  "geo": {
+    "lat": 37.0932597345954,
+    "lng": -8.11469794260559
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,19 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71921&foto=1608051&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71921&foto=1608051&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 121,
-  "area_bruta_m2": null,
+  "area_util_m2": 7,
+  "area_bruta_m2": 121,
   "ano_construcao": null,
   "certificacao_energetica": null
 }

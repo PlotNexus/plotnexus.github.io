@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77313&foto=1605326&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77313&foto=1605326&f=1",
+  "description": "Situado no Estoril, num edifício premiado cuja Arquitetura tem assinatura de Autor, este apartamento T1 fica num condomínio fechado com piscina que é reconhecido pela proximidade ao mar e pela excelente localização, próximo de comércio e serviços, com umas excelentes acessibilidades. Ideal para quem procura viver numa das zonas mais procuradas da linha costeira. \n\nApresenta uma distribuição funcional, a sala destaca-se pela boa dimensão e acesso direto a uma varanda, orientada a nascente, oferecendo luminosidade durante a manhã. A cozinha mantém uma organização prática com lavandaria e dispensa e o quarto dispõe de uma área confortável. A casa de banho inclui base de duche. O imóvel conta ainda com arrecadação em cave e 1 lugar de estacionamento.\n\nEdificado em 2006, o prédio possui elevador e proporciona um nível de conforto adequado ao quotidiano urbano. A localização de prestígio, é um dos seus maiores atrativos: a 1 minuto da estação de comboios, a 5 minutos da A5, e a curta distância de restaurantes, cafetarias, supermercados, escolas, da praia e do passeio marítimo que permite disfrutar das caminhadas ao longo do mar.\n \nA envolvente combina a tranquilidade típica do Estoril com a conveniência de ter tudo por perto, apresentando-se como uma escolha acertada para quem privilegia mobilidade, proximidade ao mar e qualidade de vida. Uma oportunidade relevante numa zona com procura constante.",
+  "geo": {
+    "lat": 38.706926,
+    "lng": -9.3781649
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77313&foto=1605326&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77313&foto=1605326&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 79,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

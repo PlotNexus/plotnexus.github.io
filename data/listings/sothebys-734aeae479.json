@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83414&foto=1701543&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83414&foto=1701543&f=1",
+  "description": "Este elegante apartamento T3, totalmente renovado e equipado, distingue-se pela combinação harmoniosa entre design contemporâneo, conforto e uma localização verdadeiramente privilegiada, em primeira linha de mar, na Praia de Quarteira.\n\nRenovado integralmente com uma abordagem moderna e sofisticada, o imóvel revela uma atenção especial ao detalhe, onde os acabamentos de elevada qualidade se conjugam com uma estética intemporal, criando ambientes luminosos, acolhedores e funcionais. A magnífica vista frontal sobre o mar assume um papel central, conferindo uma identidade única aos espaços e elevando a experiência de habitar junto à costa.\n\nSituado no primeiro piso, o apartamento beneficia de uma ampla área social, onde a luz natural e a vista mar se prolongam para um agradável terraço com vista privilegiada sobre o oceano e o emblemático calçadão de Quarteira, proporcionando o cenário ideal para momentos de descontração ao longo de todo o ano.\n\nNa zona norte, um segundo terraço oferece um ambiente mais resguardado, perfeito para refeições ao ar livre, convívios com família e amigos ou simplesmente para desfrutar da tranquilidade do espaço exterior.\n\nPara um maior conforto, o apartamento dispõe de ar condicionado nas duas áreas e de um sistema de domótica que permite controlar o sistema de som, criando diferentes ambientes de acordo com cada momento.\n\nUma propriedade que alia sofisticação, funcionalidade e uma localização de excelência, ideal para quem procura viver junto ao mar, desfrutar de um estilo de vida descontraído ou investir numa das zonas costeiras mais emblemáticas do Algarve.",
+  "geo": {
+    "lat": 37.0673831,
+    "lng": -8.1034401
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83414&foto=1701543&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83414&foto=1701543&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 73,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

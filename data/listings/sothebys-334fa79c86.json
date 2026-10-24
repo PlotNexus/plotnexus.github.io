@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": null,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=43262&foto=1026732&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=43262&foto=1026732&f=1",
+  "description": "Apartamento T2 inserido no Condomínio Tróia Resort a 50 metros da praia com jardim e piscina privativa.\n\nO apartamento tem sala de estar com acesso directo ao jardim, lareira e televisão plasma, sala de jantar (que pode ser transformada em quarto),\ndois quartos sendo um em suite, duas casas de banho com pavimento aquecido e cozinha totalmente equipada (Poggenpohl).\nTem aquecimento central, ar condicionado em toda a casa e encontra-se mobilado.\nLocaliza-se a 50 metros da praia e ao pé dos restaurantes, comércio e marina de Tróia.",
+  "geo": {
+    "lat": 38.48751,
+    "lng": -8.900976
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,32 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=43262&foto=1026732&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=43262&foto=1026732&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Piscina (Exterior)"
+    ],
+    "Vistas": [
+      "Dunas",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Farmácia, Jardins, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 131,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }
