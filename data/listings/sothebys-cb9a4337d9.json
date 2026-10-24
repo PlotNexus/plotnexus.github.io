@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 7,
   "area_m2": 749,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79473&foto=1608999&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79473&foto=1608999&f=1",
+  "description": "Moradia isolada localizada em Paredes, com 537 metros quadrados de área privativa, composta por cinco quartos, um deles com mezzanine, várias salas, cozinha e lavandaria equipada e vasto espaço exterior. \nO prazer de viver numa zona tranquila a pouca distância da cidade, numa interessante moradia, de forma ortogonal, resultante de um projeto de arquitetura que procurou enquadrar uma antiga construção existente, habilmente recuperada, criando um conjunto de corpos de alturas e formas diversas, que permitem usufruir de áreas amplas em comunicação com a zona verde envolvente, a piscina e um pátio com zona de churrasqueira.\nA robustez da sua construção, a qualidade de acabamentos, onde a madeira, o granito e o mármore se destacam, a funcionalidade dos espaços, a integração do vidro, permitindo muita entrada de luz, as áreas generosas, a atenção ao detalhe e aproveitamento de espaço para zonas de arrumação, fazem desta moradia um refúgio perfeito para uma família ou para a instalação de uma empresa, organização de eventos ou de alojamento local.\nImplantada em terreno murado com 3.900 metros quadrados de área, com várias árvores, entre elas Palmeiras, árvores de fruto, limoeiros e Camélias. Oferece uma extensa área exterior, onde se destaca um campo de futebol, zona de recreio infantil com baloiços, balneário de apoio à piscina, toda a área com muita privacidade, proporcionando distintas zonas de lazer. \nTem garagem para quatro carros, zona de arrrumação e de tratamento de roupas. Dispõe de uma cabine de sauna.\nLocalizada a 20 minutos do Porto, a poucos minutos de Vizela e das suas Termas, a 9m de Lousada, 10m de Freamunde, 13m de Paços de Ferreira, 11m de Penafiel e a 27m do aeroporto Francisco Sá Carneiro.\nTem ótimos acessos, proximidade a autoestrada ( o concelho de Paredes é servido por 4 autoestradas, A4.A41,A42,A43 e pela estrada Nacional nº15 que liga Porto a Bragança), comboio e transportes públicos. Em zona bem servida de colégios, escolas e todo o tipo de serviços.",
+  "geo": {
+    "lat": 41.2456113068,
+    "lng": -8.3196544647
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,42 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79473&foto=1608999&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79473&foto=1608999&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Termolacada"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Equipamento (Campo de Jogos, Jardins)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 80; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada)",
+      "Proximidade (Escolas, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 749,
-  "area_bruta_m2": null,
+  "area_util_m2": 538,
+  "area_bruta_m2": 749,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

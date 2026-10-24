@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79132&foto=1683999&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79132&foto=1683999&f=1",
+  "description": "Apresentamos este fantástico apartamento de 4 quartos, situado no piso superior do prestigiado condomínio Encostas de Bicesse. Uma oportunidade única para quem procura qualidade de vida, tranquilidade e uma localização estratégica. O imóvel destaca-se pelo seu excelente estado de conservação, tendo sido muito pouco utilizado ao longo dos anos.\n\nA sua localização é privilegiada: fica a poucos minutos dos acessos à A5 e A16, permitindo uma deslocação rápida para Lisboa ou Sintra. Além disso, está a apenas 5 minutos do Cascais Shopping, onde encontra todo o tipo de comércio e serviços, e a escassos 10 minutos do Estoril e das suas praias.\n\nA zona social é composta por uma acolhedora sala comum equipada com lareira e ar condicionado e uma cozinha funcional com zona de lavandaria independente. Na área privada, o apartamento conta com uma confortável suite e dois quartos adicionais, apoiados por uma casa de banho completa que serve também as visitas.\n\nO grande foco deste imóvel é o seu generoso terraço de 12 metros quadrados com barbecue, que oferece uma vista para a icónica Serra de Sintra, bem como para o cuidado jardim interior e para a piscina do condomínio. Para além de toda a comodidade, este apartamento inclui uma garagem verdadeiramente invulgar: um espaço de 68 metros quadrados, ideal para o estacionamento de várias viaturas e arrumação extra.\n \nVenha conhecer a sua próxima casa. \n\nAgende já a sua visita!",
+  "geo": {
+    "lat": 38.7330322,
+    "lng": -9.3874905
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,51 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79132&foto=1683999&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79132&foto=1683999&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado, Tijolinho)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Estucado)",
+      "Equipamento (Casa Recolha Lixo, Gás Canalizado, Jardins, Rega Automática, Sala Condomínio, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 124; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 123,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

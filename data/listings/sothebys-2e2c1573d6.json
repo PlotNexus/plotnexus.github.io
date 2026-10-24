@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79491&foto=1642350&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79491&foto=1642350&f=1",
+  "description": "Elegante apartamento T2, localizado numa das zonas mais prestigiadas de Lisboa, no Príncipe Real, junto da Praça das Flores e de uma vasta oferta de comércio e serviços.\n\nInserido num prédio recente, de 2014, o edifício é composto por apenas cinco frações, distribuídas entre rés do chão e um apartamento por piso nos restantes 3 andares, garantindo elevados níveis de privacidade e tranquilidade.\n\nA fração conta com uma área bruta privativa de aproximadamente 95 m² e dispõe de lugar de estacionamento.\n\nO apartamento é composto por dois quartos, uma sala, uma casa de banho completa e cozinha totalmente equipada, com eletrodomésticos da marca TEKA, incluindo máquina de lavar roupa Bosch, assegurando elevados padrões de qualidade e funcionalidade.\n\nDispõe ainda de estores elétricos, ar condicionado em todas as divisões, roupeiros embutidos, vidros duplos e vídeo porteiro, oferecendo conforto, eficiência e segurança.\n\nUma excelente oportunidade para viver numa localização central e privilegiada, combinando charme, comodidade e proximidade a comércio, serviços e zonas verdes emblemáticas da cidade.\n\nA Sotheby’s International Realty possui mais de 300 anos de história na transação de bens de luxo. Em Portugal desde 2007, conta com dez escritórios e mais de 300 profissionais altamente qualificados, prontos para o atender. A sua missão é clara: “A arte de unir casas extraordinárias a vidas extraordinárias.” Não hesite em nos contactar caso esta oportunidade desperte o seu interesse.\n\nO bairro do Príncipe Real distingue-se pela sua atmosfera única, com uma oferta rica de restaurantes, esplanadas encantadoras e terraços que proporcionam vistas deslumbrantes sobre Lisboa. Esta é uma oportunidade ímpar de adquirir uma propriedade de excelência numa das áreas mais prestigiadas da cidade.",
+  "geo": {
+    "lat": 38.7206333,
+    "lng": -9.1418613
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79491&foto=1642350&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79491&foto=1642350&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 95,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

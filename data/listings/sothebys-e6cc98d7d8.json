@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71983&foto=1426817&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71983&foto=1426817&f=1",
+  "description": "Descubra o Casuarinas Residences, um empreendimento localizado numa zona nobre de Vilamoura, perto do centro, que combina sofisticação contemporânea e o charme natural do Algarve. Esta coleção de moradias triplex e apartamentos apresenta design inovador, espaços amplos e acabamentos de elevada qualidade, concebidos para proporcionar conforto e exclusividade. Desenvolvido por um promotor canadiano com experiência internacional em projetos de prestígio, o Casuarinas Residences está rodeado por praias paradisíacas, campos de golfe de renome mundial e serviços de excelência. Contacte-nos para saber mais sobre este projeto único.",
+  "geo": {
+    "lat": 37.08647,
+    "lng": -8.124401
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71983&foto=1426817&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71983&foto=1426817&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 127,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

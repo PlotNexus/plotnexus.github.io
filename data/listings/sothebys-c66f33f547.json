@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78892&foto=1588647&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78892&foto=1588647&f=1",
+  "description": "Situado na icónica Rua de Cedofeita, no coração do Porto, o empreendimento Cedofeita 271 representa uma fusão perfeita entre história, modernidade e conforto. Este projeto exclusivo, localizado numa das zonas mais procuradas da cidade, oferece tipologias que vão desde T0 a T2 Duplex, destacando-se pela sua localização excecional e pela reabilitação arquitetónica de excelência, que conjuga o charme histórico com o conforto contemporâneo. Inserido no vibrante Bairro das Artes, o Cedofeita 271 traduz o melhor da vida urbana portuense.\nO edifício desenvolve-se em cinco pisos e inclui sete apartamentos e uma unidade comercial no rés-do-chão. As áreas variam entre 42 m² e 135 m², com destaque para o T2 Duplex que dispõe de um jardim privativo de 28 m². O projeto preserva elementos arquitetónicos originais, como cantarias de granito, madeiras nobres e estuques tradicionais, integrando simultaneamente elevador e soluções modernas que asseguram conforto acústico e eficiência térmica, cumprindo os padrões de qualidade do século XXI. A conclusão da obra está prevista para Dezembro de 2026.\nA envolvente oferece uma vivência cosmopolita, com galerias de arte, lojas alternativas, cafés e restaurantes. O Cedofeita 271 está a poucos minutos da Livraria Lello, da Fonte dos Leões e da Rua Miguel Bombarda, conhecida pela sua vida artística e cultural. Nas imediações encontram-se ainda a Igreja de Cedofeita, o Hospital de Santo António, a Faculdade de Direito da Universidade do Porto e o Jardim da Praça da República.\nA excelente rede de transportes públicos reforça a conveniência da localização, com estações de metro da Trindade, Aliados e Lapa a cerca de 15 minutos, além de diversas linhas de autocarros STCP nas proximidades. A baixa do Porto é totalmente acessível a pé, permitindo desfrutar de um estilo de vida urbano e autêntico.\nO Cedofeita 271 é mais do que um projeto residencial — é um tributo à história e à alma do Porto. Uma reabilitação que preserva o património e o valor arquitetónico, aliando tradição e modernidade. Um investimento seguro e diferenciador no coração da cidade.",
+  "geo": {
+    "lat": 41.1551735,
+    "lng": -8.6229393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,27 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78892&foto=1588647&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78892&foto=1588647&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bombeiros, Escolas, Farmácia, Ginásio, Jardins, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 136,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

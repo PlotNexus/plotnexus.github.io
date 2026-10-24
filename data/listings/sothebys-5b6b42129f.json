@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 458,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79097&foto=1600115&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79097&foto=1600115&f=1",
+  "description": "Entre o conforto da modernidade e a serenidade da natureza, encontra-se esta deslumbrante moradia térrea, implantada num magnífico terreno de 3000 m², cuidadosamente desenhado para oferecer privacidade, bem-estar e harmonia.\n\nSituada a dez minutos da Trofa e a 30 minutos do Porto, esta propriedade alia a tranquilidade do campo à conveniência da proximidade urbana — o refúgio ideal para quem procura viver com qualidade, sem abdicar da ligação às principais vias e serviços a escassos metros da auto estrada.\n A casa principal é composta por cinco quartos, sendo três deles em suíte, todos com áreas generosas e excelente luminosidade natural.\nA zona social destaca-se por uma elegante sala de estar e de jantar, com vistas deslumbrantes para o exterior e acesso direto à área da piscina. A moradia conta ainda com uma ampla cozinha totalmente equipada, ideal para quem aprecia funcionalidade e praticidade no dia a dia. Para trabalho ou estudo, dispõe também de um escritório, garantindo um espaço reservado e tranquilo.\n\nNo piso superior, existe uma sala de jogos ou de leitura, acompanhada por uma casa de banho completa, que poderá ser facilmente convertida num quarto adicional, oferecendo máxima versatilidade ao espaço.\nNo exterior, encontra-se uma grande piscina, integrada num cenário verdejante e rodeada por várias zonas de lazer. O ambiente natural e sereno cria o local perfeito para refeições ao ar livre e para desfrutar de longos dias de verão com total privacidade.\n\nA propriedade inclui ainda um edifício auxiliar, com zona de lavandaria e arrumos.\n \nEsta é a escolha ideal para quem procura uma moradia espaçosa, funcional, moderna e plenamente envolvida pela natureza.",
+  "geo": {
+    "lat": 41.2974770562,
+    "lng": -8.5364627838
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79097&foto=1600115&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79097&foto=1600115&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 458,
-  "area_bruta_m2": null,
+  "area_util_m2": 320,
+  "area_bruta_m2": 458,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

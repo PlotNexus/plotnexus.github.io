@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82571&foto=1671952&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82571&foto=1671952&f=1",
+  "description": "A Ruína do Malhadal é um projeto turístico e residencial localizado entre Melides e a Serra de Grândola, numa das zonas mais autênticas e preservadas da costa alentejana. Inserido numa paisagem marcada pelo montado, pela proximidade ao mar e pelo ritmo tranquilo característico da região, o projeto propõe uma experiência onde natureza, arquitetura e bem-estar se encontram de forma harmoniosa.\nInspirado na identidade das antigas construções rurais do Alentejo, o empreendimento combina elementos tradicionais com uma abordagem contemporânea à habitação e hospitalidade. O resultado é um conjunto de apartamentos e moradias integrados na paisagem, concebidos para proporcionar conforto, privacidade e uma forte ligação ao exterior.\nO projeto disponibiliza apartamentos T1 e T2, bem como moradias T3 e T4, permitindo responder a diferentes perfis de utilização, seja como residência de férias, segunda habitação ou investimento. Todas as unidades beneficiam de áreas exteriores privativas e piscina própria, reforçando a ligação à natureza e proporcionando espaços pensados para desfrutar do clima e da tranquilidade da região. Os apartamentos distinguem-se pela combinação entre design contemporâneo e materiais naturais, enquanto as moradias oferecem maior privacidade, jardins amplos e uma integração ainda mais próxima com a paisagem envolvente.\nA componente hoteleira assume um papel central na experiência do empreendimento, disponibilizando um conjunto abrangente de serviços e amenities, incluindo restaurante, bar, spa, piscina interior aquecida, sauna, banho turco, ginásio, piscinas exteriores e instalações desportivas. Os proprietários beneficiam do acesso a todas estas infraestruturas, combinando a privacidade de uma residência própria com as comodidades e serviços associados a uma operação turística profissional.\nLocalizada a poucos minutos da vila e da praia de Melides, e a cerca de uma hora de Lisboa, a Ruína do Malhadal beneficia de uma localização estratégica numa região que continua a afirmar-se como um dos destinos mais procurados de Portugal. Entre o campo e o mar, este projeto oferece uma oportunidade para viver ou investir num contexto onde autenticidade, natureza e qualidade de vida assumem um papel central.",
+  "geo": {
+    "lat": 38.0919445656,
+    "lng": -8.6626338958
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82571&foto=1671952&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82571&foto=1671952&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 100,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

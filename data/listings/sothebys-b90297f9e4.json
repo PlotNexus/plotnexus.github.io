@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 281,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65927&foto=1249180&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65927&foto=1249180&f=1",
+  "description": "Magnifica moradia geminada de 4 quartos, localizada numa zona residencial bastante tranquila de Vilamoura.\nA moradia é destacada por espaços amplos e luminosos. A sala de estar convida a momentos de descontração. Os quartos são aconchegantes e acolhedores.\nEstá inserida num condomínio familiar privativo com um total de 8 moradias, que partilham um jardim cuidado de baixa manutenção e uma piscina de ótima dimensão, onde é possível relaxar com vistas para o campo.\nExcelente oportunidade para quem procura investir numa zona residencial tranquila, a poucos minutos do centro da cidade e próxima das mais famosas praias e da Marina de Vilamoura.",
+  "geo": {
+    "lat": 37.0987663,
+    "lng": -8.1102197
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65927&foto=1249180&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65927&foto=1249180&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 281,
-  "area_bruta_m2": null,
+  "area_util_m2": 146,
+  "area_bruta_m2": 281,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

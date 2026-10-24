@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81537&foto=1649120&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81537&foto=1649120&f=1",
+  "description": "Fabuloso apartamento T3, com 127.3m2 de área bruta privativa, inserido em novo empreendimento junto à marina da Afurada.\nO apartamento distribui-se por sala de 28.4m2 em open space com a cozinha de 12m2, e acesso a um fabuloso terraço de 175.1m2 que acompanha todo o apartamento. Na zona privada, encontram-se dois quartos com casa de banho de apoio, e uma suite de 13.6m2. Conta ainda com dois lugares de garagem e arrumo.\nO projeto Marina Douro destaca-se por estar inserido numa zona abrigada, elevada e junto ao rio Douro.\nPróximo do Porto e de Gaia, o projeto engloba as vantagens de viver na cidade, enquanto o mantém longe das suas áreas mais movimentadas.\nViver aqui é ter um refúgio numa zona tranquila e segura, rodeado pela Natureza, eperto de escolas, parques e supermercados.\nLocalizado a menos de 15 minutos do centro do Porto e de Gaia, aqui beneficia de proximidade a tudo o que precisa no seu dia a dia sem abdicar do conforto de ter estacionamento privado e do sentimento libertador de morar num lugar sossegado onde a natureza impera. O empreendimento é constituído por 4 edifícios com espaçosos apartamentos T1 a T4, com extensas áreas exteriores e vistas para o rio e jardins que abraçam o empreendimento. De T4 a T5, as penthouses são apartamentos exclusivos no último piso de cada edifício. A sua altura elevada, acima de qualquer edifício, oferece um nível de privacidade e conforto único.",
+  "geo": {
+    "lat": 41.1308961787,
+    "lng": -8.6543941497
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,45 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81537&foto=1649120&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81537&foto=1649120&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Alarme (CCTV)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Sala Condomínio, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 25.8; Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 3,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

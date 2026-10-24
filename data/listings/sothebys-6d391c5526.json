@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=52439&foto=1477248&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=52439&foto=1477248&f=1",
+  "description": "O Sun Cliffs Resort eleva-se num dos cenários mais deslumbrantes do Algarve, junto à icónica Ponta da Piedade, em Lagos. Envolvido por três das praias mais célebres da região — Dona Ana, Camilo e Canavial — este resort personifica o epítome do luxo e da sofisticação. Desenvolvido pelo GFH (Grupo Ferreira Holdings), um dos mais prestigiados e dinâmicos promotores imobiliários de Portugal, o Sun Cliffs apresenta 72 apartamentos de alta qualidade, meticulosamente mobilados e decorados com um requinte que reflete o melhor do design contemporâneo. Cada detalhe foi concebido para oferecer vistas panorâmicas deslumbrantes e uma harmonia perfeita com o ambiente natural envolvente.\n\nCom título de propriedade freehold, estes apartamentos conferem total liberdade aos proprietários: podem ser usados como residência permanente, refúgio de férias ou como um investimento de elevada rentabilidade, através do arrendamento turístico. Integrado num exclusivo complexo hoteleiro de 5 estrelas, gerido pela Sonae Capital, o Sun Cliffs Resort oferece uma experiência verdadeiramente única, com acesso a comodidades de luxo, como um SPA de classe mundial, piscinas interiores e exteriores, um restaurante gourmet e um rooftop lounge com vistas deslumbrantes sobre o oceano Atlântico.\n\nDisponíveis em diversas tipologias (T1 a T3, incluindo T1+, T2 e T2+), com áreas entre 82 e 146 m², os apartamentos a partir do segundo piso oferecem vistas espetaculares sobre o oceano, criando um cenário de sonho para quem procura o melhor da vida à beira-mar.\n\nO Sun Cliffs Resort será lançado e estará totalmente operacional antes do verão de 2025, marcando o início de uma nova era de luxo no Algarve. Esta é a última oportunidade para se tornar um funding owner e fazer parte deste projeto exclusivo desde o seu início.\n\nNo Sun Cliffs Resort, cada momento é uma celebração da elegância, do conforto e da beleza natural. Um lugar onde o luxo se encontra com o horizonte infinito do Atlântico, seja para viver, desfrutar ou investir.",
+  "geo": {
+    "lat": 37.08685,
+    "lng": -8.673607
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,31 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=52439&foto=1477248&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=52439&foto=1477248&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Court Ténis",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 103,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

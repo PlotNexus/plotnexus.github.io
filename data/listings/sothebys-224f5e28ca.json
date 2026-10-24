@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73448&foto=1670009&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73448&foto=1670009&f=1",
+  "description": "A apenas 10 minutos de Lisboa, nasce, em Oeiras, o empreendimento Caxias Heights.\n\nO Caxias Heights é um condomínio fechado que oferece apenas 24 apartamentos de tipologias T3 a T4 duplex, apresentando áreas entre os 127 e os 229 metros quadrados de área bruta privativa. Projetados com layouts funcionais, design contemporâneo e acabamentos de alta qualidade, todos os apartamentos incluem garagem e arrecadação.\n\nO condomínio foi concebido para proporcionar uma experiência de vida única para famílias, com espaços exteriores que incluem uma piscina, jardins e um \"Kids &amp; Teens club\". Além disso, conta com uma sala multiusos, ideal para aniversários ou convívios.\n\nA localização estratégica do Caxias Heights oferece uma proximidade única a algumas das principais atrações e infraestruturas da região:\n \n- A apenas 10 minutos a pé, pode desfrutar do Parque Urbano da Terrugem e do Palácio Flor da Murta, ideais para passeios ao ar livre. \n- A 5 minutos de carro, encontra o Oeiras Parque para compras e lazer, os Jardins da Real Quinta de Caxias para momentos tranquilos, e o emblemático Parque dos Poetas. \n- A menos de 10 minutos de carro, chega às praias de Caxias, ao icónico Farol da Gibalta e ao histórico Centro de Belém. \n- A 15 minutos de carro, está o Estoril, com o seu charme único, e a 25 minutos, o Aeroporto Humberto Delgado e o centro de Lisboa.\n\nOeiras é um dos principais polos de inovação e tecnologia, sendo um concelho que combina bem o dinamismo empresarial com uma qualidade de vida tranquila, criando o cenário ideal para famílias e profissionais que procuram equilíbrio entre trabalho, família e lazer.\n\nÉ por isso que o Caxias Heights é mais do que um lugar para viver: é um refúgio onde a tranquilidade, a modernidade e a proximidade a tudo o que importa convergem de forma harmoniosa. \n\nVenha conhecer o Caxias Heights e descubra o verdadeiro significado de viver bem.",
+  "geo": {
+    "lat": 38.6962533320445,
+    "lng": -9.30527961528321
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,58 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73448&foto=1670009&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73448&foto=1670009&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 6"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Video-Porteiro",
+      "Alarme (CCTV, Pré-Instalação)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Parque Infantil)",
+      "Piscina (Exterior)"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas",
+      "Pastagens",
+      "Rio",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Comboio)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Escolas, Farmácia, Hospital, Jardins, Praias)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 130,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

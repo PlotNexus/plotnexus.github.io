@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72381&foto=1433290&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72381&foto=1433290&f=1",
+  "description": "Campo Alegre 1024 situado no Bairro Hollywood no Porto. Esta zona remete-nos para um ambiente bucólico onde é possível usufruir de momentos de pausa ainda que vivendo no centro da cidade. \nCaracterizada por casas de arquitetura mais tradicional, a zona do Bairro Hollywood, vê agora momentos de mudança que se aproximam. Este projeto é sem sombra de dúvida, um elemento charneira, já que a contemporaneidade e sofisticação se fundem em perfeita sintonia com a Natureza. \nLocalizado mesmo em frente ao Jardim Botânico do Porto, foi pensado com amplas varandas permitindo que a luz natural seja presença assídua em cada uma das fracções. As vistas panorâmicas dos pisos superiores proporcionam, assim como, a sensação de viver num refúgio no centro da cidade dos pisos inferiores, uma vivência em que a elegância, o pitoresco e a tranquilidade unem forças.\n\nProjetado pelo renomeado Atelier Carvalho Araújo, caracterizado pela habilidade em integrar os edifícios no contexto ambiental, valorizando a luz natural e os espaços verdes. Acredita que a arquitetura deve promover o bem-estar dos residentes, criando ambientes que favoreçam a interação social e a harmonia com a natureza.\n\nComposto por 30 unidades, o Campo Alegre 1024, distribui-se por 2 moradias, 21 apartamentos e 7 apartamentos pátio. Todas beneficiando de espaços comuns, como diversas salas sociais, ginásio e espaço Wellness e jardins e/ou pátios privados. Dispõem também de lugares de garagem em box e arrumos.\n\n\"Um jardim e no meio dele uma construção esbelta que ganha vida\", Arquiteto José Carvalho Araújo.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,38 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72381&foto=1433290&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72381&foto=1433290&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)",
+      "Paredes (Pintadas)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 8,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

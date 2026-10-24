@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83035&foto=1694512&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83035&foto=1694512&f=1",
+  "description": "Há propriedades que se distinguem pela localização, outras pela arquitetura, qualidade ou vista. E existem aquelas, verdadeiramente especiais, que conseguem reunir tudo isto numa experiência de vida singular. \nÉ o caso deste magnífico T2 Duplex no Belém Riverside, com 115 m² de área bruta privativa e 23 m² de áreas exteriores, onde a luz, o espaço e a proximidade ao Tejo definem uma forma de viver marcada pelo conforto e exclusividade. \nRemodelado em 2022, o apartamento apresenta uma linguagem contemporânea e elegante. \nNo piso de entrada, a área social desenvolve-se em torno de uma ampla sala de estar e jantar em open space com a cozinha, totalmente equipada com eletrodomésticos Miele e Siemens. E uma varanda que conecta em perfeita harmonia com a sala. Este piso dispõe ainda de um quarto com casa de banho completa e acesso a uma varandas privada. \n\nNo piso superior encontra-se uma extraordinária master suite, ampla e luminosa, com generoso pé-direito, que lhe confere uma notável sensação de amplitude e elegância. Pela sua dimensão, este espaço oferece também uma enorme versatilidade, podendo adaptar-se a diferentes utilizações, como escritório, biblioteca, sala de estar ou espaço de lazer e bem-estar. A grande mais-valia deste piso é o seu terraço privativo com vista para o Rio Tejo — um espaço raro, onde a paisagem se transforma numa extensão natural da casa e permite desfrutar, em absoluta privacidade, de um dos cenários mais emblemáticos de Lisboa. Imagine começar o dia com o Tejo diante de si, desfrutar de um momento de tranquilidade ao final da tarde ou simplesmente contemplar, em absoluta privacidade, uma das paisagens mais emblemáticas de Lisboa.\n\nO apartamento dispõe ainda de ar condicionado em todas as divisões, dois lugares de estacionamento e arrecadação e integra um condomínio de referência com piscina. \n\nViver em Belém é usufruir de uma das zonas mais distintas e intemporais de Lisboa, onde o património, a cultura, o rio e os jardins convivem em perfeita harmonia. A proximidade à Torre de Belém, Mosteiro dos Jerónimos, CCB, MAAT e frente ribeirinha, aliada à oferta de comércio, restaurantes, escolas e serviços, proporciona uma qualidade de vida excecional. Com excelentes acessos à Avenida Marginal, A5 e principais eixos rodoviários, Lisboa e Cascais encontram-se igualmente à porta. \n\nUma residência de exceção para quem procura espaço, privacidade, conforto e uma localização verdadeiramente privilegiada — com o Tejo como horizonte.",
+  "geo": {
+    "lat": 38.6946329,
+    "lng": -9.2195105
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,49 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83035&foto=1694512&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83035&foto=1694512&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 115,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

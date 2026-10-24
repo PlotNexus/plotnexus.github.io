@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78953&foto=1589518&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78953&foto=1589518&f=1",
+  "description": "Bonsant – o novo ícone residencial de Lisboa, onde o conforto e a natureza se encontram.\n\nLocalizado em Campolide, entre o centro de Lisboa e a natureza do Parque Florestal de Monsanto, o Bonsant é um novo empreendimento residencial de design arrojado e contemporâneo. Com 63 apartamentos T1, T2 e T3, distingue-se pela fachada inclinada que maximiza a luz natural e as vistas desafogadas. Com certificação ambiental LEED Gold em curso, o Bonsant combina arquitetura moderna, sustentabilidade e qualidade de vida – um projeto perfeito para quem procura um apartamento novo em Lisboa, seja para viver ou investir.\nOs apartamentos apresentam áreas generosas, amplas janelas e varandas que integram o espaço interior com o exterior. O edifício dispõe de piscina no rooftop, spa, sauna e ginásio, além de escritórios, sala de reuniões, estacionamento e arrecadações. Cada detalhe foi pensado para proporcionar conforto e bem-estar, desde as cozinhas equipadas com eletrodomésticos Siemens até aos acabamentos premium. A conclusão da obra está prevista para junho de 2027.\nA localização é um dos grandes trunfos do Bonsant. Próximo da Praça de Espanha, das Amoreiras e de Campo de Ourique, oferece fácil acesso a serviços, comércio, escolas e transportes públicos. A proximidade das principais vias de Lisboa garante ligações rápidas à margem sul, à linha de Cascais e à Serra de Sintra.\nViver no Bonsant é desfrutar do equilíbrio perfeito entre vida urbana e natureza, com vistas deslumbrantes sobre Monsanto, o maior parque florestal da Europa. Um refúgio verde no coração da cidade, ideal para quem valoriza tranquilidade, design e sustentabilidade.",
+  "geo": {
+    "lat": 38.7263671412,
+    "lng": -9.1636276245
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,36 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78953&foto=1589518&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78953&foto=1589518&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Sala Condomínio, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Sauna)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Escolas, Farmácia, Ginásio, Hospital, Jardins, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 86,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null
