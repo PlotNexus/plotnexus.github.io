@@ -8,23 +8,54 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68271&foto=1298215&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68271&foto=1298215&f=1",
+  "description": "Acordar e ter o rio Douro e a cidade do Porto como cenário de fundo é um privilégio que todos almejam, mas apenas alguns conquistam. \nUm sonho que pode ser tornado real graças ao empreendimento Land Roots River Apartments, localizado no centro histórico de Vila Nova de Gaia e bem perto do Cais de Gaia, atual polo de atração da cidade e aglutinador de uma história que ajudou a preencher as páginas do bonito livro que é o passado do Porto.\nO empreendimento Land Roots River Apartments coloca o seu bem-estar e conforto em primeiro lugar, providenciando ambientes únicos e exclusivos, com pormenores que marcam a diferença, nomeadamente o aproveitamento máximo da luz natural. \nCom áreas brutas entre 93m2 e 236m2, os 37 apartamentos com tipologias T1, T2, T2 Duplex, T3 e T4, todos com estacionamento, varanda e/ ou terraço privativo, distribuem-se por quatro andares, e disponibilizam acesso a áreas de lazer de uso coletivo que incluem piscina coberta, ginásio, SPA e espaços verdes.\nTodos os pormenores foram pensados e projetados para oferecer máxima funcionalidade e de modo a aproveitar os recursos naturais, pois só assim se consegue transformar um simples espaço num verdadeiro lar. \nNo centro histórico de Gaia muita coisa acontece: os turistas que passeiam sem pressa, as famílias que sorriem com as brincadeiras dos mais novos, o comércio que abre portas como se estivesse a preparar-se para receber qualquer um num acolhedor abraço. E como música de fundo, encontra o deslizar do rio Douro que é sempre o mais incrível protagonista e o melhor confidente de todos os estados de espírito. No meio de tanta agitação, também é importante parar um pouco e ter aquele porto seguro, que lhe permite encontrar o tão necessário equilíbrio. O empreendimento Land Roots River Apartments será o seu oásis no meio da cidade. O local para recuperar energias e voltar a centrar o foco em si e naqueles que mais ama.",
+  "geo": {
+    "lat": 41.13639,
+    "lng": -8.620482
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-santa-marinha-e-sao-pedro-da-afurada-vila-nova-de-gaia_pt_68271",
-  "published_at": "2026-10-23",
-  "last_seen_at": "2026-10-23",
+  "published_at": "2026-10-24",
+  "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68271&foto=1298215&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68271&foto=1298215&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Piscina (Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Equipamento (Video-Porteiro)",
+      "Piscina (Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bombeiros, Centros Comerciais, Escolas, Ginásio)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 100,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

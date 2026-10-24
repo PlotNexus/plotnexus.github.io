@@ -8,23 +8,59 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81762&foto=1654192&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81762&foto=1654192&f=1",
+  "description": "Exclusivo apartamento T2 inserido no empreedimento Casas Garcia de Orta. Este apartamento dispõe de uma sala generosa com 40.1m2, acompanhada de uma belíssima varanda orientada a poente, onde pode desfrutar de momentos de lazer em total privacidade e com vistas para o parque da cidade. Composto por duas suites, dispõe ainda de um wc de serviço. Destacam-se os acabamentos de qualidade superior, soalho em madeira natural, mármore nos wc´s e louças da Duravit, caixilharias de baixo perfil com vidro duplo e corte térmico, equipamentos da Bosh e ar condicionado. A localização é das mais valorizadas comercialmente, a cinquenta metros quadrados do parque da cidade, bem fornecido de todo tipo de comércio e transportes e com o mar a escassos minutos a pé. Ainda assim é uma zona calma, essencialmente de moradias. Estas características conferem uma grande qualidade de vida aos seus habitantes. Este apartamento tem um lugar de garagem. A empresa construtora e promotora deste edifício é uma das mais bem referenciadas na cidade do Porto com diversos projetos vencedores o que confere conforto e garantias aos seus clientes. A obra já iniciou e estima a sua conclusão para o segundo trimestre de 2026.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-aldoar-foz-do-douro-e-nevogilde-porto_pt_81762",
-  "published_at": "2026-10-23",
-  "last_seen_at": "2026-10-23",
+  "published_at": "2026-10-24",
+  "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81762&foto=1654192&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81762&foto=1654192&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 4,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

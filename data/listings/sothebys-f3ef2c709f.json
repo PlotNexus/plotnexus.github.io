@@ -8,23 +8,61 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=60350&foto=1121457&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=60350&foto=1121457&f=1",
+  "description": "Apartamento de dois quartos situado no luxuoso Del Mar Marina, um condomínio frente mar único, com uma vista ímpar para a Marina de Olhão e para a Ria Formosa. \nComposto por rés-do-chão e 4 pisos com 83 apartamentos totalmente equipados com 1, 2 ou 3 quartos. \nLocalizado no Parque Natural da Ria Formosa, encontra-se numa zona única, onde a natureza permanece em perfeita harmonia com o Homem. Concebido para um estilo de vida moderno, permitindo desfrutar do equilíbrio natural e calmo de uma paisagem única, rodeada de todos os luxos que a arquitetura moderna pode proporcionar. A curta distância pedonal da marina, mercados históricos, restaurantes, farmácia, banco, e todas os serviços necessários, a escassos minutos de barco das praias paradisíacas das ilhas da Armona, Culatra, Farol e Deserta, e poucos minutos de carro de campos de golfe, do aeroporto internacional e da fronteira com Espanha. Situado a leste de Faro, no sotavento algarvio, Olhão, possui uma das paisagens mais deslumbrantes da Ria Formosa, sendo considerada uma das 7 maravilhas de Portugal. Esta terra de pescadores, com barcos rudimentares, casas brancas de arquitetura cubista, mercados de peixe e legumes e uma vista desafogada para as pequenas ilhas que protegem a ria do mar, fazem da extraordinária localização deste resort um local onde os momentos simples da vida realmente faz sentido. O nascimento no novo Porto Recreio com novos restaurante de renome e qualidade de serviço, desfrutando uma bela vista ria/marina\n\nFeatures: Condomínio fechado • Localização Premium frente da Marina de Olhão • Construção de última geração e acabamentos de luxo • Duas Piscinas no ultimo andar sendo uma delas aquecidas • Amplas garagens para parqueamento de viaturas e equipamentos • Segurança permanente 24 horas (CCTV) • Baixos custos de manutenção",
+  "geo": {
+    "lat": 37.0260416,
+    "lng": -7.8423509
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-olhao-olhao_pt_60350",
-  "published_at": "2026-10-23",
-  "last_seen_at": "2026-10-23",
+  "published_at": "2026-10-24",
+  "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=60350&foto=1121457&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=60350&foto=1121457&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 55; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 122,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

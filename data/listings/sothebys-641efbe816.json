@@ -8,23 +8,65 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69923&foto=1387608&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69923&foto=1387608&f=1",
+  "description": "Exclusivo apartamento duplex com quatro quartos, junto à Alameda das Antas, com 272 metros quadrados de área bruta e duas varandas continuas. Está inserido no último piso de um prédio, projetado pelo gabinete de arquitetura Ventura e Partners. No piso da entrada temos o hall com uma parede revestida por uma belíssima escultura do escultor Paulo Neves, uma suite com 19 metros quadrados com closet e um quarto servido por um banho completo. Todos os quartos têm uma varanda contínua com 12 metros quadrados. No piso superior encontramos a sala comum com 42 metros quadrados, a cozinha totalmente equipada com 12 metros quadrados e uma suite com 19 metros quadrados, com o prolongamento de uma varanda com 17 metros quadrados orientado a sul. Tem dois lugares de garagem e arrumo. Podemos desfrutar de umas vistas desafogadas sobre a cidade. \nNas proximidades encontram-se todo o tipo de comodidades e serviços, com destaque para o Alameda Shopping, espaço comercial de referência que inclui lojas, hipermercado, ginásio panorâmico, praça de restauração e cinemas. A proximidade do Metro confere-lhe um valor acrescido pela facilidade de transporte público.",
+  "geo": {
+    "lat": 41.1657261535263,
+    "lng": -8.5887911547699
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/duplex-campanha-porto_pt_69923",
-  "published_at": "2026-10-23",
-  "last_seen_at": "2026-10-23",
+  "published_at": "2026-10-24",
+  "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69923&foto=1387608&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69923&foto=1387608&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Termolacada",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Casa Recolha Lixo, Sala Condomínio, Video-Porteiro, Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 73,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

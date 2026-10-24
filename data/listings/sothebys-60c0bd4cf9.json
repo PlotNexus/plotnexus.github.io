@@ -8,23 +8,66 @@
   "bedrooms": 6,
   "bathrooms": 7,
   "area_m2": 4,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81902&foto=1667237&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81902&foto=1667237&f=1",
+  "description": "No coração da Beira Baixa, envolvida pela serenidade da natureza e pela autenticidade singular de Proença-a-Nova, encontra-se esta extraordinária moradia de traça contemporânea, concebida para proporcionar um estilo de vida pautado pela privacidade absoluta, conforto e sofisticação discreta.\n\nTotalmente vedada e inserida num cenário de rara tranquilidade, a propriedade harmoniza arquitetura moderna, qualidade construtiva superior e uma envolvência natural de exceção. As amplas áreas envidraçadas permitem uma ligação constante à paisagem envolvente, oferecendo vistas desafogadas sobre a natureza intacta da região, onde os tons verdes da floresta e a luz dourada do interior criam um ambiente de serenidade permanente.\n\nReconhecida pela sua qualidade de vida ímpar, Proença-a-Nova destaca-se pela proximidade a algumas das mais emblemáticas praias fluviais do país, bem como por uma vasta rede de trilhos pedestres e percursos naturais que convidam a experiências ao ar livre ao longo de todo o ano. Entre vales, ribeiras e paisagens preservadas, esta é uma localização onde o tempo ganha uma dimensão diferente.\n\nA propriedade desenvolve-se de forma fluida e funcional, privilegiando o conforto familiar e a vivência social. Dispõe de cinco elegantes suites, duas amplas salas de estar e convívio, duas cozinhas totalmente equipadas e sete instalações sanitárias, refletindo um equilíbrio perfeito entre requinte e funcionalidade.\n\nNo exterior, os jardins cuidadosamente desenhados prolongam a experiência de bem-estar, envolvendo a piscina numa atmosfera de resort privado. O pomar e a vinha acrescentam um carácter genuinamente mediterrânico e exclusivo à propriedade, evocando um estilo de vida ligado à terra, à autenticidade e ao prazer de viver.\n\nAo nível do equipamento e eficiência, a moradia encontra-se preparada para responder aos mais elevados padrões contemporâneos de conforto e sustentabilidade. Conta com sistema de som ambiente, aquecimento central, ar condicionado em todas as divisões, videovigilância e infraestrutura hídrica autónoma através de furo de água, complementada por ligação à rede pública. Os dez painéis fotovoltaicos, associados ao sistema de bomba de água, reforçam a eficiência energética e a autonomia da propriedade.\n\nUma residência distinta, onde a arquitetura contemporânea encontra a natureza em estado puro, oferecendo um refúgio privado de rara qualidade no centro de Portugal.",
+  "geo": {
+    "lat": 39.7346719,
+    "lng": -7.9408646
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-proenca-a-nova-e-peral-proenca-a-nova_pt_81902",
-  "published_at": "2026-10-23",
-  "last_seen_at": "2026-10-23",
+  "published_at": "2026-10-24",
+  "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81902&foto=1667237&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81902&foto=1667237&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Furo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (CCTV)",
+      "Música Ambiente (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Revestimento Exterior (Granito)",
+      "Equipamento (Jardins, Rega Automática)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Centralidade (Periferia Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 4,
-  "area_bruta_m2": null,
+  "area_util_m2": 3,
+  "area_bruta_m2": 4,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,23 +8,37 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76294&foto=1541263&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76294&foto=1541263&f=1",
+  "description": "Moradia T3 a estrear, localizada em Porto Salvo, Oeiras, a poucos minutos de Lisboa, com excelente acessibilidade à A5, ao Taguspark e à zona empresarial de Oeiras. Inserida numa zona residencial tranquila, esta moradia de arquitetura moderna distribui-se por três pisos e apresenta acabamentos de qualidade superior.\n\nNo piso zero encontra-se uma sala de estar generosa com ótima luminosidade natural, ideal para momentos em família, bem como uma cozinha moderna e funcional com acesso direto ao exterior e uma casa de banho social. No segundo piso situam-se os quatro quartos, incluindo uma suíte, todos com boas áreas e excelente exposição solar.\n\nNo piso inferior, ao nível da piscina, a moradia conta ainda com um salão amplo, perfeito para convívio ou lazer, complementado por uma casa de banho de apoio. No exterior, o destaque vai para o agradável jardim com piscina privativa e zona de lazer, ideal para desfrutar dos dias mais quentes, além do parqueamento para duas viaturas. Esta é uma excelente oportunidade para quem procura uma casa nova, confortável e bem equipada, num local calmo mas próximo de tudo.",
+  "geo": {
+    "lat": 38.7172599768991,
+    "lng": -9.29906845088021
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-geminada-porto-salvo-oeiras_pt_76294",
-  "published_at": "2026-10-23",
-  "last_seen_at": "2026-10-23",
+  "published_at": "2026-10-24",
+  "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76294&foto=1541263&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76294&foto=1541263&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Piscina (Exterior)"
+    ],
+    "Zona": [
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Hospital, Jardins Infância, Polícia)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 215,
+  "area_bruta_m2": 274,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

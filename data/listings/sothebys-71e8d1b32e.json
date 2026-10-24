@@ -8,23 +8,46 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=53048&foto=1525172&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=53048&foto=1525172&f=1",
+  "description": "O empreendimento Prateato situado no coração de Marvila, considerado o bairro mais descontraído de Lisboa, a poucos metros do rio Tejo e rodeado de antigas fábricas e armazéns, outrora zona industrial de Lisboa. Este empreendimento de 18 lofts e 29 apartamentos com tipologias de T1 a T5, a maioria deles com terraço ou jardim, está localizado numa rua calma a poucos metros de todas as infraestruturas que estão a chegar a esta zona Oriental da cidade de Lisboa. Marvila encontra-se em franco desenvolvimento a nível comercial, habitacional, restauração, jardins e escritórios, é já considerado o bairro artístico de Lisboa onde se encontram galerias de arte, designers, hubs creativos, coworks, cervejarias artesanais, ... o que torna esta zona num local ideal para quem gosta de viver num ambiente descontraído e calmo. Também para quem quer investir, Marvila é possivelmente a Freguesia de Lisboa com maior potencial de valorização nos próximos anos. \nO Prateato conta com três estilos diferentes de lofts e apartamentos, \"Green\", \"Classic\" e \"Terrace\", para proporcionar aos futuros residentes a hipótese de poderem escolher o apartamento de acordo com as necessidades e com o estilo de vida que têm. Neste Bairro junto ao Rio Tejo vemos hoje os antigos armazéns transformados em espaços de co-work, incubadoras de empresas, galerias de arte, espaços culturais diversos e restaurantes do mundo. É o Beer District de Lisboa com três fábricas de cerveja artesanal. Facilidade e rapidez nos acessos ao centro da cidade.\nOportunidade única na zona oriental de Lisboa. Este loft especificamente, está localizado na frente do condomínio e é composto por dois corpos, ambos no piso térreo, sendo o corpo da entrada de casa composto por uma sala aberta para a cozinha, com três grandes portas que abrem para o jardim privativo do loft, jardim este que circula em redor de todo o imóvel. No outro corpo do loft encontramos a casa de banho social, dois quartos, ambos com portas de acesso ao jardim privativo e uma segunda casa de banho completa de apoio aos dois quartos. O loft conta ainda com um lugar de garagem.",
+  "geo": {
+    "lat": 39.3682791491601,
+    "lng": -9.140625
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-marvila-lisboa_pt_53048",
-  "published_at": "2026-10-23",
-  "last_seen_at": "2026-10-23",
+  "published_at": "2026-10-24",
+  "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=53048&foto=1525172&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=53048&foto=1525172&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 104,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

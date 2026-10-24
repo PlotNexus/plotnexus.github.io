@@ -8,23 +8,45 @@
   "bedrooms": 5,
   "bathrooms": 3,
   "area_m2": 245,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81086&foto=1693259&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81086&foto=1693259&f=1",
+  "description": "Descubra esta magnífica moradia na charmosa Ilha da Madeira, localizada na Rua Murteiras, Funchal. Com uma vista deslumbrante para a baía e o mar, esta propriedade é um verdadeiro convite para apreciar a serenidade da natureza. Edificada em 1988, a moradia encontra-se em excelente estado de conservação, repartida por dois pisos com um total de cinco quartos e três casas de banho, ideal para acomodar confortavelmente toda a família. Com uma área bruta de 245 metros quadrados e uma área exterior generosa de 405 metros quadrados, este imóvel inclui um amplo jardim e um pátio, perfeitos para momentos de lazer. Imagine-se a desfrutar das tardes no terraço ou nas varandas, em pleno contato com a tranquilidade da zona. A garagem individual com espaço para dois carros complementa o conforto da casa. A sua proximidade a zonas de comércio e vias de comunicação torna a localização conveniente para o dia-a-dia sem comprometer a quietude desejada. Trata-se de uma excelente oportunidade de investimento tanto para quem procura uma residência permanente como para quem deseja uma casa de férias. Não perca a oportunidade de possuir este pedacinho de paraíso na Madeira, onde teremos o prazer em acompanhá-lo na visita a esta residência única.",
+  "geo": {
+    "lat": 32.64771613317,
+    "lng": -16.8946629508789
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-funchal-santa-maria-maior-funchal_pt_81086",
-  "published_at": "2026-10-23",
-  "last_seen_at": "2026-10-23",
+  "published_at": "2026-10-24",
+  "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81086&foto=1693259&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81086&foto=1693259&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Esquentador"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 45; Local (Cave)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 245,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 245,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

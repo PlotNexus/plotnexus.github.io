@@ -8,23 +8,26 @@
   "bedrooms": 3,
   "bathrooms": 5,
   "area_m2": 436,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77398&foto=1562167&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77398&foto=1562167&f=1",
+  "description": "Localizada na zona residencial das Virtudes, no Funchal, esta moradia T3 encontra-se inserida num lote de 553 metros quadrados, oferecendo a combinação perfeita entre tranquilidade, privacidade e qualidade de vida.\n\nConstruída em 2000, a propriedade preserva a autenticidade da arquitetura tradicional madeirense, distinguindo-se pelo pátio amplo e pela área ajardinada envolvente — espaços ideais para momentos de lazer, convívios em família ou pequenos projetos de jardinagem.\n\nNo interior, a moradia distribui-se de forma funcional por três quartos bem dimensionados, todos em suíte e com varanda independente, proporcionando luminosidade, conforto e privacidade em cada divisão. Esta configuração garante versatilidade para diferentes estilos de vida, seja como residência principal, casa de férias ou investimento seguro.\n\nA localização acrescenta ainda mais valor, beneficiando de excelentes acessos a escolas, comércio, transportes e serviços, sem abdicar da serenidade e privacidade características da zona.",
+  "geo": {
+    "lat": 32.6517631466256,
+    "lng": -16.9325763702393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-sao-martinho-funchal_pt_77398",
-  "published_at": "2026-10-23",
-  "last_seen_at": "2026-10-23",
+  "published_at": "2026-10-24",
+  "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77398&foto=1562167&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77398&foto=1562167&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 436,
-  "area_bruta_m2": null,
+  "area_util_m2": 256,
+  "area_bruta_m2": 436,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

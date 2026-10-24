@@ -8,23 +8,76 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 330,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81099&foto=1654090&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81099&foto=1654090&f=1",
+  "description": "Situada numa travessa da Avenida Clube de Caçadores, acompanhe a margem norte do Rio Douro, esta moradia T3 beneficia de uma localização privilegiada, marcada pela tranquilidade, privacidade e vistas deslumbrantes sobre o rio.Com 288 m² de área bruta privativa distribuídos por três pisos servidos por elevador, oferece uma vivência funcional e sofisticada, ideal para famílias que valorizam qualidade de vida, serenidade e proximidade à cidade.Construída em 2010 e em excelente estado de conservação, destaca-se pela luminosidade natural excecional, proporcionada pela exposição solar e pelas amplas superfícies envidraçadas que criam uma ligação harmoniosa entre interior e exterior. A área social desenvolve-se de forma fluida e acolhedora, privilegiando o conforto e o convívio, enquanto a zona privada integra dois quartos e uma suite, assegurando funcionalidade e privacidade.O jardim e os terraços proporcionam distintos ambientes de lazer e contemplação, enquanto a varanda e o rooftop oferecem um cenário único sobre o Douro, ideal para momentos de descontração ou para receber convidados num ambiente reservado e exclusivo.A moradia dispõe de ar condicionado Daikin, aquecimento central Roca e cozinha totalmente equipada com eletrodomésticos Siemens, garantindo elevados padrões de conforto e funcionalidade. O imóvel é comercializado totalmente mobilado e decorado, conforme apresentado nas imagens, permitindo uma entrada imediata num ambiente cuidadosamente concebido, onde conforto e sofisticação convivem em perfeita harmonia.A propriedade inclui ainda garagem para duas viaturas, cave e elevador com acesso a todos os pisos, reforçando a componente de conforto e acessibilidade.Inserida numa zona segura e predominantemente residencial, beneficia de excelentes acessos à Ponte do Freixo, A20, A43, A44 e A1, permitindo rápidas ligações ao Porto e aos principais eixos da região.A proximidade ao Parque Oriental da Cidade do Porto, Terminal Intermodal de Campanhã, Hospital Escola Fernando Pessoa, Estádio do Dragão, Pavilhão Multiusos e Alameda Shop &amp; Spot acrescenta conveniência e centralidade a um imóvel onde o lifestyle urbano convive em perfeita harmonia com a natureza envolvente.",
+  "geo": {
+    "lat": 41.1179702967847,
+    "lng": -8.54230552599487
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-gondomar-sao-cosme-valbom-e-jovim-gondomar_pt_81099",
-  "published_at": "2026-10-23",
-  "last_seen_at": "2026-10-23",
+  "published_at": "2026-10-24",
+  "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81099&foto=1654090&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81099&foto=1654090&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 3; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Alumínio, Eléctricos)"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Gás",
+      "Escritório",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "TV-Cabo",
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Monomassa)",
+      "Paredes (Pintadas, Tijoleira)",
+      "Tecto (Focos)",
+      "Equipamento (TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 41.3; Local (Cave)"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Comboio, Porto de Rio)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 330,
-  "area_bruta_m2": null,
+  "area_util_m2": 288,
+  "area_bruta_m2": 330,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }
