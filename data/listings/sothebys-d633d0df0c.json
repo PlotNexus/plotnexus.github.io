@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77515&foto=1563045&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77515&foto=1563045&f=1",
+  "description": "Localizado na freguesia de Santa Maria Maior, este apartamento T2 encontra-se no coração da zona histórica de Lisboa. Trata-se de uma oportunidade única para quem procura viver ou investir numa das áreas mais emblemáticas da cidade.\n\nCom uma área bruta privativa de 85 m², o imóvel é composto por dois quartos, uma casa de banho social, cozinha equipada, sala de estar e varanda. Está inserido num edifício com elevador, o que facilita o acesso e contribui para a comodidade do dia a dia. A distribuição dos espaços foi pensada para proporcionar funcionalidade e conforto, tirando partido da luminosidade natural.\n\nApesar de não dispor de suites ou lugar de estacionamento, o apartamento oferece características muito valorizadas no centro histórico, como o acesso facilitado por elevador e a presença de varanda, que permite usufruir de um espaço exterior privado.\n\nA localização é um dos seus grandes trunfos, com uma envolvência marcada pela autenticidade e pelo dinamismo da Baixa lisboeta. A zona oferece uma ampla variedade de serviços, comércio tradicional, cafés, restaurantes, farmácias e instituições culturais.\n\nO imóvel beneficia de excelente acessibilidade, com proximidade às principais vias da cidade, permitindo uma mobilidade facilitada. Está ainda bem servido de transportes públicos, incluindo metro, autocarros e elétricos, o que reforça a sua centralidade.",
+  "geo": {
+    "lat": 38.7113522,
+    "lng": -9.1361634
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,16 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77515&foto=1563045&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77515&foto=1563045&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 85,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

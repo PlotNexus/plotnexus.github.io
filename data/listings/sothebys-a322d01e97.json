@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 6,
   "area_m2": 1170,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68453&foto=1314117&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68453&foto=1314117&f=1",
+  "description": "Localizada em Outeiro da Cabeça, Torres Vedras, numa zona tranquila e rodeada de verde no coração do campo, esta moradia de seis quartos, incluindo quatro suites, é uma oportunidade única no mercado imobiliário, com enorme potencial para remodelação. Com uma área bruta privativa de 780 m² e uma área total de construção de 1.170 m², a propriedade oferece um espaço amplo e versátil, ideal para quem procura um refúgio sereno longe da agitação urbana.\n\nAssinada pelo arquiteto Ferrão de Oliveira, a moradia destaca-se pela sua arquitetura singular e pela excelente distribuição dos espaços. Construída em 1976, necessita de obras de atualização, mas mantém a solidez da sua estrutura e um design funcional. A cave inclui uma garagem, uma espaçosa sala de jogos, uma sala de refeições, uma garrafeira, uma cozinha, uma zona técnica e uma casa de banho. No piso térreo, encontram-se quatro suites, uma casa de banho de serviço, uma cozinha, uma copa, um escritório, uma sala de jantar, uma sala de estar e uma sala de leitura. O primeiro andar conta com dois quartos adicionais, uma sala de estar e uma casa de banho completa.\n\nO terreno, com 5.000 m² integralmente murados, oferece total privacidade e é perfeito para quem aprecia a natureza e o sossego do campo. Um anexo com forno de lenha acrescenta charme e funcionalidade, proporcionando o cenário ideal para momentos de convívio em família.\n\nCom excelente exposição solar, a propriedade está localizada a apenas 5 minutos da A8, 15 minutos de Torres Vedras, 20 minutos do Campo de Golfe de 18 buracos no Turcifal, considerado o Melhor Golfe do Oeste, e até 30 minutos da Praia da Areia Branca ou da Praia de Santa Cruz. Está ainda a apenas 1 hora de Lisboa. Esta localização privilegiada combina a tranquilidade do campo com a proximidade das principais vias de comunicação e serviços essenciais, tornando esta moradia uma oportunidade imperdível para criar um lar único.\n\nEsta é uma oportunidade imperdível para quem procura uma moradia espaçosa, privada e bem localizada, que alia o conforto do campo à proximidade com as comodidades da cidade. Agende já a sua visita e descubra o seu novo lar!\n\nA Sotheby's International Realty está presente em Portugal desde 2007 com a missão: \"A arte de unir casas extraordinárias a vidas extraordinárias.\"",
+  "geo": {
+    "lat": 39.19123,
+    "lng": -9.178407
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,53 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68453&foto=1314117&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68453&foto=1314117&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Pisos: 3; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Estores (PVC)"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pintado)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado, Falso Madeira)",
+      "Equipamento (Jardins)"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave, Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Comboio, Transportes Púb.)",
+      "Centralidade (Rural)",
+      "Proximidade (Escolas, Farmácia, Jardins, Jardins Infância, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 1170,
-  "area_bruta_m2": null,
+  "area_util_m2": 780,
+  "area_bruta_m2": 1170,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

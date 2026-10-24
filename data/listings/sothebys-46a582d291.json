@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": 277,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83061&foto=1714493&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83061&foto=1714493&f=1",
+  "description": "Exclusiva propriedade localizada na Figueira da Foz, numa envolvência única e privilegiada, com vistas desafogadas sobre os verdes campos de arroz. Inserida num amplo terreno de 4.400 m², esta moradia destaca-se pela privacidade, tranquilidade e pelo enorme potencial para habitação permanente, casa de férias ou investimento turístico.\n\nA casa principal dispõe de 3 quartos e de uma extraordinária sala de 63 m², onde as áreas de estar e jantar se encontram harmoniosamente definidas, beneficiando das vistas sobre a paisagem envolvente. No exterior, a propriedade oferece amplos espaços ajardinados, zona de horta e árvores de fruto.\n\nA propriedade dispõe ainda de uma piscina aquecida de grandes dimensões, equipada com cobertura, proporcionando utilização durante todo o ano. Junto a zona da piscina, e com completa privacidade, encontramos dois espaços de arrumos convertidos em unidades de alojamento com mezanine, e area de ginásio, aumentando a versatilidade e o potencial da propriedade, com a vantagem de ter acesso através de uma segunda entrada de acesso a propriedade.\n\nCom uma localização central, encontra-se a cerca de 17 minutos da Figueira da Foz e das praias, permitindo um acesso rápido a todos os serviços, comércio, restauração e equipamentos da cidade. A proximidade à zona litoral acrescenta valor a esta propriedade enquanto refúgio de lazer.\n\nAs acessibilidades são igualmente uma mais-valia, com ligação conveniente às principais vias rodoviárias. O Aeroporto Francisco Sá Carneiro, no Porto, fica a cerca de 1h30, enquanto Lisboa se encontra aproximadamente a 2 horas de distância, facilitando as deslocações nacionais e internacionais.\n\nUma propriedade verdadeiramente singular, com o potencial para se transformar num refúgio exclusivo no coração da natureza, numa casa de férias para uma família numerosa, num espaço de partilha com total privacidade ou num projeto de alojamento local na Figueira da Foz.",
+  "geo": {
+    "lat": 40.165690944,
+    "lng": -8.7554168701
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,47 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83061&foto=1714493&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83061&foto=1714493&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Paredes (Pintadas)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 277,
-  "area_bruta_m2": null,
+  "area_util_m2": 194,
+  "area_bruta_m2": 277,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

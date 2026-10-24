@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69849&foto=1349606&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69849&foto=1349606&f=1",
+  "description": "Este apartamento de 3 quartos, localizado no coração de Vilamoura, oferece uma experiência única de luxo e conforto. Situado no rés do chão de um condomínio exclusivo, Monte Laguna, este imóvel renovado apresenta 3 quartos, um deles, en suite, e um espaçoso terraço, perfeito para momentos de lazer ao ar livre.\n\nCom uma área bruta privativa de 118,95 metros quadrados, estores elétricos e ar condicionado, esta propriedade destaca-se pela sua avaliação excelente e pela sua localização privilegiada. Desfrute do acesso direto à piscina e beneficie de 3 lugares de garagem para o seu total conforto e conveniência.\n\nConstruído em 2007, este apartamento proporciona uma exposição solar ideal, virada a sul, garantindo luminosidade e calor durante todo o ano. \n\nA sua proximidade às principais vias, a apenas 4 quilómetros das praias deslumbrantes e a 500 metros do campo de golfe, torna este imóvel uma escolha excecional para quem valoriza o estilo de vida algarvio.\n\nCom supermercados e escolas a uma curta distância, e a garantia de uma atmosfera tranquila e segura, este apartamento é a opção perfeita para quem procura o equilíbrio entre conforto, conveniência e sofisticação em Vilamoura.",
+  "geo": {
+    "lat": 37.1035315719035,
+    "lng": -8.11736196813964
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69849&foto=1349606&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69849&foto=1349606&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 95,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 200,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83122&foto=1701687&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83122&foto=1701687&f=1",
+  "description": "Numa zona residencial tranquila de São João da Talha, esta moradia contemporânea de três quartos combina a serenidade de um ambiente reservado com a proximidade a Lisboa. De construção recente e nunca habitada, apresenta-se pronta a estrear, com espaços pensados para viver com conforto e usufruir de uma agradável ligação ao exterior.\n\nCom 200 m² de área bruta privativa, a propriedade distingue-se pela distribuição harmoniosa e pela luminosidade dos seus interiores. A expressão contemporânea dos espaços cria uma atmosfera acolhedora, onde a funcionalidade acompanha o quotidiano. A área privada integra uma suíte e dois quartos adicionais, dispondo a moradia de duas casas de banho completas e uma casa de banho social.\n\nO jardim convida a prolongar os momentos de convívio ao ar livre, oferecendo um espaço para refeições descontraídas ou simples pausas ao longo do dia. No piso superior, o terraço revela vistas amplas e desafogadas sobre a envolvente, proporcionando um ambiente tranquilo para descansar e desfrutar da paisagem.\n\nUma garagem de dimensões generosas assegura espaço para estacionamento e arrumação, complementando a comodidade desta casa, entregue em regime de chave na mão.\n\nA localização permite conciliar um ritmo de vida tranquilo com acessos convenientes à capital e às principais vias rodoviárias. A cerca de 15 minutos de carro, o Parque das Nações oferece uma frente ribeirinha de referência, com jardins, espaços de lazer, restaurantes, comércio e uma ampla rede de transportes. A proximidade ao Aeroporto Internacional de Lisboa acrescenta conveniência a quem valoriza mobilidade.\n\nUma casa pronta para um novo capítulo, onde as áreas generosas, o jardim e o terraço se conjugam numa proposta de vida contemporânea às portas de Lisboa.",
+  "geo": {
+    "lat": 38.8322554,
+    "lng": -9.1045684
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83122&foto=1701687&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83122&foto=1701687&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 200,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 200,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

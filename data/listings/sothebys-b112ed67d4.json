@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82659&foto=1715128&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82659&foto=1715128&f=1",
+  "description": "Este T2 com terraço privativo, totalmente remodelado, é uma oportunidade rara no mercado. É a perfeita combinação entre o charme da traça antiga de Lisboa e o conforto da arquitetura moderna, \n\nInserido num prédio exclusivo de apenas 4 frações, que foi objeto de uma reabilitação integral (estruturas, fachada, telhado, áreas comuns e redes de água e eletricidade novas), este imóvel garante privacidade, tranquilidade e o prestígio de viver numa das zonas mais nobres da cidade. \nLocalizado no eixo estratégico imbatível entre Campo de Ourique, o Largo do Rato e as Amoreiras:\n\nTransportes: A escassos minutos a pé da estação de Metro do Rato e de várias linhas de autocarro.\n\nEstilo de Vida: Faça tudo a pé! Cercado pelo comércio tradicional e pastelarias de Campo de Ourique, restaurantes de referência, ginásios e farmácias.\n\nProximidade: A poucos passos do Centro Comercial Amoreiras, do Jardim da Estrela e das melhores escolas e colégios da cidade.",
+  "geo": {
+    "lat": 38.7197461,
+    "lng": -9.1587271
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82659&foto=1715128&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82659&foto=1715128&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 42,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

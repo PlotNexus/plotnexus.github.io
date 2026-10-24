@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74858&foto=1590834&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74858&foto=1590834&f=1",
+  "description": "Localizado na Misericórdia, um dos bairros mais emblemáticos e autênticos de Lisboa, este elegante apartamento de quatro quartos insere-se num edifício que combina história, charme e modernidade. Renovado com materiais de elevada qualidade, o imóvel alia conforto contemporâneo à atmosfera única da capital.\n\nCom uma distribuição funcional e excelente luminosidade, dispõe de quatro quartos — incluindo uma suíte —, três casas de banho, ampla sala dividida entre estar e jantar, cozinha totalmente equipada e um escritório, que pode ser convertido em quarto adicional. Conta ainda com uma sala de música, ideal para lazer ou entretenimento.\n\nA localização é verdadeiramente privilegiada, próxima de transportes públicos, comércio local, cafés históricos, galerias, jardins alguns dos miradouros mais icónicos da cidade. \nA cinco minutos de São Bento, do ISEG e em apenas 15 minutos é possível aceder às principais vias e ao aeroporto, tornando esta propriedade ideal para quem procura viver com elegância, conveniência e autenticidade no coração de Lisboa.",
+  "geo": {
+    "lat": 38.7100523,
+    "lng": -9.1590861
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74858&foto=1590834&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74858&foto=1590834&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 155,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 5,
   "area_m2": 97,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82876&foto=1678980&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82876&foto=1678980&f=1",
+  "description": "Localizada na zona de Barranco, em Portimão, esta moradia T3 de arquitetura contemporânea destaca-se pela combinação entre design, qualidade de construção e soluções arquitetónicas diferenciadoras. Com conclusão prevista para o final de 2027, é uma oportunidade para quem procura uma moradia nova com acabamentos de elevado padrão, piscina e amplos espaços interiores, numa localização central do Algarve.\n\nCom 250 m² de área de construção, a moradia dispõe de três quartos em suite, cinco casas de banho e uma cozinha totalmente equipada, concebida para integrar um conceito de design moderno e funcional. A cave e a garagem apresentam divisórias em vidro, proporcionando maior entrada de luz natural e continuidade visual entre os espaços.\n\nNo exterior, a piscina constitui um dos elementos mais marcantes do projeto. Quando o nível da água atinge o limite, esta percorre uma parede revestida em pedra natural junto à habitação, criando um efeito de cascata iluminada visível a partir do interior da cave. O jardim inclui árvores de fruto, como laranjeiras, e percursos pedonais com iluminação integrada, reforçando a utilização dos espaços exteriores durante todo o dia.\n\nA moradia beneficia de uma localização estratégica, encontrando-se a apenas 4 minutos das principais vias de acesso, 6 minutos de supermercados e restaurantes, 8 minutos do hospital e cerca de 10 minutos de escolas, proporcionando uma excelente ligação aos principais serviços do concelho.\n\nA estação ferroviária de Portimão situa-se a aproximadamente 12 minutos, facilitando as deslocações para outras zonas do Algarve. A moradia não integra condomínio, permitindo maior autonomia e privacidade aos proprietários.\n\nBarranco é uma zona residencial em crescimento, caracterizada pela proximidade ao centro de Portimão, às praias, aos campos de golfe e às diversas ofertas comerciais e de lazer da cidade. A sua localização permite usufruir de um estilo de vida tranquilo, mantendo um acesso rápido às principais infraestruturas da região.",
+  "geo": {
+    "lat": 37.131881845191,
+    "lng": -8.54832158199891
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,67 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82876&foto=1678980&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82876&foto=1678980&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 1; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos, Térmicos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (Pré-Instalação)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Pavimento (Marmorite)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Falso Pladur, Ponto de Luz)",
+      "Equipamento (Gás Canalizado, Jardins, TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 97,
-  "area_bruta_m2": null,
+  "area_util_m2": 77,
+  "area_bruta_m2": 97,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

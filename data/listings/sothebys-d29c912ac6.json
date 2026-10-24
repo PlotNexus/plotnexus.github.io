@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69344&foto=1540046&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69344&foto=1540046&f=1",
+  "description": "Situado no centro de Vilamoura, este apartamento, inserido no condomínio Olympus, representa uma oportunidade de aquisição numa zona privilegiada. Localizado no 9º andar, oferece vistas diretas para o mar e para a marina, numa área que combina conforto e acessibilidade, ideal para quem procura uma residência ou investimento na região do Algarve. Este apartamento dispõe de um quarto, uma casa de banho e um espaço de habitação bem distribuído. Destaca-se pela sua exposição solar a sul e poente, que proporciona ambientes luminosos ao longo do dia. O imóvel inclui ainda um lugar de estacionamento, e beneficia de acesso a elevador. O condomínio fechado oferece parque privado, piscina e campo de ténis, proporcionando opções de lazer e segurança para os seus residentes. A sua localização privilegiada permite fácil acesso às principais vias, como a A22 e EN125, a apenas 10 minutos, facilitando deslocações para diferentes pontos da região. Além disso, encontra-se a uma curta caminhada de supermercados, restaurantes e outros serviços essenciais, garantindo conveniência no dia a dia como tambem da praia de Vilamoura. A proximidade a áreas de lazer e a centros de interesse torna este apartamento uma escolha prática para quem valoriza uma vida confortável e bem conectada em Vilamoura. Este imóvel combina funcionalidade, localização e acessibilidade, sendo uma excelente oportunidade na zona central desta reconhecida área do Algarve.\n\nAlgumas imagens são projetadas em homestaging.",
+  "geo": {
+    "lat": 37.07669,
+    "lng": -8.11757
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69344&foto=1540046&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69344&foto=1540046&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Domótica": [
+      "Alarme (Segurança Activa)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Vistas": [
+      "Mar"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 64,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

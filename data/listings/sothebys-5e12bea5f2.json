@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82098&foto=1670754&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82098&foto=1670754&f=1",
+  "description": "Apartamento T4 com 165 m² de área bruta privativa e varandas, situado numa das zonas mais autênticas, dinâmicas e procuradas de Lisboa.\n\nLocalizado numa das ruas mais emblemáticas da zona, este imóvel beneficia de excelentes acessos a vários pontos da cidade, a aproximadamente 300m do metro, autocarros e ao icónico Elétrico 28, que percorre alguns dos bairros mais históricos de Lisboa, incluindo Graça, Alfama e Estrela.\n\nOs Anjos, reconhecido como um dos bairros mais “cool” pela Time Out, destaca-se pela sua energia cosmopolita, diversidade cultural e ambiente criativo. A zona oferece uma excelente rede de comércio e serviços, com cafés de referência, pastelarias tradicionais, restaurantes de cozinha internacional, escolas, supermercados e espaços culturais. Destaca-se ainda a proximidade ao Mercado do Forno do Tijolo, um mercado de bairro tradicional que se tornou um dos pontos de encontro mais carismáticos da zona. Este espaço combina a autenticidade dos mercados lisboetas com uma oferta gastronómica diversificada, reunindo desde restaurantes de cozinha típica portuguesa, sabores locais, até conceitos de gastronomia internacional.\n\nCom bastante luz natural e o charme intemporal da arquitetura lisboeta, este apartamento preserva elementos de época, incluindo janelas amplas, portadas originais, pé-direito alto e tetos trabalhados, características que conferem elegância e personalidade ao espaço.\n\nA distribuição interior inclui sala de jantar, sala de estar, quatro quartos e duas casas de banho, com um layout versátil que permite adaptar os espaços às diferentes necessidades de uma família, seja para quartos adicionais, closet, escritório, biblioteca ou zonas multifuncionais. O layout oferece ainda potencial para reconfiguração, permitindo personalizar o imóvel ao gosto do futuro proprietário.\nDispõe de duas casas de banho completas, cozinha equipada e uma área de lavandaria independente, proporcionando funcionalidade e conforto no dia a dia. O imóvel encontra-se ainda equipado com aquecimento central em todas as divisões, assegurando maior conforto térmico ao longo de todo o ano.\n\nPara melhor percepção do potencial do espaço, o anúncio inclui fotografias do apartamento mobilado e também vazio, permitindo visualizar tanto a sua vivência atual como as possibilidades de personalização.\n\nUma excelente oportunidade para quem procura um apartamento espaçoso, com caráter e inserido numa das localizações mais vibrantes de Lisboa.",
+  "geo": {
+    "lat": 38.7238212,
+    "lng": -9.1317478
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82098&foto=1670754&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82098&foto=1670754&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 165,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

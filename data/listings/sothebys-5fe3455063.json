@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 3,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80512&foto=1640255&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80512&foto=1640255&f=1",
+  "description": "Moradia isolada T4 situada em Canidelo, Vila Nova de Gaia, a escassos minutos do mar e das praias da região. Inserida numa área residencial tranquila, esta propriedade destaca-se pelo jardim envolvente com palmeiras e pela piscina exterior aquecida, proporcionando um espaço exterior aprazível para usufruto diário e atividades ao ar livre. Com 286,7 m² de área bruta privativa e 348,3 m² de área bruta de construção, esta moradia foi edificada em 2003, exibindo uma fachada de linhas simples e contemporâneas, distribuída por três pisos. No piso inferior, encontra-se uma garagem box com 50,20 m², além de zona de arrumos, escritório, garrafeira e casa de banho, criando uma área funcional de apoio à habitação. No rés-do-chão, destaca-se a zona social composta por sala de estar e jantar com lareira dotada de recuperador de calor e salamandra, criando um ambiente acolhedor ao longo de todo o ano. A cozinha é independente e está equipada, com espaço para mesa de refeições, sendo complementada por lavandaria, casa de banho de serviço e hall de entrada. O primeiro piso é exclusivo para a área privada, com quatro quartos, dos quais dois são suítes, além de casa de banho adicional de apoio. A suíte principal dispõe ainda de varanda. O exterior inclui jardim rodeado por vegetação e palmeiras, varanda e zonas de circulação, com piscina aquecida e exposição solar favorável, bem como terraço destinado a refeições ao ar livre e zona de churrasqueira, criando um espaço ideal para convívio e utilização ao longo de todo o ano. A moradia está próxima de supermercados, restaurantes, bares e diversos serviços, assim como de colégios de referência em Vila Nova de Gaia. Existem também bons acessos a hospitais públicos e privados na proximidade. Em termos de mobilidade, beneficia de excelentes acessos rodoviários e transportes públicos, facilitando a ligação ao centro de Vila Nova de Gaia e à cidade do Porto. A curta distância encontram-se ainda a zona costeira de Canidelo e o Golf Quinta do Fojo, reforçando a localização privilegiada próximo do litoral.",
+  "geo": {
+    "lat": 41.1308961787,
+    "lng": -8.6543941497
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,58 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80512&foto=1640255&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80512&foto=1640255&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 4; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Depósito Lixo",
+      "Escritório",
+      "TV-Cabo",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pintado)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 50.20; Casa de Banho",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 3,
-  "area_bruta_m2": null,
+  "area_util_m2": 7,
+  "area_bruta_m2": 3,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

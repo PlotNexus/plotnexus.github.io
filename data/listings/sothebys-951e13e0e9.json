@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77292&foto=1554333&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77292&foto=1554333&f=1",
+  "description": "Localizado no coração do Chiado, em Lisboa, este apartamento renovado encontra-se no 2.º andar de um edifício típico da zona histórica. Com tipologia T2, destaca-se pela sua localização privilegiada e pelo potencial como investimento com licença AL transmissível e negócio Airbnb já em funcionamento.\n\nO imóvel é composto por dois quartos, uma casa de banho, uma Sala social com excelentes áreas e uma cozinha totalmente equipada. A renovação do apartamento valorizou a funcionalidade dos espaços e permite uma vivência cómoda e prática no centro da cidade. O estado atual do imóvel é renovado, com avaliação considerada excelente.\n\nA poucos passos do Rossio (2 minutos) e do Terreiro do Paço (5 minutos), a localização garante acesso rápido às principais vias da cidade, facilitando deslocações a pé ou através de transportes públicos. A zona está rodeada por serviços, comércio tradicional, restaurantes e espaços culturais.\n\nCom excelente rentabilidade turística e uma localização central na capital portuguesa, este apartamento é uma oportunidade para quem procura viver ou investir numa das zonas mais emblemáticas de Lisboa.",
+  "geo": {
+    "lat": 38.7113522,
+    "lng": -9.1361634
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77292&foto=1554333&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77292&foto=1554333&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 84,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

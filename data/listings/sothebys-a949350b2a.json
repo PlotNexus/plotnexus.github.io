@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 3,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80524&foto=1637413&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80524&foto=1637413&f=1",
+  "description": "Deslumbrante moradia com três quartos em fase final de construção, com vista para a Ria de Alvor, situada na prestigiada Urbanização Pontalgar em Mexilhoeira Grande, Portimão. Esta propriedade moderna destaca-se pela sua arquitetura contemporânea, com uma área de implantação de 89,5 metros quadrados inserida num terreno de 268 metros quadrados. Construída com métodos inovadores em ICF Insulated Concrete Forms, garante um isolamento térmico e acústico excecional, além de possuir uma classe energética A+. A orientação a sul/poente proporciona uma luminosidade natural impressionante e vistas desafogadas. O conforto térmico é assegurado por um sistema de ar condicionado Daikin Perfera e ventilação VMC de duplo fluxo Mitsubishi. A moradia é ainda equipada com painéis solares térmicos com um depósito de 300 litros, promovendo a eficiência energética. O exterior oferece uma piscina privativa com tratamento a sal, área de barbecue, pérgulas em madeira e um jardim com sistema de rega automática. Os acabamentos são de alta qualidade, incluindo pavimentos em microcimento, carpintarias em carvalho e caixilharias de corte térmico com excelente classificação energética. No interior, encontra-se um piso social amplo, zona de lavandaria e áreas de arrumos. Nos pisos superiores, há dois quartos, incluindo suítes com roupeiros embutidos e acesso a varandas privativas. A cozinha é moderna e totalmente equipada. Tem garagem coberta com 16.4m e uma área descoberta com 26.3m2. A construção beneficia de uma garantia estrutural de 10 anos pela Casa Classe Mais, simbolizando o equilíbrio entre luxo, sustentabilidade e conforto.",
+  "geo": {
+    "lat": 37.1591536929,
+    "lng": -8.614654541
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,41 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80524&foto=1637413&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80524&foto=1637413&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 42.7; Local (Cave, Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Centros Comerciais, Escolas, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 3,
-  "area_bruta_m2": null,
+  "area_util_m2": 137,
+  "area_bruta_m2": 3,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

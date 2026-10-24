@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": null,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79170&foto=1593804&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79170&foto=1593804&f=1",
+  "description": "O Olive Green Residences é um empreendimento residencial composto por três lotes, num total de 95 apartamentos mobilados e equipados, de tipologias T0 a T4. Localizado em Alcácer do Sal, foi concebido para quem procura conforto, bem-estar e uma relação equilibrada entre natureza e modernidade.\nAs áreas comuns proporcionam um quotidiano tranquilo e completo, com piscina exterior, ginásio interior e exterior, campo de ténis e padel, horta comunitária e parque infantil. Todos os apartamentos dispõem de estacionamento privado em garagem coberta e arrecadação. Algumas unidades incluem ainda terraço privativo na cobertura com piscina exterior exclusiva.\nErguido com uma linguagem arquitectónica contemporânea, o projeto valoriza a identidade local e a harmonia com a paisagem envolvente. Ideal para residência permanente ou segunda habitação, o Olive Green Residences combina conveniência e autenticidade num ambiente sereno.\nA localização é um dos principais atrativos: a poucos minutos do centro de Alcácer do Sal, com acesso rápido às principais vias rodoviárias, a 20 minutos da Comporta e a 45 minutos de Lisboa. Beneficia da proximidade de serviços, comércio, restauração e transportes, garantindo uma vivência cómoda e funcional.\nAlcácer do Sal é um destino onde o tempo desacelera e a vida ganha outro ritmo. Entre o rio Sado, a cultura local e as paisagens naturais, encontra-se um cenário perfeito para desfrutar de atividades ao ar livre, praias próximas e experiências gastronómicas autênticas. Um lugar para viver com equilíbrio e qualidade, onde cada dia se traduz em tempo bem aproveitado.",
+  "geo": {
+    "lat": 38.3714619,
+    "lng": -8.5107572
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,29 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79170&foto=1593804&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79170&foto=1593804&f=1"
   ],
-  "features": null,
+  "features": {
+    "Domótica": [
+      "Piscina (Exterior, Interior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Equipamento (Campo de Jogos, Court Ténis, Jardins, Parque Infantil)",
+      "Piscina (Exterior, Interior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins"
+    ],
+    "Zona": [
+      "Proximidade (Jardins, Praias)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 129,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

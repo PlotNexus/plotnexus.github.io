@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73970&foto=1461729&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73970&foto=1461729&f=1",
+  "description": "Apartamento T1+2 no Pestana Porto Covo Beach Residences\n\nNo coração da vila piscatória de Porto Covo, a 50 metros da Praia Grande, e dentro do Parque Natural do Sudoeste Alentejano e Costa Vicentina, vai nascer um novo projeto da marca Pestana Residences, O Pestana Porto Covo Beach Residences.\nLocalizado frente mar, num terreno de oito hectares, este projeto será constituído por 238 apartamentos turísticos com piscinas privativas, inserido num condomínio privado com serviços incluídos e uma área comum de jardins e espaços lúdicos. A operação turística e serviços serão fornecidos pelo Pestana Hotel Group, assim como a gestão do condomínio.\nO projeto está a ser desenvolvido pela equipa do Arquitecto Gonçalo Salazar de Sousa e as obras de construção estão asseguradas pela Carvoeiro Construções, empresa detida pelo Pestana Hotel Group, com previsão de entrega no primeiro trimestre de 2027.\nO Largo Marquês de Pombal, coração de Porto Covo, e toda a zona antiga que o rodeia é uma das maravilhas da arquitetura iluminista portuguesa, sendo atualmente uma área com diversos espaços comerciais e restaurantes. Porto Covo está ainda rodeada das mais belas e naturais praias do país, escarpadas e escondidas que se encontram ao longo da costa. \nEntre em contacto para receber mais informações sobre esta ótima oportunidade de investimento do universo Pestana Residences, tanto para lazer, como para rentabilização através da profissional exploração turística do Grupo Pestana.",
+  "geo": {
+    "lat": 37.9582750352,
+    "lng": -8.8704299926
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,38 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73970&foto=1461729&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73970&foto=1461729&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Equipamento (Jardins)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Vistas": [
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Jardins, Praias, Serviços Públicos)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 111,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

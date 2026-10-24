@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78571&foto=1633365&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78571&foto=1633365&f=1",
+  "description": "Fantástico empreendimento situado no coração da pitoresca vila do Lugar de Baixo, no concelho da Ponta do Sol, distinguindo-se pela sua localização privilegiada e pela elevada qualidade de construção com acabamentos de inspiração arquitetónica contemporânea.\n\nComposto por 12 apartamentos — quatro T1 e quatro T2 —, todos os imóveis oferecem varandas espaçosas com vista mar e estacionamento equipado com tomadas para carregamento de veículos elétricos. Os interiores destacam-se pela luminosidade, divisões amplas e cozinhas totalmente equipadas em open space com a sala, garantindo funcionalidade e conforto.\n\nO empreendimento inclui ainda zonas ajardinadas e uma piscina voltada a sul, onde é possível desfrutar do sol e da vista sobre o oceano Atlântico durante todo o ano. Na envolvência, encontra-se uma excelente oferta de serviços, restaurantes e uma fantástica praia, tornando este projeto uma oportunidade excecional para viver ou investir na costa sul da Madeira.",
+  "geo": {
+    "lat": 32.6795993040946,
+    "lng": -17.103604888916
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78571&foto=1633365&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78571&foto=1633365&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 120,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

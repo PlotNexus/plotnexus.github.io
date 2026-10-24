@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83092&foto=1689129&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83092&foto=1689129&f=1",
+  "description": "Apartamento T2 com estacionamento e arrecadação, localizado na Avenida D. Carlos I, na freguesia da Misericórdia, em Santos-o-Velho, uma das zonas mais procuradas de Lisboa. Inserido num condomínio fechado com construção antissísmica, este imóvel destaca-se pela sua localização central, pela qualidade construtiva e pela proximidade aos principais bairros históricos da cidade.\n\nCom 120 m² de área bruta e 20 m² de área privativa destinada a arrecadação e lugar de estacionamento, o apartamento encontra-se em excelente estado de conservação. Dispõe de uma sala com 36 m², dois quartos, uma casa de banho completa e um lugar de estacionamento. A orientação nascente-poente e as amplas janelas proporcionam uma boa entrada de luz natural ao longo do dia. O imóvel apresenta materiais e equipamentos de qualidade, incluindo soalho em carvalho francês, caixilharia Technal com vidros duplos, ar condicionado Daikin, radiadores Caleffi e revestimentos em mármore de Estremoz, oferecendo conforto térmico e acústico.\n\nO condomínio oferece porteiro residente 24 horas, sistema de videovigilância, dois elevadores, estacionamento para visitantes e acesso pela Avenida D. Carlos I e pela Rua de São Bento, proporcionando funcionalidade e comodidade no dia a dia.\nA localização permite usufruir de uma vasta oferta de serviços, hospitais, comércio, restauração, equipamentos culturais e escolas internacionais. Encontra-se a curta distância a pé do Chiado, Príncipe Real, Lapa, Estrela, Jardim da Estrela, Praça das Flores e da frente ribeirinha do Tejo, integrando uma das áreas mais valorizadas da cidade.",
+  "geo": {
+    "lat": 38.7098593,
+    "lng": -9.1530247
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,45 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83092&foto=1689129&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83092&foto=1689129&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Zona": [
+      "Acessos (Bons, Comboio, Metro, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Escolas, Farmácia, Ginásio, Hospital, Jardins, Padaria, Polícia, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 120,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

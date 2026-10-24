@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79548&foto=1714374&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79548&foto=1714374&f=1",
+  "description": "No coração de Arroios, a poucos minutos do ambiente histórico da Graça, encontra-se este elegante apartamento no 2.º andar, recentemente renovado, que combina sofisticação contemporânea, conforto e uma localização privilegiada.\n\nA residência oferece quatro amplos quartos, distribuídos de forma harmoniosa para garantir privacidade e bem-estar. A sala de estar e jantar, luminosa e espaçosa, proporciona um ambiente acolhedor e distinto, ideal tanto para receber como para desfrutar de momentos de tranquilidade.\n\nO apartamento conta com três varandas: uma à frente, perfeita para sentir a energia urbana do bairro e duas na parte posterior. Uma junto à cozinha (zona de lavandaria) e outra para poder desfrutar de refeições ao ar livre, tendo ambas uma vista inspiradora sobre o rio Tejo — um privilégio raro no centro da cidade.\n\nEntre as comodidades que elevam este imóvel, destacam-se o lugar de estacionamento privado (1 carro) e um elevador. A envolvente é igualmente notável, com comércio tradicional, serviços de proximidade, metro e várias linhas de autocarro a poucos passos, garantindo mobilidade e praticabilidade no dia a dia.\n\nRenovado e inserido numa das zonas mais vibrantes e autênticas de Lisboa, este apartamento representa uma oportunidade única de viver entre o cosmopolitismo de Arroios e o charme da Graça, num espaço onde estética, funcionalidade e conforto se encontram de forma exemplar.",
+  "geo": {
+    "lat": 38.7204153,
+    "lng": -9.1325399
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,48 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79548&foto=1714374&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79548&foto=1714374&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 140,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

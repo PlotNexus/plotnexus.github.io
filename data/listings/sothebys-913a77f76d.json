@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75830&foto=1508799&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75830&foto=1508799&f=1",
+  "description": "Situado na icónica Torre São Gabriel, um dos edifícios residenciais mais altos do país, projetado pelo arquiteto José Quintela, apresentamos este apartamento T2 localizado no Parque das Nações, em Lisboa.\n\nCom uma área generosa de 105 metros quadrados, este imóvel oferece o equilíbrio perfeito entre conforto e elegância.\n\nÉ composto por uma ampla sala, com grandes envidraçados e vista desafogada, cozinha totalmente equipada, casa de banho social e duas suites. Um apartamento com muita arrumação, acabamentos de qualidade e materiais nobres.\n\nRessalvamos que este apartamento se encontra para venda ou arrendamento, no caso de ser arrendamento o apartamento estará disponível parcialmente mobilado.\n\nInserido num condomínio privado com portaria e segurança 24 horas, usufrui de acesso direto ao Health club Solinca. Com uma localização privilegiada junto aos principais vias e acessos, encontra-se a poucos passos da estação de comboios e metro, proporcionando uma excelente mobilidade na cidade.\n\nEste apartamento também está convenientemente localizado perto de importantes serviços, como hospitais, escolas e áreas comerciais, nomeadamente o Centro Vasco da Gama.\n\nAlém das suas características únicas, este imóvel é um verdadeiro símbolo de habitação de luxo, oferecendo um ambiente sofisticado e exclusivo para os seus moradores. Combinando o conforto interior com a localização privilegiada no Parque das Nações, este apartamento é uma oportunidade imperdível para quem busca uma vida de qualidade e estilo em Lisboa.",
+  "geo": {
+    "lat": 38.7706810254422,
+    "lng": -9.10079956054688
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75830&foto=1508799&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75830&foto=1508799&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 105,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

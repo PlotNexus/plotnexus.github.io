@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": 5,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=49367&foto=1393968&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=49367&foto=1393968&f=1",
+  "description": "Extraordinária moradia geminada de duas suites, com vistas deslumbrantes sobre o rio Douro e a cidade do Porto. A zona social é composta por um digno hall, uma sala comum, com um prolongamento de um terraço de 65 metros quadrados, cozinha totalmente equipada com eletrodomésticos topo de gama da Siemens, com lavandaria e uma casa de banho social. Na zona privada, temos duas suites, ambas com acesso a uma varanda de treze metros quadrados. O novo condomínio privado Quinta de São Marcos vai nascer numa das últimas encostas de socalcos da zona ribeirinha de Vila Nova de Gaia, na margem sul do rio Douro. Numa zona calma e privilegiada de Gaia, o projeto beneficia da combinação perfeita entre a natureza, com os seus terraços, sobre ruínas que contam histórias de vários povos e do Castelo de Gaia e onde a calma do rio Douro preenche a paisagem. A arquitetura moderna proporciona comodidade absoluta e bem estar e com acabamentos de qualidade superior que contam com pavimentos em madeira de carvalho, mármores, ar condicionado, bomba de calor, painéis solares, recuperador de calor, caixilharia Cortizo e videoporteiro.\nO novo empreendimento residencial Quinta de São Marcos, de 5000 metros quadrados e ligação ao rio, contará com 23 apartamentos e três moradias com áreas entre os 72 e os 288 metros quadrados, e tipologias entre T1 e T4, com espaços de sala e ginásio de condomínio, jardim exteriores e vistas deslumbrantes sobre o rio Douro e a cidade do Porto. \nLocalização privilegiada a 250 metros do rio Douro e a cinco minutos dos acessos à autoestrada.",
+  "geo": {
+    "lat": 41.14305,
+    "lng": -8.64732
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,52 @@
   "published_at": "2026-10-24",
   "last_seen_at": "2026-10-24",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=49367&foto=1393968&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=49367&foto=1393968&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Pavimento (Mármore)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Gás Canalizado, Jardins, Sala Condomínio, Video-Porteiro)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Porto de Rio)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 5,
-  "area_bruta_m2": null,
+  "area_util_m2": 144,
+  "area_bruta_m2": 5,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }
