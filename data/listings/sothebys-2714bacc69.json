@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75357&foto=1501002&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75357&foto=1501002&f=1",
+  "description": "Propriedade com vista mar a poucos minutos a pé da praia de Olhos D'Água, no coração de Albufeira. Dispõe de três quartos, sendo um deles situado no piso 1, ideal para quem procura acessibilidade e conforto. No piso superior encontram-se dois quartos em suíte, proporcionando maior privacidade e comodidade aos seus ocupantes.\n\nA cozinha encontra-se totalmente equipada, com despensa e com acesso ao terraço com churrasqueira pronta a acolher momentos de convívio e refeições em família. A acolhedora sala de estar dispõe de lareira, criando um ambiente perfeito para os dias mais frios, complementada ainda por uma casa de banho de serviço para maior praticidade.\n\nO imóvel conta com dois sistemas de lareira, ar condicionado e aquecimento a gás, garantindo conforto térmico durante todo o ano. Para aproveitar os dias de sol, a casa oferece uma agradável varanda e um generoso espaço exterior, ideal para momentos de lazer ao ar livre.\n\nExcelente para viver, férias ou para investimento, a curta distância a pé de todos os serviços e comodidades e com excelentes acessibilidades.",
+  "geo": {
+    "lat": 37.0931708,
+    "lng": -8.1925335
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75357&foto=1501002&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75357&foto=1501002&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 234,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

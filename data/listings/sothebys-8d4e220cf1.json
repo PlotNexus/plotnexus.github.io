@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 96,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75960&foto=1537848&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75960&foto=1537848&f=1",
+  "description": "Esta moradia isolada de dois quartos, localizada a apenas 5 minutos de carro da cidade, representa uma excelente oportunidade para quem procura criar a casa dos seus sonhos no Algarve, num ambiente tranquilo mas com excelente acessibilidade.\n\nInserida num lote generoso, a propriedade mantém traços típicos algarvios, como os elementos em pedra, telhado de duas águas com telhas de barro, e uma configuração tradicional que valoriza o exterior. Apesar de necessitar de remodelações, a estrutura da casa apresenta uma base sólida para um projeto de reabilitação com imenso potencial.\n\nO interior oferece atualmente dois quartos, uma casa de banho, e uma sala com conceito de open space que integra a cozinha — um espaço que, com alguma intervenção, pode transformar-se num ambiente ideal para momentos em família ou entre amigos.\n\nO pátio circundante é um dos grandes destaques desta moradia, com vistas amplas para a serra e também para o mar, proporcionando um cenário verdadeiramente inspirador e ideal para desfrutar da tranquilidade do espaço ao ar livre.\n\nAdicionalmente, a propriedade conta com um anexo independente com cozinha e casa de banho, oferecendo versatilidade para acolher visitas, criar um estúdio ou até mesmo desenvolver um pequeno alojamento local.\n\nA moradia dispõe ainda de uma piscina exterior (carecendo de reabilitação) e de um espaço de quintal com excelente exposição solar — perfeito para jardim, horta ou área de lazer.\n\nPrivada mas bem localizada, esta propriedade combina o charme rural com a proximidade urbana, tornando-se uma excelente opção para habitação própria, casa de férias ou investimento.",
+  "geo": {
+    "lat": 37.1408322867535,
+    "lng": -8.02002998937988
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,44 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75960&foto=1537848&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75960&foto=1537848&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Furo"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Madeira"
+    ],
+    "Edifício": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Cidade",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins Infância, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 96,
-  "area_bruta_m2": null,
+  "area_util_m2": 80,
+  "area_bruta_m2": 96,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

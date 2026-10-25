@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 1102,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81419&foto=1653648&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81419&foto=1653648&f=1",
+  "description": "Situada em Moreira do Castelo, a apenas 10 minutos de Celorico de Basto e a cerca de 40 minutos do Porto, esta distinta moradia oferece uma combinação rara de privacidade, tranquilidade e conforto absoluto, envolvida por uma paisagem natural de exceção e vistas deslumbrantes sobre a serra.\n\nImplantada num terreno com aproximadamente 5.000 m², a propriedade destaca-se pela sua imponência, posição elevada e excelente exposição, proporcionando um ambiente exclusivo e sereno. Com uma área bruta de construção de 1.102 m², esta residência foi concebida para privilegiar espaço, funcionalidade e qualidade construtiva.\n\nNo interior, a moradia encontra-se em irrepreensível estado de conservação, evidenciando uma construção sólida e materiais de elevada qualidade. Os móveis, robustos e desenhados à medida para a propriedade, estão incluídos, reforçando o carácter distinto e intemporal da casa.\n\nOs espaços interiores oferecem uma experiência de conforto superior, com sistema de som ambiente embutido no teto em todas as divisões, televisões distribuídas por toda a casa e sistema de videovigilância integrado, garantindo comodidade, entretenimento e segurança.\n\nNo exterior, os jardins cuidadosamente tratados envolvem toda a propriedade, criando um cenário harmonioso com a natureza envolvente. A piscina exterior com cobertura elétrica e o campo multiusos convidam a momentos de lazer e convívio em total privacidade.\n\nA propriedade dispõe ainda de água de poço para apoio à rega e manutenção da piscina, proporcionando maior eficiência e sustentabilidade.\n\nPensada também para receber família e amigos, a moradia conta com um salão de festas equipado com cozinha e todos eletrodomésticos e forno a lenha, ideal para experiências gastronómicas e momentos memoráveis. Existem ainda duas salas exteriores com potencial para criação de quartos adicionais, aumentando a versatilidade do imóvel.\n\nInserida numa região de enorme riqueza natural e cultural, esta propriedade beneficia de uma localização privilegiada para quem aprecia natureza, caminhadas e lifestyle ativo. O histórico Castelo de Arnóia encontra-se a apenas 15 minutos a pé, assim como diversos trilhos e percursos emblemáticos, incluindo a reconhecida Rota do Românico. A região prepara-se ainda para receber os maiores passadiços da Europa, reforçando o potencial turístico e valorização futura da zona.\n\nUma propriedade única, onde a autenticidade do Minho e a natureza se destacam.",
+  "geo": {
+    "lat": 41.3481417954,
+    "lng": -8.0598449707
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,68 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81419&foto=1653648&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81419&foto=1653648&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia",
+      "Poço"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores (Alumínio)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Court Ténis",
+      "Rega Automática",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (CCTV)",
+      "Música Ambiente (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Campo de Jogos, Court Ténis, Jardins, Rega Automática, Som Ambiente, TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave, Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 1102,
-  "area_bruta_m2": null,
+  "area_util_m2": 8,
+  "area_bruta_m2": 1102,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

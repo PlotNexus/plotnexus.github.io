@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70266&foto=1408353&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70266&foto=1408353&f=1",
+  "description": "Este magnífico apartamento está localizado na freguesia de Marvila, em Lisboa, oferecendo um estilo de vida urbano privilegiado.\nCom uma área bruta privativa de 82 metros quadrados, este apartamento único possui um quarto em suite e uma segunda casa de banho social. Localizado no sexto andar, oferece uma vista deslumbrante sobre o rio e a cidade, proporcionando uma atmosfera envolvente e relaxante. Além disso, o terraço enorme (oitenta e cinco metros quadrados) proporciona um espaço ao ar livre perfeito para desfrutar de momentos de lazer e entretenimento.\nO apartamento está inserido no famoso empreendimento Prata Riverside Village, um empreendimento de qualidade premium. Com uma avaliação excelente, este imóvel novo oferece um ambiente moderno e sofisticado, com acabamentos de alta qualidade e uma estrutura contemporânea. O apartamento dispõe de um lugar de estacionamento e de uma arrecadação.\n\nA localização privilegiada deste apartamento oferece fácil acesso às principais vias da cidade. Situado a apenas cinco minutos da Segunda Circular e do aeroporto, bem como a quinze minutos do centro da cidade, proporciona conveniência e mobilidade aos seus residentes. Além disso, a estação de comboios está a apenas cinco minutos a pé, garantindo uma ligação rápida e prática com outras áreas de Lisboa.\n\nOs arredores deste imóvel são igualmente atrativos. Dentro do próprio empreendimento, você encontrará diversos restaurantes e um mercado gourmet, farmácia, lavandaria, casa de bicicletas, pastelaria, spa etc. Além disso, há dois supermercados a apenas cinco minutos de distância, garantindo facilidade nas compras. Vários colégios estão a dez minutos e um colégio internacional a apenas cinco minutos de distancia, tornando este apartamento uma boa opção para uma família.\n\nCom todas essas características e a sua localização estratégica, a 200 metros do jardim e do rio Tejo, este apartamento em Marvila oferece uma oportunidade única de desfrutar de um estilo de vida urbano moderno, confortável e conveniente em Lisboa.\n\nAgende uma visita e venha descobrir este magnífico apartamento com vista para o rio e a cidade. Não perca essa oportunidade de viver no coração de Lisboa. Entre em contato connosco hoje mesmo!",
+  "geo": {
+    "lat": 38.7457735,
+    "lng": -9.0982602
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,63 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70266&foto=1408353&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70266&foto=1408353&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Termolacada",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Gás Canalizado",
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação, Lojas)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Cerâmica, Monomassa, Pedra Natural, Vidro (painéis))",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Madeira, Pedra Natural)",
+      "Tecto (Estucado, Focos)",
+      "Equipamento (Casa Recolha Lixo, Gás Canalizado, Gerador de Emergência, Jardins, Ventilação Mecânica, Video-Porteiro, Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 6,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

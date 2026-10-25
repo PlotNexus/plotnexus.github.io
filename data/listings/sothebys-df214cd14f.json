@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83212&foto=1688441&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83212&foto=1688441&f=1",
+  "description": "Os T2 do Vieira da Silva oferecem a combinação ideal entre espaço, funcionalidade e localização. Com dois quartos e zonas sociais amplas, são uma solução versátil para famílias pequenas, casais que valorizam maior área útil ou investidores que pretendem um ativo com maior potencial de valorização e rendimento. A presença de estacionamento em todas as frações, aliada à raridade de oferta deste tipo de produto numa zona central como o Saldanha, torna estes apartamentos particularmente atrativos.\n\nO projeto Vieira da Silva nasce no Saldanha, uma das zonas mais consolidadas e centrais de Lisboa, com acesso fácil a transportes, universidades, comércio, serviços e zonas empresariais. Com assinatura do arquiteto Capinha Lopes e promovido pela Civilria — empresa com 35 anos de experiência no desenvolvimento de projetos de referência — o edifício resulta da reabilitação de dois imóveis de época, aliando traço clássico a uma linguagem arquitetónica contemporânea. Composto por 62 apartamentos (T0 a T2 e T1 Duplex), todos com estacionamento, o projeto distingue-se pelas suas amenities: piscina, ginásio, bicicletário, lavandaria comum equipada, caixilharia com vidros triplos, ar condicionado por condutas e sistemas de alta eficiência energética e hídrica. Está ainda em processo de certificação LEED, com classificação GOLD prevista — um compromisso adicional com a sustentabilidade e qualidade de vida no centro da cidade.",
+  "geo": {
+    "lat": 38.7223319,
+    "lng": -9.1326749
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83212&foto=1688441&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83212&foto=1688441&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 63,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

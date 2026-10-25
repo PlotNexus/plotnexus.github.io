@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75474&foto=1527282&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75474&foto=1527282&f=1",
+  "description": "Apartamento duplex com dois quartos, na primeira linha do Rio Douro, com 97 metros quadrados de área bruta privativa. O apartamento de linhas modernas, desenvolve-se em dois pisos e acolhe no primeiro piso a zona social, composta por sala e cozinha e uma casa de banho social. No piso inferior está acomodada a zona privada, constituída por duas suites e a lavandaria. A sala e a cozinha em conceito aberto com 32 metros quadrados, está equipada com armários em madeira e eletrodomésticos da marca, a sala tem uma vista única sobre a Foz do Rio Douro.\nO prédio de linhas contemporâneas onde se insere foi construído em 2018 e o interior foi projetado com atenção ao detalhe, oferecendo acabamentos de elevada qualidade como ar condicionado Daikin em todas as divisões, pavimento radiante nas casas de banho, domótica para controlo de iluminação, estores e video porteiro, luzes Led embutidas, roupeiros dos quartos lacados, bomba de calor e painéis solares. O sistema de arrefecimento e de aquecimento é realizados por ventiloconvectores e a produção de águas quentes sanitárias é realizada através da bomba de calor suportada pelos painéis solares.\nLocalização privilegiada na primeira linha do rio, inserida em zona residencial de referência a poucos minutos a pé da praia e do mar.\nProximidade a todo o tipo de comércio, lojas tradicionais e serviços variados como ginásios, bancos, farmácias, entre outros. Próximo de escolas internacionais e colégios, tais como a Universidade Católica a 15 minutos a pé, e a Oporto British School, de zonas verdes e de lazer como o Jardim do Passeio Alegre, o Forte de S. João Baptista, o Parque de Serralves e o Parque da Cidade a 30 minutos a pé. A localização, junto ao rio e ao mar, proporciona a prática de caminhadas e desportos ao ar livre, estimulando um estilo de vida ativo e saudável. Com transportes públicos nas proximidades, dispõe de uma paragem de autocarros a poucos metros. O centro histórico do Porto está a cinco quilómetros, e Matosinhos a quatro quilómetros. Os acessos à VCI estão a sete minutos, permitindo a rápida e fácil deslocação para todos os pontos centrais, dentro e para fora da cidade.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,51 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75474&foto=1527282&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75474&foto=1527282&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Alarme (Completo)",
+      "Aspiração Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Pavimento (Granito)",
+      "Paredes (Pintadas)",
+      "Tecto (Focos)",
+      "Equipamento (Ventilação Mecânica, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Mar",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 23,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64890&foto=1204179&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64890&foto=1204179&f=1",
+  "description": "Excelente condomínio em construção de design moderno composto por 9 apartamentos de tipologia T2 e 1 moradia de tipologia T3, bem localizado na zona tranquila em Vilamoura. Localização privilegiada junto aos Campos de golfe Millennium, Laguna, Victoria e Pinhal e proximo da Marina de Vilamoura.\n\nApartamento de area bruta 222.5 metros quadrados, tem dois quartos, três casas de banho e três varandas espaçosas, mais logradouro de 70 metros quadrados. Este empreendimento residencial tem acabamentos de luxo e muito funcional com a sala e cozinha em open space, totalmente equipada com a marca SIEMENS.\n\nEstes apartamentos apresentam características que garantem grande conforto com Ar condicionado, estores elétricos térmicos, pavimento aquecido a água com sistema solar e Bomba de Calor Daikin, excelente isolamento térmico e acústico, materiais de qualidade e acabamentos de luxo.\n\nCada apartamento dispõe ainda de 1 lugar de estacionamento e arrecadação na cave.\n\nAs áreas sociais deste condomínio são compostas por uma ampla piscina exterior e zonas verdes que proporcionam um ambiente tranquilo e de relax em contacto com a natureza.\n\nVilamoura oferece qualidade e sustentabilidade ambiental, proporciona um bom estilo de vida e vários tipos de lazer. Tem praias de grande qualidade, bons campos de golfe, campos de ténis/padel, uma Marina que já foi premiada internacionalmente várias vezes, bons restaurantes, bares e diversos serviços.",
+  "geo": {
+    "lat": 37.07224,
+    "lng": -8.095573
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64890&foto=1204179&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64890&foto=1204179&f=1"
   ],
-  "features": null,
+  "features": {
+    "Caixilharia": [
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 2,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

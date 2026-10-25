@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 99,
   "image": null,
-  "description": null,
+  "description": "? APARTAMENTO T2 PARA ARRENDAMENTO | OLIVEIRA DO HOSPITAL\n? Centro da cidade de Oliveira do Hospital\n\nProcura um apartamento moderno, confortável e bem localizado? Temos a oportunidade ideal para si!\n\nApartamento T2 totalmente remodelado, com acabamentos modernos e uma localização privilegiada, no coração da cidade, próximo de comércio, serviços e todas as comodidades essenciais ao dia a dia.\n\nCaracterísticas do imóvel:\n? ️ 2 quartos\n? ️ Totalmente remodelado\n? ️ Cozinha mobilada\n? 2. º andar sem elevador\n? Localização central e privilegiada\n? Valor da renda: 600€/mês\n? Para mais informações ou agendamento de visita, entre em contacto por mensagem privada!\n\nTLM:.",
   "geo": {
     "lat": 40.358931,
     "lng": -7.8597487
@@ -19,13 +19,29 @@
     "url": "https://www.idealista.pt"
   },
   "listing_url": "https://www.idealista.pt/imovel/35390910/",
-  "published_at": "2026-10-22",
-  "last_seen_at": "2026-10-22",
+  "published_at": "2026-10-25",
+  "last_seen_at": "2026-10-25",
   "images": [],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 99,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null
+  "features": {
+    "Características específicas": [
+      "99 m² construídos, 85 m² úteis",
+      "T2",
+      "1 casa de banho",
+      "Segunda mão/bom estado",
+      "Construído em 1900"
+    ],
+    "Prédio": [
+      "2º andar",
+      "Sem elevador"
+    ],
+    "Preço": [
+      "Preço do imóvel: 600 €/mês",
+      "Preço por m²: 6,06 €/m²"
+    ]
+  },
+  "estado": "Bom estado",
+  "area_util_m2": 85,
+  "area_bruta_m2": 99,
+  "ano_construcao": 1900,
+  "certificacao_energetica": "B"
 }

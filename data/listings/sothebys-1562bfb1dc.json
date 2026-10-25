@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76830&foto=1545605&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76830&foto=1545605&f=1",
+  "description": "Moradia Contemporânea na Fuseta com Rooftop Privado e Vista Panorâmica sobre o Mar.\n\nSituada no coração da pitoresca vila da Fuseta, esta moradia nova de 3 quartos é uma verdadeira joia — combinando um design moderno e elegante com vistas deslumbrantes sobre a Ria Formosa e o Oceano Atlântico. A poucos passos do centro da vila e das praias, oferece o equilíbrio perfeito entre o charme costeiro e o conforto contemporâneo.\n\nDistribuída por dois pisos, a casa dispõe de um quarto no rés-do-chão — ideal para convidados ou para quem privilegia a funcionalidade — e dois quartos amplos no piso superior, incluindo uma suíte com terraço privado.\n\nNo exterior, encontra uma piscina privativa, perfeita para refrescar-se nos dias quentes do Algarve. E no topo da casa, a cereja no topo do bolo: um magnífico rooftop com vistas panorâmicas sobre a lagoa, o mar e os céus em constante mutação. Um espaço único para receber amigos, apanhar sol ou simplesmente relaxar em plena harmonia com a natureza.\n\nCaracterísticas da Propriedade:\n\n3 quartos (1 no rés-do-chão, 2 no piso superior)\nPiscina privativa com zona de solário\nAmplo terraço rooftop com vista deslumbrante sobre a Ria e o mar\nSala de estar em open space com acabamentos modernos e de qualidade\nConstrução recente com elevada eficiência energética\nLocalização privilegiada perto da praia, do cais de embarque, cafés e restaurantes\nQuer seja como residência permanente ou casa de férias de luxo, esta propriedade representa o melhor da vida no Algarve — descontraída, sofisticada e inesquecível.",
+  "geo": {
+    "lat": 37.0849524,
+    "lng": -7.7877404
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76830&foto=1545605&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76830&foto=1545605&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 64,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

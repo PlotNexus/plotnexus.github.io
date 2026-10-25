@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77364&foto=1647009&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77364&foto=1647009&f=1",
+  "description": "Descubra o privilégio de viver em um elegante apartamento situado em um condomínio de alto padrão, a estrear em breve, localizado em uma das áreas mais cobiçadas da cidade. \nEste imóvel exclusivo está inserido em um edifício moderno de apenas três andares, com poucas frações, oferecendo privacidade, conforto e sofisticação em cada detalhe.\nCom design contemporâneo e acabamentos de luxo, o apartamento dispõe de amplas áreas envidraçadas que proporcionam uma vista deslumbrante para o meio circunstante e para o oceano e uma luminosidade natural incomparável. \nOs interiores foram cuidadosamente projetados com materiais nobres e um estilo atemporal que une elegância e funcionalidade, cozinhas em open-space proporcionam estilo e praticidade às zonas sociais e os quartos todos em suite garantem privacidade e conforto.\nO condomínio oferece uma espetacular piscina panorâmica no rooftop, perfeita para relaxar ao pôr do sol, além de jardins que embelezam os espaços comuns e criam um ambiente sereno e exclusivo.\nA propriedade inclui ainda garagem privativa e está estrategicamente localizada próxima a serviços, restaurantes e ao centro da cidade, garantindo praticidade sem abrir mão da tranquilidade.\nExclusividade e beleza concentradas em um único lugar.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77364&foto=1647009&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77364&foto=1647009&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 95,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }
