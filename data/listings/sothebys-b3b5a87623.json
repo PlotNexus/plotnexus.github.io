@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 250,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80617&foto=1641878&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80617&foto=1641878&f=1",
+  "description": "Apresentamos uma propriedade verdadeiramente singular, onde a arquitectura contemporânea se funde com a sustentabilidade e o conforto absoluto. Localizada em Vila Nova de Santo Estêvão, esta elegante moradia ecológica, desenvolvida pela prestigiada Green Heritage – EcoHomes, traduz um estilo de vida sofisticado, em perfeita harmonia com a natureza envolvente.\n\nA propriedade distingue-se pela utilização de materiais naturais de elevada qualidade, como madeira, cortiça e cal, garantindo um ambiente interior saudável, eficiente e equilibrado ao longo de todo o ano. A classificação energética A+ reflete o seu elevado desempenho térmico, praticamente eliminando a necessidade de aquecimento ou arrefecimento.\n\nA moradia dispõe de três amplos quartos, todos com acesso direto ao jardim e à piscina, proporcionando uma vivência fluida entre interior e exterior. Os espaços interiores são amplificados por pé-direito generoso e vãos envidraçados de grande dimensão, que inundam a casa de luz natural e reforçam a ligação com a paisagem. O design de interiores, cuidadosamente concebido, revela uma estética contemporânea e intemporal, onde a aplicação de pintura mineral de cal italiana confere uma atmosfera sofisticada e distinta.\n\nNo exterior, destaca-se o jardim mediterrânico de baixa manutenção, pontuado por espécies autóctones e aromáticas, e a piscina de água doce, que convida a momentos de lazer em total privacidade. A cobertura branca e os sistemas construtivos avançados asseguram um conforto térmico superior, mesmo nos meses mais quentes. A propriedade inclui ainda garagem e pré-instalação de ar condicionado, assegurando funcionalidade e conveniência.\n\nInserida numa urbanização de referência, com segurança 24 horas, esta propriedade beneficia de um ambiente tranquilo e familiar, com acesso a um conjunto alargado de infraestruturas de lazer, incluindo campo de golfe, lago, trilhos pedonais, e diversas áreas de convívio ao ar livre.\n\nA poucos minutos de Benavente, com fácil acesso a Lisboa, esta é uma oportunidade rara para quem procura um refúgio exclusivo, onde o design, a sustentabilidade e a qualidade de vida se encontram em perfeita sintonia.",
+  "geo": {
+    "lat": 38.8625011162,
+    "lng": -8.7426280975
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,42 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80617&foto=1641878&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80617&foto=1641878&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins, Rega Automática)",
+      "Piscina (Exterior)"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Campo"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 250,
-  "area_bruta_m2": null,
+  "area_util_m2": 158,
+  "area_bruta_m2": 250,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

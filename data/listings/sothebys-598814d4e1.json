@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83705&foto=1711005&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83705&foto=1711005&f=1",
+  "description": "Este encantador apartamento de dois quartos está localizado no coração da Veneza portuguesa, em Aveiro, de frente para o canal. Fica a uma curta distância a pé da praia e do centro da cidade.\n\nCom o exterior típico de uma casa de pescadores, o interior transmite uma sensação acolhedora, com conforto e materiais contemporâneos cuidadosamente escolhidos, distribuídos por dois pisos ligados por uma ampla escadaria que permite separar as áreas social e privada.\n\nA área social é banhada pela luz do sol e oferece vistas sobre um horizonte infinito, a apreciar a partir da varanda ou de um recanto tranquilo da sala de estar. Inclui uma cozinha em plano aberto e um WC para visitas.\n\nOs quartos incluem arrumação embutida nas paredes, permitindo uma utilização otimizada do espaço; um deles tem casa de banho privativa, enquanto o segundo dispõe da sua própria casa de banho separada.\n\nTrata-se de uma zona urbana em constante transformação e evolução, fruto da aproximação natural da cidade de Aveiro com o mar. \n\nPor último, o apartamento tem licença de alojamento local e boas taxas de ocupação, com procura para estadias curtas e longas. Por isso, é também uma excelente opção para quem procura oportunidades de investimento na zona.",
+  "geo": {
+    "lat": 40.6405055,
+    "lng": -8.6537539
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,39 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83705&foto=1711005&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83705&foto=1711005&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Porto de Rio)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 15,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": 223,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77817&foto=1718583&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77817&foto=1718583&f=1",
+  "description": "Apresentamos esta elegante moradia de tipologia T4 com piscina, em fase de acabamentos finais, que alia conforto, funcionalidade e design contemporâneo. Localizada em Serzedo, Vila Nova de Gaia, esta propriedade distingue-se pela qualidade dos materiais e pela atenção aos detalhes em cada espaço.\n\nNo rés-do-chão, o acolhedor hall de entrada conduz a um quarto versátil e a uma casa de banho completa. A cozinha em open space, totalmente equipada com eletrodomésticos de gama superior — frigorífico, arca, máquina de lavar loiça, placa vitrocerâmica, forno e micro-ondas — integra-se harmoniosamente com a ampla sala de estar, que dispõe de ar condicionado e lareira, criando um ambiente perfeito para momentos de convívio. Este piso conta ainda com lavandaria equipada com pré-instalações para máquinas de roupa e a instalação de aspiração central.\n\nO primeiro andar é dedicado à zona privativa, composto por três quartos generosos, todos com porta-janelas, roupeiros embutidos e ar condicionado. Um dos quartos é suíte, e os restantes beneficiam de uma casa de banho completa de apoio. O hall dos quartos oferece ainda espaço de arrumação adicional.\n\nA moradia apresenta acabamentos de luxo em toda a sua extensão: caixilharia dupla em alumínio, vidros duplos, focos embutidos e estores elétricos. Piso em madeira e cerâmica de excelente qualidade. Conta ainda com dois painéis solares e bomba de calor com sistema de aquecimento de águas. É de salientar que conta também com a pré-instalação de paneis fotovoltaicos. \n\nNo exterior, encontra-se a garagem fechada com portão elétrico e capacidade para um automóvel, bem como espaço descoberto para mais duas viaturas. O acesso à propriedade é feito por portão elétrico. A zona exterior oferece ainda um jardim com piscina aquecida, churrasqueira e um espaçoso alpendre, ideal para refeições ao ar livre e momentos de lazer em família.\n\nUma moradia que combina modernidade, elegância e conforto, pronta para receber quem procura qualidade de vida numa localização tranquila e próxima de todos os acessos.",
+  "geo": {
+    "lat": 41.048427,
+    "lng": -8.6122344
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,72 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77817&foto=1718583&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77817&foto=1718583&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Portadas",
+      "Velux / Telhado",
+      "Vidro Duplo",
+      "Estores (Alumínio, Eléctricos, Térmicos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Depósito Lixo",
+      "Escritório",
+      "Estores Eléctricos",
+      "Rega Automática",
+      "Solar",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Hall de Entrada (Iluminação Aut.)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado, Focos, Ponto de Luz)",
+      "Equipamento (Rega Automática, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 15; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Farmácia, Jardins, Jardins Infância, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 223,
-  "area_bruta_m2": null,
+  "area_util_m2": 208,
+  "area_bruta_m2": 223,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

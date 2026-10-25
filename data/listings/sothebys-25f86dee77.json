@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66624&foto=1260873&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66624&foto=1260873&f=1",
+  "description": "Maravilhoso apartamento T2, com 102 metros quadrados de área bruta. Inserido no condomínio fechado PURE, cujo projecto tem a assinatura do prestigiado arquiteto José Carlos Cruz. \nPodemos encontrar uma ampla sala de 29 metros quadrados, com ligação à cozinha equipada com electrodomésticas Siemens e com uma varanda. \nNa área privada, podemos encontrar dois quartos com 15 metros quadrados, um deles em suite e ambos com acesso a uma generosa varanda.\nDotado de dois lugares de garagem com ligação para instalar uma wall box para carregamento elétrico de veículos e arrumo.\nA privacidade e o sossego são características base deste projecto, com destaque para as amplas varandas e habitações voltadas a poente e a nascente. \nCom acabamentos contemporâneos e de excelência, aquecimento por pavimento radiante hidráulico, com bomba de calor, pré-instalação de ar condicionado, alarme, painel táctil com controlo geral, interruptores touch, sanca para cortinas com fita led e blackouts eléctricos interiors nos quartos. \nE assim surge uma nova forma de viver, na zona da Avenida da Boavista, com o mar e a natureza dos Parques da Cidade e de Serralves por perto, rodeado de comércio e serviços, escolas e colégios de referência.",
+  "geo": {
+    "lat": 41.1598713,
+    "lng": -8.6503013
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,48 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66624&foto=1260873&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66624&foto=1260873&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Termolacada",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 102,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

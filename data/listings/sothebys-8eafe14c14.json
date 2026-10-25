@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=49464&foto=906607&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=49464&foto=906607&f=1",
+  "description": "Apartamento de dois quartos, com cerca de 54 metros quadrados de área útil, localizado na Senhora da Luz. Dispõe de uma agradável sala com kitchenette com cerca de 30 metros quadrados, com orientação solar para nascente. Tem construção de elevada qualidade com escolha criteriosa dos acabamentos, como soalho em madeira, cozinha equipada com eletrodomésticos Bosch, louça de casa de banho Roca, ar condicionado em todo o apartamento, e porta de segurança. \nEstá inserido num novo empreendimento com oito apartamentos, na primeira linha da marginal da Foz do Douro, composto por um apartamento T1 e sete apartamentos T2, inseridos num prédio antigo totalmente reconstruído, mantendo a sua traça original, tornando os espaços muito charmosos e com todo o conforto de uma casa moderna. Os acabamentos foram criteriosamente escolhidos e de elevada qualidade.\nSituado na Senhora da Luz, uma zona muito valorizada comercialmente e muito procurada pelas facilidades que oferece tanto a nível de vivência do quotidiano, como a nível cultural, próximo de escolas e colégios de referência da cidade, da Católica Porto Business School, comércio local, supermercados, restaurantes, bares e esplanadas, zonas verdes e de lazer como o Jardim do Passeio Alegre, Forte de S. João Baptista e marginal junto ao mar proporcionando a prática de caminhadas e desportos ao ar livre. Com transportes públicos nas proximidades, este apartamento está localizado em pleno centro histórico da Foz Velha, usufruindo de uma vivência única.",
+  "geo": {
+    "lat": 41.15042,
+    "lng": -8.676267
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,21 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=49464&foto=906607&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=49464&foto=906607&f=1"
   ],
-  "features": null,
+  "features": {
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 8,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

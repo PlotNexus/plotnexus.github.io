@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70804&foto=1657384&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70804&foto=1657384&f=1",
+  "description": "Excelente apartamento, novo localizado no segundo andar no novo condomínio Mouraflats - de arquitetura única e de qualidade inigualável, composto por doze apartamentos de estilo contemporâneo, localizado no Centro de Vilamoura, a uma curta distância a pé da Marina de Vilamoura, dos conceituados campos de golfe e das belas praias de Vilamoura. \nOs apartamentos são construídos de acordo com elevados padrões de excelência, integrando um condomínio seguro e familiar com garagem, piscina e terraço exterior comuns. \nO apartamento está constituído por um quarto ensuite, dois amplos quartos, uma casa de banho social, uma cozinha devidamente equipada com eletrodomésticos Teka e uma espaçosa sala de estar. O elemento impactante deste apartamento é o terraço com vistas exuberantes para a envolvência, que conjuga a tranquilidade e o dinamismo conferido pela centralidade da sua localização. O edifício integrará ainda dois elevadores e um sistema de vídeo porteiro em cada um dos apartamentos. Com a garantia de construção em qualidade, esta é uma excelente oportunidade de investimento para quem procura rentabilizar, residir ou desfrutar das férias de verão, num destino paradisíaco, que possibilita um estilo de vida ímpar.",
+  "geo": {
+    "lat": 37.08906,
+    "lng": -8.113347
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,25 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70804&foto=1657384&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70804&foto=1657384&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Painel Solar",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Piscina (Exterior)"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 116,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

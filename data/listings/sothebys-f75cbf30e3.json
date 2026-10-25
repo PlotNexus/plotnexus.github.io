@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82856&foto=1710842&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82856&foto=1710842&f=1",
+  "description": "Descubra o Ferreiros Residences, um empreendimento distinto no coração do Funchal que combina o charme da arquitetura tradicional com um interior contemporâneo. Este apartamento de luxo é uma verdadeira joia no centro da cidade, proporcionando acesso fácil a comércio e serviços. Com uma área bruta de 111,8 metros quadrados, o espaço oferece dois quartos confortáveis e uma casa de banho moderna. Além disso, inclui estacionamento privado, garantindo conveniência e segurança. Os acabamentos são de qualidade acima da média, prometendo um ambiente sofisticado e acolhedor. Como parte deste novo empreendimento, os residentes podem desfrutar de uma piscina exclusiva, proporcionando um refúgio perfeito para relaxamento. Este imóvel é certamente um excelente investimento no vibrante cenário imobiliário da Ilha da Madeira.",
+  "geo": {
+    "lat": 32.6513278,
+    "lng": -16.9103333
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82856&foto=1710842&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82856&foto=1710842&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 8,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

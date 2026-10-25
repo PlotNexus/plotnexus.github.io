@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80328&foto=1686406&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80328&foto=1686406&f=1",
+  "description": "Na prestigiada Rua do Monte Olivete, onde o charme lisboeta se cruza com uma vivência contemporânea, encontra-se este elegante apartamento T2 que redefine o conceito de conforto urbano.\n\nEste imóvel distingue-se pela sua atmosfera sofisticada e luminosa, oferecendo uma harmoniosa fusão entre funcionalidade e estética. A zona social revela-se acolhedora e fluida, com espaços cuidadosamente desenhados para proporcionar momentos de convívio e tranquilidade. A cozinha, de linhas modernas e acabamentos de qualidade, integra-se de forma subtil no ambiente, convidando a experiências gastronómicas memoráveis.\n\nA área privada é composta por dois quartos, destacando-se a suíte principal — um verdadeiro refúgio de serenidade — onde o conforto e a privacidade assumem protagonismo. Os materiais selecionados e os detalhes refinados refletem um padrão elevado de qualidade, pensado para um estilo de vida exigente.\n\nInserido numa localização privilegiada, este apartamento beneficia da proximidade a uma vasta oferta cultural, gastronómica e de serviços, mantendo simultaneamente a autenticidade de um dos bairros mais desejados de Lisboa.\n\nUma oportunidade singular para quem procura viver com elegância no coração da cidade.",
+  "geo": {
+    "lat": 38.7206333,
+    "lng": -9.1418613
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80328&foto=1686406&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80328&foto=1686406&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 120,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

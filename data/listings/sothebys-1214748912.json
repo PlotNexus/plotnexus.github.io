@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83521&foto=1711874&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83521&foto=1711874&f=1",
+  "description": "Duplex T3 Exclusivo com Vistas Icónicas sobre Lisboa – Rua do Paraíso\n\nNo coração de São Vicente, numa das zonas mais autênticas e históricas de Lisboa, encontra-se este elegante duplex T3 em edificio com elevador, situado na prestigiada Rua do Paraíso, entre Alfama e Santa Apolónia. Uma propriedade singular que combina o charme da arquitetura lisboeta com o conforto e a funcionalidade de uma reabilitação contemporânea.\n\nInserido num edifício integralmente reabilitado em 2016, o apartamento distribui-se por dois pisos e destaca-se pela luminosidade natural, pela generosidade dos espaços e pela qualidade dos acabamentos. A intervenção preservou elementos de carácter do edifício, integrando-os de forma harmoniosa num ambiente sofisticado e intemporal.\n\nA área privada é composta por um quarto em suite, todos com áreas generosas, proporcionando elevados níveis de conforto e privacidade. O imóvel dispõe ainda de ar condicionado, assegurando uma temperatura agradável ao longo de todo o ano.\n\nA cozinha encontra-se totalmente equipada, oferecendo funcionalidade e uma estética cuidada, adequada tanto ao quotidiano como a momentos de convívio.\n\nUm dos principais destaques da propriedade é a sua varanda, que beneficia de uma vista privilegiada sobre o Panteão Nacional, o Rio Tejo e a ponte sobre o Tejo. As vistas amplas e desafogadas reforçam a ligação do apartamento à cidade e proporcionam um cenário verdadeiramente excecional.\n\nO edifício dispõe ainda de elevador, uma comodidade particularmente valorizada nesta zona histórica de Lisboa.\n\nA localização permite desfrutar de uma experiência genuinamente lisboeta, a poucos minutos de Alfama, Santa Apolónia e do Panteão Nacional, com fácil acesso a comércio tradicional, restaurantes, serviços, transportes e aos principais pontos de interesse da cidade.\n\nUma propriedade distinta, onde história, arquitetura, conforto e vistas icónicas sobre Lisboa se conjugam numa oportunidade residencial única numa das zonas mais emblemáticas da capital.",
+  "geo": {
+    "lat": 38.7146912143053,
+    "lng": -9.12359745581971
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,38 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83521&foto=1711874&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83521&foto=1711874&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 151,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }
