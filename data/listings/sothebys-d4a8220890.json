@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 261,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73586&foto=1477552&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73586&foto=1477552&f=1",
+  "description": "Moradia típica do Porto dos anos 50, com potencial para habitação própria ou investimento. Localizada junto à Avenida da Boavista, esta propriedade de 261 m² de área bruta de construção destaca-se pela sua identidade única e detalhes arquitetónicos de época.\n\nO edifício distribui-se por três pisos e excelente exposição solar, com frentes orientadas a nascente, poente e sul. O rés-do-chão conta com três salas, um espaço de arrumos, uma casa de banho e uma cozinha com acesso direto ao jardim nas traseiras. No primeiro andar encontram-se três quartos e duas casas de banho. As águas furtadas dispõe de dois compartimentos com janelas, com flexibilidade para múltiplas utilizações.\n\nAtualmente utilizada como espaço de escritórios, esta moradia pode ser facilmente transformada numa residência familiar com a possibilidade de adicionar uma garagem, um fator diferenciador na zona urbana onde se insere.\n\nSituada perto da Avenida da Boavista, está a poucos minutos da Casa da Música, do Colégio Alemão e do bairro residencial 'Hollywood'. A zona conta ainda com comércio, restauração e acessibilidades privilegiadas, tal como, proximidade a transportes públicos.\n\nEsta moradia representa uma oportunidade única para quem procura uma propriedade com charme e elementos arquitetónicos distintos, como colunas em pedra, portadas em madeira, painéis de azulejos, acabamentos em granito e três lareiras. O jardim traseiro, que inclui uma fonte em pedra, acrescenta um toque de história a esta casa.",
+  "geo": {
+    "lat": 41.1602005901534,
+    "lng": -8.63712515597535
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73586&foto=1477552&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73586&foto=1477552&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 3; Vão de Telhado / Sotão"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Portadas"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 261,
-  "area_bruta_m2": null,
+  "area_util_m2": 174,
+  "area_bruta_m2": 261,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "E"
 }

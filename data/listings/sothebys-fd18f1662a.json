@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=60754&foto=1137399&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=60754&foto=1137399&f=1",
+  "description": "Na Rua da Madalena, coração da Baixa da Lisboa, surge um novo empreendimento ímpar, o Madalena 88. A meros minutos a pé da Praça do Comércio e do Rossio, este novo projeto encontra-se muito bem servido por todo o tipo de transportes públicos tendo também bons acessos rodoviários que permitem chegar rapidamente a qualquer ponto da cidade.\nResultado de um projeto de reabilitação extraordinário, o Madalena 88 oferece 13 apartamentos únicos com tipologias que vão desde o Estúdio até ao T3. Todas as unidades possuem áreas otimizadas para se viver confortavelmente, com características particulares do charme da época em que o prédio foi construído. Os materiais e acabamentos selecionados são únicos, escolhidos cuidadosamente para providenciar um ambiente clássico e requintado, mas que ao mesmo tempo é urbano e descontraído.\nO Madalena 88 é um empreendimento intemporal, onde é possível conjugar um estilo de vida sofisticado a tudo o que a cidade de Lisboa tem para oferecer.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,29 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=60754&foto=1137399&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=60754&foto=1137399&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 150,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

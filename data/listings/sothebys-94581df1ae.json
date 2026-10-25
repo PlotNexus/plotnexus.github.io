@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81026&foto=1640548&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81026&foto=1640548&f=1",
+  "description": "Exclusivo apartamento T2 em estilo loft, situado na Rua Santana à Lapa, na prestigiada freguesia da Estrela, em Lisboa.\n\nCom 130 m² de área bruta, este imóvel distingue-se pela sua configuração em open space, onde a luz natural e a fluidez dos espaços assumem um papel central, criando um ambiente contemporâneo e acolhedor. Destaca-se uma ampla sala com 67 m², ideal para diferentes ambientes de estar e lazer.\n\nDispõe de uma ampla suite com 17 m², complementada por um walk-in closet de 4.5m², uma casa de banho completa e um espaço adicional versátil, ideal para um segundo quarto ou zona de jantar. Apresenta-se totalmente equipado, incluindo ar condicionado Haier, piso radiante na casa de banho, garantindo elevados padrões de conforto.\n\nA renovação integral contempla a substituição total das infraestruturas elétricas, aliada a acabamentos de qualidade superior, como vidros duplos acústicos, iluminação LED de baixo consumo e carpintarias feitas à medida. Destacam-se ainda as soluções tecnológicas integradas, como janela motorizada, sistema de alarme com vídeo e videoporteiro. \n\nLocalizado na prestigiada freguesia da Estrela, uma das zonas residenciais mais exclusivas e valorizadas de Lisboa, o imóvel beneficia de uma envolvente que combina charme histórico, tranquilidade e centralidade. A um passo da Av. Infante Santo e a poucos minutos do Jardim da Tapada das Necessidades e do belíssimo Jardim da Estrela e Basílica, facilmente se tem acesso a transportes públicos, como autocarros e a futura estação de metro da Estrela. A poucos minutos a pé encontram-se ainda referências emblemáticas, bem como uma vasta oferta de comércio local, restaurantes de referência e espaços culturais. A zona destaca-se também pela proximidade a escolas, pela excelente ligação às principais vias da cidade e pela sua atmosfera sofisticada e segura.\n\nUma oportunidade única de viver com conforto e modernidade numa das localizações mais desejadas da cidade.",
+  "geo": {
+    "lat": 38.7124602,
+    "lng": -9.1648351
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,39 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81026&foto=1640548&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81026&foto=1640548&f=1"
   ],
-  "features": null,
+  "features": {
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Alarme (CCTV, Completo, Segurança Activa)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 130,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

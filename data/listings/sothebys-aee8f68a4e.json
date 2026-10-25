@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77944&foto=1588656&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77944&foto=1588656&f=1",
+  "description": "Descubra o equilíbrio perfeito entre elegância e serenidade junto à costa.\nApresentamos um exclusivo condomínio privado composto por quatro moradias de luxo, situado a apenas cinco minutos das deslumbrantes praias de Santa Cruz.\n\nImplantado num terreno de 2.200 m², este empreendimento combina arquitetura contemporânea com o máximo conforto. Cada moradia, com uma área coberta de 290 m², dispõe de amplos espaços interiores e uma garagem privativa para dois automóveis, concebida para responder às mais elevadas exigências de funcionalidade e estilo.\n\nDas zonas privativas, destacam-se as vistas panorâmicas sobre o oceano, que convidam à contemplação e reforçam a sensação de exclusividade. O espaço exterior, totalmente ajardinado e relvado, proporciona um ambiente ideal para momentos de lazer, convívio e relaxamento, num cenário de absoluta tranquilidade.\n\nSeja como residência permanente, refúgio de férias ou investimento seguro, este empreendimento representa uma oportunidade rara de viver com sofisticação e proximidade ao mar.",
+  "geo": {
+    "lat": 39.1152112951,
+    "lng": -9.3700504302
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77944&foto=1588656&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77944&foto=1588656&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 290,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

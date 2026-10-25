@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83633&foto=1707934&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83633&foto=1707934&f=1",
+  "description": "Este apartamento T2 possui vista desafogada, está localizado numa zona residencial calma e segura no Estoril, beneficiando de uma localização estratégica pela proximidade às praias da Linha de Cascais, campos de golfe, comércio, serviços e conceituadas escolas internacionais, tais como a Santo António International School e a Prime School. O imóvel destaca-se pela sua excelente exposição solar com orientação Nordeste e Sudoeste, o que garante luz natural direta nos quartos durante a manhã e na sala de estar durante a tarde até ao final do dia. A zona social prolonga-se para um amplo terraço, ideal para desfrutar de agradáveis momentos de lazer, convívio e refeições ao ar livre. \nPreparado para oferecer total conforto térmico em todas as estações, o apartamento está equipado com uma salamandra na sala de estar, ar condicionado e aquecimento em todas as divisões, aquecedores, e toalheiros elétricos nas casas de banho, estores elétricos e uma salamandra na sala de estar. A cozinha foi recentemente atualizada com eletrodomésticos novos, contando ainda com um prático sistema de aspiração central integrado. Os quartos possuem grandes roupeiros embutidos. Para completar, o imóvel inclui uma garagem em Box com capacidade para dois carros, que oferece espaço adicional para arrumação e estacionamento externo de facil acesso, tornando esta uma oportunidade ideal para habitação própria ou investimento seguro na região.",
+  "geo": {
+    "lat": 38.7187002,
+    "lng": -9.4021936
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83633&foto=1707934&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83633&foto=1707934&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 106,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

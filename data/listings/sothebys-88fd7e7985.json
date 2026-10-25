@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80042&foto=1685350&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80042&foto=1685350&f=1",
+  "description": "Apartamento T4 | 99 m² | Vista Lisboa Centro | Próximo Av. da Liberdade | Prédio Histórico\n\nDescubra este apartamento de 4 quartos com 99 m² de área bruta privativa, situado numa das zonas mais prestigiadas de Lisboa, junto à Avenida da Liberdade e à junção da Rua do Salitre.\n\nLocalizado no 4.º piso (sem elevador), este imóvel destaca-se pelos seus varandins com vista aberta para o centro de Lisboa, proporcionando excelente luminosidade natural e um enquadramento urbano único.\n\nInserido em prédio histórico com charme, em ótimo estado de conservação, conta com boas escadas e manutenção cuidada.\n\nO apartamento encontra-se para remodelação, apesar de estar habitavel , sendo uma excelente oportunidade para criar uma residência de charme ou investimento premium, mantendo elementos originais como:\n\nPé-direito alto, azulejos tradicionais e traça típica lisboeta.\n\nA localização é verdadeiramente privilegiada: central, cosmopolita e próxima de comércio, serviços, restauração e transportes, combinando o dinamismo da cidade com o prestígio da zona.\n\nIdeal para quem procura: Viver no coração de Lisboa, Investimento com elevada valorização e desafio de uma remodelação com carácter. \nUma oportunidade rara numa localização premium.",
+  "geo": {
+    "lat": 38.7206333,
+    "lng": -9.1418613
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,27 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80042&foto=1685350&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80042&foto=1685350&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 99,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

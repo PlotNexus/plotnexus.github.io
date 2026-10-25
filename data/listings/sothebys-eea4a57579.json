@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65852&foto=1306622&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65852&foto=1306622&f=1",
+  "description": "Moradia de tipologia V3 em pequena urbanização composta por cinco moradias em banda amplas de estilo moderno, com vista mar e baía do Funchal, perto do centro do Funchal, numa zona prime e com excelente exposição solar.\nDa sua construção destacam-se os acabamentos com materiais de qualidade proporcionando ambientes de conforto, tanto no interior como no exterior.\nNa cave encontramos uma ampla garagem, no piso superior a zona social composta por sala cozinha e casa de banho social. No último piso encontramos a zona mais privada da casa, composta por três quartos em suíte e lavandaria.\nTodas as moradias tem pré-instalação de ar condicionado, bomba de calor para aquecimento das águas sanitárias, com depósito para acumular a água quente. \nNo exterior paredes em capoto para isolamento térmico, caixilharia de alumínio lacado a preto e vidro duplo de 6/6mm, porta de entrada em mogno, pavimento em vinil Nature, cozinha com equipamentos da marca Bosch (placa, exaustor, forno, micro-ondas e máquina de lavar louça), bancada da cozinha em granito preto, todos os armários laminados cinza, cozinha com paredes revestidas a cerâmica, sanitários e bidé suspensos e casas de banho equipadas com a marca Sanidusa.\nSituadas numa das zonas residenciais mais procuradas do Funchal, a zona das virtudes, com proximidade a todos os serviços essenciais e com bons acessos. Fica a cerca de cinco minutos do centro do Funchal.",
+  "geo": {
+    "lat": 32.6544126113975,
+    "lng": -16.9372598802872
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,49 @@
   "published_at": "2026-10-25",
   "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65852&foto=1306622&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65852&foto=1306622&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Edifício": [
+      "Equipamento (Gás Canalizado, Jardins)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 52; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 216,
+  "area_bruta_m2": 240,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }
