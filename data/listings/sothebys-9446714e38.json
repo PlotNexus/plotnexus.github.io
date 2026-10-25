@@ -8,23 +8,49 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 270,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74925&foto=1514261&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74925&foto=1514261&f=1",
+  "description": "Moradia em banda com 4 quartos, inserida numa zona urbana consolidada e equilibrada. A moradia data de 1945 e foi totalmente recuperada há cerca de 5 anos, preservando o charme da sua traça original e integrando soluções atuais que garantem o conforto e a funcionalidade de uma casa moderna. A intervenção foi realizada com cuidado, resultando num imóvel que combina carácter, autenticidade e comodidade, ideal para quem valoriza espaços com identidade própria.\n\nA moradia desenvolve-se em 3 pisos. No piso intermédio localiza-se a zona social em open space, onde a área de estar, a zona de jantar e a cozinha se articulam de forma harmoniosa, criando um ambiente amplo, confortável e muito convidativo. Este piso conta ainda com um wc social, que assegura maior praticidade no quotidiano.\n\nNo piso superior encontra-se a área privativa, composta por 3 quartos. A suite principal dispõe de uma área de closet, proporcionando maior conforto e organização. Os dois quartos adicionais têm boas dimensões e são apoiados por um wc completo, garantindo funcionalidade e privacidade.\n\nNo piso da cave existem dois ambientes com grande versatilidade. O espaço situado a tardoz possui janelas rasgadas com acesso direto ao jardim e encontra-se atualmente transformado em quarto, beneficiando de uma boa área de arrumação. Este espaço é apoiado por um wc completo localizado no mesmo piso, permitindo uma utilização autónoma.\n\nEsta moradia distingue-se ainda por possuir um saguão no centro lateral da casa, que permite a entrada de luz natural em todos os pisos, tornando os ambientes luminosos e acolhedores ao longo de todo o dia.\n\nO jardim apresenta uma boa dimensão, ideal para usufruir de momentos de lazer e convívio ao ar livre, com privacidade.\n\nA localização é excelente, próxima de todo o tipo de comércio e serviços, com transportes à porta e rápido acesso à saída da cidade. Na envolvente existem áreas verdes e parques, ideais para passeios e atividades ao ar livre. A curta distância a pé encontram-se bons restaurantes e a baixa do Porto fica a cerca de 5 minutos de carro. Apesar da centralidade, a zona é calma, proporcionando uma elevada qualidade de vida.",
+  "geo": {
+    "lat": 41.1745839609581,
+    "lng": -8.62607002257441
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-em-banda-arca-dagua-porto_pt_74925",
-  "published_at": "2026-10-24",
-  "last_seen_at": "2026-10-24",
+  "published_at": "2026-10-25",
+  "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74925&foto=1514261&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74925&foto=1514261&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 270,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 270,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

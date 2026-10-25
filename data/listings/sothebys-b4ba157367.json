@@ -8,23 +8,83 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 315,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71677&foto=1411233&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71677&foto=1411233&f=1",
+  "description": "Localizada em Pêra, no coração do Algarve e a poucos minutos das praias mais bonitas da região, esta sofisticada moradia combina tranquilidade e conforto com uma envolvente natural deslumbrante. Construída em 1997 e inserida num terreno de 5418 metros quadrados, a propriedade encontra-se em excelente estado de conservação, oferecendo uma experiência de vida única.\nCom uma área de 314 metros quadrados, a moradia conta com três quartos espaçosos e luminosos, três casas de banho modernas, uma cozinha totalmente equipada com despensa, uma sala de estar com lareira e recuperador de calor, e uma sala de jantar ideal para momentos de convívio. No exterior, a propriedade destaca-se pelos seus oito terraços, perfeitos para relaxamento, e uma piscina privada que complementa o cenário para dias de lazer ao ar livre.\nA moradia beneficia de ótima exposição solar, com quatro frentes, e o terraço poente com barbecue oferece um espaço ideal para fins de tarde memoráveis. No terraço superior, painéis solares reforçam o compromisso com a sustentabilidade.\nNo primeiro andar, encontram-se dois quartos adicionais, uma casa de banho, e uma sala de estar situada no antigo moinho, que preserva o charme tradicional da construção e oferece vistas panorâmicas de 360 graus. Este detalhe exclusivo confere um caráter especial à propriedade, equilibrando tradição e modernidade.\nA moradia também possui uma garagem em box individual, além de diversos equipamentos como aquecimento central, vidros duplos e sistema de rega automática, garantindo conforto e praticidade. Vendida totalmente mobilada, esta casa oferece a oportunidade de habitar imediatamente num espaço de luxo e bom gosto.\nCom vistas panorâmicas, uma localização privilegiada e um design encantador, esta propriedade no Algarve é uma rara oportunidade para quem procura viver num cenário de beleza natural e serenidade.",
+  "geo": {
+    "lat": 37.155432737681,
+    "lng": -8.33001365319519
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-alcantarilha-e-pera-silves_pt_71677",
-  "published_at": "2026-10-24",
-  "last_seen_at": "2026-10-24",
+  "published_at": "2026-10-25",
+  "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71677&foto=1411233&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71677&foto=1411233&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Alumínio, Térmicos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Gás Canalizado",
+      "Rega Automática",
+      "TV-Cabo",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Pavimento (Marmorite)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Estucado, Ponto de Luz)",
+      "Equipamento (Gás Canalizado, TV Cabo)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Panorâmicas",
+      "Pastagens",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade, Rural)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 315,
-  "area_bruta_m2": null,
+  "area_util_m2": 180,
+  "area_bruta_m2": 315,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -8,23 +8,52 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=62738&foto=1168011&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=62738&foto=1168011&f=1",
+  "description": "Moderno apartamento com três quartos e um escritório, com 180 metros quadrados de área bruta privativa, reabilitado em 2012, inserido na Quinta de Miramar, com vistas para o Rio Douro.\nNa zona social, tem uma ampla sala de 50 metros quadrados com recuperador de calor, que se estende para uma agradável varanda. Tem uma cozinha com 10 metros quadrados, equipada com placa, forno, combinado, microondas, máquina de lavar loiça e exaustor, e incorpora a zona de lavandaria composta por armário e máquina de lavar roupa. Conta ainda com casa de banho completa de apoio à zona social.\nA zona privada divide-se em duas áreas, num dos lados uma suite com 26 metros quadrados com zona de vestir, e do outro dois quartos apoiados por casa de banho completa.\nO aquecimento é satisfeito através de um sistema constituído por recuperador de calor a biomassa-lenha e radiadores eléctricos. O aquecimento das águas quentes sanitárias é suportado por um termo-acumulador elétrico. Possui um lugar de garagem e arrumo. Tem três frentes: norte, nascente e poente.\nProximidade a comércio tradicional, serviços variados como ginásios, bancos, farmácias, entre outros. Próximo de escolas internacionais e colégios, com a Universidade Católica a 10 minutos a pé, zonas verdes e de lazer como o Jardim do Passeio Alegre, Forte de S. João Baptista, Parque de Serralves e Parque da Cidade a 30 minutos a pé. A sua proximidade à marginal, junto ao rio e mar, proporcionam a prática de caminhadas e desportos ao ar livre. Com transportes públicos nas proximidades, dispõe de uma paragem de autocarros a poucos metros. O centro histórico do Porto está a cinco quilómetros, e Matosinhos a quatro quilómetros. Os acessos à VCI estão a sete minutos, permitindo a rápida e fácil deslocação para fora da cidade.",
+  "geo": {
+    "lat": 41.1499013,
+    "lng": -8.6642754
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-quinta-de-miramar-porto_pt_62738",
-  "published_at": "2026-10-24",
-  "last_seen_at": "2026-10-24",
+  "published_at": "2026-10-25",
+  "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=62738&foto=1168011&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=62738&foto=1168011&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Aluminio"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 27; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Transportes Púb.)",
+      "Proximidade (Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 180,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

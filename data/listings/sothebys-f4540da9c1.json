@@ -8,23 +8,48 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84148&foto=1717250&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84148&foto=1717250&f=1",
+  "description": "No coração da Misericórdia, onde a autenticidade de Lisboa se encontra com uma vivência cosmopolita, este elegante apartamento integra o empreendimento Allure, a poucos passos do rio e da vibrante vida do bairro.\n\nSituado no primeiro andar, dispõe de 106 m² de área bruta privativa, com interiores de linguagem contemporânea e acabamentos de elevada qualidade. A sala articula-se com a zona de refeições e a cozinha em open space, equipada com eletrodomésticos SMEG, criando um ambiente harmonioso, pensado para o conforto quotidiano e para receber.\n\nA ampla suíte beneficia de generosos espaços de arrumação, enquanto uma casa de banho social complementa a organização funcional do apartamento. O imóvel inclui ainda arrecadação e um lugar de estacionamento, uma comodidade particularmente valorizada nesta zona histórica da cidade.\n\nConcluído em 2025 e distinguido pela sua reabilitação urbana, o Allure concilia o carácter do património lisboeta com as exigências do conforto contemporâneo. Com entradas pela Travessa do Alecrim e pela Rua de São Paulo, beneficia de uma localização privilegiada, próxima de transportes, comércio, restaurantes e espaços culturais.\n\nUma residência que convida a viver Lisboa a pé, entre a proximidade do Tejo e a identidade singular de um dos bairros mais emblemáticos da capital.",
+  "geo": {
+    "lat": 38.7076731,
+    "lng": -9.1435886
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-misericordia-lisboa_pt_84148",
-  "published_at": "2026-10-24",
-  "last_seen_at": "2026-10-24",
+  "published_at": "2026-10-25",
+  "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84148&foto=1717250&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84148&foto=1717250&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 106,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

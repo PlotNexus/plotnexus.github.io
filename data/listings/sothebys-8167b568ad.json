@@ -8,23 +8,73 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80462&foto=1690144&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80462&foto=1690144&f=1",
+  "description": "Deslumbrante apartamento T2 com 117 metros quadrados de área bruta privativa, localizado no prestigiado condomínio fechado PURE, assinado pelo renomado arquiteto José Carlos Cruz. A propriedade dispõe de uma ampla sala de 31,8 metros quadrados que se estende para um magnífico terraço de 43,5 metros quadrados, juntamente com uma cozinha equipada com eletrodomésticos Siemens. A área privada conta com duas suítes de 15,6 e 15,4 metros quadrados. Oferece dois lugares de garagem preparados para instalação de wall box para carregamento elétrico e espaço de arrumação. Este projeto destaca-se pela privacidade e tranquilidade, com orientações poente, nascente e norte. Os acabamentos são contemporâneos e de excelência, com aquecimento por pavimento radiante hidráulico, bomba de calor, alarme, painel táctil de controle geral, interruptores touch, sancas para cortinas com fita LED, blackouts elétricos nos quartos e roupeiros iluminados internamente. Situado na zona da Avenida da Boavista, oferece proximidade ao mar e à natureza dos Parques da Cidade e de Serralves, além de estar rodeado de comércio, serviços, escolas e colégios de referência.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-serralves-porto_pt_80462",
-  "published_at": "2026-10-24",
-  "last_seen_at": "2026-10-24",
+  "published_at": "2026-10-25",
+  "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80462&foto=1690144&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80462&foto=1690144&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Pavimento (Marmorite)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur, Focos)",
+      "Equipamento (Jardins, Ventilação Mecânica, Video-Porteiro)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 22; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 117,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

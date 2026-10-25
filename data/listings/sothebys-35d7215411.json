@@ -8,22 +8,52 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78536&foto=1585264&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78536&foto=1585264&f=1",
+  "description": "No coração histórico e cosmopolita de Lisboa, nasce o Padaria XV, um projeto exclusivo que combina tradição e modernidade. Resultado da reabilitação integral de um prédio pombalino, este empreendimento preserva o charme arquitetónico original, ao mesmo tempo que integra linhas contemporâneas e acabamentos de excelência, criando um espaço único para viver com elegância e conforto.\nCom 6 pisos, 10 apartamentos de tipologias T1 e T2 e 2 espaços comerciais, o Padaria XV distingue-se pelas áreas generosas, tetos altos, estuques elegantes e materiais nobres como o Calacatta Gold. O design interior alia sofisticação a funcionalidade, com pavimentos em madeira natural, caixilharias com corte térmico e sistema inteligente de domótica Control4, que permite gerir iluminação, som, climatização e segurança.\nA maioria dos apartamentos corresponde a tipologias T2, entre os 84 e 100 m², perfeitos para quem procura espaço e conforto no centro histórico. No topo do edifício encontra-se um exclusivo T1 de 68 m², marcado pela luminosidade natural e acabamentos de luxo.\nLocalizado a poucos passos do Rio Tejo, Chiado e Alfama, este empreendimento oferece a autêntica experiência lisboeta, rodeada de restaurantes, lojas, cafés e espaços culturais. Aqui, viver é sentir a atmosfera intemporal de Lisboa, numa combinação perfeita entre o passado e o futuro.\nO Padaria XV é mais do que um edifício: é um convite a viver o melhor da cidade num ambiente único, onde a tradição encontra o conforto moderno.",
+  "geo": {
+    "lat": 38.7113522,
+    "lng": -9.1361634
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-santa-maria-maior-lisboa_pt_78536",
-  "published_at": "2026-10-24",
-  "last_seen_at": "2026-10-24",
+  "published_at": "2026-10-25",
+  "last_seen_at": "2026-10-25",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78536&foto=1585264&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78536&foto=1585264&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Termolacada",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Farmácia, Padaria, Serviços Públicos)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 84,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null
