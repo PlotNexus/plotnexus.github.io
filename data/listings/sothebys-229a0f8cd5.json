@@ -8,23 +8,64 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64249&foto=1195526&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64249&foto=1195526&f=1",
+  "description": "Trata-se de um exclusivo e inspirador apartamento T3 duplex, localizado no centro da cidade de Coimbra, numa das suas ruas mais emblemáticas, e inserido na zona classificada como património histórico da humanidade. Localiza-se a escassos metros dos mais variados serviços públicos, da reitoria da Universidade de Coimbra e do pátio das escolas, da igreja da Sé Nova e da Sé Velha, da ponte da Sta. Clara e Museu Machado de Castro. Dispõe ainda de uma incomparável e serena vista sobre o Rio Mondego. O apartamento distribui-se por dois pisos, sendo que na cave se encontra uma excelente cozinha, uma espaçosa sala de jantar e de estar, ambas com pavimento envidraçado e iluminado, possibilitando dessa forma a perceção dos vestígios históricos revelados pelas escavações arqueológicas realizadas nesta artéria da cidade. Estas duas divisões são apoiadas por uma casa de banho social e têm acesso direto a um amplo terraço, ideal para refeições e convívio social. Subindo ao Rés-do-chão, entramos na zona privada do apartamento com duas casas de banho completas, três amplos e harmoniosos quartos, revestidos a pedra natural, aos quais a arcada romana confere uma impressionante e sublime envolvência.",
+  "geo": {
+    "lat": 40.20768,
+    "lng": -8.428811
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/duplex-coimbra-se-nova-santa-cruz-almedina-e-sao-bartolomeu-coimbra_pt_64249",
-  "published_at": "2026-10-25",
-  "last_seen_at": "2026-10-25",
+  "published_at": "2026-10-26",
+  "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=64249&foto=1195526&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=64249&foto=1195526&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (CCTV)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pedra Natural)",
+      "Paredes (Pedra Natural)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 156,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

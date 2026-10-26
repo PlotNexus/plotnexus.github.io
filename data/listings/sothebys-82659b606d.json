@@ -8,23 +8,73 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80463&foto=1641433&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80463&foto=1641433&f=1",
+  "description": "Deslumbrante apartamento T2 com uma área bruta privativa de 104 metros quadrados, situado no conceituado condomínio fechado PURE, concebido pelo prestigiado arquiteto José Carlos Cruz. O imóvel dispõe de uma ampla sala de 32 metros quadrados, que se estende para uma varanda de 4.4 metros quadrados, e ligação direta à cozinha, equipada com eletrodomésticos Siemens. Na área privada, dois quartos, cada um com 14.7 metros quadrados, oferecem conforto e requinte. Este imóvel conta com dois lugares de garagem, preparados para a instalação de wall box para carregamento elétrico, e um espaço de arrumação associado. A privacidade e o sossego são primordiais, realçando-se as varandas amplas e a orientação solar nascente/poente. O projeto é adornado com acabamentos contemporâneos de alta qualidade, incluindo aquecimento por pavimento radiante hidráulico, bomba de calor, alarme e painel táctil para controlo geral. A tecnologia é evidente, com interruptores touch, sancas para cortinas com fita led, blackouts elétricos nos quartos e roupeiros com iluminação automática. Localizado na zona prestigiada da Avenida da Boavista, oferece proximidade ao mar, bem como aos Parques da Cidade e de Serralves, e é rodeado por uma diversidade de comércio, serviços, escolas e colégios de renome.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-serralves-porto_pt_80463",
-  "published_at": "2026-10-25",
-  "last_seen_at": "2026-10-25",
+  "published_at": "2026-10-26",
+  "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80463&foto=1641433&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80463&foto=1641433&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Video-Porteiro",
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Pavimento (Marmorite)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Jardins, Ventilação Mecânica, Video-Porteiro)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 28; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 104,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

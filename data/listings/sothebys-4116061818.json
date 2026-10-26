@@ -8,22 +8,71 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67589&foto=1274398&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67589&foto=1274398&f=1",
+  "description": "Empreendimento de luxo, com acabamentos de qualidade, estilo arquitetónico elegante, fica localizado a apenas cinco minutos de carro do centro do Funchal. Composto por 39 modernos apartamentos com tipologias T1, T2 e T3, contam com vista baía, estacionamentos cobertos e piscina comum, zona de jardim e solário. As varandas estão orientadas para sul, o que permite uma com uma boa exposição solar. Trata-se de uma zona residencial tranquila e agradável. Este empreendimento também beneficia de fácil acesso a uma variedade de serviços essenciais. \nNa sua proximidade conta com farmácia, supermercado padaria, cafés, entre outros. A proximidade à via rápida também permite uma fácil ligação ao centro da cidade e a outros destinos mais distantes. Oferece um estilo de vida luxuoso e conveniente e todos os apartamentos contam com áreas amplas e com muita luminosidade, graças às grandes janelas que proporcionam ainda uma vista panorâmica sobre a cidade e o mar. A cozinha será totalmente equipada e oferece um ambiente perfeito em open-space. Os quartos são espaçosos e têm roupeiro embutido, proporcionando amplo espaço de arrumação, garantindo um ambiente acolhedor e convidativo para descansar. Excelente oportunidade.",
+  "geo": {
+    "lat": 32.64814,
+    "lng": -16.92944
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-sao-martinho-funchal_pt_67589",
-  "published_at": "2026-10-25",
-  "last_seen_at": "2026-10-25",
+  "published_at": "2026-10-26",
+  "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67589&foto=1274398&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67589&foto=1274398&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Video-Porteiro",
+      "Alarme (Pré-Instalação)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins, Rega Automática)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 46,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

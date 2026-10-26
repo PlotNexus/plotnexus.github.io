@@ -8,23 +8,26 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69540&foto=1339860&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69540&foto=1339860&f=1",
+  "description": "Típica moradia de estilo tradicional com 4 quartos inserida num generoso lote de mais de 5000 m2, entre a típica aldeia de Santa Barbara de Nexe e a Cidade de Faro, servida por excelentes acessos, fica apenas a 15 min do aeroporto Internacional de Faro e a menos de 10 min das principais vias e da A22. A proximidade a serviços e zonas de lazer e culturais bem como as principais praias da zona também estão a uns escaços 15 minutos de automóvel. A moradia dispõe de sala, cozinha com zona de refeições e um quarto, no piso superior existem mais 3 quartos em que um deles é en suite. A zona exterior conta com um lote de mais de 5000m2 onde existe deposito para recuperação de aguas pluviais, furo e tanque. Encontramos ainda uma zona de barbecue e um coreto que pode ser transformado em estufa ou outro tipo de estrutura.",
+  "geo": {
+    "lat": 37.0799195,
+    "lng": -7.9373678
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-santa-barbara-de-nexe-faro_pt_69540",
-  "published_at": "2026-10-25",
-  "last_seen_at": "2026-10-25",
+  "published_at": "2026-10-26",
+  "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69540&foto=1339860&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69540&foto=1339860&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 5,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

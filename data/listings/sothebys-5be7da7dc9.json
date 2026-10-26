@@ -8,23 +8,71 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79039&foto=1597870&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79039&foto=1597870&f=1",
+  "description": "Excelente Oportunidade! Este elegante apartamento com 145 m² de área bruta privativa, está situado numa das zonas mais prestigiadas e desejadas de Lisboa, na freguesia da Estrela, à Lapa. \nCom uma configuração muito equilibrada mas versátil, dispõe de 7 divisões além de uma sala, divisões estas que podem ser abertas/unidas transformando-as em divisões mais amplas.\n\nInserido num quarto piso, sem elevador, o imóvel distingue-se pelas suas duas varandas, com mais de 7m2, uma em cada das duas frentes opostas do apartamento, a partir das quais se disfruta de uma vista panorâmica magnífica para o rio Tejo, proporcionando um ambiente luminoso e inspirador ao longo de todo o dia.\nGraças à sua excelente exposição solar, orientação nascente-poente, o apartamento é muito solarengo traduzindo-se numa atmosfera acolhedora.\n\nEncontra-se em muito bom estado de conservação, contando já com várias melhorias realizadas: pintura recente, nova caixilharia, porta de entrada de segurança, quadro elétrico e canalizações. Tudo isto contribui para o conforto e eficiência do espaço, mantendo simultaneamente a sua identidade e charme original, com os tectos altos, portas com bandeira, chão de madeira maciça original e portadas em madeira.\n\nComo complemento à sua localização privilegiada, o imóvel dispõe ainda de 1 lugar de estacionamento em avença, situado a apenas 2 minutos, garantindo total comodidade no dia a dia.\n\nA um passo da Av. Infante Santo e a poucos minutos do Jardim da Tapada das Necessidades e do belíssimo Jardim da Estrela e Basílica, facilmente se tem acesso a transportes públicos, como autocarros e futura estação de metro da Estrela. \n\nEsta é a OPORTUNIDADE ideal para quem procura viver numa das zonas mais emblemáticas e distintas de Lisboa, combinando espaços exteriores com vista de rio, muita luz, conforto e funcionalidade.",
+  "geo": {
+    "lat": 38.7100523,
+    "lng": -9.1590861
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-lapa-lisboa_pt_79039",
-  "published_at": "2026-10-25",
-  "last_seen_at": "2026-10-25",
+  "published_at": "2026-10-26",
+  "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79039&foto=1597870&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79039&foto=1597870&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Portadas",
+      "Termolacada",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Esquentador"
+    ],
+    "Domótica": [
+      "Gás Canalizado"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado)",
+      "Equipamento (Gás Canalizado)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 145,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

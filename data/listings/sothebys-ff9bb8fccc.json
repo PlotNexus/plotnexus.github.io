@@ -8,23 +8,62 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82888&foto=1679295&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82888&foto=1679295&f=1",
+  "description": "Esta moradia em banda, localizada no Santo da Serra, é uma excelente opção para quem procura tranquilidade e conforto, estando rodeada por natureza numa área calma e silenciosa. \nA casa é composta por dois pisos em formato \"mezzanine\", oferecendo um design arquitetónico interessante e funcional. Conta com quatro quartos, dois dos quais com wc privada. As duas salas de estar, incluindo uma zona de refeições, proporcionam um espaço amplo e acolhedor, complementado por uma lareira e uma salamandra que aquecem as áreas comuns, criando um ambiente aconchegante.\nA cozinha está completamente equipada, pronta para atender às necessidades do dia a dia. Um dos destaques desta moradia é a marquise, um \"jardim de inverno\" envidraçado, com vista deslumbrante para o mar da costa sul da Madeira e as Ilhas Desertas. \nO exterior da propriedade não é menos encantador, com um extenso jardim relvado, árvores e vegetação diversa que rodeiam a casa, criando um ambiente bucólico ideal para descanso e lazer. A boa exposição solar da propriedade permite aproveitar ao máximo este espaço ao ar livre.\nAlém disso, a moradia oferece estacionamento privado gratuito e, na parte traseira, uma área independente com uma churrascaria, forno a lenha, cozinha, WC e espaço para arrumos e máquinas, sendo igualmente ideal para receber amigos e familiares em momentos de convívio.\nCom uma localização privilegiada a apenas um minuto do Campo de Golfe e a 20 quilómetros do centro do Funchal, esta propriedade oferece uma combinação única de sossego e proximidade às comodidades urbanas.",
+  "geo": {
+    "lat": 32.7150885356846,
+    "lng": -16.8023443222046
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-santo-antonio-da-serra-santa-cruz_pt_82888",
-  "published_at": "2026-10-25",
-  "last_seen_at": "2026-10-25",
+  "published_at": "2026-10-26",
+  "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82888&foto=1679295&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82888&foto=1679295&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Chuva",
+      "Companhia",
+      "Depósito"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Alumínio)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)",
+      "Aspiração Central (Pré-Instalação)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Paredes (Pintadas)",
+      "Equipamento (Parabólica)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Escolas, Farmácia, Jardins, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 7,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

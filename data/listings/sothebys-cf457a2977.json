@@ -8,23 +8,57 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 305,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75207&foto=1515977&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75207&foto=1515977&f=1",
+  "description": "Trata-se de uma exclusiva e intemporal moradia, distribuída por 3 pisos, localizada no charmoso Bairro dos Músicos, junto à emblemática Avenida Marechal Gomes da Costa e à carismática Avenida da Boavista. \n\nEste imóvel apresenta uma soberba exposição solar, uma ampla e convidativa varanda e ainda garagem em box fechada para 1 carro.\n\nO piso de entrada apresenta um elegante hall de entrada, com acesso direto para a sala de jantar, a qual é apoiada por uma ampla cozinha. Ainda neste piso social, podemos usufruir de mais uma sala de estar e de uma casa de banho de serviço. \n\nPassando ao piso superior, entramos na zona privada desta moradia, com quatro luminosos quartos, apoiados por duas casas de banho, uma delas completa.\n\nA escassos minutos a pé de todo o tipo de serviços, como supermercados, colégios internacionais, farmácias, restaurantes, transportes públicos, museus e salas de espetáculos, como a Casa de Serralves e a Casa da Música, esta exuberante moradia apresenta-se como um inquestionável bom investimento para um quotidiano familiar e citadino.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-em-banda-lordelo-do-ouro-e-massarelos-porto_pt_75207",
-  "published_at": "2026-10-25",
-  "last_seen_at": "2026-10-25",
+  "published_at": "2026-10-26",
+  "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75207&foto=1515977&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75207&foto=1515977&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 305,
-  "area_bruta_m2": null,
+  "area_util_m2": 231,
+  "area_bruta_m2": 305,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

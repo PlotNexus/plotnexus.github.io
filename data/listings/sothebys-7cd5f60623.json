@@ -8,23 +8,56 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82134&foto=1674456&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82134&foto=1674456&f=1",
+  "description": "Há localizações que mudam completamente a forma de viver uma casa, e estar em Matosinhos Sul, a poucos minutos a pé da praia, é uma delas.\nEste apartamento T2 combina uma localização privilegiada com excelente luminosidade, exposição solar Sul/Poente e uma varanda onde é possível desfrutar de uma agradável vista parcial de mar, um detalhe que traz o Atlântico para o quotidiano da casa.\nCom 99 m² de área bruta privativa, apresenta espaços confortáveis e uma distribuição funcional, com uma zona social luminosa, dois quartos e duas casas de banho. A orientação Sul/Poente permite beneficiar de luz natural durante grande parte do dia e de uma atmosfera particularmente agradável ao final da tarde.\nA varanda prolonga a vivência da casa para o exterior e convida a começar o dia com um café, fazer uma pausa ao final da tarde ou simplesmente aproveitar a proximidade e a presença do mar.\nSituado no primeiro piso de um edifício com elevador, o apartamento dispõe ainda de lugar de garagem para uma viatura; uma mais-valia importante numa das zonas mais procuradas de Matosinhos.\nAqui, grande parte da vida faz-se a pé. A praia, o Metro, restaurantes de referência, comércio, supermercados, ginásios e todo o tipo de serviços encontram-se a poucos minutos, permitindo desfrutar plenamente do estilo de vida de Matosinhos Sul sem abdicar da proximidade ao Porto e aos principais acessos.\nUma casa para quem procura mais do que metros quadrados: procura luz, mar, localização e a liberdade de viver a cidade a pé.\nIdeal como residência própria, pied-à-terre junto ao Atlântico ou investimento numa das localizações residenciais mais consolidadas e desejadas de Matosinhos.",
+  "geo": {
+    "lat": 41.179978286578,
+    "lng": -8.69240641593933
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-matosinhos-e-leca-da-palmeira-matosinhos_pt_82134",
-  "published_at": "2026-10-25",
-  "last_seen_at": "2026-10-25",
+  "published_at": "2026-10-26",
+  "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82134&foto=1674456&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82134&foto=1674456&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Edifício": [
+      "Isolamento (Térmico)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 99,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

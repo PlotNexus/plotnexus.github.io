@@ -8,23 +8,41 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79601&foto=1605385&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79601&foto=1605385&f=1",
+  "description": "No coração das Avenidas Novas, Lisboa, no projeto Citiflat Avenidas Novas, encontra este apartamento T1 no rés do chão, pensado para quem procura uma casa nova com espaço exterior e acesso fácil ao centro da cidade.\n\nCom 65 m² de área bruta privativa, o imóvel apresenta uma zona social bem definida, 1 quarto e duas casas de banhos, num edifício de 2025 em condomínio e com elevador. A construção e os acabamentos refletem uma seleção cuidada de materiais e uma linguagem contemporânea, consistente em todas as divisões.\n\nO destaque vai para a vivência exterior: varanda com 26 m² e terraço, ideais para refeições ao ar livre, zona de leitura ou para criar um pequeno espaço verde. Conta ainda com 1 lugar de estacionamento, um fator relevante nesta zona da cidade.\n\nA localização oferece uma proximidade a pontos de referência como Saldanha, a Fundação Calouste Gulbenkian e o El Corte Inglés, além de acesso rápido a comércio, serviços e opções de restauração ao longo das Avenidas Novas.\n\nA mobilidade é um dos pontos fortes: a área beneficia de bons acessos rodoviários e de uma rede de transportes públicos abrangente nas imediações, facilitando deslocações para o centro, zonas empresariais e principais eixos de Lisboa.\n\nUma opção sólida para residência própria ou investimento, combinando apartamento novo em Lisboa, T1 nas Avenidas Novas, rés do chão com terraço, estacionamento e a conveniência de um condomínio recente.",
+  "geo": {
+    "lat": 38.7410926,
+    "lng": -9.1471513
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-avenidas-novas-lisboa_pt_79601",
-  "published_at": "2026-10-25",
-  "last_seen_at": "2026-10-25",
+  "published_at": "2026-10-26",
+  "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79601&foto=1605385&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79601&foto=1605385&f=1"
   ],
-  "features": null,
+  "features": {
+    "Caixilharia": [
+      "Dupla",
+      "PVC"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (CCTV, Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 65,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }
