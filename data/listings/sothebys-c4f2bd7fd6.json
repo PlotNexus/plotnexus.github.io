@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80626&foto=1625837&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80626&foto=1625837&f=1",
+  "description": "O DUUO é o novo condomínio privado junto à Praça de Espanha, localizado a menos de 10 minutos a pé dos novos jardins e do metro da Praça de Espanha, da Fundação Calouste Gulbenkian e do El Corte Inglés, nas Avenidas Novas. Um condomínio privado com jardim, duas piscinas, ginásio, sala polivalente e parque de bicicletas para a sua família poder desfrutar da maior qualidade de vida em pleno centro da cidade.\nNuma localização estratégica, a minutos de qualquer ponto da cidade, e próximo de algumas das mais prestigiadas universidades e hospitais de Lisboa, o DUUO é uma oportunidade incomparável no mercado atual. Um projeto de arquitetura moderna, inovador e de construção sustentável da autoria do reconhecido arquiteto Nuno Leónidas.\n\nO apartamento é novo por estrear e conta com 60m2 de área bruta privativa + 15m2 de varanda em \"L\", que percorre toda a zona social.\nO quarto conta com uma janela grande e roupeiro embutido; a cozinha e lavandaria totalmente equipadas com eletrodomésticos topo de gama.\nO apartamento conta ainda com lugar de garagem com carregador elétrico e arrecadação!\n\nÉ de realçar também a classificação energética A.\n\nEste apartamento está atualmente arrendado até Abril de 2027, pelo que é vendido já com rentabilidade garantida, sendo portanto uma excelente opção para investimento.\n\nTodos os apartamentos foram desenhados a pensar na melhor utilização do espaço, dispondo de grandes vãos, amplas varandas, estacionamento com carregador elétrico, arrecadação e parque para bicicletas. \nCom a solução de concierge virtual e caixas de correio smart delivery pode receber, devolver e enviar tudo como a máxima segurança e comodidade através do seu telemóvel. No DUUO a sua família poderá estar descansada. O condomínio dispõe de segurança 24/7 e sistema de vídeo vigilância.\n\nNas Avenidas Novas, perto da Gulbenkian, do Metro da Praça de Espanha, do Estádio Universitário e do El Corte Inglês, o novo condomínio DUUO beneficia de excelentes acessos rodoviários e ciclovias, sendo uma excelente oportunidade para viver ou investir no centro de Lisboa.",
+  "geo": {
+    "lat": 38.74336,
+    "lng": -9.1592757
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,44 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80626&foto=1625837&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80626&foto=1625837&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Equipamento (Jardins, Parque Infantil, Sala Condomínio, Video-Porteiro)",
+      "Piscina (Exterior, Interior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 60,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

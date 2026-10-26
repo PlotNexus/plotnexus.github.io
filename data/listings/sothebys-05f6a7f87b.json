@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76488&foto=1715706&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76488&foto=1715706&f=1",
+  "description": "Os apartamentos Lodge | Torrinha, localizados em pleno centro do Funchal, em Santa Luzia, trazem modernidade, funcionalidade e sofisticação à charmosa capital da ilha da Madeira. O empreendimento habitacional é composto por apartamentos T1, T2 e T3 e foi pensado para quem deseja um dia a dia prático, com qualidade de vida e perto de tudo o que importa. Distribuídos em dois edifícios, todas as unidades dispõem de quartos em suíte, cozinhas equipadas, varandas e floreiras, e um lugar de garagem por quarto. Os estacionamentos incluem pontos de carregamento para veículos elétricos. O rooftop de cada edifício tem um espaço exclusivo com piscina e solário, ideal para relaxar com vistas deslumbrantes da cidade e do mar. As áreas verdes e os espaços ao ar livre contribuem para níveis mais elevados de conforto e bem-estar.",
+  "geo": {
+    "lat": 32.6576600678835,
+    "lng": -16.9053215026855
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,51 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76488&foto=1715706&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76488&foto=1715706&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 7"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Rega Automática",
+      "Alarme (Pré-Instalação)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins, Rega Automática, Video-Porteiro, Zelador / Porteiro)"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 1,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

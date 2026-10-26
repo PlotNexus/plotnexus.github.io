@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Apartamento, Funchal (Sé), Funchal",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82855&foto=1709284&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82855&foto=1709284&f=1",
+  "description": "Encante-se com a oportunidade única de viver no coração da cidade do Funchal, no luxuoso Empreendimento Ferreiros Residences. Este novo apartamento de dois quartos oferece o equilíbrio perfeito entre o charme da arquitetura tradicional e o conforto do design contemporâneo. Com uma área bruta de 94,1 metros quadrados e situado no centro do Funchal, desfrute da conveniência de estar a poucos passos de uma vasta gama de comércio e serviços.A propriedade é realçada por acabamentos de alta qualidade, que superam os padrões do mercado, proporcionando um ambiente sofisticado e acolhedor. Com um espaço de estacionamento privado, o conforto é uma garantia, permitindo-lhe explorar a ilha sem preocupações. Além disso, saboreie momentos de descontração na piscina do empreendimento, perfeita para relaxar e aproveitar o clima magnífico da cidade. Este apartamento é mais do que um lar, é um investimento estratégico e de prestígio, situado em uma das localizações mais desejadas da cidade.",
+  "geo": {
+    "lat": 32.6513278,
+    "lng": -16.9103333
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82855&foto=1709284&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82855&foto=1709284&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 1,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

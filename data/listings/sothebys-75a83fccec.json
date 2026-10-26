@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75832&foto=1514668&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75832&foto=1514668&f=1",
+  "description": "T3 duplex com cerca de 120m2, localizado na zona central de Benfica, inserido num prédio com apenas três andares, totalmente renovado com atenção ao detalhe e materiais de qualidade. Este imóvel destaca-se pela sua funcionalidade e conforto, perfeito para famílias ou para quem procura espaço e praticidade. \n\nO apartamento distribui-se por dois pisos, oferecendo uma excelente organização entre a zona social e privada:\n\nPiso inferior: cozinha moderna em formato open space, totalmente equipada e integrada com a sala de estar, criando um ambiente amplo e luminoso. Conta ainda com uma despensa funcional e uma prática zona de lavandaria.\n\nPiso superior: encontra-se a zona privativa, composta por uma espaçosa suite, dois quartos adicionais com ampla arrumação, apoiados por uma casa de banho completa. Todos os espaços foram otimizados para garantir conforto, com bons acabamentos e excelente exposição solar.\n\nSituado na Estrada de Benfica, este imóvel beneficia de uma localização privilegiada, numa das artérias mais tradicionais e dinâmicas da zona. Benfica está em constante valorização e é conhecida pelo seu ambiente residencial, comércio local diversificado e excelente rede de transportes.\n\nImporta ainda referir que o apartamento dispõe de uma área útil superior à atualmente indicada na caderneta predial, oferecendo na prática uma utilização de espaço ainda mais generosa.",
+  "geo": {
+    "lat": 38.7510393,
+    "lng": -9.2004398
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,25 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75832&foto=1514668&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75832&foto=1514668&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Nascente Própria"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 77,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

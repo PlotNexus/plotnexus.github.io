@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77779&foto=1569872&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77779&foto=1569872&f=1",
+  "description": "Esta encantadora moradia isolada representa uma oportunidade única para quem deseja viver permanentemente ou desfrutar de férias inesquecíveis a apenas alguns minutos da deslumbrante Praia da Fuseta, no coração do sotavento algarvio.\n\nCom uma arquitetura tradicional e acabamentos típicos da região do Algarve, esta propriedade alia o charme rústico à tranquilidade da vida junto ao mar. Implantada num generoso lote de 750 metros quadrados, oferece amplo espaço exterior com imenso potencial para a criação de uma elegante piscina, zona de lazer e um jardim paisagístico moderno, perfeito para aproveitar os longos dias de sol.\n\nSeja como residência principal, casa de férias ou investimento no mercado de alojamento local, esta moradia é uma excelente escolha para quem procura qualidade de vida, privacidade e proximidade com algumas das melhores praias e paisagens naturais do sul de Portugal.",
+  "geo": {
+    "lat": 37.0535504,
+    "lng": -7.7456231
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77779&foto=1569872&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77779&foto=1569872&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 110,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "F"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 6,
   "bathrooms": 7,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66643&foto=1254716&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66643&foto=1254716&f=1",
+  "description": "Inserida no coração da Serra Algarvia, esta magnífica moradia de arquitetura contemporânea, com cerca de 700 m² de área de construção, oferece uma combinação ímpar de espaço, privacidade e integração com a natureza.\n\nCom 6 quartos e 7 casas de banho, esta propriedade foi pensada para proporcionar conforto e funcionalidade, beneficiando de áreas amplas e de uma envolvente natural privilegiada, com vistas panorâmicas deslumbrantes sobre a paisagem serrana.\n\nA sua localização tranquila, aliada às suas dimensões e características únicas, torna-a uma excelente oportunidade de investimento, com elevado potencial para alojamento local, turismo rural, retiros de bem-estar ou eventos exclusivos. Representa igualmente uma residência de excelência para quem procura um estilo de vida tranquilo, rodeado pela natureza, a poucos minutos de Loulé e das principais comodidades do Algarve.",
+  "geo": {
+    "lat": 37.233333,
+    "lng": -8.066667
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66643&foto=1254716&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66643&foto=1254716&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 735,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B"
 }

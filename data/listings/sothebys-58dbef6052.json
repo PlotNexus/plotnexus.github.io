@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82626&foto=1693632&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82626&foto=1693632&f=1",
+  "description": "Alguns imóveis distinguem-se pela localização. Outros, pela arquitetura. Este reúne ambos os atributos. Situado na Rua da Alegria, no coração da Baixa do Porto, este apartamento T3 ocupa o primeiro piso de um edifício de autor concebido por Cassiano Barbosa, uma das figuras maiores do Movimento Moderno em Portugal. Em parceria com Arménio Losa, o arquiteto marcou decisivamente a renovação da arquitetura portuense, criando uma linguagem de linhas depuradas, funcionalidade exemplar e intemporalidade estética que continua a ser referência incontornável. O edifício, composto por apenas quatro apartamentos — um por piso — e servido por elevador, oferece um nível de privacidade raro numa localização tão central. A sua construção esteve a cargo de Joaquim Ferreira dos Santos, um dos mais prestigiados empreiteiros portuenses das décadas de 1940 e 1950, protagonista da transformação urbana da cidade nesse período. Com 149 m² de área bruta privativa, a habitação revela uma organização espacial equilibrada, característica da arquitetura moderna. Na cave, um atelier independente com 39 m² e iluminação natural acrescenta uma dimensão invulgar ao imóvel, podendo funcionar como estúdio criativo, escritório, biblioteca, sala de música ou espaço multifuncional. Entre 2020 e 2023, o edifício foi objeto de uma profunda reabilitação que conciliou a preservação da sua identidade arquitetónica com a introdução de elevados padrões de conforto e desempenho técnico. A intervenção incluiu a renovação integral da cobertura, das redes de água, saneamento e eletricidade, a instalação de elevador e videoporteiro, o reforço do isolamento térmico e acústico das fachadas, bem como a renovação completa das zonas comuns. A poucos minutos a pé encontram-se o Mercado do Bolhão, a Rua de Santa Catarina, o Coliseu Porto Ageas, a Capela das Almas, o Jardim e Praça do Marquês, o Campo 24 de Agosto e as estações de Metro do Bolhão e do Marquês, beneficiando de uma oferta ímpar de comércio, cultura, serviços e transportes. Mais do que um apartamento, esta é uma oportunidade de adquirir uma obra de arquitetura que atravessa gerações, onde património, autenticidade e conforto contemporâneo se encontram numa das localizações mais emblemáticas da cidade do Porto.",
+  "geo": {
+    "lat": 41.1489551163068,
+    "lng": -8.60576243346864
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,56 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82626&foto=1693632&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82626&foto=1693632&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC",
+      "Termolacada",
+      "Vidro Duplo",
+      "Estores (PVC)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "TV-Cabo",
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Pavimento (Marmorite)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Estucado, Falso Pladur)",
+      "Equipamento (Sistema RDIS, TV Cabo, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 149,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

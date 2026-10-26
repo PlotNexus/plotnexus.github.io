@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67451&foto=1717817&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67451&foto=1717817&f=1",
+  "description": "Apartamento de três quartos com 146 metros quadrados de área bruta privativa, inserido num condomínio fechado na prestigiada zona do Bessa.\nApresenta um layout pratico e funcional aliado a excelentes áreas interiores. A ampla sala de estar, com excelente exposição solar a poente e varanda com vista desafogada, proporciona um ambiente luminoso e acolhedor, ideal tanto para o quotidiano como para receber família e amigos. A cozinha, totalmente equipada com eletrodomésticos Bosch, encontra-se preparada para responder às exigências da vida contemporânea.\nA área privada é composta por três quartos, dois dos quais em suite, complementados por três casas de banho completas, elegantemente revestidas a mármore.\nO imóvel dispõe ainda de aquecimento central apoiado por caldeira a gás natural, ar condicionado nas principais divisões e sistema de aspiração central.\nA propriedade inclui ainda um lugar de garagem que comporta até três automóveis, uma mais-valia relevante numa zona de elevada procura.\nIntegrado num condomínio fechado com jardins privativos, o apartamento beneficia de um conjunto de equipamentos destinados ao conforto e bem-estar dos seus residentes, incluindo piscina interior aquecida, balneários e salas destinadas à prática de actividades desportivas.\nAs fachadas do edifício foram reabilitadas há cerca de três anos, com aplicação de sistema de isolamento térmico pelo exterior (capoto), contribuindo para um maior conforto térmico, eficiência e valorização do imóvel.\nSituado entre a Avenida da Boavista e a Avenida do Bessa, junto ao Estádio do Bessa XXI, à Fundação Eng. António de Almeida e à zona do Foco, o imóvel beneficia de uma envolvente residencial consolidada, com espaços verdes, serviços e estabelecimentos de ensino nas proximidades.\nA localização permite ainda excelentes acessos rodoviários, nomeadamente à A1 e à Via de Cintura Interna, bem como uma boa rede de transportes públicos, com proximidade às estações de Metro de Francos e da Casa da Música.\nA ligação ao Porto-Campanhã e ao Aeroporto Francisco Sá Carneiro é igualmente facilitada, reforçando a centralidade e a conveniência desta localização.",
+  "geo": {
+    "lat": 41.16363,
+    "lng": -8.640287
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,56 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67451&foto=1717817&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67451&foto=1717817&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "PVC",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Pavimento (Granito)",
+      "Paredes (Madeira)",
+      "Tecto (Falso Pladur, Focos)",
+      "Equipamento (Gás Canalizado, Jardins, Parque Infantil, Parque Lav. Automóveis, Rega Automática, Sala Condomínio, Ventilação Mecânica, Video-Porteiro)",
+      "Piscina (Interior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 38.05; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 83,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

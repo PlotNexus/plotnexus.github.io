@@ -8,9 +8,12 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67186&foto=1267666&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67186&foto=1267666&f=1",
+  "description": "Extraordinário apartamento duplex com três quartos, com 133 metros quadrados de área bruta privativa, inserido num edifício de 2020 na zona do Bonfim.\nNo piso principal podemos encontrar uma ampla área social, composta por sala de estar e jantar com 36,00 metros quadrados, apoiada por uma varanda de 5.1 metros quadrados voltada a poente, o que confere muita luminosidade, cozinha com lavandaria e casa de banho social. \nNo piso superior dispõe de três quartos, um deles em suite. Acabamentos contemporâneos, climatização assegurada por ar condicionado.\nDotado de um lugar de garagem.\nDispõe de uma excelente localização, no coração da cidade do Porto, a um passo da baixa da cidade, estando muito próximo de comércio local e supermercados, e de todo o tipo de serviços como farmácias, hospital e bancos. Conta com muito bons acessos a transportes públicos, com estação de metro a 500 metros e comboio a cerca de 10 minutos a pé.",
+  "geo": {
+    "lat": 41.1545573,
+    "lng": -8.5994546
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,48 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67186&foto=1267666&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67186&foto=1267666&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 2"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Granito, Monomassa)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 12.6; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 133,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

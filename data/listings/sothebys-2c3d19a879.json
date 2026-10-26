@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79496&foto=1612690&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79496&foto=1612690&f=1",
+  "description": "Moderno apartamento T2, com cerca de 84m2 de área total, em Matosinhos Sul. É composto por área social com sala e cozinha em open space, e lavandaria, e na área privativa é composto por dois quartos, um deles em suite com closet e um wc completo. O apartamento com elevado nível de construção, pavimentos em madeira de carvalho, eletrodomésticos da marca Bosh, aquecimento e arrefecimento por sistema de multisplits da marca Deluxe LG, bomba de calor para aquecimento de aguas sanitárias da marca Ariston, caixilharia com corte térmico tipo Cortizo. Destaque para a arquitectura contemporânea e o cuidado na escolha de materiais modernos e tecnologias avançadas, sempre em benefício do conforto, da harmonia e da tranquilidade. A climatização é feita através do sistema de ar condicionado, e o aquecimento das águas sanitárias através de bomba de calor. O edifício está dotado com sistema CCTV nas zonas comuns do Rés do Chão e Caves, sistema de iluminação automático accionado por sensores de movimento, video-porteiro e sala do condomínio multi-usos. Localizado a poucos metros do mar e a uma curta caminhada do Parque da Cidade do Porto, com acessos privilegiados a vias rápidas e auto-estradas. Proximidade a todo o tipo de comércio e serviços, restaurantes e esplanadas e colégios internacionais. O aeroporto internacional Francisco Sá Carneiro está a 10 minutos de carro e o centro da cidade do Porto a 20 minutos.",
+  "geo": {
+    "lat": 41.1844362,
+    "lng": -8.6962775
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,37 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79496&foto=1612690&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79496&foto=1612690&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 80,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

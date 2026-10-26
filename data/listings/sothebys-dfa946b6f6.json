@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83359&foto=1718592&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83359&foto=1718592&f=1",
+  "description": "T2 com Terraço Privativo de 31 m² em Campolide\nInserido num edifício de apenas quatro pisos — com uma única fração por andar, este apartamento de 106 m² reúne centralidade, luz natural e a sobriedade de um refúgio privativo no centro de Lisboa. Tem paredes exteriores orientadas a Este e Oeste e um pé-direito de 2,66m2.\nA sua distribuição fluida distingue perfeitamente as zonas sociais das áreas privadas, culminando num generoso espaço exterior de utilização exclusiva e na conveniência de um lugar de garagem.\n\nDistribuição e Áreas:\n\n• Terraço Privativo (31 m²): Um espaço exterior ideal para momentos de lazer. \n• Sala Comum (25 m²): Ampla e luminosa, com proporções excelentes para criar diferentes ambientes de estar e jantar. \n• Cozinha (12,50 m²): Espaçosa, funcional e bem estruturada. \n• Hall de Entrada (11,50 m²): Generoso, garantindo uma transição fluida e harmoniosa na casa. \n• Zona Privada: Dois quartos luminosos (13,50 m² e 11 m²), ambos servidos por uma varanda privativa de 8 m². \n• Casa de Banho (4,20 m²): Espaço equilibrado e bem dimensionado. \n• Estacionamento (13 m²): Lugar de garagem coberto situado num edifício vizinho (Rua Miguel Torga), garantindo total comodidade de estacionamento.\n\nPiso: 2.º Andar (sem elevador)\n\nLocalizado na Rua de Campolide, a poucos passos das Amoreiras, do Parque Eduardo VII e do polo universitário da Nova. Beneficia de uma envolvência rica em comércio tradicional, serviços e de acessos imediatos ao Eixo Norte-Sul, A2 e A5.\nUma oportunidade singular, vocacionada para quem privilegia boas áreas, espaço exterior e o conforto de estacionamento no centro da cidade.",
+  "geo": {
+    "lat": 38.7293132,
+    "lng": -9.1622255
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,47 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83359&foto=1718592&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83359&foto=1718592&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 13; Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 106,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

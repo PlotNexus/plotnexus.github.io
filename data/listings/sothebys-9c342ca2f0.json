@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78186&foto=1585608&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78186&foto=1585608&f=1",
+  "description": "Apresentamos este apartamento T4 na Rua de São Mamede, junto ao icónico Castelo de São Jorge e à Sé de Lisboa.\n\nLocalizado na emblemática Rua de São Mamede, este elegante apartamento T4 com 130 m² combina o charme histórico de Lisboa com o conforto contemporâneo. Inserido num edifício com elevador, em pleno coração da cidade, encontra-se a poucos passos do icónico Castelo de São Jorge, numa das áreas mais autênticas e valorizadas da capital, e a apenas 1 min a pé do Elevador da Baixa/Castelo com fácil acesso à Baixa Chiado.\n\nO imóvel distingue-se pela sua arquitetura, com tetos altos com frisos neoclássicos originais, presentes em todas as assoalhadas, que realçam o seu caráter patrimonial e a sofisticação da época. A cozinha e a casa de banho foram integralmente renovadas em 2014, incorporando design moderno e materiais de qualidade, que se integram harmoniosamente na atmosfera clássica do apartamento.\n\nCom divisões bem distribuídas e áreas generosas, este T4 oferece um ambiente acolhedor e distinto, ideal para quem valoriza o equilíbrio entre história e funcionalidade. A zona envolvente tem todo o tipo de serviços a walking-distance, destacando as ruas pitorescas, miradouros, cafés e lojas tradicionais, refletindo o espírito genuíno de Lisboa.\n\nTem a possibilidade de adquirir um lugar de estacionamento em avença no Pingo Doce Chão do Loureiro a apenas 2 minutos a pé do apartamento.\n\nUma oportunidade única de adquirir um apartamento de luxo no centro histórico de Lisboa, onde a autenticidade e o património se encontram com o conforto e a elegância contemporânea.",
+  "geo": {
+    "lat": 38.7113522,
+    "lng": -9.1361634
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78186&foto=1585608&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78186&foto=1585608&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 130,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

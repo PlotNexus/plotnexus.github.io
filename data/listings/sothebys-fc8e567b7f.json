@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70541&foto=1657744&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70541&foto=1657744&f=1",
+  "description": "Há localizações onde as pessoas chegam, e há localizações onde permanecem. A Herdade dos Salgados pertence claramente à segunda categoria. Quem compra aqui raramente vende — quando o faz, é para evoluir dentro do próprio empreendimento. Esta dinâmica define o verdadeiro valor deste apartamento.\n\nInserido num dos condomínios mais consolidados e procurados de Albufeira, este apartamento T2 encontra-se numa das zonas mais tranquilas do resort, afastado das principais áreas de circulação e das piscinas. O resultado é uma combinação rara de privacidade, silêncio e conforto, mantendo simultaneamente acesso a todas as comodidades.\n\nO apartamento apresenta uma distribuição funcional, com dois quartos, um deles em suite, e uma área social em open space que integra sala de estar e cozinha totalmente equipada. A zona interior prolonga-se naturalmente para um terraço generoso, com excelente exposição solar, criando uma ligação fluida entre interior e exterior. A luz natural assume um papel central, valorizando o conforto e a vivência do espaço ao longo do dia.\n\nO verdadeiro diferencial desta propriedade não está apenas no apartamento, mas também no ambiente em que se insere. A Herdade dos Salgados foi concebida como um resort de baixa densidade, com extensos jardins, caminhos pedonais rodeados por palmeiras e várias piscinas distribuídas pelo condomínio. Trata-se de um ambiente controlado, seguro e cuidadosamente mantido, que garante um padrão de qualidade elevado durante todo o ano.\n\nA poucos minutos a pé, a paisagem abre-se para a reserva natural dos Salgados, com passadiços em madeira que conduzem diretamente à praia. Esta ligação entre arquitetura e natureza torna esta localização verdadeiramente única — uma combinação rara de proximidade ao mar, envolvente natural protegida e tranquilidade residencial.\n\nA posição do apartamento dentro do condomínio assegura simultaneamente privacidade e funcionalidade, beneficiando de fácil acesso pedonal, mas mantendo-se resguardado das zonas de maior movimento.\n\nEsta é uma propriedade versátil: ideal como residência permanente, segunda habitação ou investimento sólido. A procura nos Salgados mantém-se estruturalmente elevada, sustentada pela escassez de oferta, elevada retenção por parte dos proprietários e interesse internacional contínuo.\n\nEste apartamento não é apenas uma aquisição no Algarve. É uma posição num dos poucos locais onde estilo de vida, estabilidade e valorização se alinham de forma consistente.",
+  "geo": {
+    "lat": 37.0891822,
+    "lng": -8.3213625
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,40 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=70541&foto=1657744&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=70541&foto=1657744&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Equipamento (Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Jardins"
+    ],
+    "Zona": [
+      "Proximidade (Jardins, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 6,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

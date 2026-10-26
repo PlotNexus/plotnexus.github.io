@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77024&foto=1552073&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77024&foto=1552073&f=1",
+  "description": "Trata-se de um exclusivo e sofisticado apartamento T1, localizado em plena Marina da Afurada, na 1ª linha de rio e com acesso direto à charmosa praia fluvial aí existente.\n\nDotada das mais sublimes e inspiradoras vistas sobre o rio e o mar, este imóvel oferece tranquilamente a melhor das envolvências e vivências, inerentes a esta zona premium da linha da Foz de Gaia.\n\nEm concordância com todo este contexto, todos os materiais utilizados na sua concepção obedecem a altos padrões de qualidade e design, sendo disso exemplo o soalho em multicamadas de carvalho com rodapés em madeira maciça, casas de banho em mármore creme marfil, sendo a sua convidativa e majestosa varanda, de cerca de 20 m2, revestida a madeira tipo deck. Este excelente espaço exterior é perfeito para ser usado como área de refeições, para relaxamento e agradável convívio familiar.\n\nA requintada cozinha, em open space com a harmoniosa sala de estar e de jantar, assim como a master suite, encontram-se todos totalmente mobilados e equipados, sendo fundamental referir que todos os seus itens já se encontram inventariados, e serão vendidos em conjunto e como parte integrante deste apartamento.\n\nAcresce ainda acrescentar que este imóvel, dispõe de um lugar de garagem para estacionamento automóvel.\n\nLocalizado a escassos minutos de todo o tipo de serviços, como escolas públicas e colégios privados, restaurantes e esplanadas, supermercados e centros comerciais, e junto aos principais ramais de acesso à A1, A28, A44 e Ponte da Arrábida, este sumptuoso apartamento não deixa qualquer dúvida sobre todas as suas imbatíveis mais valias.",
+  "geo": {
+    "lat": 41.1385245779698,
+    "lng": -8.65055649342042
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,64 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77024&foto=1552073&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77024&foto=1552073&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Gás Canalizado",
+      "Alarme (CCTV)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Mármore)",
+      "Hall de Entrada (Iluminação Aut.)",
+      "Pavimento (Marmorite)",
+      "Tecto (Falso Pladur, Focos)",
+      "Equipamento (Gás Canalizado, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 12.2; Casa de Banho",
+      "Eletricidade",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 62,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A"
 }

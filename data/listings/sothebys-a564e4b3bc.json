@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77018&foto=1554969&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77018&foto=1554969&f=1",
+  "description": "Bem-vindo à Villa Rosa, uma residência histórica situada na antiga vila termal de Caldas de Monchique. Esta casa de impressionante valor arquitetónico foi construída em 1913 e cuidadosamente restaurada ao longo dos últimos cinco anos. Os dois pisos superiores albergam uma habitação com três quartos e três casas de banho, situada sobre um estúdio independente com entrada própria, kitchenette e casa de banho.\n\nO ambiente é sereno, com acesso facilitado a três hotéis termais da região e às célebres águas de Monchique. Os jardins envolventes foram cuidadosamente ajardinados e contam com mais de 20 variedades de árvores de fruto.\n\nA propriedade possui licença AL ativa e tem funcionado com sucesso como alojamento de férias nos últimos três anos.",
+  "geo": {
+    "lat": 37.3185027069,
+    "lng": -8.5564613342
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,12 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77018&foto=1554969&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77018&foto=1554969&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 192,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

@@ -8,9 +8,12 @@
   "bedrooms": 5,
   "bathrooms": 3,
   "area_m2": 316,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66400&foto=1247413&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66400&foto=1247413&f=1",
+  "description": "Charmosa moradia no coração do Porto, próxima ao cativante Jardim do Covelo. Esta moradia apresenta-se como um verdadeiro tesouro arquitetónico, ostentando uma traça elegante e imponente, projetada pelo arquiteto Francisco Oldemiro Carneiro, o mestre onde o Arquiteto Fernando Távora realizou o seu estágio. \nA moradia em si contém cinco quartos espaçosos, três amplas salas e uma cozinha totalmente equipada. Durante a sua construção, foram privilegiados materiais nobres, refletindo-se na qualidade e no charme que esta casa emana.\nO conforto é uma prioridade, e isso é evidente na climatização eficiente, garantida pelo aquecimento central e diversas lareiras, incluindo um recuperador de calor. Os pavimentos são igualmente requintados, com cerâmicas nas áreas de serviço, nas casas de banho e a cozinha, enquanto as áreas sociais e privadas brilham com um magnífico soalho de madeira.\nA moradia beneficia de uma excelente exposição solar, com orientação nascente e poente, proporcionando uma luminosidade espetacular ao longo do dia. Dotada de uma garagem para um carro.\nA sua localização é verdadeiramente privilegiada, permitindo um acesso rápido aos principais acessos que ligam a cidade a outros destinos e, ao mesmo tempo, coloca-o a uma curta distância do centro histórico do Porto. Proximidade a uma ampla gama de serviços, Supermercados, restaurantes, escolas e ao polo universitário do Porto, com metro a uma curta distância a pé. \nA um minuto a pé do Jardim do Covelo, proporcionando um espaço verde e tranquilo para passeios relaxantes.",
+  "geo": {
+    "lat": 41.1643861,
+    "lng": -8.6062307
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,42 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66400&foto=1247413&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66400&foto=1247413&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Interior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Granito, Monomassa, Pintado)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 17; Portão Automático"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 316,
-  "area_bruta_m2": null,
+  "area_util_m2": 295,
+  "area_bruta_m2": 316,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

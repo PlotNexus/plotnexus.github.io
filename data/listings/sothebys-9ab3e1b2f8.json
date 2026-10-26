@@ -8,9 +8,12 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83561&foto=1698912&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83561&foto=1698912&f=1",
+  "description": "No coração de Lisboa, em frente à prestigiada Fundação Calouste Gulbenkian, nasce o Gulbenkian’s 44, um novo empreendimento residencial que combina uma localização privilegiada com arquitetura contemporânea, qualidade de construção e materiais cuidadosamente selecionados. Com seis pisos, este projeto foi pensado para proporcionar uma experiência residencial confortável, sofisticada e funcional, numa das zonas mais centrais e desejadas da cidade.\n\nO empreendimento integra apartamentos de diferentes tipologias, incluindo T2 de 60 m², concebidos para responder às necessidades de uma vida urbana contemporânea. Os interiores privilegiam uma distribuição funcional e acabamentos de qualidade, complementados por equipamentos de marcas reconhecidas como Bosch, Daikin e Roca.\n\nA atenção ao detalhe estende-se ao conforto acústico, com soluções específicas aplicadas nas paredes, pavimentos, tetos e tubagens. Elementos como os pavimentos Artureon, o ripado de madeira e os revestimentos cerâmicos Roca e Calacata Gold acrescentam carácter aos espaços e reforçam a qualidade do projeto.\n\nO Gulbenkian’s 44 distingue-se também pelas suas áreas e comodidades comuns. O piso térreo dispõe de um parque de bicicletas, um ginásio boutique e um spa equipado com jacuzzi, sauna e banho turco. O empreendimento inclui ainda um pátio coberto por pérgula, com zona de estar e lareira central, pensado para momentos de convívio e descontração.\n\nA localização é um dos seus maiores atributos. Viver no Gulbenkian’s 44 significa estar a poucos passos da Fundação Gulbenkian, dos seus jardins e de uma envolvente marcada pela cultura, arte e natureza, beneficiando simultaneamente de excelentes ligações de transportes.\n\nUma nova forma de viver Lisboa, onde a centralidade, o conforto e a qualidade se encontram à porta de casa.",
+  "geo": {
+    "lat": 38.7410926,
+    "lng": -9.1471513
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83561&foto=1698912&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83561&foto=1698912&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 60,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null

@@ -8,9 +8,12 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": 162,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83325&foto=1697369&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83325&foto=1697369&f=1",
+  "description": "Localizada em Alfarim, esta moradia em banda T4, inserida num condomínio com piscina, destaca-se pela proximidade às praias do Meco e da Lagoa de Albufeira e pela ligação a Lisboa, a cerca de 40 minutos de carro. \nA propriedade foi renovada recentemente e combina uma localização residencial com espaços exteriores privados, sendo indicada tanto para residência permanente como para utilização de férias.\n\nDistribuída por dois pisos, a moradia dispõe de quatro quartos e duas casas de banho completas. A organização dos espaços inclui ainda uma zona de lavandaria, aquecimento central, varanda e terraço. \nA renovação contemplou os acabamentos, os equipamentos e alguns elementos de mobiliário executados à medida. A propriedade encontra-se equipada e preparada para utilização imediata, existindo também a possibilidade de aquisição da restante mobília, mediante negociação.\n\nNo exterior, dispõe de jardim privado, varanda e terraço. A propriedade inclui ainda estacionamento privado e carregador para veículos elétricos. A área exterior do condomínio beneficia de piscina, complementando as zonas privadas da moradia e permitindo usufruir do espaço sem sair da propriedade.\n\nAlfarim dispõe de comércio e serviços para o quotidiano, incluindo supermercados, farmácia, restaurantes, cafés e outros estabelecimentos. A Praia do Meco encontra-se a cerca de 5 minutos de carro, a Praia das Bicas fica a aproximadamente 5 km e a Lagoa de Albufeira a cerca de 10 minutos de carro, permitindo o acesso a diferentes praias e zonas naturais da região.\n\nPara famílias com filhos em idade escolar, a Seixal International School, em Fernão Ferro, e a St. Peter's International School, em Palmela, encontram-se a cerca de 30 a 40 minutos de carro. O Quinta do Peru Golf &amp; Country Club fica a aproximadamente 20 km.\n\nA localização permite ainda chegar rapidamente a Sesimbra, onde se encontram várias praias, o mercado municipal, comércio, restauração e serviços de saúde. O acesso às principais vias rodoviárias da Margem Sul permite a ligação à A2 e à Ponte 25 de Abril com o Aeroporto a aproximadamente 55 minutos de carro.",
+  "geo": {
+    "lat": 38.4740657993425,
+    "lng": -9.16947940898437
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,12 +22,34 @@
   "published_at": "2026-10-26",
   "last_seen_at": "2026-10-26",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83325&foto=1697369&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83325&foto=1697369&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)",
+      "Piscina (Exterior)"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Porto de Mar)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bombeiros, Farmácia, Padaria, Praias)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 162,
-  "area_bruta_m2": null,
+  "area_util_m2": 145,
+  "area_bruta_m2": 162,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }
