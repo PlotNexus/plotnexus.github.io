@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 110,
   "image": null,
-  "description": null,
+  "description": "Moradia V6 com cave e sótão e excelentes áreas. \nPossui terreno de grande dimensão com anexos. \nVistas panorâmicas e a 10min de Espinho.",
   "geo": {
     "lat": 40.98597312181642,
     "lng": -8.594117325408934
@@ -19,14 +19,19 @@
     "url": "https://www.era.pt"
   },
   "listing_url": "https://www.era.pt/imovel/moradia-isolada-t6-santa-maria-da-feira-sao-paio-de-oleiros-278170240",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 154"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 110,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 154,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-27"
 }

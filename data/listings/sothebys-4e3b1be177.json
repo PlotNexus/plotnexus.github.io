@@ -8,24 +8,64 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78408&foto=1578785&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78408&foto=1578785&f=1",
+  "description": "Apartamento T3 com varanda de 6 m² no Edifício Santiago, em Leça da Palmeira.\n\nO apartamento T3 apresenta uma área generosa de 117m² e uma distribuição eficiente dos espaços, com uma varanda de 6m² com vistas sobre o porto de Leixões, que convida a desfrutar de momentos ao ar livre com total conforto e privacidade. Os interiores foram desenhados com atenção ao detalhe, privilegiando a luz natural, a funcionalidade e o bem-estar, através da utilização de materiais de alta qualidade e de um design moderno e harmonioso. Cada fração inclui lugar de garagem, sendo que algumas contam ainda com box privada, reforçando a comodidade e segurança.\n\nSituado numa das zonas mais privilegiadas do Norte de Portugal, este empreendimento destaca-se pela localização excecional, pela arquitetura contemporânea e pela qualidade dos acabamentos. O Edifício Santiago ergue-se no coração de Leça da Palmeira, combinando a proximidade ao mar com a tranquilidade dos espaços verdes envolventes. A poucos minutos do Porto, do Aeroporto Internacional e das praias atlânticas, este projeto oferece uma experiência de vida equilibrada entre a energia citadina e o sossego residencial.\n\nO Edifício Santiago oferece soluções versáteis para diferentes estilos de vida, ideais tanto para famílias como para jovens profissionais ou investidores. As áreas brutas privativas variam entre 80 m² e 129 m², com varandas, terraços e espaços exteriores que podem ultrapassar os 80 m² nas coberturas.\n\nA localização é um dos grandes trunfos deste projeto: a apenas 2 minutos a pé de restaurantes, bares e da Quinta da Conceição, 5 minutos de bicicleta das praias de Leça da Palmeira, 10 minutos de carro do Aeroporto Francisco Sá Carneiro e 15 minutos do centro do Porto. A envolvente dispõe ainda de escolas, centros de saúde, comércio e serviços, garantindo todas as condições para uma vida cómoda e tranquila.\n\nO Edifício Santiago é uma oportunidade única para viver ou investir numa das zonas mais valorizadas da Área Metropolitana do Porto, onde o mar, a cidade e o conforto se encontram em perfeita sintonia.",
+  "geo": {
+    "lat": 41.1952227841065,
+    "lng": -8.68700778564452
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-matosinhos-e-leca-da-palmeira-matosinhos_pt_78408",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-27",
   "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78408&foto=1578785&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78408&foto=1578785&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Monomassa)",
+      "Pavimento (Mármore)",
+      "Paredes (Mármore)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 19.93; Local (Cave)"
+    ],
+    "Vistas": [
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 7,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-27"
 }

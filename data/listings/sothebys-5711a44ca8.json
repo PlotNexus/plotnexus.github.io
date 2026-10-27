@@ -8,24 +8,57 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=56785&foto=1266868&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=56785&foto=1266868&f=1",
+  "description": "Um prédio moderno no coração da cidade, com 40 unidades habitacionais, ofereceria uma experiência urbana de alto padrão.\nO prédio estaria estrategicamente localizado no centro da cidade, proporcionando fácil acesso a todas as comodidades urbanas, como lojas, restaurantes, parques, escolas e transporte público. Sua localização privilegiada seria um atrativo para residentes em busca de conveniência.\nO prédio apresenta ria um design contemporâneo que se integra harmoniosamente com o tecido urbano circundante. com a utilização de materiais de alta qualidade conferindo ao edifício um visual sofisticado e moderno\nAs 40 unidades habitacionais espaçosas e bem planejadas, variando de apartamentos de um a quatro quartos estão projetada com acabamentos de luxo, incluindo pisos de madeira, bancadas de pedra natural e eletrodomésticos de última geração. Além disso, todas as unidades oferecem varandas ou terraços privativos para proporcionar aos moradores áreas ao ar livre para relaxar e apreciar a paisagem urbana.\nTodos os apartamentos usufruem do estacionamento privativo.",
+  "geo": {
+    "lat": 32.65352,
+    "lng": -16.91084
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-imaculado-coracao-de-maria-funchal_pt_56785",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-27",
   "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=56785&foto=1266868&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=56785&foto=1266868&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Domótica": [
+      "Gás Canalizado"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Casa Recolha Lixo, Jardins, TV Cabo, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Zona": [
+      "Acessos (Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 74,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-27"
 }

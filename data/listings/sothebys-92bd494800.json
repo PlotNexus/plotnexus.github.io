@@ -8,24 +8,53 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77012&foto=1562040&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77012&foto=1562040&f=1",
+  "description": "Localizado em Arroios, encontra este espaçoso apartamento T3 com 85m², atualmente transformado em 4 quartos, graças a uma reorganização que permitiu a sua rentabilidade através de arrendamento por quartos. Localizado num segundo andar com elevador, num edifício de betão sólido e bem conservado, o imóvel apresenta-se em ótimo estado e pronto a habitar. A cozinha foi modernizada e todo o apartamento é vendido totalmente mobilado e equipado, oferecendo a vantagem de ser adquirido já pronto a usar, sem necessidade de investimento adicional.\nOs atuais quatro quartos estão todos mobilados com cama de casal, mesas de cabeceira e candeeiros, secretária e cadeira, televisão, e roupeiro. \nA cozinha equipada com frigorifico, micro-ondas, termo acumulador, máquina de lavar loiça e roupa, mesa de refeição e cadeiras.\nFacilmente se converte novamente em T3, voltando a colocar a sala como seria originalmente.\n\nA localização é outro dos grandes atrativos: próximo do Jardim do Caracol da Penha, numa zona central e vibrante de Lisboa, com fácil acesso a transportes públicos, comércio tradicional, serviços, restaurantes e espaços verdes. Esta envolvente faz de Arroios um dos bairros mais procurados, tanto por famílias que procuram qualidade de vida no centro da cidade, como por investidores atentos ao elevado potencial de rentabilidade que a zona oferece, dada a sua proximidade com a universidade.\n\nSeja para continuar a rentabilizar através do arrendamento por quartos ou para adaptar novamente a habitação ao seu uso original, esta é uma oportunidade única de adquirir um apartamento versátil, funcional e bem localizado em pleno coração de Lisboa.",
+  "geo": {
+    "lat": 38.7223319,
+    "lng": -9.1326749
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-arroios-lisboa_pt_77012",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-27",
   "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77012&foto=1562040&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77012&foto=1562040&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC",
+      "Estores (Alumínio, Térmicos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação, Lojas)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (TV Cabo)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 85,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-27"
 }

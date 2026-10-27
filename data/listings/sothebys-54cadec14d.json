@@ -8,24 +8,50 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 104,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80005&foto=1615932&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80005&foto=1615932&f=1",
+  "description": "No centro do Porto, numa rua típica e repleta de identidade, encontra-se esta acolhedora moradia de três quartos, absolutamente singular. \n\nA poucos passos do rio, combina autenticidade, conforto e design.\n\nCom 104 m², a moradia surpreende pela sensação de amplitude, resultado de uma construção original, um projeto da autoria do arquiteto César Moreira. \n\nO imóvel está dividido em quatro subpisos, e destaca-se pela luz natural e pela presença de materiais naturais, como a madeira e a pedra, aliados a uma decoração de tons suaves, que proporcionam um ambiente luminoso, confortável e harmonioso.\n\nAtualmente com licença de alojamento local e em pleno funcionamento, é um verdadeiro sucesso entre os hóspedes, que se rendem ao seu carácter único e à sua localização privilegiada, que lhes permite explorar o Porto a pé a partir de casa.\n\nTrata-se de uma oportunidade de investimento diferenciadora, numa localização tradicional da cidade.",
+  "geo": {
+    "lat": 41.1480034,
+    "lng": -8.6307974
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-marginal-cantareira-ouro-porto_pt_80005",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-27",
   "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80005&foto=1615932&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80005&foto=1615932&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 104,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 104,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-27"
 }

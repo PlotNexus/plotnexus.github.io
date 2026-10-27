@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 85,
   "image": null,
-  "description": null,
+  "description": "Um novo edifício residencial em Vila Nova de\nGaia, pensado para quem valoriza tranquilidade,\nconforto e arquitetura contemporânea.\nNo Edifício Curvo, a arquitetura afasta-se do convencional\npara dar lugar a uma expressão fluida e contemporânea.\nAs varandas contínuas desenham uma silhueta orgânica\ne envolvente, conferindo ao edifício uma identidade única\ne uma presença marcante na paisagem urbana.\nA excelente exposição solar é um dos grandes destaques\ndeste projeto, permitindo que a luz natural invada\ngenerosamente cada espaço ao longo do dia.\nCada linha foi pensada para suavizar a relação entre o\ninterior e exterior, permitindo mais luz, mais privacidade e\numa vivência mais orgânica do espaço.\nLocalizado em Vila Nova de Gaia, o empreendimento\nbeneficia de uma posição central que proporciona\nfácil acesso a diversos pontos de interesse e às\nprincipais vias de entrada e saída da cidade,\ngarantindo uma qualidade de vida superior.",
   "geo": {
     "lat": 41.121372,
     "lng": -8.6080578
@@ -19,14 +19,19 @@
     "url": "https://www.era.pt"
   },
   "listing_url": "https://www.era.pt/imovel/apartamento-t2-vila-nova-de-gaia-mafamude-e-vilar-do-paraiso-174260141",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Construção",
+      "Área Bruta: 84,7"
+    ]
+  },
+  "estado": "Construção",
   "area_util_m2": 85,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 85,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-27"
 }

@@ -8,24 +8,66 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": 3085,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74073&foto=1493937&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74073&foto=1493937&f=1",
+  "description": "Moradia em banda com 3 quartos e vista de Rio em Canidelo.\nO layout é práctico e funcional e garante zonas espaçosas. Ao nível do Piso 0 temos o Hall de entrada separado em duas zonas e com armários embutidos, a sala comum com recuperador de calor, a casa de banho social, a cozinha com copa, a lavandaria, e um acesso direto ao jardim a poente. No piso 1: três quartos todos com roupeiros embutidos e varanda, sendo um deles uma suite em que a casa de banho tem luz natural, banheira e cabine de hidromassagem, e a casa de banho de apoio aos dois quartos tem banheira e base de duche. O piso 2, no vão de telhado, tem um amplo espaço polivalente que pode ser usado como sala ou quarto, com casa de banho de serviço, arrumos e acesso a um terraço\\solário com vista de Rio.\nA cave, com acesso desde o interior e através do jardim frontal e traseiro, acolhe uma garagem para quatro viaturas e uma despensa.\nNo jardim e pátio posterior existem anexos diversos usados como arrumação.\nOs materiais utilizados são nobres, como o soalho maciço em jatobá, bancada e paredes da cozinha em granito e bancadas das casas de banho em pedra natural. O aquecimento central dos espaços é feito através de radiadores, alimentados através de caldeira mural a gás de botija ou gasóleo, tem estores eléctricos em todas as divisões, caixilharia dupla e toalheiros aquecidos nas casas de banho dos quartos. Garagem para 4 carros, orientação solar: Nascente e Poente, distribui-se em quatro pisos.\nA casa está inserida numa zona residencial maioritariamente unifamiliar, que está a uma curta distância da praia, do mar e do rio, permitindo a prática de exercício fisico e de diversos desportos.\nA Foz do rio, Reserva Natural do estuário do Rio Douro fica a 400 metros e a praia de Lavadores a 1000 metros. Fácil acesso às principais vias de acesso, como as auto-estradas A1, A44 ou A29. Todo os tipo de comércio e serviços a 5/10 minutos de distância.",
+  "geo": {
+    "lat": 41.1308961787,
+    "lng": -8.6543941497
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-em-banda-canidelo-vila-nova-de-gaia_pt_74073",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-27",
   "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74073&foto=1493937&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74073&foto=1493937&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 4"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Aspiração Central (Completo)"
+    ],
+    "Edifício": [
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 72.6; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 3085,
-  "area_bruta_m2": null,
+  "area_util_m2": 5,
+  "area_bruta_m2": 3085,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-27"
 }
