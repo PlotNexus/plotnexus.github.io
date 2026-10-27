@@ -8,23 +8,57 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79577&foto=1613714&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79577&foto=1613714&f=1",
+  "description": "Exclusivo apartamento T1+1 com 70m² de Área Bruta Privativa e com 88m2 de jardim privativo com orientação solar a sul, situado numa das ruas mais serenas e exclusivas da cidade do Porto — um local onde o ritmo abranda, a paisagem inspira e a qualidade de vida se afirma.\nInserido num empreendimento onde a história, a natureza e a modernidade se unem num equilibrio perfeito, composto por apenas 14 apartamentos exclusivos, com tipologias de T0 a T4, este palacete cuidadosamente reabilitado combina a nobreza da arquitetura clássica com a funcionalidade e o conforto do design contemporâneo. Cada espaço foi pensado ao detalhe, privilegiando elegância, fluidez e intemporalidade.\nEmpreendimento com vistas deslumbrantes sobre o Rio Douro, um cenário único que acompanha o quotidiano e valoriza cada momento. A abundante luz natural, aliada a materiais nobres e acabamentos de elevada qualidade, reflete um projeto concebido para quem valoriza autenticidade, conforto e exclusividade, encontra-se envolvido por belos jardins privados, oferecendo um verdadeiro refúgio urbano, onde tranquilidade e bem-estar coexistem com a centralidade da cidade. A localização permite fácil acesso às principais vias de comunicação, ao centro histórico do Porto, zonas comerciais, serviços e restauração.\nA excelente acessibilidade é reforçada pela proximidade ao Aeroporto Internacional Francisco Sá Carneiro, situado a cerca de 20 minutos, garantindo ligações rápidas e eficientes, ideais tanto para residência própria como para investimento.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-lordelo-do-ouro-e-massarelos-porto_pt_79577",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79577&foto=1613714&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79577&foto=1613714&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 70,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

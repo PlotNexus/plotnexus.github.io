@@ -8,23 +8,76 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81961&foto=1678495&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81961&foto=1678495&f=1",
+  "description": "Localizado no coração de Cascais, este apartamento T1, situado na Avenida 25 de Abril, beneficia da proximidade de todo o tipo de comércio, serviços e restauração. Supermercados, cafés, pastelarias, farmácias, bancos e restaurantes encontram-se a poucos minutos a pé, assim como escolas e diversos equipamentos de apoio ao quotidiano.\n\nDistingue-se pela renovação integral assinada por arquiteto, onde a qualidade dos materiais, a atenção ao detalhe e o design contemporâneo se conjugam para criar um espaço elegante e funcional. Uma oportunidade única para quem procura um apartamento totalmente renovado, pronto a habitar, numa das localizações mais prestigiadas da Linha de Cascais.\n\nCom uma área de 52 m², o apartamento apresenta uma distribuição cuidada que privilegia o conforto e a fluidez entre os espaços. É composto por um quarto, uma casa de banho completa, sala de estar, cozinha e um lugar de garagem, uma mais-valia rara no centro de Cascais.\n\nA renovação foi pensada para proporcionar uma experiência de habitação sofisticada e intemporal. A cozinha, em conceito aberto, integra-se naturalmente na zona social, destacando-se pelo desenho minimalista, pelos acabamentos em madeira natural e pela seleção criteriosa dos materiais. Totalmente equipada com eletrodomésticos encastrados, inclui ainda uma garrafeira climatizada, respondendo às exigências de um estilo de vida contemporâneo. O conforto é assegurado através de climatização, iluminação regulável (dimmável), toalheiro elétrico na casa de banho, lavandaria discretamente integrada, abundantes soluções de arrumação desenvolvidas à medida e porta blindada de alta segurança, refletindo o cuidado colocado em cada detalhe do projeto.\n\nAlém de constituir uma excelente opção para habitação própria, este imóvel apresenta igualmente um elevado potencial de valorização, sendo uma escolha atrativa para investimento ou segunda residência.\n\nAs acessibilidades reforçam a exclusividade desta localização. A Avenida Marginal encontra-se a apenas dois minutos, a autoestrada A5 a cerca de cinco minutos e a estação ferroviária de Cascais permite ligações rápidas e cómodas a Lisboa e às restantes localidades da Linha de Cascais.\n\nViver no centro de Cascais é usufruir de um dos destinos mais emblemáticos da costa portuguesa, onde as praias, o passeio marítimo, a marina, os espaços verdes, o comércio tradicional e uma reconhecida o",
+  "geo": {
+    "lat": 38.6995836,
+    "lng": -9.4270721
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-bairro-do-rosario-cascais_pt_81961",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81961&foto=1678495&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81961&foto=1678495&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Termolacada",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pedra Natural, Pintado)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado, Ponto de Luz)",
+      "Equipamento (Gás Canalizado, Parabólica, Sala Condomínio, TV Cabo, Video-Porteiro, Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 13; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 52,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }

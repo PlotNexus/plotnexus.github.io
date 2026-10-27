@@ -8,23 +8,52 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75032&foto=1565601&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75032&foto=1565601&f=1",
+  "description": "Charmoso apartamento, estrategicamente localizado no coração da cidade de Lisboa a apenas 150 metros da \"Avenida da Liberdade\", um dos lugares mais emblemáticos da Cidade. Este T2 foi totalmente remodelado a cerca de 10 anos e encontra-se em ótimo estado, tem tetos altos e trabalhados, pavimento tradicional em madeira corrida que foi mantido, e cozinha totalmente equipada e modernizada, sala de boas áreas, dois quartos com ótimas áreas, casa de banho, e duas varandas. Equipado com ar condicionado. Encontra-se num primeiro andar sem elevador. A estação do Metro Avenida fica a menos de 5 minutos a pé do apartamento. Excelente apartamento para investimento ou habitação própria.\nEncontra-se numa localização privilegiada, e que a poucos minutos estamos no Campo Mártires da Pátria, e miradouro do Torel, bem como a poucos minutos da Av. da Liberdade. Encontramos aqui todo o tipo de serviços, lojas, restaurantes, hospitais, escolas. Zona muito bem servida de transportes públicos. Não tem estacionamento mas existe um parque de estacionamento muito perto. Venha visitar!",
+  "geo": {
+    "lat": 38.7206323,
+    "lng": -9.1416464
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-arroios-lisboa_pt_75032",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75032&foto=1565601&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75032&foto=1565601&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 80,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "D"
 }

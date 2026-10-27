@@ -8,23 +8,39 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66149&foto=1238893&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66149&foto=1238893&f=1",
+  "description": "Excelente apartamento estilo loft, que pode ser escritório para uma empresa ou habitação, num dos mais procurados condomínios do Parque das Nações, o Condomínio Metrocity.\nLoft todo equipado em condomínio fechado com piscina, parque infantil, jardim, porteiro e segurança 24 horas.\nConta com 151 metros quadrados de área bruta privativa, 1 casa de banho social e uma casa de banho completa, o imóvel atualmente tem um quarto e 2 lugares de garagem.\nSituado numa localização privilegiada, este apartamento a escassos minutos a pé do rio Tejo, beneficia de uma excelente proximidade a diversos serviços e comodidades. A uma curta distância, tem acesso a todas as importantes vias rodoviárias. \nAlém disso, encontra uma estação de metro ao atravessar a rua e a estação de comboios está a apenas 2 minutos a pé, proporcionando uma ligação rápida e conveniente para outras áreas da cidade. O aeroporto encontra-se a 10min de distância. Para aqueles que apreciam a oferta gastronómica, há uma variedade de opções de restauração a apenas 2 minutos de distância. Também a poucos minutos de distância, existem supermercados e escolas, tornando a vida quotidiana mais conveniente e facilitando o acesso a bens essenciais e educação de qualidade. Esta é uma oportunidade única para adquirir um apartamento com uma localização de excelência, com todas as comodidades necessárias para uma vida prática e confortável. Não perca esta oportunidade de viver ou investir numa das zonas mais cobiçadas da cidade.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/loft-parque-das-nacoes-lisboa_pt_66149",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66149&foto=1238893&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66149&foto=1238893&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 151,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

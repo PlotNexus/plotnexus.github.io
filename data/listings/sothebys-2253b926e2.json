@@ -8,23 +8,38 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79940&foto=1612550&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79940&foto=1612550&f=1",
+  "description": "Este apartamento T3, construído em 2010, foi pensado para quem procura conforto, luz e funcionalidade no seu dia a dia. Os seus 144 m² estão cuidadosamente distribuídos e cada divisão foi concebida para proporcionar espaço e harmonia, criando um lar onde a vida flui naturalmente.\n\nA sala de estar, ampla e luminosa, é perfeita para momentos de convívio e descanso e é aquecida por um recuperador de calor que cria uma atmosfera acolhedora nos dias mais frios. As janelas generosas oferecem vistas desafogadas e deixam entrar a luz natural em todo o apartamento, enquanto a caixilharia metálica com vidro duplo garante o conforto térmico e a eficiência energética, refletidos no certificado B. O apartamento possui uma caldeira mural para aquecimento de águas sanitárias.\n\nA cozinha, separada e totalmente equipada, alia funcionalidade e elegância, dispondo de placa, forno, micro-ondas, máquina de lavar louça e frigorífico. Um vão interior conecta a cozinha à lavandaria, protegendo os espaços e garantindo maior conforto térmico, tornando o dia a dia mais prático e organizado.\n\nDos três quartos, dois são suítes. Todos os quartos têm armários embutidos e janelas amplas e luminosas. Há uma outra casa de banho completa que serve o terceiro quarto e as visitas.\n\nO apartamento dispõe de dois lugares de estacionamento em box, com espaço de arrumação no interior para maior comodidade\n\nA localização estratégica torna este imóvel ainda mais apetecível: em poucos minutos é possível alcançar a VCI, o Porto ou o aeroporto, enquanto a proximidade da Quinta do Fojo oferece acesso a um campo de golfe, ginásio, padel, restaurante e extensos espaços verdes, perfeitos para lazer e convívio ao ar livre. A envolvente é rica em cafés, farmácias, serviços de saúde e parques, mantendo a tranquilidade de Canidelo ao mesmo tempo que garante conforto urbano e fácil acesso à praia.\n\nMais do que um apartamento, este é um espaço pensado para quem valoriza a qualidade de vida, o bem-estar e as experiências únicas. Um lar onde cada pormenor reflete atenção, estilo e a promessa de momentos inesquecíveis.",
+  "geo": {
+    "lat": 41.1308961787,
+    "lng": -8.6543941497
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-canidelo-vila-nova-de-gaia_pt_79940",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79940&foto=1612550&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79940&foto=1612550&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 144,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "B-"
 }

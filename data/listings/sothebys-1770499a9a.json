@@ -8,23 +8,40 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79687&foto=1648582&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79687&foto=1648582&f=1",
+  "description": "Deslumbrante apartamento T3, com 222.51 metros quadrados de área bruta privativa, localizado em Viseu.\nO apartamento distribui-se por área social, com ampla sala de estar de 48.71m2, sala de jantar com 22.08m2, que se estende para uma magnífica varanda de 16m2, cozinha em open space com 26.19m2, e ainda uma casa de banho de serviço. Na área privada, conta com 3 espaçosas suites de 23.98m2, 23.25m2 e 27.88m2, tendo esta última uma varanda de 15m2. O apartamento tem ainda arrumos e lavandaria, e dois lugares de garagem.\nO Edifício Maria Patrocínio resulta da reabilitação de um edifício devoluto da década de 1930, situado numa zona nobre do centro da cidade de Viseu. O projeto combina o respeito pelo traço original com uma intervenção contemporânea, integrando um novo volume de linguagem minimalista.\nO empreendimento é composto por apenas seis frações habitacionais, com tipologias T2, T3 e T4, pensadas para oferecer conforto, funcionalidade e exclusividade.\nTodas as habitações dispõem de áreas exteriores privadas, como terraços e varandas, bem como zonas de lavandaria, arrumos e lugares de estacionamento, assegurando praticidade e qualidade de vida no dia a dia.\nUm projeto residencial distinto, que alia património, arquitetura contemporânea e uma localização privilegiada no coração de Viseu.",
+  "geo": {
+    "lat": 40.6563934,
+    "lng": -7.9163906
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-viseu-viseu_pt_79687",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79687&foto=1648582&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79687&foto=1648582&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 1"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Garagem": [
+      "Área (m2): 25; Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada)",
+      "Centralidade (Centro da Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 191,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "A+"
 }

@@ -8,23 +8,51 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": 158,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75954&foto=1512827&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75954&foto=1512827&f=1",
+  "description": "Na serena Costa de Prata de Portugal, o West Lake Eco Resort é um refúgio exclusivo que combina arquitetura sustentável com paisagens deslumbrantes, oferecendo uma experiência de vida excecional. Inserido num ambiente natural preservado, conta com 135 casas elegantes, cuidadosamente projetadas para se harmonizarem com a paisagem. Estas residências integram perfeitamente natureza e conforto, com materiais ecológicos, texturas orgânicas e espaços interiores e exteriores fluidos.\nNo West Lake Eco Resort, aproveite uma variedade de atividades no meio da natureza deslumbrante. Paddleboard e canoagem oferecem aventuras aquáticas tranquilas, enquanto trilhos para caminhada e corrida permitem explorar a beleza cénica. Para relaxar, pratique yoga, pilates ou desfrute de uma aula de fitness. Explore as águas calmas da Costa de Prata com desportos emocionantes como windsurf, kitesurf, wakeboard e surf. Nos dias tranquilos, relaxe junto à Lagoa de Óbidos ou nos mares cristalinos, terminando com um pôr do sol deslumbrante que cria memórias inesquecíveis.\nA Costa de Prata oferece possibilidades infinitas de exploração, desde as vibrantes vilas costeiras a enseadas serenas e marcos históricos. Quer procure aventura, relaxamento ou imersão cultural, a região convida-o a descobrir o seu charme único e a sua beleza de tirar o fôlego. Esta região encanta com sabores autênticos, onde mariscos frescos, queijos artesanais e vinhos refinados criam uma verdadeira celebração à beira-mar.",
+  "geo": {
+    "lat": 39.74953,
+    "lng": -8.807683
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-vau-obidos_pt_75954",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75954&foto=1512827&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75954&foto=1512827&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna, Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Equipamento (Jardins, Lago / Espelho de Água, Zelador / Porteiro)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Proximidade (Praias)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 158,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 158,
   "ano_construcao": null,
   "certificacao_energetica": null
 }
