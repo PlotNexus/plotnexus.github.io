@@ -8,23 +8,26 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 7,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83691&foto=1717647&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83691&foto=1717647&f=1",
+  "description": "Situada numa zona tranquila de Ermidas-Sado, no concelho de Santiago do Cacém, esta moradia independente de quatro quartos oferece uma combinação harmoniosa de privacidade, espaço e contacto com a natureza, num cenário que convida a desfrutar de um estilo de vida mais sereno no Alentejo Litoral.\n\nA propriedade beneficia de um amplo terreno, proporcionando inúmeras possibilidades de aproveitamento, desde a criação de uma horta ou pomar até à conceção de diferentes espaços de lazer ao ar livre. A existência de um furo de água representa uma mais-valia para a manutenção dos espaços exteriores e para a valorização do potencial do terreno.\n\nNo exterior, a piscina coberta permite prolongar os momentos de lazer e convívio ao longo de todo o ano, acrescentando versatilidade à propriedade. A configuração e as características da moradia tornam-na uma opção interessante tanto para habitação permanente como para residência de férias, oferecendo ainda potencial para um projeto de turismo, sujeito às condições de licenciamento aplicáveis.\n\nCom quatro quartos, áreas exteriores generosas e uma envolvente marcada pela tranquilidade, esta propriedade representa uma oportunidade para quem procura espaço, privacidade e liberdade para criar um ambiente verdadeiramente à sua medida.\n\nNo coração do Alentejo Litoral, esta moradia convida a descobrir uma forma de viver onde a natureza, o conforto e a autenticidade se encontram.",
+  "geo": {
+    "lat": 38.0162314,
+    "lng": -8.6956768
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-ermidas-sado-santiago-do-cacem_pt_83691",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83691&foto=1717647&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83691&foto=1717647&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 7,
-  "area_bruta_m2": null,
+  "area_util_m2": 200,
+  "area_bruta_m2": 7,
   "ano_construcao": null,
-  "certificacao_energetica": null
+  "certificacao_energetica": "C"
 }
