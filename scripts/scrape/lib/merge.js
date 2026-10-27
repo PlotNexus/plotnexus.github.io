@@ -34,18 +34,14 @@ export async function loadJson(filePath, fallback) {
   } catch (err) {
     // A missing file (first run, fresh checkout) is routine and silent on
     // purpose — but a file that *exists* and fails to parse is different:
-    // for data/listings-detail.json specifically, this is one JSON
-    // document for the whole cache, so a single corrupted byte anywhere
-    // (confirmed: literal unresolved git conflict markers, committed by
-    // accident) fails the *entire* file, silently handing back an empty
-    // cache here. The next run then sees every listing as "never
-    // enriched" and, since fresh scrapes overwrite stale summaries
-    // unconditionally (mergeWithPrevious), strips description/photos back
-    // to null across the whole site — confirmed: one source alone went
-    // from 1433 enriched listings to 101 in a single run this way, and it
-    // took several cycles to notice. Logging loudly here (instead of
-    // staying silent) is the cheapest possible tripwire against this
-    // repeating unnoticed.
+    // a single corrupted byte anywhere (confirmed: literal unresolved git
+    // conflict markers, committed by accident, in what was then the
+    // combined data/listings-detail.json cache) fails the *entire* file,
+    // silently handing back an empty fallback here. Confirmed the hard
+    // way: one source alone went from 1433 enriched listings to 101 in a
+    // single run this way, and it took several cycles to notice. Logging
+    // loudly here (instead of staying silent) is the cheapest possible
+    // tripwire against this repeating unnoticed.
     if (err.code !== "ENOENT") {
       console.error(`[merge] ${filePath} existe mas falhou o parse (${err.message}) — a usar o valor por omissão`);
     }
@@ -97,10 +93,19 @@ export function mergeWithPrevious(freshListings, previousListings) {
 
 // `listing` can either be freshly scraped this run (no images/features yet)
 // or carried over from a previous run's already-merged output (via
-// mergeWithPrevious) — so every field falls back through fresh cache data,
+// mergeWithPrevious) — so every field falls back through fresh detail data,
 // then whatever the listing already had, before reconstructing from
 // scratch. This keeps a carried-over listing's full detail intact even on
-// a run where its cache entry isn't touched.
+// a run where its detail isn't freshly fetched.
+//
+// `detail_fetched_at` is set the one time a real fetchDetail call actually
+// succeeds for this listing, and is the ONLY reliable "already fully
+// enriched" signal — not `description`: several sources (confirmed on
+// CASA SAPO) expose a short blurb straight from the search-results page
+// (JSON-LD), well before the listing's own detail page has ever been
+// visited, so a present-but-short `description` doesn't mean the real
+// detail fetch (full description, features, technical data, photo
+// gallery) ever ran.
 export function mergeDetailInto(listing, detail) {
   const images = capImages(
     detail?.images?.length ? detail.images : listing.images?.length ? listing.images : listing.image ? [listing.image] : []
@@ -119,28 +124,30 @@ export function mergeDetailInto(listing, detail) {
     bathrooms: detail?.bathrooms ?? listing.bathrooms ?? null,
     geo: detail?.geo || listing.geo || null,
     published_at: detail?.published_at || listing.published_at,
+    detail_fetched_at: detail?.detail_fetched_at || listing.detail_fetched_at || null,
   };
+}
+
+// Every id that has a real detail_fetched_at in its own data/listings/
+// file already — i.e. previousListings, as loaded by loadPreviousListings.
+// This is what used to live in the separate data/listings-detail.json
+// cache: now that every listing's own file already carries everything
+// that cache held, keeping a second combined copy just to answer "is this
+// one already enriched" was pure duplication (and the thing that kept
+// pushing that file past GitHub's size warnings).
+export function alreadyEnrichedIds(previousListings) {
+  return new Set(previousListings.filter((item) => item.detail_fetched_at != null).map((item) => item.id));
 }
 
 // Newest-first: `published_at` is today's date for a listing seen for the
 // first time this run (see normalizeListing), so this means a freshly
 // discovered listing gets its full detail before older never-enriched
 // backlog items, rather than waiting behind them.
-export function pickEnrichmentCandidates(listings, cache, maxCount) {
-  const idsInCache = new Set(Object.keys(cache));
+export function pickEnrichmentCandidates(listings, enrichedIds, maxCount) {
   return listings
-    .filter((item) => !idsInCache.has(item.id))
+    .filter((item) => !enrichedIds.has(item.id))
     .sort((a, b) => (b.published_at || "").localeCompare(a.published_at || ""))
     .slice(0, maxCount);
-}
-
-// Drops cached detail for listings that are no longer part of the current
-// merged set, so the cache doesn't grow forever.
-export function pruneDetailCache(cache, currentListings) {
-  const currentIds = new Set(currentListings.map((item) => item.id));
-  for (const id of Object.keys(cache)) {
-    if (!currentIds.has(id)) delete cache[id];
-  }
 }
 
 // Everything the homepage grid, filters, sort and map-radius search
@@ -230,51 +237,10 @@ export async function writeListingFiles(listingsDir, listings, previousRawById, 
 // commit step for a day and a half, discarding that run's freshly scraped
 // data each time — retrying the exact same merge on a push rejection can
 // never fix a size problem, only a git race condition). Splitting detail
-// out per listing means data/listings.json itself is no longer at any
-// realistic risk of this — but data/listings-detail.json (the enrichment
-// cache every listing's full detail is read from) still accumulates every
-// photo/description ever fetched, so this backstop stays pointed at that.
-export const MAX_SAFE_JSON_BYTES = 90 * 1024 * 1024;
-const EMERGENCY_IMAGE_CAPS = [10, 5, 2, 0];
-
-// Must match the exact serialization used when actually writing a file
-// (JSON.stringify(..., null, 2) + "\n") — the pretty-printed, indented
-// format is ~18% bigger than a compact JSON.stringify of the same data,
-// large enough that checking the compact size instead would let a
-// payload through that's actually over budget once written to disk.
-export function byteSize(value) {
-  return Buffer.byteLength(JSON.stringify(value, null, 2) + "\n");
-}
-
-function shrinkImagesEverywhere(cap, detailCache, listings) {
-  for (const entry of Object.values(detailCache)) {
-    if (entry.images && entry.images.length > cap) entry.images = entry.images.slice(0, cap);
-  }
-  for (const listing of listings) {
-    if (listing.images && listing.images.length > cap) {
-      listing.images = listing.images.slice(0, cap);
-      listing.image = listing.images[0] || listing.image || null;
-    }
-  }
-}
-
-// Called once detail is merged in but before anything is written — only
-// ever does something on the rare run where the normal MAX_IMAGES_PER_LISTING
-// cap wasn't enough on its own.
-export function enforceSizeBudget(detailCache, listings) {
-  let detailBytes = byteSize(detailCache);
-  if (detailBytes <= MAX_SAFE_JSON_BYTES) return;
-
-  console.warn(
-    `[merge] data/listings-detail.json acima do seguro mesmo após o limite normal de fotos (${(detailBytes / 1e6).toFixed(1)}MB) — a aplicar um limite de emergência`
-  );
-  for (const cap of EMERGENCY_IMAGE_CAPS) {
-    shrinkImagesEverywhere(cap, detailCache, listings);
-    detailBytes = byteSize(detailCache);
-    console.warn(`[merge]   limite de emergência de ${cap} fotos/anúncio -> detail=${(detailBytes / 1e6).toFixed(1)}MB`);
-    if (detailBytes <= MAX_SAFE_JSON_BYTES) return;
-  }
-  console.error(
-    "[merge] mesmo sem fotos nenhumas, o cache de detalhe continua acima do limite seguro — o problema já não é fotos, é o número de anúncios em si."
-  );
-}
+// out per listing (data/listings/<id>.json) means no single file is ever
+// at realistic risk of this again — one listing's own data never gets
+// remotely close to 100MB — which is also why the combined
+// data/listings-detail.json cache this file used to also guard (capping
+// photos in an emergency once the combined cache crossed 90MB) was
+// retired instead of chased further down: with no single giant file left
+// to protect, that backstop had nothing left to do.

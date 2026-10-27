@@ -233,26 +233,24 @@ link directo para o anúncio original:
   características por categoria e dados técnicos como estado, área útil/
   bruta, ano de construção e certificação energética). Para não multiplicar
   os pedidos contra uma fonte sensível a rate limiting, cada execução só
-  enriquece um lote limitado de anúncios ainda não vistos (`data/
-  listings-detail.json` guarda o que já foi obtido); a cobertura completa
-  cresce ao longo de várias execuções agendadas em vez de tudo de uma vez.
-  Esse lote é configurável por fonte (`maxDetail`, em `worker.js`/
-  `index.js`) — a ERA tem o dobro do valor por defeito, por ser de longe a
-  maior fonte e a com menor % de cobertura, enquanto o Idealista tem uma
-  fracção do valor por defeito pela quota mensal da sua API paga (ver
-  acima). Um anúncio ainda não enriquecido mostra a foto e descrição resumida da
-  página de resultados como reserva. O número de fotos guardadas por
-  anúncio é também limitado (20, em `lib/merge.js`) — uma pequena minoria
-  de anúncios (sobretudo no Imovirtual) chega a ter mais de 100 fotos, o
-  que sozinho já foi o suficiente para o ficheiro final ultrapassar outra
-  vez o limite de 100MB do GitHub e travar várias execuções seguidas,
-  mesmo com o resto do enriquecimento a crescer de forma controlada. Como
-  rede de segurança adicional (`enforceSizeBudget`, em `lib/merge.js`), o
-  tamanho real do ficheiro em disco é verificado no final de cada execução
-  e, no caso (improvável) de mesmo assim ultrapassar um limite seguro, o
-  número de fotos por anúncio é reduzido progressivamente (10 → 5 → 2 → 0)
-  até voltar a ficar dentro do limite — em vez de a execução simplesmente
-  falhar ao tentar publicar um ficheiro demasiado grande.
+  enriquece um lote limitado de anúncios ainda não vistos — o próprio
+  `data/listings/<id>.json` de cada anúncio já diz se foi enriquecido
+  (campo `detail_fetched_at`, em `alreadyEnrichedIds`, `lib/merge.js`); a
+  cobertura completa cresce ao longo de várias execuções agendadas em vez
+  de tudo de uma vez. Esse lote é configurável por fonte (`maxDetail`, em
+  `worker.js`/`index.js`) — a ERA tem o dobro do valor por defeito, por
+  ser de longe a maior fonte e a com menor % de cobertura, enquanto o
+  Idealista tem uma fracção do valor por defeito pela quota mensal da sua
+  API paga (ver acima). Um anúncio ainda não enriquecido mostra a foto e
+  descrição resumida da página de resultados como reserva. O número de
+  fotos guardadas por anúncio é também limitado (20, em `lib/merge.js`) —
+  uma pequena minoria de anúncios (sobretudo no Imovirtual) chega a ter
+  mais de 100 fotos, o que sozinho já foi o suficiente para o
+  `data/listings.json` ultrapassar o limite de 100MB do GitHub e travar
+  várias execuções seguidas, antes de esse ficheiro passar a guardar só um
+  resumo leve por anúncio (ver abaixo) — hoje, com o detalhe completo
+  dividido num ficheiro por anúncio, nenhum ficheiro isolado chega perto
+  desse limite outra vez.
 - `data/listings.json` só guarda os campos que a grelha inicial e os
   filtros realmente usam (título, preço, localização, tipologia, foto de
   capa, coordenadas, ...); o detalhe completo de cada anúncio (todas as
@@ -312,7 +310,6 @@ link directo para o anúncio original:
 ├── data/
 │   ├── listings.json            # resumo leve de todos os anúncios (gerados pelo scraper)
 │   ├── listings/<id>.json       # detalhe completo de cada anúncio, um ficheiro por id
-│   ├── listings-detail.json     # cache interna do detalhe já enriquecido por anúncio
 │   └── listings.sample.json     # dados de exemplo (fallback)
 ├── scripts/scrape/               # scraper Node.js
 │   ├── index.js                  # ponto de entrada para correr tudo localmente, sequencial
@@ -409,7 +406,7 @@ git push
 ```bash
 cd scripts/scrape
 node run-remax-manual.js
-git add data/listings.json data/listings-detail.json data/listings/ sitemap.xml
+git add data/listings.json data/listings/ sitemap.xml
 git commit -m "chore: update RE/MAX listings"
 git push
 ```
@@ -429,9 +426,9 @@ ficam sempre intactos.
 No GitHub Actions, o mesmo trabalho corre dividido: `worker.js` trata de um
 subconjunto de distritos (`SHARD_INDEX`/`SHARD_COUNT`) e escreve o seu próprio
 ficheiro parcial; `finalize.js` junta os ficheiros de todos os shards com os
-dados anteriores e escreve `data/listings.json`, `data/listings/<id>.json`
-e `data/listings-detail.json` — só este último passo faz commit, por isso
-os shards nunca competem entre si para fazer push.
+dados anteriores e escreve `data/listings.json` e `data/listings/<id>.json`
+— só este último passo faz commit, por isso os shards nunca competem entre
+si para fazer push.
 
 ## Nota sobre a recolha de dados de terceiros
 

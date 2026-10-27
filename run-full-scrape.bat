@@ -98,7 +98,7 @@ if errorlevel 1 (
 
 cd /d "%~dp0"
 
-call :commit_and_push "chore: update scraped listings, incl. RE/MAX (manual full run)" "data/listings.json data/listings-detail.json data/listings/ sitemap.xml"
+call :commit_and_push "chore: update scraped listings, incl. RE/MAX (manual full run)" "data/listings.json data/listings/ sitemap.xml"
 
 echo.
 pause

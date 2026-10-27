@@ -48,16 +48,14 @@ import {
 } from "./sources/zome.js";
 import { sleepJittered } from "./lib/http.js";
 import {
-  loadJson,
   mergeWithPrevious,
   mergeDetailInto,
   pickEnrichmentCandidates,
-  pruneDetailCache,
+  alreadyEnrichedIds,
   capImages,
   toListingSummary,
   loadPreviousListings,
   writeListingFiles,
-  enforceSizeBudget,
 } from "./lib/merge.js";
 import { buildSitemap } from "./lib/sitemap.js";
 
@@ -82,7 +80,6 @@ process.env.SCRAPE_QUERY_DELAY_MULTIPLIER ??= "3";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, "..", "..", "data", "listings.json");
-const DETAIL_CACHE_PATH = path.join(__dirname, "..", "..", "data", "listings-detail.json");
 const LISTINGS_DIR = path.join(__dirname, "..", "..", "data", "listings");
 const SITEMAP_PATH = path.join(__dirname, "..", "..", "sitemap.xml");
 
@@ -90,9 +87,10 @@ const SITEMAP_PATH = path.join(__dirname, "..", "..", "sitemap.xml");
 // second fetch per listing, on top of the search-page queries. Rather than
 // doing that for all ~1800+ listings every run (which would multiply the
 // request volume against an already rate-limit-sensitive site), each run
-// only enriches a bounded batch of listings it hasn't seen before. The
-// cache accumulates across scheduled runs, so coverage grows over time
-// without ever spiking request volume in a single run.
+// only enriches a bounded batch of listings it hasn't seen before (see
+// alreadyEnrichedIds in lib/merge.js). Coverage accumulates across
+// scheduled runs, so it grows over time without ever spiking request
+// volume in a single run.
 const MAX_DETAIL_FETCHES_PER_RUN = 75;
 
 // RE/MAX isn't registered here (or in worker.js) anymore — confirmed in
@@ -136,23 +134,25 @@ const sources = [
   { name: "zome", run: scrapeZome, fetchDetail: fetchZomeDetail, detailDelayMs: ZOME_DETAIL_DELAY_MS },
 ];
 
-async function enrichListings(listings, fetchDetail, cache, delayMs, maxDetail = MAX_DETAIL_FETCHES_PER_RUN) {
-  const candidates = pickEnrichmentCandidates(listings, cache, maxDetail);
+async function enrichListings(listings, fetchDetail, freshDetail, enrichedIds, delayMs, maxDetail = MAX_DETAIL_FETCHES_PER_RUN) {
+  const candidates = pickEnrichmentCandidates(listings, enrichedIds, maxDetail);
 
   console.log(`[detail] ${candidates.length} novos anúncios a enriquecer nesta execução (de um total de ${listings.length})`);
 
   for (const [i, item] of candidates.entries()) {
     try {
       const detail = await fetchDetail(item.listing_url);
-      cache[item.id] = { ...detail, images: capImages(detail.images), fetched_at: new Date().toISOString().slice(0, 10) };
+      freshDetail[item.id] = {
+        ...detail,
+        images: capImages(detail.images),
+        detail_fetched_at: new Date().toISOString().slice(0, 10),
+      };
       console.log(`[detail] OK — ${item.id} (${detail.images.length} fotos)`);
     } catch (err) {
       console.error(`[detail] falhou em ${item.listing_url}: ${err.message}`);
     }
     if (i < candidates.length - 1) await sleepJittered(delayMs);
   }
-
-  return cache;
 }
 
 async function main() {
@@ -175,31 +175,27 @@ async function main() {
   );
   const mergedListings = mergeWithPrevious(allListings, previousListings);
 
-  const detailCache = await loadJson(DETAIL_CACHE_PATH, {});
+  // previousById supplies already-enriched detail for a listing that was
+  // freshly re-scraped this run (so has only search-page fields again,
+  // see mergeDetailInto); freshDetail supplies it for one enriched during
+  // this run instead. Either way it comes from data/listings/<id>.json —
+  // each listing's own file now carries everything a separate combined
+  // cache used to, which is also why alreadyEnrichedIds can be computed
+  // once, up front, from previousListings alone.
+  const previousById = new Map(previousListings.map((item) => [item.id, item]));
+  const enrichedIds = alreadyEnrichedIds(previousListings);
+  const freshDetail = {};
 
   for (const source of sources) {
     if (!source.fetchDetail) continue;
     const sourceListings = mergedListings.filter((item) => item.id.startsWith(`${source.name}-`));
-    await enrichListings(sourceListings, source.fetchDetail, detailCache, source.detailDelayMs, source.maxDetail);
+    await enrichListings(sourceListings, source.fetchDetail, freshDetail, enrichedIds, source.detailDelayMs, source.maxDetail);
   }
 
-  // Must run once, against every source's listings together, *after* the
-  // per-source loop above — not once per source inside enrichListings
-  // (which is how this shipped originally): pruning per source against
-  // only that source's own listings deletes every other source's cache
-  // entries too (their ids simply aren't in that source's list), and by
-  // the last source in the loop the shared cache is reduced to almost
-  // nothing. Confirmed the hard way: a real run wiped a 22,882-listing
-  // detail cache down to empty in one pass, silently stripping
-  // description/photos/features from ~17,800 already-enriched listings
-  // across every source when mergeDetailInto ran next with no cached
-  // detail left to find. finalize.js already calls this correctly, once,
-  // against the full deduped set — mirroring that here.
-  pruneDetailCache(detailCache, mergedListings);
+  const enrichedListings = mergedListings.map((item) =>
+    mergeDetailInto(item, freshDetail[item.id] || previousById.get(item.id))
+  );
 
-  const enrichedListings = mergedListings.map((item) => mergeDetailInto(item, detailCache[item.id]));
-
-  enforceSizeBudget(detailCache, enrichedListings);
   await writeListingFiles(LISTINGS_DIR, enrichedListings, previousRawById, previousFiles);
 
   const summaryListings = enrichedListings.map(toListingSummary);
@@ -213,7 +209,6 @@ async function main() {
 
   await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
   await fs.writeFile(OUTPUT_PATH, JSON.stringify(payload, null, 2) + "\n");
-  await fs.writeFile(DETAIL_CACHE_PATH, JSON.stringify(detailCache, null, 2) + "\n");
   await fs.writeFile(SITEMAP_PATH, buildSitemap(summaryListings));
 
   const withDetail = enrichedListings.filter((l) => l.images && l.images.length > 1).length;

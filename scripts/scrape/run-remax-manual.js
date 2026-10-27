@@ -4,16 +4,14 @@ import { fileURLToPath } from "node:url";
 import { scrapeRemax, fetchListingDetail as fetchRemaxDetail, DETAIL_FETCH_DELAY_MS } from "./sources/remax.js";
 import { sleepJittered } from "./lib/http.js";
 import {
-  loadJson,
   mergeWithPrevious,
   mergeDetailInto,
   pickEnrichmentCandidates,
-  pruneDetailCache,
+  alreadyEnrichedIds,
   capImages,
   toListingSummary,
   loadPreviousListings,
   writeListingFiles,
-  enforceSizeBudget,
 } from "./lib/merge.js";
 import { buildSitemap } from "./lib/sitemap.js";
 
@@ -29,20 +27,18 @@ import { buildSitemap } from "./lib/sitemap.js";
 // already gets:
 //
 //   cd scripts/scrape && node run-remax-manual.js
-//   git add data/listings.json data/listings-detail.json data/listings/ sitemap.xml
+//   git add data/listings.json data/listings/ sitemap.xml
 //   git commit -m "chore: update RE/MAX listings"
 //   git push
 //
 // Safe to run alongside the automated scrape or run-eleiloes-manual.js:
 // mergeWithPrevious leaves every other source's last_seen_at untouched,
-// and this shares the exact same data/listings.json + data/listings-
-// detail.json + data/listings/ + sitemap.xml those write — this is just
-// that same merge+enrichment pipeline, scoped to one source instead of
-// split across shards.
+// and this shares the exact same data/listings.json + data/listings/ +
+// sitemap.xml those write — this is just that same merge+enrichment
+// pipeline, scoped to one source instead of split across shards.
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, "..", "..", "data", "listings.json");
-const DETAIL_CACHE_PATH = path.join(__dirname, "..", "..", "data", "listings-detail.json");
 const LISTINGS_DIR = path.join(__dirname, "..", "..", "data", "listings");
 const SITEMAP_PATH = path.join(__dirname, "..", "..", "sitemap.xml");
 
@@ -52,14 +48,18 @@ const SITEMAP_PATH = path.join(__dirname, "..", "..", "sitemap.xml");
 // backlog only grows between runs, it never shrinks on its own.
 const MAX_DETAIL_FETCHES_PER_RUN = 150;
 
-async function enrichListings(listings, cache) {
-  const candidates = pickEnrichmentCandidates(listings, cache, MAX_DETAIL_FETCHES_PER_RUN);
+async function enrichListings(listings, freshDetail, enrichedIds) {
+  const candidates = pickEnrichmentCandidates(listings, enrichedIds, MAX_DETAIL_FETCHES_PER_RUN);
   console.log(`[remax] ${candidates.length} novos anúncios a enriquecer nesta execução (de um total de ${listings.length})`);
 
   for (const [i, item] of candidates.entries()) {
     try {
       const detail = await fetchRemaxDetail(item.listing_url);
-      cache[item.id] = { ...detail, images: capImages(detail.images), fetched_at: new Date().toISOString().slice(0, 10) };
+      freshDetail[item.id] = {
+        ...detail,
+        images: capImages(detail.images),
+        detail_fetched_at: new Date().toISOString().slice(0, 10),
+      };
       console.log(`[remax] detalhe OK — ${item.id} (${detail.images.length} fotos)`);
     } catch (err) {
       console.error(`[remax] detalhe falhou em ${item.listing_url}: ${err.message}`);
@@ -83,19 +83,22 @@ async function main() {
   );
   const mergedListings = mergeWithPrevious(freshListings, previousListings);
 
-  const detailCache = await loadJson(DETAIL_CACHE_PATH, {});
+  // previousById/enrichedIds cover every source, not just RE/MAX's own
+  // listings — each listing's own data/listings/<id>.json already carries
+  // its detail, so merging it back in here for every source (not just the
+  // one this script actually enriches) is just how mergeDetailInto keeps
+  // a carried-over listing's existing detail intact; see index.js's
+  // matching comment.
+  const previousById = new Map(previousListings.map((item) => [item.id, item]));
+  const enrichedIds = alreadyEnrichedIds(previousListings);
+  const freshDetail = {};
   const remaxListings = mergedListings.filter((item) => item.id.startsWith("remax-"));
-  await enrichListings(remaxListings, detailCache);
+  await enrichListings(remaxListings, freshDetail, enrichedIds);
 
-  // Once, against the full merged set (every source) — not just RE/MAX's
-  // own listings. Pruning against a subset deletes every other source's
-  // cache entries too, since their ids simply aren't in that subset; see
-  // index.js's own comment on this exact bug for the full story.
-  pruneDetailCache(detailCache, mergedListings);
+  const enrichedListings = mergedListings.map((item) =>
+    mergeDetailInto(item, freshDetail[item.id] || previousById.get(item.id))
+  );
 
-  const enrichedListings = mergedListings.map((item) => mergeDetailInto(item, detailCache[item.id]));
-
-  enforceSizeBudget(detailCache, enrichedListings);
   await writeListingFiles(LISTINGS_DIR, enrichedListings, previousRawById, previousFiles);
 
   const summaryListings = enrichedListings.map(toListingSummary);
@@ -113,7 +116,6 @@ async function main() {
   };
 
   await fs.writeFile(OUTPUT_PATH, JSON.stringify(payload, null, 2) + "\n");
-  await fs.writeFile(DETAIL_CACHE_PATH, JSON.stringify(detailCache, null, 2) + "\n");
   await fs.writeFile(SITEMAP_PATH, buildSitemap(summaryListings));
 
   const remaxCount = enrichedListings.filter((l) => l.id.startsWith("remax-")).length;

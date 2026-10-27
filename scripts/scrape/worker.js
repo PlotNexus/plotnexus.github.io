@@ -56,7 +56,7 @@ import {
   DETAIL_FETCH_DELAY_MS as ZOME_DETAIL_DELAY_MS,
 } from "./sources/zome.js";
 import { sleepJittered } from "./lib/http.js";
-import { loadJson, pickEnrichmentCandidates, capImages } from "./lib/merge.js";
+import { loadPreviousListings, pickEnrichmentCandidates, alreadyEnrichedIds, capImages } from "./lib/merge.js";
 
 // One shard of the national sweep, across every registered source: each
 // source's own district/location list is split independently across the
@@ -67,7 +67,7 @@ import { loadJson, pickEnrichmentCandidates, capImages } from "./lib/merge.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_DIR = path.join(__dirname, "shard-output");
-const EXISTING_DETAIL_CACHE_PATH = path.join(__dirname, "..", "..", "data", "listings-detail.json");
+const LISTINGS_DIR = path.join(__dirname, "..", "..", "data", "listings");
 
 const shardIndex = Number(process.env.SHARD_INDEX ?? 0);
 const shardCount = Number(process.env.SHARD_COUNT ?? 1);
@@ -174,7 +174,8 @@ function myShare(list) {
 }
 
 async function main() {
-  const existingCache = await loadJson(EXISTING_DETAIL_CACHE_PATH, {});
+  const { listings: previousListings } = await loadPreviousListings(LISTINGS_DIR);
+  const enrichedIds = alreadyEnrichedIds(previousListings);
 
   const allListings = [];
   const detail = {};
@@ -208,10 +209,10 @@ async function main() {
     // source opt out safely instead of crashing on a missing function.
     if (!source.fetchDetail) continue;
 
-    // Read-only snapshot of the cache as checked out at the start of the
-    // run — good enough since each shard only ever touches listings from
-    // its own districts, so shards can't collide on ids.
-    const candidates = pickEnrichmentCandidates(listings, existingCache, source.maxDetail ?? maxDetailPerShardSource);
+    // Read-only snapshot of data/listings/ as checked out at the start of
+    // the run — good enough since each shard only ever touches listings
+    // from its own districts, so shards can't collide on ids.
+    const candidates = pickEnrichmentCandidates(listings, enrichedIds, source.maxDetail ?? maxDetailPerShardSource);
     console.log(`[shard ${shardIndex}] ${source.name}: ${candidates.length} anúncios a enriquecer`);
 
     for (const [i, item] of candidates.entries()) {
@@ -226,7 +227,7 @@ async function main() {
         detail[item.id] = {
           ...detailData,
           images: capImages(detailData.images),
-          fetched_at: new Date().toISOString().slice(0, 10),
+          detail_fetched_at: new Date().toISOString().slice(0, 10),
         };
         console.log(`[shard ${shardIndex}] ${source.name} OK — ${item.id} (${detailData.images.length} fotos)`);
       } catch (err) {

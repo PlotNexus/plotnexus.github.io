@@ -52,9 +52,9 @@
   // Raw energy-certificate values are inconsistent across sources — some
   // already send a clean "A+"/"B-", others send raw API enum codes
   // ("APLUS", "IN_PROCESS", "N/A"). Normalizing here (rather than per
-  // source) covers everything already cached in listings-detail.json too,
-  // not just future scrapes. An unrecognized value is dropped (returns
-  // null) rather than shown raw, per the site's no-foreign-text rule.
+  // source) covers every already-enriched listing too, not just future
+  // scrapes. An unrecognized value is dropped (returns null) rather than
+  // shown raw, per the site's no-foreign-text rule.
   const ENERGY_LABELS = {
     "A+": "A+", APLUS: "A+",
     A: "A", B: "B",
