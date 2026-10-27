@@ -8,24 +8,62 @@
   "bedrooms": 4,
   "bathrooms": 3,
   "area_m2": 282,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72810&foto=1431236&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72810&foto=1431236&f=1",
+  "description": "Exclusiva moradia com quatro quartos, com 260 metros quadrados de área bruta privativa e vista deslumbrante para a albufeira da barragem de Venda Nova e para a serra.\nAo nível do piso zero tem uma sala de estar com salamandra, uma sala de jantar, uma cozinha em conceito aberto, uma casa de banho completa e um quarto. O piso superior é composto por uma suite e dois quartos apoiados por uma casa de banho completa. A cozinha está equipada com placa, forno, micro-ondas, frigorífico combinado, máquina de lavar louça, máquina de lavar e secar roupa e garrafeira refrigerada, os móveis superiores e inferiores são lacados. A climatização da casa é assegurado através do sistema de ar condicionado e de uma salamandra na sala de estar, oferecendo conforto em todas as estações do ano. Possuí sistema de som integrado, piscina exterior, churrasqueira, sistema de rega automática e furo de água, que garante um abastecimento constante e seguro. Com uma localização única, junto à Barragem do Cambêdo/Venda Nova, a zona conta com praia fluvial e um ancoradouro, numa das mais belas e atrativas regiões naturais de Portugal, considerada pela UNESCO como Reserva Mundial da Biosfera.\nA 1,5 hora de distância do aeroporto do Porto e a 1 hora da cidade de Guimarães, proporciona uma experiência única e inesquecível de relaxamento, onde o sol e a neve fazem parte dos serões agradáveis, quer junto à piscina no Verão, quer junto à salamandra no Inverno.",
+  "geo": {
+    "lat": 41.6696206,
+    "lng": -7.9572431
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-venda-nova-e-pondras-montalegre_pt_72810",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72810&foto=1431236&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72810&foto=1431236&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Furo"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pintado)",
+      "Paredes (Pintadas)",
+      "Equipamento (Jardins, Parabólica, Rega Automática, Som Ambiente, Ventilação Mecânica)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente",
+      "Sul"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Proximidade (Farmácia, Jardins, Padaria, Praias)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 282,
-  "area_bruta_m2": null,
+  "area_util_m2": 260,
+  "area_bruta_m2": 282,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B-",
+  "detail_fetched_at": "2026-10-27"
 }

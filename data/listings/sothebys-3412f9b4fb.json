@@ -8,24 +8,73 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80567&foto=1624362&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80567&foto=1624362&f=1",
+  "description": "No coração de Câmara de Lobos nasce o Lobos Views, um projeto residencial que traduz elegância, exclusividade e uma ligação autêntica ao espírito da ilha. Desenvolvido pelo Grupo Ribadão, com 50 anos de existência no mercado, tanto no internacional como no regional, este empreendimento foi concebido para quem procura mais do que um lugar para viver — um espaço onde o conforto, a tranquilidade e a qualidade se encontram.\n\nCom arquitetura contemporânea e linhas sofisticadas, o edifício integra-se harmoniosamente na paisagem envolvente, apresentando uma presença discreta, mas marcante. O projeto é composto por um piso em cave ao nível do passeio e por quatro pisos habitacionais, onde se distribuem 24 frações com tipologias que variam entre T1 e T3, cuidadosamente concebidas para responder às exigências da vida contemporânea.\n\nCada apartamento foi desenhado para proporcionar uma vivência elegante e confortável, com espaços amplos e luminosos, onde a funcionalidade se alia à qualidade dos materiais e ao rigor nos acabamentos. O resultado são ambientes que privilegiam o bem-estar, a praticidade e uma experiência residencial distinta.\n\nUm dos elementos mais exclusivos do empreendimento é o rooftop comum, pensado como um espaço de lazer e contemplação para todos os condóminos. Aqui encontram-se uma piscina, solário e um ginásio, criando um verdadeiro refúgio urbano onde é possível relaxar e desfrutar do clima ameno da ilha enquanto se contemplam vistas panorâmicas sobre a elevação da Torre e o vasto horizonte do Oceano Atlântico.\n\nSituado numa das localidades mais autênticas e carismáticas da Ilha da Madeira, o Lobos Views oferece um estilo de vida equilibrado, onde a serenidade do ambiente se alia à proximidade de serviços, cultura e paisagens naturais de rara beleza.\n\nMais do que um empreendimento residencial, Lobos Views é uma expressão de estilo, um refúgio contemporâneo e um convite a descobrir uma nova forma de viver Câmara de Lobos — com conforto, distinção e uma perspetiva privilegiada sobre o mar e a paisagem.",
+  "geo": {
+    "lat": 32.6483665583996,
+    "lng": -16.9754214302246
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-camara-de-lobos-camara-de-lobos_pt_80567",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80567&foto=1624362&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80567&foto=1624362&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Termolacada"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "TV-Cabo",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Granito)",
+      "Paredes (Monomassa)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (TV Cabo)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness, Solário)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 33,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-27"
 }

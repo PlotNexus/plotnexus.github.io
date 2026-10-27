@@ -8,24 +8,64 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75886&foto=1520021&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75886&foto=1520021&f=1",
+  "description": "Elegante apartamento de três quartos, com 120 metros quadrados de área bruta privativa, de três frentes voltado a norte, nascente e sul.\nInserido em condomínio fechado, com amplas zonas ajardinadas, parque infantil e campo de jogos.\nO apartamento foi integralmente renovado, com uma escolha cuidada de materiais e acabamentos.\nA zona social é composta por um digno hall, sala comum, cozinha equipada com lavandaria e casa de banho social. \nA zona privada dispõe três de quartos, sendo um deles em suite, e uma casa de banho completa de apoio aos outros dois quartos. \nA climatização é assegurada por aquecimento central. \nApartamento dotado de dois lugares de garagem e um arrumo. \nLocalizado entre a Boavista e a zona do Campo Alegre, próximo de transportes, escolas/colégios, serviços e áreas comerciais. A proximidade das principais saídas da cidade garante uma excelente mobilidade, tornando o acesso a diferentes pontos da cidade e arredores extremamente fácil e rápida.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-campo-alegre-porto_pt_75886",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75886&foto=1520021&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75886&foto=1520021&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Campo de Jogos, Jardins, Parque Infantil, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 26; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 9,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-27"
 }

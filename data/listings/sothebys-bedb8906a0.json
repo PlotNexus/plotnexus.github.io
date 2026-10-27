@@ -8,24 +8,49 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=59440&foto=1095141&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=59440&foto=1095141&f=1",
+  "description": "Extraordinário apartamento T1+1 com 83.97 metros quadrados de área bruta privativa e pátio de 43.81 metros quadrados, situado no centro da cidade do Porto. Encontra-se inserido num edifício totalmente renovado em 2016, onde foram preservados os elementos originais e a traça característica. A entrada deste apartamento efetua-se pelo rés-de-chão, contudo o mesmo desenvolve-se no piso inferior. A escada de entrada dá acesso a um corredor, que apresenta a área social constituída por uma espaçosa sala de estar com cozinha integrada. A cozinha encontra-se equipada com frigorífico, placa de indução, forno e máquina de lavar louça. A área social é apoiada por um fabuloso pátio com zona de refeições e barbecue. Conta ainda com um quarto com acesso ao pátio, um quarto interior com roupeiros embutidos e uma casa de banho completa.\nDispõe de uma localização muito central, a poucos metros da Praça da República, com acesso pedonal aos mais icónicos monumentos e atracções turísticas da cidade do Porto como a Rua de Santa Catarina, Mercado do Bolhão, Estação de S. Bento, a Sé Catedral, a Torre dos Clérigos, Livraria Lello, entre outros. Conta com todo o tipo de comércio e serviços a distância a pé como hospitais, farmácias, serviços públicos, e dispõe de acesso facilitado a transportes públicos: paragem de autocarros a 90 metros, estação de metro a cinco minutos e estação de comboio a 20 minutos a pé. A Rotunda da Boavista está a um quilómetro, com a Casa da Música nas imediações, assim como o Mercado do Bom Sucesso e o centro comercial Cidade do Porto.",
+  "geo": {
+    "lat": 41.15504,
+    "lng": -8.617525
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-cedofeita-porto_pt_59440",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-27",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=59440&foto=1095141&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=59440&foto=1095141&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Norte"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 97,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-27"
 }
