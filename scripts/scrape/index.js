@@ -12,11 +12,6 @@ import {
   DETAIL_FETCH_DELAY_MS as IMOVIRTUAL_DETAIL_DELAY_MS,
 } from "./sources/imovirtual.js";
 import {
-  scrapeRemax,
-  fetchListingDetail as fetchRemaxDetail,
-  DETAIL_FETCH_DELAY_MS as REMAX_DETAIL_DELAY_MS,
-} from "./sources/remax.js";
-import {
   scrapeCentury21,
   fetchListingDetail as fetchCentury21Detail,
   DETAIL_FETCH_DELAY_MS as CENTURY21_DETAIL_DELAY_MS,
@@ -100,10 +95,19 @@ const SITEMAP_PATH = path.join(__dirname, "..", "..", "sitemap.xml");
 // without ever spiking request volume in a single run.
 const MAX_DETAIL_FETCHES_PER_RUN = 75;
 
+// RE/MAX isn't registered here (or in worker.js) anymore — confirmed in
+// October 2026 that its search API now rejects every request from a
+// datacenter IP (GitHub Actions runners and this sandbox's own IP alike)
+// with a 405 that still claims "Allow: POST", while the exact same request
+// from an ordinary residential connection gets a normal 200 with real
+// data — a Cloudflare-level block on the /api/ route specifically, the
+// same pattern already seen with SUPERCASA/OLX (see README). Moved to
+// run-remax-manual.js, folded into run-full-scrape.bat, the same
+// manual-only treatment e-leilões already gets, rather than burning a
+// run's time budget on guaranteed failures.
 const sources = [
   { name: "casasapo", run: scrapeCasaSapo, fetchDetail: fetchCasaSapoDetail, detailDelayMs: CASASAPO_DETAIL_DELAY_MS },
   { name: "imovirtual", run: scrapeImovirtual, fetchDetail: fetchImovirtualDetail, detailDelayMs: IMOVIRTUAL_DETAIL_DELAY_MS },
-  { name: "remax", run: scrapeRemax, fetchDetail: fetchRemaxDetail, detailDelayMs: REMAX_DETAIL_DELAY_MS },
   { name: "century21", run: scrapeCentury21, fetchDetail: fetchCentury21Detail, detailDelayMs: CENTURY21_DETAIL_DELAY_MS },
   { name: "kwportugal", run: scrapeKWPortugal, fetchDetail: fetchKWPortugalDetail, detailDelayMs: KWPORTUGAL_DETAIL_DELAY_MS },
   {

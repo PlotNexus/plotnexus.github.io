@@ -14,12 +14,6 @@ import {
   DETAIL_FETCH_DELAY_MS as IMOVIRTUAL_DETAIL_DELAY_MS,
 } from "./sources/imovirtual.js";
 import {
-  scrapeRemax,
-  fetchListingDetail as fetchRemaxDetail,
-  DISTRICTS_FULL as REMAX_DISTRICTS,
-  DETAIL_FETCH_DELAY_MS as REMAX_DETAIL_DELAY_MS,
-} from "./sources/remax.js";
-import {
   scrapeCentury21,
   fetchListingDetail as fetchCentury21Detail,
   DISTRICTS_FULL as CENTURY21_DISTRICTS,
@@ -92,6 +86,11 @@ function timeBudgetExceeded() {
   return Date.now() - START_TIME > maxRuntimeMs;
 }
 
+// RE/MAX isn't registered here (or in index.js) anymore — see index.js's
+// matching comment for why (datacenter IPs now get a Cloudflare-level 405
+// from its search API; confirmed the identical request works fine from a
+// residential connection). Moved to run-remax-manual.js, folded into
+// run-full-scrape.bat.
 const SOURCES = [
   {
     name: "casasapo",
@@ -106,13 +105,6 @@ const SOURCES = [
     scrape: scrapeImovirtual,
     fetchDetail: fetchImovirtualDetail,
     detailDelayMs: IMOVIRTUAL_DETAIL_DELAY_MS,
-  },
-  {
-    name: "remax",
-    districts: REMAX_DISTRICTS,
-    scrape: scrapeRemax,
-    fetchDetail: fetchRemaxDetail,
-    detailDelayMs: REMAX_DETAIL_DELAY_MS,
   },
   {
     name: "century21",

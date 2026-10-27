@@ -3,9 +3,11 @@ setlocal
 
 REM ============================================================
 REM  Corre o scraper completo (CASA SAPO, Imovirtual, KW Portugal,
-REM  Century 21, ERA, RE/MAX, Idealista, ComprarCasa, Sotheby's,
-REM  Zome) com enriquecimento de detalhe incluido, e publica o
-REM  resultado.
+REM  Century 21, ERA, Idealista, ComprarCasa, Sotheby's, Zome) com
+REM  enriquecimento de detalhe incluido, e a seguir a RE/MAX em
+REM  separado (a API dela bloqueia pedidos de redes de datacenter,
+REM  por isso corre so a partir de uma ligacao residencial normal,
+REM  como esta - ver README.md), e publica tudo no fim.
 REM  NAO inclui o e-Leiloes - para esse usa o run-eleiloes.bat.
 REM  E o mesmo trabalho que o scrape agendado no GitHub Actions faz
 REM  em 4 execucoes paralelas (ver .github/workflows/scrape.yml),
@@ -70,7 +72,7 @@ if not exist node_modules (
 
 echo.
 echo A correr o scraper completo ^(CASA SAPO, Imovirtual, KW Portugal, Century 21,
-echo ERA, RE/MAX, Idealista, ComprarCasa, Sotheby's, Zome^) com enriquecimento de
+echo ERA, Idealista, ComprarCasa, Sotheby's, Zome^) com enriquecimento de
 echo detalhe incluido.
 echo Isto demora bastante ^(pode ir a varias horas na primeira vez^) - deixa esta
 echo janela aberta a correr, nao precisas de fazer nada enquanto corre.
@@ -83,9 +85,20 @@ if errorlevel 1 (
     exit /b 1
 )
 
+echo.
+echo A correr o scraper da RE/MAX ^(so funciona a partir de uma ligacao
+echo residencial normal, como esta^)...
+echo.
+call node run-remax-manual.js
+if errorlevel 1 (
+    echo.
+    echo O scraper da RE/MAX falhou - ve o erro acima. O resto dos anuncios
+    echo recolhidos ate aqui ainda vai ser enviado para o GitHub.
+)
+
 cd /d "%~dp0"
 
-call :commit_and_push "chore: update scraped listings (manual full run)" "data/listings.json data/listings-detail.json data/listings/ sitemap.xml"
+call :commit_and_push "chore: update scraped listings, incl. RE/MAX (manual full run)" "data/listings.json data/listings-detail.json data/listings/ sitemap.xml"
 
 echo.
 pause

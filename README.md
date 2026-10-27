@@ -41,18 +41,14 @@ link directo para o anúncio original:
     cobertura própria nesta fonte).
   - **Imovirtual** — a mesma cobertura, mas incluindo também todas as
     ilhas dos Açores e da Madeira individualmente.
-  - **RE/MAX** — cobertura nacional completa (incluindo Açores e Madeira),
-    através da API de pesquisa pública do site. A descrição de cada anúncio
-    é filtrada por um heurístico próprio (`lib/languageGuard.js`) que corta
-    o texto assim que deteta uma mudança de idioma (alguns agentes colam a
-    mesma descrição em português, inglês e espanhol seguidos no mesmo
-    campo), para garantir que nunca aparece texto que não seja português no
-    site.
   - **Century 21** — também através de uma API de pesquisa pública
     (`/api/properties`), sem necessidade de distinguir por distrito — a
     cobertura nacional é dividida em 12 "blocos" de páginas em vez de
-    localizações. Usa o mesmo heurístico de deteção de mudança de idioma
-    da RE/MAX.
+    localizações. A descrição de cada anúncio é filtrada por um
+    heurístico próprio (`lib/languageGuard.js`) que corta o texto assim
+    que deteta uma mudança de idioma (alguns agentes colam a mesma
+    descrição em português, inglês e espanhol seguidos no mesmo campo),
+    para garantir que nunca aparece texto que não seja português no site.
   - **KW Portugal** — a API de pesquisa devolve sempre o mesmo lote fixo de
     10 imóveis por pedido, por isso a cobertura nacional (obtida a partir
     do sitemap do site, já que a API nunca devolve o link do próprio
@@ -211,6 +207,23 @@ link directo para o anúncio original:
     qualquer relação com o imóvel em si); os ónus/encargos (ex.: um
     arrendamento existente que sobrevive à venda) ficam, por serem sobre o
     imóvel, não sobre uma pessoa.
+  - **RE/MAX** (`sources/remax.js`) — cobertura nacional completa
+    (incluindo Açores e Madeira), através da API de pesquisa pública do
+    site. Corria automaticamente via GitHub Actions até meados de Outubro
+    de 2026, altura em que a API (`POST /api/Listing/
+    PaginatedMultiMatchSearch`) passou a responder 405 a qualquer pedido
+    vindo de uma rede de datacenter — tanto os runners do GitHub Actions
+    como este ambiente de desenvolvimento — apesar da resposta incluir
+    `Allow: POST`, o que não é um 405 normal de aplicação (seria 404 se o
+    endpoint tivesse mudado, ou um corpo de erro estruturado se fosse a
+    aplicação a recusar o pedido). Confirmado directamente pelo
+    utilizador: o mesmo pedido exacto, a partir de uma ligação
+    residencial normal, devolve 200 com dados reais — o mesmo padrão de
+    bloqueio ao nível do Cloudflare já visto no SUPERCASA/OLX (ver secção
+    seguinte), desta vez a visar especificamente a rota `/api/`. Por
+    isso, tal como o e-Leilões, passou a correr só à mão
+    (`run-remax-manual.js`, incluído no `run-full-scrape.bat` — ver
+    "Correr localmente" abaixo) em vez de via `index.js`/`worker.js`.
 
   A recolha nacional é dividida em 4 execuções paralelas (cada uma cobrindo
   um subconjunto de distritos/localizações de cada fonte), para que nenhuma
@@ -306,6 +319,7 @@ link directo para o anúncio original:
 │   ├── worker.js                 # ponto de entrada por shard (usado pelo GitHub Actions)
 │   ├── finalize.js               # combina os shards e escreve os ficheiros finais
 │   ├── run-eleiloes-manual.js    # equivalente ao finalize.js, só para o e-Leilões, correr à mão
+│   ├── run-remax-manual.js       # idem, só para a RE/MAX (bloqueia pedidos de datacenter)
 │   ├── lib/
 │   │   ├── http.js               # fetch com retry/backoff (429 e falhas de rede)
 │   │   ├── merge.js              # junção com dados anteriores + seleção de detalhe
@@ -315,7 +329,7 @@ link directo para o anúncio original:
 │   └── sources/
 │       ├── casaSapo.js
 │       ├── imovirtual.js
-│       ├── remax.js
+│       ├── remax.js              # só corrido manualmente, ver "Correr localmente"
 │       ├── century21.js
 │       ├── kwportugal.js
 │       ├── era.js
@@ -325,7 +339,7 @@ link directo para o anúncio original:
 │       ├── zome.js
 │       └── eleiloes.js           # só corrido manualmente, ver "Correr localmente"
 ├── .github/workflows/scrape.yml  # agendamento do scraper
-├── run-full-scrape.bat           # atalho Windows para index.js (tudo excepto e-Leilões)
+├── run-full-scrape.bat           # atalho Windows para index.js + run-remax-manual.js (tudo excepto e-Leilões)
 ├── run-eleiloes.bat              # atalho Windows para run-eleiloes-manual.js
 ├── LICENSE
 └── README.md
@@ -370,16 +384,19 @@ correr, se precisares de ainda mais cautela.
 
 Em Windows, `run-full-scrape.bat` (na raiz do repositório) faz o mesmo com
 um duplo-clique — instala dependências se for a primeira vez, atualiza o
-repositório antes de correr, e só faz commit/push se houver mesmo anúncios
-novos. É o mesmo trabalho que o GitHub Actions faz dividido por 4 execuções
-paralelas (ver abaixo), mas tudo a sério numa única máquina — por isso
+repositório antes de correr, corre a seguir `run-remax-manual.js` (ver
+abaixo) e só faz commit/push no fim, se houver mesmo anúncios novos. É o
+mesmo trabalho que o GitHub Actions faz dividido por 4 execuções paralelas
+(ver abaixo) mais a RE/MAX, mas tudo a sério numa única máquina — por isso
 demora muito mais tempo (pode ir a várias horas, sobretudo na primeira
 execução, até o cache de detalhe apanhar o atraso). Não há problema em
 deixar a janela aberta em segundo plano.
 
-O e-Leilões fica de fora de `index.js`/`worker.js` (ver acima) e tem o seu
-próprio ponto de entrada, para correr manualmente a partir de uma ligação
-residencial normal:
+O e-Leilões e a RE/MAX ficam de fora de `index.js`/`worker.js` (ver acima)
+e têm o seu próprio ponto de entrada cada, para correr manualmente a partir
+de uma ligação residencial normal — a RE/MAX porque a API dela passou a
+bloquear pedidos vindos de redes de datacenter (ver acima), o e-Leilões
+porque o próprio site é inacessível a partir daí:
 
 ```bash
 cd scripts/scrape
@@ -389,14 +406,25 @@ git commit -m "chore: update e-leilões listings"
 git push
 ```
 
-Em Windows, `run-eleiloes.bat` (na raiz do repositório) faz os mesmos passos
-de um duplo-clique — instala dependências se for a primeira vez, atualiza o
-repositório antes de correr, e só faz commit/push se houver mesmo anúncios
-novos.
+```bash
+cd scripts/scrape
+node run-remax-manual.js
+git add data/listings.json data/listings-detail.json data/listings/ sitemap.xml
+git commit -m "chore: update RE/MAX listings"
+git push
+```
 
-Escreve exactamente os mesmos ficheiros que `finalize.js`, por isso é seguro
-correr isto entre execuções agendadas normais — só toca nos anúncios do
-e-Leilões, os das outras fontes ficam intactos.
+Em Windows, `run-eleiloes.bat` (na raiz do repositório) faz os mesmos passos
+do e-Leilões de um duplo-clique — instala dependências se for a primeira
+vez, atualiza o repositório antes de correr, e só faz commit/push se houver
+mesmo anúncios novos. A RE/MAX não tem um `.bat` próprio — corre já incluída
+no `run-full-scrape.bat` (ver acima), logo a seguir ao `index.js`.
+
+Cada um destes dois pontos de entrada escreve exactamente os mesmos
+ficheiros que `finalize.js`, por isso é seguro correr qualquer um entre
+execuções agendadas normais — `run-eleiloes-manual.js` só toca nos anúncios
+do e-Leilões, `run-remax-manual.js` só nos da RE/MAX; os das outras fontes
+ficam sempre intactos.
 
 No GitHub Actions, o mesmo trabalho corre dividido: `worker.js` trata de um
 subconjunto de distritos (`SHARD_INDEX`/`SHARD_COUNT`) e escreve o seu próprio
