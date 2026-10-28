@@ -8,24 +8,56 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80454&foto=1621764&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80454&foto=1621764&f=1",
+  "description": "Apartamento novo, inserido em um condomínio de excelente construção, oferece o equilíbrio perfeito entre qualidade e preço competitivo. \nSituado em uma das áreas mais interessantes da ilha da Madeira, em forte crescimento e desenvolvimento, o imóvel está a poucos minutos de uma vasta gama de serviços e transportes públicos, garantindo total conveniência para o dia a dia. \nCom bons acabamentos e uma distribuição funcional dos espaços, o apartamento proporciona um ambiente acolhedor e prático sem abdicar da elegância e conforto, ideal para quem busca qualidade de vida sem abrir mão da localização privilegiada. \nAs áreas internas são bem aproveitadas e oferecem um toque moderno e agradável, a cozinhas é open-space criando um ambinete único com a sala estar e de antar, que se abrem para um grande terraço e logradouro á volta de todo o aprtamento.\nDois quartos são em suite e outro quarto partilha uma casa de banho completa com a zona social. O inteiro apartamento é rodeado por un logradouro e jardim exclusivo . Completam a propriedade dois lugares de estacionamento.\nO condomínio já conta com vários homólogos na cidade do Funchal e é conhecido pela sua excelente qualidade construtiva. \nAlém disso, o imóvel conta com estacionamento privativo, arrecadação e acesso a espaços comuns muito bem apresentados, incluindo uma sugestiva piscina no rooftop.\nUma excelente oportunidade para quem procura viver com conforto, perto de tudo o que a cidade de Machico tem a oferecer, em um ambiente de ótima qualidade, mas com preços acessíveis e a certeza de um investimento a valorizar-se no futuro.",
+  "geo": {
+    "lat": 32.716538553188,
+    "lng": -16.7675250068847
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-machico-machico_pt_80454",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80454&foto=1621764&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80454&foto=1621764&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "TV-Cabo",
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 143,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-28"
 }

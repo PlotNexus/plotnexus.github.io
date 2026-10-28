@@ -8,24 +8,53 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73878&foto=1626235&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73878&foto=1626235&f=1",
+  "description": "Trata-se de um elegante e inspirador apartamento, com aproximadamente 100 m2, que oferece, para além de tudo o resto, um pé-direito incomparável com 5 metros de altura, o qual assegura uma luminosidade soberba e um conforto inegável à vivência diária deste imóvel único.\n\nOutra mais-valia inquestionável é a varanda privativa voltada a sul, com uma área de 8 m2, que proporciona uma vista desafogada e ajardinada sobre a cidade.\n\nEste loft de dois quartos, um dos quais em mezanino (o qual acrescenta 12 m2 à área do imóvel), está totalmente equipado. A cozinha tem eletrodomésticos Bosch e o sistema de ar condicionado é da marca Mitsubishi.\n\nA capacidade de arrumação é verdadeiramente inquestionável, pois está assegurada por armários e roupeiros até ao teto, ao longo de todo o apartamento, potenciando o espaço disponível para uma excelente circulação.\n\nNa sua convidativa área do hall de entrada, está ao dispor uma casa de banho completa, com base para duche, seguindo-se o primeiro quarto com zona destinada a closet.\n\nO conceito de open space estende-se à sala de jantar, à sala de estar e à cozinha, com acesso direto à varanda através de duas majestosas portas que permitem a entrada de luz natural em todo o apartamento.\n\nÉ ainda de referir a charmosa fachada histórica do edifício onde este apartamento está inserido, a qual também foi totalmente reabilitada.\n\nLocalizado no coração do centro histórico do Porto, este imóvel permite um acesso fácil, direto e rápido a todo o tipo de serviços, como transportes públicos, comércio e restaurantes.\n\nAlguns dos principais monumentos da cidade, como a Torre dos Clérigos, a Igreja do Carmo, a Livraria Lello ou a Estação de S. Bento, ficam a uma curta distância a pé.",
+  "geo": {
+    "lat": 41.1551735,
+    "lng": -8.6229393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/loft-centro-historico-porto-porto_pt_73878",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=73878&foto=1626235&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=73878&foto=1626235&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Pintadas)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 9,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B-",
+  "detail_fetched_at": "2026-10-28"
 }

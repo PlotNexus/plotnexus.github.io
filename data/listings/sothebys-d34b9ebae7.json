@@ -8,24 +8,54 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82062&foto=1691155&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82062&foto=1691155&f=1",
+  "description": "Apartamento T2 inserido num edifício de 2008, na prestigiada zona da Asprela, em Paranhos — uma das áreas mais procuradas da cidade do Porto, pela proximidade ao Polo Universitário e ao Hospital de São João.\n\nSituado no 6.º andar, este imóvel apresenta-se em excelente estado de conservação, destacando-se pela abundante luminosidade natural, varanda e excelente funcionalidade dos espaços. Conta ainda com dois lugares de garagem, uma característica diferenciadora e cada vez mais valorizada nesta zona.\n\nA localização oferece uma elevada conveniência no quotidiano, com acesso rápido a faculdades, hospitais, supermercados, restaurantes, escolas, comércio e serviços. Beneficia igualmente de excelentes acessibilidades e de uma ampla rede de transportes públicos, incluindo metro e autocarros.\n\nUma excelente oportunidade, quer para habitação própria, quer para investimento, numa zona consolidada e com elevada procura.",
+  "geo": {
+    "lat": 41.1774911,
+    "lng": -8.5912489
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-asprela-porto_pt_82062",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82062&foto=1691155&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82062&foto=1691155&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Garagem": [
+      "Área (m2): 30.7; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 83,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-28"
 }

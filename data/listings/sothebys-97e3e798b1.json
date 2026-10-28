@@ -8,24 +8,27 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75882&foto=1565084&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75882&foto=1565084&f=1",
+  "description": "Este elegante apartamento T2, localizado no tranquilo e prestigiado Cerro do Malpique, em Albufeira, oferece o equilíbrio perfeito entre conforto, modernidade e uma vista deslumbrante sobre o mar. Situado no primeiro andar de um edifício com elevador, destaca-se pelos seus espaços amplos, ambiente sereno e acabamentos de qualidade.\n\nTotalmente renovado, o apartamento apresenta um conceito moderno de open space, com a cozinha e sala integradas num só ambiente amplo, funcional e luminoso, ideal para convívio e bem-estar. A zona social estende-se até à varanda, onde se pode desfrutar de momentos relaxantes com vista para o oceano.\n\nOs dois quartos oferecem boas áreas e conforto, complementados por uma casa de banho moderna. A propriedade inclui ainda lugar de garagem, o que representa uma mais-valia numa zona onde o estacionamento pode ser limitado.\n\nInserido num ambiente calmo e rodeado de natureza, este apartamento é perfeito para quem procura qualidade de vida, quer seja para residência permanente, férias ou investimento com elevada procura.",
+  "geo": {
+    "lat": 37.0859225,
+    "lng": -8.2617332
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-albufeira-albufeira_pt_75882",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75882&foto=1565084&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75882&foto=1565084&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 5,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-28"
 }

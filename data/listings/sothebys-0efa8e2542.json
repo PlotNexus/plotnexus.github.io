@@ -8,24 +8,71 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": 286,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78263&foto=1639339&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78263&foto=1639339&f=1",
+  "description": "Elegante moradia em Gondomar, a apenas 10 minutos do centro do Porto, com uma vista deslumbrante sobre o rio Douro. Distribuída por três pisos, esta propriedade combina conforto, modernidade, luminosidade e um ambiente tranquilo, sendo ideal para quem procura qualidade de vida às portas da cidade.\n\nNo rés-do-chão, encontramos uma sala de jantar acolhedora com uma cozinha em open space, totalmente equipada, com acesso à lavandaria, onde se destacam a máquina de lavar roupa e o cilindro. Segue-se uma ampla sala de estar com casa de banho completa e com grandes portas de vidro que dão acesso à área exterior, perfeita para momentos de lazer e convívio.\n\nO primeiro andar é dedicado à zona privada, composta por uma espaçosa suíte principal com acesso a um terraço com potencial para instalação de uma piscina, uma segunda suíte, dois quartos adicionais e uma casa de banho de apoio aos quartos.\n\nNo último piso, o sótão oferece múltiplas possibilidades de aproveitamento, seja como escritório, sala de jogos ou zona de arrumos.\n\nNo exterior, a moradia conta ainda com uma garagem fechada com capacidade para dois carros.\n\nEsta moradia destaca-se pela sua excelente localização, vistas únicas sobre o Douro e generosas áreas interiores e exteriores, tornando-se a escolha ideal para quem valoriza conforto, elegância e proximidade à cidade do Porto.",
+  "geo": {
+    "lat": 41.1359598,
+    "lng": -8.5331431
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-gondomar-sao-cosme-valbom-e-jovim-gondomar_pt_78263",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78263&foto=1639339&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78263&foto=1639339&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 3; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Portadas",
+      "Velux / Telhado",
+      "Vidro Duplo",
+      "Estores (Alumínio)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pedra Natural, Pintado)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur, Focos)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 36; Eletricidade",
+      "Portão Automático",
+      "Local (Exterior)"
+    ],
+    "Vistas": [
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Transportes Púb.)",
+      "Centralidade (Periferia Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 286,
-  "area_bruta_m2": null,
+  "area_util_m2": 196,
+  "area_bruta_m2": 286,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B-",
+  "detail_fetched_at": "2026-10-28"
 }

@@ -8,24 +8,73 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83640&foto=1712345&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83640&foto=1712345&f=1",
+  "description": "Descubra o refúgio costeiro perfeito neste acolhedor apartamento do 1.º andar (inserido num exclusivo edifício de apenas dois pisos), construído em 2005 e situado num condomínio privado criteriosamente mantido. Combinando 86 m² de área bruta num ambiente envolto por jardins paisagísticos e piscina comum, esta propriedade é a escolha ideal quer para residência permanente, quer para dias de férias inesquecíveis ou investimento num dos destinos mais cobiçados do Algarve.\nNo interior, a distribuição é funcional e harmoniosa, destacando-se uma luminosa sala de estar equipada com salamandra e a cozinha independente. A área de descanso é composta por dois quartos duplos amplos e duas casas de banho (uma com banheira moderna e outra com duche). A sala abre-se diretamente para uma agradável varanda com vista para a piscina e para o oceano, criando a transição perfeita entre os espaços interiores e o exterior.\nO verdadeiro ex-libris do imóvel é o seu fantástico terraço privado na cobertura: um espaço generoso equipado com churrasqueira em betão, onde a vista panorâmica sobre o mar convida a refeições ao ar livre, a contemplar o pôr do sol e a usufruir ao máximo do clima algarvio com total privacidade.\nLocalizado numa zona residencial tranquila, junto ao prestigiado Carvoeiro Tennis &amp; Padel Club — que oferece excelentes instalações desportivas, ginásio, área fitness e bar com lanchonete , o apartamento conta ainda com facilidade de estacionamento exterior. A curta distância encontra as deslumbrantes praias da região, o centro de Carvoeiro, campos de golfe e uma vasta oferta de restauração e comércio ao longo de todo o ano. A rápida proximidade ao concelho de Lagoa e aos principais eixos rodoviários garante uma excelente mobilidade por todo o Algarve.\nSinta o privilégio do estilo de vida costeiro nesta oportunidade única. Agende já a sua visita!",
+  "geo": {
+    "lat": 37.1097672119125,
+    "lng": -8.48199248313904
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-lagoa-e-carvoeiro-lagoa-algarve_pt_83640",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83640&foto=1712345&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83640&foto=1712345&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Churrasqueira",
+      "Court Ténis",
+      "Depósito Lixo",
+      "TV-Cabo",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Monomassa, Pintado)",
+      "Pavimento (Tijoleira)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Ponto de Luz)",
+      "Equipamento (Campo de Jogos, Court Ténis, Gás Canalizado, Jardins, Parque Infantil, Rega Automática, TV Cabo)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 76,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-28"
 }

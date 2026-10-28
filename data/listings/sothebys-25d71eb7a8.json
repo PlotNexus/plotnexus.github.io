@@ -8,24 +8,27 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78307&foto=1672488&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78307&foto=1672488&f=1",
+  "description": "Localizado numa das zonas mais emblemáticas de Lisboa, este apartamento T1 situa-se junto à charmosa Praça da Alegria, entre o Príncipe Real e a Avenida da Liberdade. A poucos minutos a pé encontra restaurantes de referência, jardins históricos, comércio e uma excelente rede de serviços e transportes.\n\nO imóvel conta com 1 quarto com roupeiro embutido, sala com acesso direto à varanda, cozinha integrada totalmente equipada, varanda, e prédio conta ainda com elevador e pátio comum.\n\nEste é o apartamento ideal para quem procura investir ou viver numa localização central e vibrante, rodeado de cultura, vida cosmopolita e, ao mesmo tempo, zonas verdes e tranquilas.",
+  "geo": {
+    "lat": 38.7206333,
+    "lng": -9.1418613
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-santo-antonio-lisboa_pt_78307",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78307&foto=1672488&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78307&foto=1672488&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 57,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-28"
 }

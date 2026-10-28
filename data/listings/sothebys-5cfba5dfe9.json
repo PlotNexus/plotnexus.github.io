@@ -8,24 +8,39 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79529&foto=1602982&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79529&foto=1602982&f=1",
+  "description": "Situado em plena marginal de Vila Nova de Gaia, o Pescaria é um empreendimento exclusivo junto ao rio Douro, com vistas deslumbrantes sobre o centro histórico do Porto. O edifício, totalmente reabilitado, integra 18 apartamentos T1 e 2 espaços comerciais, oferecendo um equilíbrio perfeito entre património e modernidade. O principal ponto distintivo deste projeto é a sua localização privilegiada, frente à Alfândega do Porto, classificada como Património Mundial pela UNESCO.\nO edifício mantém a traça industrial original, outrora dedicada à produção de pipas de vinho do Porto, preservando a sua identidade arquitetónica. As tipologias T1 e T1 duplex foram concebidas para maximizar a luz natural e as vistas sobre o rio, com acabamentos de elevada qualidade. O projeto inclui ainda 8 lugares de estacionamento privativo, garantindo conforto e conveniência.\nCom assinatura do atelier Pedro Mosca &amp; Pedro Gonçalves, o Pescaria alia experiência arquitetónica a um profundo respeito pelo contexto urbano, resultando num edifício de carácter único, autêntico e integrado na paisagem ribeirinha.\nA localização oferece proximidade imediata a restaurantes típicos, bares e às históricas Caves de Vinho do Porto. A escassos minutos a pé encontram-se o teleférico de Gaia e a Ponte D. Luís, que ligam rapidamente ao centro do Porto. A futura ponte pedonal e de metro, com conclusão prevista para 2027, trará ainda maior acessibilidade, conectando o edifício à zona da Boavista, universidades e ao Aeroporto.\nO Pescaria encontra-se a poucos minutos da Afurada e das praias do Atlântico, uma das zonas mais genuínas e apreciadas do Grande Porto. Entre o charme das margens do Douro e a energia cosmopolita do Porto, este é um local onde a história, a tradição e a modernidade se encontram, representando uma oportunidade única de investimento e de vida à beira-rio.",
+  "geo": {
+    "lat": 41.1311551,
+    "lng": -8.6108598
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-santa-marinha-e-sao-pedro-da-afurada-vila-nova-de-gaia_pt_79529",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79529&foto=1602982&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79529&foto=1602982&f=1"
   ],
-  "features": null,
+  "features": {
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Vistas": [
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 90,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-28"
 }

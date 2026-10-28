@@ -8,24 +8,60 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78721&foto=1594746&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78721&foto=1594746&f=1",
+  "description": "Fabuloso apartamento com 125 metros quadrados de área exterior e um anexo de 10.43 metros quadrados no topo do jardim, tendo 85 metros quadrados de área bruta privativa. A redução de corredores sem finalidade, resulta num ótimo aproveitamento do espaço interior disponível. Na entrada do apartamento, encontra-se uma casa de banho completa, cuja porta, quando fechada, resulta oculta pelo ripado de madeira que percorre a parede traseira da zona de cozinha. A sala abre-se em open space e é inundada pela luz do pátio interior com cerca de 10 metros quadrados. A suite fica logo a seguir a este pátio interior e abre-se para um extenso jardim, virado a sul, com um anexo no seu final. \nO apartamento dispõe de materiais de longa durabilidade, com bastante luz e ótima exposição solar.\nEsta fracção é susceptível de ser explorada, na vertente do alojamento local, situando-se na freguesia do Bonfim, próximo à freguesia de Cedofeita. \nO charmoso edifício resulta de reconstrução total, de prédio com traça tradicional portuense, do qual só as paredes foram aproveitadas, fazendo uso de tijolinho no seu revestimento exterior, tão típico da cidade. \nMuito boa localização, próxima a comércio e serviços.",
+  "geo": {
+    "lat": 41.1492537637,
+    "lng": -8.5972309112
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-bonfim-porto_pt_78721",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78721&foto=1594746&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78721&foto=1594746&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 5"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Estores (PVC)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Tijolinho)",
+      "Pavimento (Granito, Mármore)",
+      "Tecto (Falso Pladur, Focos)",
+      "Equipamento (TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 93,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-10-28"
 }
