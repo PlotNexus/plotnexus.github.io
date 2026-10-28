@@ -8,24 +8,27 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=53399&foto=980503&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=53399&foto=980503&f=1",
+  "description": "Excelente oportunidade para quem procura um investimento de qualidade ou pretende adquirir o Golden Visa!\n\nSituado num prédio de charme com elevador, este apartamento oferece uma combinação perfeita de conforto e funcionalidade. Composto por um quarto aconchegante, uma casa de banho moderna, e uma sala ampla com uma cozinha americana totalmente equipada, é o espaço ideal tanto para residência própria quanto para arrendamento de curto ou longo prazo. A distribuição inteligente dos ambientes e a excelente exposição solar fazem com que o apartamento seja luminoso e acolhedor durante todo o dia, criando uma atmosfera agradável e tranquila.\n\nAlém disso, o imóvel é vendido completamente mobilado e equipado, o que significa que está pronto para habitar ou gerar rendimento de imediato. Com móveis de qualidade e equipamentos modernos, não será necessário fazer qualquer tipo de investimento adicional. Esta é uma oportunidade imperdível, seja para quem deseja aproveitar o mercado de arrendamento crescente ou para quem procura um refúgio no coração da cidade com todo o conforto.",
+  "geo": {
+    "lat": 38.7111,
+    "lng": -9.148081
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-santa-catarina-lisboa_pt_53399",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-27",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=53399&foto=980503&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=53399&foto=980503&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 70,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-27"
 }

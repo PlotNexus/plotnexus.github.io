@@ -8,24 +8,73 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83884&foto=1717294&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83884&foto=1717294&f=1",
+  "description": "Descubra este incrível apartamento novo, situado no encantador concelho de Fafe, na perto de Braga. Fica a 10 minutos de Guimarães e a 45 minutos do Porto. \n\nEste espaço luxuoso oferece o equilíbrio perfeito entre conforto e sofisticação. Com dois quartos amplos, três casas de banho e uma varanda espaçosa, o imóvel encontra-se totalmente mobilado e equipado, proporcionando o máximo conforto. \n\nA garagem individual tem espaço para dois carros e garante total segurança e conveniência. \n\nDesfrute também de um terraço encantador que cobre as três frentes do apartamento, ideal para momentos de tranquilidade ao ar livre. \n\nEste é o seu refúgio perfeito, pronto a receber os momentos mais especiais da sua vida.",
+  "geo": {
+    "lat": 41.4498727090245,
+    "lng": -8.18400263995056
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-fafe-fafe_pt_83884",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-27",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83884&foto=1717294&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83884&foto=1717294&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Portadas",
+      "Termolacada",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 26; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Cidade",
+      "Panorâmicas",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons)",
+      "Centralidade (Centro da Cidade, Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 110,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A+",
+  "detail_fetched_at": "2026-10-27"
 }

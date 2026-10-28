@@ -8,24 +8,31 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75001&foto=1486736&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75001&foto=1486736&f=1",
+  "description": "O Boss Gardens está situado em Paranhos, uma das melhores zonas residenciais do Porto, conhecida pela sua tranquilidade e excelente localização. Fica a poucos minutos do centro da cidade, o que permite fácil acesso a todo o tipo de serviços, como centros de negócios, hospitais, escolas e opções de lazer. \n\nA área é também muito bem servida por espaços verdes e parques, ideais para quem gosta de estar em contacto com a natureza sem sair da cidade. A facilidade de acesso às principais vias de comunicação torna a deslocação para outras zonas do Porto e arredores muito simples e rápida.\n\nParanhos é ainda casa do maior Polo Universitário do Porto, com algumas das universidades e colégios mais prestigiados da cidade, o que faz com que a zona seja muito procurada por estudantes e profissionais ligados à educação. Este ambiente universitário traz ainda um dinamismo único ao bairro, com diversas opções culturais e de entretenimento ao alcance.\n\nO Boss Gardens oferece, assim, a combinação ideal entre a proximidade ao centro da cidade e a tranquilidade de um bairro residencial, onde é possível disfrutar de uma ótima qualidade de vida, com todas as comodidades por perto. Se procura viver num local que ofereça conforto, acessibilidade e uma excelente rede de transportes, este é o lugar ideal.",
+  "geo": {
+    "lat": 41.1787831749,
+    "lng": -8.6184310913
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-paranhos-porto_pt_75001",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-27",
+  "published_at": "2026-10-28",
+  "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75001&foto=1486736&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75001&foto=1486736&f=1"
   ],
-  "features": null,
+  "features": {
+    "Exposição Solar": [
+      "Sul"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 124,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-28"
 }

@@ -8,24 +8,76 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=47732&foto=1288451&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=47732&foto=1288451&f=1",
+  "description": "Este magnífico apartamento T2 contemporâneo e com acabamentos de alta qualidade, é um condomínio privado com piscina comum no terraço e parque subterrâneo. No terraço oferece uma vista panorâmica sobre a cidade e sobre a serra de Monchique. Encontra-se localizado no coração da cidade de Lagos, numa zona habitacional tranquila a menos de cinco minutos do centro e da Marina de Lagos, com excelentes acessos à estrada nacional 125 e à auto-estrada. É uma optima oportunidade para ter a sua casa de família, numa zona habitacional de prestigio visto que, este empreendimento, fica inserido numa zona com todas as facilidades e serviços, tais como hipermercado, hospital, transportes públicos, escolas. A sua envolvência é bastante reconfortante, podendo facilmente fazer diversas atividades a pé e desfrutar da tranquilidade do jardim ou da piscina que são comuns ao empreendimento. Este confortável apartamento é composto por dois quartos, sendo um deles em suite, cozinha totalmente equipada com material de alta qualidade BOSH, totalmente encastrados, uma ampla sala de estar e uma casa de banho. Caixilharia dupla, estores eléctricos, cofre de segurança, porta de entrada com fechadura de segurança, ar condicionado em todos as divisões, aspiração central, sistema de água quente por painéis solares e um lugar de estacionamento privado. Poderá ainda disfrutar dos longos e solarengos dias de Verão algarvios numa varanda confortável e acolhedora.",
+  "geo": {
+    "lat": 37.1093056352757,
+    "lng": -8.69014285028076
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-sao-goncalo-de-lagos-lagos_pt_47732",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-27",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=47732&foto=1288451&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=47732&foto=1288451&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Painel Solar",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Solar",
+      "TV-Cabo",
+      "Video-Porteiro",
+      "Alarme (Completo)",
+      "Música Ambiente (Completo)",
+      "Aspiração Central (Completo)",
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Tijolinho)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (TV Cabo, Video-Porteiro)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Garagem": [
+      "Área (m2): 19.80; Luz",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Hospital, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 8,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-27"
 }

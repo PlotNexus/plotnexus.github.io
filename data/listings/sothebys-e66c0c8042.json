@@ -8,24 +8,31 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67908&foto=1288633&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67908&foto=1288633&f=1",
+  "description": "Localizado em Lisboa no centro histórico, o Infante Residences conta com 45 apartamentos. O projeto de reabilitação é assente em vetores de qualidade, conforto e distinção. Um edifício emblemático que beneficia de vistas panorâmicas e espaços de lazer, num dos bairros mais nobres da cidade, a Estrela. \nO condomínio Infante Residences conta com o exclusivo acesso a um elegante rooftop com piscina e zona de lazer, perfeito para desfrutar das vistas panorâmicas sobre a capital e o Rio Tejo. Os interiores dos apartamentos T1, T2, T2+1 e T3 possuem acabamentos, revestimentos e materiais de alta qualidade que se aliam ao distinto design harmonioso e funcional dos espaços. Todos os apartamentos possuem ar condicionado, cozinhas totalmente equipadas, chão em madeira e janelas de vidros duplos.\nEstes autênticos refúgios do dia-a-dia citadino estão a escassos minutos a pé da zona ribeirinha da cidade e de várias zonas verdes, perfeitas para longas caminhadas ou passeios de bicicleta. Rodeados de vários pontos de transportes públicos, serviços, restauração e comércio, os apartamentos do Infante Residences podem ainda contar com a inauguração de uma nova estação de metro em 2025, que reforçará a sua conexão a toda a cidade.",
+  "geo": {
+    "lat": 38.70631,
+    "lng": -9.167455
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-estrela-lisboa_pt_67908",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-27",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67908&foto=1288633&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67908&foto=1288633&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 56,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-27"
 }

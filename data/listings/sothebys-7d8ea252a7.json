@@ -6,26 +6,40 @@
   "currency": "EUR",
   "location": "Apartamento, São Gonçalo de Lagos, Lagos",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81641&foto=1651869&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81641&foto=1651869&f=1",
+  "description": "O DOMUS é um novo empreendimento residencial localizado em Lagos, no Algarve, concebido para quem procura viver entre a cidade e o mar. Situado a poucos minutos da Praia de Porto de Mós e próximo do centro histórico, o projeto combina arquitetura contemporânea, funcionalidade e uma localização privilegiada numa das zonas mais procuradas da região.\n\nO empreendimento é composto por 65 apartamentos de tipologias T2 e T3, incluindo unidades duplex nos últimos pisos. Todas as frações foram desenhadas para privilegiar a luz natural, a ligação ao exterior e o conforto no dia a dia, contando com varandas ou terraços privativos e estacionamento.\n\nCom uma abordagem contemporânea à habitação, os apartamentos incluem cozinhas totalmente equipadas, ar condicionado, piso radiante, estores elétricos, sistema solar e soluções de domótica, proporcionando uma vivência funcional e adaptada ao estilo de vida atual.\n\nNas áreas comuns, o DOMUS oferece piscina e ginásio, criando um ambiente pensado para o bem-estar e para usufruir do clima do Algarve durante todo o ano.\n\nInserido numa zona residencial consolidada, o projeto beneficia de proximidade a comércio, serviços, escolas e infraestruturas desportivas, bem como de acessos rápidos à A22 e às principais praias de Lagos. O Aeroporto Internacional de Faro encontra-se a cerca de uma hora de distância.\n\nCom conclusão prevista para 2028, o DOMUS apresenta-se como uma proposta residencial contemporânea em Lagos, onde localização, conforto e ligação ao exterior assumem um papel central.",
+  "geo": {
+    "lat": 37.1010549,
+    "lng": -8.6781133
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-sao-goncalo-de-lagos-lagos_pt_81641",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-27",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81641&foto=1651869&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81641&foto=1651869&f=1"
   ],
-  "features": null,
+  "features": {
+    "Vistas": [
+      "Campo",
+      "Dunas",
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Porto de Mar)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 4,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-27"
 }

@@ -8,24 +8,27 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75736&foto=1539503&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75736&foto=1539503&f=1",
+  "description": "Apresentamos este encantador apartamento T2 localizado na exclusiva e pitoresca urbanização Old Village, em Vilamoura — um dos destinos mais procurados do Algarve. Com uma área privativa generosa de 99m², esta propriedade oferece uma excelente base para residência permanente, férias ou investimento.\n\nO apartamento mantém o seu estado original, o que representa uma oportunidade única para personalizar ao seu gosto e tirar o máximo partido do seu potencial. \nDispõe de dois quartos confortáveis, duas casas de banho, áreas de estar luminosas e funcionais, e uma atmosfera acolhedora que reflete o charme tradicional da zona.\n\nA localização é um dos seus grandes privilégios: inserido numa urbanização de prestígio, rodeado por jardins bem cuidados, cafés, restaurantes e a curta distância dos campos de golfe, da marina de Vilamoura e das praias de areia dourada.\n\nConta ainda com estacionamento reservado para dois carros — um verdadeiro privilégio nesta zona tão requisitada.\n\nIdeal para quem procura qualidade de vida, conforto e uma localização invejável no coração do Algarve.",
+  "geo": {
+    "lat": 37.0695602517,
+    "lng": -8.1025028228
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-vilamoura-loule_pt_75736",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-27",
+  "published_at": "2026-10-27",
+  "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75736&foto=1539503&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75736&foto=1539503&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 60,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-27"
 }
