@@ -8,24 +8,56 @@
   "bedrooms": 4,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83014&foto=1692581&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83014&foto=1692581&f=1",
+  "description": "Situada na tranquila Aldeia de Palma, a apenas 10 minutos de Alcácer do Sal, esta moradia totalmente recuperada encontra-se pronta a habitar e constitui uma excelente oportunidade para habitação própria, casa de férias ou investimento.\n\nO imóvel está constituído como Prédio em Propriedade Total, desenvolve-se em 2 pisos e está implantado num lote de terreno com 160 metros quadrados. Beneficia de uma excelente orientação solar nascente/poente, proporcionando uma ótima luminosidade natural ao longo de todo o dia.\n\nA moradia é composta por dois apartamentos T2 totalmente independentes.\n\nNo rés do chão encontra-se um apartamento com 50 metros quadrados de área bruta privativa, composto por dois quartos, uma casa de banho completa, sala e cozinha equipada em open space, bem como um agradável terraço nas traseiras com alpendre, ideal para refeições e momentos de lazer ao ar livre.\n\nO piso superior, com acesso autónomo através de escadas exteriores, integra um segundo apartamento T2, também com 50 metros quadrados de área bruta privativa, composto por dois quartos, uma casa de banho, sala e cozinha equipada em open sapce.\n\nA localização combina a tranquilidade de uma aldeia típica alentejana com a proximidade de vários pontos de interesse. As praias da Comporta encontram-se a cerca de 25 minutos e a cidade de Setúbal a aproximadamente 30 minutos de distância.\n\nPelas suas características, esta propriedade adapta-se a diferentes projetos, sendo uma excelente opção para investimento em alojamento local, arrendamento de longa ou curta duração, habitação própria ou utilização por duas famílias, garantindo independência e privacidade entre os dois apartamentos.",
+  "geo": {
+    "lat": 38.4809769,
+    "lng": -8.5950874
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-em-banda-alcacer-do-sal-alcacer-do-sal_pt_83014",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83014&foto=1692581&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83014&foto=1692581&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pintado)",
+      "Paredes (Pintadas)",
+      "Tecto (Ponto de Luz)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Campo"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Rural)",
+      "Proximidade (Bancos, Escolas, Farmácia, Jardins, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 100,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-10-28"
 }

@@ -8,24 +8,55 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 113,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=57685&foto=1163805&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=57685&foto=1163805&f=1",
+  "description": "Moradia em banda com três quartos na Foz Velha, junto ao Passeio Alegre.\nA casa conta com três pisos: a zona social ao nível do piso da entrada, onde a sala e a cozinha se unem e são iluminadas por uma cativante varanda. Ao nível do primeiro piso existem dois quartos com roupeiro embutido e uma casa de banho completa com luz natural. No piso da cave um simpático saguão ilumina o terceiro quarto, neste piso existe também uma casa de banho completa e uma zona para tratamento de roupa.\nCozinha equipada com electrodomésticos da marca Bosch. O aquecimento e arrefecimento é feito através de Ar Condicionado e o aquecimento das águas sanitárias através de Bomba de Calor. Duas frentes: Nascente e Poente.\nInserida no coração da Foz Velha, a dois minutos a pé do Jardim do Passeio Alegre e do Rio Douro, esta moradia contemporanea mantém o charme das casas típicas da zona, personalizada com detalhes requintados tais como, os guarda corpos das janelas da fachada e o pavimento artesanal colocado manualmente.\nInserida numa zona residencial bastante tipica e pitoresca, a uma curta distância a pé de todo o tipo de comércio e serviços, permite um modo de vida cosmopolitan sem a necessidade do uso de automóvel.\nPróximo do mar e da praia,de escolas e colégios internacionais, com a Universidade Católica a 10 minutos a pé, zonas verdes e de lazer como o Jardim do Passeio Alegre, Forte de S. João Baptista, Parque de Serralves e Parque da Cidade a 30 minutos a pé. A sua proximidade à marginal, junto ao rio e mar, proporcionam a prática de caminhadas e desportos ao ar livre. Com transportes públicos nas proximidades, dispõe de uma paragem de autocarros a poucos metros. O centro histórico do Porto está a cinco quilómetros e Matosinhos a quatro quilómetros. Os acessos à VCI estão a sete minutos, permitindo a rápida e fácil deslocação para fora da cidade.",
+  "geo": {
+    "lat": 41.1517951,
+    "lng": -8.6746361
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-em-banda-foz-velha-porto_pt_57685",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=57685&foto=1163805&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=57685&foto=1163805&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 3; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Madeira",
+      "Portadas",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Pintado)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Poente"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Praias, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 113,
-  "area_bruta_m2": null,
+  "area_util_m2": 9,
+  "area_bruta_m2": 113,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-10-28"
 }

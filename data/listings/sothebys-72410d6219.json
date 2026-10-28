@@ -8,24 +8,59 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 46,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65094&foto=1215001&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65094&foto=1215001&f=1",
+  "description": "Moradia isolada situada na costa norte da Ilha da Madeira, mais especificamente na Ponta Delgada que oferece um microclima mais ameno. \nEsta moradia está inserida num lote com cerca de 500 metros quadrados. As suas áreas exteriores contemplam cuidadas áreas ajardinadas, um quintal com uma área para churrasco, uma área para cultivo de vegetais e frutos e ainda uma área onde encontra uma piscina. \nConstituída por dois pisos, no piso térreo encontramos uma garagem com capacidade para dois carros, uma lavandaria, uma casa de banho social e ainda uma cozinha com vista sobre sala de estar e de jantar e acesso ao exterior. \nNo piso superior, encontramos quatro quartos de dormir, um deles em suite com varanda. Neste piso encontramos ainda uma casa de banho de apoio aos outros quartos de dormir, mais uma enorme sala de estar e de jantar e mais uma cozinha completamente equipada. \nEsta propriedade destaca-se pela localização extremamente tranquila, a está a poucos minutos a pé da praia. Honrando estas características, encontra-se ainda assim relativamente perto da vila, bem como da cidade de São Vicente. Através da via expresso, oferece ainda acesso ao Funchal ou ao aeroporto, localizados na costa sul, ambos a aproximadamente 30 minutos de distância. Excelente oportunidade.",
+  "geo": {
+    "lat": 37.74618,
+    "lng": -25.65683
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-ponta-delgada-sao-vicente_pt_65094",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65094&foto=1215001&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65094&foto=1215001&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Norte"
+    ],
+    "Garagem": [
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Pastagens",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 46,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 46,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-28"
 }

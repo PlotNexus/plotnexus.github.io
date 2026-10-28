@@ -8,24 +8,58 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79398&foto=1602657&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79398&foto=1602657&f=1",
+  "description": "Apartamento com três quartos, com 100 metros quadrados de área bruta, junto à Praça da República no Porto. A zona social, orientada a Sul, apresenta um layout prático e funcional, a cozinha, a sala jantar e a sala estar partilham o mesmo espaço e são apoiados por uma varanda com 8 metros quadrados, com vista para o jardim e para o casario típico da cidade. A zona privada é composta por duas suites e um quarto apoiado por uma casa de banho com duche.\nO apartamento foi alvo de renovação em 2017, tendo a opção recaído pela escolha de acabamentos de qualidade elevada, com caixilharias em PVC elevatórias da Caixiave, casas de banhos com revestimentos e pavimentos em mármore, cozinha costumizada em madeira equipada com eletrodomésticos da Miele, pavimentos em madeira nos quartos, climatização assegurada por ar condicionado sistema split e aquecimento das águas sanitárias através de bomba de calor da Baxi. Duas frentes, orientado a Norte e Sul. Inserido num pequeno prédio de apenas 8 fraçoes, com características arquitectónicas de meados dos anos 40, permite uma vivência única onde existe uma metamorfose entre o interior e o espaço exterior, com a possibilidade de usufruir de um jardim privado e aproveitar fins de tardes únicos a contemplar a tranquilidade que o espaço proporciona. Proximidade ao centro da cidade, a uma curta distância a pé de todo o tipo de comércio e serviços, escolas e colégios de referência. Na vizinhança, é ainda possível encontrar diversas zonas de cultura e lazer como o Parque Urbano Dr. Mário Soares (Lapa), os jardins do Palácio de Cristal e a Torre dos Clérigos. A estação de metro da Lapa está a 3 minutos de distância a pé e a estação da Trindade a 1 quilómetro. O aeroporto do Francisco Sá Carneiro está a 18 minutos de carro e a 30 minutos de metros. Possuí licença AL.",
+  "geo": {
+    "lat": 41.1551735,
+    "lng": -8.6229393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-boavista-porto_pt_79398",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79398&foto=1602657&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79398&foto=1602657&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (PVC)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação, Lojas)",
+      "Revestimento Exterior (Pintado)",
+      "Pavimento (Marmorite)",
+      "Paredes (Pintadas)",
+      "Tecto (Estucado, Ponto de Luz)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 90,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-28"
 }

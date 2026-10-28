@@ -8,24 +8,55 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=58460&foto=1607651&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=58460&foto=1607651&f=1",
+  "description": "Amplo apartamento T2 situado na zona das Virtudes / Barreiros, em zona privilegiada e constituído por dois quartos de dormir, sendo um deles uma suíte com acesso direto a uma varanda com 55 metros quadrados. As zonas sociais contam com uma sala de estar/sala de jantar e cozinha em open space, e uma casa de banho completa e de serviço.\nEste apartamento destaca-se pelas áreas úteis acima da média, pela qualidade dos materiais utilizados na sua construção de modo a obter o máximo de conforto, tendo em especial atenção o isolamento acústico e térmico.\nA cozinha está completamente equipada, nomeadamente placa de indução, forno, micro-ondas, máquina de lavar loiça, frigorifico e exaustor. Estará equipado com pré-instalação de ar condicionado, pré-instalação de som em todas as divisões, vidros duplos com rutura térmica, estores exteriores elétricos e vídeo porteiro.\nFaz parte desta fração um lugar de estacionamento coberto equipado com tomada para carro elétrico.\nEstá inserido em condomínio fechado com piscina e boa exposição solar, ginásio e ainda abundantes áreas que nos convida a momentos de lazer.\nPor perto encontram-se todos os serviços necessários ao dia-a-dia, nomeadamente escolas, transportes públicos, supermercado, farmácia, padarias e restaurantes.\nFica localizado a apenas dois minutos a pé do estádio dos Barreiros e a cinco minutos de carro do centro do Funchal. Fica igualmente a 800 metros dos Jardins da Quinta Magnólia e da Estrada Monumental. É uma grande oportunidade, pois trata-se do último apartamento disponível neste novo prédio e aquele que conta com mais área de logradouro. Agende já a sua visita.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-virtudes-funchal_pt_58460",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=58460&foto=1607651&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=58460&foto=1607651&f=1"
   ],
-  "features": null,
+  "features": {
+    "Caixilharia": [
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Pré-Instalação)",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Música Ambiente (Pré-Instalação)",
+      "Aspiração Central (Pré-Instalação)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico)",
+      "Equipamento (TV Cabo)",
+      "Piscina (Exterior)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Zona": [
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 66,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-28"
 }

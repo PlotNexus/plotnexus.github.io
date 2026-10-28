@@ -8,24 +8,68 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80683&foto=1671164&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80683&foto=1671164&f=1",
+  "description": "Apartamento T1 localizado numa das zonas mais procuradas da Costa da Caparica, a poucos passos da praia, ideal para quem valoriza um estilo de vida descontraído junto ao mar.\n\nO imóvel beneficia de uma localização privilegiada, com fácil acesso a comércio local, supermercados, restaurantes, cafés e diversos serviços, permitindo realizar grande parte das tarefas do dia a dia a pé. A zona dispõe ainda de boas condições de estacionamento, proporcionando maior comodidade aos residentes. Tem AL em funcionamento com yields entre 5% a 6%.\n\nA Costa da Caparica é reconhecida pelas suas extensas praias de areia dourada, pelo ambiente acolhedor e pela vasta oferta de restauração, lazer e atividades ao ar livre. A proximidade ao paredão convida a agradáveis passeios junto ao mar, enquanto os inúmeros espaços de praia e restaurantes tornam esta localização especialmente atrativa durante todo o ano.\n\nA poucos minutos de Lisboa e com bons acessos às principais vias rodoviárias, este apartamento representa uma excelente oportunidade tanto para habitação própria como para investimento ou casa de férias.",
+  "geo": {
+    "lat": 38.6443051,
+    "lng": -9.2397691
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-costa-da-caparica-almada_pt_80683",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80683&foto=1671164&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80683&foto=1671164&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC",
+      "Estores (Térmicos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Cerâmica, Pintado)",
+      "Pavimento (Tijoleira)",
+      "Paredes (Monomassa, Pintadas)",
+      "Tecto (Estucado, Focos)",
+      "Equipamento (Sala Condomínio, TV Cabo, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Escolas, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 45,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-28"
 }

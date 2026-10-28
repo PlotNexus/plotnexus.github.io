@@ -8,24 +8,60 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83179&foto=1690414&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83179&foto=1690414&f=1",
+  "description": "Apartamento duplex convertido em cinco quartos, atualmente com uma rentabilidade de 6%, ideal para quem procura um imóvel com rendimento imediato, situado no coração da Baixa do Porto.\n\nCom uma área bruta privativa de 166 m², destaca-se pelo seu generoso terraço, um espaço privilegiado para desfrutar da envolvente urbana.\n\nO imóvel foi alvo de uma renovação integral, que incluiu a substituição das redes de canalização e eletricidade, reabilitação da cobertura e do terraço, bem como a instalação de novos materiais e equipamentos na cozinha e nas casas de banho. O pavimento em soalho maciço original foi cuidadosamente recuperado, tratado e envernizado, preservando o carácter e a autenticidade da habitação.\n\nResultante da união de duas frações, o apartamento distribui-se pelos dois últimos pisos de um edifício de apenas três frações, proporcionando maior privacidade e exclusividade.\n\nO amplo terraço oferece uma vista desafogada sobre a cidade, enquanto a proximidade à estação de metro acrescenta conveniência às deslocações diárias.\n\nA localização privilegiada permite usufruir de um estilo de vida verdadeiramente urbano, com acesso pedonal a uma vasta oferta de comércio, serviços, restauração e equipamentos culturais.\n\nComo complemento, existe uma garagem pública a apenas 280 metros, com possibilidade de avença mensal a partir de 40 €.",
+  "geo": {
+    "lat": 41.1551735,
+    "lng": -8.6229393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/ultimo-pisopenthouse-baixa-porto_pt_83179",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83179&foto=1690414&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83179&foto=1690414&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Portadas",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 166,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-10-28"
 }

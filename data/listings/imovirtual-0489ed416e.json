@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Évora de Alcobaça, Alcobaça, Leiria",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 59.17,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imd2ZW01aXFna2h0eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rHaiUWPoVdbg6IMfrTFmLnJxAuNfiXVcr3BEWIsZ1zs/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imd2ZW01aXFna2h0eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rHaiUWPoVdbg6IMfrTFmLnJxAuNfiXVcr3BEWIsZ1zs/image;s=2048x1536;q=80",
+  "description": "Descubra o conforto de viver num apartamento moderno, numa localização privilegiada, a poucos minutos do centro da cidade de Alcobaça.\n\nInserido numa zona tranquila, com espaços amplos e um ambiente agradável, este empreendimento é ideal para quem procura qualidade de vida, conforto e modernidade, seja para habitação própria ou investimento.\n\nUma excelente oportunidade para encontrar a casa ideal!\n\nO empreendimento disponibiliza diversas tipologias, adaptadas às suas necessidades:\n\n• T1, T2 e T3\n\n• Apartamentos duplex\n\nCom uma construção de qualidade, atenção aos detalhes e cozinhas equipadas, estes apartamentos foram concebidos para proporcionar funcionalidade, conforto e bem-estar no dia a dia.\n\nLocalização, modernidade e qualidade de vida, tudo num só lugar!\n\nNão perca esta oportunidade de garantir o seu novo lar em Alcobaça.\n\nVenha conhecer este projeto e descubra o apartamento ideal para si!\n\nMarque já a sua visita!",
+  "geo": {
+    "lat": 39.539856,
+    "lng": -8.957178
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,38 @@
   "published_at": "2026-10-27",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imd2ZW01aXFna2h0eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rHaiUWPoVdbg6IMfrTFmLnJxAuNfiXVcr3BEWIsZ1zs/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imd2ZW01aXFna2h0eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rHaiUWPoVdbg6IMfrTFmLnJxAuNfiXVcr3BEWIsZ1zs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJlN2h2a3Y5bW9zOC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.9MqEFycrMna87xfl_VCxvpDbpwUD7ImH3-YIh2kpHoY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJ5OWlqYWE2MDF1MjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1tCxNPhKdkvD903Yo2m8vFye8mFUkY7FIKudPXHJbug/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV4eGY5azJ2ZDRhcS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.UvRQ8MUvwAgdQBOEoF5eGomrOxth24GulT-uBJg3KyQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFjYjYzaGV1a3dhaTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.iPvsx7hXmTpgBfMHK_ovlvF63Re698DM0wiPSoPx1o4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InEyZzQ3aGRzdzNzYjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.q2GI4ZVkXKthvnzUoMqIBEUnt3_49aiuBH9rZQj67Bo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ink2Z3FpZnBmMjlnazItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.5QYTsAnGw-Y5ucCPvbXJaWKCtnR1-d4RaCxgiDSwxKM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InI1b3poM2pjcGMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1lqSW3p4Ev0PGchp_mBDnHJ7qEryxClXWxffNUTKo1M/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJxdWt5ZzFsY2NoNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.zF_aOmPmzj05xYbw5VZh8zHmAEPQ3rcnXDCdfXiKYXE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9rMnBrc281aW14ci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.3Tf6rFKtDt8DnyxSibZO73tdhj5nclbrDZaE55p7RDU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFpZmxhaGx3ajJzZi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.56AT-SDsBAQnkk7q1LgxzymNzXYteKBtk1SOZGai6gE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVrNnMyejlqa2MzODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zcnADwFpbMM1YryQlE5UBuJt0jYjPHhOD4-hfYrKIaU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InA5NnV6cTV1bnAyMTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Oi9u8hXrnXWfMMy13Z_csLv7qI_3O60e3KB1LxgY4t0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjI0a2I4b2M5aWU3Mi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.bpKdVYvg4IUvmqYgrDgsNlRsI6znvLjFspMiR2W-ClY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhibGhrYTd1aGhibS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.q3EXslmcGxnmGwcJu4_c2xlQYci3Wz-cGPAl4sQ7SYU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjAwNzRlNnVoeGI2OC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.FQwclM5kV_IIIu9ueXkEWEGWSs3DLc-_fVDfu9l7lxM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imk5ZG1vanR0bXo3Zi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.8oXfRNRYsih1CeSr4R0_wle-zT7DFaJnlH47qwB_MhQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InI1b3FpbHhibjR4eDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.JM1oSUwWlnCJhLF36u_pzlUyZZO0pLG4ydPjqIlhwGw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImUyczNmZDV2Z3l2NjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.S5bXnSNf20B3hQ_LX6zSR4Y17-j2nun8jo0h3vofRiY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9wcWdkdG01ajg5aDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DOdH6W2jIauBluE3dgZPWoF8mYeqAHNG_Bwvu4BIHBA/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Ar condicionado",
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 59.17,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2026,
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-10-28"
 }

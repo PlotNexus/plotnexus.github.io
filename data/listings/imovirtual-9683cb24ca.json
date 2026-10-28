@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Estrela, Lisboa",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 130,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjgxdzJyZDdxNmN3OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UFeLgQDKTquRA_fU5R2O3RoizYXG-UNl99nsvrvTOGA/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjgxdzJyZDdxNmN3OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UFeLgQDKTquRA_fU5R2O3RoizYXG-UNl99nsvrvTOGA/image;s=2048x1536;q=80",
+  "description": "T3 pleno de charme, conforto e tranquilidade\n\nExcelente T3 com 147 m2, inserido em condomínio privado com jardim, com 2 lugares de garagem e arrecadação.\n\nSituado na emblemática Rua das Janelas Verdes, em Lisboa, junto ao Museu Nacional de Arte Antiga. Em edifício construído em 2005, preservando a bonita fachada original, e obedecendo a um elevado padrão de qualidade. \n\nApenas uma fração por piso, o que confere uma entrada privativa ao apartamento.\n\nÓptima divisão do espaço, com a zona social separada da zona privada, e bom dimensionamento de todas as divisões. Todos os quartos com roupeiro e muito espaço para arrumação.\n\nBeneficia de duas frentes, a nascente e a poente, e de vista para o reservado jardim do condomínio. Um espaço perfeito para desfrutar de momentos de lazer a sós ou em família.\n\nA localização privilegiada, ao lado do Museu de Arte Antiga, permite ainda estender a vivência ao bonito jardim do Museu com vista para o rio.\n\nEquipado com aquecimento central a gás. Chão em madeira de jatobá. Serviço de porteiro e sistema interno de videovigilância;\n\nVenha visitar! E descubra o apartamento perfeito para a sua família numa zona muito tranquila e com excelente vizinhança.\n\nLU nº 82/UT/2005, CML&nbsp;\n\n -\n\n3 bedroom apartment full of charm, comfort and tranquility\n\nExcellent T3 with 147 m2, inside in a private condominium with garden, with 2 parking spaces and one storage room.\n\nLocated in the emblematic Rua das Janelas Verdes, in Lisbon, next to the National Museum of Ancient Art. In a building built in 2005, preserving the beautiful original facade, and obeying a high standard of quality. \n\nOne unit per floor only, which enables a private entrance to the flat.\n\nGreat division of space, with the social area separated from the private area, and good sizing of all divisions. All rooms with wardrobe and plenty of storage space.\n\nHas two fronts, east and west, and view to the peaceful condominium garden. The perfect spot for leisure moments alone or with the family.\n\nThe privileged location, next to the Museum of Ancient Art, also allows you to extend the experience to the beautiful garden of the Museum overlooking the river.\n\nEquipped with gas central heating. Floor in jatobá wood. Concierge service and internal video surveillance system;\n\nCome visit! And discover the perfect home for your family in a very quiet and prime neighborhood.",
+  "geo": {
+    "lat": 38.70512,
+    "lng": -9.161293
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,36 @@
   "published_at": "2026-10-27",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjgxdzJyZDdxNmN3OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UFeLgQDKTquRA_fU5R2O3RoizYXG-UNl99nsvrvTOGA/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjgxdzJyZDdxNmN3OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UFeLgQDKTquRA_fU5R2O3RoizYXG-UNl99nsvrvTOGA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InQ3NjNscGR0MmdkbS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.ixhmQ_1lQ5hP9YmJr4W-FPb7pbICSUNcwu-TwGbVYAE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxiZDFtdzJ2OHdhcDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9ZK2cR4DtgPQl9LRDJf-12ZUW9-7PUqU7eK8Sv6ElvI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inlwa3ZoMDA2ajNrYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.3gYsUJ8LqB9pVU8KZwRThGpbI40vjY8o1sOwsUIUVtE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNsYzg5YXN6NHV0YzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2aDf3q_sV3_cjil8jGT7fBIMmDLYYZ7eZ5-dPRPguLw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNiYjJxbzg1aGcxay1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.0Dky-gc_iN0LUxWsf5jitYLJyBz9xMWZJGE9vbHRhlI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRlaHc1bnJuMnE1by1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.tp3B6CJVmaUhg2zEqsFcZNVdg3URDUKbMBaXAkhikUI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRuY3h3azdpcnF4MDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.VuUxy32EXFZTGTcEpVK7yUwqcTMl4YkCebo_8J8Fe10/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFxc3p2bDc1NXRveTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.MRD2psj7UMNqICNN3bgVt2v2yFlJvxDoxw0ciUFYX1I/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF6OGU2dnRwbTFpOTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.92hixCqStRM25fTbOXnHrLwKtM_F5850XriFR5M_zfk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJzcTUycmY4ejlsMjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7rxoHe6N6nKw9-9xsZbcHLoHA95nXONnP9J6QjNWfss/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InYydmlpMnQ3YnFsYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.XBogo4Agw9za1NOXHiRr2HYmP6B6b6f-WX5uBfuOkpw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNnZ2F4enB2ZzJsdzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jfSUWSR7VJy6aqu6K9Gb09HDLuNxMPrno1Ly0jIFK4E/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZhMTU1YXIzamFsMzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.N5Nw_b27zeg5HogAQl6-GHK4OOAPRvBZXsT2TYHCGdA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZxaWI1bnlhc29sNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.HYCUX1kpRh6HiAVTPQLlYxbcEIK6QwH-ks8oRtoCSbI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InQwc3MxczFxc3R2dTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.X4Wm4bsqAj0G43DO7pufIZ2h2z2feQOebfGH-Yh0cLM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBmY2NrMWoxbGVlZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.hAudipS2MP4vvA8y49l-xb_Qu_e6wF6UDaotmhlVdFA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxsM2o5YzVrc3FzajEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.C7RDjwOKf9cdfLDx5RqeCVrE0Y-ur_cLDMTakceTZE8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc4bDdlZzlqNmkwMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Rpx2VxxmKuueohBOAJSyzc9ZDhBt6Ykn8hQiCpBL620/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhuY2p1Ymx5dmllMDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ZAWdWKj2HZ8HwlQE6mb4OYveBO47L1fODB3QWOtJcN4/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 130,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2005,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-28"
 }

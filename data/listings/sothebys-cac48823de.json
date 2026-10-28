@@ -8,24 +8,27 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82526&foto=1670373&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82526&foto=1670373&f=1",
+  "description": "Apartamento T1 localizado no piso 1 do Foz Elements, na Foz do Douro. Com 54 m² de área interior e 57 m² de área exterior, esta fração beneficia de terraço e jardim privado, criando uma ligação natural entre a zona social e o exterior. O apartamento foi pensado para proporcionar uma vivência prática e confortável, com uma distribuição funcional, boa luminosidade e acabamentos contemporâneos. Inserido num empreendimento de arquitetura elegante, marcado pela presença de vegetação e materiais de qualidade, dispõe ainda de arrumo e 1 lugar de garagem. Uma excelente oportunidade para quem procura um T1 com espaço exterior privativo numa das zonas mais procuradas do Porto.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-aldoar-foz-do-douro-e-nevogilde-porto_pt_82526",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82526&foto=1670373&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82526&foto=1670373&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 54,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-28"
 }

@@ -8,24 +8,27 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 477,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67547&foto=1284930&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67547&foto=1284930&f=1",
+  "description": "Quinta histórica com 477 m.q. de área de construção em estado de conservação original, a precisar de obras. O terreno de 24 880 m.q. é plano e com uma excelente terra de cultivo. Propriedade situada a 2 km do centro de Paderne, 13 km de praias de Albufeira e 40 km do aeroporto de Faro.\n\nEsta quinta tem grande potencial para vários tipos de projectos residencial de campo, agricultura, turismo, lares. Para turismo rural, a propriedade pode inclusive aumentar a construção até 2000 metros quadrados. Uma excelente oportunidade de investimento.",
+  "geo": {
+    "lat": 37.1764814,
+    "lng": -8.201073
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-countryside-albufeira_pt_67547",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=67547&foto=1284930&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=67547&foto=1284930&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 477,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 477,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-10-28"
 }

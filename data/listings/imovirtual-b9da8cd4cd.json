@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Lumiar, Lisboa",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 51,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp4ZmZuMXJ5d2RvMzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.d8O48E2fwZUcOT9MN3ZXMzs2FIlh8ymp_2_zdMOkG0A/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp4ZmZuMXJ5d2RvMzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.d8O48E2fwZUcOT9MN3ZXMzs2FIlh8ymp_2_zdMOkG0A/image;s=2048x1536;q=80",
+  "description": "T1 com varanda em condomínio fechado com piscina e ginásio, no Lumiar, Lisboa\n\nNo último piso do Bloco A do Zen, este T1 de 51 m2 tem uma única frente, voltada para a fachada principal do edifício.\n\nA varanda, com 13 m2, é acompanhada por floreiras contínuas que percorrem toda a fachada e oferece uma vista desafogada sobre a cidade.\n\nA cozinha, totalmente equipada, ocupa um pequeno recanto aberto para a sala, e ambas têm acesso direto à varanda. Todo o apartamento está orientado a noroeste.\n\nO quarto dispõe de roupeiro embutido e abre-se igualmente para a varanda, pelo que todas as divisões comunicam com o mesmo espaço exterior.\n\nO apartamento inclui ainda uma casa de banho, uma arrecadação e um lugar de estacionamento.\n\nO Edifício A desenvolve-se em seis pisos e divide-se em duas alas, cada uma servida por dois elevadores com acesso direto ao estacionamento.\n\nO Zen é composto por três edifícios dispostos em torno de um pátio ajardinado e foi pensado para ser vivido: à volta do jardim encontram-se uma piscina, um parque infantil, várias zonas de estar e um ginásio. O empreendimento dispõe de portaria com segurança 24 horas, num ambiente calmo e resguardado, pouco habitual nesta zona de Lisboa.\n\nO empreendimento situa-se entre o Lumiar e Telheiras, junto ao Paço do Lumiar e ao Parque Botânico do Monteiro-Mor. Escolas, serviços de saúde, comércio e as linhas Amarela e Verde do metro ficam a menos de um quilómetro, com acesso rápido à Segunda Circular.\n\nCom certificado energético A, o apartamento é novo, nunca foi habitado e está pronto a habitar.",
+  "geo": {
+    "lat": 38.77133,
+    "lng": -9.17162
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,32 @@
   "published_at": "2026-10-27",
   "last_seen_at": "2026-10-28",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp4ZmZuMXJ5d2RvMzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.d8O48E2fwZUcOT9MN3ZXMzs2FIlh8ymp_2_zdMOkG0A/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp4ZmZuMXJ5d2RvMzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.d8O48E2fwZUcOT9MN3ZXMzs2FIlh8ymp_2_zdMOkG0A/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxpczczcXB4eTM2YTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0._bhEviwtQGbFZ2CxDSm410XOCNCONKexrmZxLkh4MGE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjAwa2llejRkYWJ3OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.hcb5xKWxRv56OjDCRzN3H9kBoNb5RGYn2gvUGGI9G9g/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJqNWZnZWppNHI0bC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.bDAIZ4higilu3k7UAZAaFGh-RmkEv0Fy388W_VQtwW4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Iml2aXUxZ3MwNWcwcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.30MyeYrMz02t99ZUN3DD82LQGsJ7SuJFZcpGbKcfynE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZzazF1ZTM3YXMzbTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.pvYzcORJoSi_jXRLelqpYDDmpv-8-wLMK5LmMQ20tHM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhqbGNmMDI5OTA5ZDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.KLiMrg_OsTq3Fz7T4MNXt0nVcCtnRrijuksk_dJg4fA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InM4dmozbjB0OTEwaDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.M_rOHx9-3jOqtLQwZry1k3V4qZcrP6KV_hMPO_qSHkk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRiMWU4MWM1MGZnajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.l4IvjWlkqEATmCt7ugBcczr0nM7yj5oh33JmQN_wwD0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdqMWtuMTk2aTRxOTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.VUEoU4-ttgxsKCUIDmV428d_0SbCQXkkfmyijQqcgps/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inc2NDI4bWpmZzRleC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.GcCQJH9AzSCSR3swhwB4q9g9Xn4tcEcv4LHJS8A2L8I/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw1Nzc0b2s2YW1vZzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lDeTt-Hik_WLKyIKIIFvGd1HI7pxOcAVoxvvP3OclpY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjV1djdhNTFibHh0dTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Y7drc21wqQbVJBUdxyGrb3XbP5co_qBRm5QsDyO4wjA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Img3NG8wa2RtNnp1bDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.gUQFXKb4m34fLgzhLj5AqE2ZX2UuLneytmgNXhsgqOI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhuMWFuZDQwZWV5Zi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.oZXps2X1xpdYmz1uWAvv0c_odEoACfnvHD22HPo367Q/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imgxbm5iZWV4NmRpajItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dCjLvSW9BCa-aDnMy_Yi6xPuOFmz7sjrUTOyJxdcRkY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRuaHp5NWE5cnczaS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.LNZer0ncNSY-EindIk7aRBxJPxz00T_trIz-9QWa0FI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZqaXljazRzYThlNzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FIubLHDNdCfDU4HmAsMTs7hgVj-CMpD00cx7w7yV2Eg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJnMmUyaTRqYzFwNS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.zL2OEQp6w4Y3D2tEroEP5G7IPW2C1kk7o6eABSpLsas/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFod3k0cWhhd2FwczEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yaiAP5fiJsNSel-Yfk4bjhRxviGT3g93dWgflaHSuwA/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 51,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-28"
 }
