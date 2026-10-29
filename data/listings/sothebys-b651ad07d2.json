@@ -8,24 +8,27 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": 120,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65232&foto=1332512&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65232&foto=1332512&f=1",
+  "description": "Localizada nos Prazeres, Calheta, esta encantadora moradia rústica em pedra oferece um refúgio tranquilo para desfrutar da serenidade da natureza. Com dois quartos de dormir espaçosos, esta propriedade é ideal para quem procura um ambiente acolhedor e tradicional.\nConstruída em 1937, esta moradia exala charme e história. O piso térreo inclui uma sala de estar e jantar aconchegante, uma cozinha funcional, um forno a lenha, um pátio exterior pitoresco e uma garagem.\nNo primeiro piso, encontrará os dois quartos de dormir e uma casa de banho. O exterior apresenta uma churrasqueira perfeita para reunir amigos e família, uma piscina de grandes dimensões e uma casa de banho adicional.\nA moradia desfruta de uma excelente exposição solar, com o sol a banhar o espaço exterior durante grande parte do dia. Além disso, a sua localização privilegiada oferece proximidade às principais vias, estando a apenas cinco minutos da expresso, facilitando as suas deslocações diárias.\nOs serviços, restaurantes, supermercados e escolas estão a uma curta distância.",
+  "geo": {
+    "lat": 32.75235,
+    "lng": -17.20872
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-rustica-prazeres-calheta-madeira_pt_65232",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-28",
+  "published_at": "2026-10-29",
+  "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=65232&foto=1332512&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=65232&foto=1332512&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 120,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 120,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-29"
 }

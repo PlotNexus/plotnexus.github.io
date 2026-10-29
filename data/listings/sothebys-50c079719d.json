@@ -8,24 +8,57 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77244&foto=1583098&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77244&foto=1583098&f=1",
+  "description": "Apartamento T1 + 1, inserido num dos bairros mais emblemáticos do Porto, o Bairros das Artes, em Cedofeita, conhecido pelas galerias de arte e uma zona servida de restaurantes, próximo à Rua do Rosário. Com uma área bruta privativa de 65.6 metros quadrados, este imóvel oferece um layout funcional, e um espaço luminoso e confortável para viver. O apartamento dispõe de um terraço/ jardim com 16.2 metros quadrados, proporcionando um vivência exclusiva e provada da área exterior. \nInserido num prédio novo, este imóvel garante um ambiente exclusivo e sofisticado.\nOs acabamentos são de qualidade, com pavimentos em madeira flutuante, cozinhas em mármore, equipadas com eletrodomésticos Bosch e bancadas em granito. As casas de banho são revestidas em cerâmico, e incluem louças sanitárias de design moderno. As caixilharias são em alumínio, com vidro duplo e corte térmico e acústico, garantindo conforto em todas as estações do ano.\nA localização é um dos pontos fortes deste apartamento, estando a 3 minutos a pé da nova linha de estação de metro Rubi, do Museu Nacional Soares dos Reis, do Hospital Santo António, a 5 minutos do Palácio de Cristal e de diversas opções de comércio e serviços. A zona é ideal para quem procura tranquilidade sem abdicar da proximidade ao centro da cidade.",
+  "geo": {
+    "lat": 41.1561779,
+    "lng": -8.651652
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-bairro-das-artes-porto_pt_77244",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-28",
+  "published_at": "2026-10-29",
+  "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77244&foto=1583098&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77244&foto=1583098&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Pavimento (Marmorite)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Ventilação Mecânica)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 6,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B-",
+  "detail_fetched_at": "2026-10-29"
 }

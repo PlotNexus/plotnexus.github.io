@@ -8,24 +8,27 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 765,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71493&foto=1493841&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71493&foto=1493841&f=1",
+  "description": "Moradia de traça tradicional em localização privilegiada no Estoril, com vista mar do primeiro piso. \nInserida num lote com 3955 metros quadrados com um amplo jardim e piscina e a casa com 765 metros quadrados de área bruta de construção.\nA moradia desenvolve-se em dois pisos e cave. \nNo piso térreo encontramos amplas áreas socias, com duas salas de estar, sala de jantar com acesso à copa e cozinha, bengaleiro e uma casa de banho social. O piso superior é composto por cinco quartos, um escritório e três casas de banho completas. \nA cave conta com diversas áreas de serviço e uma garagem para cerca de 8/10 carros. \nA localização privilegiada no centro do Estoril, a dois passos da Praia do Tamariz, Monte Estoril, transportes e acesso à A5 em 2 minutos, fazem desta propriedade uma oportunidade única.\nIdeal para aquelas pessoas que valorizam propriedades com charme, privacidade e áreas generosas tanto do terreno como da casa.",
+  "geo": {
+    "lat": 38.7115738,
+    "lng": -9.3942456
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-estoril-centro-cascais_pt_71493",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-28",
+  "published_at": "2026-10-29",
+  "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=71493&foto=1493841&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=71493&foto=1493841&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 765,
-  "area_bruta_m2": null,
+  "area_util_m2": 6,
+  "area_bruta_m2": 765,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-10-29"
 }

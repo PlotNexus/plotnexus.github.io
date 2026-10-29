@@ -8,24 +8,53 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81204&foto=1678968&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81204&foto=1678968&f=1",
+  "description": "Encantador apartamento completamente reabilitado em 2019, situado no coração de Vila Nova de Gaia, na prestigiada Rua João de Deus. Com 94 metros quadrados de área bruta privativa, este imóvel oferece um design contemporâneo e funcional. Dispõe de três quartos espaçosos e bem iluminados, além de duas casas de banho modernas, perfeitas para o conforto diário. A sala de estar é convidativa e ideal para receber convidados ou desfrutar de momentos de relaxamento. A zona de cozinha apresenta um layout inteligente que maximiza o espaço e a praticidade. O apartamento ainda conta com uma varanda de 3.6 metros quadrados, perfeita para se desfrutar de um pequeno-almoço ao ar livre ou para quem aprecia uma pausa relaxante com ar fresco. Localizado no primeiro andar de um edifício de um único piso, este apartamento proporciona uma experiência residencial exclusiva e tranquila. Apesar da ausência de garagem, a localização central garante acesso fácil a todas as comodidades urbanas e transportes públicos. Descubra o encanto de viver numa das zonas mais desejadas do Porto, onde a história encontra a modernidade.",
+  "geo": {
+    "lat": 41.125628,
+    "lng": -8.6048077
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-mafamude-e-vilar-do-paraiso-vila-nova-de-gaia_pt_81204",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-28",
+  "published_at": "2026-10-29",
+  "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81204&foto=1678968&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81204&foto=1678968&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 8,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-29"
 }

@@ -1,31 +1,34 @@
 {
   "id": "sothebys-f04491e710",
   "title": "Apartamento, Graça, Lisboa",
-  "type": "arrendamento",
+  "type": "venda",
   "price": 3500,
   "currency": "EUR",
   "location": "Apartamento, Graça, Lisboa",
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68748&foto=1328930&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68748&foto=1328930&f=1",
+  "description": "Apartamento com três quartos (dois em suíte), 4 casas de banho e terraço com jardim privado com cerca de 40m2.\nO imóvel inserido num condomínio privado de luxo com jardim comum, piscina, ginásio e vista sobre a cidade e o rio. \nAlém do sistema de segurança e sistemas de domótica, o apartamento encontra-se totalmente equipado e com acabamentos premium.\nDispõe também de 2 lugares de estacionamento.\nUma oportunidade única no coração de Lisboa, no bairro da Graça.",
+  "geo": {
+    "lat": 38.71868,
+    "lng": -9.124474
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-graca-lisboa_pt_68748",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-28",
+  "published_at": "2026-10-29",
+  "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=68748&foto=1328930&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=68748&foto=1328930&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 147,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-29"
 }

@@ -8,24 +8,27 @@
   "bedrooms": 7,
   "bathrooms": 5,
   "area_m2": 982,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=58818&foto=1215243&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=58818&foto=1215243&f=1",
+  "description": "A Villa Branca é uma moradia única localizada num local tranquilo em Colares com uma vista deslumbrante sobre a serra de Sintra.\nO interior desta moradia de arquitectura tradicional portuguesa evidencia o ambiente campestre espalhado pelos vários aposentos da casa. A casa, toda forrada a madeira, tem sete quartos, cozinha totalmente equipada, lavandaria, sala de estar e jantar com lareira e sala de TV.\nNo exterior desta incrível moradia encontramos um enorme jardim, uma grande piscina privada, uma área de refeições ao ar livre, uma zona de estar, BBQ e estacionamento privativo.\nOs arredores oferecem muitos pontos de interesse para visitar, como a bela cidade de Sintra, Praia das Maçãs, Cabo da Roca, o ponto mais ocidental da Europa e a muito turística e cosmopolita Vila de Cascais. Está localizada a 30 minutos de Cascais, 20 minutos do Colégio Internacional Tasis e a 30 minutos do aeroporto internacional de Lisboa.",
+  "geo": {
+    "lat": 38.80707,
+    "lng": -9.430997
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-colares-sintra_pt_58818",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-28",
+  "published_at": "2026-10-29",
+  "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=58818&foto=1215243&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=58818&foto=1215243&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 982,
-  "area_bruta_m2": null,
+  "area_util_m2": 670,
+  "area_bruta_m2": 982,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-29"
 }

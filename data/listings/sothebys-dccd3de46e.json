@@ -8,24 +8,27 @@
   "bedrooms": 5,
   "bathrooms": 4,
   "area_m2": 545,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81303&foto=1687999&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81303&foto=1687999&f=1",
+  "description": "Moradia de 5 quartos para arrendamento, localizada no prestigiado condomínio \"Quinta Patiño \".\n \nEsta Moradia distribui-se em 3 pisos, piso inferior com acesso direto ao jardim e piscina, é composto por dois salões, suite de empregada e zona de tratamento de roupas. Piso térreo, temos a garagem dá acesso direto à casa, entrada principal, bonito hall com muita luz, lavabo social, ampla sala de estar com lareira, sala de jantar e escritório. Piso superior é composto por duas suites e dois quartos com casa de banho de apoio, varanda a toda a volta.\nTodas as divisões desta moradia têm áreas muito generosas.\n\nA Quinta Patiño é um dos condomínios mais emblemáticos de Portugal. Caraterizado pela sua segurança, portaria a funcionar 24h/dia, privacidade e luxo. Na Quinta Patino encontramos circuitos de manutenção, uma piscina comum, um campo de futebol, três campos de ténis, um ginásio, um parque infantil, um lago e muita vegetação. A Quinta Patiño fica muito próximo do campo de Golf do Estoril, Cascaishopping, praias, fácil acesso à A5/Lisboa e A16/Sintra.\n\nTem ar condicionado em todas as divisões, paneis solares, piscina salgada, câmaras de vigilância na entrada principal e jardim, cozinha equipada, chão em madeira Jatobá, casas de banho em marmore.",
+  "geo": {
+    "lat": 38.7295363,
+    "lng": -9.3976074
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-quinta-patio-cascais_pt_81303",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-28",
+  "published_at": "2026-10-29",
+  "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81303&foto=1687999&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81303&foto=1687999&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 545,
-  "area_bruta_m2": null,
+  "area_util_m2": 405,
+  "area_bruta_m2": 545,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-10-29"
 }

@@ -8,24 +8,31 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83350&foto=1707263&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83350&foto=1707263&f=1",
+  "description": "Este elegante apartamento T3 está inserido no Paradisus, um empreendimento moderno e de arquitetura contemporânea, localizado no Caniço, a apenas cinco minutos da Praia dos Reis Magos e próximo de uma ampla oferta de comércio e serviços.\nCom uma distribuição funcional e áreas generosas, o apartamento dispõe de três quartos, um dos quais em suite. Os outros dois quartos são servidos por uma casa de banho completa, existindo ainda uma casa de banho social para maior comodidade.\nA zona social destaca-se pelas amplas salas de estar e de jantar, com acesso direto às varandas, criando uma agradável ligação entre os espaços interiores e exteriores. A cozinha encontra-se totalmente equipada e é complementada por uma lavandaria igualmente equipada.\nTodos os quartos e as salas dispõem de ar condicionado, com controlo remoto individualizado, proporcionando conforto ao longo de todo o ano.\nUm dos principais atrativos do apartamento são as suas duas amplas varandas, que servem os três quartos e a sala e proporcionam uma bonita vista sobre o mar. Equipadas com cortinas elétricas, oferecem espaços exteriores confortáveis e protegidos, ideais para desfrutar do clima ameno da Madeira e da envolvente.\nO apartamento beneficia ainda de dois lugares de estacionamento na garagem do edifício.\nO empreendimento dispõe de piscina comum, proporcionando uma agradável área de lazer e valorizando ainda mais a qualidade de vida proporcionada pelo Paradisus.\nA localização alia tranquilidade e proximidade ao mar à conveniência do dia a dia. A curta distância encontram-se supermercados, farmácia, centro comercial, clínica e diversos outros serviços, enquanto a Praia dos Reis Magos fica a apenas cinco minutos.\nUma excelente opção para residência permanente, segunda habitação ou investimento, combinando conforto, espaços generosos, vista mar e uma localização privilegiada no Caniço.",
+  "geo": {
+    "lat": 32.6453645857549,
+    "lng": -16.8348956108093
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-canico-santa-cruz_pt_83350",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-28",
+  "published_at": "2026-10-29",
+  "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83350&foto=1707263&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83350&foto=1707263&f=1"
   ],
-  "features": null,
+  "features": {
+    "Edifício": [
+      "Piscina (Exterior)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 146,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-29"
 }

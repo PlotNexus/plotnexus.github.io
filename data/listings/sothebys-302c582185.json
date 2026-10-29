@@ -1,31 +1,45 @@
 {
   "id": "sothebys-302c582185",
   "title": "Apartamento, Cascais, Cascais",
-  "type": "venda",
-  "price": 450000,
+  "type": "arrendamento",
+  "price": 1500,
   "currency": "EUR",
   "location": "Apartamento, Cascais, Cascais",
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77059&foto=1546221&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77059&foto=1546221&f=1",
+  "description": "Este estúdio com cerca de 55 m², totalmente mobilado e equipado, beneficia de uma agradável vista mar e está inserido num edifício de referência em Cascais, representando uma excelente oportunidade para quem valoriza localização, conforto e potencial de investimento.\nRecentemente renovado, o apartamento apresenta um ambiente contemporâneo e funcional. A sua exposição solar a sul proporciona uma ótima luminosidade ao longo do dia, conferindo ao espaço uma atmosfera tranquila e acolhedora.\nA kitchnette integrada na área principal, encontra-se totalmente equipada com eletrodomésticos modernos, incluindo máquina de lavar loiça, placa de indução, forno, frigorífico com congelador independente, termoacumulador e máquina de lavar e secar roupa. O apartamento dispõe ainda de ar condicionado (quente e frio) e janelas com cortinas blackout e telas, assegurando conforto em todas as estações do ano.\nO edifício oferece serviço de porteiro e acesso exclusivo a uma piscina panorâmica no rooftop, reservada aos condóminos mediante código de segurança, um espaço privilegiado com vista sobre o Atlântico.\nA localização é particularmente conveniente, a poucos minutos do Centro Histórico de Cascais, próximo de comércio, serviços, restaurantes, estação de comboios e das praias.\nUma opção interessante tanto para investimento como para quem procura uma solução prática e confortável numa das zonas mais procuradas de Cascais.",
+  "geo": {
+    "lat": 38.70021,
+    "lng": -9.432676
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-cascais-cascais_pt_77059",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-28",
+  "published_at": "2026-10-29",
+  "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77059&foto=1546221&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77059&foto=1546221&f=1"
   ],
-  "features": null,
+  "features": {
+    "Edifício": [
+      "Piscina (Exterior)"
+    ],
+    "Garagem": [
+      "Água",
+      "Casa de Banho",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 55,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-29"
 }

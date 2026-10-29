@@ -8,24 +8,27 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78988&foto=1590059&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78988&foto=1590059&f=1",
+  "description": "Localizado na freguesia de Santa Luzia, o Torrinha Bay é um moderno empreendimento composto por 26 apartamentos de design contemporâneo, que combina a conveniência de estar próximo do centro do Funchal com a serenidade de uma zona tranquila e predominantemente residencial.\n\nTodos os apartamentos desfrutam de vistas deslumbrantes sobre a baía do Funchal, que podem ser apreciadas a partir das amplas varandas banhadas de luz natural, graças à excelente exposição solar. O projeto foi cuidadosamente concebido para integrar-se harmoniosamente na paisagem urbana envolvente, refletindo equilíbrio e elegância arquitetónica.\n\nCada unidade foi desenhada para garantir o máximo conforto e autonomia, contando com garagem privativa, piscina comum e jardins paisagísticos que criam um ambiente de luxo e tranquilidade. Os acabamentos modernos, a luminosidade dos espaços e a funcionalidade do layout tornam o Torrinha Bay a escolha ideal tanto para famílias como para investidores que valorizam qualidade, localização e potencial de valorização.",
+  "geo": {
+    "lat": 32.65432,
+    "lng": -16.9111
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-imaculado-coracao-de-maria-funchal_pt_78988",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-28",
+  "published_at": "2026-10-29",
+  "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78988&foto=1590059&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78988&foto=1590059&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 39,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-29"
 }
