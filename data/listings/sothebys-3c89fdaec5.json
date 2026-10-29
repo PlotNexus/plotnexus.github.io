@@ -8,24 +8,60 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72177&foto=1485312&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72177&foto=1485312&f=1",
+  "description": "Este apaixonante apartamento, situa-se num edifício totalmente reconstruído, onde foi respeitado o espírito da traça da arquitectura burguesa, típica da Cidade do Porto. Possui uma excelente área de 88,90 metros quadrados de área bruta de construção, com um jardim com 35 metros quadrados. Este espaço foi cuidadosamente projectado para proporcionar uma vivência única, onde se destaca os acabamentos de alta qualidade e a ótima exposição solar, orientada a sul.\nExcelente localização no coração da cidade do Porto, a um passo da Rua de Cedofeita e da Praça da República, com uma vasta oferta de comércio local, serviços e transportes públicos. Os acessos à VCI estão a oito minutos, permitindo a fácil e rápida deslocação para fora da cidade. A oportunidade ideal para quem procura uma vivência citadina.",
+  "geo": {
+    "lat": 41.1551735,
+    "lng": -8.6229393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-cedofeita-porto_pt_72177",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-29",
   "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72177&foto=1485312&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72177&foto=1485312&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Termolacada",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Cerâmica, Granito)",
+      "Hall de Entrada (Iluminação Aut.)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 9,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-29"
 }

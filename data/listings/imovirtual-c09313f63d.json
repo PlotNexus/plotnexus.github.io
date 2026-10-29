@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Eiras e São Paulo de Frades, Coimbra",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 109,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InI0cmIzOGdyZGg1NjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.539_kPl48KOjb9W-NQ2E6uX5Xlvrkpegk1MvOOPcVpU/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InI0cmIzOGdyZGg1NjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.539_kPl48KOjb9W-NQ2E6uX5Xlvrkpegk1MvOOPcVpU/image;s=2048x1536;q=80",
+  "description": "Apresentamos este apartamento T3 no 1.º andar de um edifício novo de nove apartamentos na Avenida José Rui Sousa Fernandes, em Lordemão, Coimbra.\n\nTem 109 m² de área útil, duas varandas com 18,2 m² e 9,3 m² e uma garagem com 32 m² na cave. O edifício tem elevador.\n\nDivisões:\n\n Sala com 32,3 m²\n\n Cozinha com 12,7 m²\n\n Suíte com 18,4 m² e casa de banho privativa com 4,8 m²\n\n Dois quartos com 12 m² cada\n\n Casa de banho com 3,1 m²\n\n Hall de entrada com 12,1 m²\n\n Roupeiros com prateleiras e gavetas nos três quartos\n\nEquipamento e acabamentos:\n\n Cozinha com móveis em melamina, bancada em quartzo e eletrodomésticos Bosch ou similar: forno, micro-ondas, placa de indução, exaustor, frigorífico combinado e máquinas de lavar louça e roupa\n\n Ar condicionado na sala e nos quartos\n\n Caixilharia em PVC ou alumínio com corte térmico e vidro duplo, e estores elétricos\n\n Pavimento em soalho flutuante vinílico ou mosaico\n\n Tetos em gesso cartonado com focos LED\n\n Casas de banho com louças suspensas Roca ou similar, base de duche e toalheiro aquecido\n\n Porta de entrada blindada e videoporteiro\n\n Portão da garagem seccionado, com motor\n\nA nossa equipa está disponível para apresentar o projeto. \n\nCategoria Energética: A",
+  "geo": {
+    "lat": 40.234295,
+    "lng": -8.420967
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,18 @@
   "published_at": "2026-10-28",
   "last_seen_at": "2026-10-29",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InI0cmIzOGdyZGg1NjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.539_kPl48KOjb9W-NQ2E6uX5Xlvrkpegk1MvOOPcVpU/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InI0cmIzOGdyZGg1NjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.539_kPl48KOjb9W-NQ2E6uX5Xlvrkpegk1MvOOPcVpU/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 109,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-29"
 }

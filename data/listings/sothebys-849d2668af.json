@@ -8,24 +8,42 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81783&foto=1654605&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81783&foto=1654605&f=1",
+  "description": "Agradável apartamento T1+1 74m2 de área bruta privativa, com ampla sala em open space com a cozinha, quarto com escritório, casa de banho social e outra completa. Tem ainda varanda de 14.92m2 e dois lugares de garagem. O Lurion Residences, um empreendimento exclusivo da REVITO Collection, representa a expressão máxima do luxo e da exclusividade imobiliária em Vila Nova de Gaia. Este condomínio fechado distingue-se pela arquitetura contemporânea deautor, acabamentos premium e uma localização privilegiada, oferecendo apartamentos T0 a T4 duplex com vistas deslumbrantes sobre o rio Douro e a cidade do Porto. Composto por 73 apartamentos, o Lurion está implantado num terreno murado de 8.000 m², concebido para proporcionar conforto, segurança e privacidade. As salas amplas em open space, as varandas generosas e os terraços com piscina privativa criam um equilíbrio perfeito entre elegância e funcionalidade. O condomínio oferece ainda piscina exterior, campo de padel, ginásio ao ar livre, passadiço panorâmico e parque infantil, promovendo um estilo de vida marcado pelo bem-estar e pela sofisticação. A localização do Lurion Residences é um dos seus maiores trunfos. Situado numa das avenidas mais prestigiadas de Vila Nova de Gaia, combina a serenidade residencial com a proximidade ao centro histórico, às Caves do Vinho do Porto e ao El Corte Inglés. Beneficia de excelentes acessos às principais vias e encontra-se a poucos minutos da estação de metro de General. Torres, permitindo uma ligação rápida ao centro do Porto e ao Aeroporto Francisco Sá Carneiro. Com escolas, comércio, restaurantes e serviços essenciais nas imediações, o Lurion proporciona uma vivência urbana completa, sem abdicar da tranquilidade. A envolvente combina a energia cosmopolita do Grande Porto com o charme natural da margem sul do Douro, num cenário debeleza e conveniência ímpares. Viver no Lurion Residences é escolher um estilo de vida distinto, onde cada detalhe reflete requinte, conforto e exclusividade.",
+  "geo": {
+    "lat": 41.1318012505,
+    "lng": -8.5875320434
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-oliveira-do-douro-vila-nova-de-gaia_pt_81783",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-29",
   "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81783&foto=1654605&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81783&foto=1654605&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente"
+    ],
+    "Vistas": [
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Proximidade (Bancos, Farmácia, Jardins Infância, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 74,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-29"
 }

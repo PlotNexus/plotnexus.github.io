@@ -8,24 +8,34 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": null,
-  "image": "https://media.sothebysrealtypt.com//imoveis/0_pt.JPG_ICO.JPG",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=36813&foto=702394&f=1",
+  "description": "Elegante moradia com 443 metros quadrados de área bruta privativa para reconstrução. Situada no centro de Leça da Palmeira, está a 15 minutos do centro do Porto, junto à praia de Leça da Palmeira, no centro da cidade, com áreas de lazer, serviços, restaurantes e à gastronomia local, sendo mesmo considerada um autêntico paraíso para os apreciadores de peixe e marisco, inserida num concelho de comércio e indústria, pólo de inovação e primeira escola 5G de Portugal. Leça da Palmeira, desde o tempo de Vila Romana, junto ao Rio Leça, mais tarde Porto de Leixões, um dos principais portos portugueses, porto de cruzeiros e do melhor peixe de Portugal. Terra de Obras de arquitetura premiada, Piscina das Marés, uma belíssima piscina de água salgada projetada por Siza Vieira. Também da autoria deste arquiteto português de renome internacional, a Casa de Chá/Restaurante da Boa Nova do chef Rui Paula Estrela Michelin. A poucos minutos do aeroporto Francisco Sá Carneiro do Porto e a duas horas e meia do aeroporto de Lisboa.",
+  "geo": {
+    "lat": 41.19884,
+    "lng": -8.706846
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-leca-da-palmeira-matosinhos_pt_36813",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-29",
   "last_seen_at": "2026-10-29",
   "images": [
-    "https://media.sothebysrealtypt.com//imoveis/0_pt.JPG_ICO.JPG"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=36813&foto=702394&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 4; Nº Pisos: 2"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 443,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-29"
 }

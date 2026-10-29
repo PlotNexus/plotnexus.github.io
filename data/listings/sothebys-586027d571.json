@@ -8,24 +8,27 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75232&foto=1500044&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75232&foto=1500044&f=1",
+  "description": "Apartamento em excelente estado, para habitar ou remodelar, localizado no centro de Vilamoura a poucos metros da Marina de Vilamoura. As vistas sobre Vilamoura e paisagem circundante são excecionais, num dos condomínios fechados mais conceituados e exclusivos estando próximo de todos os serviços, casino, hotéis, restaurantes, supermercados, etc.\nApresenta 2 quartos, um dos quais ensuite, uma sala ampla e luminosa e uma cozinha bastante espaçosa.\nO condomínio conta com piscina, jardim e garagem privativa estando imaculadamente tratado quer nas zonas comuns interiores quer nas exteriores.",
+  "geo": {
+    "lat": 37.0695602517,
+    "lng": -8.1025028228
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-vilamoura-marina-loule_pt_75232",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-29",
   "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=75232&foto=1500044&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=75232&foto=1500044&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 110,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-29"
 }
