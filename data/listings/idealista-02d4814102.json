@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 41175,
   "image": null,
-  "description": null,
+  "description": "Moradia isolada T4 nova em Santa Comba Dão, inserida em terreno com 1600 m². Com uma área útil de 330 m², a moradia apresenta um rés-do-chão com dois quartos de 20 m² cada, closet, suite, cozinha com 30 m² e sala com 52 m² com acesso a terraço de 70 m². O primeiro piso inclui mezanine com dois quartos de 17 m² e 20 m², saleta de 34 m² e varanda com vista para o verde. A moradia é vendida na fase atua em que se encontral ao abrigo do regime SIMPEX, com opção de aquisição totalmente acabada, chave na mão.\nPreço e mapa de acabamentos sob consulta para venda chave na mão.\n\nLocalização priviligiada com acesso a transportes e comércio local. A proximidade de áreas verdes e a vista para o verde proporcionam um ambiente tranquilo e agradável. O terreno amplo de 1600 m² oferece espaço para jardim, piscina e lazer.\nTerraço magnifico com vista sobre o verde.\nAlgumas imagens são meramente ilustrativas.",
   "geo": {
     "lat": 40.4345479,
     "lng": -8.1006081
@@ -19,14 +19,28 @@
     "url": "https://www.idealista.pt"
   },
   "listing_url": "https://www.idealista.pt/imovel/35124938/",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-26",
+  "published_at": "2026-10-29",
+  "last_seen_at": "2026-10-29",
   "images": [],
-  "features": null,
-  "estado": null,
-  "area_util_m2": 41175,
-  "area_bruta_m2": null,
+  "features": {
+    "Características específicas": [
+      "Moradia independente",
+      "2 andares",
+      "41.175 m² construídos, 330 m² úteis",
+      "T4",
+      "3 casas de banho",
+      "Lote de 1600 m²",
+      "Segunda mão/bom estado"
+    ],
+    "Preço": [
+      "Preço do imóvel: 265.000 €",
+      "Preço por m²: 6 €/m²"
+    ]
+  },
+  "estado": "Bom estado",
+  "area_util_m2": 330,
+  "area_bruta_m2": 41175,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "INPROCESS",
+  "detail_fetched_at": "2026-10-29"
 }

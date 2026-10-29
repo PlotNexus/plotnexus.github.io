@@ -8,24 +8,64 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84005&foto=1716911&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84005&foto=1716911&f=1",
+  "description": "Inserido no exclusivo aldeamento da Quinta da Balaia, este apartamento oferece uma combinação rara entre localização, privacidade e uma relação privilegiada com o mar.\n\nA proximidade à praia e a vista mar definem a experiência desta propriedade, permitindo desfrutar da essência do Algarve num cenário onde a tranquilidade do aldeamento se encontra com a beleza da costa. É uma localização que convida a viver os dias com outro ritmo, entre o azul do mar, a luz natural e a envolvente cuidadosamente preservada da Quinta da Balaia.\n\nO apartamento foi totalmente renovado, numa abordagem contemporânea que privilegia a elegância, o conforto e a qualidade. Os materiais e acabamentos foram criteriosamente selecionados, criando interiores sofisticados e intemporais, onde cada espaço foi pensado para proporcionar uma experiência de habitação distinta.\n\nEmbora registado como T1, encontra-se atualmente configurado como T2, oferecendo uma utilização particularmente versátil, tanto para residência como para uma segunda casa junto ao mar.\n\nMais do que uma propriedade, trata-se de um lugar onde a proximidade da praia e a vista sobre o Atlântico se encontram numa das localizações mais desejadas do Algarve.",
+  "geo": {
+    "lat": 37.0993878,
+    "lng": -8.2130109
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-olhos-de-agua-albufeira_pt_84005",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-29",
   "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84005&foto=1716911&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84005&foto=1716911&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Portadas",
+      "PVC",
+      "Vidro Duplo",
+      "Estores (PVC, Térmicos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Mármore, Pedra Natural, Pintado, Tijolinho, Vidro (painéis))",
+      "Pavimento (Mármore, Tijoleira)",
+      "Paredes (Monomassa, Pintadas, Tijoleira)",
+      "Tecto (Falso Pladur, Focos)",
+      "Equipamento (Jardins, Sala Condomínio, TV Cabo, Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 63,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-29"
 }

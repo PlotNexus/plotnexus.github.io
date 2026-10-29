@@ -8,24 +8,63 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80822&foto=1630552&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80822&foto=1630552&f=1",
+  "description": "Apartamento T3, com 3 quartos, que foi desenhado para proporcionar uma vivência funcional e confortável, adaptada às exigências do dia a dia. Com 93.32 m² de área interior e 9.09 m² de área exterior, destaca-se pelo equilíbrio entre espaços interiores bem distribuídos e uma agradável extensão ao exterior, ideal para momentos de lazer, refeições ao ar livre ou simplesmente para desfrutar de maior amplitude no quotidiano. Conta ainda com dois lugares de garagem. A fração integra uma zona social moderna e funcional, pensada para maximizar o conforto e a luminosidade natural, inserindo-se num conceito residencial onde cada metro quadrado foi projetado para oferecer praticidade e bem-estar. O Bloom Living valoriza uma forma de habitar mais eficiente, com apartamentos preparados para acompanhar a evolução das necessidades de quem os vive. Bloom Living é um novo projeto residencial na Quinta de Moreira, Maia, pensado para responder às novas formas de viver, onde conforto, funcionalidade, bem-estar e sustentabilidade assumem um papel central. Inserido numa localização estratégica, junto ao nó da A41, com ligações rápidas ao Porto, Maia, Matosinhos, Aeroporto e principais polos empresariais, este empreendimento oferece uma solução habitacional prática e contemporânea para quem procura qualidade de vida com excelente acessibilidade. O empreendimento distingue-se ainda pelos seus espaços e serviços comuns, incluindo lavandaria partilhada, sala multiusos, estacionamento em cave com pré-instalação para carregamento de veículos elétricos e estacionamento para bicicletas, reforçando a conveniência e a qualidade de vida dos residentes. Ao nível da sustentabilidade, o Bloom Living apresenta uma forte componente de eficiência energética e responsabilidade ambiental, com classe energética A – NZEB, painéis fotovoltaicos, bombas de calor para aquecimento de águas sanitárias e soluções construtivas de elevado desempenho térmico e acústico. Este T3 representa uma excelente oportunidade para quem procura habitação própria ou investimento, num empreendimento inovador, bem localizado e alinhado com as novas tendências de habitação urbana.",
+  "geo": {
+    "lat": 41.2485153291,
+    "lng": -8.6495876312
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-moreira-maia_pt_80822",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-29",
   "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80822&foto=1630552&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80822&foto=1630552&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Gás Canalizado",
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Jardins, Sala Condomínio)"
+    ],
+    "Garagem": [
+      "Área (m2): 25; Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 32,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-29"
 }

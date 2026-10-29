@@ -8,24 +8,27 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 162,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81448&foto=1656531&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81448&foto=1656531&f=1",
+  "description": "Apresentamos esta encantadora moradia T3, situada numa zona tranquila de Fátima, ideal para quem procura conforto, privacidade e qualidade de vida, sem abdicar da proximidade a todos os serviços essenciais.\n\nCom uma área bruta privativa de 75 m² e 87 m² de área bruta dependente, esta propriedade destaca-se pela sua excelente distribuição de espaços e pela luminosidade natural presente em toda a casa, proporcionando um ambiente acolhedor e harmonioso ao longo do dia.\n\nA zona social é composta por uma ampla sala e cozinha em conceito open space, pensada para momentos de convívio e funcionalidade no quotidiano. A moradia dispõe ainda de três quartos e duas casas de banho.\n\nNo exterior, a propriedade oferece uma agradável área de terreno com potencial para criação de horta, jardim ou até construção de piscina, permitindo desfrutar plenamente do espaço exterior em total privacidade. Conta ainda com poço com tiragem de água elétrica.\n\nEquipada com aquecimento a lenha e preparada para instalação de aquecimento elétrico, esta moradia alia conforto e funcionalidade em todas as estações do ano.\n\nA localização é outro dos seus grandes atrativos: situada a cerca de 25 minutos a pé do Santuário de Fátima, beneficia da proximidade a farmácia, clínicas, supermercados e comércio local. Esta proximidade ao maior centro de peregrinação religiosa do país confere também um interessante potencial de rentabilidade, seja para alojamento local, arrendamento de curta duração ou investimento turístico.\n\nUma excelente oportunidade para habitação própria, casa de férias ou investimento.",
+  "geo": {
+    "lat": 39.6209738,
+    "lng": -8.653686
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-fatima-ourem_pt_81448",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-29",
   "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81448&foto=1656531&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81448&foto=1656531&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": 162,
-  "area_bruta_m2": null,
+  "area_util_m2": 75,
+  "area_bruta_m2": 162,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-29"
 }

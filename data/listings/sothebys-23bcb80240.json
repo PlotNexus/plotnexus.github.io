@@ -8,24 +8,42 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78868&foto=1588097&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78868&foto=1588097&f=1",
+  "description": "O empreendimento Álvares Cabral 91 resulta da delicada reabilitação de uma casa burguesa dos finais do século XIX. Este detalhado projeto recupera e mantém as principais características e materiais da época, como as madeiras nobres, bonitos trabalhos de estuque e cantarias em granito em conjunto com materiais tecnológicos atuais que garantem o conforto exigido para uma casa do século XXI. Esta empenhada simbiose entre a salvaguarda do valor patrimonial e histórico e a modernidade dos dias atuais fazem do Álvares Cabral 91 um empreendimento diferenciado.\nO Álvares Cabral 91 está situado em pleno centro da cidade, numa localização privilegiada relativamente a atrações turísticas, rede de transportes, restauração e comércio. O edifício conta com quatro pisos, cada um com dois apartamentos, num total de oito frações únicas. As tipologias variam entre T0, T0+1 e T1 com áreas entre 42 e 62 metros quadrados, sendo que todos os apartamentos beneficiam de varandas, terraços ou mesmo jardim.\nConhecida como a “Cidade Invicta”, a cidade do Porto situa-se no norte de Portugal, na margem direita do rio Douro e é a segunda maior cidade do país. É conhecida internacionalmente pelo vinho do Porto, pelas pontes, o misto de arquitetura clássica e contemporânea, os monumentos e elementos paisagísticos icónicos, como a azulejaria e as calçadas. O seu centro histórico é Património Mundial da UNESCO desde 1996. A cidade é conhecida pela sua dimensão humana, a sua capacidade de acolher, integrar e fazer com que todos sintam que pertencem e podem chamar casa a esta cidade.",
+  "geo": {
+    "lat": 41.1551735,
+    "lng": -8.6229393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-porto_pt_78868",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-29",
   "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78868&foto=1588097&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78868&foto=1588097&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 68,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-29"
 }

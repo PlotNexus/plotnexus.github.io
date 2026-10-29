@@ -8,24 +8,39 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82983&foto=1687298&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82983&foto=1687298&f=1",
+  "description": "Situado no início da Rua de Sá da Bandeira, este elegante apartamento T0 distingue-se pela rara combinação entre localização prime, arquitetura de caráter, 55 m² de área interior e uma extraordinária varanda de 15 m² — um espaço exterior verdadeiramente singular no centro histórico da cidade.\n\nCom licença de Alojamento Local e classificação de 9,1 — “Soberbo”, este imóvel alia uma localização de excelência a um ativo turístico com desempenho comprovado, constituindo uma oportunidade particularmente interessante para investimento. A elevada classificação atribuída pelos hóspedes reforça a qualidade da experiência proporcionada e o posicionamento do apartamento no segmento turístico da Baixa do Porto.\n\nLocalizado no 4.º piso de um edifício de cinco andares, servido por elevador, o apartamento beneficia de uma configuração que privilegia a amplitude e a relação com o exterior.\n\nO edifício, com origem no início do século XX, foi objeto de uma primeira intervenção em 1943 e de uma profunda reconstrução em 2018, preservando a sua identidade arquitetónica e integrando os padrões de conforto e qualidade da vida contemporânea.\n\nA localização é verdadeiramente distinta. O Teatro Sá da Bandeira encontra-se literalmente ao lado e o histórico Café A Brasileira em frente, numa envolvente onde património, cultura, comércio tradicional, gastronomia e hotelaria se encontram a poucos passos.\n\nA Avenida dos Aliados, a Estação de São Bento, a Rua de Santa Catarina, o Mercado do Bolhão e várias estações de metro encontram-se a curta distância pedonal, permitindo viver o Porto com uma mobilidade excecional.\n\nMais do que um apartamento, trata-se de uma propriedade de caráter singular, adequada a diferentes perfis de utilização — investimento turístico, pied-à-terre, segunda residência ou habitação urbana.\n\nUma propriedade rara pela combinação de atributos que reúne: um endereço histórico, arquitetura com identidade, 70 m² de área total, uma varanda de exceção e licença de Alojamento Local, numa das moradas mais prestigiadas e procuradas do Porto.",
+  "geo": {
+    "lat": 41.1469245216935,
+    "lng": -8.60938878005677
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-centro-historico-porto-porto_pt_82983",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-29",
   "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82983&foto=1687298&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82983&foto=1687298&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 23,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-29"
 }

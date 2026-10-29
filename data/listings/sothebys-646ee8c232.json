@@ -8,24 +8,27 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80044&foto=1615121&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80044&foto=1615121&f=1",
+  "description": "Localizado no Estreito de Câmara de lobos, este elegante apartamento de tipologia T2 destaca-se pela vista mar, arquitetura moderna e ambiente de luxo, sendo ideal para quem valoriza conforto, exclusividade e uma localização privilegiada.\nO imóvel apresenta uma distribuição funcional, contando com dois quartos, um deles em suíte, e duas casas de banho. Dispõe de dois lugares de estacionamento e integra um empreendimento distribuído por dois edifícios, onde todas as unidades incluem cozinhas equipadas, pré-instalação de ar condicionado, varandas e arrecadação. O edifício encontra-se em fase inicial de construção, com conclusão prevista para daqui a dois anos.\nNo rooftop existe um espaço exclusivo com piscina e solário, ideal para momentos de lazer com vistas deslumbrantes sobre o campo, a cidade e o mar. As áreas verdes e os espaços exteriores contribuem para elevados níveis de conforto e bem-estar.\nA localização é um dos pontos fortes, com diversos serviços essenciais a cerca de cinco minutos, bem como comércio local e restauração. As principais vias de acesso e transportes encontram-se igualmente a curta distância, garantindo praticidade e tranquilidade no dia a dia.",
+  "geo": {
+    "lat": 32.674036346307,
+    "lng": -16.9905430778321
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-estreito-de-camara-de-lobos-camara-de-lobos_pt_80044",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-29",
   "last_seen_at": "2026-10-29",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80044&foto=1615121&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80044&foto=1615121&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 32,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-29"
 }
