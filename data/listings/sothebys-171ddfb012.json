@@ -8,24 +8,54 @@
   "bedrooms": 5,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76957&foto=1620784&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76957&foto=1620784&f=1",
+  "description": "Descubra o conforto e a elegância desta ampla moradia geminada de cinco quartos, situada numa localização privilegiada — a apenas 30 minutos de Lisboa por carro e a 1,5 km da estação de comboios da Azambuja. Ideal para famílias numerosas ou investidores atentos, esta residência alia espaço, funcionalidade e acessibilidade num cenário de tranquilidade.\n\nCom quatro pisos — cave, rés-do-chão, primeiro andar e sótão — a casa oferece uma disposição inteligente e harmoniosa, com excelente exposição solar a sudeste que ilumina naturalmente todas as divisões.\n\nNo seu interior, destaca-se uma suíte generosa, três casas de banho com acabamentos modernos, uma sala acolhedora com lareira e uma cozinha de linhas contemporâneas, pensada para o quotidiano. A garagem privada assegura comodidade adicional, enquanto as janelas de vidro duplo e o sistema de aquecimento com caldeira a gás e radiadores proporcionam um elevado nível de conforto térmico e eficiência energética.\n\nInserida numa zona serena da Azambuja, esta moradia combina a tranquilidade de um ambiente residencial com a conveniência de um rápido acesso à capital, seja por estrada ou transporte ferroviário.\n\nAlém do seu valor como habitação permanente, a propriedade oferece também potencial de rentabilidade, contando com viabilidade para obtenção de Licença de Alojamento Local (AL), o que a torna uma excelente oportunidade para arrendamento turístico ou estadias de curta duração.",
+  "geo": {
+    "lat": 39.0690463869975,
+    "lng": -8.87008666986878
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-geminada-azambuja-azambuja_pt_76957",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-30",
   "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76957&foto=1620784&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76957&foto=1620784&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Pisos: 4; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 226,
+  "area_bruta_m2": 242,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-30"
 }

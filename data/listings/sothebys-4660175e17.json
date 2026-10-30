@@ -8,24 +8,36 @@
   "bedrooms": 3,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74514&foto=1513152&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74514&foto=1513152&f=1",
+  "description": "Localizada em Santa Maria maior a poucos minutos do centro do Funchal, esta encantadora moradia completamente remodelada oferece um estilo de vida urbano com um toque de charme tradicional. Com dois andares e um terraço com vista panorâmica cidade e montanha, esta propriedade é verdadeiramente única. Moradia dividida em quartos com sendo três quartos no piso térreo e mais uma quarto no piso superior, todos equipados com uma pequena cozinha de apoio e casa de banho privativa. Conta também com acesso ao exterior onde encontramos uma zona de lazer e zona de terraço, servido de uma casa de banho para estas zonas exteriores. Completamente remodelada, desde a infraestrutura elétrica até à canalização, esta moradia combina harmoniosamente o seu estilo arquitetónico tradicional, original da propriedade, com elementos modernos, garantindo conforto e qualidade. A sua localização central oferece acesso conveniente a uma variedade de serviços e comodidades, além de estar a apenas dois minutos das principais vias da cidade. Seja para quem procura residir na cidade ou para investidores para alojamento, esta é uma oportunidade única.",
+  "geo": {
+    "lat": 32.64771613317,
+    "lng": -16.8946629508789
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-funchal-santa-maria-maior-funchal_pt_74514",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-30",
   "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74514&foto=1513152&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74514&foto=1513152&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Cilindro Eléctrico"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Porto de Mar, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 104,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-30"
 }

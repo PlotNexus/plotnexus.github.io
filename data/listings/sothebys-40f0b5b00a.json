@@ -8,24 +8,56 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=52055&foto=1244342&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=52055&foto=1244342&f=1",
+  "description": "Extraordinário apartamento de um quarto com 67 metros quadrados. É composto por sala e cozinha em openspace apoiada por uma varanda de seis metros quadrados, uma casa de banho completa e uma suite em mezzanine. A cozinha encontra-se totalmente equipada com eletrodomésticos Bosch. Frente a Nascente. \nInserido no empreendimento Fervença Palace, localizado na encosta da zona ribeirinha de Vila Nova de Gaia, na margem sul do rio Douro, conta com dezassete frações, quinze das quais integradas no corpo principal. Um belíssimo edifício do século XVIII que mantém toda a traça que caracteriza a época. Numa zona privilegiada de Gaia, o projeto beneficia da combinação perfeita entre a localização e a estética, onde o rio se funde com a paisagem que envolve o edifício. A arquitetura moderna dos interiores proporciona comodidade absoluta e bem estar, com acabamentos de qualidade que se conjugam com equipamentos de alta eficiência energética. O empreendimento, é composto por apartamentos com áreas entre os 40 e os 150 metros quadrados e com tipologias entre T0 e T2, alguns com jardim privado e vistas deslumbrantes sobre o rio Douro e a cidade do Porto. \nParedes meias com o Rio Douro, com o centro histórico de Gaia e com as caves do vinho do Porto e a uma curta distância do centro da cidade do Porto, o investimento imobiliário que permite uma vivência citadina com facilidade de recursos, transportes públicos, com estação de metro a 300 metros, comércio e serviços sem precisar de utilizar o carro.",
+  "geo": {
+    "lat": 41.14305,
+    "lng": -8.64732
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/loft-centro-historico-gaia-vila-nova-de-gaia_pt_52055",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-30",
   "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=52055&foto=1244342&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=52055&foto=1244342&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Termolacada",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Cerâmica, Granito)",
+      "Pavimento (Granito)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 36,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B-",
+  "detail_fetched_at": "2026-10-30"
 }

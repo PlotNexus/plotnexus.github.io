@@ -8,24 +8,27 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=60618&foto=1479614&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=60618&foto=1479614&f=1",
+  "description": "Apartamento central T1 totalmente novo no 3º piso com 44 m2, inserido em prédio totalmente reconstruído, numa zona bastante sossegada.\n\nEquipado com ar condicionado, dispõe de sala com cozinha integrada, equipada com eletrodomésticos integrados classe A+ e placa de indução de 4 zonas, e o quarto com roupeiro.\n\nProjeto de reconstrução e decoração por arquitetos, em plena Avenidas Novas, no Bairro das Ilhas, perto do Saldanha e a escassos 5 minutos a pé do Instituto Superior Técnico. Autocarros no Saldanha e Arroios, acesso às linhas do metro vermelha e amarela no Saldanha e à linha verde em Arroios.",
+  "geo": {
+    "lat": 38.733533,
+    "lng": -9.1392438
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-arroios-lisboa_pt_60618",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-30",
   "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=60618&foto=1479614&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=60618&foto=1479614&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 44,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B-",
+  "detail_fetched_at": "2026-10-30"
 }
