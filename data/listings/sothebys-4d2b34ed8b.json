@@ -8,24 +8,61 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80671&foto=1641333&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80671&foto=1641333&f=1",
+  "description": "Descubra este encantador apartamento T1+1, completamente renovado e localizado no coração do Porto, numa zona privilegiada, a apenas dois minutos da emblemática Estação de São Bento e da majestosa Avenida dos Aliados. \n\nEste imóvel proporciona uma experiência de habitação moderna com um toque tradicional, refletida na sua requintada renovação. Os espaços interiores são amplos e luminosos, com uma área total bruta de construção de 72,16 m², que inclui uma acolhedora varanda que complementa na perfeição o espaço habitacional. \n\nCom uma licença de alojamento local já garantida, este imóvel representa uma oportunidade de investimento imperdível na zona histórica da cidade. \n\nIdeal para quem procura um equilíbrio entre conforto urbano e potencial de rendimento, o apartamento inclui ainda um mezanino no sótão, completo com janelas de teto Velux, que proporciona um espaço extra versátil para todas as necessidades. \n\nVenha visitar e deixe-se surpreender pela singularidade e potencial deste exclusivo apartamento no Porto.",
+  "geo": {
+    "lat": 41.1454144739146,
+    "lng": -8.60843391364747
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-centro-historico-porto-porto_pt_80671",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-29",
+  "published_at": "2026-10-30",
+  "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80671&foto=1641333&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80671&foto=1641333&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2; Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Madeira",
+      "Velux / Telhado"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Granito, Pedra Natural)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Monomassa, Pedra Natural)",
+      "Tecto (Falso Pladur, Focos, Ponto de Luz)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Farmácia, Ginásio, Hospital, Jardins, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 88,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B-",
+  "detail_fetched_at": "2026-10-30"
 }

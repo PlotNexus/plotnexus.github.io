@@ -8,24 +8,65 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=51556&foto=1122939&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=51556&foto=1122939&f=1",
+  "description": "Fabuloso apartamento T3, com 113 metros quadrados de área bruta privativa, localizado numa das zonas mais nobres da cidade do Porto, rodeada de jardins e espaços verdes - o Foco ou Graham's -, uma zona privilegiada e única na cidade do Porto. Este apartamento T3, com áreas muito simpáticas e generosa sala de 30 metros quadrados, foi totalmente renovado e adequado aos tempos da vida quotidiana actual. \nCom umas vistas desafogadas, que apenas um 16º andar pode proporcionar, é uma excelente opção para quem queira um apartamento cosmopolita numa zona premium da cidade, com excelentes acessos e perto de tudo, mas ao mesmo tempo num local emblemático. \n*Arrendado até agosto de 2026.",
+  "geo": {
+    "lat": 41.16339,
+    "lng": -8.647873
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-ramalde-porto_pt_51556",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-29",
+  "published_at": "2026-10-30",
+  "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=51556&foto=1122939&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=51556&foto=1122939&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "PVC"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Hall de Entrada (Iluminação Aut.)",
+      "Pavimento (Mármore)",
+      "Paredes (Madeira, Pintadas)",
+      "Tecto (Estucado)",
+      "Equipamento (Gás Canalizado, Jardins, Parque Infantil, Sala Condomínio, TV Cabo, Video-Porteiro, Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 113,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-30"
 }

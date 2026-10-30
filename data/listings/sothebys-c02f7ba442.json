@@ -8,24 +8,43 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81257&foto=1680141&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81257&foto=1680141&f=1",
+  "description": "Bem-vindo a um encantador apartamento situado na emblemática Rua João de Deus, no coração de Vila Nova de Gaia, Porto. Este imóvel recentemente renovado em 2019 está localizado no terceiro andar, oferecendo três quartos espaçosos e duas casas de banho modernas. Com uma área bruta de 94 m² e um espaço exterior adicional de 9,3 m², este apartamento é o local perfeito para desfrutar do clima ameno da região. Embora não tenha garagem, o acesso é simples e conveniente. Desfrute da vista do seu próprio balcão, que amplia ainda mais a sensação de espaço deste refúgio urbano totalmente restaurado. A localização é simplesmente imbatível, com acesso fácil a todas as comodidades e transportes. Este apartamento versátil está pronto para se tornar a casa dos seus sonhos. Não perca a oportunidade de chamar este belo espaço de lar.",
+  "geo": {
+    "lat": 41.126785,
+    "lng": -8.6064852
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-mafamude-e-vilar-do-paraiso-vila-nova-de-gaia_pt_81257",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-29",
+  "published_at": "2026-10-30",
+  "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81257&foto=1680141&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81257&foto=1680141&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Vistas": [
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 94,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-30"
 }

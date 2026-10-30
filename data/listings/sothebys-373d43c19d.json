@@ -8,24 +8,27 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82524&foto=1670358&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82524&foto=1670358&f=1",
+  "description": "Apartamento T0 localizado no piso 2 do Foz Elements, na Foz do Douro, inserido num empreendimento de arquitetura contemporânea com apenas três pisos. Com 33 m² de área interior, esta fração apresenta uma organização compacta e funcional, pensada para maximizar o conforto e a praticidade no dia a dia. Os acabamentos seguem uma linha moderna e elegante, com materiais selecionados e soluções adequadas a uma vivência urbana contemporânea. Dispõe ainda de arrumo e 1 lugar de garagem, tornando-se uma opção interessante para habitação própria, utilização ocasional ou investimento numa das zonas mais consolidadas e procuradas do Porto.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-aldoar-foz-do-douro-e-nevogilde-porto_pt_82524",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-29",
+  "published_at": "2026-10-30",
+  "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82524&foto=1670358&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82524&foto=1670358&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 33,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-30"
 }

@@ -8,24 +8,42 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": 72,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69386&foto=1355460&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69386&foto=1355460&f=1",
+  "description": "Moradia em banda com um quarto. A moradia desenvolve-se em 3 pisos. No primeiro temos cozinha e zona de refeições. No segundo piso a sala e um wc completo e no terceiro um quarto. Os acabamentos são de luxo, mármores na cozinha e tampo do WC, pastilha colada à mão nas paredes do wc. Esta moradia pitoresca fica num Largo com vista para uma capela o que nos envolve num ambiente histórico, a um minuto a pé do rio e de todo tipo de comércio e serviços. Rodeado de bons restaurantes a 5 minutos do coração da baixa do Porto.",
+  "geo": {
+    "lat": 41.14612,
+    "lng": -8.630229
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-em-banda-lordelo-do-ouro-e-massarelos-porto_pt_69386",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-29",
+  "published_at": "2026-10-30",
+  "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=69386&foto=1355460&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=69386&foto=1355460&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 3"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Granito)"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 72,
-  "area_bruta_m2": null,
+  "area_util_m2": 77,
+  "area_bruta_m2": 72,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-30"
 }

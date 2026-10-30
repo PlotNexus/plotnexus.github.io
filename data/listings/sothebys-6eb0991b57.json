@@ -8,24 +8,65 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 95,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78839&foto=1603638&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78839&foto=1603638&f=1",
+  "description": "Villa Brisa: Elegante moradia com cerca de 95 m2, localizada na Areosa, em Viana do Castelo. Surge como resultado de uma reabilitação completa, com especial atenção aos detalhes e aos padrões de qualidade. Este imóvel possui 3 quartos, sendo um em suite, e uma casa de banho de apoio aos restantes dois quartos e um agradável pátio. No piso inferior, encontramos a cozinha em open space com a sala, uma casa de banho de serviço e um amplo terraço com vista mar. Possui ainda uma garagem individual privativa e um espaço exterior amplo com cerca de 100 m2, para criar espaços agradáveis , ideais para convívios ao ar livre.\nFica a poucos minutos das praias e do centro de Viana do Castelo, e a menos de 1 hora de distância do Aeroporto Internacional Francisco Sá Carneiro e da cosmopolita cidade do Porto.\nIdeal como residência principal, casa de férias ou investimento imobiliário.",
+  "geo": {
+    "lat": 41.7065,
+    "lng": -8.844801
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-geminada-areosa-viana-do-castelo_pt_78839",
-  "published_at": "2026-10-27",
-  "last_seen_at": "2026-10-29",
+  "published_at": "2026-10-30",
+  "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78839&foto=1603638&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78839&foto=1603638&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Termolacada",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Térmico)",
+      "Revestimento Exterior (Pintado)",
+      "Pavimento (Tijoleira)",
+      "Tecto (Falso Pladur, Focos)",
+      "Equipamento (Jardins)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente"
+    ],
+    "Garagem": [
+      "Área (m2): 27"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Comboio)",
+      "Centralidade (Periferia Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 95,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 95,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-30"
 }

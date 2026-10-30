@@ -8,24 +8,66 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77120&foto=1553649&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77120&foto=1553649&f=1",
+  "description": "Extraordinário apartamento mobilado de um quarto com 54.6 metros quadrados de área bruta privativa, inserido no Camões 800, no centro do Porto. \nÉ composto por sala com cozinha integrada, quarto e casa de banho completa. Conta com um lugar de estacionamento. \nResulta da reabilitação de um edifício classificado como Imóvel de Interesse Patrimonial, com um edifício de apartamentos e uma área de novas moradias. Com acabamentos contemporâneos e de excelência, ar condicionado, dotado de distintas zonas comuns, ginásio, sala de condomínio e no exterior, possui uma ampla zona de jardim e parque automóvel. \nUsufruindo de uma localização privilegiada, este fantástico empreendimento beneficia da proximidade de vários serviços, hospitais, escolas, de transportes e com ótimos acessos a auto estradas para Norte ou Sul.",
+  "geo": {
+    "lat": 41.1551735,
+    "lng": -8.6229393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-porto_pt_77120",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-29",
+  "published_at": "2026-10-30",
+  "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77120&foto=1553649&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77120&foto=1553649&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Gás Canalizado",
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Pavimento (Mármore)",
+      "Paredes (Mármore, Pintadas)",
+      "Equipamento (Sala Condomínio, Video-Porteiro)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Luz",
+      "Portão Automático"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Hospital, Jardins Infância, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 2,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B-",
+  "detail_fetched_at": "2026-10-30"
 }
