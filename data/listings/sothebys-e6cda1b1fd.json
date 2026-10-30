@@ -8,24 +8,63 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82624&foto=1689991&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82624&foto=1722700&f=1",
+  "description": "Um T1 com terraço, para viver dentro e fora de casa, num condomínio com jardim e segurança 24 horas, a poucos minutos do metro e de tudo o que faz falta no dia a dia.\n\nSituado no Antas Green, este apartamento de 2024 apresenta-se em excelente estado de conservação e dispõe de 75 m² de área bruta privativa, lugar de garagem e arrecadação.\n\nO terraço é um dos seus principais atrativos. Generoso para um T1, permite criar uma zona de refeições, receber amigos ou aproveitar uma tarde tranquila ao ar livre. Uma extensão da casa que faz a diferença no dia a dia.\n\nO condomínio conta com mais de 1.500 m² de jardins, parque infantil, equipamentos de fitness ao ar livre e sala polivalente. O acesso controlado, o porteiro e a segurança permanente completam uma envolvente onde é possível desfrutar de tranquilidade sem sair da cidade.\n\nA poucos passos, o Alameda Shop &amp; Spot reúne supermercado, lojas, restauração, ginásio e farmácia. A estação de Metro do Estádio do Dragão fica também a uma curta caminhada, com ligações a vários pontos do Grande Porto e ao Aeroporto. Para quem se desloca de carro, a proximidade à VCI facilita o acesso às principais autoestradas.\n\nPela área interior, pelo terraço e pela localização, é uma opção a considerar tanto para habitação própria como para investimento no mercado de arrendamento.",
+  "geo": {
+    "lat": 41.1568797,
+    "lng": -8.5775756835
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-antas-porto_pt_82624",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-30",
   "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82624&foto=1689991&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82624&foto=1722700&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Vidro Duplo"
+    ],
+    "Domótica": [
+      "Estores Eléctricos",
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Jardins, Parque Infantil, Sala Condomínio, Video-Porteiro, Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 15; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Metro)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 75,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A+",
+  "detail_fetched_at": "2026-10-30"
 }

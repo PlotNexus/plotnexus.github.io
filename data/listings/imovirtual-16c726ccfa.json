@@ -8,9 +8,12 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 182,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImF5bGZmM3M0NDBmdTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CsRVDYcwUutxgLUoAgh6fOl6RCyBm9opEI05Vc9Qraw/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImF5bGZmM3M0NDBmdTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CsRVDYcwUutxgLUoAgh6fOl6RCyBm9opEI05Vc9Qraw/image;s=2048x1536;q=80",
+  "description": "Prédio com frações arrendadas, apesar de se tratar de dois edifícios , estão unificados tendo entrada comum pelo número 22 Desta forma, a venda terá de ser sempre conjunta com 13771 - Valor total = 345 000 euros \n\nCategoria Energética: D\n\nBuilding with leased fractions, despite being two buildings, are unified with a common entrance through number 22 In this way, the sale will always have to be joint with 13771 - Total value = 345 000 euros \n\nEnergy Rating: D",
+  "geo": {
+    "lat": 40.60934,
+    "lng": -6.83034
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,14 @@
   "published_at": "2026-10-29",
   "last_seen_at": "2026-10-30",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImF5bGZmM3M0NDBmdTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CsRVDYcwUutxgLUoAgh6fOl6RCyBm9opEI05Vc9Qraw/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImF5bGZmM3M0NDBmdTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CsRVDYcwUutxgLUoAgh6fOl6RCyBm9opEI05Vc9Qraw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im40a2sxNWFybnNqcTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.l0TNIV5gIJIrn89J-0qqOhn0MDsa8SxZWG_FiV7bV5s/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 182,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-30"
 }

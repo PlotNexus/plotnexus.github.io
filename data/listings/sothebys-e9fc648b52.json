@@ -8,24 +8,27 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79399&foto=1602037&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79399&foto=1602037&f=1",
+  "description": "Descubra este loft singular, de 49 m², num terceiro andar com elevador no charmoso Pátio Afonso de Albuquerque — uma das zonas mais históricas e emblemáticas de Lisboa. Localizado no coração da cidade velha, a poucos passos da Sé de Lisboa e na proximidade imediata de miradouros, ruelas típicas, comércio tradicional, cafés e uma energia urbana vibrante.\nInteiramente renovado com design moderno e refinado, o loft oferece uma vista privilegiada sobre o Rio Tejo — perfeita para quem deseja viver ou investir com charme e exclusividade. O prédio — com elevador — confere conforto e acessibilidade.\n\nO imóvel está licenciado para alojamento local, funcionando atualmente com uma rentabilidade anual estimada em cerca de 6 % — uma excelente oportunidade tanto para investidores como para quem busca uma residência prática e rentável.\n\nIdeal para quem valoriza localização central, história lisboeta e qualidade de vida com potencial de rendimento.",
+  "geo": {
+    "lat": 38.709242480152,
+    "lng": -9.13225810367431
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/loft-santa-maria-maior-lisboa_pt_79399",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-30",
   "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79399&foto=1602037&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79399&foto=1602037&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 49,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-30"
 }

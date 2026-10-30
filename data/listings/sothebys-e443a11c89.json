@@ -8,24 +8,62 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77679&foto=1562525&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77679&foto=1562525&f=1",
+  "description": "Apresentamos este elegante apartamento T2, situado no prestigiado empreendimento YARD, em Vila Nova de Gaia. Localizado no 6.º andar da terceira fase do projeto, com conclusão prevista para 2028. Esta unidade oferece conforto moderno, vistas encantadoras e uma localização estratégica numa zona em plena expansão.\n\nCom uma excelente exposição solar (sul/poente), o apartamento possui uma área interior de 75,6 m² e uma ampla varanda de 16,4 m² – perfeita para relaxar, apreciar o pôr do sol e contemplar o rio Douro ao longe. Condomínio fechado muito exclusivo, ideal tanto para habitação própria como para investimento.\n\nO imóvel inclui ainda 1 lugar de garagem e está inserido numa zona em crescente valorização, próxima das praias, restaurantes conceituados e todo o tipo de comércio e serviços.\n\nDestaques:\n\n- Tipologia T2\n- 6.º andar com vista privilegiada\n- Varanda espaçosa (16,4 m²) com vista para o rio e pôr do sol\n- Área interior: 75,6 m²\n- Exposição solar sul/poente\n- 1 lugar de garagem\n- Inserido na 3.ª fase do YARD (conclusão prevista para 2027)\n- Localização excelente: perto de praias, restaurantes e serviços\n\nEsta é uma oportunidade imperdível para quem procura qualidade de vida, um investimento sólido, e um estilo de vida moderno em Vila Nova de Gaia.",
+  "geo": {
+    "lat": 41.1311551,
+    "lng": -8.6108598
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-arrabida-vila-nova-de-gaia_pt_77679",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-30",
   "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=77679&foto=1562525&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=77679&foto=1562525&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 6,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-30"
 }

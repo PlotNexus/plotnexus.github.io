@@ -8,24 +8,27 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80114&foto=1615387&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80114&foto=1615387&f=1",
+  "description": "Localizado no Estreito de Câmara de Lobos, este elegante apartamento de tipologia T1 destaca-se pela arquitetura contemporânea, ambiente de luxo e enquadramento paisagístico, sendo ideal para quem valoriza conforto, exclusividade e uma localização privilegiada.\nO imóvel apresenta uma distribuição funcional e equilibrada, contando com um quarto e uma casa de banho. Conta igualmente com um lugar de estacionamento em garagem e integra um empreendimento moderno composto por quatro edifícios, concebido para elevados padrões de qualidade, conforto e bem-estar.\nTodas as unidades do empreendimento incluem cozinhas totalmente equipadas, pré-instalação de ar condicionado, varandas, lugares de garagem, assegurando funcionalidade e comodidade no dia a dia. \nNo rooftop do edifício A, existe um espaço exclusivo com piscina e solário, ideal para momentos de lazer e relaxamento, com vistas deslumbrantes sobre o campo, a cidade e o mar. As áreas verdes e os espaços exteriores cuidadosamente planeados reforçam os elevados níveis de conforto, tranquilidade e qualidade de vida.\nA localização é um dos grandes pontos fortes, beneficiando da proximidade a diversos serviços essenciais, comércio local e restauração, todos a cerca de cinco minutos. As principais vias de acesso e transportes encontram-se igualmente a curta distância, garantindo praticidade, mobilidade e tranquilidade no quotidiano.",
+  "geo": {
+    "lat": 32.674036346307,
+    "lng": -16.9905430778321
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-estreito-de-camara-de-lobos-camara-de-lobos_pt_80114",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-30",
   "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80114&foto=1615387&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80114&foto=1615387&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 38,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-30"
 }

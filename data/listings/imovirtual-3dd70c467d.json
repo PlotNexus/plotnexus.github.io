@@ -8,9 +8,12 @@
   "bedrooms": null,
   "bathrooms": null,
   "area_m2": 182,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InExcWN1MG40bXVlLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.WhZEntmxpS6MMQ6tW3ZfsA-eAzBmEShQY0fKdjgATF8/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InExcWN1MG40bXVlLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.WhZEntmxpS6MMQ6tW3ZfsA-eAzBmEShQY0fKdjgATF8/image;s=2048x1536;q=80",
+  "description": "Prédio com frações arrendadas, apesar de se tratar de dois edifícios , estão unificados tendo entrada comum pelo número 22 Desta forma, a venda terá de ser sempre conjunta com 13771 - Valor total = 345 000 euros \n\nCategoria Energética: D\n\nBuilding with leased fractions, despite being two buildings, are unified with a common entrance through number 22 In this way, the sale will always have to be joint with 13771 - Total value = 345 000 euros \n\nEnergy Rating: D",
+  "geo": {
+    "lat": 40.60934,
+    "lng": -6.83034
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,16 @@
   "published_at": "2026-10-29",
   "last_seen_at": "2026-10-30",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InExcWN1MG40bXVlLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.WhZEntmxpS6MMQ6tW3ZfsA-eAzBmEShQY0fKdjgATF8/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InExcWN1MG40bXVlLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.WhZEntmxpS6MMQ6tW3ZfsA-eAzBmEShQY0fKdjgATF8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFnaWtpaGdoaTR6ei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.qwCMCdNuWc2qeJUkHUCwNZSJr4tDPhH8SJbrAekjiZs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlqdHRwMGd6c2hyZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.B3_bCYGuZv_iqGz9vA_xV3lU-iLJOx3EekjrCGb7tDU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imo4b2pvbmFhMzMyZy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.wT0K47aF3YTPE-05VpL8yCgoOsQ8_Ocr8-zoMQqHUFc/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 182,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-30"
 }

@@ -8,24 +8,50 @@
   "bedrooms": 2,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81222&foto=1640092&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81222&foto=1640092&f=1",
+  "description": "Apartamento T2 SMART, localizado no coração do Porto, no Jardim de Arca D’Água, no empreendimento \"Lake Towers\", na Torre 2.\n\nTem uma área de 70 metros quadrados e acesso a um terraço com mais de 16 metros quadrados. Com duas frentes, oferece maior luminosidade a todo o imóvel.\n\nO empreendimento destaca-se pela sua arquitetura contemporânea exclusiva, desenvolvida pela OODA. Dispõe de amplas varandas e de grandes zonas verdes, num conceito único para esta zona da cidade.\n\nO empreendimento \"Lake Towers\" é composto por quatro torres, três de habitação e uma de residência de estudantes.\n\nO loteamento conta com um total de 361 frações e este empreendimento terá um papel fundamental no desenvolvimento e reestruturação da zona. As suas tipologias são: T1 Smart, T1+1, T2 Smart, T2+1, T3 Smart e T3.\n\nAs torres contarão com uma zona comercial e todas as frações serão totalmente equipadas, incluindo ar condicionado em todas as divisões, e máquina de lavar e secar roupa em todos os apartamentos.",
+  "geo": {
+    "lat": 41.17264577142,
+    "lng": -8.61499786376094
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-paranhos-porto_pt_81222",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-30",
   "last_seen_at": "2026-10-30",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81222&foto=1640092&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81222&foto=1640092&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 54,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-30"
 }

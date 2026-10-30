@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 90,
   "image": "https://images.century21.pt/798353b0-134e-45ae-b925-4057a3f44371/1.jpeg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 38.7378294,
     "lng": -9.1680493
@@ -19,16 +19,42 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0549-00159",
-  "published_at": "2026-10-29",
+  "published_at": "2026-10-30",
   "last_seen_at": "2026-10-30",
   "images": [
-    "https://images.century21.pt/798353b0-134e-45ae-b925-4057a3f44371/1.jpeg"
+    "https://images.century21.pt/798353b0-134e-45ae-b925-4057a3f44371/1.jpeg",
+    "https://images.century21.pt/77ac2621-dbaa-45b1-a020-9bd691bee326/2.jpeg",
+    "https://images.century21.pt/c2f5f22f-1c73-4591-bf3b-de2da6d76080/3.jpeg",
+    "https://images.century21.pt/3cee42dd-c602-4b4f-b085-3a939a6e9602/4.jpeg",
+    "https://images.century21.pt/7962d8f2-7b72-496d-bd69-a7804a197107/5.jpeg",
+    "https://images.century21.pt/c919d704-5c55-4582-8b40-4d36a0baa970/6.jpeg",
+    "https://images.century21.pt/71886b9d-6ca9-4add-adcf-9235d73b9af7/7.jpeg",
+    "https://images.century21.pt/f995253a-1ebe-45c8-bef4-2cd81625e2a9/8.jpeg",
+    "https://images.century21.pt/84eb1831-3542-470f-88bb-5ca886af5d2f/1.jpeg",
+    "https://images.century21.pt/defb3235-b95b-4be1-89f8-8bec1a5cf53e/10.jpeg",
+    "https://images.century21.pt/f1b2a2e5-b242-417b-8853-a377ea9977a7/11.jpeg",
+    "https://images.century21.pt/9fca4912-0f79-4753-98d0-1b0a94e913cd/14.jpeg",
+    "https://images.century21.pt/92f4f7af-f626-46f0-9fdb-07be995996f2/2.jpeg",
+    "https://images.century21.pt/dd25fa84-f75a-474a-a857-6746a71ee0a3/2.jpeg",
+    "https://images.century21.pt/30159d29-b70e-46c4-bbf7-3689923a8896/1.jpeg",
+    "https://images.century21.pt/8c4dbf12-a013-4707-a6c6-12846ae4a3bd/8.jpeg",
+    "https://images.century21.pt/5e390e54-449e-48fe-87b2-a2cd1a066545/10.jpeg",
+    "https://images.century21.pt/c8cf1306-8927-4c3d-9cf0-838723f7615d/9.jpeg",
+    "https://images.century21.pt/3b452e0c-4c1f-4c34-bb4b-d72f2836bc43/5.jpeg",
+    "https://images.century21.pt/0e8cfbc1-a7d4-4dcb-b612-9f9903d34b7c/9.jpeg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Máquina de lavar loiça",
+      "Elevador",
+      "Fogão a gás",
+      "Máquina de lavar roupa"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 90,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "area_bruta_m2": 110,
+  "ano_construcao": 2001,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-30"
 }
