@@ -8,24 +8,72 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83768&foto=1715689&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83768&foto=1715689&f=1",
+  "description": "Luminoso e espaçoso apartamento T3 com 190m² de área bruta privativa situado nas Amoreiras, uma das zonas mais prestigiadas e procuradas de Lisboa.\n\nInserido no primeiro piso de um condomínio exclusivo construído em 2000, este elegante edifício distingue-se pela sua fachada de inspiração clássica, nobre hall de entrada e dois elevadores. O apartamento foi totalmente remodelado em 2010, com materiais de qualidade, encontrando-se actualmente em excelente estado de conservação e será arrendado sem mobília, com a excepção de algumas estantes fixas embutidas. \n\nDe áreas generosas e uma distribuição muito funcional, este imóvel é composto por um amplo hall de entrada, uma elegante sala de estar com lareira, sala de jantar independente, cozinha fechada, lavandaria, despensa e casa de banho social.\n\nA zona privada dispõe de uma suite com walk-in closet, dois quartos que partilham uma casa de banho e amplos roupeiros embutidos com abundante espaço de arrumação. Esta residência beneficia ainda de aquecimento e ar-condicionado, uma generosa arrecadação com prateleiras e dois lugares de estacionamento na garagem do próprio prédio.\n\nEste imóvel proporciona agradáveis vistas para zonas verdes e para o Castelo de São Jorge, criando uma atmosfera de tranquilidade e privacidade no coração da cidade.\n\nViver aqui é ter Lisboa à porta. A poucos passos encontra-se o encantador Jardim das Amoreiras, o Aqueduto das Águas Livres, o Museu Mãe d’Água e o Museu Arpad Szenes-Vieira da Silva. Campo de Ourique, Príncipe Real, Chiado e Bairro Alto encontram-se igualmente nas proximidades, assim como uma vasta selecção de restaurantes, cafés, comércio, boutiques e serviços.\n\nA localização beneficia ainda da proximidade do Amoreiras Shopping Center, Liceu Francês, Parque Eduardo VII, Clube VII e Four Seasons Hotel Ritz Lisboa. A estação de Metro do Rato encontra-se a cerca de 500 metros e existem transportes públicos à porta, incluindo o tradicional eléctrico de Lisboa.\n\nCom excelentes acessos rodoviários para Cascais, Sintra, Margem Sul e às praias da Costa da Caparica, este apartamento reúne espaço, conforto, privacidade e uma localização verdadeiramente privilegiada.\n\nUma oportunidade singular para viver com tranquilidade e elegância numa das zonas mais cobiçadas de Lisboa.",
+  "geo": {
+    "lat": 38.7233224,
+    "lng": -9.1597224
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-amoreiras-lisboa_pt_83768",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83768&foto=1715689&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83768&foto=1715689&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 2; Nº Pisos: 1"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Aquecimento Central (Completo, Pré-Instalação)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Depósito Lixo",
+      "Gás Canalizado",
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Casa Recolha Lixo, Gás Canalizado, Video-Porteiro, Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Área (m2): 30; Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 190,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-31"
 }

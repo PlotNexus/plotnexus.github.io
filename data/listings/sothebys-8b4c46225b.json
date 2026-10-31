@@ -8,24 +8,64 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82998&foto=1691917&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82998&foto=1691917&f=1",
+  "description": "Descubra este elegante apartamento T0 duplex com mezzanino, localizado no último piso de um edifício de traça tradicional em pleno Centro Histórico do Porto.\n\nCom 40 m² de área bruta privativa, este imóvel foi concebido para maximizar o conforto e a funcionalidade, distribuindo os espaços de forma inteligente. A varanda e o terraço constituem um complemento raro e muito valorizado nesta zona da cidade, proporcionando um agradável espaço exterior para desfrutar da envolvência urbana.\n\nDetentor de licença de Alojamento Local em vigor, representa uma excelente oportunidade de investimento, reunindo as características mais procuradas por quem pretende obter rentabilidade numa das zonas de maior procura turística e residencial do Porto.\n\nA localização é verdadeiramente privilegiada, a poucos minutos a pé da Estação de São Bento, da Avenida dos Aliados e da Praça dos Poveiros, beneficiando ainda da proximidade a uma vasta oferta de comércio, restauração, cultura e transportes. Um enquadramento que proporciona uma experiência autêntica da cidade, aliando conveniência e qualidade de vida.\n\nEm excelente estado de conservação e equipado para responder às exigências da vida contemporânea, este apartamento adapta-se igualmente a quem procura uma residência na baixa portuense ou um ativo imobiliário de elevado potencial de valorização.\n\nAcresce ainda um fator diferenciador: o proprietário dispõe de uma segunda fração no mesmo edifício, permitindo a aquisição conjunta de ambas. Esta possibilidade constitui uma oportunidade particularmente atrativa para investidores, potenciando a capacidade de exploração e a rentabilidade do investimento.",
+  "geo": {
+    "lat": 41.1460324,
+    "lng": -8.6056533
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/loft-centro-historico-porto-porto_pt_82998",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82998&foto=1691917&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82998&foto=1691917&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Vão de Telhado / Sotão"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (PVC)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pedra Natural)",
+      "Pavimento (Pedra Natural)",
+      "Paredes (Mármore)"
+    ],
+    "Exposição Solar": [
+      "Norte"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Clínica, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 4,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-31"
 }

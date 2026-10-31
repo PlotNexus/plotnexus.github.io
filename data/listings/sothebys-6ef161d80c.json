@@ -8,24 +8,72 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72049&foto=1431726&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72049&foto=1431726&f=1",
+  "description": "Descubra o privilégio de viver no coração do Chiado, um dos bairros mais emblemáticos e sofisticados de Lisboa. Este apartamento T3, com generosos 169 m², oferece um espaço elegante e bem distribuído, perfeito para quem valoriza conforto e exclusividade.\n\nCaracterísticas principais:\n\nT3 – Três quartos espaçosos e luminosos.\n169 m² – Ampla área para o seu conforto e conveniência.\nVarandas – Perfeito para desfrutar de momentos de relaxamento, com vistas deslumbrantes sobre o rio Tejo e a icónica Ponte 25 de Abril.\nGaragem para dois carros – Segurança e comodidade no centro da cidade.\nO apartamento está localizado no vibrante bairro do Chiado, conhecido pelo seu charme histórico e atmosfera cultural. A elegante sala de estar, com amplas janelas, oferece vistas panorâmicas do Tejo, enquanto a cozinha totalmente equipada proporciona o espaço ideal para refeições em família ou pequeno almoço relaxantes. Os armários de madeira e a espaçosa bancada oferecem amplo espaço de arrumação, iluminado pela luz natural.\n\nViver no Chiado é ter o melhor de Lisboa à porta – teatros, museus, cafés históricos e a beleza da arquitetura tradicional mesclada com o dinamismo de uma cidade moderna. Desfrute do pôr-do-sol único e da atmosfera cativante.\n\nNão perca esta oportunidade única! Para mais informações ou agendamento de visitas, entre em contacto.",
+  "geo": {
+    "lat": 38.7111501,
+    "lng": -9.1490905
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-chiado-lisboa_pt_72049",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=72049&foto=1431726&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=72049&foto=1431726&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 3; Nº Pisos: 10"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Termolacada"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pedra Natural, Pintado)",
+      "Pavimento (Mármore, Pedra Natural)",
+      "Equipamento (Gás Canalizado, TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Nascente",
+      "Poente",
+      "Sul"
+    ],
+    "Garagem": [
+      "Água",
+      "Eletricidade",
+      "Luz",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Bons, Comboio, Metro, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 169,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-31"
 }

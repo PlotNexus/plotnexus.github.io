@@ -8,24 +8,48 @@
   "bedrooms": 3,
   "bathrooms": 1,
   "area_m2": 147,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80591&foto=1696634&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80591&foto=1696634&f=1",
+  "description": "Inserida num cenário verde e tranquilo, esta propriedade oferece vista para o mar e para as montanhas, proporcionando uma verdadeira sensação de escape.\nEsta casa encontra-se num ponto elevado, num pico privilegiado que oferece uma envolvente natural única e deslumbrante. Um lugar perfeito para quem procura silêncio, privacidade e uma vida em harmonia com a natureza. Mais do que um imóvel, é um verdadeiro oásis para o corpo e para a alma. Ideal para habitação própria, investimento ou para criar alojamento local para si e para os seus hóspedes, beneficiando de excelente exposição solar e vista mar. Nas proximidades encontra praia, farmácia, restaurante, igreja, cafés e outros serviços essenciais. A moradia está ligada às redes de água potável e eletricidade, mas necessita de obras de renovação. É composta por três quartos, salas, cozinha espaçosa com forno de pedra tradicional, casa de banho e um pequeno espaço de trabalho. No exterior, destaca-se uma zona com pequeno miradouro e área de churrasqueira. O terreno oferece ainda potencial para a construção de uma piscina e para a plantação de várias árvores de fruto.\nCom grande potencial de renovação e/ou ampliação da moradia existente, bem como possibilidade de nova construção de moradia unifamiliar.",
+  "geo": {
+    "lat": 32.826981103372,
+    "lng": -16.90901222229
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-rustica-sao-jorge-santana_pt_80591",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80591&foto=1696634&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80591&foto=1696634&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins",
+      "Mar",
+      "Serra"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Rural)",
+      "Proximidade (Farmácia, Jardins)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 147,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 147,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-10-31"
 }

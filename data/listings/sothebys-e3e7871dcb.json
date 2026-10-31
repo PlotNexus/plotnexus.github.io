@@ -8,24 +8,27 @@
   "bedrooms": 3,
   "bathrooms": 5,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84263&foto=1723781&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84263&foto=1723781&f=1",
+  "description": "Com 356 m² de área bruta privativa e vistas sobre Lisboa e o rio Tejo a partir de toda a casa, este apartamento T3 para arrendamento situa-se na Travessa da Pena, no centro histórico da capital.\n\nLocalizado no terceiro andar, com elevador de acesso direto à porta de entrada, distingue-se pelos pés-direitos altos e pela amplitude dos espaços. Dispõe de três quartos, cinco casas de banho, pavimento radiante aquecido e sistema de rádio integrado.\n\nO rooftop é um dos seus principais atributos, oferecendo uma vista panorâmica sobre os telhados e as colinas de Lisboa, com o rio Tejo no horizonte. Uma perspetiva privilegiada sobre a cidade, comparável à dos seus miradouros mais emblemáticos.\n\nO apartamento dispõe ainda de cinco lugares de estacionamento, três em garagem e dois no exterior, uma característica particularmente relevante nesta localização central. O edifício conta com serviço de porteiro entre as 18h00 e as 08h00.\n\nSituada na freguesia de Arroios, a Travessa da Pena integra uma zona histórica de Lisboa, marcada pelo seu património arquitetónico. Nesta rua funcionou a antiga Engomadoria Ramiro Leão, num edifício de finais do século XIX, posteriormente reabilitado para habitação.\n\nA localização permite usufruir da oferta cultural, comercial e gastronómica do centro de Lisboa.",
+  "geo": {
+    "lat": 38.7223319,
+    "lng": -9.1326749
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-lisboa-lisboa_pt_84263",
-  "published_at": "2026-10-30",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84263&foto=1723781&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84263&foto=1723781&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 356,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-31"
 }

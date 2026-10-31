@@ -8,24 +8,60 @@
   "bedrooms": 4,
   "bathrooms": 6,
   "area_m2": 6,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80489&foto=1634115&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80489&foto=1634115&f=1",
+  "description": "Exclusiva moradia verdadeiramente única na prestigiada zona da Foz, onde o luxo, a tranquilidade e a sofisticação se unem para criar um estilo de vida incomparável. Esta extraordinária moradia contemporânea personifica o glamour e o requinte, numa simbiose perfeita entre arquitetura moderna e a envolvência natural do Parque da Cidade, proporcionando um ambiente exclusivo e absolutamente harmonioso. Inserida num dos condomínios mais exclusivos da Foz — com segurança 24 horas, piscina e ginásio privativo — esta propriedade foi concebida para oferecer conforto absoluto, privacidade e bem-estar em cada detalhe. A localização privilegiada permite usufruir da proximidade ao mar, de amplos espaços verdes e de uma atmosfera serena, ideal para quem valoriza, acima de tudo, qualidade de vida. Com 5 elegantes suites, 2 salas e escritório, todas com áreas generosas e acabamentos de elevada qualidade, a moradia foi pensada para proporcionar o máximo conforto e funcionalidade. A master suite, no piso superior, oferece uma deslumbrante vista mar e acesso a um terraço magnífico, complementada por closet e escritório privativo. No piso inferior, um quarto adicional com casa de banho de apoio garante toda a versatilidade necessária. A sala de estar e de jantar destacam-se pela luminosidade natural e pela fluidez dos espaços, criando ambientes perfeitos tanto para momentos de convívio como para instantes de tranquilidade. Uma sala multiusos — com área de jogos e segundo escritório com acesso direto ao jardim completa uma proposta verdadeiramente pensada para a vida moderna. A vista magnífica que se estende até ao mar oferece um cenário inspirador em todas as estações do ano. As amplas janelas estabelecem uma ligação constante entre interior e exterior, valorizando a luz natural e a paisagem envolvente de forma única. Uma localização verdadeiramente prime, A poucos metros da praia e do Parque da Cidade, e a 20 minutos do Aeroporto do Porto, esta moradia situa-se ainda na proximidade imediata dos principais colégios internacionais do Porto — CLIP, Colégio do Rosário, Oporto British School e Lycée Français — tornando-a a escolha perfeita para famílias exigentes que não prescindem do melhor para os seus filhos. Com design contemporâneo, linhas elegantes e materiais nobres, esta moradia representa uma oportunidade rara de viver com distinção numa das zonas mais nobres da cidade. Mais do que uma casa é uma experiência de vida única, onde cada detalhe foi pensado.",
+  "geo": {
+    "lat": 41.1701403,
+    "lng": -8.6704471
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-em-banda-aldoar-foz-do-douro-e-nevogilde-porto_pt_80489",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80489&foto=1634115&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80489&foto=1634115&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 4"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Garagem": [
+      "Área (m2): 60.09; Eletricidade",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Mar",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 6,
-  "area_bruta_m2": null,
+  "area_util_m2": 5,
+  "area_bruta_m2": 6,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-31"
 }

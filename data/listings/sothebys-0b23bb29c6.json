@@ -8,24 +8,63 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=54866&foto=1090360&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=54866&foto=1090360&f=1",
+  "description": "Apartamento de dois quartos, com 107.7 metros quadrados de área bruta privativa, inserido num projeto que resulta da requalificação de um edifício habitacional e na reconversão em cinco apartamentos de tipologia T1 a T2. No primeiro piso, tem um amplo hall de entrada com 12.4 metros quadrados, com acesso à generosa sala de 22 metros quadrados e cozinha equipada com 6.6 metros quadrados, e casa de banho social. Voltado a nascente, conta com duas acolhedoras varandas de 1.6 metros quadrados na sala. No piso superior, encontram-se dois quartos de 14.5 metros quadrados apoiados por casa de banho completa. Conta ainda com arrumo e lavandaria com 21.30 metros quadrados.\nO edifício alia as exigências de conforto e linhas contemporâneas ao romantismo da construção típica Portuguesa, apelativo tanto para habitação permanente ou temporária, como para exploração turística. \nCom uma excelente localização, no coração do Porto, a um passo da baixa da cidade, está próximo de comércio e supermercados e de todo o tipo de serviços como farmácias, hospital e bancos. Conta com muito bons acessos a transportes públicos, com estação de metro e comboio a cerca de 10 minutos a pé. Encontra-se próximo de superfícies comerciais e zonas de lazer, como a Marina do Freixo e zona beira-rio a menos de dois quilómetros. Está a quatro minutos dos acessos à autoestrada permitindo o fácil acesso para a cidade de Vila Nova de Gaia, dada a proximidade com a Ponte do Freixo. Próximo ainda de escolas e da Faculdade de Belas Artes da Universidade do Porto.",
+  "geo": {
+    "lat": 0,
+    "lng": 0
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/duplex-bonfim-porto_pt_54866",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=54866&foto=1090360&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=54866&foto=1090360&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Velux / Telhado",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Painel Solar",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Cerâmica, Granito)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (TV Cabo, Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Jardins, Jardins Infância, Padaria, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 7,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-10-31"
 }

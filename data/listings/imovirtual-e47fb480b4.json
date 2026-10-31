@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Bougado (São Martinho e Santiago), Trofa, Porto",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 65.14,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InN4N2gyaHd4cm56bDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.110ZXlIZ5SZg1VegXGz-WAJuoBj3utBuEFyNBzAxHhE/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InN4N2gyaHd4cm56bDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.110ZXlIZ5SZg1VegXGz-WAJuoBj3utBuEFyNBzAxHhE/image;s=2048x1536;q=80",
+  "description": "Inserido num edifício de linhas arquitetônicas contemporâneas e identidade marcante, este apartamento destaca-se por proporcionar um ambiente urbano moderno e qualificado, ideal tanto para habitação própria como para investimento. Os espaços foram cuidadosamente pensados para garantir luminosidade, funcionalidade e um elevado padrão de qualidade, refletindo um conceito de vida atual, confortável e premium.\n\nMais do que um simples apartamento, este T3 no Trofa Premium representa uma excelente oportunidade de investimento, inserido num empreendimento que eleva os padrões de modernidade, qualidade e valorização imobiliária, numa das zonas com maior potencial de crescimento da região.\n\nAgende já a sua visita e descubra o seu próximo lar ou investimento. \n\nCategoria Energética: A+",
+  "geo": {
+    "lat": 41.33177,
+    "lng": -8.562
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,27 @@
   "published_at": "2026-10-30",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InN4N2gyaHd4cm56bDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.110ZXlIZ5SZg1VegXGz-WAJuoBj3utBuEFyNBzAxHhE/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InN4N2gyaHd4cm56bDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.110ZXlIZ5SZg1VegXGz-WAJuoBj3utBuEFyNBzAxHhE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9oZDhrZWtjNmtxMjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.bKS2DCX4Ex8hCbHYxyQZEQFeNYVfa6HQUOm-bkqbk1s/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InppM2tpb2VqNDNkZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.bAoiw_Ed_zm1O83ecXevATKgV_k-ws73xlSLzUT4TTU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImN3cmh0MTc2d3Y3ZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.pw7W5krSNZxEmoMxGgCAMt4KH9JmtnG_flBC-4GIU0Q/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJqazM3eXFjaWNpYS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.cV_ym9njMNj_7llUpGE-MhS0yt8T7e-T1TWqdTGiJXM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNtbmg2eXk3eDRqODMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-VOWU8IUv163mLHXqXNqGa4EVFlQOx0HNG2dzJI4uXs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhncnIyZWxwdWdjbDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qW4P4AAjBw19Gf_OmmwoIAISMq4HtpDkH2KUFYwvta0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZmODd2Z2lvdGQyNTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.sde82RD10GXUtgchOd-bWcMn9FwVRFpvXUdHwKG3rG8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlycW0zbXA1eTEzMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.1RXVy-UXUaQpQMDKzUGhUP1XsjbUqYMIdKSpodcoDeM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImwzdG13Z3ZoOTdsYTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Wp51r7NwgHp2yxPwMHL6cbEm-lYyWggvPlDdED9Bbm4/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 65.14,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-10-31"
 }

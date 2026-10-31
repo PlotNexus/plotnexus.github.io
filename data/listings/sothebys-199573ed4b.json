@@ -8,24 +8,48 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78105&foto=1571569&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78105&foto=1571569&f=1",
+  "description": "Nenhuma descrição disponível de momento.",
+  "geo": {
+    "lat": 37.01646,
+    "lng": -7.935198
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-lagoa-e-carvoeiro-lagoa-algarve_pt_78105",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78105&foto=1571569&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78105&foto=1571569&f=1"
   ],
-  "features": null,
+  "features": {
+    "Domótica": [
+      "Court Ténis",
+      "Piscina (Exterior)",
+      "Ginásio (Banho Turco, Máquinas fitness, Sauna)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Campo de Jogos, Court Ténis, Jardins, Parque Infantil)"
+    ],
+    "Exposição Solar": [
+      "Norte"
+    ],
+    "Vistas": [
+      "Campo",
+      "Jardins"
+    ],
+    "Zona": [
+      "Acessos (Porto de Mar)",
+      "Centralidade (Rural)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 8,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-10-31"
 }

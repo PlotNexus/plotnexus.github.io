@@ -8,24 +8,46 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81168&foto=1641022&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81168&foto=1641022&f=1",
+  "description": "Localizado no prestigiado empreendimento Monsanto Lofts, em Paranhos, no Porto, este elegante apartamento T1 representa uma oportunidade única de adquirir uma posição num projeto imobiliário em fase de construção. \n\nCom conclusão prevista para 2028, a propriedade está situada no segundo piso de um edifício moderno e sofisticado, concebido para cumprir os mais elevados padrões de qualidade e conforto. \n\nO apartamento tem uma área bruta de construção de 44,38 metros quadrados e uma área útil de 32,19 metros quadrados, perfeitamente distribuídos para aproveitar o espaço e garantir uma experiência de habitação contemporânea. \n\nO imóvel é servido por um elevador, que facilita o acesso ao piso, e encontra-se totalmente equipado, garantindo uma transição suave para os futuros proprietários. \n\nA localização privilegiada na Rua Monsanto, em Paranhos, coloca este imóvel num ponto estratégico, com acesso a transportes, comércio e serviços, tornando-o um investimento valioso, tanto para habitação como para aumentar o seu portefólio imobiliário. \n\nA combinação de luxo, conforto e localização central torna este apartamento uma opção singular, refletindo a exclusividade e o requinte que caracterizam o projeto Monsanto Lofts.\n\nEmbora não tenha garagem, tem acesso rápido a várias opções de estacionamento na área envolvente. Este imóvel oferece todas as vantagens de um projeto moderno no coração do Porto, representando uma excelente oportunidade de investimento com cedência de posição antes da conclusão das obras.",
+  "geo": {
+    "lat": 41.168575386736,
+    "lng": -8.61800193785762
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-paranhos-porto_pt_81168",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81168&foto=1641022&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81168&foto=1641022&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 38,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-31"
 }

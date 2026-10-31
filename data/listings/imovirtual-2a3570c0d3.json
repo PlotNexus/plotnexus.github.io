@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Braga (São Vítor), Braga",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 123,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV0djN5c3g0bjM5bzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6Jco90LCz3esRexwBVunrB3iAXlMHrLHt-whKaGwD1w/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV0djN5c3g0bjM5bzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6Jco90LCz3esRexwBVunrB3iAXlMHrLHt-whKaGwD1w/image;s=2048x1536;q=80",
+  "description": "Apartamento T3 em São Vítor, BragaApresentamos este apartamento T3, localizado em São Vítor, uma das zonas mais procuradas da cidade de Braga, pela sua centralidade e proximidade a diversos serviços e comodidades.Com áreas generosas e uma distribuição funcional dos espaços, este imóvel oferece o conforto e a versatilidade ideais para o dia a dia de uma família.Principais características:* 3 quartos;* Divisões com boas áreas;* Edifício com elevador;* Garagem;* Localização privilegiada.Situado numa zona com bons acessos, próximo de comércio, escolas, serviços e transportes públicos, permite desfrutar de todas as comodidades da vida urbana.Uma excelente oportunidade para quem procura espaço, conforto e uma localização central em Braga.",
+  "geo": {
+    "lat": 41.561073,
+    "lng": -8.408482
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,28 @@
   "published_at": "2026-10-30",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV0djN5c3g0bjM5bzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6Jco90LCz3esRexwBVunrB3iAXlMHrLHt-whKaGwD1w/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV0djN5c3g0bjM5bzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6Jco90LCz3esRexwBVunrB3iAXlMHrLHt-whKaGwD1w/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZoaWUxNTBsdGc1azItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0hhI8xigsv78KRICDu7KWth-RNwLru84vl3184KGAdk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1paXo2YTJlaGp1MjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.d4-8T9WWKl8Wf9HqG5OwZZ6lQk-oQvBCqm3tUJBICdk/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Elevador",
+      "Varanda",
+      "Cozinha independente"
+    ],
+    "Multimédia": [
+      "Internet"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 123,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1996,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-31"
 }

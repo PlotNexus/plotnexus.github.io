@@ -6,26 +6,39 @@
   "currency": "EUR",
   "location": "Duplex, Cedofeita, Porto",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79005&foto=1590435&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79005&foto=1590435&f=1",
+  "description": "O Fontinha Apartments é um exclusivo empreendimento residencial situado na prestigiada Rua da Fontinha, no coração do Porto. Com apenas 15 apartamentos distribuídos por cinco andares, este projeto distingue-se pelo seu design contemporâneo, acabamentos de elevada qualidade e pela combinação perfeita entre conforto, modernidade e localização. Com tipologias entre T0 e T2, o Fontinha Apartments representa uma oportunidade única para viver ou investir numa das zonas mais procuradas da cidade.\nOs apartamentos foram concebidos para oferecer funcionalidade, luminosidade e elegância, com áreas equilibradas e um design que privilegia o bem-estar e a harmonia dos espaços. O edifício apresenta uma arquitetura moderna e linhas sofisticadas, refletindo o estilo de vida urbano e cosmopolita do Porto. O empreendimento dispõe ainda de estacionamento e equipamentos que asseguram uma experiência residencial prática e confortável.\nA localização é um dos principais trunfos do Fontinha Lux Apartments. A poucos metros da Rua de Santa Catarina, os residentes beneficiam da proximidade a uma vasta oferta de comércio, serviços, cafés, restaurantes e centros comerciais, num dos eixos mais dinâmicos da cidade.\nO acesso facilitado a transportes públicos, como o metro e os autocarros, permite uma excelente mobilidade dentro e fora do Porto. As principais vias de comunicação estão igualmente próximas, garantindo ligações rápidas a toda a região.\nViver no Fontinha Lux Apartments é desfrutar de qualidade, conforto e exclusividade, num ambiente tranquilo, mas central, onde o ritmo urbano e a serenidade residencial coexistem em perfeita harmonia.",
+  "geo": {
+    "lat": 41.1551735,
+    "lng": -8.6229393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/duplex-cedofeita-porto_pt_79005",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=79005&foto=1590435&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=79005&foto=1590435&f=1"
   ],
-  "features": null,
+  "features": {
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Metro, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Escolas, Jardins, Serviços Públicos)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 2,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-31"
 }
