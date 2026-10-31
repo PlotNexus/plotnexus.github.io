@@ -8,24 +8,50 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81404&foto=1662473&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81404&foto=1662473&f=1",
+  "description": "Descubra este moderno apartamento T1 com varanda e lugar de garagem, inserido no prestigiado empreendimento The Urban Yard, nos Jardins da Arrábida, uma das zonas mais valorizadas e procuradas de Vila Nova de Gaia. Localizado no 2.º piso, este apartamento destaca-se pela sua funcionalidade, conforto e luminosidade natural. A área social prolonga-se para uma agradável varanda, criando um espaço perfeito para relaxar, desfrutar de momentos ao ar livre ou simplesmente aproveitar a tranquilidade do ambiente envolvente. O lugar de garagem garante toda a comodidade e segurança no dia a dia. O The Urban Yard foi concebido para proporcionar uma experiência residencial diferenciadora, reunindo um conjunto de comodidades exclusivas como espaço de coworking, lounge, zona gourmet, Kids Club, smart lockers, lavandaria e bicicletário, oferecendo um estilo de vida moderno e adaptado às necessidades atuais. A poucos minutos das praias de Gaia, da Marina do Douro, do Arrábida Shopping e das principais ligações ao Porto, beneficia ainda da proximidade da futura Linha Rubi do Metro, reforçando o potencial de valorização da zona. Uma excelente oportunidade para habitação própria ou investimento, num empreendimento que combina localização privilegiada, qualidade de construção e uma forte componente de bem-estar.",
+  "geo": {
+    "lat": 41.1311551,
+    "lng": -8.6108598
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-santa-marinha-e-sao-pedro-da-afurada-vila-nova-de-gaia_pt_81404",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81404&foto=1662473&f=1"
+    "https://mediaf3.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81404&foto=1662473&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Edifício": [
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Garagem": [
+      "Local (Cave)"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 49,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-31"
 }

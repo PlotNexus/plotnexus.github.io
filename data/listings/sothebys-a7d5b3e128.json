@@ -8,24 +8,61 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83256&foto=1691889&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83256&foto=1691889&f=1",
+  "description": "Descubra este elegante loft situado em pleno Centro Histórico do Porto. Totalmente renovado em 2018, este apartamento combina harmoniosamente o carácter da arquitetura tradicional com um design contemporâneo, proporcionando um espaço funcional, acolhedor e repleto de personalidade.\n\nCom 45 m² de área cuidadosamente otimizada e licença de alojamento local em vigor, esta propriedade representa uma excelente oportunidade tanto para investidores que procuram rentabilidade imediata como para quem deseja viver no coração da cidade.\n\nA localização é um dos seus maiores trunfos: a poucos minutos a pé da Estação de São Bento, da Avenida dos Aliados, da Praça dos Poveiros e de uma vasta oferta de comércio, restauração, cultura e transportes, permitindo desfrutar do melhor que o Porto tem para oferecer.\n\nAcresce ainda um fator diferenciador: o proprietário dispõe de uma segunda fração no mesmo edifício, permitindo a aquisição conjunta de ambas. Esta possibilidade constitui uma oportunidade particularmente atrativa para investidores, potenciando a capacidade de exploração e a rentabilidade do investimento.\n\nSe procura um imóvel com forte potencial de valorização, elevada procura turística e uma localização verdadeiramente privilegiada, esta é uma oportunidade rara no centro da cidade.",
+  "geo": {
+    "lat": 41.1460324,
+    "lng": -8.6056533
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-centro-historico-porto-porto_pt_83256",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83256&foto=1691889&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83256&foto=1691889&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Estores (Térmicos)"
+    ],
+    "Climatização": [
+      "Aquecimento Central (Completo)",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pedra Natural)",
+      "Pavimento (Granito, Pedra Natural)",
+      "Paredes (Granito, Madeira)",
+      "Tecto (Falso Pladur)"
+    ],
+    "Exposição Solar": [
+      "Norte"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Farmácia, Hospital, Jardins, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 4,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-31"
 }

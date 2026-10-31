@@ -8,24 +8,63 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76572&foto=1713904&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76572&foto=1713904&f=1",
+  "description": "Trata-se de um sofisticado e sublime apartamento T0+1, com uma harmoniosa área de 61 m2, a uma curta distância a pé da praia de Matosinhos Sul. Dispõe de licença AL, para o caso de o futuro proprietário pretender rentabilizar de imediato a fração, e obter rápido retorno do investimento inicial. Ainda como fator distintivo deste apartamento, apontamos o facto de o seu asking price incluir todo o recheio do imóvel (mobiliário, eletrodomésticos e artigos de decoração).\n\nTotalmente remodelado com o recurso aos mais elevados padrões de design e de materiais de construção, apresenta uma requintada e charmosa vivência, patente no seu conceito de cozinha em open space com a sala de jantar e de estar, podendo igualmente funcionar como working area. \n\nNo que respeita à zona privada, esta oferece um excelente quarto interior com armários embutidos, que acrescem ao já generoso espaço para arrumação proporcionado pelo armário que se estende ao longo de todo o corredor desta fração. A casa de banho é completa, dispondo de uma generosa base para duche e toalheiros aquecidos. \n\nNão podemos deixar de referir que toda a tranquilidade deste inspirador apartamento está assegurada pelo seu eficaz sistema de isolamento acústico e térmico, dispondo ainda de estores eléctricos. \n\nEsta fração está ainda totalmente mobilada e equipada, sendo que dispõe de ar condicionado, televisão com ecrã plano, cozinha equipada com forno, micro ondas, máquina de lavar louça, frigorifico e máquina de café. A lavandaria está equipada com máquina de lavar e secar a roupa, tábua e ferro de engomar. \n\nLocalizado em Matosinhos Sul, este apartamento oferece uma localização de excelência, conjugando a proximidade às praias de Matosinhos com o rápido acesso a todo o tipo de serviços e valências como restaurantes, cafés, bares, lojas comerciais, e mercados típicos. Por fim, é de destacar que também se encontra a escassos minutos do Metro, autocarros e principais acessos a toda a rede de auto - estradas. O Parque da Cidade e da sublime zona da Foz estão também a uma curta walking distance.",
+  "geo": {
+    "lat": 41.1829504833201,
+    "lng": -8.69602000793456
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/loft-matosinhos-sul-matosinhos_pt_76572",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76572&foto=1713904&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76572&foto=1713904&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio",
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (CCTV)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Escritório)",
+      "Isolamento (Acústico, Térmico)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Porto de Mar)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 1,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-31"
 }
