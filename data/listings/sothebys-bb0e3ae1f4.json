@@ -1,31 +1,34 @@
 {
   "id": "sothebys-bb0e3ae1f4",
   "title": "Apartamento, Campolide, Lisboa",
-  "type": "venda",
+  "type": "arrendamento",
   "price": 2800,
   "currency": "EUR",
   "location": "Apartamento, Campolide, Lisboa",
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66505&foto=1503252&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66505&foto=1503252&f=1",
+  "description": "Oportunidade Única no INFINITY Tower – O Marco de Luxo e Inovação em Lisboa\n\nApresentamos-lhe a oportunidade de viver no mais emblemático empreendimento arquitetónico da cidade de Lisboa: o INFINITY Tower, situado em Sete Rios/Campolide. Um ícone contemporâneo que redefine os padrões de habitação de luxo e bem-estar.\n\nEste apartamento T1 é muito mais do que uma casa – é um estilo de vida. Integrado num condomínio de excelência, onde cada detalhe foi cuidadosamente pensado para oferecer o máximo conforto e sofisticação, terá acesso a um vasto leque de comodidades exclusivas:\n\nPiscinas interior e exterior no rooftop, com vistas deslumbrantes sobre a cidade\n\nGinásios totalmente equipados e campo de padel, para manter o corpo e a mente ativos\n\nUm spa de 130m², onde o bem-estar encontra o silêncio e a harmonia\n\nEstacionamento privativo e segurança 24h\n\nJardim, zona infantil e espaços verdes, ideais para momentos em família\n\nSala de reuniões, para quem valoriza o equilíbrio entre trabalho e conforto\n\nE para completar esta experiência de vida premium, o INFINITY oferece um serviço de concierge personalizado, sempre disponível para atender às suas necessidades — desde a receção de convidados até à organização de eventos ou qualquer outro serviço que torne o seu dia mais simples e exclusivo.\n\nSe procura o apogeu da qualidade de vida, este é o momento certo. Viva onde o luxo encontra a funcionalidade, num ambiente que combina arquitetura de vanguarda com uma localização privilegiada.\n\nAgende a sua visita e descubra o seu próximo capítulo no INFINITY Tower.",
+  "geo": {
+    "lat": 38.7374,
+    "lng": -9.168382
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-campolide-lisboa_pt_66505",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=66505&foto=1503252&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=66505&foto=1503252&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 75,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-31"
 }

@@ -8,24 +8,39 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83022&foto=1694042&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83022&foto=1694042&f=1",
+  "description": "Descubra este elegante apartamento T1, inserido no conceituado edifício Aliados 107, uma das referências de excelência e exclusividade no coração da Avenida dos Aliados, no Porto. O empreendimento distingue-se pela reabilitação de um edifício histórico, aliando a sua arquitetura emblemática a acabamentos contemporâneos de elevada qualidade.\nCom áreas generosas e uma excelente exposição solar, este apartamento beneficia de abundante luz natural, proporcionando um ambiente acolhedor, confortável e sofisticado ao longo de todo o dia.\nA sua localização privilegiada permite usufruir de uma vasta oferta de comércio, restauração, serviços, transportes públicos e dos principais pontos de interesse da cidade, oferecendo um estilo de vida urbano, prático e exclusivo.\nSe procura um apartamento que combine prestígio, conforto e uma localização ímpar, esta é uma oportunidade única.",
+  "geo": {
+    "lat": 41.1551735,
+    "lng": -8.6229393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-aliados-porto_pt_83022",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83022&foto=1694042&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83022&foto=1694042&f=1"
   ],
-  "features": null,
+  "features": {
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 49,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-10-31"
 }

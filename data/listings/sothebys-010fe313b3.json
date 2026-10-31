@@ -8,24 +8,68 @@
   "bedrooms": 2,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82018&foto=1658509&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82018&foto=1658509&f=1",
+  "description": "Este magnífico apartamento T2 encontra-se no conceituado Edifício Panoramic, um condomínio fechado com segurança 24 horas por dia, com 24 pisos, com estacionamento privativo, situado no novo centro de negócios e lazer da cidade de Lisboa, na Av. Dom João II, no centro da Expo, a principal artéria desta nova e moderna zona de Lisboa. O apartamento de dois quartos dos quais um em suite, com uma vista panorâmica única sobre o Parque das Nações e o rio Tejo, foi concebido com conforto e intimidade em mente, gozando de uma arquitetura contemporânea que o torna num apartamento único para um cliente moderno e cosmopolita.\n\nO apartamento está localizado na fachada virada para sul (para o rio Tejo), encontra-se em muito bom estado de conservação, tem muita luz, conta com um lugar de garagem e uma arrecadação.\n\nVai estar disponível para entrar, a partir de 1 de Agosto de 2026.",
+  "geo": {
+    "lat": 38.7745504713041,
+    "lng": -9.09797306878663
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-parque-das-nacoes-lisboa_pt_82018",
-  "published_at": "2026-10-26",
+  "published_at": "2026-10-31",
   "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82018&foto=1658509&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82018&foto=1658509&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Termolacada",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Cerâmica)",
+      "Pavimento (Granito)",
+      "Paredes (Granito)",
+      "Tecto (Estucado)",
+      "Equipamento (Casa Recolha Lixo, TV Cabo, Zelador / Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Garagem": [
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas",
+      "Rio"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 86,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-31"
 }
