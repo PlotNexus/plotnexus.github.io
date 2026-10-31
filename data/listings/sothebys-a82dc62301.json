@@ -8,24 +8,54 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78291&foto=1600718&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78291&foto=1600718&f=1",
+  "description": "Oportunidade única.\n\nApartamento totalmente renovado em prédio Pombalino repleto de charme, apresenta duas salas - uma com uma utilização como zona de estar e a outra como sala de jantar/cozinha, quarto com uma excelente área, 1 casa de banho, muito luminoso e orientado a sul, este apartamento mantém todo o charme, traça antiga e repleto de história, tudo isto materializado em todos os detalhes, tais como, pé direito alto, tetos trabalhos, portadas e azulejos.\n \nBanhado por luz todo o dia e orientado a sul, apresenta todo o conforto de um apartamento moderno pois tem ar-condicionado, cozinha equipada e vidros duplos .\n\nCom uma localização de excelência e junto ao Rio, no coração da cidade - zona Prime, próximo do Terreiro do Paço, Cais do Sodré (com mercado da Ribeira a 'dois passos'), Chiado. Proximidade de meios de transporte - Metro, comboio para a Linha do Estoril e Barcos.",
+  "geo": {
+    "lat": 38.707561,
+    "lng": -9.1403359
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-santa-maria-maior-lisboa_pt_78291",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-30",
+  "published_at": "2026-10-30",
+  "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78291&foto=1600718&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78291&foto=1600718&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Portadas"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Revestimento Exterior (Cerâmica)",
+      "Equipamento (Gás Canalizado, TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Bons, Comboio, Metro, Porto de Rio)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Farmácia, Polícia)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 65,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B-",
+  "detail_fetched_at": "2026-10-30"
 }

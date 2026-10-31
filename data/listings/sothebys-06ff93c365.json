@@ -8,24 +8,54 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=42840&foto=800786&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=42840&foto=800786&f=1",
+  "description": "Magnífico apartamento T0 com as originais \"namoradeiras\" nas janelas, situado na mais vibrante rua de galerias de arte da cidade, uma das mais emblemáticas ruas pedonais da zona histórica da cidade do Porto onde imperam edifícios que remontam aos finais do século XVIII. Distribui-se por sala em open space com a cozinha e quarto, e casa de banho completa. Dispõe de uma frente, a nascente, e conta com ar condicionado. \nO Palácio dos Príncipes é resultado da reabilitação de um imponente edifício, preservando os aspectos arquitectónicos originais do edifício com todos os pormenores que lhe conferem um carácter único. Destacam-se os restauros dos magníficos tetos trabalhados com detalhes de autêntica \"filigrana\", os frescos na entrada do edifício, os lambris típicos dos edifícios históricos da cidade e uma imponente escadaria, juntando materiais de excelente acabamentos. O apartamento encontra-se totalmente mobilado e equipado.\nCom uma excelente localização, situado a apenas 600 metros da mais icónica avenida da cidade, a Avenida dos Aliados, encontra-se próximo de comércio local, supermercados, todo o tipo de serviços e transportes públicos, com paragem de autocarros a escassos metros e estação de metro a 10 minutos. Localiza-se a distância pedonal das principais atrações turísticas da cidade do Porto, como a Torre dos Clérigos, a Igreja do Carmo, a Livraria Lello ou o lindíssimo Passeio das Virtudes, e dotado de excelentes acessos. A Rotunda da Boavista e o Mercado do Bom Sucesso estão a uma caminhada de 18 minutos.",
+  "geo": {
+    "lat": 41.14425,
+    "lng": -8.608951
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-porto_pt_42840",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-30",
+  "published_at": "2026-10-31",
+  "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=42840&foto=800786&f=1"
+    "https://mediaf6.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=42840&foto=800786&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Portadas",
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação, Lojas)",
+      "Isolamento (Acústico, Térmico)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Zona": [
+      "Acessos (Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 47,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B-",
+  "detail_fetched_at": "2026-10-31"
 }

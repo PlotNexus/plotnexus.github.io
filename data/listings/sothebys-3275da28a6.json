@@ -8,24 +8,48 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=58640&foto=1077651&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=58640&foto=1077651&f=1",
+  "description": "Acolhedor apartamento T1, totalmente requalificado, situado numa das suas ruas mais emblemáticas da Baixa do Porto, estando atualmente a funcionar como alojamento local. A configuração do apartamento foi pensada para garantir um lifestyle repleto de sofisticação e conforto, para o qual também contribui de forma inquestionável a sua luminosidade e a sua elegante decoração. Nesse contexto, existe a possibilidade de separação entre a sala de estar e sala de jantar, ou manutenção desta área como open-space. O quarto oferece tranquilas vistas e a casa de banho encontra-se totalmente equipada.\nPossibilitando ao seu proprietário uma vivência plena de toda a envolvência histórica da cidade, esta localização oferece acesso rápido e ágil à movida comercial que caracteriza toda a sua circundante, assim como a uma vasta oferta do ponto de vista cultural, como a Rua de Santa Catarina, a Capela das Almas, o Mercado do Bolhão, a Igreja de Sto. Ildefonso, a Praça da Batalha e a Estação de S. Bento. Está igualmente próximo de transportes públicos com uma paragem de autocarros a poucos metros e estação de metro a uma caminhada de cinco minutos.",
+  "geo": {
+    "lat": 41.15282,
+    "lng": -8.603625
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-baixa-porto_pt_58640",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-30",
+  "published_at": "2026-10-31",
+  "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=58640&foto=1077651&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=58640&foto=1077651&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Escritório)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 6,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-31"
 }

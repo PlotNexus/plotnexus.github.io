@@ -8,24 +8,48 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81444&foto=1656059&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81444&foto=1656059&f=1",
+  "description": "No coração da Baixa do Porto, encontra-se este estúdio contemporâneo de 60 m², uma propriedade que combina localização privilegiada, conforto e uma experiência urbana verdadeiramente única.\n\nSituado numa das zonas mais emblemáticas e dinâmicas da cidade, o imóvel beneficia da proximidade ao Mercado do Bolhão, à Rua de Sá da Bandeira e à Estação de Metro da Trindade, permitindo desfrutar plenamente da cultura, gastronomia, comércio e serviços que tornam o centro do Porto tão especial.\n\nCom uma área invulgar para um estúdio, destaca-se pela amplitude dos espaços, excelente luminosidade natural e uma vista desafogada sobre a envolvente urbana, criando um ambiente confortável e funcional tanto para residência permanente como para investimento.\n\nLocalizado no segundo andar de um edifício equipado com dois elevadores, apresenta-se em muito bom estado de conservação, pronto a habitar, oferecendo uma solução diferenciadora para quem procura uma propriedade no centro histórico e cultural da cidade.\n\nUma oportunidade para viver ou investir numa das localizações mais valorizadas do Porto, onde a autenticidade da cidade se cruza com a conveniência de uma vida urbana contemporânea.",
+  "geo": {
+    "lat": 41.1521926474459,
+    "lng": -8.60930454207458
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-baixa-porto_pt_81444",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-30",
+  "published_at": "2026-10-31",
+  "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81444&foto=1656059&f=1"
+    "https://mediaf9.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81444&foto=1656059&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Aluminio"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 3,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-10-31"
 }

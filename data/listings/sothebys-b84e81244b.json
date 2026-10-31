@@ -8,24 +8,65 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81052&foto=1658928&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81052&foto=1658928&f=1",
+  "description": "Descubra o encanto deste sofisticado loft totalmente remodelado, situado na emblemática Rua de Breiner, em pleno coração do reconhecido Bairro das Artes, uma das zonas mais carismáticas e dinâmicas da cidade do Porto.\n\nCom um design contemporâneo, linhas modernas e uma configuração funcional, este apartamento T0 apresenta-se como uma excelente oportunidade de investimento, particularmente atrativa para exploração em alojamento local. A possibilidade de obtenção de licença de AL, aliada à elevada procura turística e residencial da zona, reforça o forte potencial de rentabilidade do imóvel.\n\nCom uma área bruta de 52 m², o loft oferece um ambiente elegante, confortável e cuidadosamente otimizado, totalmente equipado para proporcionar uma experiência urbana prática e sofisticada. Acresce ainda a mais-valia de um lugar de garagem privativo, um elemento cada vez mais valorizado no centro da cidade.\n\nA localização é verdadeiramente privilegiada: a escassos minutos do centro histórico, nas proximidades da Faculdade de Direito da Universidade do Porto e do ICBAS, e a cerca de 10 minutos dos magníficos Jardins do Palácio de Cristal, um dos espaços verdes mais emblemáticos da cidade.\n\nUma oportunidade única para investir ou viver no coração cultural e artístico do Porto, beneficiando de um estilo de vida urbano, cosmopolita e contemporâneo.",
+  "geo": {
+    "lat": 41.1536871196079,
+    "lng": -8.61851901954347
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/loft-bairro-das-artes-porto_pt_81052",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-30",
+  "published_at": "2026-10-30",
+  "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81052&foto=1658928&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81052&foto=1658928&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Escritório, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Tijolinho)",
+      "Paredes (Pedra Natural)",
+      "Tecto (Estucado)",
+      "Equipamento (TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Norte"
+    ],
+    "Garagem": [
+      "Área (m2): 15; Eletricidade",
+      "Portão Automático",
+      "Local (Cave)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Bons, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 52,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-30"
 }

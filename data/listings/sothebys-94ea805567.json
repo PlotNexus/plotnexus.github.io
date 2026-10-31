@@ -8,24 +8,44 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76982&foto=1543641&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76982&foto=1543641&f=1",
+  "description": "Localizado na freguesia de Santo Ildefonso, no coração do Porto, este empreendimento destaca-se pela sua exclusividade e localização privilegiada. Composto por apenas 10 apartamentos únicos, está inserido num edifício renovado que combina o charme histórico com conforto moderno.\nDistribuídos por cinco pisos, os apartamentos oferecem tipologias distintas, incluindo dois duplex e uma unidade com jardim e piscina privativa. O edifício dispõe de elevador e será totalmente reabilitado respeitando a traça original, mas integrando materiais e acabamentos de elevada qualidade. Cada fração beneficia de layouts funcionais, áreas bem distribuídas, casas de banho modernas e suites confortáveis.\nOs espaços exteriores são um dos grandes atrativos deste projeto. Algumas unidades contam com varandas ou terraços, e o apartamento do rés do chão oferece acesso direto a um jardim privativo com piscina, criando um refúgio tranquilo no centro da cidade. A luz natural e a sensação de amplitude foram prioridades no desenho de cada unidade.\nEm termos de localização, o empreendimento beneficia da proximidade imediata a todos os serviços essenciais: supermercados, farmácias, escolas, cafés, restaurantes e comércio local. A área é bem servida de infraestruturas, tornando possível uma vida prática e confortável, com tudo ao alcance a pé. O acesso às principais vias rodoviárias é rápido e fácil, sendo também servido por uma excelente rede de transportes públicos. A estação de metro da Trindade, uma das mais importantes da cidade, fica a poucos minutos de distância e permite ligações diretas a toda a rede urbana e ao aeroporto.\nSituado numa rua calma e bonita, a apenas 50 metros da Praça da República, o edifício localiza-se na Rua do Almada, que corre paralela à prestigiada Avenida dos Aliados. Este projeto de reabilitação deu nova vida a um edifício clássico, que agora acolhe 10 apartamentos de excelência. A combinação da arquitetura histórica com o conforto moderno, numa das zonas mais emblemáticas do Porto, torna este empreendimento uma proposta residencial e de investimento verdadeiramente distinta.",
+  "geo": {
+    "lat": 41.1551735,
+    "lng": -8.6229393
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/duplex-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-porto_pt_76982",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-30",
+  "published_at": "2026-10-30",
+  "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=76982&foto=1543641&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=76982&foto=1543641&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Equipamento (Video-Porteiro)"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Bons)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Escolas, Farmácia, Hospital, Jardins, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 54,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-10-30"
 }

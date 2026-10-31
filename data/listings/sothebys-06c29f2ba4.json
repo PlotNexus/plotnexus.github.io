@@ -8,24 +8,57 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=59297&foto=1669457&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=59297&foto=1669457&f=1",
+  "description": "Acolhedor apartamento novo T0+1 com 97.9 metros quadrados de área bruta de construção inserido em empreendimento exclusivo acabado de reabilitar, situado na Baixa do Porto. É constituído por cozinha e sala comum com um total de 19.1 metros quadrados com acesso a um fabuloso jardim de uso exclusivo com 26.4 metros quadrados., casa de banho completa e quarto. \nO empreendimento é composto por 10 apartamentos distribuídos por quatro pisos, e conta com área comum com piscina, deck-solarium, ginásio, jardins e sala de condomínio. \nEstá localizado a poucos passos da Rua de Santa Catarina com uma vasta oferta de restaurantes, cafés, concept-stores, todo o tipo de comércio, serviços, além do Shopping Via Catarina, Coliseu do Porto, Mercado do Bolhão que será reinaugurado após total reabilitação e todos os monumentos do Centro Histórico do Porto. Próximo de transportes públicos inclusivamente estações de metro e comboio a 10 minutos. Uma excelente oportunidade de investimento.",
+  "geo": {
+    "lat": 41.1546492,
+    "lng": -8.6024373
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-bonfim-porto_pt_59297",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-30",
+  "published_at": "2026-10-31",
+  "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=59297&foto=1669457&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=59297&foto=1669457&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Cave",
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Revestimento Exterior (Cerâmica, Granito)",
+      "Equipamento (Jardins, Sala Condomínio, Video-Porteiro)",
+      "Piscina (Exterior)",
+      "Ginásio (Máquinas fitness)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 9,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-10-31"
 }

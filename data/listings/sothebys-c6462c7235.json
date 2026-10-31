@@ -8,24 +8,27 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78316&foto=1604871&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78316&foto=1604871&f=1",
+  "description": "Situado no último piso de um prédio de 1971, este apartamento T1 apresenta uma oportunidade rara para quem procura um refúgio acolhedor com potencial de renovação, beneficiando de uma posição única em primeira linha de mar.\n\nCom uma área bruta privativa de 63 metros quadrados, o imóvel dispõe de uma sala de estar luminosa, um quarto confortável, uma casa de banho e uma varanda fechada que amplia o espaço interior, oferecendo uma agradável extensão para o exterior. A arrecadação na cave acrescenta funcionalidade e praticidade ao conjunto. Embora requeira obras, a propriedade oferece uma base harmoniosa que permite criar um ambiente elegante, sereno e intemporal, mantendo o carácter original do edifício.\n\nA envolvente combina conveniência e qualidade de vida, restaurantes e cafés encontram-se a apenas um minuto, supermercados a dois minutos e escolas a cinco minutos, garantindo conforto no dia a dia. A orientação solar nascente-poente proporciona luminosidade natural abundante e uma atmosfera tranquila.\n\nO acesso rápido à via principal, a apenas dois minutos, assegura ligações eficientes a toda a ilha, enquanto o hospital local se encontra a aproximadamente 10 minutos.\n\nEste apartamento distingue-se pela sua localização costeira privilegiada e pela vista direta para o mar, conferindo-lhe um carácter inspirador e único. Uma oportunidade exclusiva para viver num espaço cativante, com charme e profundamente ligado à serenidade do oceano, numa das zonas mais procuradas do Caniço.",
+  "geo": {
+    "lat": 32.6443193912229,
+    "lng": -16.8306880950927
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-canico-santa-cruz_pt_78316",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-30",
+  "published_at": "2026-10-31",
+  "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78316&foto=1604871&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78316&foto=1604871&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 63,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-10-31"
 }

@@ -8,24 +8,37 @@
   "bedrooms": 5,
   "bathrooms": 2,
   "area_m2": 180,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74060&foto=1479748&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74060&foto=1479748&f=1",
+  "description": "Conheça o Antigo Celeiro Real que foi transformado numa belíssima moradia!\nAntigamente utilizado como celeiro, este imóvel único foi convertido em habitação em 1986 e recentemente foi renovado com materiais de alta qualidade e muito bom gosto sendo transformado numa belíssima moradia.\n\nA espaçosa moradia T5 conta com 5 quartos, 2 casas de banho modernas e uma área de 180 m². A sala principal é o elemento de destaque, com seus tetos altos, uma lareira decorativa e janelas amplas que permitem a entrada abundante de luz natural, e um ambiente acolhedor e moderno.\nNo andar superior, o mezanino oferece um espaço adicional de convivência, complementado por três quartos, um escritório e várias áreas de arrumação. \n\nA cozinha moderna, completamente equipada, apresenta bancadas de pedra natural e um balcão perfeito para refeições rápidas, numa harmonia perfeita com a sala de estar e jantar. No rés-do-chão, encontram-se ainda dois quartos, incluindo um com closet, além de uma casa de banho espaçosa. A casa dispõe de ar condicionado em toda a casa, assegurando conforto em qualquer estação do ano. Orientação solar: Sul, Este e Oeste.\n\nLocalizada no coração de Azambuja, esta propriedade está a poucos passos de supermercados, escolas e da estação de comboios, que liga à estação do Oriente, em Lisboa, em apenas 35 minutos. Para quem prefere dirigir, Lisboa fica a apenas 40 minutos de carro. O passe da Área Metropolitana de Lisboa custa somente 40€/mês, tornando as deslocações práticas e econômicas. \n\nAzambuja é o refúgio ideal para escapar do ritmo acelerado do dia a dia, junto ao rio Tejo, a cidade é conhecida por suas tradições vibrantes, gastronomia e vinhos de excelência. Além disso, a região apresenta um grande potencial para investimentos em arrendamentos de alojamento local (AL), oferecendo excelentes possibilidades de retorno. \n\nVenha conhecer e apaixonar-se por esta casa que pode ser sua!",
+  "geo": {
+    "lat": 39.0690463869975,
+    "lng": -8.87008666986878
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-azambuja-azambuja_pt_74060",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-30",
+  "published_at": "2026-10-30",
+  "last_seen_at": "2026-10-31",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=74060&foto=1479748&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=74060&foto=1479748&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 180,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 180,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-10-30"
 }
