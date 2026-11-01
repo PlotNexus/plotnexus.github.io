@@ -8,24 +8,51 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83492&foto=1702060&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83492&foto=1702060&f=1",
+  "description": "Excelente apartamento T0+1 com licença ativa de Alojamento Local (AL), situado na emblemática Rua de Santa Catarina, uma das ruas mais movimentadas e valorizadas do Porto.\n\nO apartamento apresenta as áreas muito bem divididas, proporcionando conforto e privacidade. A área social é em open space, com uma sala acolhedora equipada com um sofá-cama, e uma cozinha totalmente equipada. O quarto encontra-se numa zona mais reservada, garantindo bastante privacidade e tranquilidade. O apartamento dispõe ainda de ar condicionado.\n\nInserido num edifício totalmente reabilitado, o imóvel destaca-se também pela sua excelente exposição solar proporcionando uma ótima luminosidade natural ao longo do dia.\n\nLocalizado na principal artéria comercial da cidade, beneficia de um fluxo constante de pessoas durante todo o ano, o que garante uma elevada procura turística. Encontra-se a poucos passos do Via Catarina Shopping e do histórico Café Majestic, bem como a cerca de oito minutos a pé da Estação de São Bento.\n\nEnvolvido por comércio tradicional, marcas internacionais, restaurantes, cafés, serviços e transportes públicos, este apartamento oferece uma localização verdadeiramente estratégica para exploração turística, combinando uma localização privilegiada, um edifício totalmente reabilitado e excelentes condições de luminosidade.",
+  "geo": {
+    "lat": 41.1480552,
+    "lng": -8.6063333
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-centro-historico-porto-porto_pt_83492",
-  "published_at": "2026-10-26",
+  "published_at": "2026-11-01",
   "last_seen_at": "2026-11-01",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83492&foto=1702060&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83492&foto=1702060&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 5,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-01"
 }

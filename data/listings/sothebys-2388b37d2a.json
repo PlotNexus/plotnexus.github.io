@@ -8,24 +8,48 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81190&foto=1641012&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81190&foto=1641012&f=1",
+  "description": "Apresentamos-lhe um sofisticado apartamento T1 Smart em cedência de posição, inserido no prestigiado empreendimento Sublime, localizado na freguesia de Cedofeita, no coração da cidade do Porto. \n\nEste imóvel encontra-se atualmente em construção, com previsão de conclusão para o ano de 2028, oferecendo a oportunidade de adquirir um espaço singular numa das zonas mais procuradas e dinâmicas da cidade. \n\nCom uma área bruta privativa de 35,6 metros quadrados e uma área útil de 29,05 metros quadrados, este apartamento moderno foi projetado para maximizar o conforto e a funcionalidade. \n\nA tipologia T1 Smart integra harmoniosamente um quarto, uma casa de banho e um lugar de garagem, proporcionando comodidade e praticidade ao quotidiano urbano.\n\nO edifício conta com dois elevadores, garantindo um acesso fácil e confortável ao segundo andar, onde o imóvel se encontra. \n\nA localização privilegiada na Rua Padre Alexandre oferece excelente acessibilidade a uma vasta gama de serviços, comércio e pontos de interesse cultural, além de proporcionar rápidos acessos aos principais eixos viários da cidade.\n\nA escolha por um apartamento neste empreendimento promete ser um investimento seguro numa zona em franca valorização. Não perca a oportunidade de viver ou investir num local que combina luxo, centralidade e modernidade.",
+  "geo": {
+    "lat": 41.1585338879554,
+    "lng": -8.63336772864991
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-porto_pt_81190",
-  "published_at": "2026-10-26",
+  "published_at": "2026-11-01",
   "last_seen_at": "2026-11-01",
   "images": [
-    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81190&foto=1641012&f=1"
+    "https://mediaf2.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81190&foto=1641012&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Norte"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 6,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-11-01"
 }

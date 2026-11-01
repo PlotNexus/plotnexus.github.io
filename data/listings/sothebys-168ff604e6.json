@@ -8,24 +8,45 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80100&foto=1615078&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80100&foto=1615078&f=1",
+  "description": "Encantador estúdio, com 40.97 metros quadrados de área bruta privativa, situado em novo empreendimento em Matosinhos. É composto por um quarto, sala, cozinha equipada com forno, placa, micro-ondas, máquina de lavar a louça, máquina de secar roupa, e exaustor tipo Siemens (ou equivalente), e um casa de banho completa. Tem ainda uma acolhedora varanda com 6.67 metros quadrados. O apartamento tem pré-instalação de ar condicionado e porta de segurança.\nO Oporto Metropolitano é um empreendimento residencial e urbano situado numa das localizações mais centrais e valorizadas da Área Metropolitana do Porto, junto ao NorteShopping e à Estrada da Circunvalação. Com projeto do arquiteto Pedro Guimarães, distingue-se por uma arquitetura contemporânea e sustentável, com soluções pensadas para o conforto, a eficiência energética e o bem-estar. Composto por 50 serviced apartments e 28 apartamentos habitacionais, o edifício combina funcionalidade, estética e serviços de apoio que elevam a experiência de habitar. A presença da “Grande Mercearia” — um espaço comercial diversificado com restaurante, padaria, pastelaria, florista, garrafeira, entre outros — reforça a vocação urbana do projeto, criando um ambiente dinâmico e conveniente. O Oporto Metropolitano é uma proposta diferenciadora para quem valoriza localização, qualidade de construção e um estilo de vida moderno e integrado.",
+  "geo": {
+    "lat": 41.1880292,
+    "lng": -8.6515418
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-sao-mamede-de-infesta-e-senhora-da-hora-matosinhos_pt_80100",
-  "published_at": "2026-10-26",
+  "published_at": "2026-11-01",
   "last_seen_at": "2026-11-01",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=80100&foto=1615078&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=80100&foto=1615078&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Edifício": [
+      "Isolamento (Acústico)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 97,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-01"
 }
