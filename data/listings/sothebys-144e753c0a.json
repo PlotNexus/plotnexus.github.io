@@ -8,24 +8,39 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81300&foto=1652735&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81300&foto=1652735&f=1",
+  "description": "Descubra este elegante T0 situado no Beato, numa localização privilegiada em frente ao emblemático Palácio do Grilo, uma das zonas mais autênticas e em maior valorização de Lisboa.\n\nTotalmente remodelado em 2023, este apartamento apresenta acabamentos modernos e funcionais, oferecendo um ambiente contemporâneo e confortável.\n\nO imóvel é vendido mobilado, ideal para quem procura praticidade e conforto imediato. A decoração foi cuidadosamente pensada para otimizar o espaço e criar uma atmosfera acolhedora e sofisticada. A cozinha, totalmente equipada e com divisão própria, oferece maior funcionalidade e organização no dia a dia. \n\nCom uma distribuição inteligente, este T0 destaca-se pela sua versatilidade, sendo perfeito tanto para habitação própria como para investimento. O apartamento encontra-se em bom estado geral, podendo beneficiar de pequenos trabalhos de manutenção e pintura.\n\nInserido numa zona vibrante e em constante valorização, o apartamento beneficia da proximidade ao rio Tejo, espaços culturais, restaurantes, cafés e rápidos acessos ao centro da cidade.\n\nUma excelente oportunidade para viver ou investir num dos bairros mais promissores e criativos de Lisboa.",
+  "geo": {
+    "lat": 38.7260490796279,
+    "lng": -9.11273002616667
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-beato-lisboa_pt_81300",
-  "published_at": "2026-10-26",
+  "published_at": "2026-11-01",
   "last_seen_at": "2026-11-01",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81300&foto=1652735&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81300&foto=1652735&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Exposição Solar": [
+      "Sul"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 25,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-01"
 }
