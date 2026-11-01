@@ -9,7 +9,7 @@
   "bathrooms": 3,
   "area_m2": 187,
   "image": null,
-  "description": null,
+  "description": "Fantástica moradia em início de construção, que se distingue pelas suas áreas amplas, a perfeita distribuição das suas divisões e acabamentos de excelente qualidade, design moderno com todo o conforto e comodidade, desenhada a pensar nas necessidades práticas do dia a dia. A moradia beneficia de muita luz natural em todas as divisões, tornando-a num local muito agradável e luminoso. Para mais informações, contacte um dos nossos agentes.",
   "geo": {
     "lat": 40.3878426,
     "lng": -8.1444398
@@ -19,14 +19,36 @@
     "url": "https://www.idealista.pt"
   },
   "listing_url": "https://www.idealista.pt/imovel/34756812/",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-10-29",
+  "published_at": "2026-11-01",
+  "last_seen_at": "2026-11-01",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características específicas": [
+      "Moradia independente",
+      "2 andares",
+      "187 m² construídos",
+      "T3",
+      "3 casas de banho",
+      "Lote de 469 m²",
+      "Terraço e varanda",
+      "Lugar de garagem incluído no preço",
+      "Segunda mão/bom estado",
+      "Roupeiros embutidos",
+      "Construído em 2026"
+    ],
+    "Equipamento": [
+      "Ar condicionado",
+      "Jardim"
+    ],
+    "Preço": [
+      "Preço do imóvel: 295.000 €",
+      "Preço por m²: 1.578 €/m²"
+    ]
+  },
+  "estado": "Bom estado",
   "area_util_m2": 187,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "area_bruta_m2": 187,
+  "ano_construcao": 2026,
+  "certificacao_energetica": "UNKNOWN",
+  "detail_fetched_at": "2026-11-01"
 }
