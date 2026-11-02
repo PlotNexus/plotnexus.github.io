@@ -7,7 +7,7 @@
   "location": "Rua da Vitória - Ordem  Fração C",
   "bedrooms": 3,
   "bathrooms": 2,
-  "area_m2": 162,
+  "area_m2": 162.9,
   "image": "https://images.century21.pt/13a3f442-e0ee-468c-a81c-4f863259768e/1000172093.jpg",
   "description": "$22",
   "geo": {
@@ -20,7 +20,7 @@
   },
   "listing_url": "https://www.century21.pt/ref/1746-02987",
   "published_at": "2026-10-29",
-  "last_seen_at": "2026-11-02",
+  "last_seen_at": "2026-10-29",
   "images": [
     "https://images.century21.pt/13a3f442-e0ee-468c-a81c-4f863259768e/1000172093.jpg",
     "https://images.century21.pt/d80c5d6a-7e31-416d-8030-6722bfb04eb0/1000172099.jpg",
@@ -43,11 +43,15 @@
     "https://images.century21.pt/00f51545-0fa4-4696-99f1-c7249d77fc40/1000172104.jpg",
     "https://images.century21.pt/84ee390a-9801-4759-8ade-8f14407b335b/1000172105.jpg"
   ],
-  "features": {},
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
   "estado": null,
-  "area_util_m2": 162.9,
-  "area_bruta_m2": 165,
+  "area_util_m2": 162,
+  "area_bruta_m2": 169,
   "ano_construcao": 2023,
   "certificacao_energetica": "A+",
-  "detail_fetched_at": "2026-10-29"
+  "detail_fetched_at": "2026-10-30"
 }
