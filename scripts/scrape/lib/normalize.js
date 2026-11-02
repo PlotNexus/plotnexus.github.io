@@ -41,20 +41,34 @@ export function toAbsoluteUrl(href, base) {
 }
 
 // Confirmed on real listings: a source's own API/page occasionally hands
-// back a price that's off by 1000x or more (one real case: Imovirtual's
-// totalPrice.value was 397500000 for a house actually listed at 397500€)
-// — not anything our scraping logic computed wrong, but worth guarding
-// against before publishing it. An absolute ceiling, not a price-per-m²
-// ratio: a separate, unrelated bug already in production has some
-// listings' area_m2 parsed as single digits (e.g. a whole house at
-// "6 m²") with a perfectly normal price attached, and a per-m² check
-// would reject those good listings too. The current real catalogue's
-// most expensive genuine listings (Sotheby's luxury villas) top out
-// under 10M€, so 50M€ only ever catches values that are themselves
-// absurd on their own, regardless of area. Dropping the listing (same as
-// the existing "!price" check below) beats guessing a "corrected" price
-// we have no way to actually know.
+// back a price that's off by 1000x (confirmed on imovirtual-706bdd6dd1,
+// "Trofa - Coronado": the real Imovirtual page showed 397500€, our data
+// had 397500000€ - exactly 1000x) — not anything our scraping logic
+// computed wrong. An absolute ceiling, not a price-per-m² ratio: a
+// separate, unrelated bug already in production has some listings'
+// area_m2 parsed as single digits (e.g. a whole house at "6 m²") with a
+// perfectly normal price attached, and a per-m² check would reject those
+// good listings too. The current real catalogue's most expensive
+// genuine listings (Sotheby's luxury villas) top out under 10M€, so 50M€
+// only ever flags values that are themselves absurd on their own,
+// regardless of area.
 const MAX_PLAUSIBLE_PRICE_EUR = 50_000_000;
+
+// Tried once a price trips the ceiling above: if dividing by 1000 lands
+// back under it, that's almost certainly the real price (same bug as
+// imovirtual-706bdd6dd1) and worth recovering rather than just hiding
+// the listing. A value that's still implausible after ÷1000 (e.g. a
+// placeholder number like 1234567890) isn't this bug — drop it instead
+// of publishing a "corrected" figure that's still a guess.
+function correctImplausiblePrice(id, price) {
+  const corrected = price / 1000;
+  if (corrected > 0 && corrected <= MAX_PLAUSIBLE_PRICE_EUR) {
+    console.warn(`[normalize] ${id}: preço implausível (${price}€) corrigido para ${corrected}€ (÷1000)`);
+    return corrected;
+  }
+  console.warn(`[normalize] ${id}: preço implausível (${price}€), sem correção óbvia — anúncio ignorado`);
+  return null;
+}
 
 export function normalizeListing({
   id,
@@ -76,8 +90,8 @@ export function normalizeListing({
 }) {
   if (!id || !title || !price || !listingUrl) return null;
   if (price > MAX_PLAUSIBLE_PRICE_EUR) {
-    console.warn(`[normalize] ${id}: preço implausível (${price}€) — anúncio ignorado`);
-    return null;
+    price = correctImplausiblePrice(id, price);
+    if (price == null) return null;
   }
   return {
     id,
