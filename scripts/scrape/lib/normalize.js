@@ -40,6 +40,22 @@ export function toAbsoluteUrl(href, base) {
   }
 }
 
+// Confirmed on real listings: a source's own API/page occasionally hands
+// back a price that's off by 1000x or more (one real case: Imovirtual's
+// totalPrice.value was 397500000 for a house actually listed at 397500€)
+// — not anything our scraping logic computed wrong, but worth guarding
+// against before publishing it. An absolute ceiling, not a price-per-m²
+// ratio: a separate, unrelated bug already in production has some
+// listings' area_m2 parsed as single digits (e.g. a whole house at
+// "6 m²") with a perfectly normal price attached, and a per-m² check
+// would reject those good listings too. The current real catalogue's
+// most expensive genuine listings (Sotheby's luxury villas) top out
+// under 10M€, so 50M€ only ever catches values that are themselves
+// absurd on their own, regardless of area. Dropping the listing (same as
+// the existing "!price" check below) beats guessing a "corrected" price
+// we have no way to actually know.
+const MAX_PLAUSIBLE_PRICE_EUR = 50_000_000;
+
 export function normalizeListing({
   id,
   title,
@@ -59,6 +75,10 @@ export function normalizeListing({
   publishedAt,
 }) {
   if (!id || !title || !price || !listingUrl) return null;
+  if (price > MAX_PLAUSIBLE_PRICE_EUR) {
+    console.warn(`[normalize] ${id}: preço implausível (${price}€) — anúncio ignorado`);
+    return null;
+  }
   return {
     id,
     title: title.trim(),
