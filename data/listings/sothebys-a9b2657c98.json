@@ -8,24 +8,39 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 87,
-  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82982&foto=1688120&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82982&foto=1688120&f=1",
+  "description": "Moradia recentemente construída de raiz, situada numa das zonas mais charmosas, exclusivas e procuradas de Cascais.\n\nLocalizada no coração do Centro Histórico, oferece uma experiência de vida verdadeiramente pedonal, com comércio tradicional, restaurantes, cafés, supermercados, escolas, transportes e todos os serviços essenciais a poucos passos de distância. A Baía de Cascais, as praias, a Marina e a estação de comboios encontram-se igualmente a uma curta distância, proporcionando uma localização privilegiada para quem valoriza a conveniência de viver no centro, sem abdicar da tranquilidade e da qualidade de vida.\n\nDistribuída por dois pisos, a moradia apresenta, no piso térreo, uma ampla e luminosa sala de estar e jantar, com acesso direto a um agradável jardim privativo, uma cozinha totalmente equipada e uma casa de banho de apoio.\n\nNo piso superior encontra-se a zona privada, composta por três quartos, um dos quais em suíte, e uma segunda casa de banho completa de apoio aos restantes dois quartos.\n\nUma oportunidade verdadeiramente rara para viver numa moradia nova, com jardim privativo e uma localização excecional, no coração de Cascais.",
+  "geo": {
+    "lat": 38.6985737,
+    "lng": -9.4263782
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-centro-historico-cascais_pt_82982",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-11-01",
+  "published_at": "2026-11-02",
+  "last_seen_at": "2026-11-02",
   "images": [
-    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=82982&foto=1688120&f=1"
+    "https://mediaf0.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=82982&foto=1688120&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Porto de Mar, Porto de Rio, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
   "area_util_m2": 87,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 87,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-02"
 }
