@@ -1,0 +1,65 @@
+name: CASA SAPO backup scrape
+
+# Infrequent, GitHub-Actions-only cross-check for CASA SAPO — see the
+# comment at the top of scripts/scrape/run-casasapo-backup.js for why it
+# was pulled out of the regular scrape.yml rotation (429s on every request
+# from GitHub Actions' IPs) and why it still runs here occasionally
+# instead of being dropped outright like RE/MAX: the Pi covers this source
+# nightly, and this workflow just confirms GitHub Actions' own view still
+# roughly matches what the Pi has been collecting, in case the IP block
+# ever lifts or something drifts.
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "30 4 1,15 * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-listings
+  cancel-in-progress: false
+
+jobs:
+  backup-scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install scraper dependencies
+        working-directory: scripts/scrape
+        run: npm ci
+
+      - name: Scrape CASA SAPO (backup run)
+        working-directory: scripts/scrape
+        run: node run-casasapo-backup.js
+
+      - name: Commit updated listings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            git add data/listings.json data/listings/ sitemap.xml
+            if git diff --cached --quiet; then
+              echo "No changes to commit"
+              break
+            fi
+            git commit -m "chore: update listings (CASA SAPO backup run) [skip ci]"
+            if git push; then
+              break
+            fi
+            if [ "$attempt" = "3" ]; then
+              echo "::error::Push failed after $attempt attempts"
+              exit 1
+            fi
+            echo "Push rejected (attempt $attempt) — re-syncing to latest main and retrying"
+            git fetch origin main
+            git reset origin/main
+          done

@@ -2,12 +2,6 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import {
-  scrapeCasaSapo,
-  fetchListingDetail as fetchCasaSapoDetail,
-  DISTRICTS_FULL as CASASAPO_DISTRICTS,
-  DETAIL_FETCH_DELAY_MS as CASASAPO_DETAIL_DELAY_MS,
-} from "./sources/casaSapo.js";
-import {
   scrapeImovirtual,
   fetchListingDetail as fetchImovirtualDetail,
   DISTRICTS_FULL as IMOVIRTUAL_DISTRICTS,
@@ -91,14 +85,17 @@ function timeBudgetExceeded() {
 // from its search API; confirmed the identical request works fine from a
 // residential connection). Moved to run-remax-manual.js, folded into
 // run-full-scrape.bat.
+//
+// CASA SAPO isn't registered here either anymore — confirmed via a real
+// run's logs (2026-11-03) that it now 429s on every single request from
+// GitHub Actions' IPs, exhausting all retries ("continua a responder 429
+// depois de 4 tentativas"), while the exact same scraper works fine from
+// the Pi's residential connection (see run-dietpi-scrape.sh, which still
+// covers this source nightly via index.js). Rather than drop it
+// entirely like RE/MAX, it keeps a once/twice-a-month run here too, as a
+// backup/cross-check against what the Pi has been collecting — see
+// run-casasapo-backup.js and casasapo-backup.yml.
 const SOURCES = [
-  {
-    name: "casasapo",
-    districts: CASASAPO_DISTRICTS,
-    scrape: scrapeCasaSapo,
-    fetchDetail: fetchCasaSapoDetail,
-    detailDelayMs: CASASAPO_DETAIL_DELAY_MS,
-  },
   {
     name: "imovirtual",
     districts: IMOVIRTUAL_DISTRICTS,
