@@ -8,24 +8,66 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78720&foto=1594727&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78720&foto=1594727&f=1",
+  "description": "Apartamento novo e totalmente mobilado, em elegante prédio de traça tradicional portuense com elevador, totalmente reconstruído em 2025, situado na freguesia no Bonfim, na linha de divisão com a freguesia de Cedofeita. \nO apartamento tem materiais de boa qualidade, com ar condicionado de baixo consumo linha inverter, com localização próxima a todo género de comércio e serviços. Situado em localização premium e com características únicas, esta fracção pode servir como fonte de rendimento imediato, no mercado de alojamento local, conseguindo uma excelente rentabilidade a médio e longo prazo.",
+  "geo": {
+    "lat": 41.1492537637,
+    "lng": -8.5972309112
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-bonfim-porto_pt_78720",
-  "published_at": "2026-10-26",
+  "published_at": "2026-11-03",
   "last_seen_at": "2026-11-03",
   "images": [
-    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=78720&foto=1594727&f=1"
+    "https://mediaf7.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=78720&foto=1594727&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 5"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Termolacada",
+      "Vidro Duplo",
+      "Estores (PVC)"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Video-Porteiro"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Tijolinho)",
+      "Pavimento (Granito, Mármore)",
+      "Paredes (Pintadas)",
+      "Tecto (Falso Pladur)",
+      "Equipamento (Gás Canalizado, TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Sul"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Praias, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 64,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B-",
+  "detail_fetched_at": "2026-11-03"
 }
