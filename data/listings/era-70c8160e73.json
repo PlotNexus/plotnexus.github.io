@@ -8,8 +8,8 @@
   "bedrooms": 5,
   "bathrooms": 2,
   "area_m2": 134,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t5-lisboa-alvalade_13_1_1586120_19373472_2_1_64R5Ta6ARGx2XhxX9kNDP2Q8e4FFLQ2fr%2bxaSbphvirEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t5-lisboa-alvalade_14_1_1586120_19373472_2_1_64R5Ta6ARGx2XhxX9kNDP2Q8e4FFLQ2fr%2bxaSbphvirEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Apartamento T5 situado na Avenida Almirante Gago Coutinho, uma localização privilegiada, que combina centralidade, acessibilidade e qualidade de vida.\nDispõe de uma agradável varanda e está inserido num prédio com logradouro, proporcionando um espaço exterior adicional.\nÉ uma excelente oportunidade para quem procura viver numa localização de referência, com proximidade a comércio, serviços e transportes, bem como às principais vias de acesso da cidade.",
   "geo": {
     "lat": 38.74773,
     "lng": -9.131373
@@ -22,13 +22,36 @@
   "published_at": "2026-11-03",
   "last_seen_at": "2026-11-03",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t5-lisboa-alvalade_13_1_1586120_19373472_2_1_64R5Ta6ARGx2XhxX9kNDP2Q8e4FFLQ2fr%2bxaSbphvirEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t5-lisboa-alvalade_14_1_1586120_19373472_2_1_64R5Ta6ARGx2XhxX9kNDP2Q8e4FFLQ2fr%2bxaSbphvirEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Usado",
+      "Área Bruta: 149,28"
+    ],
+    "Geral": [
+      "Nº Frentes: 2",
+      "Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Edifício": [
+      "Tipo Empreendimento: Habitação"
+    ],
+    "Exposição Solar": [
+      "Nascente, Poente"
+    ],
+    "Zona": [
+      "Acessos: Aeroporto, Auto-Estrada, Bons, Metro, Transportes Púb.",
+      "Centralidade: Centro da Cidade",
+      "Proximidade: Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 134,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 149,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-03"
 }
