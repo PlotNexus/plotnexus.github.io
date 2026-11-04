@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 67.4,
   "image": "https://images.century21.pt/b761c20e-d50d-49cb-b305-2ec8cf122c64/OST1HR.jpg",
-  "description": null,
+  "description": "$1f",
   "geo": {
     "lat": 41.2745244,
     "lng": -8.3902972
@@ -20,15 +20,44 @@
   },
   "listing_url": "https://www.century21.pt/ref/C0364-06538",
   "published_at": "2026-11-03",
-  "last_seen_at": "2026-11-03",
+  "last_seen_at": "2026-11-04",
   "images": [
-    "https://images.century21.pt/b761c20e-d50d-49cb-b305-2ec8cf122c64/OST1HR.jpg"
+    "https://images.century21.pt/b761c20e-d50d-49cb-b305-2ec8cf122c64/OST1HR.jpg",
+    "https://images.century21.pt/c4cce873-c56c-4c6e-9b94-70d315536b50/Aerial4HR.jpeg",
+    "https://images.century21.pt/8a73b84a-9b95-4513-9211-b6d57e7ee41c/Street3HR.jpeg",
+    "https://images.century21.pt/209d1658-30d7-4097-a0d6-71d2c299fbfb/CoberturalAerialHR.jpg",
+    "https://images.century21.pt/7dc4033c-1e40-45ef-9435-9a4e894fe205/InteriorT1view2HR.jpeg",
+    "https://images.century21.pt/ea83c6e1-a5ce-4738-8608-54ac3ed87338/InteriorBedroom2HR.jpeg",
+    "https://images.century21.pt/7288be74-341c-4054-8383-2da6a39f28d5/ISHR.jpg",
+    "https://images.century21.pt/e1a327b2-605f-4fbf-bdab-6fe9b17891c8/Planta1HR.jpeg"
   ],
-  "features": null,
+  "features": {
+    "Características": [
+      "Varandas",
+      "Piscina comum",
+      "Elevador",
+      "Exaustor",
+      "Garagem",
+      "Jardim",
+      "Condomínio fechado",
+      "Boa exposição solar",
+      "Ginásio",
+      "Perto de comodidades",
+      "Perto de uma zona comercial",
+      "Perto de uma bomba de gasolina",
+      "Perto de espaços verdes",
+      "Perto de uma autoestrada",
+      "Perto de uma farmácia",
+      "Forno",
+      "Pátio",
+      "Fogão",
+      "Terraço"
+    ]
+  },
   "estado": null,
   "area_util_m2": 67.4,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "area_bruta_m2": 67.4,
+  "ano_construcao": 2029,
+  "certificacao_energetica": "IN_PROCESS",
+  "detail_fetched_at": "2026-11-03"
 }

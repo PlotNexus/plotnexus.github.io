@@ -8,24 +8,27 @@
   "bedrooms": 3,
   "bathrooms": 3,
   "area_m2": 265,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84601&foto=1723465&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84601&foto=1723465&f=1",
+  "description": "Situada no Caniço, no concelho de Santa Cruz, esta moradia de arquitetura contemporânea encontra-se atualmente em construção e distingue-se pela combinação entre funcionalidade, conforto e uma localização que privilegia a tranquilidade, sem prescindir da proximidade a serviços e bons acessos.\n\nDistribuída por três pisos, a propriedade apresenta uma área bruta de construção de 265 metros quadrados, cuidadosamente concebida para proporcionar espaços amplos e uma vivência familiar confortável. Conta com três quartos e três casas de banho, oferecendo uma distribuição funcional e adaptada às necessidades do quotidiano.\n\nNo exterior, dispõe de um jardim privativo, terraço e varanda, criando diferentes espaços de convívio e lazer. A moradia beneficia ainda de uma garagem individual com capacidade para dois automóveis e uma cave, que acrescenta espaço de arrumação.\n\nCom conclusão prevista para 2027, esta propriedade representa uma oportunidade de adquirir uma moradia contemporânea numa zona residencial do Caniço, ideal para quem procura conciliar privacidade, conforto e proximidade às principais comodidades.",
+  "geo": {
+    "lat": 32.6576792757286,
+    "lng": -16.82476490736
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-geminada-canico-santa-cruz_pt_84601",
-  "published_at": "2026-11-03",
-  "last_seen_at": "2026-11-03",
+  "published_at": "2026-11-04",
+  "last_seen_at": "2026-11-04",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84601&foto=1723465&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84601&foto=1723465&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 265,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 265,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-04"
 }

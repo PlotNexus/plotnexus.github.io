@@ -8,24 +8,27 @@
   "bedrooms": 4,
   "bathrooms": 4,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63716&foto=1504138&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63716&foto=1504138&f=1",
+  "description": "Moradia moderna, localizada na vila do Paúl do Mar, na Calheta. Oferece o conforto e a privacidade ideais para uma vida tranquila e luxuosa, destacando-se pelo seu estilo arquitetónico contemporâneo e excelente qualidade de construção.\nÉ composta por quatro quartos de dormir, incluindo duas suítes, e quatro casas de banho. O piso térreo conta com uma espaçosa sala de estar, uma cozinha totalmente equipada, uma lavandaria e um quarto principal em suite, além de dois quartos adicionais com uma casa de banho compartilhada. No exterior, a zona de convívio inclui zonas verdes, uma churrasqueira e uma piscina com uma deslumbrante vista para o Atlântico. O primeiro piso inclui outra suíte completa com uma varanda privativa, ambas com vista desafogada e panorâmica sobre o mar. O piso inferior destina-se à garagem e a arrumos.\nA moradia encontra-se em fase de construção e terá uma área bruta privativa de 250 metros quadrados. Com excelente exposição solar, a moradia destaca-se pela sua luminosidade e proximidade ao mar. \nAdicionalmente, a localização estratégica da moradia permite aceder facilmente aos bens e serviços essenciais e às principais estradas, garantindo assim conveniência e acessibilidade aos seus residentes.",
+  "geo": {
+    "lat": 32.7575545188127,
+    "lng": -17.2277480363846
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/moradia-isolada-paul-do-mar-calheta-madeira_pt_63716",
-  "published_at": "2026-11-03",
-  "last_seen_at": "2026-11-03",
+  "published_at": "2026-11-04",
+  "last_seen_at": "2026-11-04",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=63716&foto=1504138&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=63716&foto=1504138&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
-  "area_bruta_m2": null,
+  "area_util_m2": 250,
+  "area_bruta_m2": 500,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-04"
 }
