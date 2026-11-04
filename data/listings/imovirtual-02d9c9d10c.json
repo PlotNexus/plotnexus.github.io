@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Caia, São Pedro e Alcáçova, Elvas, Portalegre",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 90,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjVlbDIxZDl0OGxrZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.cKbQiL1MEve7B1ExChkzWLCGsM98CWAYEy31zB-Ti-c/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjVlbDIxZDl0OGxrZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.cKbQiL1MEve7B1ExChkzWLCGsM98CWAYEy31zB-Ti-c/image;s=2048x1536;q=80",
+  "description": "Alugo Apartamento T2 em Elvas, 1º Andar Drto., situado na Avenida Principal do Bairro da Boa Fé, muito bem localizado, próximo de Escolas (Primária e Secundária).\n\nO Imóvel têm 90 m2 e é constituído por Kitchenette equipada com eletrodomésticos, inserida em Sala comum, WC completa, 2 Quartos e Sala independente que se pode transformar num 3 quarto, tudo mobilado com mobílias de qualidade\n\nTodo o Imóvel foi restaurado ao mais ínfimo pormenor, com esgotos, eletricidade, portas interiores de madeira, pavimentos, paredes e tetos rebocados, estando de momento em estado renovado.\n\nNão têm qualquer tipo de despesas de condomínios ou outras e possui parqueamento inserido em logradouro comum ou à porta.\n\nPossui também um grande Quintal fechado, com zona de construção antiga e árvores de fruto com área de 120 m2, nas traseiras do Imóvel.\n\nData provável de entrada: 1 de Dezembro.\n\nInformações sobre vistas ao Imóvel e outros pormenores apenas por MP.",
+  "geo": {
+    "lat": 38.89605,
+    "lng": -7.17231
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,24 @@
   "published_at": "2026-11-03",
   "last_seen_at": "2026-11-04",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjVlbDIxZDl0OGxrZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.cKbQiL1MEve7B1ExChkzWLCGsM98CWAYEy31zB-Ti-c/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjVlbDIxZDl0OGxrZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.cKbQiL1MEve7B1ExChkzWLCGsM98CWAYEy31zB-Ti-c/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw0NmNsMDViM3Z3cDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Qun3uHhYVt1VJl8y9_EwOtuh_cWccYoYssTikjgpsnI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InYxcDIweDFrYzExbDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rKJO_prLhoJLzH4_GA-pvh6MEBCfKzh2g8wNllFxSWU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InB2Yjc3dmEweTAwMzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.J5zbe1k5sqM5G7Fb9CRvZLPbvKcBz4rCi9GmwRNkjDs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNtaDFteDRpM2U1dTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Rjrq2VFXIwsWkKMVCmFLDBnnKvCI2TZTb-KT4t_MFLM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImF5eG9qNXRjZmE4Ny1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.b-x1zPxRTOo_tl29tMf4twm2EaOrwPqDb2KwAhqGKIg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhsdmdvbHZnbGpwai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.oLSciURtjwP9xKD5YQQsDAVoXhhwFUBA393OHccpCnQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBlejczM3NhMWxsaDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7Z33VjcQUl2is61-M6aGvzPLd5ZVIeesVMQuk-EogYQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw4dnIzampkYmVvbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.R2wzYM4P5nVDvtrolxZcG_Zl05vsUk6wt9lklL2fBYw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdlZzA3ZzJqNmQxcTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-uqutnWb-SKZjULflGmsLVpUL2SPhhDOc5BK3yKaNco/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InI3anRvZG1vMGZiejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.aVkYSxD-a7-2EJySuOqOtyZjPIR-GDt2CnFudJ-iYAI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImgzYTlwNzRjZ3hsai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.56fR2Qu4O20CBBzJ8zdyKLJ6VsEI1G3NGk6oCimxncA/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 90,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-04"
 }

@@ -8,24 +8,62 @@
   "bedrooms": 1,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81392&foto=1659008&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81392&foto=1659008&f=1",
+  "description": "Descubra um verdadeiro refúgio urbano no coração do centro histórico do Porto. Este elegante apartamento T1, situado na prestigiada Rua do Almada, a poucos passos da dinâmica Praça da República, oferece uma harmoniosa combinação entre modernidade, conforto e o charme característico da cidade.\n\nRecentemente renovado, o imóvel destaca-se pelos seus acabamentos cuidados e pela cozinha totalmente equipada com eletrodomésticos de elevada qualidade, ideal para quem privilegia um estilo de vida citadino sofisticado e funcional.\n\nLocalizado no 4.º piso de um edifício bem conservado, servido por dois elevadores, o apartamento é vendido totalmente mobilado, proporcionando uma solução prática e confortável, especialmente adequada para jovens profissionais ou para quem procura viver no centro nevrálgico da cidade.\n\nA sua localização privilegiada permite usufruir de toda a autenticidade e vitalidade do Porto, encontrando-se a apenas cinco minutos da emblemática Avenida dos Aliados e a três minutos da estação de metro da Trindade. A proximidade a uma vasta oferta de restaurantes de referência, bares, teatros e espaços culturais reforça o caráter exclusivo e cosmopolita desta propriedade.\n\nUma oportunidade única para viver o verdadeiro pulsar da cidade do Porto, com elegância e conveniência.",
+  "geo": {
+    "lat": 41.154317219759,
+    "lng": -8.6126181597107
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-centro-historico-porto-porto_pt_81392",
-  "published_at": "2026-10-26",
+  "published_at": "2026-11-04",
   "last_seen_at": "2026-11-04",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=81392&foto=1659008&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=81392&foto=1659008&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1; Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (PVC)"
+    ],
+    "Climatização": [
+      "Esquentador",
+      "Ar Condicionado (Pré-Instalação)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Pastilha)",
+      "Paredes (Pedra Natural)",
+      "Tecto (Estucado)",
+      "Equipamento (TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Nascente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Bons, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 7,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-04"
 }

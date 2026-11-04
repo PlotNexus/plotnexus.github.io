@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Oliveira do Douro, Vila Nova de Gaia, Porto",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 100,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5wb2x5N3RrcGlhaTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Go8aCI9FI3MDJa9CkoPC7m-Tg6JXPgdo9mdZE-_a-zM/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5wb2x5N3RrcGlhaTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Go8aCI9FI3MDJa9CkoPC7m-Tg6JXPgdo9mdZE-_a-zM/image;s=2048x1536;q=80",
+  "description": "Gaia Premium.\n\nOliveira do Douro.\n\nApartamento T3 com garagem.\n\nApartamento T3 situado no 1º andar do Bloco B do empreendimento Gaia Premium, em Oliveira do Douro, Vila Nova de Gaia, próximo do Parque da Lavandeira.\n\nInserido num condomínio fechado com jardim e campo de padel, oferece conforto e funcionalidade, numa localização com bons acessos e proximidade a comércio, serviços e transportes.\n\nDispõe de cozinha equipada, ar condicionado multisplit, bomba de calor para aquecimento de águas, caixilharia com vidro duplo, videoporteiro e porta de segurança.\n\nInclui garagem.\n\nConclusão da construção prevista para o primeiro semestre de 2029.\n\nContacte-nos para conhecer a planta, o preço e as condições de aquisição.\n\nAs imagens apresentadas são representações tridimensionais de caráter meramente ilustrativo e poderão não corresponder integralmente ao resultado final.\n\nAs áreas e restantes informações estão sujeitas a confirmação através da documentação comercial e contratual do empreendimento.\n\n“Quer comprar, mas primeiro tem de vender? Eu posso ajudar!”\n\nHB - Grupo Habinédita\n\n_\n\nCom 30 anos de história, a nossa marca está presente em 3 mercados estratégicos, com lojas abertas ao público:  Porto (2 lojas), Gondomar e São João da Madeira.\n\nAo escolher fazer negócio com o GRUPO HABINÉDITA, vai perceber que:\n\n- Terá um agente devidamente formado, ativo e identificado com o produto;\n\n- Terá uma empresa interessada em fazer o melhor negócio para todas as partes;\n\n- Terá parceiros financeiros que encontrarão a melhor solução para a sua nova casa;\n\nCom uma estrutura composta por pessoas ativas e devidamente formadas para as diversas funções, a equipa do GRUPO HABINÉDITA trata de todos os processos como se fossem o primeiro! Nada pode falhar nesta parceria e como tal todos os cuidados são poucos.\n\nRELAÇÃO: esta parceria terá de ter uma base sólida… CONFIANÇA. Vamos comunicar muito. Vamos entender o que procura. Vamos, certamente, perceber as suas expectativas. Vamos estar sempre consigo!\n\nBUROCRACIA: esqueça! A equipa do GRUPO HABINÉDITA trata de tudo por si. Temos na equipa uma advogada e uma Diretora Processual, 100% disponíveis para tratar de toda a documentação. Todos os nossos processos são estudados ao pormenor para que a FELICIDADE máxima seja atingida com TRANQUILIDADE, no dia da escritura!\n\nESCRITURA: Seja proprietário ou comprador…esqueça as preocupações de todo o processo. O SONHO está prestes a tornar-se em REALIDADE e tudo vai correr na PERFEIÇÃO!",
+  "geo": {
+    "lat": 41.1318,
+    "lng": -8.587532
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,40 @@
   "published_at": "2026-11-03",
   "last_seen_at": "2026-11-04",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5wb2x5N3RrcGlhaTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Go8aCI9FI3MDJa9CkoPC7m-Tg6JXPgdo9mdZE-_a-zM/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5wb2x5N3RrcGlhaTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Go8aCI9FI3MDJa9CkoPC7m-Tg6JXPgdo9mdZE-_a-zM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNwMjVxdXU3Z3R3YS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.ErO8tURrfuwnOBydXKX5tkkJT9amGel7LVOx6gIlgbU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNoMjY3Znp3am43dC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.-qDjH36muluqMWyVMvv_poMge7CDvur2WfBtY9rZc8s/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InN5Nmc1N202ZHJjbTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.KYlLx8O0aNgfGAvneGpYA2XDInuaLNaknAowycB4thc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJ6dXgzYmY3ZGc0Zy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.ivKshvGlWaLEBwFGsaFmZSlQ9l_A5k5QSqZOOgjmWGc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inoxbzh0NHQ3ZXN3dDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jxhCXiTfWcddEsCgbV0kL806_h2azUsMCQwvH5QRnUg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImcwazM4ZHd5NGZmczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ink8yPOW-J6_ffGTs5Ila0TZbXzAtzSzur6HH-JecN8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InUwbjRtbHhuM29ldi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.L2_Xjig-brkjyAbY7-m5BXEmbbGfnTQPWbrwVszjRJM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNmazg3dnV6M2wzLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.V9oxr8HBc1zjeJAstE_qVH0_HQt3SDu_OYsuxTVkf7I/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imx5NWtqZ2E3ZDdxZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.sJU_NEdVW4zOuMMChcHZfXCRby3zy7oO2b-dgRfG7K0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1mbG44Z3piaWY0ODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.45lHHp0b-w6dP9FPdlLh-pGvV40mZP-MZHLbSZiQT5g/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImM2eXlsMXlod3FuZi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.24Da_nZvZTWo7a4SqrZO3GOzN1rw2RGM6YM7c0paUxM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImljNjM4ZXhwZWJqYjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Q4WkAvbLSCORdtM2799PZlQyYHFsxwTLrqpRdM1iBZU/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Elevador"
+    ],
+    "Equipamento": [
+      "Frigorífico",
+      "Forno"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 100,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-04"
 }
