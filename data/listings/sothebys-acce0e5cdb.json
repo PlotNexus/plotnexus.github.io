@@ -8,24 +8,27 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83427&foto=1695288&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83427&foto=1695288&f=1",
+  "description": "Localizado na Rua de S. Gens, em Matosinhos, o GRID 2891 é um empreendimento novo composto por 18 apartamentos de tipologia T0 e uma fração comercial, distribuídos por cinco pisos. Numa zona residencial tranquila, a poucos minutos do centro do Porto, o empreendimento conjuga design contemporâneo com uma localização estratégica, junto a acessos, transportes e comércio.\n\nAs frações T0 apresentam áreas entre os 35 e os 40 m², havendo unidades no piso térreo com jardim privativo, até 113 m². A fachada, marcada pela alternância entre painéis em madeira e um revestimento cerâmico vazado, resulta num desenho ortogonal que privilegia a luminosidade natural nos interiores. O edifício integra painéis fotovoltaicos, bomba de calor para águas quentes sanitárias e reforço do isolamento térmico e acústico entre frações.\n\nA proximidade à futura estação de metro de São Gens, à estação de Sete Bicas, à autoestrada A28 e ao Aeroporto Francisco Sá Carneiro, a cerca de 10 minutos de carro, garante uma mobilidade eficiente. Nas redondezas encontram-se estabelecimentos de ensino como o Colégio Efanor, a ESAD e a Porto Business School, além de espaços comerciais como o NorteShopping e o MAR Shopping.\n\nA qualidade de vida em Matosinhos passa também pela proximidade ao mar: as praias de Matosinhos e do Homem do Leme, o Parque do Carriçal e o Parque da Cidade do Porto ficam a curta distância, tal como o Museu de Serralves e a Foz do Douro. Com a sua tradição marítima e uma oferta cultural diversificada, entre a Casa da Arquitectura e o Mercado Municipal, Matosinhos une o ritmo urbano à proximidade ao Atlântico, tornando o GRID 2891 numa oportunidade de investimento ou habitação num contexto urbano consolidado.",
+  "geo": {
+    "lat": 41.1880292,
+    "lng": -8.6515418
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-sao-mamede-de-infesta-e-senhora-da-hora-matosinhos_pt_83427",
-  "published_at": "2026-10-26",
-  "last_seen_at": "2026-11-04",
+  "published_at": "2026-11-05",
+  "last_seen_at": "2026-11-05",
   "images": [
-    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83427&foto=1695288&f=1"
+    "https://mediaf8.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83427&foto=1695288&f=1"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 38,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-11-05"
 }
