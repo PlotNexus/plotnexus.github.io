@@ -8,24 +8,40 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=41493&foto=773821&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=41493&foto=773821&f=1",
+  "description": "Com uma vista única sobre o rio Tejo e uma piscina comum no rooftop, este moderno apartamento proporciona conforto,luxo e elegância aos seus habitantes. oferece uma área bruta privativa de 168 metros quadrados. A sala conta com 70 m2 e desfruta de uma varanda de 9 m2 com vista, virada a sul, perfeita para desfrutar do clima ameno e do sol de Portugal. Com três quartos, sendo um em suite com 20 m2 e dois quartos de 15 m2 cada um. A cozinha é moderna e equipada, com cesso também ao maravilhoso espaço exterior. Beneficia de 4 lugares de estacionamento em box e uma arrecadação na cave. \nCom uma excelente exposição solar foi construído num ambiente de bom gosto e com avaliação de alta qualidade. A piscina no rooftop, oferece assim um área de lazer e relaxamento onde se poderá disfrutar da vista e do Sol. \nA localização privilegiada na principal rua de Algés é um dos principais atrativos deste imóvel. Situado a apenas 1 minuto da marginal e da CRIL, e a 5 minutos da A5, garante uma excelente ligação às principais vias para Lisboa e Cascais. Além disso, encontra-se a apenas 1 minuto da estação de comboios, facilitando deslocações pela cidade e arredores.\nA proximidade a uma variedade de serviços, como excelentes restaurantes e supermercados, é uma mais-valia deste local, proporcionando conveniência no dia a dia. Com o Hospital São Francisco Xavier a apenas 5 minutos de distância, a segurança e o acesso à saúde são garantidos. Escolas também estão facilmente acessíveis, como o Colégio Espanhol, a apenas 5 minutos de carro.\nEste apartamento oferece o equilíbrio perfeito entre conforto, localização e qualidade de vida, sendo uma excelente opção para quem procura um lar bem localizado e com todas as comodidades necessárias. Agende já a sua visita e não perca esta oportunidade única!",
+  "geo": {
+    "lat": 38.7224,
+    "lng": -9.150075
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-alges-oeiras_pt_41493",
-  "published_at": "2026-10-26",
+  "published_at": "2026-11-05",
   "last_seen_at": "2026-11-05",
   "images": [
-    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=41493&foto=773821&f=1"
+    "https://mediaf1.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=41493&foto=773821&f=1"
   ],
-  "features": null,
+  "features": {
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Piscina (Exterior)"
+    ],
+    "Garagem": [
+      "Portão Automático"
+    ],
+    "Zona": [
+      "Acessos (Comboio)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 168,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-05"
 }

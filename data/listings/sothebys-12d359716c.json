@@ -8,24 +8,64 @@
   "bedrooms": null,
   "bathrooms": 1,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84554&foto=1726404&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84554&foto=1726404&f=1",
+  "description": "Descubra o coração pulsante do Porto com este loft exclusivo, localizado na emblemática e central Rua do Almada. \n\nCom uma remodelação recente, em 2019, este apartamento T0 é uma excelente oportunidade de investimento, estando pronto a ser explorado, com licença de alojamento local já atribuída. \n\nMeticulosamente projetado para maximizar o espaço e o conforto, o imóvel é uma solução completamente equipada e mobilada, ideal para quem procura um refúgio urbano ou uma exploração turística rentável. O edifício tem elevador, proporcionando comodidade adicional.\n\nA sua localização privilegiada coloca-o a um passo das principais atrações turísticas, permitindo-lhe usufruir plenamente da vibrante Baixa do Porto. \n\nMais do que uma residência, este imóvel é uma experiência de vida no centro histórico que combina autenticidade e modernidade. Seja para investir ou para habitar, este loft é a essência do estilo citadino com alma portuense.",
+  "geo": {
+    "lat": 41.1518513861196,
+    "lng": -8.60998848675537
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/loft-baixa-porto_pt_84554",
-  "published_at": "2026-11-04",
+  "published_at": "2026-11-05",
   "last_seen_at": "2026-11-05",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84554&foto=1726404&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84554&foto=1726404&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "Vidro Duplo",
+      "Estores (Eléctricos)"
+    ],
+    "Climatização": [
+      "Cilindro Eléctrico",
+      "Aquecimento Central (Pré-Instalação)",
+      "Ar Condicionado (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Revestimento Exterior (Granito)",
+      "Pavimento (Granito)",
+      "Paredes (Pedra Natural)",
+      "Tecto (Estucado)",
+      "Equipamento (TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 34,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-05"
 }

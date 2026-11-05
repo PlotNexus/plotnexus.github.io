@@ -8,24 +8,49 @@
   "bedrooms": 2,
   "bathrooms": 3,
   "area_m2": null,
-  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83898&foto=1718415&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83898&foto=1718415&f=1",
+  "description": "Localizada no coração do Príncipe Real, numa zona muito tranquila, apresentamos esta excecional propriedade que combina o charme clássico com o conforto contemporâneo. Com uma área total de 141m² e um pé direito de 3,30 metros, esta casa de tipologia T2, facilmente adaptável a T3, é o lar ideal para quem procura elegância e comodidade no centro da cidade. Situado no primeiro andar de um edifício recentemente reabilitado, este apartamento mantém a traça original, com ornamentos e azulejos típicos do início do século XX. \n\nO chão em tábua corrida de madeira maciça proporciona um ambiente acolhedor e requintado, enquanto os tradicionais tetos altos e trabalhados, conferem distinção a todas as divisões. As caixilharias em alumínio de elevada qualidade, com vidro duplo com rutura térmica, garantem uma excelente luminosidade e isolamento térmico, enquanto as portadas originais de madeira maciça, totalmente restauradas, mantêm o carácter histórico da propriedade.\n\nAs salas de estar e de jantar, viradas a sul, desfrutam de luz natural durante todo o dia, criando um ambiente acolhedor e luminoso. O sistema de climatização AVAC com tecnologia Daikin, controlado por domótica e compatível com dispositivos móveis, assegura o conforto em todas as divisões. Além disso, a propriedade está equipada com videoporteiro para maior segurança e comodidade, bem como com sistemas de domótica para controlo remoto do AVAC, videoporteiro e bomba de calor.\n\nEsta propriedade oferece uma combinação única de elegância clássica e conforto moderno, numa localização privilegiada no coração de Lisboa. Não perca a oportunidade de tornar esta casa no seu lar no encantador Príncipe Real. Se procura um estilo de vida sofisticado e uma localização privilegiada em Lisboa, o Príncipe Real é a escolha ideal para si. Com as suas ruas pitorescas, espaços verdes encantadores e uma atmosfera cosmopolita, este bairro singular oferece uma experiência de vida incomparável na capital portuguesa. Não perca a oportunidade de fazer do Príncipe Real o seu lar e desfrutar de tudo o que esta área extraordinária tem para oferecer. Agende uma visita ainda hoje e descubra a sua próxima casa!\n\nA Sotheby's International Realty, com mais de 300 anos de história, é líder na transação de bens de luxo. Presente em Portugal desde 2007, com dez escritórios e mais de 300 profissionais altamente qualificados, estamos aqui para satisfazê-lo. A nossa missão? \"Unir casas extraordinárias a vidas extraordinárias.\"",
+  "geo": {
+    "lat": 38.7169025,
+    "lng": -9.150559
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
   },
   "listing_url": "https://www.sothebysrealtypt.com/imoveis/apartamento-principe-real-lisboa_pt_83898",
-  "published_at": "2026-10-26",
+  "published_at": "2026-11-05",
   "last_seen_at": "2026-11-05",
   "images": [
-    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=83898&foto=1718415&f=1"
+    "https://mediaf5.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=83898&foto=1718415&f=1"
   ],
-  "features": null,
+  "features": {
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Dupla",
+      "PVC"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Habitação)"
+    ],
+    "Exposição Solar": [
+      "Norte",
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade"
+    ],
+    "Zona": [
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 141,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-05"
 }

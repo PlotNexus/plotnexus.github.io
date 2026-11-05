@@ -6,26 +6,31 @@
   "currency": "EUR",
   "location": "Borbela e Lamas de Olo, Vila Real",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 35,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imt0bHUwOHRrMGE4bzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.V7pU82mMQ3Tz-p9ISNt7IpWenYbwVuEpRr8uJa4p5xM/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imt0bHUwOHRrMGE4bzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.V7pU82mMQ3Tz-p9ISNt7IpWenYbwVuEpRr8uJa4p5xM/image;s=2048x1536;q=80",
+  "description": "Aluga-se apartamento T1 na aldeia de Ferreiros, a cerca de 4 minutos do continente.\n\nO apartamento encontra-se totalmente renovado e sozinha equipada.\n\nComposto por sala e cozinha openspace, quarto e casa de banho.\n\nTem um espaço em baixo que pode ser utilizado para arrumações.",
+  "geo": {
+    "lat": 41.344925,
+    "lng": -7.7574325
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/aluga-se-apartamento-t1-ferreiros-vila-real-ID1iVch",
-  "published_at": "2026-10-26",
+  "published_at": "2026-09-27",
   "last_seen_at": "2026-11-05",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imt0bHUwOHRrMGE4bzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.V7pU82mMQ3Tz-p9ISNt7IpWenYbwVuEpRr8uJa4p5xM/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imt0bHUwOHRrMGE4bzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.V7pU82mMQ3Tz-p9ISNt7IpWenYbwVuEpRr8uJa4p5xM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImgzM3JhcGYyejVwNDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ybYP3ffeWf7Ha0QiL92vQ2QgiXvUC87fUoZKFQ46HHE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijh3bDVveTJpaDVldTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.5PQdqvK3Ri1xpi471_cb7kHlhZ47QozvI1-EVRSCrv8/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 35,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-05"
 }

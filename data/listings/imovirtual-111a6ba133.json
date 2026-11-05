@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Almada, Cova da Piedade, Pragal e Cacilhas, Almada, Setúbal",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 80,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndjdGg4d2E1NXBrZTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ttlwB48zhilNbkyMY74_BZ1DQ-lfwQ9PkVuFD5cf_mU/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndjdGg4d2E1NXBrZTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ttlwB48zhilNbkyMY74_BZ1DQ-lfwQ9PkVuFD5cf_mU/image;s=2048x1536;q=80",
+  "description": "Apresentamos esta agradável moradia T2, distribuída por dois pisos, que se destaca pela sua organização funcional, pelos equipamentos modernos e pelo conforto dos seus espaços. Próxima de transportes públicos e estabelecimentos comerciais. \n\nMobilada, com opção de retirar mobílias\n\nCaracterísticas do imóvel:\n\nPiso 0: \n\n- Sala com cozinha em open space com 20 m2 com Cozinha totalmente equipada com placa vitrocerâmica, forno, exaustor, termoacumulador, frigorífico, máquina de lavar louça, máquina de lavar roupa e micro-ondas. Eletrodomésticos todos novos.\n\n- 1 Quarto com 11 m2.\n\n- WC equipado com base de duche. \n\nPiso 1:\n\n- 1 Quarto com 12 m2\n\n- Terraço privativo com 30 m²; \n\nCaixilharias em PVC e vidros duplos. \n\nV2 próxima à Escola Emídio Navarro e ao posto de saúde SAP, no centro de Almada, em zona residencial e próximo a todo o tipo de transportes e serviços.\n\nAlmada destaca-se pela sua localização privilegiada na Margem Sul do Tejo, oferecendo uma vasta diversidade de comércio, supermercados, escolas, farmácias, serviços e espaços de restauração. O concelho beneficia de uma boa rede de transportes públicos e de acessos rodoviários que facilitam as deslocações entre as diferentes localidades da Margem Sul e a cidade de Lisboa. A proximidade ao Rio Tejo, às zonas ribeirinhas e às praias da Costa da Caparica proporciona ainda diversas opções de lazer e atividades ao ar livre, tornando Almada uma localização bastante atrativa para quem procura conciliar comodidade, acessibilidade e proximidade à capital.",
+  "geo": {
+    "lat": 38.686134,
+    "lng": -9.149276
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,38 @@
   "published_at": "2026-11-04",
   "last_seen_at": "2026-11-05",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndjdGg4d2E1NXBrZTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ttlwB48zhilNbkyMY74_BZ1DQ-lfwQ9PkVuFD5cf_mU/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndjdGg4d2E1NXBrZTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ttlwB48zhilNbkyMY74_BZ1DQ-lfwQ9PkVuFD5cf_mU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndhcG1qbTN2aGtpbzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.J22oIlEOAk2sD3A5mK14ET5zyd06N4BYMKLxzUXO_zs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV1aWVpNDE4aW4ydC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.qrECPCiQ4dMw1Pi6qQeLIF6pdV74c3hB3MrISGIlrAU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV5N3Fvdm05ZjYzdzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.xXRnTiHKEJgj3Rahiujf4taHgyYVneRY3m6YWV_A1l0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJnZnFpbnJ0ZjcwYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.HDqKpJqt2h5ipmFy9elXpsN9zweFwQys2BcEKFfRW6k/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF0aWllc2V1a2o1aDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.vDzSN9Sidk9SWKMVzpSQp5MWcfH1hV6gN3Wl8uZH4tE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVjcTU3cmF1ZWRkcy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.bmYyO2qfADlcKOUzzZg9Rbu0sE8fCqIcTzchiXaSTAI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijk0dWIzcG9kNDRxMTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.O_RlA7J4U2YpVlTmonlxaxlf3qkQcdtNaDT3tGGVPeg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFzdmF5azhpZm90ay1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.UbJuN0rPP8GwB33Aa8HYsRbQ9XR4SfYTJRfIoKAvlAI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9zdXpjeXRhM2MwODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.S_tBY4Qljkz3IbyjR7MZqhkqrLD-LVJfld8TE9tMiNQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBtMmVxbTMwbWdyODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-Bw_qUcbTvVJBodq4v8wBQwt6RCSaySJTyDGSL_FdTE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijd4MXNmNDI0aXhuNTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6ObwFC_ioV8p7HDL9Uljm-TNv8d1z8CyIEdHdzcUOXs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZrN3o0Y25rcm5jaTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ypyI78yFbDWeTiTg1xG9_fc5Hfn0qPcnJqKOmyMfoJg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJ2a21hbWVia204Yy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.awlQaR_q7CSc8JOauxBEHyF770Ecd4VbsM7kYgMJg-U/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InB5OTVxMHMydHNiLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.wn4Ql9UuaZgNPg13NZxvTp9k9_lf8ENlDcPhE_ynVYI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBidGJndGZzN2l4dDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Y_yZEUu_1H1nnRM0PKstCBTazXvKMhW6k99beST2LL0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZ2NWkyY3lvcnB4Zi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.PUJf-WNPgNnmF6q9PLSAQbf8QxFdM0r_9AoKYfpfq50/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpzM3V1bjM1d3BqcDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zrjiMxEm7AMe-pVu7WqC2rI1PkrxOcyuIdgxuVBWUsc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJyNGlwZ2dkbGE5YTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Dw80B7xeMxObv_ufvk5y-DOZZBa-nk0RppqffzyxjFk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc0bjBxZWJ4ZXRvcTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.noxwg9XmUUpJIKzxid5CB8Y5g2kTsNgSUPOC7e5uZ_Y/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado",
+      "Terraço",
+      "Mobilado"
+    ]
+  },
   "estado": null,
   "area_util_m2": 80,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-05"
 }
