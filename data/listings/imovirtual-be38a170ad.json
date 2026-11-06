@@ -6,26 +6,29 @@
   "currency": "EUR",
   "location": "Barcelos, V. Boa, V. Frescainha, Barcelos, Braga",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 50,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjByMWluaG0yNTd5cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BJBpJsi42YfMS9E0aDWGLEZuynveBcubYCjimbBYRIo/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjByMWluaG0yNTd5cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BJBpJsi42YfMS9E0aDWGLEZuynveBcubYCjimbBYRIo/image;s=2048x1536;q=80",
+  "description": "Vende-se T1 em construção (fase de acabamento), no centro de Barcelos",
+  "geo": {
+    "lat": 41.53416,
+    "lng": -8.6194
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t1-em-construcao-fase-de-acabamento-centro-de-barcelos-ID1jb1j",
   "published_at": "2026-11-05",
-  "last_seen_at": "2026-11-05",
+  "last_seen_at": "2026-11-06",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjByMWluaG0yNTd5cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BJBpJsi42YfMS9E0aDWGLEZuynveBcubYCjimbBYRIo/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjByMWluaG0yNTd5cjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BJBpJsi42YfMS9E0aDWGLEZuynveBcubYCjimbBYRIo/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 50,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-06"
 }
