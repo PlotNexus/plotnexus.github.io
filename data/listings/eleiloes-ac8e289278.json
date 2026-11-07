@@ -1,0 +1,50 @@
+{
+  "id": "eleiloes-ac8e289278",
+  "title": "Terreno",
+  "type": "venda",
+  "price": 1500,
+  "currency": "EUR",
+  "location": "Oliveira do Hospital, Coimbra",
+  "bedrooms": null,
+  "bathrooms": null,
+  "area_m2": 0,
+  "image": "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_130257/27102026155207_800.jpg",
+  "images": [
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_130257/27102026155207_800.jpg",
+    "https://www.e-leiloes.pt/files/Verbas_Fotos/verba_130257/27102026155211_800.jpg"
+  ],
+  "description": "Terra de cultura com 50 videiras.\r\nInscrito na matriz predial rústica sob o artigo 823 º, e descrito na Conservatória de Registo Predial de Oliveira do Hospital sob o número 2192/20150107.",
+  "features": null,
+  "estado": null,
+  "area_util_m2": 0,
+  "area_bruta_m2": 200,
+  "ano_construcao": null,
+  "certificacao_energetica": null,
+  "geo": {
+    "lat": 40.3458016,
+    "lng": -7.85807891
+  },
+  "source": {
+    "name": "e-Leilões",
+    "url": "https://www.e-leiloes.pt"
+  },
+  "listing_url": "https://www.e-leiloes.pt/evento/LO1528022026",
+  "published_at": "2026-11-07",
+  "leilao": {
+    "valor_base": 1500,
+    "valor_minimo": 1275,
+    "licitacao_atual": 0,
+    "data_inicio": "2026-11-07T00:00:10",
+    "data_fim": "2026-12-03T10:30:00",
+    "valor_abertura": 750,
+    "onus": [
+      {
+        "tipo": "outro",
+        "valor": null,
+        "descricao": "Sem ónus ou limitações"
+      }
+    ]
+  },
+  "last_seen_at": "2026-11-07",
+  "detail_fetched_at": null
+}
