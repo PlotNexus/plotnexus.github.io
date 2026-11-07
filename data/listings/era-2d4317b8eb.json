@@ -1,6 +1,6 @@
 {
   "id": "era-2d4317b8eb",
-  "title": "Apartamento T1 / Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada",
+  "title": "Apartamentos T1 / Vila Nova de Gaia, Santa Marinha e São Pedro da Afurada",
   "type": "venda",
   "price": 259500,
   "currency": "EUR",
@@ -10,7 +10,10 @@
   "area_m2": 54,
   "image": "https://mediaredir2.era.pt/i/apartamento-t1-vila-nova-de-gaia-santa-marinha-e-sao-pedro-da-afurada_14_1_1575014_19144321_2_1_rllY%2fkTsyu5%2frr%2b0O9n7Y7M%2fWoortJXUj9Cm%2b%2bdiYHDEB8h4ZPpqcw%3d%3d_.jpg",
   "description": "Este magnífico T1 está inserido no Empreendimento Prestige.\nPerto da futura linha do metro Rubi, Este empreendimento conta com jardim privado e uma sala lounge, além de varandas em todos os apartamentos. O apartamento tem uma área de 54m2 e 11,34m2 de varanda, um lugar de garagem e uma ótima exposição solar a sul.\nA conclusão da obra está prevista para o primeiro semestre de 2027.",
-  "geo": null,
+  "geo": {
+    "lat": 41.12601,
+    "lng": -8.629812
+  },
   "source": {
     "name": "ERA",
     "url": "https://www.era.pt"
