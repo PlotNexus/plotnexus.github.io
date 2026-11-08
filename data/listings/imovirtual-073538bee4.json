@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "A dos Negros, Óbidos, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 82,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imdjcmw1aXY5bWRvaTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.nA2IpU8xWaRxmlIkWEu2VhP8lMD-X8AZv0wkdj3ebrs/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imdjcmw1aXY5bWRvaTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.nA2IpU8xWaRxmlIkWEu2VhP8lMD-X8AZv0wkdj3ebrs/image;s=2048x1536;q=80",
+  "description": "Apresenta-se um apartamento T2 renovado, com uma área útil de 82 m². Este imóvel dispõe de uma casa de banho completa e uma cozinha equipada com frigorífico e fogão, ideal para quem procura conforto e funcionalidade.\n\nNa sala de estar, a luz natural é abundante, proporcionando um ambiente acolhedor e agradável, com vista para um jardim. O espaço é bem organizado e decorado em estilo contemporâneo, com paredes lisas e piso em cerâmica, que conferem modernidade ao espaço.\n\nOs dois quartos mantêm a mesma linha de design, com acabamentos cuidados e um ambiente tranquilo. A casa de banho é equipada com chuveiro, lavatório e azulejos que garantem um toque de elegância.\n\nEste apartamento, por ser mobilado, oferece uma solução prática para quem deseja mudar-se rapidamente. O espaço exterior inclui um pátio, perfeito para momentos de lazer.\n\nNão perca a oportunidade de visitar este imóvel e descobrir o seu novo lar. Agende a sua visita!",
+  "geo": {
+    "lat": 39.34807,
+    "lng": -9.1091
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,24 @@
   "published_at": "2026-11-07",
   "last_seen_at": "2026-11-08",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imdjcmw1aXY5bWRvaTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.nA2IpU8xWaRxmlIkWEu2VhP8lMD-X8AZv0wkdj3ebrs/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imdjcmw1aXY5bWRvaTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.nA2IpU8xWaRxmlIkWEu2VhP8lMD-X8AZv0wkdj3ebrs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNveWl6eWExbnM1czItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.WdY7Hh6kNbypnqciLZTcqTEfUfUgAgB6w60RTrM0d18/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQ1M2R0MHhmN3RsZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.EXYkfZJuQA68Vq2BxsLq-rxzOWtVBT6jFXJ12PXT1qw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImN5azNibjAxMGJkODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9I6UCVVgrjZRQosqkRej9-SuwxW4JWEp2DgDNeyk5u8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl4NDIwcnd1MTI4eTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.VlDJxDvhb-jfaY2EDKb5-5Snvi-awmUBF8YYEXNX8R0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inlwd2ZvYXE5cDFuYy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.VUdu7aaEnZeTBtMd0Odp1I9lqHwSencB_hQeCUq8DmQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxhZGQ4ZjU4dzN1OTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dZMGJYRUiqnRNiM-rCZepqziWVkE80QAc1W4IzSgFs8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg4ZDF2MjZjeGk0MS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.QDWNRgNyfUFSJgPyJVmlcLfaN5FbJa9hEcZ36iD6_4A/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRyamwwaGJmMnpuMTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.33b2_ekwFy2AfWkTA4c-9xh36BN5nFF_IOcOT090TR4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxiaGFhZmdoNzhuaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ._O_NbxP6rFs-9qEwHfiU30xrVBFa7zwIz88RWSAsyFA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJsZnNnNTR6anI3MzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0._qpu61WCGioslAUcU5YbA2BZYa4mKTKtG7g009zgQ5I/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRldm52ZTBjbzFiaDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.00TMnq759eQFMvEUHFWZES7Gh7ix9p-PNLesGIY7DYw/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 82,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-08"
 }

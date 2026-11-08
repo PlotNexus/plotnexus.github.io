@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Alverca do Ribatejo e Sobralinho, Vila Franca de Xira, Lisboa",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 104,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijlwbm5kN2p3ZWFkYTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6Nc6Neimr9nGIH9r0PSyhk8dQ16GcYVyXLjb6aqqx7o/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijlwbm5kN2p3ZWFkYTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6Nc6Neimr9nGIH9r0PSyhk8dQ16GcYVyXLjb6aqqx7o/image;s=2048x1536;q=80",
+  "description": "Apartamento T3 com 104 m² de área útil, situado na Urbanização da Malvarosa, em Alverca do Ribatejo, que se destaca pela luminosidade, conforto e qualidade da envolvente.Viver na Malvarosa é ter a comodidade do comércio e dos serviços de proximidade, aliada a espaços ao ar livre que convidam a desfrutar do bairro. As avenidas arborizadas, as zonas ajardinadas, os percursos pedonais e os espaços de recreio infantil tornam a urbanização especialmente agradável para passear, levar as crianças a brincar ou simplesmente descontrair ao final do dia. Uma localização que combina a praticidade da vida urbana com espaço para momentos de lazer.No apartamento, a sala beneficia de grandes janelas que proporcionam abundante luz natural e uma vista agradável. A varanda oferece um espaço para relaxar e aproveitar o ar livre, enquanto o pavimento em madeira nas áreas sociais contribui para um ambiente acolhedor.A cozinha dispõe de bancadas em granito, pavimento cerâmico e está equipada com frigorífico com cerca de um ano, forno, máquina de lavar loiça e máquina de lavar roupa.O imóvel conta ainda com duas casas de banho, uma delas remodelada há menos de um ano.Uma casa luminosa e confortável, numa urbanização onde é fácil conjugar as necessidades do dia a dia com o prazer de viver o bairro.Para mais informações ou agendar uma visita, entre em contacto por mensagem.",
+  "geo": {
+    "lat": 38.904263,
+    "lng": -9.041741
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,44 @@
   "published_at": "2026-11-07",
   "last_seen_at": "2026-11-08",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijlwbm5kN2p3ZWFkYTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6Nc6Neimr9nGIH9r0PSyhk8dQ16GcYVyXLjb6aqqx7o/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijlwbm5kN2p3ZWFkYTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6Nc6Neimr9nGIH9r0PSyhk8dQ16GcYVyXLjb6aqqx7o/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InEwY2dyaHg1NTZsZjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.xv_3Zbw9biQC-_cE67giQPwDLUKUwW-7bHPBWdRo9z0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlqcGpidGh6cW1jYjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DbE_HU-AaySFte-4Y6dqem6bRPzGQhRsM1qIScQXffU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNpdnF5a2Z4ZmFtaS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.3izEZHhUM-JSVIDOP3WUHkD0J4rVE6QgGbUnJcN_YEw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhrbmplMmVkYXJ3bjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.vR6mpOGDh3y7fH-0hzgsrNKYckWdWsGwcQ6aeRMiYiY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdwZnhxaXZnNDV3bTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.nBREfwg3Ah4CZf6YwemG-JQJ07HT9nxlZ1pftEGuo4M/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InljcmlnMHc0enhicDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8h5X2A7qJRsceibldAFJtnsZz0ukD9tIVBR38AEaI6g/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBzNmlyY28ydHc2Yy1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.nZoaoE-AuQggZhmZk58LZaUVWi8mMR9EDbPu2gX2NxA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF0ZXlhbGtmMzM3cS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.o9PDGWZIPQS2S7u7q1QRGbrFDO9miiRWD2vX4YGwR8E/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjljNWRzbHd6YXBhcDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TBLls9T9mlyIOg0v6ywuH9dVJ2dqNw77-omx-Q_PdKU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh5cTBnbnF1aGl4YjMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kimVCglKuQFqgBdnPnYOb5GOMlZKAxnQCfpKmAuS2vU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InkxN25qdmtydHM0NTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.aDCOt8zhpHEm3rVLhO5LUjuIItGuNc9RM2w05tS0Mlo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZ5OHR6YjFpYWYxNzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rTzYjR4il0DHVd8aYBM4cgHklxRAn6hb3dpIAOBZJwg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im14Z2ZiYWNuaTB4ajItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.OUJM48lAHsWHWOZcnl3mpvxVBMAxwI0XqsoF39euyS8/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Estores",
+      "Porta blindada",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Varanda",
+      "Garagem",
+      "Elevador",
+      "Cozinha independente"
+    ],
+    "Equipamento": [
+      "Máquina de lavar loiça",
+      "Frigorífico",
+      "Forno",
+      "Ar condicionado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 104,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2007,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-08"
 }

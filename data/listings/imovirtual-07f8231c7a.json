@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Estremoz (Santa Maria e Santo André), Estremoz, Évora",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 60,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV4dnJydzMxenBuNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.pxLudgBQhbHfWWV9WFXGYzTgI2vZKYysMhXF30EioY0/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBhd3k2YXp5NXc0ZDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.iz5otSLpRmspBzxBmAnOGvLoj8W3uT0VHCizouNbIV8/image;s=2048x1536;q=80",
+  "description": "Este apartamento T1, com uma área útil de 60 m², apresenta-se renovado e nos acabamentos finais. A casa de banho dispõe de um chuveiro moderno e acabamentos em azulejo, proporcionando conforto e funcionalidade. A cozinha com algum equipamento oferecendo um espaço agradável e bem iluminado, com vista desafogada. A sala de estar é ampla e luminosa, com paredes em tons suaves e piso em cerâmica. A luz natural invade todos os espaços, criando um ambiente acolhedor.\n\nl. O apartamento é ideal para quem procura um espaço prático e agradável, sem mobília, permitindo que personalize ao seu gosto. O certificado energético é de classe E, refletindo uma eficiência razoável. Este imóvel é uma oportunidade a considerar devido à sua condição renovada e à luminosidade que o caracteriza.\n\nNão perca a chance de conhecer este apartamento que pode ser o seu novo lar. Agende uma visita e descubra o potencial deste espaço.",
+  "geo": {
+    "lat": 38.8503,
+    "lng": -7.58825
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,22 @@
   "published_at": "2026-11-06",
   "last_seen_at": "2026-11-08",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV4dnJydzMxenBuNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.pxLudgBQhbHfWWV9WFXGYzTgI2vZKYysMhXF30EioY0/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBhd3k2YXp5NXc0ZDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.iz5otSLpRmspBzxBmAnOGvLoj8W3uT0VHCizouNbIV8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV4dnJydzMxenBuNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.pxLudgBQhbHfWWV9WFXGYzTgI2vZKYysMhXF30EioY0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVrZWV3Z3c0a3ZodTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.4F_odm5hfXO-n9fXqwzjhv772lAYGRRRm1Ad6ITBbDg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Img3OXhyYmQxOHU4bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.0AcBHSa6DHP_VA2jf7dYK7SJjoIv9fbkwbDFegctZIQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhqcTNiandpeHVpZTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9oFwJE9PRL35-g9PypmUwl1wWVbDFllzMEV0VksrzLg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InoyaGNta2JubThtZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.LY364wc0TsGnOxGu_xHLf_eWhNAslv-JPP1nhH-WLXA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Iml6cjJvOGh5bGVrcDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-Nczj5DYAlybQCVvQQrXfqrAv_wg_7hiUs-AZ19C9bg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im11MmVtOGU1bHJydC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.0DZYNE_OcLMj8LHnFqTd7fm_zJ6pWbYd5fZGzGGlDlM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImMxbTAyZGxyb2w4YTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.A6YewS2iq3TNEPX-rccpxzuf-3nshJXGO-GGz49z4Io/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9xY2tjaHpqNWJ5dDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9WNPeniDhrI0etPi-qVid_it1frQYrNzO2kZIMA1txY/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 60,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-08"
 }

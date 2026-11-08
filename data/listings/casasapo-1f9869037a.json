@@ -8,27 +8,44 @@
   "bedrooms": 2,
   "bathrooms": null,
   "area_m2": 75,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C11842/P30828167/Tphoto/ID8766d601-0000-0500-0000-00001ab1e834.jpg",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C11842/P30828167/Tphoto/ID8766d601-0000-0500-0000-00001ab1e834.jpg",
   "description": "Moradia localizada a 5 minutos da vila;\n1º andar independente constituído por 2 quartos mais 1 escritório, sala e cozinha, casa de banho;\nVaranda com boas vistas,",
   "geo": {
-    "lat": 42.039484941,
-    "lng": -8.4765888033
+    "lat": 42.044642772,
+    "lng": -8.4721568696
   },
   "source": {
     "name": "CASA SAPO",
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/alugar-andar-de-moradia-t2-moncao-cambeses-d74a7722-9569-11f1-90a1-060000000056.html",
-  "published_at": "2026-11-03",
-  "last_seen_at": "2026-11-05",
+  "published_at": "2026-11-08",
+  "last_seen_at": "2026-11-08",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S5/C11842/P30828167/Tphoto/ID8766d601-0000-0500-0000-00001ab1e834.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C11842/P30828167/Tphoto/ID8766d601-0000-0500-0000-00001ab1e834.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C11842/P30828167/Tphoto/ID8766d601-0000-0500-0000-00001ab1e835.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C11842/P30828167/Tphoto/ID8766d601-0000-0500-0000-00001ab1e836.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C11842/P30828167/Tphoto/ID8766d601-0000-0500-0000-00001ab1e837.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C11842/P30828167/Tphoto/ID8766d601-0000-0500-0000-00001ab1e838.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C11842/P30828167/Tphoto/ID8766d601-0000-0500-0000-00001aafa383.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 1",
+      "Número de pisos: 2",
+      "Sala(s): 1",
+      "Total quarto(s): 2",
+      "Total quarto(s) interiores: 1"
+    ],
+    "Áreas": [
+      "Área Bruta: 85.00",
+      "Área Útil: 75.00"
+    ]
+  },
+  "estado": "Recuperado",
   "area_util_m2": 75,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 85,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "G",
+  "detail_fetched_at": "2026-11-08"
 }

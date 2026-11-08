@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Messejana, Aljustrel, Beja",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 130,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc1d3h3eHN0c3l5ODMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jbZUv0aXHFIgh6xjgYoOYzG_CtWohR6Q8OcS4gUpI0U/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc1d3h3eHN0c3l5ODMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jbZUv0aXHFIgh6xjgYoOYzG_CtWohR6Q8OcS4gUpI0U/image;s=2048x1536;q=80",
+  "description": "Oportunidade única de adquirir uma fantástica moradia V3 de dois pisos, com uma área total de 130m², localizada no coração histórico da vila de Messejana (concelho de Aljustrel).Condições de Venda:• Estado: Vendida totalmente completa, mobilado e equipado no estado exato em que se encontra (regime de \"porteira fechada\").• Processo: Aceitam-se propostas de compra a título particular para posterior análise individual pelo proprietário.Características e Acabamentos:• Rés-do-Chão: Sala comum em open space com imponente parede decorativa em gesso 3D integrada com o padrão da cozinha. Cozinha premium equipada com eletrodomésticos encastrados em inox e uma excelente bancada em Granito de Moçambique. Quarto 1, Escritório/Quarto 2 (com portas de correr estilo \"celeiro\"), lavandaria independente equipada com armários e WC social completo.• 1º Piso: Escadaria e hall superior totalmente revestidos a mármore nobre com guardas modernas em aço inox e vidro. Master Suite muito generosa com ar condicionado independente, Closet independente e WC privado (lavatório duplo e box em vidro).• Exterior: Terraço panorâmico privativo com pavimento cerâmico tipo deck, relva artificial e vista desimpedida para os monumentos da Praça 1º de Julho. Equipado com painel solar térmico para águas sanitárias.",
+  "geo": {
+    "lat": 37.834557,
+    "lng": -8.245023
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,32 @@
   "published_at": "2026-11-07",
   "last_seen_at": "2026-11-08",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc1d3h3eHN0c3l5ODMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jbZUv0aXHFIgh6xjgYoOYzG_CtWohR6Q8OcS4gUpI0U/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc1d3h3eHN0c3l5ODMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jbZUv0aXHFIgh6xjgYoOYzG_CtWohR6Q8OcS4gUpI0U/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxjaDZ1ZmZlMTZzOS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Iu4nSZkFSUAIwsBIWdeBcAqBiK_8iEYT26CAVylnD-I/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjlmN2Q3amlpZTNnMjMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.V8RbU01p7zIc_flosTW75Sgx4JmXnLFqBuTxL0XFFAc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InU5ZHE1M2llNjR2bzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ikbc5cYIwq9IyyL7_0nKeQd5hy8ABbvqtcG-nX3Xws4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBudHo2d2FkOWlkZTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.GGJ4Fs5hjYL3U1egycL2QaQPUF1NN6PFsiVdiBy3R20/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjYxdjc3NnQ3eG55YjMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.c8WnO4HHUu28dJD9OE9XgeYBzaQO3htdXKKhBdg_yvA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImkwZTFvcmpyYndweTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Uzf6j4OsTBO3LV5wSDXRsj5tE5iyGUb7FVkJl6g7124/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjR2NmwzMWFuMWdidzEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1gN91tdObSZkKm28-J3E3eZEO4TwXG9wB0I8LJrEFbM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRvbGthbjZsZm4xbzItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.eRiYapzFWLDsPsDwMFu8Nzyhr6bfx4mQZeNNNaGJ840/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im51eW9taHNkbnZuNC1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.mHVnzwibEEweVN2135KdsQq2eRgKJLJhE2DRGPpEacE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjlmcWYybndudm00Yi1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.rEstPST_LrC4hljBuG8BG_aCq8JS-vZGMLhamDn-Y4o/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImcwZW51aXVxcnpycTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.O2_DOTrdd0G8Du6a3gbk8gOJfN6oTHe4rP93Q5j3lGw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im13cWpvbnBjOTQ5NS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.RmILRgnlFMRa86yoN2CH3Llfx7rhFWIeD2dTLyY0LSQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJicjJzbXdpdXY5YzEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.e0_cim6aTlkvwiMg2p8ZNdOslKYJbPXz3Q8yDeVwceI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVjenI1c3hwbng0YjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.45n_JtSBd2CUV7sskpwxAFB3WQYAMtper8_mloizL6E/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado",
+      "Terraço"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 130,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-08"
 }

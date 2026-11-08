@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Vila Real",
   "bedrooms": 5,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 340,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxjMDh5ZmZzY3kwbjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.L2-zWtsMtRYWNb47QeQMC4a3A5WE-n2y5AzirNXd1EI/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxjMDh5ZmZzY3kwbjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.L2-zWtsMtRYWNb47QeQMC4a3A5WE-n2y5AzirNXd1EI/image;s=2048x1536;q=80",
+  "description": "Identificação do imóvel: ZMPT584446\n\nPrédio de Uso Misto no Centro de Vila Real \n\nJunto ao Mercado Municipal \n\nExcelente oportunidade para habitação, investimento ou conjugação de residência e negócio, situada numa das zonas mais centrais e valorizadas da cidade de Vila Real. Um edifício com áreas generosas, muita luz natural e grande potencial comercial. Imóvel em propriedade horizontal, composto por duas frações independentes.\n\nComposição do Prédio\n\nFração A – Cave e Rés do Chão, pode ser vendido separadamente pelo valor de 375.000€\n\nEspaço destinado a comércio e/ou serviços, com grande área, boa visibilidade e acessibilidades ️\n\nFração B – 1.º Andar e Águas Furtadas\n\nHabitação T5 Duplex com terraço e quintal/jardim, pensada para conforto familiar e vivência urbana.\n\n Habitação T5 Duplex- Pode ser vendido separadamente pelo valor de 590.000€\n\nFração B -\n\n Área Bruta Privativa: 273,80 m²\n\n Distribuída por dois pisos, esta habitação destaca-se pela funcionalidade, luz natural e ligação ao exterior.\n\n1.º Andar Hall de entrada \n\nCozinha e sala de jantar com acesso direto ao terraço e quintal/jardim ️\n\nSala de estar com varanda ️\n\nWC de serviço \n\nDespensa na zona social \n\nCorredor de distribuição \n\nWC completo \n\n2 quartos com roupeiros embutidos (1 com varanda) ️\n\nSuíte com closet e acesso ao terraço e jardim Águas Furtadas Hall de distribuição \n\nLavandaria \n\nWC completo \n\n2 quartos ️\n\nArrumos no vão do telhado Características Gerais da Habitação Três frentes, excelente luminosidade natural \n\nExposição solar: nascente, sul, poente, norte \n\nVistas desafogadas sobre a cidade e as serras\n\n Espaços Exteriores (ao nível do 1.º Andar)\n\nTerraço: 190,70 m² ️\n\nQuintal/Jardim: 219 m² \n\nPoço de água \n\nAcabamentos e Equipamentos Pavimento flutuante na suíte, quartos e hall das águas furtadas",
+  "geo": {
+    "lat": 41.300014,
+    "lng": -7.744227
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,32 @@
   "published_at": "2026-11-05",
   "last_seen_at": "2026-11-08",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxjMDh5ZmZzY3kwbjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.L2-zWtsMtRYWNb47QeQMC4a3A5WE-n2y5AzirNXd1EI/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxjMDh5ZmZzY3kwbjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.L2-zWtsMtRYWNb47QeQMC4a3A5WE-n2y5AzirNXd1EI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhzeWl6dXVoenlwczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-zFIFTcByWWDEIcqlYFfOTsvnDZzGM2uJGCHI5yKr-E/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjcyMTNmNnFzZXhodDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.GrjpxMBwJH4Ul0uqz0XPOpSeHTJRj6taCSpVCdNcflM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJiMGJnYTBzd2FhbDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CYvCrssl9Bz8avSPOmAiyPU8zS78BIUsu5nXj21ao3c/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im45MjhoaDV2cWY5eDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.j7iibkdqVrtoMC9L5O5t2TeuSqeaZMT9RcE2dRiH7Ww/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjB0cnM0NnlhbnUwNDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6ve3LOTqsJgFzEUbU5SEQrIECoh7Gr4tEpRtWwnzNt8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRiOGxqYzdqbXhoMjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.bs-VAouSdUoIwG2l1UqE0averk0QwrmksNgxn3DQSG4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl1Z2J6ZnBpaHBxZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.0e5Zytm7bkNCq1MKoOFDHEyFp4L8MKpY6D4_SgEi82A/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InpsNDVyeW95cXJlcy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.BsUbBIZ5p0r8Tt17Rl3_ZlieRnsiFrEkwBtZC5w7S34/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZhbXZ1dnpldGFyejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FOoavSLkZf-McNeFAmZ7q7b9yXKwnkwsgB3Z4jXquic/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImY2dWNxbGppOHBsdzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.vCppAe_z47BAm7POGe_8OkdwcqI2t7lw5aF5vBYZxfk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InAxdGh0cGQ2d290eDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.H8fWX_Lu00umhvo8a9FcvYDZ0-gubdaZaBR1tIAyshA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjljdTBwMW56Nms3czItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.snTdKTCzd5gonU5p7QSkxWynCCUWN-ew_qqFY8nFvIo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im11ZDd2YjZlYjIwYTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fRs1UquU61mVO81npH7rSNpFtyOEOteGAolr1hMmTKY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJ1dXF6NnA3cGNjcTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8w81cVwZ11Khsp2L5GOvA5J6FfX01fpfZgshzkfcAwE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRveHZmcWJsZDhhcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.h2dWgZ01XYI0v1KAMPwCbT5UQMPxzoGmnaDSnONDV4Y/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im03bnIzdnUxanBhdDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.VEHVqU2zSREDqbMnNYERrwJDfX_6hHDBZSpQUR07CtQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJpOWxtYXdzM2NtODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3d9qGa8RnwzF-0BFBjZf8kcrfc8Y5dzpXF_bzdPCUuA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF3ZHZ1eDV2eDhvcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kSkIG_zvtLjH28e9FxJuAd8l6Cf9i8u1YxhdGHvP_fQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im01M2c0bWZpaDA4bTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FEK486pvS6IM2IWOevorXi5J-VyGbeRqLJTFeMyNvtM/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 340,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-08"
 }
