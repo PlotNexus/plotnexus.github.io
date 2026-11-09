@@ -8,8 +8,8 @@
   "bedrooms": 5,
   "bathrooms": null,
   "area_m2": 292,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c253.jpg",
-  "description": "Moradia T5 para arrendamento sem móveis, com piscina e jardim, localizada em São Pedro do Estoril. Moradia remodelada, composta por 2 pisos e cave, com uma área bruta de 412 m². Possui ampla sala com lareira, cozinha equipad",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c253.jpg",
+  "description": "Moradia T5 para arrendamento sem móveis, com piscina e jardim, localizada em São Pedro do Estoril. Moradia remodelada, composta por 2 pisos e cave, com uma área bruta de 412 m². Possui ampla sala com lareira, cozinha equipada, cinco quartos, sendo dois deles em suite, terraço e espaço de ginásio na cave. Dispõe de estacionamento para 3 viaturas. Moradia com ótima exposição solar e excelente localização, junto às praias do Estoril e da estação de comboios, com todo o tipo de serviços e comércio.",
   "geo": {
     "lat": 38.69875,
     "lng": -9.37868
@@ -19,16 +19,56 @@
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/alugar-moradia-t5-cascais-e-estoril-sao-pedro-do-estoril-(estoril)-5ae10a13-ab42-11ef-96bc-060000000058.html",
-  "published_at": "2026-11-08",
-  "last_seen_at": "2026-11-08",
+  "published_at": "2026-11-09",
+  "last_seen_at": "2026-11-09",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c253.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c253.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c252.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c24b.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c504.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c24f.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c250.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c24c.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c249.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c24a.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c248.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c24d.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C787/P25436889/Tphoto/IDd9228401-0000-0500-0000-00001413c24e.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Total quarto(s): 5",
+      "Casa(s) de Banho: 4",
+      "Cave: 1",
+      "Cozinha(s): 1",
+      "Hall de Entrada: 1",
+      "Sala(s): 1",
+      "Sala(s) de Jantar: 1",
+      "Suite(s): 2"
+    ],
+    "Zona Envolvente": [
+      "Praia",
+      "Transportes Públicos"
+    ],
+    "Extras": [
+      "Inicio da construção",
+      "Fim da construção"
+    ],
+    "Áreas": [
+      "Área Bruta: 412.00",
+      "Área de Terreno: 645.00",
+      "Área Útil: 292.00"
+    ],
+    "Infraestruturas": [
+      "Garagem: 3",
+      "Jardim",
+      "Piscina Privada"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 292,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 412,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-09"
 }

@@ -8,7 +8,7 @@
   "bedrooms": 1,
   "bathrooms": null,
   "area_m2": 45,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1131423/P200394816/Tphoto/ID286efed9-fbd3-4e06-8176-4b8ceaf2cdd7.jpg",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1131423/P200394816/Tphoto/ID286efed9-fbd3-4e06-8176-4b8ceaf2cdd7.jpg",
   "description": "#ref:35457710",
   "geo": {
     "lat": 38.644267,
@@ -19,16 +19,24 @@
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/alugar-apartamento-t1-almada-costa-da-caparica-903ef90d-0b75-42a6-aa3c-9db02692bbdc.html",
-  "published_at": "2026-11-08",
-  "last_seen_at": "2026-11-08",
+  "published_at": "2026-11-07",
+  "last_seen_at": "2026-11-09",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S6/C1131423/P200394816/Tphoto/ID286efed9-fbd3-4e06-8176-4b8ceaf2cdd7.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1131423/P200394816/Tphoto/ID286efed9-fbd3-4e06-8176-4b8ceaf2cdd7.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 1"
+    ],
+    "Equipamentos": [
+      "Elevador",
+      "Mobilado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 45,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "G",
+  "detail_fetched_at": "2026-11-09"
 }
