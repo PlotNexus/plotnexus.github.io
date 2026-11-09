@@ -8,9 +8,12 @@
   "bedrooms": 1,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84659&foto=1728714&f=1",
-  "description": null,
-  "geo": null,
+  "image": "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84659&foto=1728714&f=1",
+  "description": "Duplex T1+1 | 121 m² | Condomínio Largo Intendente 57\n\nNo emblemático Largo do Intendente, uma das zonas mais vibrantes e emble­máticas de Lisboa, encontra-se este elegante duplex T1+1, com 121 m², integrado num moderno condomínio que combina arquitetura contemporânea, conforto e qualidade de vida.\n\nCom uma distribuição em dois pisos, esta propriedade distingue-se pela sua organização funcional, amplitude e versatilidade dos espaços, proporcionando uma experiência residencial sofisticada e adaptada às exigências da vida urbana contemporânea.\n\nA tipologia T1+1 acrescenta flexibilidade à habitação, permitindo criar um quarto adicional, um espaço de trabalho, uma zona de hóspedes ou um ambiente complementar, de acordo com as necessidades de cada residente.\n\nInserido num condomínio moderno, o imóvel beneficia de um enquadramento residencial atual, onde o conforto e a contemporaneidade se encontram em perfeita harmonia com a identidade histórica envolvente.\n\nO Largo do Intendente oferece um estilo de vida único, marcado pela proximidade ao centro histórico, restaurantes de referência, espaços culturais, galerias de arte e uma seleção diversificada de comércio e serviços. Uma localização onde Lisboa revela a sua personalidade mais cosmopolita e autêntica.\n\nUma propriedade que reúne os atributos essenciais de uma vida urbana sofisticada: localização central, arquitetura contemporânea e espaços versáteis.\n\nUma oportunidade distinta para viver ou investir numa das zonas mais dinâmicas e em transformação de Lisboa.",
+  "geo": {
+    "lat": 38.720498,
+    "lng": -9.1347947
+  },
   "source": {
     "name": "Sotheby's International Realty",
     "url": "https://www.sothebysrealtypt.com"
@@ -19,13 +22,48 @@
   "published_at": "2026-11-09",
   "last_seen_at": "2026-11-09",
   "images": [
-    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=2&checkMax=1&imovel=84659&foto=1728714&f=1"
+    "https://mediaf4.sothebysrealtypt.com//ImageResizeHandler.ashx?tipo=7&checkMax=1&imovel=84659&foto=1728714&f=1"
   ],
-  "features": null,
+  "features": {
+    "Geral": [
+      "Nº Frentes: 2; Nº Pisos: 2"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Vidro Duplo"
+    ],
+    "Climatização": [
+      "Ar Condicionado (Completo)"
+    ],
+    "Domótica": [
+      "Alarme (Completo)"
+    ],
+    "Edifício": [
+      "Tipo empreendimento (Cond. Fechado, Habitação)",
+      "Isolamento (Acústico, Térmico)",
+      "Pavimento (Mármore)",
+      "Equipamento (Casa Recolha Lixo, TV Cabo)"
+    ],
+    "Exposição Solar": [
+      "Poente"
+    ],
+    "Vistas": [
+      "Cidade",
+      "Jardins",
+      "Panorâmicas"
+    ],
+    "Zona": [
+      "Acessos (Aeroporto, Auto-Estrada, Bons, Comboio, Metro, Transportes Púb.)",
+      "Centralidade (Centro da Cidade)",
+      "Proximidade (Bancos, Bombeiros, Centros Comerciais, Clínica, Escolas, Farmácia, Ginásio, Hospital, Jardins, Jardins Infância, Padaria, Polícia, Serviços Públicos, Supermercado)"
+    ]
+  },
   "estado": null,
-  "area_util_m2": null,
+  "area_util_m2": 121,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B-",
+  "detail_fetched_at": "2026-11-09"
 }
