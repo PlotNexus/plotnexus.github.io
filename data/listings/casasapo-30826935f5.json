@@ -8,7 +8,7 @@
   "bedrooms": 2,
   "bathrooms": null,
   "area_m2": 100,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1130440/P200394573/Tphoto/ID06ddffe8-c81f-4ccd-abb7-9b6250414271.jpg",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1130440/P200394573/Tphoto/ID06ddffe8-c81f-4ccd-abb7-9b6250414271.jpg",
   "description": "#ref:35456392",
   "geo": {
     "lat": 39.256786,
@@ -19,16 +19,28 @@
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/alugar-apartamento-t2-alpiarca-a7cde942-d4e7-4cbf-b1c0-ed65dfcca1ab.html",
-  "published_at": "2026-11-08",
-  "last_seen_at": "2026-11-08",
+  "published_at": "2026-11-05",
+  "last_seen_at": "2026-11-10",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S6/C1130440/P200394573/Tphoto/ID06ddffe8-c81f-4ccd-abb7-9b6250414271.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1130440/P200394573/Tphoto/ID06ddffe8-c81f-4ccd-abb7-9b6250414271.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 2"
+    ],
+    "Equipamentos": [
+      "Ar Condicionado",
+      "Elevador",
+      "Mobilado"
+    ],
+    "Infraestruturas": [
+      "Piscina"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 100,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A+",
+  "detail_fetched_at": "2026-11-10"
 }

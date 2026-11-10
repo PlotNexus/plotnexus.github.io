@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Buarcos e São Julião, Figueira da Foz, Coimbra",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 130,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNzYnBnMGFpbHgwNjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.L-HeQLNY0PzLrr4Dc_Byj0Lw3I8agZsnEk3xeNIHkO4/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNzYnBnMGFpbHgwNjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.L-HeQLNY0PzLrr4Dc_Byj0Lw3I8agZsnEk3xeNIHkO4/image;s=2048x1536;q=80",
+  "description": "Avenida Atlântica – Figueira da Foz1.300 €/mês | Longa duração | Disponibilidade imediataExcelente apartamento T3, com 130 m², totalmente renovado, mobilado e decorado, situado numa das zonas mais privilegiadas da Figueira da Foz.Localizado na prestigiada Avenida Atlântica, a apenas 100 metros do centro da cidade e muito próximo da praia, oferece o equilíbrio perfeito entre conforto, qualidade e proximidade do mar.Características do apartamento- 130 m² de área;- 3 quartos espaçosos, um dos quais em suíte;- 2 casas de banho;- Sala confortável e luminosa;- Cozinha totalmente equipada com eletrodomésticos;- Roupeiros embutidos;- Espaços de arrumação;- 2 varandas;- Vista de mar;- Edifício com elevador.Conforto e localizaçãoApartamento totalmente renovado, mobilado e cuidadosamente decorado, pronto a habitar.Uma excelente oportunidade para quem procura uma habitação espaçosa, confortável e com uma localização privilegiada junto ao mar, com fácil acesso ao centro da cidade, comércio, serviços e zonas de lazer.Condições de arrendamentoRenda mensal: 1.300 €- Arrendamento de longa duração;- Período mínimo de arrendamento: 6 meses;- Disponibilidade imediata.Cerca de 15mn a pé percorre toda a zona ribeirinha até ao cabo mondego, e no mesmo tempo até à marina e Rio Mondego, tornando os passeios pedonais bastante apetecíveis. A 50 Kms de Coimbra, a 60 kms de Aveiro e junto aos principais eixos rodoviários.Apartamento Primium Style, mobilado e decorado",
+  "geo": {
+    "lat": 40.15333,
+    "lng": -8.866606
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,51 @@
   "published_at": "2026-11-09",
   "last_seen_at": "2026-11-10",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNzYnBnMGFpbHgwNjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.L-HeQLNY0PzLrr4Dc_Byj0Lw3I8agZsnEk3xeNIHkO4/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNzYnBnMGFpbHgwNjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.L-HeQLNY0PzLrr4Dc_Byj0Lw3I8agZsnEk3xeNIHkO4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBibXp3eHEwanFseDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0._Bb8crJbIEBIjMPAgzQ_VTPv3rNpf0nsy7cEFK7qhPw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjUzNWZwdG92bHUxeDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dzkRrhzx_-kBqR6j9XF8bPs78msEh1442SkiraWgozA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp0cjRuZDE4aHp3djMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.w0ZZMEOqRrhNRIS_il0yH12JnPtjF7dJVTznQ5cMlzM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRlZ2Z4Yno1dHVyaDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Fg5v_1TeMXSuSMuVEuaKAJA1lAyzprGPxSwYSvQDx5U/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBtcHVyM2ZvdnRjNzEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.81MeyT8YMofH6HC0kfVqfcf1PphERJPMJsKrg9pg8rA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InU1dmkyemxqejd3ejEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FcgQknlUJ54XzSXhcErr3K_a_uc6euWqUwi_o6Uzn1U/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhtN2lqNXc0a2lvaDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Wq6PGFnnOVnSdiKob1myEyhZDicAwc8ycazFcWrHTAo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRicWphdnBsbHNvNTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UtWYZEwTQ2AfjbLWS1qzy8DSSYebflyplgFFFJ9tosM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZvZDlsaGN4Y3V6NjMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fumgdoKYk8YSs0EJfJFiHMBzh_92lX953KuCGMMT4vU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNvdGJxd292Nno1ajEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3GeFSMZOqgnD6PloO9CzMP1Yizux1iXZzwugxaGILgo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBmczV3dDV0bGJyMzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ns08avnH05QuPu7RFa3dH53TVdu_23fKTvOL01UwOiw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InY3c3gydngzYWI3MjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.J42hT6smOyw72UhZIThVCKlTy1jorxHmKPa2RQzCnFU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFmeTBiM3kweHdjNjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lTU69Frhr0TfCaboD5b5XJ3rYlwdOvGvbme1R9-2wLQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5sd2U5OWloeGFsZTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Pf5lAvb2GhQFRuBKDwSA9iG9fas0klhPMab6kovehy0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZtYnJjanByejN3bTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.NUZQ8a75VDE3Z42_2IWihJAZH3d0pRuRAdvezJT8pPk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijd2ZmlnOHV3OXU5cDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.IpSeh-75TSCcg5G3PPIUqe5qVCylsB7psLDCI5QC9Ok/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlkeXExYjMzdHh3NDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.M1fWHUCGJDdeg0PfSV3wuf5hTvVqPgw8RXvZJyA6xWI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImN2ZmRma2Z0cGdrcDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.bMzbrfMUsRXJ4mMwL1IEGZ0eeduXOvvbQjBRW77opow/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZudjBweGZ6YXJtNjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.VrZpl2OlKODwMyOj99Sp70whsO7ftbGiYR2C-RdVt1k/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Porta blindada",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Varanda",
+      "Elevador",
+      "Cozinha independente"
+    ],
+    "Equipamento": [
+      "Mobilado",
+      "Forno",
+      "Máquina de lavar loiça",
+      "Frigorífico"
+    ],
+    "Janelas": [
+      "Caixilharia de PVC"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 130,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1985,
+  "certificacao_energetica": "BMINUS",
+  "detail_fetched_at": "2026-11-10"
 }

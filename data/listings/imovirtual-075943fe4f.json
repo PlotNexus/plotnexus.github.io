@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Covilhã e Canhoso, Covilhã, Castelo Branco",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 70,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRpaDJxamkzMzY2ajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.01JWr-HbU0MYkZfBp6HrmoZYIlAvVKmOj8bcNl6U1o8/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRpaDJxamkzMzY2ajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.01JWr-HbU0MYkZfBp6HrmoZYIlAvVKmOj8bcNl6U1o8/image;s=2048x1536;q=80",
+  "description": "ALUGA-SE QUARTO A ESTUDANTE RAPARIGA – COVILHÃ\n\nAluga-se quarto a estudante, num apartamento novo, mobilado e equipado, situado em frente à Faculdade de Ciências da Saúde, na Covilhã.\n\nUma localização privilegiada, ideal para quem frequenta a universidade, permitindo deslocações rápidas e cómodas, a poucos passos da faculdade.\n\nO apartamento é partilhado com duas estudantes, proporcionando um ambiente tranquilo, acolhedor e agradável, ideal para conciliar os estudos com o conforto do dia a dia.\n\nCaracterísticas e condições:\n\nApartamento novo, mobilado e confortável;\n\nAr condicionado;\n\nAmbiente tranquilo e acolhedor;\n\nContrato de arrendamento;\n\nÁgua, eletricidade e internet incluídas no valor da renda;\n\nPossibilidade de aluguer de lugar de garagem.\n\nUma excelente oportunidade para quem procura um espaço moderno, confortável e funcional, com todas as comodidades e uma localização de excelência, mesmo em frente à universidade.",
+  "geo": {
+    "lat": 40.27882,
+    "lng": -7.48314
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,20 @@
   "published_at": "2026-11-09",
   "last_seen_at": "2026-11-10",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRpaDJxamkzMzY2ajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.01JWr-HbU0MYkZfBp6HrmoZYIlAvVKmOj8bcNl6U1o8/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRpaDJxamkzMzY2ajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.01JWr-HbU0MYkZfBp6HrmoZYIlAvVKmOj8bcNl6U1o8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw5a3U3M3E4aHkxLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.0-rpm44t_1WK3Nz6FCt2E1WuFW2mXPQjCeOphi9emUw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9obWt3Mnd5ZHduaTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.s3WIN18cRxcT2lpItP6sCgngR-V3ss8johtflncyHGc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im0wb3Vra2Q4aWQ2OC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.yg-TgqywQOOQd6xr3Ql1yWzBDizH-2Au-T8QiZwpOYk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZhajR0N3ViZHA0dzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.YufOxAoPtFVtmt0yiCEd9dHuSFiLNMWIvYuHwiTb3rI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Img5Z2JyaGdzODM5bzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kmY2vcIkOhABZfug3OPq7CDlvtfSy73nq9q7IVMhUzo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdnbmpvaG53ejNmNS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Rmu6mRqkg0OOgUlgwfiWWje8yM5aa2yZsvBglXZdi_I/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZuYzZnMWI1dWdqNDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.vdf0Mo7KOJX6S03FdYueA1WMd4bLOLjGbkAUdEeSfIo/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 70,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-10"
 }
