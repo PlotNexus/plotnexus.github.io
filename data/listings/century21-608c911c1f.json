@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 70,
   "image": "https://images.century21.pt/image3_ff824a1e-1045-4f04-a698-0c4734f055e3.jpg",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 38.8053681,
     "lng": -9.2329176
@@ -19,16 +19,41 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0468-00610",
-  "published_at": "2026-11-10",
+  "published_at": "2026-11-11",
   "last_seen_at": "2026-11-11",
   "images": [
-    "https://images.century21.pt/image3_ff824a1e-1045-4f04-a698-0c4734f055e3.jpg"
+    "https://images.century21.pt/image3_ff824a1e-1045-4f04-a698-0c4734f055e3.jpg",
+    "https://images.century21.pt/image1_9cf418e2-0c15-43bc-b2a8-e4174bfda08b.jpg",
+    "https://images.century21.pt/image5_6fb93966-0858-4b31-aa4a-0cb852fd0bf1.jpg",
+    "https://images.century21.pt/image2_aa90be00-4aaa-42f7-802e-4ced119df06b.jpg",
+    "https://images.century21.pt/image4_e0799640-7d47-492a-b1e2-d4f29cad3aeb.jpg",
+    "https://images.century21.pt/image7_bcd91b24-be04-4005-a002-92a38823bbab.jpg",
+    "https://images.century21.pt/image0_67393838-c357-44cc-9eff-36ebfc81cba0.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Ar condicionado",
+      "Alarme",
+      "Eletrodomésticos",
+      "Varanda",
+      "Churrasqueira",
+      "Janelas duplas",
+      "Cozinha equipada",
+      "Exaustor",
+      "Frigorífico",
+      "Água quente",
+      "Forno",
+      "Arrecadação",
+      "Fogão",
+      "Terraço",
+      "Máquina de lavar roupa",
+      "Esquentador"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 70,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "area_bruta_m2": 100,
+  "ano_construcao": 1990,
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-11-11"
 }

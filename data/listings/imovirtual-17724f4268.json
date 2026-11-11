@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Abraveses, Viseu",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 252,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJ4dG4yb2h3cjI4bzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dcmS50FezSL0FCnwcEvvIiDbKZnERc7Jzve2ptLQFuU/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJ4dG4yb2h3cjI4bzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dcmS50FezSL0FCnwcEvvIiDbKZnERc7Jzve2ptLQFuU/image;s=2048x1536;q=80",
+  "description": "Apresentamos esta magnífica moradia térrea nova T4, localizada na zona do Campo, ideal para quem procura uma habitação moderna, funcional e eficiente, onde o conforto e a qualidade de vida se conjugam com a tranquilidade de uma localização privilegiada.\n\nImplantada num terreno com aproximadamente 1.400m², esta moradia destaca-se pela sua arquitetura contemporânea, excelente distribuição dos espaços e generosa área exterior, proporcionando um ambiente ideal para quem valoriza a privacidade, o espaço e o contacto com a natureza.\n\nDesenvolvida integralmente num único piso, privilegia a comodidade e a fluidez dos espaços. A zona social apresenta um conceito openspace, integrando sala e cozinha de forma harmoniosa, criando um ambiente amplo, luminoso e acolhedor, perfeito para momentos em família ou de convívio.\n\nA zona privativa é composta por três quartos, um deles suíte, com closet, proporcionando maior conforto e privacidade. Dispõe ainda de um quarto adicional, que poderá ser utilizado como escritório ou quarto, adaptando-se facilmente às necessidades de cada família. A moradia conta também com uma casa de banho completa de apoio aos quartos e um WC de serviço, garantindo maior funcionalidade no dia a dia.\n\nAo nível do conforto e eficiência energética, estará equipada com aquecimento por piso radiante, alimentado por bomba de calor, proporcionando uma distribuição uniforme do calor e elevado conforto térmico. Conta igualmente com bomba de calor para aquecimento de águas sanitárias e sistema VMC (ventilação mecânica controlada), assegurando a renovação contínua do ar interior e contribuindo para um ambiente mais saudável e confortável.\n\nA moradia inclui garagem fechada, oferecendo segurança e comodidade adicionais, bem como uma zona técnica localizada junto à garagem, destinada à instalação e organização dos equipamentos de apoio à habitação.\n\nDispõe ainda de pré-instalação de ar condicionado, estores elétricos e caixilharia com vidros duplos, sistema oscilo-batente e rutura térmica, garantindo um excelente isolamento térmico e acústico e maior conforto ao longo de todo o ano.\n\nNo exterior, poderá ainda desfrutar de uma agradável zona de churrasqueira, ideal para momentos de convívio e lazer com família e amigos, beneficiando da generosa área de terreno envolvente.\n\nSe procura uma moradia nova, térrea e moderna, com três quartos, suíte com closet, garagem fechada e um terreno com aproximadamente 1.400m², esta poderá ser a oportunidade ideal para concretizar o seu projeto de vida.\n\nUma habitação pensada para quem valoriza o espaço, a privacidade, o conforto e a qualidade de vida, numa zona tranquila do Campo, com bons acessos e proximidade às principais comodidades.",
+  "geo": {
+    "lat": 40.6932,
+    "lng": -7.934704
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,29 @@
   "published_at": "2026-11-10",
   "last_seen_at": "2026-11-11",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJ4dG4yb2h3cjI4bzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dcmS50FezSL0FCnwcEvvIiDbKZnERc7Jzve2ptLQFuU/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJ4dG4yb2h3cjI4bzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dcmS50FezSL0FCnwcEvvIiDbKZnERc7Jzve2ptLQFuU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdtaWxlcGdweWRxaTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.HWD8F4z9fOcwo8_yKcXCrhbLTBOfPAVFq5s0mb-ljKg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlwZ3BxbGhmcWFwcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.A6l_cXjQarqbMIdf1AJ-Jf3WgsGc4ZjgSBhxzqExOCU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZiM3EzbGJsZWJtay1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.sXzaqWAmRF9_23Woy__oOZVTp73aFgrJ5N29TbZKLBo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Iml2bnk5c2pzMjdtdy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.0m-spRz62W-X0L9cqjSzYqbOZayZvUk2nkdgcN0xUxk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Img4MHFiMGEzNDdnZjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.oyWTRP4RTx2edzta90KNZb3EbgyRxEZqut-XoOgtPE8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijl4N3VxM24zbXNoNjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.SfgI7w0ur9oLuBoYvEFBA7ow1oEOz6s0VvrFnN7UDdE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijk3bHhhc3BlbWk4ODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9sf8F7EfsParvDcY82i9p2UzXF3XKuAhExwkUN6YPRs/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado",
+      "Varanda",
+      "Garagem"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
   "estado": null,
   "area_util_m2": 252,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2027,
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-11"
 }

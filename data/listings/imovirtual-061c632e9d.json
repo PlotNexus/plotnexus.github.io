@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Mundão, Viseu",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 161,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNrMmFjMGdubm04ei1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.t4xXqHqs-qMQCx8oHtVEU6ZhuW2q-mHwvADprL-6_Hc/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNrMmFjMGdubm04ei1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.t4xXqHqs-qMQCx8oHtVEU6ZhuW2q-mHwvADprL-6_Hc/image;s=2048x1536;q=80",
+  "description": "Fantástica moradia isolada com arquitetura moderna a iniciar construção brevemente, totalmente térrea e com excelentes áreas, inserida num terreno com a excelente área de 1995 metros quadrados, situada em zona tranquila a cerca de 7 kms do centro da cidade de Viseu.Esta moradia é distribuída da seguinte forma: sala e cozinha em conceito open-space, 4 quartos, sendo um deles suite com casa de banho privativa e walk-in-closet, uma casa de banho de serviço para visitas, uma casa de banho de serviço de apoio aos quartos, garagem fechada para duas viaturas, lavandaria e hall de entrada.Este imóvel dispõe de vários atributos, tais como: revestimento exterior em capoto com 8 cm, aquecimento por piso radiante ligado a bomba de calor com termoacumulador de 300 L, pré-instalação de ar-condicionado, estores elétricos, caixilharia oscilo-batente com vidros duplos em alumínio com rotura térmica ou PVC, Sistema VMC (Ventilação Mecânica Controlada), tetos falsos com focos embutidos, portões automáticos, roupeiros embutidos, móveis modernos com linhas direitas, cerâmica retificada, piso flutuante vinílico, calçada em granito, entre outros.Projeto chave na mão. Possibilidade de escolha dos acabamentos a gosto do cliente, se requeridos atempadamente. A piscina não se encontra incluída no valor apresentado.Não perca a oportunidade de ter a moradia dos seus sonhos! Agende já a sua visita!",
+  "geo": {
+    "lat": 40.706978,
+    "lng": -7.8763413
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,48 @@
   "published_at": "2026-11-10",
   "last_seen_at": "2026-11-11",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNrMmFjMGdubm04ei1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.t4xXqHqs-qMQCx8oHtVEU6ZhuW2q-mHwvADprL-6_Hc/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNrMmFjMGdubm04ei1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.t4xXqHqs-qMQCx8oHtVEU6ZhuW2q-mHwvADprL-6_Hc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InQ3NmQxems1eXFnazMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Qkp15dTgsBKw_qBMuOhy1OAfJvfi8FV0FpN4J-AbMXI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQ2aGJ3b2hmaWZhZTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-ueNjsyHX3cobssocfkP3kKDTo1uE2oU78716mkVMbY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjV1eWJ3MjE5ZzgxejEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.eNp8bVqCw7iyM-DeYaQvgzsNm-xfeg3EyNKEim0NEHs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdkcWptN3hyanFocTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.j3g-mQAXneHkDVBb98UGwgiH5JZy94brqeb9bTb9OVI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ink0b2Nyb2RzdG02NDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8FdPDKayCpCCF8aI4ToRlHJqgjsBvxlX2HY0JJferGg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdpY3Z5ZXY4a2wzajMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1h8-OsMjKYwez_bU-kt1oxLKPPT0gL75tXLsoYTZuro/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjB1ZjRqZnZiOWJ6eS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.oXjW5nUilGrY7iy0P-ynZW72a3huWjYHv0Kt4VNnbmM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InM1NHNtb3Jsc2Ywei1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.2uNRuFfiJCLvmDRRfICU6Y5Z1lqfM9xDVbjjKyv-_N8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjE4bWdxeTM1NHpyNjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UcQN9QHF7Ah5S4gZfmMcbkZx9UWEd1sTl3WcHV-UUlM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im51bms2cG8weTN2MTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zdRkcI4X8NSzDAVVqe2Zl47C36pClbkBobDs4_XdvV4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh0eGtlaTZ1bXN6ZjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ACkVu8j48AGzbkSXAxG_rugzxosshgUWvtuDzV6ctA8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc0cXhnOTNkaGpzajItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BCXp03ItrhcTB6u_A0IXnuFdF7-ggGPfU_aN0JA7rGg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhlbDN1cWcyYmdoMTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.p-9tUa7t18mpGH_5lqBMixLMayD6oWdCr2VgkF6CCT8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNoNmZ4YnJxMWI2ajMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.spmi1fW-kgCug6rICutn52iA1PcNpRrBo2XUQKhKu5c/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InMxNGRrbno2OG43aTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ib7rc9Ve233T-dLst19TGwNkLL8l8E9aB3cxC0YOoAE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InpjNWJzZ3c5a3ZiNDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.GRz9DXwAUSRUsmWaWww9kCHkRW-x97mO3aqw2QB-Jfs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImM4eXFvNHBsMXB2NzEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.24NjWc70R4ziUwwxiAFUHY_zYXWYLHfeSFIRfhgN6Jk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ims5MGFyZGM1aHg4ZjMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8fam2-XZ0mg_xPqfpqUEUAvGM5vkMNs9F9ydPcs8M_4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNmNzNxOWNyeHl6Ni1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.7XP5YRUgkLVvxMeRUkzOh9HD_9vvQueVTiG7nfr_U00/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Estores",
+      "Porta blindada",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Jardim"
+    ],
+    "Multimédia": [
+      "Internet"
+    ],
+    "Janelas": [
+      "Caixilharia de PVC"
+    ]
+  },
   "estado": null,
   "area_util_m2": 161,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2028,
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-11"
 }
