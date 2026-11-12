@@ -8,7 +8,7 @@
   "bedrooms": 2,
   "bathrooms": null,
   "area_m2": 96,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1132037/P200395047/Tphoto/ID75ad3013-d163-4821-bcb4-1aa8190b41c8.jpg",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1132037/P200395047/Tphoto/ID75ad3013-d163-4821-bcb4-1aa8190b41c8.jpg",
   "description": "#ref:35470805",
   "geo": {
     "lat": 40.661456,
@@ -19,16 +19,26 @@
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/alugar-apartamento-t2-viseu-3cdfb7b7-94d0-4128-ad6a-1dd15b5a9616.html",
-  "published_at": "2026-11-11",
-  "last_seen_at": "2026-11-11",
+  "published_at": "2026-11-10",
+  "last_seen_at": "2026-11-12",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S6/C1132037/P200395047/Tphoto/ID75ad3013-d163-4821-bcb4-1aa8190b41c8.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1132037/P200395047/Tphoto/ID75ad3013-d163-4821-bcb4-1aa8190b41c8.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 1",
+      "Varandas"
+    ],
+    "Equipamentos": [
+      "Elevador",
+      "Roupeiros",
+      "Mobilado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 96,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A+",
+  "detail_fetched_at": "2026-11-12"
 }

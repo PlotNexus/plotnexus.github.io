@@ -8,8 +8,8 @@
   "bedrooms": 4,
   "bathrooms": null,
   "area_m2": 161,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S5/C996/P30405874/Tphoto/IDf2f4cf01-0000-0500-0000-000019c1e9ae.jpg",
-  "description": "Apartamento T4 em condomínio fechado (com piscina e espaços verdes) com uma área total de 222 metros quadrados, situado em São Pedro de Penaferrim, no concelho de Sintra.\n\nInserido no 1º andar, imóvel é composto por:",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C996/P30405874/Tphoto/IDf2f4cf01-0000-0500-0000-000019c1e9ae.jpg",
+  "description": "Apartamento T4 em condomínio fechado (com piscina e espaços verdes) com uma área total de 222 metros quadrados, situado em São Pedro de Penaferrim, no concelho de Sintra.\n\nInserido no 1º andar, imóvel é composto por: \n\n hall de entrada, \nsala comum espaçosa com lareira, 42m2\nvarandas, \nquatro quartos (um deles em suíte), 18m2, 14m2, 19m2,15m2\ntrês casas de banho, \ncozinha mobilada e com uma área generosa, 19m2 \ndois arrumos \ndois lugares de garagem.\n\nLocalizado em zona residencial muito tranquila, próximo de pontos de comércio, serviços e transportes públicos. Zona com boas acessibilidades, próximo às autoestradas A9 e A16.",
   "geo": {
     "lat": 38.76008,
     "lng": -9.38254
@@ -19,16 +19,50 @@
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/comprar-apartamento-t4-sintra-s-maria-e-s-miguel-s-martinho-s-pedro-penaferrim-linho-(sao-pedro-penaferrim)-433194b6-68cb-11f1-ba38-060000000058.html?g3pid=1098549",
-  "published_at": "2026-11-11",
-  "last_seen_at": "2026-11-11",
+  "published_at": "2026-11-12",
+  "last_seen_at": "2026-11-12",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S5/C996/P30405874/Tphoto/IDf2f4cf01-0000-0500-0000-000019c1e9ae.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S5/C996/P30405874/Tphoto/IDf2f4cf01-0000-0500-0000-000019c1e9ae.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 3",
+      "Número de pisos: 1",
+      "Total quarto(s): 4",
+      "Sala(s): 1",
+      "Casa de Banho Partilhada",
+      "Cozinha(s)",
+      "Hall de Quartos",
+      "Varandas"
+    ],
+    "Zona Envolvente": [
+      "Auto-Estrada",
+      "Espaços Verdes",
+      "Transportes Públicos",
+      "Campo de Golfe",
+      "Hipermercado",
+      "Hospital",
+      "Posto de Combustível"
+    ],
+    "Equipamentos": [
+      "Elevador: 1"
+    ],
+    "Extras": [
+      "Conservação: Em Uso",
+      "Piso: 1"
+    ],
+    "Áreas": [
+      "Área Bruta: 256.00",
+      "Área Útil: 161.00"
+    ],
+    "Infraestruturas": [
+      "Garagem: 3"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 161,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 256,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-12"
 }

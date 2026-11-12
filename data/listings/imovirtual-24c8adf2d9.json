@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Mateus, Vila Real",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 104,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJybjh6MGtoa2s1eDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tUeo5w3hIQXsGehRVkILXdvmUW2cv-e1JzjItZH6Xfs/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJybjh6MGtoa2s1eDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tUeo5w3hIQXsGehRVkILXdvmUW2cv-e1JzjItZH6Xfs/image;s=2048x1536;q=80",
+  "description": "3 quartos, 1 deles suítear condicionadocasas-de-banho totalmente renovados em 2022garagem para 2 carros com instalação para carregamento de carro eléctricojardimzona sossegada e perto de vários pontos de interesse. Para mais informações, fotos ou eventual visita, mandar mensagem para posterior contacto.",
+  "geo": {
+    "lat": 41.303677,
+    "lng": -7.720808
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,20 @@
   "published_at": "2026-10-28",
   "last_seen_at": "2026-11-12",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJybjh6MGtoa2s1eDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tUeo5w3hIQXsGehRVkILXdvmUW2cv-e1JzjItZH6Xfs/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJybjh6MGtoa2s1eDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tUeo5w3hIQXsGehRVkILXdvmUW2cv-e1JzjItZH6Xfs/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda",
+      "Garagem",
+      "Jardim",
+      "Ar condicionado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 104,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2011,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-12"
 }
