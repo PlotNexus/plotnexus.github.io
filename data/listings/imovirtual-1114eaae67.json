@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Nossa Senhora de Fátima, Entroncamento, Santarém",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 123,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQza2MwcGF1ajA1OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.YkSua4Oj5pWUC6Su71R3hSGFiGL2t96ZpH_hAbRtTIU/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQza2MwcGF1ajA1OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.YkSua4Oj5pWUC6Su71R3hSGFiGL2t96ZpH_hAbRtTIU/image;s=2048x1536;q=80",
+  "description": "Apartamento T3, com características singulares, localização priveligiada e de grande recorte técnico! Próximo ao centro da Cidade de entroncamento, estação de caminhos de ferro, espaços comerciais, restauração, serviços, hospital, parques infantis e escolas.\n\nUm novo conceito de habitação está a chegar.\n\nApresentamos este T3 de arquitetura contemporânea, pensado para quem procura espaço, conforto e uma seleção cuidada de acabamentos, num ambiente moderno e elegante.\n\nA zona social assume especial protagonismo, com uma sala de aproximadamente 40 m², ampla e luminosa, com ligação a uma generosa varanda com cerca de 12 m².\n\nA cozinha equipada, de linhas contemporâneas, conta com península de apoio, mobiliário em branco caximira e bege e uma composição pensada para integrar funcionalidade e design.\n\nNa zona privada, o apartamento dispõe de uma suite completa com closet, dois quartos com roupeiros embutidos e duas instalações sanitárias.\n\nO pavimento em tom carvalho, os roupeiros brancos e os detalhes dourados nas torneiras e acabamentos das casas de banho acrescentam um carácter sofisticado ao conjunto.\n\nPrincipais características:\n\n- hall de entrada;\n\n- cozinha equipada com península;\n\n- arrumos;\n\n- sala com cerca de 40 m²;\n\n- varanda com aproximadamente 12 m²;\n\n- suite com closet;\n\n- dois quartos com roupeiros;\n\n- duas casas de banho;\n\nDetalhes:\n\npavimento em tom carvalho; acabamentos e torneiras em dourado; roupeiros brancos; cozinha em branco caximira e bege.\n\nUM PROJETO PENSADO AO DETALHE.\n\nUM NOVO LUGAR PARA VIVER.\n\nPreços e disponibilidade das frações estão sujeitos a alteração sem aviso prévio, previsão de finalização Julho de 2027.",
+  "geo": {
+    "lat": 39.464294,
+    "lng": -8.478699
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,27 @@
   "published_at": "2026-11-12",
   "last_seen_at": "2026-11-13",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQza2MwcGF1ajA1OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.YkSua4Oj5pWUC6Su71R3hSGFiGL2t96ZpH_hAbRtTIU/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQza2MwcGF1ajA1OTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.YkSua4Oj5pWUC6Su71R3hSGFiGL2t96ZpH_hAbRtTIU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im40cThqZmR1amc3aS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.NaScad7OjIY9tcu-QC3QwCAFDS2w26296f58QmDo1O8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFrOHFsNWY3b3ZueDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.J3DHxooeKvQTjmc3-ju42imGVcci2ZV1EruqTdJyAPo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhqYWtheW9wamtzOC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.cUhNDwfztWoGpQC8b1TFn3czpzxat53G5k7P9Sikk3w/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQzaTcxMWJhcGZ3ZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ixcAdGwmlqTAIOzhjmo9UJL4VAz0Qb3iXO47zIfJJ4Y/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im4yZXRiM3g4N2I0NzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.u6OdunWZHTt_F8rDo5wN6vdKGdKdNLsgDwv9ldlVpTE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imd1MTRtenRyZmxtcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.pdJ8XMuo-Q3g025y9gyJmUmlzIqPw6qkEt5okDVVhSI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRxMHR4amtqYWZqYTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-jTirQqm2X8_d96gkEAT6dBZx60jj2ysA2DBppLD7Zo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlmcDJxNWxzcm4xODMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.l3qEhXrbAdtRqH0jWkKsoAq5h-7QQUJK1okg1Z_OGKk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjEzOGFhY3NuMjFnOC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.-kU5idqXQbbP8fa59p0h8mj4APMAv30CwgZzFxqWYQw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJncmp6cjdqamlmMDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.HRC-KYcA2SuGAQeN0JoxZCLZs64KOw3udZVbupckVGk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJjazR2enQzcW9qNzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2rF28fFFBbm2UpM-btzqSHJ98eYcUjs9LUe2aakHP6w/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFrbDFjNWFodDFrcTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kKZ4pJFDH96xVZYiRW3PeRLrk4nhUmlmERPSH_SY1zg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBxeHQ2YzA2NHduNDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.LSHwA6NljGv-xq9JDmCtbbPohydTH8Ehs_-I8fs4-O8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImR5bWptd2pqOHVtZTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Av-WNhSLUSJ4TcGljXX5U0k0jKBmUuHixZB6FLqMbhA/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 123,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-13"
 }

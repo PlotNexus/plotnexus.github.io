@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Viseu",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 140,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1qbDV3MHdnN25vNDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.KuDMYj0XVeMh8dh0u4OqV3jL70-miZCj5KEMqwFT90Y/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1qbDV3MHdnN25vNDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.KuDMYj0XVeMh8dh0u4OqV3jL70-miZCj5KEMqwFT90Y/image;s=2048x1536;q=80",
+  "description": "Este projeto para Moradia Isolada V3 em Viseu destaca-se pela sua construção inovadora em LSF (Light Steel Frame - Estrutura em Aço Leve), que oferece elevados padrões de conforto e eficiência.\n\nDesenvolvida num único piso, esta Moradia contará com uma zona social funcional e prática, composta por sala e cozinha, e 3 quartos, um dos quais suíte. Todos os quartos terão roupeiros embutidos, assegurando o máximo aproveitamento do espaço. \n\nPensada com foco na sustentabilidade, esta construção utiliza o betão apenas na base, apostando em materiais de elevada qualidade que proporcionam um excelente isolamento térmico e acústico, bem como maior resistência sísmica. \n\nSe procura uma Moradia nova, com um conceito construtivo moderno e eficiente, esta é a oportunidade perfeita para si.\n\nContacte-nos para saber mais informações.\n\nNota: O preço apresentado refere-se exclusivamente à construção da Moradia, não incluindo o valor do terreno.",
+  "geo": {
+    "lat": 40.661514,
+    "lng": -7.9083734
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,15 @@
   "published_at": "2026-11-12",
   "last_seen_at": "2026-11-13",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1qbDV3MHdnN25vNDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.KuDMYj0XVeMh8dh0u4OqV3jL70-miZCj5KEMqwFT90Y/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1qbDV3MHdnN25vNDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.KuDMYj0XVeMh8dh0u4OqV3jL70-miZCj5KEMqwFT90Y/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJiZjg5amRucHE5MDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3VRt5CbgNBQxNG2fmSnGDVBwD63W-xnDKJSS8rA7drA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRjOXlwbTd3c2EzODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.elrOfsi4TxXi3dQAoCezLDclcu9TOu-_EQTTgj8oEj8/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 140,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2027,
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-13"
 }

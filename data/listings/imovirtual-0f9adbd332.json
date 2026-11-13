@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Setúbal (São Sebastião), Setúbal",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 104,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJlam56d2x1eDJiMDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yULlQ4Y4VylNGNphQCpDR6_eIg1BVxDV5TE2a1dZPc8/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJlam56d2x1eDJiMDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yULlQ4Y4VylNGNphQCpDR6_eIg1BVxDV5TE2a1dZPc8/image;s=2048x1536;q=80",
+  "description": "Apartamento Espaçoso com 3 Quartos - Excelente Oportunidade de Investimento\n\nApresentamos um magnífico apartamento com 103 m² úteis, localizado no 3º andar sem elevador. Este imóvel encontra-se em ótimo estado de conservação e oferece excelentes áreas, sendo perfeitamente habitável e necessitando apenas de algumas remodelações pontuais para ficar ainda mais sofisticado.\n\nA distribuição interior é generosa e funcional. A sala comum, com aproximadamente 30 m², é um espaço amplo e luminoso, ideal para momentos em família. A cozinha é verdadeiramente ampla, contando com uma zona dedicada para máquinas, permitindo uma organização perfeita dos eletrodomésticos. Complementa esta zona uma despensa com muita arrumação, oferecendo soluções práticas de armazenamento.\n\nOs três quartos possuem boas áreas e distribuição inteligente. Um deles dispõe de roupeiro embutido, enquanto outro conta com roupeiro móvel, proporcionando flexibilidade e conforto. O apartamento inclui dois WC — um de serviço e outro completo — garantindo comodidade para toda a família.\n\nA localização é verdadeiramente privilegiada, próxima de escolas, comércio e transportes públicos, tornando a vida quotidiana mais prática e acessível. Este imóvel é ideal para uma família grande ou para quem procura uma excelente oportunidade de investimento.\n\nO prédio dispõe de um sistema de elevação de cadeira EGiro, que os condôminos podem aderir.",
+  "geo": {
+    "lat": 38.53341,
+    "lng": -8.85645
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,24 @@
   "published_at": "2026-11-12",
   "last_seen_at": "2026-11-13",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJlam56d2x1eDJiMDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yULlQ4Y4VylNGNphQCpDR6_eIg1BVxDV5TE2a1dZPc8/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJlam56d2x1eDJiMDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yULlQ4Y4VylNGNphQCpDR6_eIg1BVxDV5TE2a1dZPc8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdyZWg5Y21jY2Qxai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.524scLThxxRda1LuhG-3G9Hui9RifHIbqk34o-A-gDY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InU3c3YxcTBjNWhnNjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.eTige5jooeBxtJrmfcxHUPRrnVI9APE5MSmrtzW0t2o/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhyZTQ0dmJwNnJsbjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.q7c_0GqJ7kE8pePrD7it4UiPSbLfmKC4QfRbmwPasas/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZ3NThsdm43dDQ3bTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ozYDtJbQyI8cwI76mU1xffOdhsR4phOtGCDzxjLj-7g/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZ5aTY4enc0NjBmbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.IwW-dw70yz-l72mmTdqgD2KrQSLF-ooWzKHIK5572HQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlieGE2b3dlbzJydTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.NMDmOsloHg-zw_2LfOYjhNMpEjuBBb9hRt6APGNLoIQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhmY3ozYXZheDljdTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.5pkxZG9FhbAwlDMhdK7FRAAbEC3NLfPco_l4Ld4xDnw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Iml2aXNyOG1wZnFhZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.607hvrD8vZva13zjTyQIqDwIGitf2QDYKhObwU_CSOM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhkMW5rMmVra2EyZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0AbyzTDE63uMSok4c6qBryh14kxc2JGSIS7foM3TKh0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im13cTgwZ2I5MHhhMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.NnaXwGB24G3fy1qp8WLjkCDypweil-E6rgF-JcutERA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImsxMHFsdnR3dnBqazItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.LFH7dFiySf9ie_40WugUJsqqaexrA6P4vm_LmaacVXo/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 104,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-13"
 }

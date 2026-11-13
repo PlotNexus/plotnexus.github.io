@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Caniço, Santa Cruz, Ilha da Madeira",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 49,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9wcjFzZWxsaXd5Zy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.0CBcFunKv1Ol6LzXA0pFAT_EBeMJMgftU64iW11xmks/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9wcjFzZWxsaXd5Zy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.0CBcFunKv1Ol6LzXA0pFAT_EBeMJMgftU64iW11xmks/image;s=2048x1536;q=80",
+  "description": "Apresentamos este excelente apartamento T1 localizado numa das zonas mais exclusivas e prestigiadas do Garajau. Situado no coração do Garajau, permite fazer a vida do dia a dia a pé, ficando a breves passos de mercados, farmácias, restaurantes, padarias e transportes públicos, para além de oferecer um acesso praticamente imediato à via rápida. Para sua total comodidade e conveniência, o apartamento inclui ainda um lugar de garagem privado no edifício e uma arrecadação. Se procura praticidade, tranquilidade e uma localização central com tudo à porta, este é o imóvel ideal. Agende já a sua visita!\n\n//\n\nWe are pleased to present this fantastic 1-bedroom apartment located in one of Garajau’s most exclusive and sought-after residential areas. The standout feature of this property is undoubtedly its prime location in the heart of Garajau, allowing for a fully walkable lifestyle. You will find markets, pharmacies, local restaurants, bakeries, and public transport just a short stroll away, alongside immediate access to the highway. For maximum comfort and convenience, the apartment also comes complete with a private parking space in the building and a storage unit. If you value connectivity, local convenience, and a hassle-free lifestyle in a prestigious neighborhood, this property is the perfect match. Contact us today to arrange your viewing!&nbsp;",
+  "geo": {
+    "lat": 32.644875,
+    "lng": -16.853188
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,23 @@
   "published_at": "2026-11-12",
   "last_seen_at": "2026-11-13",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9wcjFzZWxsaXd5Zy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.0CBcFunKv1Ol6LzXA0pFAT_EBeMJMgftU64iW11xmks/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9wcjFzZWxsaXd5Zy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.0CBcFunKv1Ol6LzXA0pFAT_EBeMJMgftU64iW11xmks/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjI5MXJ5b2Q3dTQyeDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.4aNwUr4djGT3-4pakWKlCFYXDZzP50lw9bpUYk8uiYc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdrMXpzdWxqMWxoZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6ztovb8i3_MyDZNC64PqFfGFUGCdqDfkafUiQGuNPZY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlhZDA4bGY4dWhjOTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.wj4iYXx-8fayBAUiQFs2hdRvoRNO8DMeOq_4mPIKsts/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImV6OHd6M3k0MGJ0dDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.o9PaKxeOVnLTyrJWAtuvxDKk9Xq0sptvAfhlhV91voU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InY3MXpxMjgweWhncTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DcwYKp2QWTReYReebc0Bd2BmW_7UkGrz-1LD1G-8Wgw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imk3aWMyOGExdWFmajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Qv0WEBFBkKaYrL1JPK0wAbpsWR42LOUe84NX2AFudz4/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 49,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2009,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-13"
 }
