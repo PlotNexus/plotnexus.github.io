@@ -9,7 +9,7 @@
   "bathrooms": 1,
   "area_m2": 58,
   "image": "https://images.century21.pt/7cc47aaa-b5d6-4d6b-b71d-dc5c46db1cba/fachada.jpg",
-  "description": null,
+  "description": "$21",
   "geo": {
     "lat": 38.7473744,
     "lng": -9.2135606
@@ -19,16 +19,36 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0516-00367",
-  "published_at": "2026-11-12",
-  "last_seen_at": "2026-11-12",
+  "published_at": "2026-11-13",
+  "last_seen_at": "2026-11-13",
   "images": [
-    "https://images.century21.pt/7cc47aaa-b5d6-4d6b-b71d-dc5c46db1cba/fachada.jpg"
+    "https://images.century21.pt/7cc47aaa-b5d6-4d6b-b71d-dc5c46db1cba/fachada.jpg",
+    "https://images.century21.pt/d9b39d30-8462-4679-b2c7-70a58f8aa688/corredor1.jpg",
+    "https://images.century21.pt/a34ddbdc-bfe8-4c13-9433-0134c7d314cb/cozinha2.jpg",
+    "https://images.century21.pt/696ca10a-21e5-45e0-a0ea-7ef80b5e7196/cozinha1.jpg",
+    "https://images.century21.pt/46310910-ca4a-426b-ba66-7e44ad5e7671/sala3.jpg",
+    "https://images.century21.pt/c323827f-bd9f-4ab1-929a-d8a0db456987/sala1.jpg",
+    "https://images.century21.pt/ab11d3f5-8381-4cbd-bab1-1903b58cde03/salacozinha.jpg",
+    "https://images.century21.pt/d29daa8d-6487-4032-a887-20941694b49d/quartod2.jpg",
+    "https://images.century21.pt/b60e8aca-8fdb-461d-90ec-974e41abbff5/quartod1.jpg",
+    "https://images.century21.pt/6476f818-e4bb-4a87-a388-c876699d94cd/quartro3d.jpg",
+    "https://images.century21.pt/1b012780-0ddf-4882-8d70-5e425ac4bbbd/quarto6.jpg",
+    "https://images.century21.pt/4c297bb7-f61f-424b-9262-c5733b15be4c/corredor.jpg",
+    "https://images.century21.pt/d802ebbe-d7f6-4c67-a2b1-af2af2efeffe/quarto.jpg",
+    "https://images.century21.pt/28d462d8-1a28-40b4-960e-8e052c6853a3/quarto1.jpg",
+    "https://images.century21.pt/d3677dfe-ff59-41bf-bd5c-dae05edb40c5/quarto2.jpg",
+    "https://images.century21.pt/9d810177-0b57-458b-a80e-d60c08a6afd1/wc.jpg",
+    "https://images.century21.pt/27c1b9e0-5a9c-42fe-b50e-6d440d040114/fachada1.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Elevador"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 58,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "area_bruta_m2": 63,
+  "ano_construcao": 1972,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-13"
 }

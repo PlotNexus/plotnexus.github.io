@@ -9,7 +9,7 @@
   "bathrooms": 2,
   "area_m2": 119.44,
   "image": "https://images.century21.pt/05b07371-7da3-46b8-8634-95988725997d/69ccbda1-a005-4586-a134-b1faa3eb33b7.png",
-  "description": null,
+  "description": "$22",
   "geo": {
     "lat": 41.120325,
     "lng": -7.507095
@@ -19,16 +19,45 @@
     "url": "https://century21.pt"
   },
   "listing_url": "https://www.century21.pt/ref/C0393-01756",
-  "published_at": "2026-11-12",
-  "last_seen_at": "2026-11-12",
+  "published_at": "2026-11-13",
+  "last_seen_at": "2026-11-13",
   "images": [
-    "https://images.century21.pt/05b07371-7da3-46b8-8634-95988725997d/69ccbda1-a005-4586-a134-b1faa3eb33b7.png"
+    "https://images.century21.pt/05b07371-7da3-46b8-8634-95988725997d/69ccbda1-a005-4586-a134-b1faa3eb33b7.png",
+    "https://images.century21.pt/e06145c8-ba01-4f5c-9595-9b9af59b94af/Sala.png",
+    "https://images.century21.pt/920bcf21-cf4d-483e-ac54-c5da6eb676cf/Cozinha.png",
+    "https://images.century21.pt/97eebc47-d51b-4141-95f6-f7431b78e096/ImagemChatGPT10112026153950.png",
+    "https://images.century21.pt/df7f7521-52c8-4b43-90ff-f10ca6a25292/Q1.png",
+    "https://images.century21.pt/1481c494-981c-4237-9822-e8c25dcdb1a4/Q3.png",
+    "https://images.century21.pt/caed87a0-1739-4819-9d3b-f48c20889628/Wc.png",
+    "https://images.century21.pt/8e334bb1-1662-4630-8a37-01ca3ae78cdb/SL.png",
+    "https://images.century21.pt/e1dea844-f7da-4053-a8d2-e1f6d7d53d08/Sala..png",
+    "https://images.century21.pt/ee9e0562-2117-4e05-a3ba-de1bdd84aa89/Saa.png",
+    "https://images.century21.pt/f436458b-dd0d-4a5f-a519-de840147f49d/Cozinha.png",
+    "https://images.century21.pt/3e715847-4860-4b7f-8f81-67648b68aa1f/Cozin.png",
+    "https://images.century21.pt/2b901304-3e1b-4f7b-bb87-6ba8c2485650/q1.png",
+    "https://images.century21.pt/79134492-7a7e-4c6d-9ade-344b026cb9fb/Q2.png",
+    "https://images.century21.pt/ec2d2ac4-a8f1-4120-9d86-9078b3168145/WC.png",
+    "https://images.century21.pt/1c89c12e-4c8f-43fb-baef-07fe461b2980/73a94b03-ecb9-4fbf-ac9f-a9d5523767b6.png",
+    "https://images.century21.pt/3d8284c3-154c-44a4-870b-70fc28aaf253/4f5dad46-3054-4b69-b4f8-1dfd276a0782.png",
+    "https://images.century21.pt/87f9abaa-5019-422c-80e6-258df90369d0/7a951abb-d6cd-467e-a7b2-b5b1e24cd8a2.png",
+    "https://images.century21.pt/0f8ae49b-ea51-4be0-8b5c-dbe4bab7ecf8/f954fc84-4a0f-432d-b6dd-63446a6463f3.png",
+    "https://images.century21.pt/7c87d792-b0d5-4e7c-8088-1955fdf69e68/ae8bed6f-d34f-45f3-b24e-35e9aed84578.png"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Churrasqueira",
+      "Casa de banho",
+      "Quarto",
+      "Cozinha",
+      "Despensa",
+      "Estacionamento",
+      "Alpendre"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 119.44,
-  "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "area_bruta_m2": 265.5,
+  "ano_construcao": 1971,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-13"
 }
