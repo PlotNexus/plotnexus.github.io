@@ -6,26 +6,57 @@
   "currency": "EUR",
   "location": "Olhão, Faro",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 130,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImY1OW9zc3V2MnB3MjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lIM5hhwZQYD5eevreIMRPmuitJnJBhZHDjIcxg-UwQA/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImY1OW9zc3V2MnB3MjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lIM5hhwZQYD5eevreIMRPmuitJnJBhZHDjIcxg-UwQA/image;s=2048x1536;q=80",
+  "description": "Apartamento T3, composto por três quartos e duas casas de banho, uma delas privativa, em suite.\n\nLocalizado no centro da cidade de Olhão, próximo da Escola Secundária de Olhão e de diversos serviços públicos, beneficia de uma localização privilegiada. Encontra-se ainda a apenas 15 minutos a pé dos mercados municipais.\n\nO imóvel destaca-se pelas suas áreas amplas, pela tranquilidade da zona envolvente e pelo bom estado de conservação.\n\nPronto a habitar, não necessita de quaisquer obras de remodelação, sendo uma excelente opção para habitação própria ou investimento. \n\nCategoria Energética: C\n\nThree-bedroom apartment featuring two bathrooms, one of which is an en-suite.\n\nLocated in the centre of Olhão, close to Olhão Secondary School and a wide range of public services, this property benefits from a convenient and central location. The municipal markets are also just a 15-minute walk away.\n\nThe apartment stands out for its spacious rooms, peaceful surroundings .\n\nReady to move into, the property requires no renovation work, making it an excellent choice for a permanent residence or an investment opportunity. \n\nEnergy Rating: C",
+  "geo": {
+    "lat": 37.03304,
+    "lng": -7.84091
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-no-centro-de-olhao-ID1j0ec",
-  "published_at": "2026-11-14",
+  "published_at": "2026-10-12",
   "last_seen_at": "2026-11-14",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImY1OW9zc3V2MnB3MjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lIM5hhwZQYD5eevreIMRPmuitJnJBhZHDjIcxg-UwQA/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImY1OW9zc3V2MnB3MjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lIM5hhwZQYD5eevreIMRPmuitJnJBhZHDjIcxg-UwQA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjV0NHNzMDJyeGV0bDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.LXz4h_bE_wxxvkrj6Ahi9sZaujwvyjqJfvBdlMrKlZk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inpsemh6ajA4bTRjbjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kh2SAkwVkOsAtWaF8SDG34o0E1WfcMiPmzBdTYSJbnE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg0dHY1aWtmYmk5Ni1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.wV8HSucpp0OTBEIclkNDfTd99aTWTCC8pA5mrKqMI84/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdoN2ZyNXJ6NngwbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qLR-_IvVHgJ1d-eYFD7zyn8XAraWY-jOxqMbbFsLG2o/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imtjb2JiaWdvOGhuMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.QaZj-diK5b4kw5WM4rss7fP0_jGiMXqmgZ8njISBcbs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Incwczk3ZzZtZ212dzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.gKoDofTRLsFDqHpLhCe0DSJluDsBByrtp6egp3zDVYQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNhcG92M3dibmh5NzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Rp6zvrPpZ37Oggavcec4MZiJAuw-XQNrxpR70OEXoCc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imx0ZXV0dXg1YWk2OTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TY9MtR9DgkYN4yE9dNFv-a3Awfeewzkzraq8KENkxJY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ino5YW52ZDlqMjh4cTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lnTGGY0UU9_JYYj_9TyQCV-JyNM9nsv_pVJnRfplcbo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFmMXdzNDd3dWR0ZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.bzkySrcLnS9Ddudi5F-YRaMwwjBylraOm44AzUvFE20/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InpmODNrZjFqczg1Zi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.8wVRDSS0a-CS1_zAHfxA-27dY1hDECN9SHySrSYVfHg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpoMHl4dDFlMnBnZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.5sD_wM7OWjPob2BOlsHWeBV2xPmv5nl_2T2R18lwqcI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJsajI1emEwOGkwdi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.uY79FFNpe4xBF-pVxChZFc8MYaBRTRlhL5nldfPGKh8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1iaGRlMW5rOG12bTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.4zHC6zduTgqMiS4Mp9Wxq1R0vQgG9liOU3cHhVUviSo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVzbmhrZmZrbTAxMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.ONKFRF_-1hxvYT6eeq8yNszSYOaLCe8tbkzxVkxcLDA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImcxaGIyandyeXdpdzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.JJn66xWgbCJVHwWu8PTzxw9iQx20tbGcjj7wLfKrKNg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFxb3hwYjR5eDNuYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.OAuK-MVwdrK1jZyMdv4k__un0DK37U3ghye8nAOGQOw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5sYWI0ZGVyZHpvNS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.tnFjfL1WTAlpXgE_sKtyxDbNSz4Lz6i91znVRjUnOdc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImtlZXJ4c29mZnVxbC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.O4OozAx0-GA-cgyEu0DKg9OW6LsuSViYGyLgYr5YgYY/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda"
+    ],
+    "Equipamento": [
+      "Frigorífico",
+      "Forno",
+      "Ar condicionado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 130,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-14"
 }
