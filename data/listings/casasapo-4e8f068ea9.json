@@ -8,7 +8,7 @@
   "bedrooms": 2,
   "bathrooms": null,
   "area_m2": 70,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1131212/P200394770/Tphoto/IDac11fc1c-5455-4412-bc8f-c3dae7f778ce.jpg",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1131212/P200394770/Tphoto/IDac11fc1c-5455-4412-bc8f-c3dae7f778ce.jpg",
   "description": "#ref:35463178",
   "geo": {
     "lat": 39.055997,
@@ -19,16 +19,24 @@
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/comprar-moradia-t2-fronteira-fe18460e-7e2d-4e08-97d3-662cbf22b71e.html",
-  "published_at": "2026-11-08",
-  "last_seen_at": "2026-11-13",
+  "published_at": "2026-11-06",
+  "last_seen_at": "2026-11-14",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S6/C1131212/P200394770/Tphoto/IDac11fc1c-5455-4412-bc8f-c3dae7f778ce.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1131212/P200394770/Tphoto/IDac11fc1c-5455-4412-bc8f-c3dae7f778ce.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1131212/P200394770/Tphoto/ID0f3f1af1-87ee-415a-a6c0-e22b88ca6a3e.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 1"
+    ],
+    "Infraestruturas": [
+      "Arrecadação"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 70,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "G",
+  "detail_fetched_at": "2026-11-14"
 }

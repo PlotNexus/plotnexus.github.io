@@ -8,8 +8,8 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": 111,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t3-satao-satao_13_1_1593739_19393185_2_1_pzFJmUTPX7gKNS94oUilzU0745ZWA0JZbS2tUjmqRVXEB8h4ZPpqcw%3d%3d_.jpg",
-  "description": null,
+  "image": "https://mediaredir2.era.pt/i/apartamento-t3-satao-satao_14_1_1593739_19393185_2_1_pzFJmUTPX7gKNS94oUilzU0745ZWA0JZbS2tUjmqRVXEB8h4ZPpqcw%3d%3d_.jpg",
+  "description": "Apartamento T3 no centro da vila de Sátão, com 133 m2 de área bruta privativa, três frentes, situado no 1.º piso de um prédio requalificado há poucos anos. O imóvel conta com ar condicionado, pré-instalação de aquecimento central, janelas de vidro duplo, estores elétricos e cozinha equipada.",
   "geo": {
     "lat": 40.7433202,
     "lng": -7.7293902
@@ -19,16 +19,38 @@
     "url": "https://www.era.pt"
   },
   "listing_url": "https://www.era.pt/imovel/apartamento-t3-satao-satao-240260330",
-  "published_at": "2026-11-13",
-  "last_seen_at": "2026-11-13",
+  "published_at": "2026-11-14",
+  "last_seen_at": "2026-11-14",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t3-satao-satao_13_1_1593739_19393185_2_1_pzFJmUTPX7gKNS94oUilzU0745ZWA0JZbS2tUjmqRVXEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t3-satao-satao_14_1_1593739_19393185_2_1_pzFJmUTPX7gKNS94oUilzU0745ZWA0JZbS2tUjmqRVXEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Renovado",
+      "Área Bruta: 133,2"
+    ],
+    "Geral": [
+      "Nº Frentes: 3",
+      "Nº Pisos: 1"
+    ],
+    "Água": [
+      "Companhia"
+    ],
+    "Caixilharia": [
+      "Estores: Eléctricos, PVC"
+    ],
+    "Climatização": [
+      "Aquecimento Central: Completo"
+    ],
+    "Edifício": [
+      "Hall de Entrada - Paredes: Pintadas",
+      "Hall de Entrada - Tecto: Estucado, Ponto de Luz"
+    ]
+  },
+  "estado": "Renovado",
   "area_util_m2": 111,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 133,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-11-14"
 }

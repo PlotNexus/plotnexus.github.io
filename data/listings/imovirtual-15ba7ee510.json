@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Esposende, Marinhas e Gandra, Esposende, Braga",
   "bedrooms": 0,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 30,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijh3emp4eWp3ZXMyODEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Aik3hhjmB3S9j-cjSRUBgECYMn3LvNy6EMGpujfiSVc/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijh3emp4eWp3ZXMyODEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Aik3hhjmB3S9j-cjSRUBgECYMn3LvNy6EMGpujfiSVc/image;s=2048x1536;q=80",
+  "description": "Arrenda-se T0 Mobilado, situado na zona das Marinhas a cerca de 4 km de Esposende.Imóvel inserido em 2º andar sem elevador de prédio recente.Próximo de transportes e serviços (Av da Igreja em frente ao cemitério das Marinhas).Somos uma empresa sediada na cidade da Póvoa de Varzim, criada em 2016, com o intuito de melhor satisfazer a elevada demanda por imóveis na zona geográfica da Costa Verde.Constituída por equipa com extenso \"Know-How\" do mercado imobiliário e mais de uma década de experiência no ramo. O nosso objetivo visa a concretização de um sonho de vida, a aquisição de um LAR, para isso e com todo o gosto, despendemos toda a nossa energia e saber para melhor servir quem procura nova casa ou 2º habitação. A missão da Varandas da Póvoa Imobiliária, através de uma conduta profissional baseada num rígido código de ética, com um único objetivo: prestar um serviço de excelência que satisfaça todas as necessidades imobiliárias dos seus clientes.DESCUBRA O NOSSO TERRITÓRIOPóvoa de Varzim é uma cidade portuguesa na Região Norte (sub-região do Grande Porto e Área Metropolitana do Porto) situada numa planície costeira arenosa, a meio caminho entre os rios Minho e Douro e com 40 053 habitantes no seu perímetro urbano. É sede de um município com 82,21 Km² de área e com 63 408 habitantes (2011). Embora a cidade expandiu-se, a sul, para Vila do Conde, havendo uns 100 000 habitantes na aglomeração urbana. É a sétima maior aglomeração urbana em Portugal e a terceira do Norte. É um dos polos urbanos do Norte de Portugal e centralidade dos concelhos vizinhos de Vila do Conde e Esposende.",
+  "geo": {
+    "lat": 41.548183,
+    "lng": -8.783092
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,23 @@
   "published_at": "2026-11-13",
   "last_seen_at": "2026-11-14",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijh3emp4eWp3ZXMyODEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Aik3hhjmB3S9j-cjSRUBgECYMn3LvNy6EMGpujfiSVc/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijh3emp4eWp3ZXMyODEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Aik3hhjmB3S9j-cjSRUBgECYMn3LvNy6EMGpujfiSVc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imc2cHplYWhmbW9tMzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.i6QIrMfUW5XWXglIvxdYMxJ5xao8HNZo63IIq3L1NZs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Iml3bXB3eG1ldW0weS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.m4bsESrrQesc7bEYBEm3Ivufd-kjH8ib6P1MSrAUKus/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZ6eG41ZGI2am1vYTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DRqTSv-BzU5eIUaIp1qQlVZ9A3YOQBTEOnw2xEDPMNs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlkbjZ3aTRlcDg2MS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.YTZzDw0wM9O5iJTfGy6q9jTK3wAZa80NWWJnM9OODbE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJwdm9yOTNmcXRnOTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.gtqQH29w80Su8272rWXV2B7S-QPmMKTVg1_vixFKV1o/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ino5NHhueG55OGExNzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Q1lHu9X2ebA7ZfpmBjdcCGk17gaKfq15hWwSG6cxxAk/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamento": [
+      "Mobilado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 30,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-14"
 }

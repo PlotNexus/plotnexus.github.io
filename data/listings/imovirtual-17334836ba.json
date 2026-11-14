@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Arcozelo, Vila Nova de Gaia, Porto",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 165,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InljZXg3a3ZrdjJxODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.T6Fl7KZFK76TYPcTbGQOl7KFARnuRpMeyWNFoEohvoI/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InljZXg3a3ZrdjJxODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.T6Fl7KZFK76TYPcTbGQOl7KFARnuRpMeyWNFoEohvoI/image;s=2048x1536;q=80",
+  "description": "T3 para Arrendamento em Arcozelo | Espaço, Conforto e Proximidade ao Mar\n\nA tranquilidade de viver em Arcozelo, com o espaço e a funcionalidade que procura para o seu dia a dia.\n\nSe procura uma casa espaçosa, numa zona residencial tranquila, com proximidade às praias e bons acessos a Vila Nova de Gaia, Porto e Espinho, este apartamento T3 poderá ser a escolha ideal.\n\nLocalizado na Praceta José Teixeira Lopes, em Arcozelo, este apartamento, situado no 2.º andar, destaca-se pelas suas áreas generosas e pela versatilidade dos espaços, permitindo adaptar a casa às necessidades de cada família.\n\nCaracterísticas do imóvel \n\nTipologia T3, com 165 m² de área bruta privativa. \n\nUm dos quartos mobilado, pronto a utilizar. \n\nSala com mesa e cadeiras, criando um espaço funcional para refeições e convívio. \n\nCozinha equipada, para maior comodidade no quotidiano. \n\nDivisões versáteis, com possibilidade de organizar um escritório ou espaço de estudo num dos quartos. \n\nInserido num edifício residencial.Arcozelo — qualidade de vida perto do litoral\n\nArcozelo é uma excelente opção para quem procura um estilo de vida equilibrado, combinando a tranquilidade residencial com a proximidade ao mar.\n\nA localização permite usufruir das praias da Aguda, Granja e Miramar, de comércio e serviços da região e de acessos às principais vias de ligação a Gaia, Porto e Espinho.\n\nUma localização especialmente interessante para famílias, casais jovens ou profissionais em teletrabalho, que valorizem espaço, conforto e a possibilidade de trabalhar a partir de casa.\n\nA casa certa para uma nova etapa\n\nSeja para iniciar uma nova fase em família, ter mais espaço ou simplesmente desfrutar de uma vida mais tranquila perto do litoral, este T3 oferece a flexibilidade necessária para criar um verdadeiro lar.\n\nEntre em contacto e agende a sua visita. Venha descobrir o potencial desta casa em Arcozelo.\n\nFracção Exacta – O seu parceiro imobiliário\n\nCom uma história de sucesso iniciada em 2008, a Fracção Exacta é uma rede imobiliária 100% portuguesa, com presença em vários distritos do país e uma equipa dedicada a acompanhar cada cliente com profissionalismo, rigor e transparência.\n\nAtravés do nosso serviço de Intermediação de Crédito, aprovado pelo Banco de Portugal, podemos também apoiar o processo de financiamento, tornando todo o processo de aquisição mais simples e acompanhado.\n\nNa Fracção Exacta, não vendemos apenas imóveis. Ajudamos a encontrar o lugar onde começa uma nova etapa da sua vida.",
+  "geo": {
+    "lat": 41.054695,
+    "lng": -8.646755
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,38 @@
   "published_at": "2026-11-13",
   "last_seen_at": "2026-11-14",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InljZXg3a3ZrdjJxODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.T6Fl7KZFK76TYPcTbGQOl7KFARnuRpMeyWNFoEohvoI/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InljZXg3a3ZrdjJxODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.T6Fl7KZFK76TYPcTbGQOl7KFARnuRpMeyWNFoEohvoI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFyN2o4eTMxazRoeC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.ToLiTof9gTlROw2n1HV5yTjAEA_n9v8vvFX7xYK79x8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNkNW9hZ2c5cmltaTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.nnQbAzR4drNneZ0s5AvjugLZ41np6itdh76CQMfWvXY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBxYjIzOHk5YmJmaTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.mITofhdg1WFvcBeDH36qthD-ILEamAt184ZmeTVP74A/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxzcmQxbnY2aWp4YzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.si8i2d9iBhflkIHZvPlj_hXZBRKUHh55ix4LOL8T6Fs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjgzajhiYWJrMHN3YjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.OLXrrdFHRGZio2R2_JPcMFjo_rWcAYoaLh0ePxGX75k/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Img3Z3FzcWRjbjl5YTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CMBcMwa8x6bSY-mWBt_W4c-Veyj0LSxEoq99RCcOK2g/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ims5MmR5djh1bGF5dzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.gr04VcfwykLEhv2e0InoxFAZUb0rgJp9JxkoUz5DZ_M/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY0d2d3eHVraWt6YzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qOYHbLkJ2EYDjZN4NOv2Zgf99BOjSPTjHPhpM0ygPeY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InE4bTlkYzNsdzQxcDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rh4BDgZNj2LxVimu5rbi3-aR8j-HNAKV-LEGYzXcVBE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijd1N244MHpmOWlkdzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.VNtWP8aiFp8YT0Y8e1MZkMQrkPnnKLVVuta7qZbehO0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijd5dmp5ZTEyd2lqYzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.OfEN0agsonJ2ZVjNl0QIbGedpBbieBZNwFAr0niwGEQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF2Z3E5cTlnc3NobDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.e132Acy9JFGtvkSeuFSVw4b7Cd0e0j2zVnhwIRFSQ6g/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InkwNjVta2ljcW5kby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.MMnFHfsSQG7N6KcY4xOkWAwUQ8uXY1oVFutarvccko0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImR2dGgxMXlnM2VrNDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dY8qwq1zVrlviLaw_5ELGH6v1pxuak9UKvQrJiQl7bk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhhMG9lajV6eXp2ODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Wv7-FUPh4aUPi7v4hSh4wmZx1sUjdZ-sCCU79YPikvA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJvamQzOGVldWxoaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.hAUKzuGQDWearVykDLAbuOHtX0hmv3VRyShh9yULuF8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1sdGp1ZTIzaDIyOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.5FmSUGPySJYji7HTojcZxYz_X-_bXjL5zBgHVkox0Og/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1mMDAxMGtqazg4MDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.LveYf46AHUoZWaQpP9OZ4SluZg6t-DOcsebKpl3yzms/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJtamdjNGI4bmY4NDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.VpWr4O31eHqjwenccJH9HKwi-bX2tSyinAJokLCjN5Q/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Cave",
+      "Garagem",
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 165,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1996,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-14"
 }
