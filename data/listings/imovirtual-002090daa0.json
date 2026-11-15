@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Parque das Nações, Lisboa",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 69.48,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJzcWJqMGx4d2tlazEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.gZGYG8S1cQwT43DedmTqG2fRcDk2nBTOoaqNW1uJH8Y/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJzcWJqMGx4d2tlazEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.gZGYG8S1cQwT43DedmTqG2fRcDk2nBTOoaqNW1uJH8Y/image;s=2048x1536;q=80",
+  "description": "Apartamento T2, com 82,16 m² de área bruta privativa, um lugar de garagem e arrecadação, localizado no Parque das Nações, em Lisboa.\n\nEste apartamento destaca-se pela sua distribuição funcional, luminosidade natural e localização numa zona residencial consolidada do Parque das Nações, com proximidade ao rio Tejo, espaços verdes, comércio e serviços.\n\nA zona social é composta por uma sala de estar e jantar, com cerca de 22 m², beneficiando de amplas janelas que proporcionam uma boa entrada de luz natural. A cozinha, com cerca de 7 m², encontra-se equipada e dispõe de uma organização funcional para o dia a dia.\n\nA zona privada é composta por dois quartos, com cerca de 12 m² cada, ambos com roupeiros embutidos. A habitação dispõe ainda de duas casas de banho e de áreas de circulação e distribuição que asseguram a ligação entre as diferentes divisões.\n\nO apartamento inclui um lugar de estacionamento e uma arrecadação, ambos localizados no piso -2 do edifício.\n\nSituado na Rua do Zambeze, no Parque das Nações, beneficia de uma localização próxima da frente ribeirinha do Tejo, com acesso a jardins, percursos pedonais e ciclovias, restaurantes, cafés e comércio local.\n\nNas proximidades encontram-se o Centro Comercial Vasco da Gama, o Oceanário de Lisboa, o Pavilhão do Conhecimento e o Parque do Tejo. A zona dispõe ainda de escolas, equipamentos desportivos, serviços de saúde e outras comodidades essenciais ao quotidiano.\n\nEm termos de acessibilidades, beneficia da proximidade à Estação do Oriente, com ligações de metro, comboio e autocarros, bem como de bons acessos às principais vias rodoviárias, nomeadamente à A1, à A12 e à Segunda Circular. O Aeroporto Humberto Delgado e o centro de Lisboa encontram-se igualmente a uma curta distância de carro.\n\nContacte-nos já para agendar a sua visita!&nbsp;\n\n Licença de Utilização - 1034/UT/2005",
+  "geo": {
+    "lat": 38.774075,
+    "lng": -9.096057
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,36 @@
   "published_at": "2026-11-14",
   "last_seen_at": "2026-11-15",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJzcWJqMGx4d2tlazEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.gZGYG8S1cQwT43DedmTqG2fRcDk2nBTOoaqNW1uJH8Y/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJzcWJqMGx4d2tlazEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.gZGYG8S1cQwT43DedmTqG2fRcDk2nBTOoaqNW1uJH8Y/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNkbW1lNWFyeGxyYTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.bqQx4aZEkK6dC-kE0ozB0pqnuQjOIfH5WtUNzQrCpT0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImEyYjdwMXAwMWxjdi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.bPiwGpzX7Wyuy_tMzfPBPIfDVRySVNY31Y2j9h06YAA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNyYXA3dWY3bmdrNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.bmmPn0QLuq0NjOnLsoz8wKZPjtwxFnh0fA5-ENeZQvk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InpoNGRqZGZ6YnVmMDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tr9O-lXWv3DiFhC9IB1jPFGHoHIYhkoQ-hzHfryhUa8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNycGw5OGg3dXMxcjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.WEefdxr9io0tLabasAn3cvyGmX7Ztb_U1MpuubgsROQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imp6djU5bTkxcjF4dTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.xZBQf1MQqAtHZssdzNyjPyNMB3b0KsDCxfYHZO1Sb0g/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZsNnU0cDg5aTV2NTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2Rr3jtbogKm-lo4d-6sv76p4wAObpOnndFuHBtPS4J4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijlia3A1ancxM2V1NzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.YVC7VkTBxGjZl4A_mmVUUu5lPjN3mkhLyuK3JCgd1bM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZ0a3hjYzlycm56YjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0._24zMlmIw7YSQjUqj5tjJpNqsUFvwzE6vIC4zbe03og/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZ3NDZteDUxaDF0dzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.UIyWkxd5F08mTjTg2C4pVP7260Mt2_shY7hqr7ZdOTo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjR2NzRrend4dDFuNi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.WnZTLq4aYtxoKdaGoajFjqKESGaPckTngAWdf-VDGmk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijd3cWtiN29ybzdrci1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.DEOv2SPzH1x5egpIyuymcIFnK_WDODTA5frli5K2SGU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImF0dzNjOGhwbHR4Mi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.4xcs92A7vSCR25yTeYu0-5BatpBjdOwNRl5p1hDzplQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFuejkzNThlbmt3MzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9AC2SUhXuHqYXAWGniuo53UTG7S_uvqFx2_Z27vIrsc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImU2MzNjd2xkNjVldDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.s3gFlwGGw5Ed4B62RN3SJDjtvoFtiov7REk0Bx5kxEc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNjMGUwYjdwbDN2My1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.uHInbfZtA9z4mbgfZSYRGZXVFE-9y_LHWAillUmRKWE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRhMGxueGR6bjdudzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.V3sQtnoWy3dUN_e_BsvXu-3kxabohNTnOYx_nITswhI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpzZXA5bnBlNzlyMy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.2mKUyxB9OnHYgbWqKB4ArqtSiILIiDBb7cTu9u_v9kw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZyM2I0c293YXVpdTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.vr5YVSyrpfKUAEb0ST5G_6ri0-YHzqjkhOoEqciwG9I/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 69.48,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2005,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-15"
 }

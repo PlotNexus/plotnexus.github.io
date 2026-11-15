@@ -8,8 +8,8 @@
   "bedrooms": 2,
   "bathrooms": null,
   "area_m2": 87,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C632786/P200395354/Tphoto/ID7c230ff8-f7b8-4f88-9443-f3e11996a1d2.jpg",
-  "description": "Moradia T2+1 de rés do chão com quintal.\nA cozinha dispõe de Placa, Forno, Exaustor e Esquentador (gás canalizado). \nO imóvel não se encontra mobilado.\n\nAs condições são:\n- 1 Renda\n- 2 Cauções\n- C",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C632786/P200395354/Tphoto/ID7c230ff8-f7b8-4f88-9443-f3e11996a1d2.jpg",
+  "description": "Moradia T2+1 de rés do chão com quintal.\nA cozinha dispõe de Placa, Forno, Exaustor e Esquentador (gás canalizado). \nO imóvel não se encontra mobilado.\n\nAs condições são:\n- 1 Renda\n- 2 Cauções\n- Contrato Anual",
   "geo": {
     "lat": 0,
     "lng": 0
@@ -19,16 +19,37 @@
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/alugar-moradia-bi-familiar-evora-bacelo-e-senhora-da-saude-largo-das-nogueira-b43cd5b3-e18d-4c79-af9a-37d78a86f487.html?g3pid=1098831",
-  "published_at": "2026-11-13",
-  "last_seen_at": "2026-11-13",
+  "published_at": "2026-11-12",
+  "last_seen_at": "2026-11-15",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S6/C632786/P200395354/Tphoto/ID7c230ff8-f7b8-4f88-9443-f3e11996a1d2.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C632786/P200395354/Tphoto/ID7c230ff8-f7b8-4f88-9443-f3e11996a1d2.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C632786/P200395354/Tphoto/ID4e58e246-ac0e-4cf8-a365-4f60cc31e7b0.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C632786/P200395354/Tphoto/ID5849d635-20c1-4727-9639-180860166c13.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C632786/P200395354/Tphoto/IDfc03852a-4996-4aac-a961-4b30624fb5e0.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Corredor",
+      "Casa(s) de Banho: 1",
+      "Despensa(s)",
+      "Sala(s): 1"
+    ],
+    "Zona Envolvente": [
+      "Bombeiros",
+      "Escola",
+      "Hospital",
+      "Vista para Cidade",
+      "Campo"
+    ],
+    "Equipamentos": [
+      "Fogão",
+      "Gás Canalizado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 87,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 87,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-15"
 }
