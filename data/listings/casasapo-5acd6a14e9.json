@@ -8,7 +8,7 @@
   "bedrooms": 3,
   "bathrooms": null,
   "area_m2": 100,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C510302/P200391183/Tphoto/IDeb62a1a8-5e07-4e33-823e-496df3726632.jpg",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C510302/P200391183/Tphoto/IDeb62a1a8-5e07-4e33-823e-496df3726632.jpg",
   "description": "rés do chão de uma vivenda. \n#ref:35389424",
   "geo": {
     "lat": 41.189118,
@@ -19,16 +19,27 @@
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/alugar-moradia-t3-marco-de-canaveses-marco-ca248728-5211-45f1-a1c4-55becfe1abf5.html",
-  "published_at": "2026-11-03",
-  "last_seen_at": "2026-11-15",
+  "published_at": "2026-11-16",
+  "last_seen_at": "2026-11-16",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S6/C510302/P200391183/Tphoto/IDeb62a1a8-5e07-4e33-823e-496df3726632.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C510302/P200391183/Tphoto/IDeb62a1a8-5e07-4e33-823e-496df3726632.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 2"
+    ],
+    "Equipamentos": [
+      "Roupeiros"
+    ],
+    "Infraestruturas": [
+      "Jardim",
+      "Terraço"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 100,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-16"
 }

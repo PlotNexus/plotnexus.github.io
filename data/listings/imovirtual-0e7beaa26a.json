@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Alcabideche, Cascais, Lisboa",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 83,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE3YnNrbzk0czNrZDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qdpBNbswsj8JlJ1m_G5vJCf-OYK559NAs9FhjD6Hinw/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE3YnNrbzk0czNrZDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qdpBNbswsj8JlJ1m_G5vJCf-OYK559NAs9FhjD6Hinw/image;s=2048x1536;q=80",
+  "description": "Casa T2+1 em Atibá, Alcabideche, com piscina privada, churrasqueira coberta e pátio fechado com estacionamento. Renovada, com acabamentos de gama média e arrendada sem mobília.EXTERIOR- Piscina de 40 m³, renovada em 2026, com equipamento novo- Churrasqueira coberta com lava-loiça, duche e WC exterior- Pátio privado, fechado por portão, com lugar para dois carros- Garagem de 20 m²- Segundo pátio, mais pequeno, junto à cozinhaINTERIOR (83 m² úteis)- Dois quartos virados a sul (12 m² e 11,5 m²), ambos com roupeiro embutido, e varanda- Sala de estar de 17 m² com varanda e lareira decorativa (não está em uso)- Sala de jantar de 10 m², que também serve de escritório- Cozinha de 13,5 m² com placa, forno, exaustor, frigorífico americano, máquina de lavar e de secar roupa; tem espaço para máquina de lavar loiça, que não está incluída- Duas casas de banho renovadas, com base de duche- Ar condicionado num dos quartos, termoacumulador de 100 litros, arrecadação- Janelas novas nos quartos e nas salas; telhado reparado em 2025LOCALIZAÇÃO (de carro, sem trânsito)- Entrada da A5: 3 min- Retail Park (Continente, Solinca, McDonald&#39;s): 3 min- Casino Estoril e Praia do Tamariz: 6 min- CascaiShopping: 6 min- Hospital de Cascais: 8 min- Marina de Cascais: 13 min- Centro de Sintra: 14 min- Lisboa (Marquês de Pombal): 19 minCONDIÇÕES- Entrada a partir de 2 de dezembro- Contrato de 3 anos- Duas cauções e a primeira renda, ou uma caução e a primeira renda com fiador; comprovativos de rendimento- Animais de estimação aceites- Classe energética D (certificado anterior às janelas novas)- As fotografias mostram a mobília dos inquilinos anterioresVisitas por marcação, através do formulário de contacto deste anúncio.",
+  "geo": {
+    "lat": 38.72105,
+    "lng": -9.379027
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,44 @@
   "published_at": "2026-11-15",
   "last_seen_at": "2026-11-16",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE3YnNrbzk0czNrZDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qdpBNbswsj8JlJ1m_G5vJCf-OYK559NAs9FhjD6Hinw/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE3YnNrbzk0czNrZDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qdpBNbswsj8JlJ1m_G5vJCf-OYK559NAs9FhjD6Hinw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ind6eGtqZWVpOHg4MjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.oY64KPiS3fuu4AGZn9_FvWJkSeN2hgnk-_ESaSBqs5c/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRxZ3Zwcmkxc2N5Yy1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.6b0UXH-e0Ys29wrKHF2ja6-515VBfcBvxeB-MpfCSrA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImthbnBuYWh1Y3E0NC1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.tc3E80JWg3ai3B973p0RS6V9usQ2W7xwZ5xxu-tQahg/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJ4Z21wcG5rdW01aTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dqKLC_IleqdCWtN_hmR-SRI7Agfi-SPhIfB08Mi698w/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJhMXYwcHI4N2xpejEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rDz6OWLwW_7fuKI_-nl4FAVOLEe4U5l-Wu9nAMUyD1I/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNjMm84Ynlqbmt5dS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.NIyNVhx4BvL6sUrnlEQgBItCLEIaeHatbuXz2__Zy9M/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImN5eTc2ajBqaXZmZTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Bsr1ToI9i-8nhXXsHwgztbm79rLTGNxtQIt7zGE-Fo4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRya2J4ZTFvczF1NTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.EFJpnzmCv5Bek9KDaUifTuRKGE6c4NEc6nmNTXgHShI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRlZGs1bDE5dm9ocTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7cC4rkQM8LA1glmJseBFHasGHBsXJx15dSyu545ReoY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InMzdmlsZXdpNzkybjItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.OOW0-57o3SyeV2tI_g_sT4s9dug83sWWDw0dRi2sJOM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijdlc3h5c3dqNnBqaTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0._CmtzSdbzWaayTN6tUkraIdl_tsLcaTa8dzXrfNW9Ho/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjV5ZzZtdXM1bGpjai1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.TBSb0ZcLiAXaNypXhFjPcJBOAjHQc2VB2JS4RBTXZ_g/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InU3Z3k2azVqZ2o5eS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.cOfv7ohNM_lHtGzp508Ab8GLsQtEqm4vRoBfexi4Gi4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImM4dnM4MWN2NGpiaS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.4NYCHzS4NPEuKkClQw43EqK8wzDuD4VxjZTY_CIk5LI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndkZmp3NWN6aWdlZTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.gv3mpd7c9EGXBnm-tp4Ao1bZCXcvh7TpON5AQsCGphc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJpNG9iaTRoM21iYy1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.CqJMCE6bzvv-TVarUYYMXtB3_2xrgQkqwrLwpNLrcXM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InMxY3Z4ZTExaXNkeTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dRp0AQx4xnOXgkklYJd1RH6jb_JgGRn1wpghGo55Hsw/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Ar condicionado",
+      "Terraço",
+      "Varanda"
+    ],
+    "Multimédia": [
+      "TV por cabo",
+      "Internet"
+    ],
+    "Janelas": [
+      "Caixilharia de PVC"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 83,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1985,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-16"
 }
