@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "São Martinho do Porto, Alcobaça, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 80.6,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE4c2kyNHRuMTdhNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Jj_oPyoH_7eXO25X5gszgVo-aJY-dt_Kjibm2ebCpR4/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE4c2kyNHRuMTdhNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Jj_oPyoH_7eXO25X5gszgVo-aJY-dt_Kjibm2ebCpR4/image;s=2048x1536;q=80",
+  "description": "Apartamento T2 mobilado, com piscina, a 250 metros da baía de São Martinho do Porto.\n\nAo nível do 2 piso, é composto por: hall de entrada, sala com varanda, casa de banho, dois quartos com varanda e cozinha. \n\nLugar de estacionamento para uma viatura na cave. \n\nEquipado com: estores elétricos, aquecimento central, cozinha equipada, quartos com roupeiro. \n\nVista baía! \n\nExposição solar: \n\nQuartos e cozinha - Nascente \n\nSala - Poente \n\nCondomínio com piscina, jardim infantil e jardim. \n\nDistancias: \n\nLisboa: 107 Kms\n\nNazaré: 12km\n\nAutoestrada A8: 4,6km\n\nEstacão dos comboios: 160m\n\nAutoestrada A8: 5km\n\nAlcobaça: 25 Km\n\nCaldas da Rainha: 16 kms\n\nLeiria: 46 Kms \n\nCategoria Energética: C\n\n2 bedroom apartment, with swimming pool, 250 meters from the bay of São Martinho do Porto.\n\nOn the 2nd floor consisting of: Entrance hall, living room with balcony, bathroom, two bedrooms with balcony and kitchen. \n\nParking space for a car in the basement. \n\nEquipped with: Electric blinds, central heating, air conditioning, equipped kitchen, rooms with wardrobe and video intercom. \n\nBay view! \n\nSun exposure: \n\nRooms and kitchen - Spring \n\nRoom - West \n\nCondominium with swimming pool, children's garden and garden. \n\nDistances: \n\nLisbon: 107 Kms\n\nNazareth: 12km\n\nA8 Motorway: 4.6km\n\nTrain station: 160m\n\nA8 Motorway: 5km\n\nAlcobaça: 25 Km\n\nCaldas da Rainha: 16 kms\n\nLeiria: 46 Kms \n\nEnergy Rating: C",
+  "geo": {
+    "lat": 39.506733,
+    "lng": -9.132494
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,36 @@
   "published_at": "2026-11-16",
   "last_seen_at": "2026-11-17",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE4c2kyNHRuMTdhNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Jj_oPyoH_7eXO25X5gszgVo-aJY-dt_Kjibm2ebCpR4/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE4c2kyNHRuMTdhNC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Jj_oPyoH_7eXO25X5gszgVo-aJY-dt_Kjibm2ebCpR4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjR4MzNsbXo4ODd6YzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Xc6u1UeS6HZxq5OphXfgn6qauhH7MnbMlfif1lhbKME/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imp5eWMwcG44dncyNDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.PUWap5-dJXdEcEyCCBzHczQhBCkUcF9TmU1mnQpdCy0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5vcW16emJqdmF6dTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.58RQBWd1FMJ57ezNEApPMGJ95bMsdSKWIzK8tfXnJtY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVoZmxjYzF5MGRreTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ahAEUuazL2K0doebl2Fa4fZjkX35C5HFjAOuOIOVSKA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdrbnRqbTJzbjEyeC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.3gIOYxbSI5mYfd9TljT76vhPaSQcTlzz4pzYeVn9lJQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjUzOWtscmc4N3I3ajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.L72qw0HWxLmAsZO2VeYxHXbdEPOdkEukAwhq7myQYA0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImF0M25tMjQ0NXM1dDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1D_JjhUZVUeqHbJ67X5oBTZR3bJ1p6m_Vh3fPQ58bL0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFvdXZwNXQ4ZnF2OTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.SOL4BsE04QWuXdETUDGgIo0fcBCsnAJ33Mp34MjIKVU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjI4YjUyeHNqZThmbTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0._2aGT7-dhktJfvg5Ehcs2PBZ6Y9bRyBaW2LuPSyBghA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRybW8zY2dibTd0YzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qkV98mJ7JysOuSaXGvmTsqCeSb514hw9Pfo2Y9YOlWY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNsbDZyMXh2NDFtNzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.4cHwNk3x2y8-YwM0tvOuSlchVlKpMUb6WwJtaXPwEX0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ind2bDVtZzc2YmZlbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1uNEJ70XlFph96uLkzKbAn57ocXb2_BApq5nXtNRpQc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImV5N2w3d291MDI3OC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.PJ7hZ54tJMHDPFVXB5ZqOqZCqcRzBby8vZYCaOoAngU/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImViOWxoOGxxMXdsaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.O0YNPMWko6rslJPN2eCxImQjaIWYaLPX10toL3ebWVA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZweDJ1amhob2RwajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6KLoSgZh7l0WwRlVlnsM1E3cLPPPy9VHZg7cJr-LJYc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjY1aDM2dG1jYnFvNzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.E9AuzQO7_rLZskTmb6YL6B0GEuDkysHncq-LJagrNgo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imx4dHk5MTN2cGY0YzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.WHO5J2MwH21gWAOsQ2qHCmp8_4mJXFzbukAkRwWOyYQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg2amY2bXVjZ3luYTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.q7SIBCW8Z6h1MNN1ldOaDy55sD7USD5pnyLTwlJiCzw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFlMG94aGs5bWx1cDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.pipgotvPQRYQ1e-rA1flamJT_z2BXkbXgc60deOft9I/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 80.6,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2008,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-17"
 }

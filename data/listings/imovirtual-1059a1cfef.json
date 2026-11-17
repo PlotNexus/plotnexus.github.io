@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Arroios, Lisboa",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 110,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBvdzJnMzVkOWNjMDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DMhRFBx878BJhi0g7S0sKAz0CkBvcOp_a8hGL-Vi5aM/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBvdzJnMzVkOWNjMDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DMhRFBx878BJhi0g7S0sKAz0CkBvcOp_a8hGL-Vi5aM/image;s=2048x1536;q=80",
+  "description": "Apartamento T1 mobilado e equipado, numa zona central de Lisboa, com excelentes acessos e proximidade de comércio, serviços e transportes públicos.Com cerca de 70 m² de área interior, o apartamento destaca-se pelo seu terraço privativo de 30 m², ideal para refeições ao ar livre e momentos de lazer.Dispõe ainda de lugar de estacionamento em garagem e arrecadação privativa, proporcionando maior comodidade e espaço de arrumação.Principais características:Apartamento T1 mobilado e equipado; Cerca de 70 m² de área interior; Terraço privativo de 30 m²; Lugar de estacionamento em garagem; Arrecadação privativa; Metro a 1 minuto a pé; Proximidade a escolas, universidades e instituições de ensino; Supermercados, comércio, restaurantes e serviços nas imediações; Localização central com excelentes acessos e transportes públicos.Uma excelente opção para quem procura conforto, espaço exterior e estacionamento no centro de Lisboa.Para mais informações ou agendamento de visita, entre em contacto.",
+  "geo": {
+    "lat": 38.733227,
+    "lng": -9.135736
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,50 @@
   "published_at": "2026-11-16",
   "last_seen_at": "2026-11-17",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBvdzJnMzVkOWNjMDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DMhRFBx878BJhi0g7S0sKAz0CkBvcOp_a8hGL-Vi5aM/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBvdzJnMzVkOWNjMDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DMhRFBx878BJhi0g7S0sKAz0CkBvcOp_a8hGL-Vi5aM/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhvaDE4bjk0MW5lajItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.o8qlY3F8PkvI4csNj2tOWol8vKCNTFyvhCgTVFXlkzE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFjZnJycmc5ODlrdi1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.XECDWUpzMAPGqMpL6-jpqzW7mn3Mj1zTiSzdJAH9xng/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImY5cXh0OHRsNWxmYzEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Adopinbovyvj_EzFVvCyOnValUsP0veYL_tBdih73AA/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImgwZjdpd2h3czVsMTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Hwr86tOohDXcN7iFjUvjMRa8rIHZg4ybR_H30CuEq4o/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZrcmpqZDg3NXBzeDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DUu_EJyIp5y7hGv00zj0jU0BbFOdmIoYpR9xhkDl-To/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJmbzd2enU2cjZuNDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.f6-MCZxr9rbVY2K7xvya8hQrWddc_ZswDfDX9JecSsY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg5YzVqdzU2ZDQ5aDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Jo1IaDFc2c5XH7UhTtX0HdPC61WRF6yJxjh_U4sraCo/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRmanU5NGpnajBqNDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.5kwmJ8wMBvMzyLMo-ti9DCzhl5gzx8PRbNpP7JpBib4/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdpNzVsY2s0Z3o4YzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BeRQIvTW2MHjj4cfjgh_kV4mZdyePL5c3uVGsLBEUAY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InU1OHpxbmZjMTg1eTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.r3RhY-4SS45XAtxG03Ysl6EdU5LwPsa95ejMuE5gKS0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im8wczVkMDRjZGMwYjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7P0Mn12QP7FGQS76ok9z-tL6GzZd3nWsNlCwFYmyjlM/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Estores",
+      "Porta blindada",
+      "Vídeo-porteiro",
+      "Videovigilância",
+      "Condomínio fechado"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Terraço",
+      "Elevador",
+      "Cozinha independente"
+    ],
+    "Aquecimento": [
+      "Aquecimento a gás"
+    ],
+    "Equipamento": [
+      "Mobilado",
+      "Máquina de lavar loiça",
+      "Frigorífico",
+      "Forno"
+    ],
+    "Multimédia": [
+      "Internet"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 110,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2005,
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-17"
 }
