@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "São Miguel do Outeiro e Sabugosa, Tondela, Viseu",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 78,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhyMHM3NWVweTFqbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qYLMA1I9j0V9hRcddVxqlfNP9_FT9IELQ2357Hlgu_w/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhyMHM3NWVweTFqbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qYLMA1I9j0V9hRcddVxqlfNP9_FT9IELQ2357Hlgu_w/image;s=2048x1536;q=80",
+  "description": "Apartamento T1 edial para uma pessoa ou casal sem filhos. A 10mintos do centro de Tondela como de Viseu. Alguma dúvida disponha.",
+  "geo": {
+    "lat": 40.576504,
+    "lng": -8.029303
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,13 @@
   "published_at": "2026-11-17",
   "last_seen_at": "2026-11-18",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhyMHM3NWVweTFqbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qYLMA1I9j0V9hRcddVxqlfNP9_FT9IELQ2357Hlgu_w/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhyMHM3NWVweTFqbTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qYLMA1I9j0V9hRcddVxqlfNP9_FT9IELQ2357Hlgu_w/image;s=2048x1536;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 78,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-18"
 }

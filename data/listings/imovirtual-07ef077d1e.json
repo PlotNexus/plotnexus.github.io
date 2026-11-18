@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Leiria, Pousos, Barreira e Cortes, Leiria",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 80,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdvMDQxcTB1cGdvMTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BfwIh8WDNtGZecpWzYrqlZcHou2SzfoB5HLUK9vqkok/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdvMDQxcTB1cGdvMTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BfwIh8WDNtGZecpWzYrqlZcHou2SzfoB5HLUK9vqkok/image;s=2048x1536;q=80",
+  "description": "Moradia V3 com anexos, inserida num terreno com 1.925m² e a 5 minutos de Leiria:\n\n- Cozinha ampla\n\n- Três quartos\n\n- Uma casa de banho\n\n- Uma marquise/terraço\n\n- Zona inferior da casa ampla\n\n- Garagem para 2/3 carros\n\n- Ótima exposição solar\n\n- Excelentes vistas para o campo\n\n- Alguma caixilharia e portas novas\n\n- Localizada numa zona super tranquila a 5min de Leiria\n\n- Dois artigos (um urbano e outro rústico)\n\nMarque já a sua visita!\n\nTratamos do seu crédito habitação. Fale connosco.\n\nEquipa JCA Imobiliária\n\n7 MOTIVOS PARA TRABALHAR COM A JCA:\n\n1. Apoio de agentes imobiliários experientes no mercado em Leiria, que atuam no ramo imobiliário há mais de 15 anos.\n\n2. Os nossos valores: dedicação, rigor, honestidade, flexibilidade e transparência.\n\n3. Divulgação dos imóveis em vários meios de comunicação, nacionais e internacionais (site da agência, newsletter semanal, Facebook, Instagram, Imovirtual, Idealista, CasaSapo, SuperCasa, CasaCerta, CasaYes, etc.)\n\n4. Foco no cliente - oferecemos um serviço de qualidade que assenta nas necessidades e preferências dos nossos clientes, valorizando sempre o seu tempo.\n\n5. Apoio logístico a nível de relacionamento com a banca e consultadoria jurídica, disponibilizando todo o apoio no processo de financiamento.\n\n6. Apoio na realização do contrato promessa compra e venda e da escritura, tratando assim de todo o processo burocrático e administrativo do negócio.\n\n7. Partilhamos negócios com todos os colegas de outras agências. \n\nCategoria Energética: E",
+  "geo": {
+    "lat": 39.70253,
+    "lng": -8.79622
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,13 +22,37 @@
   "published_at": "2026-11-17",
   "last_seen_at": "2026-11-18",
   "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdvMDQxcTB1cGdvMTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BfwIh8WDNtGZecpWzYrqlZcHou2SzfoB5HLUK9vqkok/image;s=1280x1024;q=80"
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdvMDQxcTB1cGdvMTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BfwIh8WDNtGZecpWzYrqlZcHou2SzfoB5HLUK9vqkok/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imk5M3lkdTRpYTQydTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.d7wg804dgY7dM9eMQ-aE5s6MuHH8f2Fr-rEK4-FoDUQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQ1ZGlmamx1NWdyaS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.NbaBR5hPGalOA6bLBFAM00iSkj-2LHZ0E-P529uQyjs/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imk5YXFzcnowZXBuai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.JgR7G-RsOrtpwwCtCSqjBnc36CznbaKb2o91FUsXzBI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFhMGY4OXlrdGU0ZDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zW0cWu5TYmgwPVuE-CczWxjK-fE0oU-Z6rJL2c_nOjY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxwNHZ6ZTVxdDY1NjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jTAiw1-I1EA1LY4xR-Pbi7sQORRnU8fnXrRI4WozxZk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjE5Y244anI1YWg3dTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.daTmvK-WXUSvjC0rBhDEUJ_zgxm1Lap0OJaV13vpXag/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijl0bzlteGRyMG93aDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.KUkMg0VITisOIIA45bq-gESqjFY_m-JAQ1V0zGMgaxQ/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjI5a241Y3MwY3FlNi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.gUR2_f4kprMBRvzk4IrjcgA6gaQbNDp1vuzK3Col6XY/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhqbnI4ZnBkbGxuaDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.YShCJX691qTPQHM8FCqIJ4kq9-tRufWuWaaeT5FsMmc/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQ0aGlpMWlsOTF5bi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.pnjHsVExi9TAnrSFVQtiumNc9XJ4yTot8Z4DLt4RVss/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InpxemRrbnBuOHU4NjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lyv0KTVLlOyt08UJRZ7R8wCqNA9V1kIBkjl1_cXXgKw/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1paHR1YjltbXI3NzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6rC1-jcGy9Io-CYnnC41fFVels5KtPZao4a0TOy95z8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imx3a2VlNHVlMG56eC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Kk9A-aIZR6FmrteiI7mfp6Sr8LH5Vmw4y8XejjdFm-8/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im83Ym5jZW5hODExbi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.sXExEEUQYWpxBBPMogU31H4DZTzA7egFkL7pdWMVflk/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImtjOXVma2I2cHpzZTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.cW5TVEOrMbkZQSsQFphn9PzpjP66mJMvxpq8LcyqfwI/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InAwOTkwaTJvZzNuczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rJUbBseXg4iCfTtLR-pMnDpwIgaunpto83f4pd3-Oi0/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxheGZ6ZnN6anRleC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.m7nVKlHw0E19-1SLD5F-i0OOq41lKfr38PVK_UmmIiE/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImF5Mmcxc2FneW91NTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.gYbAvALM-kF_NZwgzt4WJm6AwLVlPJuUuwy6UQkZt6c/image;s=2048x1536;q=80",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNydmFkejN2a2d4ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.5r7_NHd3ukSauX_MJvTL0aw7kR7eDtdW-yJTk26yQYQ/image;s=2048x1536;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Varanda"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 80,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-18"
 }
