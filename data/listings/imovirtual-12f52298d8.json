@@ -6,26 +6,36 @@
   "currency": "EUR",
   "location": "São João de Lourosa, Viseu",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 33,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im4wMmJxNWl3djYxcjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.63gctb44GY39UZUhtzipqzv6BlIKIX2F3qGuzPNG-mI/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T2 reconstruída em Viseu\n\nMoradia constituída por dois pisos;\n\nNo 1º piso contamos com sala e cozinha em open-space com tetos falsos e focos embutidos, casa de banho completa com base de duche e dois quartos, tendo potencial para fazer um terceiro quarto em compartimento anexo;\n\nNo R/C possui alguns compartimentos não restaurados e um espaço amplo que poderá servir para uma adega ou para um salão; \n\nEsta moradia no piso habitacional, encontra-se num estado irrepreensível e está equipada com caldeira a pellets, termoacumulador para aquecimento de águas e vidros duplos com estores elétricos;\n\nPoderá usufruir de dois terraços e um pequeno logradouro, bem como um espaço coberto para um carro;\n\nMoradia foi revestida a capoto o que lhe garante uma extraordinária eficiência térmica;\n\nEsta moradia é vendida no estado atual em que se encontra, faltando apenas no piso habitacional, os móveis de cozinha, tendo já alguns equipamentos para futura instalação, tais como placa de indução, banca e exaustor;\n\nLocalizada em zona habitacional calma a apenas 5 minutos do Palácio do Gelo.\n\nO imóvel é vendido no estado físico atual.\n\nSem Licença de Utilização- a escritura será feita ao quadro do simplex – Decreto-lei nº 10/2024, de 8 de janeiro.\n\nContacte para mais informações!",
+  "geo": {
+    "lat": 40.61558,
+    "lng": -7.92449
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-t2-reconstruida-em-viseu-ID1hNiy",
-  "published_at": "2026-11-18",
+  "published_at": "2026-01-22",
   "last_seen_at": "2026-11-19",
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im4wMmJxNWl3djYxcjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.63gctb44GY39UZUhtzipqzv6BlIKIX2F3qGuzPNG-mI/image;s=1280x1024;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Terraço"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 33,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1937,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-19"
 }

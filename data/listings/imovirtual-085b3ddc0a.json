@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Bonfim, Porto",
   "bedrooms": 0,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 38.4,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inhoa3V6MjE5Y2l2OTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.32pZRaJsfN69bu_i2y8AWN8W2FJzPzmcyRjpnkFvNl0/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Localizado numa zona privilegiada do Porto, a 3 minutos do Metro, com uma excelente oferta de serviços e comércio a curta distância a pé, próximo dos Jardins de São Lázaro, da Praça da Batalha, de Santa Catarina e do Mercado do Bolhão.\n\nInserido num edifício totalmente reabilitado que preserva a traça arquitetónica original e uma belíssima fachada portuense em pedra trabalhada.\n\nApartamento mobilado e com cozinha totalmente equipada, pronto a habitar.\n\nCondições de arrendamento: 2 rendas + 2 cauções.\n\nAntes de arrendar, comprar ou vender, conheça todos os números e garanta total proteção com a EDIPORTO Imobiliária. \n\nApoiamos o seu processo de ponta a ponta:\n\n-Segurança Jurídica: Apoio legal completo, validação de documentação e acompanhamento em todas as fases contratuais .\n-Financiamento: Análise de viabilidade e simulações personalizadas de crédito habitação.\n-Proteção: Soluções sob medida para seguros de vida e multirriscos.\n-Planeamento: Estimativa detalhada de impostos e custos de escritura para evitar surpresas.\n-Estratégia: Estudos de mercado detalhados para valorizar e defender o seu património.\n\nEDIPORTO Imobiliária\n\"Focados no Cliente, Orientados a Resultados\"",
+  "geo": {
+    "lat": 41.146713,
+    "lng": -8.595965
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,18 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inhoa3V6MjE5Y2l2OTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.32pZRaJsfN69bu_i2y8AWN8W2FJzPzmcyRjpnkFvNl0/image;s=1280x1024;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Cozinha independente"
+    ],
+    "Equipamento": [
+      "Mobilado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 38.4,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-19"
 }

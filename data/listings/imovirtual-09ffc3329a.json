@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Chafé, Viana do Castelo",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 140,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRlOWt4YXNuam9uODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0NAuv-q3S4Cg9YLiIa28nbYKLASwcxBfz4Ya9tat9QM/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Identificação do imóvel: ZMPT595547\n\nMoradia T3 térrea e individual em construção, com garagem e piscina opcional, em Chafé, Viana do Castelo\n\nEm Chafé, está em construção uma moradia para quem procura a privacidade de uma casa individual e a comodidade de viver num só piso. Inserida num terreno de 466,99 m², conta com 169,74 m² de área de construção e espaço exterior para refeições ao ar livre.\n\nA piscina é opcional, com um custo adicional de 25.000 €. A sala de estar, a zona de refeições e a cozinha partilham um espaço aberto voltado para o jardim. A cozinha será entregue com placa de indução, forno elétrico, exaustor, frigorífico e máquina de lavar loiça. Na sala, o recuperador de calor a biomassa dará conforto aos dias mais frios. A zona privada reúne três quartos com roupeiros embutidos. O pavimento vinílico prolonga-se dos quartos até à área social, e as portas interiores até ao teto dão continuidade às linhas da casa. A garagem fechada, com portão elétrico e ligação direta ao interior, facilita a chegada a casa com as crianças ou as compras.\n\nPara o conforto térmico, estão previstos isolamento pelo exterior, caixilharia de alumínio com corte térmico, vidros de controlo térmico e estores elétricos. A moradia contará ainda com pré-instalação de ar condicionado em quatro pontos e bomba de calor com acumulador de, pelo menos, 300 litros para as águas quentes sanitárias.\n\nAgende a sua visita Andreia Lopes\n\nZome Barcelos\n\n916 390 057\n\n3 Razões para comprar com a Zome\n\n+ acompanhamento\n\nCom uma preparação e experiência única no mercado imobiliário, os consultores Zome põem toda a sua dedicação em dar-lhe o melhor acompanhamento, orientando-o com a máxima confiança, na direção certa das suas necessidades e ambições. Daqui para a frente, vamos criar uma relação próxima e escutar com atenção as suas expectativas, porque a nossa prioridade é a sua felicidade! Porque é importante que sinta que está acompanhado, e que estamos consigo sempre.\n\n+ simples\n\nOs consultores Zome têm uma formação única no mercado, ancorada na partilha de experiência prática entre profissionais e fortalecida pelo conhecimento de neurociência aplicada que lhes permite simplificar e tornar mais eficaz a sua experiência imobiliária. Deixe para trás os pesadelos burocráticos porque na Zome encontra o apoio total de uma equipa experiente e multidisciplinar que lhe dá suporte prático em todos os aspetos fundamentais, para que a sua experiência imobiliária supere as expectativas.\n\n+ feliz\n\nO nosso maior valor é entregar-lhe felicidade! Liberte-se de preocupações e ganhe o tempo de qualidade que necessita para se dedicar ao que lhe faz mais feliz. Agimos diariamente para trazer mais valor à sua vida com o aconselhamento fiável de que precisa para, juntos, conseguirmos atingir os melhores resultados. Com a Zome nunca vai estar perdido ou desacompanhado e encontrará algo que não tem preço: a sua máxima tranquilidade! É assim que se vai sentir ao longo de toda a experiência: Tranquilo, seguro, confortável e... FELIZ!\n\nNotas: 1. Caso seja um consultor imobiliário, este imóvel está disponível para partilha de negócio. Não hesite em apresentar aos seus clientes compradores e fale connosco para agendar a sua visita.2. Para maior facilidade na identificação deste imóvel, por favor, refira o respetivo ID ZMPT ou o respetivo agente que lhe tenha enviado a sugestão.",
+  "geo": {
+    "lat": 41.653225,
+    "lng": -8.786906
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,16 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRlOWt4YXNuam9uODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0NAuv-q3S4Cg9YLiIa28nbYKLASwcxBfz4Ya9tat9QM/image;s=1280x1024;q=80"
   ],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Ar condicionado"
+    ]
+  },
   "estado": null,
   "area_util_m2": 140,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2027,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-19"
 }

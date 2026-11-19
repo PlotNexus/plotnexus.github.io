@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Custóias, Leça do Balio e Guifões, Matosinhos, Porto",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 220,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InMxMHFoeDBmNTdsbzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qqeRuX4O2aS7j6II9iSQxsXEQ4NMjnuYfnRJOSdeC1A/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "MATOSINHOS | LEÇA DO BALIO\n\nMORADIA V3+1 NOVA \n\nModernidade, conforto e qualidade de vida!\n\nEm fase final de construção, apresentamos esta elegante moradia V4, de arquitetura contemporânea, situada numa zona residencial tranquila e familiar, com excelente proximidade ao metro.\n\nUma casa pensada para quem procura espaço, privacidade e acabamentos de qualidade, sem abdicar da proximidade à cidade.\n\nPrincipais características:\n\n* 3 suítes com excelente luminosidade natural\n\n* 1 quarto adicional, ideal para escritório\n\n* Sala ampla com ligação direta ao exterior\n\n* Cozinha moderna e funcional\n\n* WC de serviço\n\n* Lavandaria e zona de arrumos\n\n* Jardim privativo e varandas espaçosas\n\n* Garagem para 2 automóveis\n\n* Materiais e acabamentos de elevada qualidade\n\nUma localização privilegiada!\n\nLeça do Balio oferece a tranquilidade de uma zona residencial consolidada, com bons acessos ao Porto, Matosinhos e Maia, proximidade a transportes públicos, comércio, serviços e escolas.\n\nUma excelente oportunidade para viver com qualidade, numa moradia nova, moderna e funcional.\n\nAgende a sua visita e venha conhecer a sua próxima casa!\n\nQuer comprar, mas primeiro precisa de vender o seu imóvel? Nós ajudamos em todo o processo!\n\nHB - Grupo Habinédita\n\n_\n\nComprar com o GRUPO HABINÉDITA é comprar com SEGURANÇA!\n\nCom 30 anos de história, a nossa marca está presente em 3 mercados estratégicos, com lojas abertas ao público:  Porto (2 lojas), Gondomar, São João da Madeira.\n\nAo escolher fazer negócio com o GRUPO HABINÉDITA, vais perceber que:\n\n- Terá um agente devidamente formado, ativo e identificado com o produto;\n\n- Terás uma empresa interessada em fazer o melhor negócio para todas as partes;\n\n- Terá parceiros financeiros que encontrarão a melhor solução para a sua nova casa;\n\nCom uma estrutura composta por pessoas ativas e devidamente formadas para as diversas funções, a equipa do GRUPO HABINÉDITA trata de todos os processos como se fossem o primeiro! Nada pode falhar nesta parceria e como tal todos os cuidados são poucos.\n\nRELAÇÃO: esta parceria terá de ter uma base sólida… CONFIANÇA. Vamos comunicar muito. Vamos entender o que procura. Vamos, certamente, perceber as suas expectativas. Vamos estar sempre consigo!\n\nBUROCRACIA: esqueça! A equipa do GRUPO HABINÉDITA trata de tudo por si. Temos na equipa uma advogada e uma Diretora Processual, 100% disponíveis para tratar de toda a documentação. Todos os nossos processos são estudados ao pormenor para que a FELICIDADE máxima seja atingida com TRANQUILIDADE, no dia da escritura!\n\nESCRITURA: Seja proprietário ou comprador…esqueça as preocupações de todo o processo. O SONHO está prestes a tornar-se em REALIDADE e tudo vai correr na PERFEIÇÃO!",
+  "geo": {
+    "lat": 41.20315,
+    "lng": -8.64215
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,17 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InMxMHFoeDBmNTdsbzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qqeRuX4O2aS7j6II9iSQxsXEQ4NMjnuYfnRJOSdeC1A/image;s=1280x1024;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda",
+      "Garagem",
+      "Terraço"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 220,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-19"
 }

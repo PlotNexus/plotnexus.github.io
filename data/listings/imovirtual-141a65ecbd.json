@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "São Martinho das Amoreiras, Odemira, Beja",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 152,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ind5NGE0bXpxN2QxaS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Ygv3No5jApXHjOrr7b-XZPFoxyHrdhfe11-WRBtsvLY/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Excelente oportunidade!\n\nVende-se moradia de rés-do-chão e 1.º andar, situada na tranquila aldeia de Amoreiras-Gare, concelho de Odemira.\n\nCom uma área total de 152 m², o imóvel é composto por:\n\n4 quartos;\n\n3 casas de banho, uma delas privativa;\n\nSala;\n\nCozinha;\n\nDespensas;\n\nQuintal com churrasqueira.\n\nA moradia é vendida com todas as mobílias e eletrodomésticos existentes no seu interior, permitindo usufruir de uma casa já mobilada e equipada.\n\nUma excelente opção para habitação própria, casa de férias ou investimento.\n\n Localização: Amoreiras-Gare, concelho de Odemira.\n\nInformações e contactos: Vítor Rodrigues – agradeço contacto telefónico.\n\nVenda particular \n\nDispenso imobiliárias e intermediários .\n\nAgradeço apenas contactos de particulares",
+  "geo": {
+    "lat": 37.65444,
+    "lng": -8.40349
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,11 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ind5NGE0bXpxN2QxaS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Ygv3No5jApXHjOrr7b-XZPFoxyHrdhfe11-WRBtsvLY/image;s=1280x1024;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 152,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-19"
 }

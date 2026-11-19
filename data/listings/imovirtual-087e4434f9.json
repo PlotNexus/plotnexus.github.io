@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Viseu",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 60,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFwb2dvd3lkdXFmdTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9pRMSG1zysNegKvlEYv-RwmSknYY_8pf4lkUM7byalQ/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T1 em Abraveses para arrendamento.\n\nNecessario para o arrendamento: \n\n- Uma cauçao e duas rendas. \n\n-Ultimos recibos de vencimento/os \n\n-Copia/as CC\n\n-Fiador/res",
+  "geo": {
+    "lat": 40.65659,
+    "lng": -7.91247
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,11 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFwb2dvd3lkdXFmdTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9pRMSG1zysNegKvlEYv-RwmSknYY_8pf4lkUM7byalQ/image;s=1280x1024;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 60,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-11-19"
 }

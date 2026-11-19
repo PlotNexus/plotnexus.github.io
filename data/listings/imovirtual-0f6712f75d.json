@@ -6,26 +6,38 @@
   "currency": "EUR",
   "location": "Cascais e Estoril, Cascais, Lisboa",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 110,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh3azU3bGEwNXd4ODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.5SrBxl4UXAGqPxfD3k87hUdnwlgcLjgXQj5mWxy4ujU/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "LU 794/2005, area util de 135 m2\n\nApartamento Duplex com 3 quartos.\n\nOptimos acabamentos, como novo,\n\nTerraço com vista desafogada, \n\nCom uma localização privilegiada, perto do Tribunal de Cascais, do Hospital CUF de Cascais, a poucos minutos da praia e paredão, do Centro de Cascais, Com as melhores escolas nas proximidades. \n\nEste imóvel com 130m2 de área bruta privativa, inserido em prédio com elevador, é composto por uma sala comum com varanda, uma cozinha equipada, uma suíte com roupeiros, dois quartos e duas casas de banho. Dispõe ainda de uma garagem para dois carros.\n\nCaracterísticas:\n\n- Edifício em bom estado\n\n- Iluminação embutida \n\n- Varandas \n\n- Roupeiros embutidos\n\n- Garagem para dois carros\n\n Venha conhecer a sua nova casa em Cascais.\n\n#ref: 173799",
+  "geo": {
+    "lat": 38.702995,
+    "lng": -9.431327
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-em-cascais-e-estoril-de-110-00-m2-ID1j5B3",
-  "published_at": "2026-11-18",
+  "published_at": "2026-10-28",
   "last_seen_at": "2026-11-19",
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh3azU3bGEwNXd4ODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.5SrBxl4UXAGqPxfD3k87hUdnwlgcLjgXQj5mWxy4ujU/image;s=1280x1024;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Terraço",
+      "Varanda",
+      "Elevador"
+    ],
+    "Multimédia": [
+      "Internet"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 110,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2005,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-19"
 }

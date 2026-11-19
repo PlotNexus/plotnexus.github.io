@@ -9,21 +9,70 @@
   "bathrooms": null,
   "area_m2": 200,
   "image": null,
-  "description": null,
+  "description": "Moradia de arquitetura,exposição solar poente a 5 minutos no A1 e A32",
   "geo": null,
   "source": {
     "name": "CASA SAPO",
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/comprar-casa-geminada-t3-santa-maria-da-feira-escapaes-1aad1841-cf08-11f1-90a1-060000000056.html?g3pid=1099412",
-  "published_at": "2026-11-18",
-  "last_seen_at": "2026-11-18",
+  "published_at": "2026-10-23",
+  "last_seen_at": "2026-11-19",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa de banho de serviço",
+      "Casa de Banho Partilhada",
+      "Casa de Banho Privativa",
+      "Casa(s) de Banho: 3",
+      "Copa(s)",
+      "Corredor",
+      "Cozinha(s)",
+      "Hall de Entrada",
+      "Hall de Quartos",
+      "Lavandaria",
+      "Número de pisos: 1",
+      "Sala(s): 1",
+      "Suite(s)",
+      "Total quarto(s): 3"
+    ],
+    "Equipamentos": [
+      "Água Quente Solar",
+      "Bomba de calor",
+      "Caixilharia corte térmico",
+      "Combinado",
+      "Exaustor",
+      "Forno",
+      "Isolamento Acústico",
+      "Isolamento Térmico",
+      "Máquina de Lavar Louça",
+      "Microondas",
+      "Painéis Fotovoltaicos",
+      "Painéis Solares",
+      "Placa Vitrocerâmica",
+      "Poliban/Base de Duche",
+      "Portão Eléctrico",
+      "Pré-instalação ar condicionado",
+      "Pré-Instalação de Aquecimento Central",
+      "Pré-instalação de lareira",
+      "Roupeiros",
+      "Roupeiros embutidos",
+      "Termoacumulador",
+      "Vidros Duplos"
+    ],
+    "Áreas": [
+      "Área Bruta: 220.00",
+      "Área de Terreno: 440.00",
+      "Área Útil: 200.00"
+    ],
+    "Infraestruturas": [
+      "Garagem: 1"
+    ]
+  },
+  "estado": "Novo",
   "area_util_m2": 200,
-  "area_bruta_m2": null,
+  "area_bruta_m2": 220,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-19"
 }

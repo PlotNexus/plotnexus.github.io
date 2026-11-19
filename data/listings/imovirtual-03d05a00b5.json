@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Feitosa, Ponte de Lima, Viana do Castelo",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 74.6,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV5ZWl4aHJ6NzQxbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Ez5UWqtKWqY0abIWTFRx4miZwRGAwGVwPD9QfAiTVYA/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T1, atualmente em construção, que combina funcionalidade e conforto.\n\nCom uma área útil de 74,60 m² e uma área bruta de 118,15 m², apresenta espaços pensados para proporcionar uma vivência prática e confortável.\n\nO imóvel dispõe de uma casa de banho e é comercializado sem mobília.\n\nPara mais informações ou para conhecer melhor esta oportunidade, entre em contacto connosco.",
+  "geo": {
+    "lat": 41.74616,
+    "lng": -8.58688
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,11 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InV5ZWl4aHJ6NzQxbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Ez5UWqtKWqY0abIWTFRx4miZwRGAwGVwPD9QfAiTVYA/image;s=1280x1024;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 74.6,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-19"
 }

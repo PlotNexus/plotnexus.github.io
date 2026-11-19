@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Urqueira, Ourém, Santarém",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 113,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjV4MnN4NnUwYWNnMzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yWJ05uhW5gSbJCMaE-96QOGmT5Q6wIyst1sqEAsHHZE/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Descobre esta magnífica moradia independente, completamente renovada e pronta para te receber! Localizada na proximidade da vila de Caxarias, esta propriedade oferece o conforto que procuras, com fácil acesso à estação de comboio.A moradia apresenta uma área bruta de 164 m² e uma área útil de 113 m², distribuída de forma funcional e acolhedora. Dispõe de 3 quartos, uma sala de estar e sala de jantar integradas, criando um ambiente perfeito para convívio familiar. A cozinha equipada com eletrodomésticos facilita o teu dia a dia, enquanto a despensa oferece espaço adicional de armazenamento.Conta ainda com uma casa de banho de serviço bem equipada A moradia totalmente murada que garante segurança e uma garagem para a proteção do teu veículo. O lote com 445 m² proporciona um espaço exterior generoso. A orientação Sul garante excelente luminosidade natural ao longo do dia. O sistema de aquecimento e arrefecimento por bomba de calor elétrica assegura conforto térmico durante todo o ano, com classe energética C.É exigido fiador, 1 mês de renda e dois mês de caução, a devolver no final do contrato, depois da entrega da chave e caso se verifique o cumprimento de todas as obrigações previstas no contrato de arrendamento.Documentos para o contrato: BI ou Cartão de Cidadão; Últimos recibos de vencimento e última declaração de IRS.Não percas esta oportunidade! Contacta-nos para marcar a tua visita.",
+  "geo": {
+    "lat": 39.721058,
+    "lng": -8.559737
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,21 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjV4MnN4NnUwYWNnMzMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yWJ05uhW5gSbJCMaE-96QOGmT5Q6wIyst1sqEAsHHZE/image;s=1280x1024;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Estores"
+    ],
+    "Equipamentos": [
+      "Ar condicionado",
+      "Garagem",
+      "Terraço",
+      "Jardim"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 113,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-19"
 }

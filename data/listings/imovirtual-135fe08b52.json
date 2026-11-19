@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Torres Novas (São Pedro), Lapas e Ribeira Branca, Torres Novas, Santarém",
   "bedrooms": 0,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 45,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNjenlqa2Q4NjRnczEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.JmXxWxlMCzylRf_H0ObuJKjSMRofLaZk1tiF6dckFxo/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T0 | Rés-do-Chão | Centro Histórico de Torres Novas\n\nEncantador apartamento T0, recém-completamente remodelado, localizado no coração do centro histórico de Torres Novas. Situado no rés-do-chão, oferece uma localização privilegiada, com toda a conveniência e o charme de uma zona antiga e bem preservada.\n\nEste espaço moderno e funcional foi totalmente renovado com materiais de qualidade, combinando conforto e praticidade. O apartamento apresenta uma cozinha em open space, totalmente equipada (fogão, exaustor, frigorífico e outros eletrodomésticos), integrada com a zona de estar, criando um ambiente amplo, luminoso e perfeito para o dia a dia.\n\nConta ainda com roupeiros embutidos para excelente capacidade de arrumação e uma casa de banho moderna, equipada com duche. Todo o imóvel beneficia de acabamentos novos, canalizações, eletricidade e isolamentos atualizados.\n\nPrincipais características:\n\nTipologia: T0\n\nAndar: Rés-do-chão\n\nEstado: Completamente remodelado\n\nCozinha open space totalmente equipada\n\nRoupeiros embutidos\n\nCasa de banho com duche\n\nLocalização: Centro Histórico de Torres Novas\n\nIdeal para casais, profissionais ou investimento, este apartamento alia o conforto moderno à alma histórica da cidade. Tudo a poucos passos de comércio, serviços, transportes e do vibrante dia a dia do centro.\n\nEstá pronto a habitar!",
+  "geo": {
+    "lat": 39.478516,
+    "lng": -8.541783
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,15 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNjenlqa2Q4NjRnczEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.JmXxWxlMCzylRf_H0ObuJKjSMRofLaZk1tiF6dckFxo/image;s=1280x1024;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 45,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2026,
+  "certificacao_energetica": "G",
+  "detail_fetched_at": "2026-11-19"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Silvalde, Espinho, Aveiro",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 88,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImIzMTZmbW8wbGVoOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qRkA9744jyjwsByX4ZyjVNaddJ0clA6kU18-s_zU-h8/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "MORADIA TÉRREA T2 NOVA C/ VISTA MAR | SILVALDE | ESPINHO\n\nApresento-lhe esta moradia térrea T2 de 4 frentes, totalmente reabilitada, em Silvalde, Espinho, com 88,60 m² de área privativa implantada num lote de 188,53 m².\n\nSilvalde é uma zona tranquila e residencial, muito procurada por quem valoriza qualidade de vida sem abdicar da proximidade à cidade. Fica a 5 minutos do centro de Espinho e da estação de comboios, com acesso rápido a comércio, serviços, praia e principais vias rodoviárias.\n\nA moradia foi completamente reabilitada, apresentando-se como nova, e combina funcionalidade com acabamentos modernos. Dispõe de:\n\n- Sala e cozinha equipada em open space\n\n- Dois quartos, um deles em suíte\n\n- Casa de banho completa de apoio aos restantes espaços\n\n- Ar condicionado\n\n- Espaço exterior com bom aproveitamento\n\n- Estacionamento privativo com ficha para carregamento de carro elétrico\n\nPor se tratar de uma moradia de 4 frentes, beneficia de excelente luminosidade natural e de maior privacidade.\n\nTrata-se de um imóvel único no mercado, ideal para quem procura uma moradia nova, de boa dimensão, numa localização com vista mar e excelentes acessibilidades.\n\nNão perca esta oportunidade. Entre em contacto comigo para agendar a sua visita e conhecer todos os detalhes da sua próxima moradia! \n\nCategoria Energética: C",
+  "geo": {
+    "lat": 41.000023,
+    "lng": -8.622864
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,15 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImIzMTZmbW8wbGVoOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qRkA9744jyjwsByX4ZyjVNaddJ0clA6kU18-s_zU-h8/image;s=1280x1024;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 88,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1951,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-19"
 }

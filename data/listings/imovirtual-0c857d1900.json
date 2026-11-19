@@ -6,26 +6,34 @@
   "currency": "EUR",
   "location": "Albufeira e Olhos de Água, Albufeira, Faro",
   "bedrooms": 0,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 87,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE0ZGx5cDZmemliODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Vaz0oFs4oDHBrRlahR6SGeaBddc-YZC57YQ1zINjz-8/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T2 localizado ao nível do 1ºAndar, inserido em edifício com piscina.\n\nA fração apresenta atualmente uma organização interior que permite a utilização como duas unidades habitacionais T1 independentes, cada uma com as suas divisões, oferecendo uma solução versátil tanto para habitação própria como para investimento.\n\nCom uma área bruta privativa de 107,5 m², o imóvel dispõe de:\n\n2 Sala(s) de estar\n\n2 Cozinha(s)\n\nDois quartos\n\n2 Casa(s) de banho\n\nTerraço/Varanda\n\nAcesso às zonas comuns do condomínio, incluindo piscina\n\nA localização central garante proximidade a comércio, serviços, transportes, restauração e praias, tornando este imóvel especialmente atrativo para arrendamento anual ou sazonal.\n\nUma excelente oportunidade com potencial de rentabilidade e valorização.\n\n#ref: 785602",
+  "geo": {
+    "lat": 37.09967,
+    "lng": -8.243701
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-em-albufeira-e-olhos-de-agua-de-86-74-m2-ID1hKcX",
-  "published_at": "2026-11-18",
+  "published_at": "2026-01-13",
   "last_seen_at": "2026-11-19",
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE0ZGx5cDZmemliODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Vaz0oFs4oDHBrRlahR6SGeaBddc-YZC57YQ1zINjz-8/image;s=1280x1024;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado",
+      "Varanda"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 87,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1989,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-19"
 }

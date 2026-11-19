@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Amareleja, Moura, Beja",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 265,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5qZ2E0b3I5YWpzeTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.eKlew00YXpSNxHropA7uULyNTBo3PnOW-AsJsUigvJA/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Moradia de Grandes Dimensões com Enorme Potencial na Amareleja – Terra do Sol\n\nApresentamos esta espaçosa moradia situada na Amareleja, conhecida como a Terra do Sol, numa excelente localização, próxima das magníficas praias fluviais do Alqueva e a escassos quilómetros da fronteira com Espanha.\n\nCom áreas generosas e uma configuração versátil, este imóvel oferece um enorme potencial para habitação própria, casa de férias, alojamento local ou investimento. A moradia dispõe de três quartos, sendo que dois deles incluem divisões adicionais que poderão ser transformadas em pequenos quartos comunicantes, closets, escritório, zona de leitura ou outros espaços adaptados às necessidades da sua família.\n\nA propriedade conta ainda com uma ampla sala, ideal para momentos de convívio, casa de banho, cozinha, despensa e várias possibilidades de reorganização dos espaços interiores. No exterior, encontra-se um agradável quintal com um bonito e tradicional poço alentejano, elemento que confere charme e autenticidade à propriedade.\n\nDispõe igualmente de uma garagem com capacidade para cerca de três viaturas ou mais, oferecendo espaço abundante para estacionamento, arrumação ou até para a criação de uma área de trabalho.\n\nEmbora necessite de algumas obras de melhoramento e modernização, esta é uma oportunidade rara para adquirir um imóvel de grandes dimensões, com características únicas e um potencial extraordinário, numa das zonas mais genuínas e soalheiras do Alentejo.\n\nVenha descobrir esta oportunidade e dar nova vida a uma propriedade cheia de carácter e possibilidades.&nbsp;",
+  "geo": {
+    "lat": 38.207535,
+    "lng": -7.230256
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,15 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5qZ2E0b3I5YWpzeTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.eKlew00YXpSNxHropA7uULyNTBo3PnOW-AsJsUigvJA/image;s=1280x1024;q=80"
   ],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem"
+    ]
+  },
   "estado": null,
   "area_util_m2": 265,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1951,
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-11-19"
 }

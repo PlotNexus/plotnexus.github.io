@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Gaula, Santa Cruz, Ilha da Madeira",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 146,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh3cGprdTlkZGszMjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9mQ-abIZcba5q0YEfWpGJpM2jRhXmYj55mSV517sSrM/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T3 de Arquitetura Contemporânea com Vista Mar Definitiva, Licença de AL e Projeto de Ampliação (+2 Quartos) em Fase de Aprovação – Fazendinha, Gaula\n\nDescubra esta luminosa moradia isolada de tipologia T3, distribuída por três pisos, situada numa zona tranquila e soalheira da Fazendinha, freguesia de Gaula, concelho de Santa Cruz. Com licença de utilização emitida no final de 2018 e licença de Alojamento Local ativa, este imóvel destaca-se pelas linhas modernas, amplas áreas exteriores, estacionamento para 4 viaturas e uma vista desafogada sobre o Oceano Atlântico e as Ilhas Desertas. \n\nDestaques e Potencial do Imóvel:\n\nProjeto de Ampliação em Aprovação (T3 para T5): Encontra-se atualmente em fase de aprovação camarária um projeto de ampliação para mais 2 quartos, permitindo expandir rapidamente a capacidade da moradia tanto para habitação própria de uma família numerosa como para maximizar a rentabilidade no Alojamento Local.\n\nEspaços Exteriores e Estacionamento: Inserida num lote de 680 m² (com 589,35 m² de área descoberta), dispõe de estacionamento privativo com capacidade para 4 carros e acesso por portão automático. No exterior, conta ainda com um generoso terraço panorâmico com pérgola, zona de refeições ao ar livre, solário e guardas em vidro que maximizam a vista mar. \n\n Zona Social Ampla e Luminosa: Sala comum de estar e jantar em plano aberto, com grandes envidraçados que garantem excelente luminosidade natural e acesso direto ao terraço. \n\n Zona Privativa Confortável: Três quartos espaçosos com pavimento em madeira, roupeiros embutidos, ar condicionado e acesso a varandas privativas com vista mar. Casas de banho modernas equipadas com base de duche e resguardo em vidro. \n\n Investimento Chave-na-Mão: Com licença de Alojamento Local (AL) ativa, representa uma excelente oportunidade de rentabilização imediata na ilha da Madeira, aliada ao claro potencial de valorização com a ampliação já submetida.\n\nCaracterísticas e Áreas:\n\nTipologia: T3 (3 pisos, com projeto de ampliação para +2 quartos em aprovação) \n\nEstacionamento: Capacidade para 4 viaturas\n\nÁrea Total do Terreno: 680 m² \n\nÁrea Bruta de Construção: 215,30 m²\n\nÁrea Bruta Privativa: 157,87 m²\n\n Ano de Construção: 2018 \n\n Localização:\n\nLocalizada na Rua do Pico da Amoreira, Sítio da Fazendinha (Gaula), combina a serenidade de uma zona residencial com rápidos acessos à via rápida, situando-se a poucos minutos do Aeroporto Internacional da Madeira, do centro de Santa Cruz e a cerca de 15 minutos do Funchal. \n\n Contacte-me para mais informações, consulta do projeto de ampliação ou para agendar a sua visita.\n\n#ref: 1069916",
+  "geo": {
+    "lat": 32.677975,
+    "lng": -16.803915
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,20 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh3cGprdTlkZGszMjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9mQ-abIZcba5q0YEfWpGJpM2jRhXmYj55mSV517sSrM/image;s=1280x1024;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Alarme"
+    ],
+    "Equipamentos": [
+      "Ar condicionado",
+      "Terraço",
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 146,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2018,
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-19"
 }

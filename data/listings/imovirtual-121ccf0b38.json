@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Almada, Cova da Piedade, Pragal e Cacilhas, Almada, Setúbal",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 90,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9ueThwcGVnMjlvNjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ML63qOTqz22DKKUNGEWRmQ5U85Db5popQnWyCg_yzC8/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Disponível para habitar a 01/02/2027. \n\nApresentamos este apartamento T2, localizado em Almada, na conhecida Rua Ramiro Ferrão, próximo de todo o tipo de transportes públicos e estabelecimentos comerciais, bem como boa rede de escolas primárias, básica e secundária. \n\nTrata-se de um 1.º andar de um prédio com 2 elevadores, sendo um apartamento com áreas muito generosas, distribuído por:\n\n- 2 quartos com 12 m², um deles com roupeiro embutido e um WC de serviço e ambos com acesso à marquise. \n\n- Cozinha com área de 12 m², totalmente equipada com fogão, forno, exaustor, esquentador e frigorífico combinado.\n\n- Sala de estar com 25 m2, ideal para momentos de lazer. \n\n- 2 WC sendo um equipado com banheira. \n\nCaixilharias em alumínio, sendo um apartamento com muita luz natural.\n\nO imóvel será todo pintado e está disponível para visitas (preferência em arrendar com as mobílias)\n\nLocalizado em Almada, este imóvel beneficia de uma localização com uma vasta oferta de comércio, supermercados, escolas, farmácias, restauração e diversos serviços nas proximidades. A zona destaca-se pelos bons acessos rodoviários, com facilidade de ligação à A2 e à Ponte 25 de Abril, permitindo deslocações rápidas e cómodas a Lisboa. Dispõe ainda de uma boa rede de transportes públicos, facilitando as deslocações dentro do concelho e aos restantes pontos da Margem Sul, tornando esta localização uma opção prática para o dia a dia.",
+  "geo": {
+    "lat": 38.686134,
+    "lng": -9.149276
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,16 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9ueThwcGVnMjlvNjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ML63qOTqz22DKKUNGEWRmQ5U85Db5popQnWyCg_yzC8/image;s=1280x1024;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador",
+      "Cozinha independente"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 90,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-19"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "São João das Lampas e Terrugem, Sintra, Lisboa",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 150,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQydGQyeWJ2Yjg5dDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.x5RGsKbDcz53MtQ6FQ6JgMD7wfmkfnZdYDmRUTq0rAM/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Located in Carne Assada | 12 minutes from Sintra &amp; 15 minutes from EriceiraWe are looking for lovely tenants to enjoy and take care of our little paradise while we are away for family reasons. We will be spending one, possibly two years in France.Set on a beautiful 1,000 m² plot surrounded by nature, this recently renovated 115 m² (+40m² garage) home offers space, comfort and a peaceful lifestyle.THE HOUSE : FURNISHED3 spacious bedrooms (16 m² each)1 bathroomLarge living room with a beautiful wood-burning fireplaceGenerous kitchen opening onto an outdoor terraceBeautiful views of the surrounding natureTHE OUTDOOR LIVINGPrivate swimming poolSaunaCold plungeOutdoor bath for magical evenings under the stars3 gardens and 4 terraces to enjoy throughout the dayEXTRA FEATURESSpacious garage with electric vehicle charging pointGarage can also be used as a large workshopElectric garage doorFreshly renovated with love and attention to detailFully insulated with new double-glazed windowsSmart central electrical systemWi-FiThe house has been thoughtfully renovated to create a warm, comfortable and peaceful place to call home.We are looking for respectful, caring tenants who will appreciate the property and treat it with the same love we have put into it.Monthly rent: €3,300Come and discover this little paradise. Visits can be arranged whenever convenient.Feel free to get in touch for more information or to arrange a viewing.",
+  "geo": {
+    "lat": 38.86307,
+    "lng": -9.36772
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,29 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImQydGQyeWJ2Yjg5dDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.x5RGsKbDcz53MtQ6FQ6JgMD7wfmkfnZdYDmRUTq0rAM/image;s=1280x1024;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Estores",
+      "Porta blindada"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Jardim",
+      "Mobilado",
+      "Terraço"
+    ],
+    "Multimédia": [
+      "Aquecimento a gás",
+      "Internet"
+    ],
+    "Janelas": [
+      "Caixilharia de PVC"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 150,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1991,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-19"
 }

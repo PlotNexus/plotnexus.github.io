@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Lagoa e Carvoeiro, Lagoa, Faro",
   "bedrooms": 5,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 108,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImUwZnY3enF5amNleDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.f8QvMJYsYNbQ7WmVCNH481z14bt_RspqrTTD-nE-Jfo/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Moradia T5 exclusiva em Porches, a poucos minutos da praia.\n\nDescubra uma propriedade única, onde a tranquilidade, o espaço e a proximidade do mar se conjugam para criar um estilo de vida verdadeiramente especial.\n\nImplantada num generoso lote de 7.720 m², numa zona calma e privada, mas perto de tudo o que necessita.\n\nEsta moradia T5 oferece amplas áreas interiores e exteriores, rodeadas por um jardim cuidado, com plantas, flores e árvores de fruto.\n\nNo rés-do-chão, encontra uma sala de estar, escritório, cozinha, sala de jantar com lareira, lavandaria, dois quartos e duas casas de banho completas.\n\nNo primeiro andar, dois quartos beneficiam de vistas panorâmicas sobre o jardim e os espaços verdes.\n\nA propriedade dispõe ainda de garagem em box e de um anexo independente, composto por quarto, sala, cozinha e casa de banho, ideal para receber família e amigos ou criar um espaço autónomo.\n\nNo exterior, poderá desfrutar de piscina, parque infantil, zona de barbecue e amplos espaços ajardinados, perfeitos para momentos de lazer e convívio.\n\nA poucos minutos das praias de Armação de Pera esta moradia oferece o equilíbrio ideal entre privacidade e conveniência.\n\nO concelho de Lagoa destaca-se pelas suas praias paradisíacas, excelentes opções gastronómicas e por tudo o que é necessário para uma vida tranquila e confortável.\n\nDescubra o espaço com que sempre sonhou. Contacte-nos para agendar uma visita guiada.",
+  "geo": {
+    "lat": 37.135662,
+    "lng": -8.451723
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,20 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImUwZnY3enF5amNleDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.f8QvMJYsYNbQ7WmVCNH481z14bt_RspqrTTD-nE-Jfo/image;s=1280x1024;q=80"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Alarme"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Jardim",
+      "Terraço"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 108,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1951,
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-19"
 }

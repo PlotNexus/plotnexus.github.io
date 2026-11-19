@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Caxarias, Ourém, Santarém",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 74,
   "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imx1Zms3bGlvejgyLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.Qye9QVN6Ud-JQ4U8w23qaR3yu-1VH0wiY4bo3KtISD0/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos este apartamento T2, atualmente em construção, ideal para quem procura uma habitação moderna, funcional e eficiente.\n\nCom uma área útil de 74 m², este imóvel oferece uma distribuição prática dos espaços, proporcionando conforto e funcionalidade no dia a dia.\n\nDispõe de dois quartos, uma casa de banho e uma sala acolhedora, pensada para criar um ambiente agradável de convívio e descanso.\n\nUm lugar de estacionamento na cave.\n\nPrincipais características:\n\nCozinha equipada com placa, forno, micro-ondas e exaustor;\n\nBomba de calor de 200 litros;\n\nIsolamento térmico exterior pelo sistema ETICS (capoto);\n\nCaixilharia de alumínio com vidro duplo;\n\nEstores elétricos;\n\nPré-instalação de ar condicionado;\n\nTetos falsos com iluminação embutida;\n\nPavimento flutuante AC4;\n\nPré-instalação para carregamento de veículos elétricos no estacionamento.\n\nCom certificação energética A, beneficia de uma elevada eficiência energética, contribuindo para maior conforto e economia.\n\nLocalizado em Caxarias, numa zona com espaços verdes, hipermercado, transportes públicos e a poucos minutos da estação ferroviária, permitindo ligações cómodas a outras localidades.\n\nUma excelente oportunidade para adquirir a sua nova casa ou investir num imóvel com potencial.\n\nPreço de venda: 194.000 €\n\nContacte-nos para mais informações e venha conhecer este projeto! \n\nCategoria Energética: A",
+  "geo": {
+    "lat": 39.72202,
+    "lng": -8.54518
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,11 +24,11 @@
   "images": [
     "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imx1Zms3bGlvejgyLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.Qye9QVN6Ud-JQ4U8w23qaR3yu-1VH0wiY4bo3KtISD0/image;s=1280x1024;q=80"
   ],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 74,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-19"
 }
