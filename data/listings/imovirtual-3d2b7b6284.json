@@ -6,26 +6,31 @@
   "currency": "EUR",
   "location": "Condeixa-a-Velha e Condeixa-a-Nova, Condeixa-a-Nova, Coimbra",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 143,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImI2c2N6emx6dmpwczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lkA97pbI-QIVn0dkfLM2jzilsDyiTtbCE9oSiZae-2Q/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": null,
+  "description": "Apartamento T3 na Eira Pedrinha - Espaço, conforto e luminosidade!\nDescubra este apartamento T3 com 143 m² de área bruta privativa, localizado na Eira Pedrinha, numa zona residencial tranquila, a apenas 2 minutos de Condeixa-a-Nova e 10 minutos de Coimbra.\n\nSituado no 1.º andar de um edifício, este apartamento destaca-se pelas suas áreas generosas, distribuição funcional e excelente luminosidade natural, proporcionada pelas três frentes.\n\nA zona social é composta por uma sala acolhedora, equipada com lareira, ar condicionado e acesso a varanda, ideal para momentos de convívio e descanso. A cozinha dispõe de despensa e marquise, oferecendo maior funcionalidade e espaço de arrumação.\n\nNa zona privada, encontramos três quartos, dois deles com roupeiros embutidos, incluindo uma suíte com casa de banho privativa e duche. Dispõe ainda de uma segunda casa de banho completa, com banheira, e aquecimento central para maior conforto ao longo do ano.\n\nComo complemento, o apartamento conta com garagem fechada na cave, para uma viatura, com acesso interior pelo edifício.\n\nNo exterior, poderá desfrutar de um agradável jardim comum e de um parque infantil, espaços partilhados pelo condomínio, ideais para momentos de lazer em família.\n\nSe procura um apartamento espaçoso, luminoso e bem localizado, com todas as comodidades para o dia a dia, esta poderá ser a sua próxima casa!\n\nAgende já a sua visita e venha conhecer!&nbsp;",
+  "geo": {
+    "lat": 40.11196,
+    "lng": -8.49125
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-venda-ID1jeL3",
-  "published_at": "2026-11-19",
+  "published_at": "2026-11-18",
   "last_seen_at": "2026-11-19",
-  "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImI2c2N6emx6dmpwczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lkA97pbI-QIVn0dkfLM2jzilsDyiTtbCE9oSiZae-2Q/image;s=1280x1024;q=80"
-  ],
-  "features": null,
+  "images": [],
+  "features": {
+    "Equipamentos": [
+      "Garagem"
+    ]
+  },
   "estado": null,
   "area_util_m2": 143,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1997,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-19"
 }
