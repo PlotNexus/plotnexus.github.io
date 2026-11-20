@@ -6,24 +6,42 @@
   "currency": "EUR",
   "location": "Covilhã e Canhoso, Covilhã, Castelo Branco",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 66,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos esta excelente oportunidade de cedência de contrato de um apartamento T1, inserido em condomínio fechado, ideal para quem procura conforto, segurança, modernidade e uma localização estratégica.\n\nO apartamento destaca-se pelos seus acabamentos de qualidade a cozinha encontra-se mobilada e completamente equipada com eletrodomésticos de marca Teka ou equivalente, incluindo placa vitrocerâmica ou de indução, forno elétrico, exaustor de gaveta, micro-ondas, máquina de lavar louça, máquina de lavar roupa e frigorífico combinado, oferecendo um espaço funcional, moderno e pronto a utilizar. Dispõe de instalação de ar condicionado no quarto, sala e cozinha, garantindo conforto térmico durante todo o ano. A casa de banho está equipada com toalheiro elétrico, o imóvel conta ainda com bomba de calor para aquecimento das águas quentes sanitárias, assegurando maior eficiência energética e redução de consumos. O quarto possui roupeiro embutido, proporcionando excelente capacidade de arrumação.\n\nO apartamento inclui também lugar de garagem e o edifício dispõe de pontos de carregamento para veículos elétricos ou híbridos, uma mais-valia cada vez mais valorizada.\n\nInserido num condomínio fechado, oferece um conjunto de infraestruturas pensadas para o bem-estar e qualidade de vida, nomeadamente piscina com água aquecida e estrutura amovível, área de ginásio ao ar livre e circuito pedonal com exposição solar a norte, proporcionando espaços ideais para lazer e atividade física em ambiente tranquilo e seguro.\n\nA localização é outro dos seus pontos fortes, encontrando-se próximo de escolas, shopping, supermercados, diversos serviços, transportes públicos e cuidados de saúde, permitindo total conveniência no dia a dia.\n\nSe procura um apartamento moderno, eficiente e inserido num condomínio com excelentes comodidades, esta poderá ser a oportunidade ideal. Para mais informações ou agendamento de visita, entre em contacto. \n\nCategoria Energética: A",
+  "geo": {
+    "lat": 40.274063,
+    "lng": -7.5017257
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t1-novo-condominio-c-piscina-ID1i64x",
-  "published_at": "2026-11-19",
-  "last_seen_at": "2026-11-19",
+  "published_at": "2026-03-24",
+  "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Condomínio fechado",
+      "Vídeo-porteiro",
+      "Videovigilância"
+    ],
+    "Equipamentos": [
+      "Elevador"
+    ],
+    "Equipamento": [
+      "Frigorífico",
+      "Máquina de lavar loiça",
+      "Forno",
+      "Ar condicionado"
+    ]
+  },
   "estado": null,
   "area_util_m2": 66,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-20"
 }

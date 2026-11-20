@@ -6,24 +6,43 @@
   "currency": "EUR",
   "location": "Nazaré, Leiria",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 82,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T1 novo, com 82 m², no rés do chão, previsto para conclusão em 2027. Dispõe de duas casas de banho, terraço, elevador e cozinha equipada com frigorífico, forno e máquina de lavar louça. Inclui ainda máquina de lavar roupa e videoporteiro. O preço é de 235 000 €.Na Nazaré, encontra-se perto de supermercados, transportes e serviços de saúde. O Centro de Saúde fica a cerca de 600 metros e o hospital a aproximadamente 300 metros. Há também restaurantes e cafés nas proximidades.Tipologia: T1Área: 82 m²Casas de banho: 2Disponibilidade prevista: 31 de março de 2027Peça mais informações e agende uma visita.",
+  "geo": {
+    "lat": 39.60636,
+    "lng": -9.074121
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t1-novo-com-terraco-e-elevador-na-nazare-ID1jeTR",
   "published_at": "2026-11-19",
-  "last_seen_at": "2026-11-19",
+  "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Terraço",
+      "Elevador"
+    ],
+    "Equipamento": [
+      "Máquina de lavar loiça",
+      "Frigorífico",
+      "Forno"
+    ],
+    "Multimédia": [
+      "Internet"
+    ]
+  },
   "estado": null,
   "area_util_m2": 82,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2027,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-20"
 }
