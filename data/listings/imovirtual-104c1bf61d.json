@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Lordelo do Ouro e Massarelos, Porto",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 43.2,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T1 novo, totalmente mobilado e equipado, situado no último piso de um edifício, beneficiando de vistas desafogadas&nbsp;\n\nO imóvel é composto por:&nbsp;\n\nCozinha totalmente equipada, integrada numa sala em conceito open space;&nbsp;&nbsp;\n\n1 quarto;&nbsp;\n\n1 casa de banho;&nbsp;\n\nEspaço de arrumos;&nbsp;\n\nTerraço, ideal para momentos de lazer e descontração. \n\nLocalização e Envolvente:\n\nShopping Cidade do Porto a 400 metros;&nbsp;\n\nMercado do Bom Sucesso a 400 metros;&nbsp;\n\nCasa da Música a 800 metros;&nbsp;\n\nPalácio de Cristal a 850 metros;&nbsp;\n\nPróximo de todos os transportes públicos;&nbsp;\n\nPerto de comércio, serviços e outras comodidades;&nbsp;\n\nZona com excelentes acessibilidades. \n\nPrincipais Destaques&nbsp;\n\nApartamento novo;&nbsp;\n\nTotalmente mobilado e equipado;&nbsp;\n\nSituado no último piso;&nbsp;\n\nVistas desafogadas;&nbsp;\n\nTerraço;&nbsp;\n\nLocalização privilegiada. \n\nUma excelente oportunidade para quem procura conforto, modernidade e praticidade,\nnuma das zonas mais procuradas do Porto, com tudo o que precisa no dia a dia a\npoucos minutos de distância! \n\n Licença de Utilização - NUD/496319/2025/CMP",
+  "geo": {
+    "lat": 41.15422,
+    "lng": -8.63094
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 43.2,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2025,
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-20"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Santo António dos Olivais, Coimbra",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 86.4,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imx2dnNnNTVneXFrNjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TG4c-geEeEY37oaC-z7yaoGem-H8e1a2Uo5GFaCE7zc/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": null,
+  "description": "Apartamento com três divisões assoalhadas, 2wc, equipado, roupeiros, situado no centro de celas. Classe Energética E. Autorização de utilização n.º120/1962.\n\n(A Mediadora Imobiliária respeita o direito à privacidade e não recolhe qualquer informação pessoal sem consentimento. Quaisquer dados pessoais fornecidos serão tratados com as garantias de segurança e confidencialidade, exigidas pelo Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho de 27 de Abril de 2016 e disponíveis para consulta no Manual de Conduta, na sede da empresa).",
+  "geo": {
+    "lat": 40.212704,
+    "lng": -8.396301
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -18,14 +21,16 @@
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-arrendamento-em-santo-antonio-dos-olivais-coimbra-ID1jeJM",
   "published_at": "2026-11-18",
   "last_seen_at": "2026-11-20",
-  "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imx2dnNnNTVneXFrNjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TG4c-geEeEY37oaC-z7yaoGem-H8e1a2Uo5GFaCE7zc/image;s=1280x1024;q=80"
-  ],
-  "features": null,
-  "estado": null,
+  "images": [],
+  "features": {
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 86.4,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1989,
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-20"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "O. Azeméis, Riba-Ul, Ul, Macinhata da Seixa, Madail, Oliveira de Azeméis, Aveiro",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 70,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T2 Renovado – Disponível para Arrendamento em Janeiro\n\nArrenda-se excelente apartamento T2, situado na Rua Eduardo Paul, n.º 146, totalmente renovado e pronto a habitar.\n\nO apartamento destaca-se pelo seu estado de conservação, conforto e ambiente moderno, sendo ideal para quem procura uma habitação acolhedora e funcional.\n\nCaracterísticas principais:\n\nTipologia T2 (dois quartos);\n\nApartamento renovado;\n\nEspaços modernos e funcionais;\n\nPronto a habitar.\n\nDisponibilidade: entrada a partir de janeiro de 2027.\n\nUma excelente oportunidade para quem procura uma nova casa no início do ano!\n\nPara mais informações ou agendamento de visita, entre em contacto por mensagem privada ou chamada.",
+  "geo": {
+    "lat": 40.83563,
+    "lng": -8.48746
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 70,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-20"
 }

@@ -6,14 +6,11 @@
   "currency": "EUR",
   "location": "Nazaré, Leiria",
   "bedrooms": 1,
-  "bathrooms": 2,
+  "bathrooms": null,
   "area_m2": 82,
   "image": null,
-  "description": "Descobre este acolhedor apartamento na Nazaré, perfeito para quem procura conforto e uma excelente área exterior. O imóvel dispõe de sala, cozinha funcional, quarto, duas casas de banho de serviço e um fantástico pátio privativo com 19 metros quadrados, ideal para aproveitar o sol. Uma excelente oportunidade para habitação própria ou investimento.",
-  "geo": {
-    "lat": 39.60894,
-    "lng": -9.035
-  },
+  "description": null,
+  "geo": null,
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -22,11 +19,11 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": {},
+  "features": null,
   "estado": null,
   "area_util_m2": 82,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": "A",
-  "detail_fetched_at": "2026-11-20"
+  "certificacao_energetica": null,
+  "detail_fetched_at": null
 }

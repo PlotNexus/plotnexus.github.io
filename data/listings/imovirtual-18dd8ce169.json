@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Cadafaz e Colmeal, Góis, Coimbra",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 1000,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Casa para alugar na serra do açor entre Góis e Arganil na serra na aldeia Sobral",
+  "geo": {
+    "lat": 40.150135,
+    "lng": -8.020099
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 1000,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-20"
 }

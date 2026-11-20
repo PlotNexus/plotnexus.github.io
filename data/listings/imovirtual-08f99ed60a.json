@@ -6,24 +6,42 @@
   "currency": "EUR",
   "location": "Real, Dume e Semelhe, Braga",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 196,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Principais Características do Imóvel:Tipologia: T4 com 4 casas de banho completas/de serviço.Espaços Exteriores: Jardim privativo relvado com piscina interior aquecida e zona de lazer exterior.Áreas Complementares: Sótão aproveitado com excelente luminosidade natural e garagem privativa fechada.Caixilharias: Caixilharia em PVC com corte térmico e vidro duplo, assegurando isolamento acústico e térmico superior (Certificação Energética: Classe B).Eficiência Energética e Climatização Avançada:Esta moradia destaca-se pela sua autossuficiência e múltiplos sistemas de aquecimento integrados:Energias Renováveis: Sistema solar térmico para aquecimento de águas sanitárias (AQS) e instalação solar fotovoltaica para autoconsumo elétrico.Sistema de Climatização Multissistema: Aquecimento central complementado por bomba de calor de elevado rendimento e ligação à rede de gás natural.Aquecimento a Biomassa Integrado:Fogão de sala (recuperador) interligado para aquecimento ambiente e produção de água quente sanitária.Fogão a lenha tradicional na cozinha, multifunções: ideal para cozinhar, aquecimento central e apoio direto às águas quentes.Localização e Envolvente:Inserida numa zona residencial calma e consolidada, beneficia de acessos rápidos a serviços, comércio e transportes:Educação: Proximidade estratégica a escolas e ligação direta à Universidade do Minho.Lazer e Natureza: A curta distância do Parque de Merendas do Feital e de zonas verdes circundantes.Serviços: Cafés, pastelarias, supermercados, farmácias e transportes públicos a poucos passos.Uma oportunidade única para quem procura uma casa espaçosa, energeticamente eficiente e pronta a acolher a sua família com total comodidade.Agende já a sua visita e venha conhecer a sua futura casa!",
+  "geo": {
+    "lat": 41.557808,
+    "lng": -8.44791
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-em-banda-t4-piscina-interior-aquecida-e-jardim-real-braga-ID1ja4Y",
-  "published_at": "2026-11-19",
+  "published_at": "2026-11-04",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Ar condicionado",
+      "Jardim",
+      "Varanda"
+    ],
+    "Multimédia": [
+      "Aquecimento a gás",
+      "Internet",
+      "TV por cabo"
+    ],
+    "Janelas": [
+      "Caixilharia de PVC"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 196,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-20"
 }

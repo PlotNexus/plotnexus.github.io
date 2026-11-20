@@ -6,24 +6,27 @@
   "currency": "EUR",
   "location": "Alfândega da Fé, Bragança",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 50,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Este apartamento de 50 m² encontra-se no rés do chão e está pronto a habitar.\n\nDispõe de cozinha equipada, quarto com televisão, casa de banho, e um terraço para momentos ao ar livre, além de ter uma vista bestial.\n\nA sua disposição inclui internet, televisão por cabo, e mobiliário completo.\n\nA localização na zona da Sé, Santa Maria e Meixedo oferece fácil acesso a serviços essenciais e pontos de interesse.\n\nPerto de escolas, hospitais, supermercados e parques, a sua nova casa fica a poucos minutos de pontos culturais e de lazer.\n\nDestaca-se ainda a proximidade de centros de saúde, bancos, e transportes públicos, facilitando o dia a dia.\n\nSe procura um apartamento funcional e bem localizado, não hesite em visitar.\n\nAgende uma visita e descubra o seu novo lar na cidade de Bragança.",
+  "geo": {
+    "lat": 41.35074,
+    "lng": -6.96386
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/arrendo-apartamento-ID1j1Vj",
-  "published_at": "2026-11-19",
+  "published_at": "2026-10-16",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 50,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "BMINUS",
+  "detail_fetched_at": "2026-11-20"
 }

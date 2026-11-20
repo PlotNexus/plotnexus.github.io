@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Ovar, S. João, Arada e S. Vicente de Pereira Jusã, Ovar, Aveiro",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 74,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento em bom estado de conservação, localizado próximo da zona escolar.\n\nPossui boa exposição solar e boa acessibilidade. \n\nCategoria Energética: E\n\nOvar. Apartment completely renovated and with excellent sun exposure, equipped kitchen, garage, located near the school and swimming pool area, good and easy access to beaches, health center, hospital, and shopping area. \n\nEnergy Rating: E",
+  "geo": {
+    "lat": 40.866444,
+    "lng": -8.626602
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 74,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1991,
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-20"
 }

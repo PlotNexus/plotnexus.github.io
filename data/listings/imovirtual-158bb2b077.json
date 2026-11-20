@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Gondifelos, Cavalões e Outiz, Vila Nova de Famalicão, Braga",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 65,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Procura um andar-moradia confortável, funcional e pronto a habitar? Descubra esta oportunidade em Cavalões!Situado junto à Nacional 206, este andar-moradia T3 reúne as condições ideais para quem procura conforto, espaço e bons acessos para o dia-a-dia.O imóvel dispõe de:Cozinha mobilada e equipada com placa, forno e exaustor;Sala;Despensa;Três quartos;Casa de banho completa;Dois lugares de estacionamento;Terraço;Quintal.Com espaço exterior para desfrutar e dois lugares de estacionamento que proporcionam maior comodidade, este imóvel é uma excelente opção para quem valoriza funcionalidade e conforto.A sua localização junto à Nacional 206 permite beneficiar de bons acessos e facilidade de deslocação.Procura uma casa para arrendar onde possa começar uma nova etapa?Contacte-nos para mais informações e agende a sua visita. Venha conhecer este andar-moradia em Cavalões!",
+  "geo": {
+    "lat": 41.41697,
+    "lng": -8.573698
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Jardim"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 65,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1967,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-20"
 }

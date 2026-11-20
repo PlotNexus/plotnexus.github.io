@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Almada, Cova da Piedade, Pragal e Cacilhas, Almada, Setúbal",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 81.09,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T3 no Centro de Almada – Localização Privilegiada!\n\nExcelente apartamento T3, situado no coração da cidade de Almada, numa localização super central, ideal para quem procura conforto, espaço e facilidade de deslocação.\n\nO imóvel destaca-se pelas suas boas áreas, proporcionando divisões amplas e funcionais, e dispõe de duas casas de banho, oferecendo maior comodidade para toda a família.\n\nBeneficia de uma localização privilegiada, com ótimos acessos a transportes públicos, comércio, serviços e todo o tipo de comodidades. Encontra-se ainda muito próximo dos principais acessos à Ponte 25 de Abril, permitindo uma ligação rápida e prática a Lisboa.\n\nUma excelente oportunidade para quem valoriza viver no centro da cidade, com tudo o que precisa à porta e excelentes acessibilidades.\n\nVenha conhecer a sua próxima casa!\n\nImóvel com título urbanístico correspondente à sua atual utilização.",
+  "geo": {
+    "lat": 38.668705,
+    "lng": -9.166484
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 81.09,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1977,
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-20"
 }

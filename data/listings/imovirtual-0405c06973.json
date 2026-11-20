@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Santa Maria Maior e Monserrate e Meadela, Viana do Castelo",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 66,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "VIANA DO CASTELO - APARTAMENTO - T1+1 COM 66M² - MUITO BOM ESTADO - LUMINOSO\n\nSituado em Viana do Castelo, este apartamento duplex em muito bom estado oferece uma distribuição funcional e uma luminosidade natural destacada, com exposição solar que garante luz ao longo do dia.\n\nCom uma área habitável de 66 m², o apartamento desenvolve-se em dois níveis e conta com 3 assoalhadas bem organizadas. A sala é acolhedora e luminosa, beneficiando diretamente da exposição solar. A cozinha totalmente equipada, apresenta uma configuração prática e bem aproveitada. O quarto é confortável e tranquilo, complementado por uma casa de banho completa.\n\nDo ponto de vista dos equipamentos, o imóvel está dotado de ar condicionado reversível — assegurando conforto térmico em todas as estações , fibra ótica e infraestrutura para TV cabo e telefone. O conjunto de equipamentos técnicos confere ao apartamento um nível de conforto moderno e eficiente.\n\nPara agendar uma visita e conhecer este apartamento em detalhe, entre em contacto connosco.\n\n#ref: 1070183",
+  "geo": {
+    "lat": 41.6907,
+    "lng": -8.833206
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,19 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado",
+      "Duplex"
+    ],
+    "Multimédia": [
+      "Internet"
+    ]
+  },
   "estado": null,
   "area_util_m2": 66,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-20"
 }

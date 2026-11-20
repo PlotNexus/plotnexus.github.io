@@ -6,24 +6,35 @@
   "currency": "EUR",
   "location": "Fajã de Cima, Ponta Delgada, Ilha de São Miguel",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 451.6,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Situada na zona da Fajã de Baixo, em Ponta Delgada, esta moradia oferece um excelente equilíbrio entre espaço, conforto e vistas desafogadas. Trata-se de uma moradia com 3 quartos e 2 casas de banho, distribuída por dois pisos, com uma área de habitação de 378 m² e um amplo terreno de 2340 m², totalmente vedado e com acesso por caminho próprio. O imóvel beneficia de janelas com caixilharia de vidro duplo e de enquadramento privilegiado, com vistas para o campo, para a cidade e para o jardim, num cenário de tranquilidade.\n\nNo interior, destaca-se uma área de estar em open plan, complementada por sala de jantar e cozinha, com despensa e zona de lavandaria. Existem ainda dois WC, uma lareira fechada e uma ligação à rede de internet, com disponibilidade de Wi-Fi e telefone. Para maior comodidade, a moradia inclui áreas de apoio como arrecadação/sala técnica e um espaço de garagem, bem como uma zona de jogos, ideal para momentos de lazer em família.\n\nNo exterior, a propriedade conta com terraço e varanda, além de um espaço de jardim com churrasqueira, perfeito para refeições ao ar livre. O terreno apresenta áreas vedadas e muradas, com acesso facilitado e proximidade a zonas de montanha, mantendo-se a privacidade. A moradia dispõe ainda de garagens duplas com portões automáticos.",
+  "geo": {
+    "lat": 37.775566,
+    "lng": -25.636768
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-t3-com-vista-panormica-em-zona-calma-faja-de-baixo-ponta-ID1j1sm",
-  "published_at": "2026-11-19",
+  "published_at": "2026-10-15",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Cave",
+      "Varanda",
+      "Terraço",
+      "Jardim",
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 451.6,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-20"
 }

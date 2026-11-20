@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Charneca de Caparica e Sobreda, Almada, Setúbal",
   "bedrooms": 0,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 30,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Arrenda-se T0 na Sobreda, inserido num espaço privado e exclusivo, com zona exterior, ideal para quem procura tranquilidade, contacto com a natureza e conforto, sem abdicar da proximidade ao comércio e aos transportes. O espaço encontra-se mobilado e equipado, pronto a habitar.\n\nCozinha equipada:\n\n- Forno e placa elétrica\n\n- Frigorífico\n\n- Termoacumulador\n\n- Máquina de lavar roupa\n\n- Máquina de café\n\n- Mesa de refeições com 3 cadeiras\n\nQuarto:\n\n- Cama de casal\n\n- Cómoda\n\nCasa de banho:\n\n- Renovada\n\n- Base de duche com resguardo\n\n- Móvel de arrumação\n\nOutras características:\n\n- Zona exterior privada\n\n- Espaço tranquilo e reservado\n\nAnimais de estimação são permitidos e bem-vindos.\n\nCondições de arrendamento:\n\n- Renda mensal: 590 € (c/ despesas incluídas)\n\n- Entrada: 1 renda + 1 caução\n\nDocumentação necessária: Cartão de Cidadão, última declaração de IRS e 3 últimos recibos de vencimento.",
+  "geo": {
+    "lat": 38.62912,
+    "lng": -9.19016
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 30,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-20"
 }

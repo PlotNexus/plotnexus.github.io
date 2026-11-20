@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Covas, Vila Nova de Cerveira, Viana do Castelo",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 80,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos este magnífico imóvel inserido num terreno de aproximadamente 1400m2 ideal para converter em moradia permanente ou converter em turismo rural , encontra se num dos locais mais previgiliados da freguesia de Covas com umas magificas vistas sobre o vale. \n\nAgende visita temos solução para os seus projetos. \n\nCategoria Energética: Isento",
+  "geo": {
+    "lat": 41.88599,
+    "lng": -8.700258
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 80,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-20"
 }

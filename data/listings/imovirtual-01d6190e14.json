@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Nine, Vila Nova de Famalicão, Braga",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 118.2,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "O SEU NOVO LAR PODE ESTAR EM NINE!Imagine viver num apartamento moderno, com espaços pensados para o seu conforto e tudo aquilo de que precisa para se sentir verdadeiramente em casa!Apresentamos este fantástico Apartamento T3 para Arrendamento em Nine, com 118 m² de área e construção de 2025, onde a modernidade e a funcionalidade se encontram.&nbsp;&nbsp;O que torna este apartamento especial?Cozinha mobilada e equipada, em conceito open space;Sala mobilada, com acesso a varanda;1 suite;1 quarto com varanda;Garagem fechada com capacidade para 2 automóveis.Com uma construção recente e espaços acolhedores, este é o apartamento ideal para quem procura qualidade de vida, conforto e praticidade no dia a dia.&nbsp;",
+  "geo": {
+    "lat": 41.46013,
+    "lng": -8.54862
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 118.2,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-20"
 }

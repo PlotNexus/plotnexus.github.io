@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Oiã, Oliveira do Bairro, Aveiro",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 129,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T3 no centro de Oiã para arrendamento próximo do comércio e serviços composto por:\n\n- Hall de entrada;\n\n-Cozinha equipada com fogão, exaustor, esquentador;\n\n- Sala com lareira e varanda;\n\n- Despensa;\n\n- Três quartos um deles suite;\n\n- Duas casas de banho;\n\nSalientamos ainda que o apartamento conta com um arrumo, um terraço, garagem fechada e elevador. \n\nNão perca esta oportunidade e venha visitar! Refª 1051455/26 OB \n\nCategoria Energética: E",
+  "geo": {
+    "lat": 40.54537,
+    "lng": -8.53725
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,16 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 129,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1996,
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-20"
 }

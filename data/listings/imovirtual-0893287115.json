@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Valongo do Vouga, Águeda, Aveiro",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 84,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia T2 transformada em T3 - Conforto e funcionalidade\n\nExcelente oportunidade! Moradia originalmente T2, atualmente transformada em T3, ideal para quem procura conforto, funcionalidade e espaço.\n\nO imóvel é composto por:\n\n3 quartos, proporcionando maior comodidade e versatilidade;\n\nCasa de banho completa;\n\nLavandaria, para maior organização do dia a dia;\n\nSala, ideal para momentos de convívio e lazer;\n\nCozinha, funcional e prática;\n\nEspaço exterior, perfeito para desfrutar de momentos ao ar livre.\n\nUma moradia com uma distribuição prática dos espaços, ideal para habitação própria ou investimento.\n\nLocalização de excelência! Situada numa zona com ótimos acessos e próxima de todo o tipo de serviços e comércio, nomeadamente escolas, farmácias, supermercados, transportes públicos, comércio local e outros serviços essenciais.\n\nUma localização que permite usufruir de toda a comodidade no dia a dia, tornando esta moradia uma excelente opção para habitação própria ou investimento.\n\nNão perca esta oportunidade! Venha conhecer a sua futura casa. \n\nCategoria Energética: F",
+  "geo": {
+    "lat": 40.61643,
+    "lng": -8.42623
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 84,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-11-20"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Moita, Anadia, Aveiro",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 126,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "MORADIA T3 - Centro da MOITA, ANADIA\n\nApresento esta oportunidade na localidade da Moita, freguesia de Anadia, ideal para quem procura um imóvel para recuperar ou um projeto de investimento imobiliário.\n\nCom uma área de construção de 126 m² e 180m² de terreno, este imóvel oferece várias possibilidades de aproveitamento: \n\nRecuperação da moradia existente, adaptando-a às suas necessidades e preferências. \n\nProjeto de investimento, com possibilidade de transformação em apartamentos, uma vez que o PDM admite uma construção de dois pisos, existindo viabilidade para desenvolver um projeto com esta configuração, sujeito à confirmação e aprovação das entidades competentes.\n\nInformação importante: O imóvel não dispõe de licença de utilização ou de habitação.\n\nUma oportunidade interessante para investidores, construtores ou para quem procura um projeto imobiliário com potencial de valorização.",
+  "geo": {
+    "lat": 40.44231,
+    "lng": -8.415785
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 126,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-11-20"
 }

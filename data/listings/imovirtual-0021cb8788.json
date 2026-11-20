@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "São Félix da Marinha, Vila Nova de Gaia, Porto",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 191,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "⁠⁠⁠⁠⁠⁠⁠Exclusiva Moradia T4 de Luxo em São Félix da Marinha — Sofisticação, Conforto e Proximidade ao MarDescubra o equilíbrio perfeito entre elegância contemporânea e bem-estar nesta distinta moradia de quatro frentes, situada numa das zonas mais valorizadas de São Félix da Marinha, em Vila Nova de Gaia. A poucos minutos da praia e com acesso rápido à A29, esta propriedade oferece um estilo de vida reservado, tranquilo e simultaneamente conectado.Desde o primeiro momento, a entrada impressiona com um hall luminoso marcado por uma elegante escadaria em ferro forjado, onde os detalhes em madeira acrescentam calor e personalidade. O piso térreo revela uma área social ampla e harmoniosa, onde a cozinha moderna, totalmente equipada, se destaca pela sua sofisticada ilha em mármore — o ponto de encontro ideal para momentos informais e convívio. A ligação fluida com a sala de estar e jantar, banhada por luz natural através de generosas janelas, prolonga-se para os terraços exteriores, criando uma perfeita integração entre interior e exterior.No piso superior, a zona privada oferece quatro quartos cuidadosamente desenhados para o conforto absoluto, incluindo duas suítes. A suíte principal distingue-se pelo seu closet e varanda, proporcionando um ambiente sereno e intimista.As águas furtadas surpreendem com uma sala versátil, inundada de luz natural e com vistas desafogadas para o mar — um refúgio perfeito para leitura, lazer ou momentos de tranquilidade.A moradia eleva ainda mais a experiência de viver bem com um espaço de lazer completo: salão com sala de cinema, cozinha equipada, escritório e área de convívio com mesa de bilhar — ideal para receber com distinção.No exterior, o terraço convida a desfrutar de finais de tarde únicos, com zona de refeições ao ar livre, churrasqueira e forno embutido, enquadrados por um jardim cuidado e uma envolvência que transmite exclusividade e bem-estar.Para máxima funcionalidade, dispõe ainda de lavandaria independente totalmente equipada e garagem para dois veículos, com carregamento para carros elétricos.Equipada com ar condicionado em todas as divisões, painéis solares, sistema de vídeo vigilância e cobertura com abertura automática, esta propriedade oferece tecnologia e conforto ao mais alto nível.Uma residência onde o luxo é vivido de forma discreta, pensada para quem valoriza qualidade, privacidade e um estilo de vida distinto junto ao mar.Tratamos de todo o processo de financiamento e acompanhamento até ao ato da escritura.Para todas as informações que desejar, estamos ao seu inteiro dispor.Agende a sua visita!CHAVE NOVA FEIRA- Santa Maria da Feira.",
+  "geo": {
+    "lat": 41.025856,
+    "lng": -8.629505
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,18 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-20",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Terraço",
+      "Jardim",
+      "Ar condicionado",
+      "Garagem"
+    ]
+  },
   "estado": null,
   "area_util_m2": 191,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2006,
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-20"
 }
