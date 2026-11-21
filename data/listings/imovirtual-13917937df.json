@@ -6,24 +6,32 @@
   "currency": "EUR",
   "location": "São Brás de Alportel, Faro",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 182,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia de Linhas tradicionais, com Piscina Aquecida em São Brás de Alportel\n\nLocalizada numa zona rural de São Brás de Alportel, esta moradia, inserida num lote de 890 m², combina o estilo tradicional algarvio com uma tranquilidade resultante da localização. \n\nPerfeito para viver ou simplesmente relaxar.\n\nA propriedade é composta por três quartos, um deles em suite, cozinha equipada e sala acolhedora com salamandra elétrica. \n\nNo exterior, poderá usufruir de uma piscina aquecida, perfeita para momentos de lazer em qualquer altura do ano.\n\nDispõe ainda de um anexo com casa de banho, que poderá ser convertido num estúdio, espaço de arrumos ou até numa zona de lazer conforme as suas necessidades.\n\nInserida numa região onde o encanto da serra se encontra com a proximidade do mar, esta moradia oferece o equilíbrio perfeito entre natureza e acessibilidade, estando a somente 5 minutos de São Brás de Alportel e cerca de 10 de Loulé, fazendo com que esteja a curta distância de todos os serviços e comodidades essenciais.\n\nDispondo de uma garagem, pode ainda usufruir de bonitas vistas mar e serra.\n\nVenha conhecer esta oportunidade única de viver com qualidade, conforto e tranquilidade em São Brás de Alportel.\n\n#ref: 835359",
+  "geo": {
+    "lat": 37.139427,
+    "lng": -7.911156
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-isolada-t3-em-sao-bras-de-alportel-de-182-25-m2-ID1i0e2",
-  "published_at": "2026-11-20",
+  "published_at": "2026-03-05",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda",
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 182,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2003,
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-21"
 }

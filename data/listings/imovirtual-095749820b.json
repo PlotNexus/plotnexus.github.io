@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Montijo e Afonsoeiro, Montijo, Setúbal",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 114,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Excelente apartamento T2 semi-novo (construção de 2022) no R/C, com acabamentos contemporâneos, áreas generosas e muito arrumação, localizado na urbanização Alto dos Moinhos no Montijo. \n\nDestaca-se pela sua proximidade a todo o tipo de comércio, serviços, escolas e transportes públicos, oferecendo ainda acessos rápidos e diretos a Lisboa.\n\nFabuloso terraço de 49 m² com churrasqueira, ideal para momentos de lazer, com acesso direto pela sala de 44 m2 e pela cozinha.\n\nDois quartos com roupeiros embutidos, sendo um deles uma excelente suite.\n\nDuas casas de banho (uma com banheira e outra com base de duche).\n\nCozinha em open space, de linhas modernas e totalmente equipada com eletrodomésticos Siemens.\n\nAr condicionado, sistema de som ambiente, aspiração central em todas as divisões, estores elétricos e térmicos, tetos falsos com iluminação LED embutida em todo o apartamento.\n\nLugar de estacionamento para 2 viaturas.\n\nCondições de Arrendamento:\n\nPagamento de 2 meses de renda + 2 meses de caução (garantia devolvida no final do contrato, mediante verificação das condições do imóvel).\n\nDocumentação: Documento de identificação válido e comprovativo de rendimentos em Portugal (última declaração de IRS e os 3 últimos recibos de vencimento). \n\nCategoria Energética: A\n\nExcellent semi-new 2 bedroom flat (construction of 2022) on the ground floor, with contemporary finishes, generous areas and lots of storage, located in the Alto dos Moinhos urbanisation in Montijo. \n\nIt stands out for its proximity to all kinds of commerce, services, schools and public transport, also offering quick and direct access to Lisbon.\n\nFabulous terrace of 49 m² with barbecue, ideal for moments of leisure, with direct access from the living room of 44 m2 and the kitchen.\n\nTwo bedrooms with built-in wardrobes, one of which is an excellent suite.\n\nTwo bathrooms (one with bathtub and one with shower).\n\nOpen space kitchen, with modern lines and fully equipped with Siemens appliances.\n\nAir conditioning, surround sound system, central vacuum in all rooms, electric and thermal shutters, false ceilings with built-in LED lighting throughout the flat.\n\nParking space for 2 cars.\n\nRental Conditions:\n\nPayment of 2 months of rent + 2 months of deposit (guarantee returned at the end of the contract, upon verification of the conditions of the property).\n\nDocumentation: Valid identification document and proof of income in Portugal (last IRS return and the last 3 payslips). \n\nEnergy Rating: A",
+  "geo": {
+    "lat": 38.717117,
+    "lng": -8.972543
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,29 @@
   "published_at": "2026-11-20",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Porta blindada",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Elevador"
+    ],
+    "Equipamento": [
+      "Frigorífico",
+      "Máquina de lavar loiça",
+      "Forno",
+      "Ar condicionado"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 114,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2022,
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-21"
 }

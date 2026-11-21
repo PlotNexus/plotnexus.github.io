@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Tebosa, Braga",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 308,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia T3 para venda\n\nMoradia T3 com jardim e terreno em Tebosa, Braga\n\nSituada numa zona residencial tranquila, esta moradia oferece conforto, espaço exterior e proximidade a serviços essenciais. Uma excelente opção para quem procura qualidade de vida e bons acessos.\n\nCaracterísticas do imóvel:\n\n- Cozinha mobilada, com fogão a lenha e placa\n\n- Sala de estar e jantar com acesso à varanda\n\n- Três quartos\n\n- Duas casas de banho\n\n- Aquecimento a lenha através de recuperadores de calor\n\n- Capoto\n\n- Caixilharia nova, colocada há cerca de dois anos\n\n- Garagem fechada com acesso direto ao interior da moradia\n\n- Jardim para momentos de lazer\n\n- Terreno na parte posterior da propriedade\n\nLocalização e acessos:\n\n- Zona residencial tranquila\n\n- Próxima de escola primária, jardim de infância, café, pastelaria, análises clínicas e cabeleireiro\n\n- A cerca de 3 minutos da entrada da autoestrada\n\n- Aproximadamente 15 minutos de Braga e de Vila Nova de Famalicão\n\nUma moradia com espaço e comodidade, numa localização que facilita o dia a dia.\n\n&nbsp;PORQUÊ escolher a RE/MAX para o ajudar na compra do seu imóvel? Dispomos de uma equipa qualificada que o acompanhará em todas as fases do processo de compra:&nbsp;\n\n- Qualificação do produto&nbsp;\n\n- Qualificação financeira (Obtenção de viabilidade de crédito);&nbsp;\n\n- Qualificação motivacional;&nbsp;&nbsp;\n\n- Escolha dos imóveis corretos a visitar;&nbsp;\n\n- Visitas aos imóveis selecionados;&nbsp;\n\n- Capacidade de negociação;&nbsp;\n\n- Elaboração do contrato promessa de compra e venda;&nbsp;\n\n- Acompanhamento na escritura;&nbsp;\n\nEntre em contacto connosco!&nbsp;&nbsp;",
+  "geo": {
+    "lat": 41.48236,
+    "lng": -8.482879
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-20",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem"
+    ]
+  },
   "estado": null,
   "area_util_m2": 308,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1995,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-21"
 }

@@ -6,24 +6,47 @@
   "currency": "EUR",
   "location": "Ranhados, Viseu",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 202,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T2 duplex em construção, com conclusão prevista para 2026, situado no centro da cidade de Viseu, próximo ao Palácio do Gelo e ao Hospital. Este empreendimento residencial consiste em dois blocos, oferecendo unidades de T1 a T2 duplex distribuídas do 2º ao 9º andar.\n\nEste apartamento situa se no 9º piso, e é composto no piso inferior por dois quartos, sendo um suíte, com cortinas blackout e roupeiros embutidos, sala, cozinha e um W.C. principal. No piso superior, poderá ser feito dois quartos e um W.C, com terraço.\n\nEm termos de comodidades, inclui uma bomba de calor para águas sanitárias, ar condicionado, piso radiante completo, além de varandas. As janelas são em alumínio lacado, com rutura térmica e oscilobatentes.\n\nTodos os tetos são em pladur, com focos embutidos em todos os compartimentos, paredes de gesso projetado e pintadas com tinta plástica. Os pavimentos da sala, quarto e corredor são em soalho flutuante de carvalho, enquanto na cozinha, o pavimento é em mosaico retificado, com móveis e revestimento de parede em silestone.\n\nOs banheiros privativos possuem paredes em cerâmica retificada da marca Love ou equivalente; pavimentos em mosaico retificado da marca Love ou equivalente; móvel suspenso com lavatório cerâmico de 80cm com duas gavetas e torneira monobloco tipo Bruma, série Lusitano ou equivalente; louças suspensas (sanita e bidé) tipo Sanindusa série Look ou equivalente; placa de descarga da sanita série Slim da OLI; base de chuveiro em resina tipo Pedra da Barros & Moreira com sistema de duche embutido tipo Bruma série Lusitano ou equivalente.\n\nO edifício também está equipado com fibra ótica e possui garagem com portão seccionado.\n\nAgende já a sua visita!\n\nObservação: Como o apartamento está em fase de construção, ainda é possível escolher entre diversos tipos de materiais para os acabamentos. As imagens dos interiores publicadas são de outros apartamentos já finalizados, uma vez que estes ainda estão em construção.",
+  "geo": {
+    "lat": 40.6462,
+    "lng": -7.9113
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-duplex-viseu-ID1enZy",
-  "published_at": "2026-11-20",
+  "published_at": "2024-04-05",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Ar condicionado",
+      "Jardim",
+      "Varanda",
+      "Elevador",
+      "Duplex"
+    ],
+    "Aquecimento": [
+      "Aquecimento urbano"
+    ],
+    "Multimédia": [
+      "Internet"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
   "estado": null,
   "area_util_m2": 202,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-21"
 }

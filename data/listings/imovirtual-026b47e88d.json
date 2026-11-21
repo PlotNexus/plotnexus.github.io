@@ -6,24 +6,38 @@
   "currency": "EUR",
   "location": "Outeiro Seco, Chaves, Vila Real",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 176,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Casa com - 176 m2Terreno com - 320 m2Rés do Chão:1 Sala1 Quarto1 Cozinha1 WC-completo1º Andar:3 Quartos1 Anexo",
+  "geo": {
+    "lat": 41.752663,
+    "lng": -7.45313
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/casa-e-terreno-320-m2-ID1gmhl",
-  "published_at": "2026-11-20",
+  "published_at": "2025-03-11",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda",
+      "Jardim"
+    ],
+    "Multimédia": [
+      "Aquecimento a gás"
+    ],
+    "Janelas": [
+      "Caixilharia de PVC"
+    ]
+  },
   "estado": null,
   "area_util_m2": 176,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-21"
 }

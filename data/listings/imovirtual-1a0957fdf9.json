@@ -6,24 +6,43 @@
   "currency": "EUR",
   "location": "Matosinhos e Leça da Palmeira, Matosinhos, Porto",
   "bedrooms": 0,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 44,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Arrenda-se apartamento T0 com 44 m² de área bruta, situado no rés-do-chão de um prédio moderno, construído em 2019, na prestigiada Avenida Serpa Pinto.O imóvel encontra-se totalmente mobilado e equipado, pronto a habitar, oferecendo um espaço funcional e confortável.Localização privilegiada, muito perto da praia e com excelentes acessos, a poucos passos da estação de metro, comércio, serviços e restauração.Ideal para quem procura viver com conforto numa zona central e com ótima qualidade de vida.Condições de arrendamento:1 renda adiantada;1 renda de caução.Para mais informações ou agendamento de visita, não hesite em contactar!",
+  "geo": {
+    "lat": 41.180763,
+    "lng": -8.691063
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/arrenda-se-apartamento-t0-na-prestigiada-avenida-serpa-pinto-ID1gVEU",
-  "published_at": "2026-11-20",
+  "published_at": "2025-07-15",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro",
+      "Videovigilância"
+    ],
+    "Equipamento": [
+      "Mobilado",
+      "Frigorífico",
+      "Forno"
+    ],
+    "Multimédia": [
+      "Internet"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 44,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-21"
 }

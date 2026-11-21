@@ -6,24 +6,31 @@
   "currency": "EUR",
   "location": "Penedono e Granja, Penedono, Viseu",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 70,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Casa rústica de dois pisos, localizada na aldeia de Adobispo, no concelho de Penedono.O imóvel destaca-se pela sua traça tradicional e pela versatilidade dos seus espaços, incluindo um quinteiro e um palhal que conferem um enorme potencial para projetos de lazer ou expansão.Distribuição do Imóvel:Rés-do-chão: Composto por 3 lojas, ideais para arrumos;1.º Piso (Zona Habitacional): Dispõe de cozinha, 2 quartos, sala e 1 WC.A casa já conta com ligação à eletricidade e à rede pública de abastecimento de água, facilitando qualquer processo de modernização.Seja para habitação própria, casa de férias ou para investimento em turismo rural, esta propriedade oferece o sossego absoluto que só uma aldeia típica pode proporcionar.",
+  "geo": {
+    "lat": 40.978893,
+    "lng": -7.352416
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/casa-rustica-em-adobispo-penedono-ID1dUEh",
-  "published_at": "2026-11-20",
+  "published_at": "2024-02-15",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 70,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-11-21"
 }

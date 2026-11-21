@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Santo António dos Olivais, Coimbra",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 35,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Arrenda-se apartamento T1 mobilado e equipado, situado num sotão de um prédio localizado no Vale das Flores.- Sala com cozinha integrada, estilo kitchenette;- Casa-de-banho interior com banheira;;- Localizado em zona com transportes públicos e diversos serviços/comércios na sua envolvente;- Despesas de água, electricidade e internet não incluídas;- Contrato de 1 ano no mínimo com o pagamento inicial de 2 rendas e apresentação de fiador;Para mais informações, ou agendamento de visitas, deixe o seu contacto por email ou ligue, de segunda a sexta-feira das 9h00-13h00 e 14h00-18h00, directamente para os contactos indicados no anúncio.Oportunidade a não perder.",
+  "geo": {
+    "lat": 40.197105,
+    "lng": -8.405379
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,18 @@
   "published_at": "2026-11-20",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 35,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-21"
 }

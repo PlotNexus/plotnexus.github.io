@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Darque, Viana do Castelo",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 90,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Andar de Moradia com terraço e vista rio, situada na zona histórica de Darque, Viana do Castelo.\n\nImóvel constituído por sala e cozinha em open space, dois quartos e duas casas de banho.\n\nCozinha equipada, roupeiros embutidos, ar condicionado e bomba de calor.\n\nDispõe ainda de um salão adicional, versátil e ideal para momentos de lazer ou convívio e garagem fechada.\n\nO grande destaque é o excelente terraço com vista privilegiada para o rio, perfeito para desfrutar de momentos únicos.\n\nUma oportunidade diferenciadora para quem valoriza espaço, conforto e uma vista de excelência.\n\n Venha conhecer! \n\nCategoria Energética: C\n\nApartment with terrace and river view, located in the historic area of Darque, Viana do Castelo.\n\nProperty consisting of an open-plan living room and kitchen, two bedrooms, and two bathrooms.\n\nEquipped kitchen, built-in wardrobes, air conditioning, and heat pump.\n\nIt also has an additional lounge, versatile and ideal for leisure or socialising moments, and a closed garage.\n\nThe main highlight is the excellent terrace with a privileged view of the river, perfect for enjoying unique moments.\n\nA unique opportunity for those who value space, comfort, and an excellent view.\n\nCome and see it! \n\nEnergy Rating: C",
+  "geo": {
+    "lat": 41.68523,
+    "lng": -8.78847
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-20",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 90,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-21"
 }

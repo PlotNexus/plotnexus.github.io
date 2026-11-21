@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Couço, Coruche, Santarém",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 230,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Esta moradia T3 situa-se no Couço, em Coruche, oferecendo uma excelente base para uma vida tranquila numa zona residencial. Com 2 pisos, a distribuição foi pensada para proporcionar funcionalidade no dia a dia.\n\nA casa conta com 3 casas de banho, garantindo maior comodidade para a família e para receber visitas. A área bruta de 256 m² oferece espaço para diferentes ambientes e estilos de organização.\n\nDispõe de aquecimento, contribuindo para um maior conforto ao longo do ano. Existe ainda instalação de painéis solares, uma mais-valia para quem pretende otimizar o consumo energético.\n\nO imóvel tem certificação energética em processo. Construída em 2001, combina solidez e potencial de personalização ao seu gosto.",
+  "geo": {
+    "lat": 38.98806,
+    "lng": -8.283241
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,20 @@
   "published_at": "2026-11-20",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Alarme"
+    ],
+    "Equipamentos": [
+      "Varanda",
+      "Terraço",
+      "Jardim"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 230,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2001,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-21"
 }

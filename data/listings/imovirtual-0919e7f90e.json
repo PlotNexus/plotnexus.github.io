@@ -6,24 +6,31 @@
   "currency": "EUR",
   "location": "Valezim, Seia, Guarda",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 140,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Esta moradia isolada para compra, construída em 1950, oferece um espaço confortável e sossegado no campo. Com 140 m² de área útil, a propriedade dispõe de 2 casas de banho e é ideal para quem procura um lar espaçoso e tranquilo.O imóvel é composto por 3 andares, permitindo uma organização prática dos espaços. O telhado é de chapa metálica e as janelas são de alumínio, garantindo durabilidade e eficiência. O terreno tem uma área generosa de 3800 m², ideal para aproveitar a natureza circundante.Características principais:Moradia isolada2 casas de banho3 andaresConstrução em tijoloÁrea do terreno: 3800 m²Localização em ambiente naturalA localização rodeada por montanhas e florestas proporciona um estilo de vida calmo e revitalizante. Não perca esta oportunidade de adquirir uma moradia com grande potencial. Entre em contacto e venha conhecer este espaço único!",
+  "geo": {
+    "lat": 40.362892,
+    "lng": -7.725497
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-t2-isolada-com-3800m-de-terreno-em-valezim-seia-ID1iAXQ",
-  "published_at": "2026-11-20",
+  "published_at": "2026-07-13",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
+  "features": {
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
   "estado": null,
   "area_util_m2": 140,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1950,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-21"
 }

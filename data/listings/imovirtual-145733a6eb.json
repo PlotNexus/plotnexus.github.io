@@ -6,24 +6,33 @@
   "currency": "EUR",
   "location": "Ponta Delgada (São Pedro), Ponta Delgada, Ilha de São Miguel",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 207.68,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento situado em zona central de Ponta Delgada, com áreas amplas e excelente luminosidade.\nEste é um imóvel usado, mas em impecável estado de conservação.\nO apartamento é constituído por: \n\n- 4 quartos\n\n- 2 WC\n\n- Cozinha e marquise de apoio/lavandaria\n\n- Sala de estar e jantar em open espace com ar condicionado\n\n- Garagem\n\n- Arrecadação\n\nRealty ONE Group\n\nA Realty ONE Group é atualmente a marca imobiliária com o crescimento mais rápido nos Estados Unidos. Com mais de 20 anos de experiência, está presente em 26 países e continua a expandir-se a nível global.\n\nÀ frente da marca está Vinnie Tracey, presidente da Realty ONE Group, que durante 40 anos liderou uma das maiores referências mundiais do setor. Com a sua vasta experiência, está a consolidar a Realty ONE Group como uma das marcas líderes nos Estados Unidos e no mundo.\n\nMotivos para escolher a ONE\n\nAs Pessoas Primeiro.\n\nOs nossos consultores recebem formação de excelência, nacional e internacional, ministrada pelos melhores especialistas em todas as vertentes do negócio.\n\nToda a formação é gratuita, garantindo que a equipa está preparada para o apoiar com máxima eficiência.\n\n“Enquanto desfruta dos prazeres da sua vida, compre e venda o seu imóvel de forma rápida, simples e segura.”\n\nONE House. ONE Dream. ONE Life(style).",
+  "geo": {
+    "lat": 37.76007,
+    "lng": -25.66237
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t4-com-areas-amplas-elevador-e-garagem-ID1iPMS",
-  "published_at": "2026-11-20",
+  "published_at": "2026-09-04",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador",
+      "Ar condicionado",
+      "Varanda"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 207.68,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "BMINUS",
+  "detail_fetched_at": "2026-11-21"
 }

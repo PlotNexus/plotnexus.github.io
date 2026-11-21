@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Benedita, Alcobaça, Leiria",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 50,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "ARRENDA-SE APARTAMENTO T1 – FREI DOMINGUES, BENEDITA\n\nApartamento T1 mobilado e equipado com eletrodomésticos, pronto a habitar.\n\n Totalmente mobilado\n\nEquipado com eletrodomésticos\n\nValores mensais:\n\n- Renda: 475€\n\n- Despesas de água e luz: 50€\n\nTotal mensal: 525€\n\nCondições de arrendamento:\n\n- 2 meses de caução\n\n- 1 mês de renda inicial\n\n Para mais informações ou agendamento de visita, enviar mensagem privada.",
+  "geo": {
+    "lat": 39.386036,
+    "lng": -8.980512
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-20",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 50,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-21"
 }

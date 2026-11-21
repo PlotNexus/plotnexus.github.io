@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 95,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Arrenda-se apartamento T2 mobilado e equipado em Lamaçães, Braga, localizado junto à escola, numa zona residencial tranquila e valorizada, com excelentes acessos, vista para o jardim e garagem fechada (box) para um automóvel.\n\nSituado num Rés-do-chão elevado, em prédio com elevador, o apartamento dispõe de dois quartos com cama de casal, hall de entrada, casa de banho completa com base de duche e WC de serviço.\n\nOferece aquecimento central, televisão e cozinha equipada com frigorífico combinado, forno, placa e máquina de lavar roupa, garantindo conforto e funcionalidade no dia a dia.\n\nA sua excelente localização em Lamaçães permite acesso rápido à Universidade do Minho, Hospital de Braga, Centro de Nanotecnologia, Minho Center e centro da cidade. Nas proximidades encontram-se escolas, comércio, serviços, transportes públicos, piscina municipal, Complexo Desportivo da Rodovia e ciclovia de Lamaçães.\n\nBeneficia ainda de ótimas ligações à via rápida e às autoestradas A3, A7 e A11.\n\nVenha visitar! \n\nCategoria Energética: B",
+  "geo": {
+    "lat": 41.54393,
+    "lng": -8.40323
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,16 @@
   "published_at": "2026-11-20",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 95,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-21"
 }

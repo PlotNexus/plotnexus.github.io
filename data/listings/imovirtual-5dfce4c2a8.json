@@ -6,14 +6,11 @@
   "currency": "EUR",
   "location": "Tortosendo, Covilhã, Castelo Branco",
   "bedrooms": 3,
-  "bathrooms": 1,
+  "bathrooms": null,
   "area_m2": 84,
-  "image": null,
-  "description": "T3 com áreas amplas e vistas desafogadas no coração do Tortosendo\n\nComposto por sala com varanda, três quartos, cozinha com marquise e despensa, wc com poliban. corredor, hall, arrecadação no sotão e lugar de garagem\n\nPrédio com elevador, roupeiros embutidos, varandas, excelente exposição solar e fantásticas vistas.\n\nExcelente oportunidade de investimento\n\nAgende já a sua visita \n\nCategoria Energética: F",
-  "geo": {
-    "lat": 40.24048,
-    "lng": -7.52457
-  },
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjM1Z2lsOWhxMG13eDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.QGxRF3wx4Bjqek1ZVq5AWdHEbPg3DlmaLMM_g3pwB9Q/image;s=1280x1024;q=80",
+  "description": null,
+  "geo": null,
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,17 +18,14 @@
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-tortosendo-ID1jdWR",
   "published_at": "2026-11-16",
   "last_seen_at": "2026-11-21",
-  "images": [],
-  "features": {
-    "Equipamentos": [
-      "Garagem",
-      "Elevador"
-    ]
-  },
-  "estado": "Usado",
+  "images": [
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjM1Z2lsOWhxMG13eDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.QGxRF3wx4Bjqek1ZVq5AWdHEbPg3DlmaLMM_g3pwB9Q/image;s=1280x1024;q=80"
+  ],
+  "features": null,
+  "estado": null,
   "area_util_m2": 84,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": "F",
-  "detail_fetched_at": "2026-11-21"
+  "certificacao_energetica": null,
+  "detail_fetched_at": null
 }

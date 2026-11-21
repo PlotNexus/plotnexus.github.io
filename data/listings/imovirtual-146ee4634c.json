@@ -6,24 +6,27 @@
   "currency": "EUR",
   "location": "Santa Maria do Castelo e Santiago e Santa Susana, Alcácer do Sal, Setúbal",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 60,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia T2 para arrendar por 700 € mensais, com 60 m², um piso e uma casa de banho. Está pronta a habitar e tem certificado energético C.Localiza-se em Santa Maria do Castelo e Santiago e Santa Susana, em Alcácer do Sal. A estação ferroviária fica a cerca de 1,7 km, assim como o pavilhão gimnodesportivo e o estádio municipal.Tipologia T2Área de 60 m²Um pisoUma casa de banhoPronta a habitarCertificado energético CAgende uma visita para conhecer a moradia.",
+  "geo": {
+    "lat": 38.38789,
+    "lng": -8.528006
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-t2-terrea-pronta-a-habitar-em-alcacer-ID1j1Jl",
-  "published_at": "2026-11-20",
+  "published_at": "2026-10-16",
   "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 60,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-21"
 }
