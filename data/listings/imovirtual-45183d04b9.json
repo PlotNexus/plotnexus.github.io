@@ -6,26 +6,38 @@
   "currency": "EUR",
   "location": "Paços de Brandão, Santa Maria da Feira, Aveiro",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 126,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpyanRzZ3o5anBsMTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.y7AvtO_X4Tdrv1Br09wThN1FZmbNMKdFFAozQmNzaUs/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": null,
+  "description": "Apartamento T3 totalmente renovado em Paços de Brandão\n\nApartamento T3 com 3 frentes, completamente renovado, situado em Paços de Brandão, junto à escola.\n\nLocalizado no 2.º andar, recebe-o com um hall de entrada que dá acesso à sala ampla, equipada com recuperador de calor e varanda, ideal para os dias mais frios e para momentos de convívio.\n\nA cozinha, com zona de lavandaria, é funcional e bem organizada. \n\nO apartamento dispõe de 2 quartos com roupeiros embutidos e de uma casa de banho completa de apoio.\n\nA suíte tem varanda, casa de banho privativa e roupeiro embutido no hall de entrada do quarto, funcionando como closet.\n\nConta também com lugar de garagem para 1 viatura.\n\nUma excelente opção para quem procura uma casa renovada, luminosa (3 frentes) e com tudo à porta. \n\nContacte-nos e agende a sua visita!",
+  "geo": {
+    "lat": 40.97608,
+    "lng": -8.58775
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-a-venda-em-pacos-de-brandao-ID1j4zQ",
-  "published_at": "2026-11-19",
+  "published_at": "2026-10-26",
   "last_seen_at": "2026-11-21",
-  "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpyanRzZ3o5anBsMTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.y7AvtO_X4Tdrv1Br09wThN1FZmbNMKdFFAozQmNzaUs/image;s=1280x1024;q=80"
-  ],
-  "features": null,
-  "estado": null,
+  "images": [],
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Elevador"
+    ],
+    "Aquecimento": [
+      "Aquecimento a gás"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 126,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1990,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-21"
 }

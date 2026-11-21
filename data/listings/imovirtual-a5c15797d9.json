@@ -6,24 +6,41 @@
   "currency": "EUR",
   "location": "Nazaré, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 87,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T2, situado numa das zonas mais emblemáticas e procuradas da Nazaré: o Sítio, junto à Praça de Touros e a poucos minutos a pé da magnífica Praia do Norte. Em bom estado de conservação, este imóvel reúne conforto, funcionalidade e uma localização privilegiada, sendo uma excelente opção tanto para habitação própria como para investimento. O apartamento é composto por uma acolhedora sala, dois quartos, um dos quais com roupeiro embutido, uma casa de banho e uma cozinha equipada. Tanto a cozinha como um dos quartos dispõem de acesso a varanda, proporcionando espaços exteriores ideais para desfrutar de momentos de tranquilidade. Ao nível dos equipamentos e acabamentos, destaca-se a existência de janelas de alumínio com vidro duplo, estores de alumínio e aquecimento central, características que contribuem para um maior conforto térmico e acústico ao longo de todo o ano. O imóvel dispõe ainda de uma garagem fechada, com capacidade para uma viatura, uma mais-valia particularmente importante nesta localização. O apartamento encontra-se no Sítio da Nazaré, uma zona de grande identidade histórica e cultural, conhecida pelo seu património, ambiente tradicional e vistas deslumbrantes sobre o Atlântico. Nas proximidades poderá encontrar a emblemática Praça de Touros, o Santuário de Nossa Senhora da Nazaré, o Miradouro do Suberco e diversos espaços de comércio, restauração e serviços. A poucos minutos a pé encontra-se também a Praia do Norte, mundialmente reconhecida pelas suas ondas gigantes e pelas condições únicas que atraem surfistas e visitantes de todo o mundo. A Nazaré é uma das mais encantadoras localidades da costa portuguesa, onde a tradição piscatória, a gastronomia, as praias e a beleza natural se conjugam de forma única. Com um extenso areal, um animado passeio marítimo e uma forte oferta de comércio e restauração, proporciona uma excelente qualidade de vida durante todo o ano. A localização beneficia ainda de bons acessos rodoviários, com ligação à A8 e proximidade a localidades como Alcobaça, Caldas da Rainha e Leiria. A ligação entre o Sítio e a zona baixa da Nazaré é igualmente facilitada pelo tradicional Ascensor da Nazaré. Se procura um apartamento confortável, com garagem e numa localização privilegiada, onde poderá desfrutar da tranquilidade e da proximidade do mar, esta pode ser a oportunidade que procura! A INFORMAÇÃO DISPONIBILIZADA AINDA QUE PRECISA, NÃO DISPENSA A SUA CONFIRMAÇÃO NEM PODE SER CONSIDERADA VINCULATIVA.",
+  "geo": {
+    "lat": 39.60636,
+    "lng": -9.074121
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-nazare-ID1jf3Q",
   "published_at": "2026-11-19",
-  "last_seen_at": "2026-11-20",
+  "last_seen_at": "2026-11-21",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Porta blindada"
+    ],
+    "Equipamentos": [
+      "Varanda",
+      "Garagem"
+    ],
+    "Multimédia": [
+      "Internet"
+    ],
+    "Janelas": [
+      "Caixilharia de PVC"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 87,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2009,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-21"
 }
