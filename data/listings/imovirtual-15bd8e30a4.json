@@ -6,24 +6,42 @@
   "currency": "EUR",
   "location": "Campolide, Lisboa",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 150,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T3+1 na Avenida Duque d'Ávila, 131, último andar (4.º), na esquina com a Avenida da República e próximo do Saldanha, numa das zonas mais procuradas das Avenidas Novas.Totalmente recuperado com projeto de arquiteto, o apartamento distingue-se pelas áreas muito generosas, excelente luminosidade, silêncio e uma agradável exposição solar a Sul/Poente. A sala é muito ampla e o terraço, virado a Sul/Poente, é um espaço particularmente agradável para aproveitar a luz ao longo da tarde e o pôr do sol. Os três quartos são muito amplos, entre 16m2 e 20m2, e todos têm armários embutidos desenhados para essas divisões. Tem ar condicionado em todas as divisões, velux elétricas e inteligentes (fecham automaticamente em caso de chuva). O apartamento tem duas casas de banho com luz natural e completas, com áreas muito generosas.O +1 corresponde a uma mezzanine, um espaço versátil que pode funcionar como escritório, sala de leitura ou zona de brincar, igualmente com luz natural. A cozinha é ampla e totalmente equipada com equipamento Teka.O apartamento está inserido num prédio com muito cachet e carácter, numa localização privilegiada que permite fazer grande parte da vida quotidiana a pé, com uma vasta oferta de comércio, restaurantes, serviços e transportes nas imediações. Fica a poucos minutos a pé da Gulbenkian e a cem metros da Versailles e da estação de metro mais próxima.Uma casa com espaço, luz e personalidade, no centro de Lisboa.Não vou aceitar, em circunstância alguma, agência imobiliária.",
+  "geo": {
+    "lat": 38.736164,
+    "lng": -9.162687
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t3-1-renovado-com-terraco-no-coracao-das-avenidas-novas-ID1jdGX",
-  "published_at": "2026-11-21",
+  "published_at": "2026-11-14",
   "last_seen_at": "2026-11-22",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Terraço",
+      "Elevador",
+      "Cozinha independente"
+    ],
+    "Equipamento": [
+      "Máquina de lavar loiça",
+      "Frigorífico",
+      "Forno",
+      "Ar condicionado"
+    ],
+    "Janelas": [
+      "Caixilharia de PVC"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 150,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1950,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-22"
 }

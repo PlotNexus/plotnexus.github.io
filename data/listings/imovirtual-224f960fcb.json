@@ -6,24 +6,27 @@
   "currency": "EUR",
   "location": "Azurém, Guimarães, Braga",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 100,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Andar moradia, entrada independente ao nível do r/c (elevado),\n\nCozinha mobilada e toda equipada,\n\nPode ser arrendada com mobília ou sem mobília;\n\nZona perto cidade\n\nTransportes públicos á porta;\n\nZona tranquila;\n\nCondições: Apresentação 3 últimos recibos vencimento, IRS\n\nPagamento 2 rendas e 1 caução\n\nMarque visita! \n\nCategoria Energética: E",
+  "geo": {
+    "lat": 41.45657,
+    "lng": -8.29584
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/andar-moradia-azurem-ID1jetg",
-  "published_at": "2026-11-20",
+  "published_at": "2026-11-18",
   "last_seen_at": "2026-11-22",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 100,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-22"
 }

@@ -6,26 +6,43 @@
   "currency": "EUR",
   "location": "Santa Maria de Lamas, Santa Maria da Feira, Aveiro",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 300,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJqcjZhdmxrdndodzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Sk1_4o0n58uaxZcNM0GxMRuX90p88iUeJhN88R4khO0/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": null,
+  "description": "Moradia T3 com garagem e espaço comercial em Santa Maria de Lamas\n\nMoradia isolada de quatro frentes em Santa Maria de Lamas, Santa Maria da Feira, à venda por 700.000 €. Dispõe de três quartos, incluindo suite com closet, cozinha equipada e garagem fechada com acesso à habitação.\n\nO imóvel reúne uma zona habitacional e um espaço comercial independente, permitindo estudar uma solução que articule casa e atividade profissional. A afetação e as condições de utilização de cada espaço devem ser confirmadas na documentação.\n\nÁreas indicadas: 300 m² de área bruta privativa, 496 m² de área bruta de construção e terreno de 515 m². A capacidade de estacionamento e a distribuição devem ser verificadas na planta e na visita.\n\nContacte-nos para conhecer os espaços, consultar os documentos e agendar uma visita.\n\nAntónio Lima – LD Imobiliária\n\n+351 919 021 087 |",
+  "geo": {
+    "lat": 40.970856,
+    "lng": -8.571119
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-t3-com-espaco-comercial-em-santa-maria-de-lamas-ld208-ID1iknZ",
-  "published_at": "2026-11-17",
+  "published_at": "2026-05-12",
   "last_seen_at": "2026-11-22",
-  "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJqcjZhdmxrdndodzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Sk1_4o0n58uaxZcNM0GxMRuX90p88iUeJhN88R4khO0/image;s=1280x1024;q=80"
-  ],
-  "features": null,
-  "estado": null,
+  "images": [],
+  "features": {
+    "Segurança": [
+      "Alarme",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Ar condicionado",
+      "Varanda",
+      "Cave",
+      "Garagem",
+      "Jardim",
+      "Terraço"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 300,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1999,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-22"
 }

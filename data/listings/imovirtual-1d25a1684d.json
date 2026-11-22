@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Faro (Sé e São Pedro), Faro",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 65,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Arrendamento até final de Maio de 2027\n\nArrenda-se também ao mês.\n\nDespesas não incluídas.\n\nApartamento T1 em 1ºandar sem elevador de prédio familiar, recentemente remodelado com boa iluminação natural nas proximidades da Cidade de Faro.\n\nSala e cozinha em conceito aberto, quarto com roupeiro, casa de banho com poliban, área de arrumos e varanda. Recentemente remodelado, mobiliário e eletrodomésticos recentes. Estacionamento público em frente ao edifício.\n\nLocalizado em zona tranquila com todas as comodidades diárias na sua envolvente. Nas proximidades da Cidade de Faro. \n\nMarque já a sua visita através do nosso website! (Visite a seção vídeos para ficar a saber como o fazer!) Todos os agendamentos estão sujeitos a confirmação telefónica.\n\nPara mais informações não hesite em contactar.\n\n'A SUA CASA NO ALGARVE' \n\nCategoria Energética: C\n\nLease until the end of May 2027\n\nIt is also rented by the month.\n\nExpenses not included.\n\nOne-bedroom flat on the 1st floor without lift from a family building, recently renovated with good natural lighting near the City of Faro.\n\nOpen-concept living room and kitchen, bedroom with wardrobe, bathroom with shower tray, storage area and balcony. Recently renovated, recent furniture and appliances. Public parking in front of the building.\n\nLocated in a quiet area with all daily amenities nearby. Near the City of Faro. \n\nBook your visit now through our website! (Visit the videos section to learn how to do it!) All appointments are subject to phone confirmation.\n\nFor more information, please do not hesitate to contact.\n\n'YOUR HOME IN THE ALGARVE' \n\nEnergy Rating: C",
+  "geo": {
+    "lat": 37.05231,
+    "lng": -7.94922
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,20 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-22",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda"
+    ],
+    "Equipamento": [
+      "Mobilado",
+      "Frigorífico",
+      "Forno"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 65,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-22"
 }

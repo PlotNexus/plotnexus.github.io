@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "São Domingos de Ana Loura, Estremoz, Évora",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 65,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Refúgio Alentejano Novo a Estrear: Moradia T1 com Piscina Privativa no Espinheiro (Estremoz)\n\nProcura a tranquilidade autêntica do Alentejo com o conforto de uma casa nova a estrear e o privilégio de uma piscina privativa para desfrutar dos dias de sol?\n\nLocalizada na pacata aldeia do Espinheiro (Estremoz), esta encantadora moradia nova a estrear de 2 assoalhadas (65m² de área habitável), inserida num lote de 134m² , destaca-se pelos seus acabamentos modernos, cuidado construtivo e pela distribuição fluida e acolhedora de todos os seus espaços.\n\nGraças à sua exposição solar a nascente (este), a casa beneficia de uma luminosidade natural envolvente logo desde as primeiras horas da manhã, criando um ambiente sereno, amplo e harmonioso.\n\nDistribuição do Interior:\n\n Hall de entrada prático que faz a ligação fluida para a área social;\n\n Sala e cozinha em conceito open space, criando um ambiente amplo, moderno e luminoso — perfeito para cozinhar e conviver em simultâneo;\n\n 1 Quarto confortável e acolhedor;\n\n 1 Casa de banho completa, com acabamentos modernos e cuidados.\n\nO Destaque no Exterior:\n\n Piscina privativa, perfeita para refrescar-se e aproveitar o clima alentejano com total privacidade;\n\n Varanda agradável que prolonga a área social para o exterior, ideal para um café ao ar livre ou momentos de lazer.\n\nPorquê escolher este imóvel?\n\n Nova a Estrear: Conforto moderno, layout contemporâneo em open space e zero preocupações com obras ou manutenções, permitindo usufruir da casa desde o primeiro dia.\n\n Versatilidade Total: Uma escolha acertada quer para habitação própria, quer como casa de férias / refúgio de fim de semana, ou ainda como investimento seguro para rentabilização turística numa zona de crescente procura junto a Estremoz.\n\nNão perca a oportunidade de estrear este pequeno paraíso no coração do Alentejo. Entre em contacto comigo e agende já a sua visita!\n\n#ref: 1085807",
+  "geo": {
+    "lat": 38.85159,
+    "lng": -7.517644
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-21",
   "last_seen_at": "2026-11-22",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda"
+    ]
+  },
   "estado": null,
   "area_util_m2": 65,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-22"
 }

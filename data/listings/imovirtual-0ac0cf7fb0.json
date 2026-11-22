@@ -6,24 +6,27 @@
   "currency": "EUR",
   "location": "Arganil, Coimbra",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 70,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Casa para aluguer na aldeia de Ádela - Colmeal distrito de Coimbra \n\nCasa com 2 quartos,1 sanitário, 1 sala ,1 casinha mais sótão.\n\nSem mobília, só fica o sofá \n\nA 14km de Arganil",
+  "geo": {
+    "lat": 40.21747,
+    "lng": -8.05166
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/aluguer-de-casa-ID1jdc1",
-  "published_at": "2026-11-21",
+  "published_at": "2026-11-13",
   "last_seen_at": "2026-11-22",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 70,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-22"
 }

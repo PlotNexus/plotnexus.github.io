@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 115,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos esta magnífica moradia T3 com 2 pisos em fase final de remodelação, equipada com AC em todas as assoalhadas, localizada na tranquila freguesia de Nossa Senhora da Piedade, no concelho de Ourém, distrito de Santarém. Situada numa zona residencial calma, com fácil acesso a transportes públicos e autoestrada, esta moradia beneficia da proximidade a diversos serviços essenciais, como centro comercial, supermercados, bancos, farmácia, escolas e centro de saúde.\n\nCom uma área útil de 115 m² e área bruta de 120 m², esta habitação recuperada alia conforto, modernidade e qualidade de vida, possuindo um espaçoso átrio que lhe dá as boas-vindas, destacando-se pela sua excelente conservação e acabamentos de qualidade. \n\nO rés-do-chão, oferece uma cozinha totalmente equipada com electrodomésticos todos eléctricos, onde se inclui placa, forno, exaustor, micro-ondas, termo-acumulador, frigorifico americano, e maquina de lavar roupa.\n\nNeste piso contamos ainda com uma suite com roupeiro embutido e 1 wc com base de duche, uma sala enorme com acesso interior ao 1º andar, e ainda com mais 1 wc de serviço.\n\nNo 1ºandar encontramos 2 suites com roupeiros embutidos e wcs privados para cada quarto. \n\nCaracterísticas Gerais do imóvel:\n\n- 3 quartos em suíte, todos climatizados\n\n- Cozinha totalmente equipada\n\n- Sala ampla e confortável\n\n- 1 casa de banho de serviço\n\n- 1 lugar de estacionamento privativo\n\n- Parque de estacionamento comum\n\n Condomínio privado contará com:\n\n- Zonas verdes; espaços de lazer e piscina.\n\n- Área de lazer desportiva\n\n- Ambiente tranquilo e familiar\n\n Localização privilegiada\n\n- 5 minutos a pé do centro de Ourém\n\n- 10 minutos a pé do Continente Modelo\n\n- 10 minutos a pé do Bricomarché\n\n- Próximo da escola municipal\n\nCondições de arrendamento\n\nRenda mensal: 1200 €\n\nCondomínio: 200 €/mês (inclui água, eletricidade e despesas comuns)\n\nTotal mensal: 1.400 €\n\nCondições de entrada:\n\n- 2 meses de renda: €\n\n- 2 meses de caução: €\n\n- Condomínio do primeiro mês: 200 €\n\n Informações e visitas\n\nPara mais informações ou agendamento de visitas entre em contacto connosco.\n\nCom uma excelente classificação energética C, esta moradia é a escolha ideal para quem procura qualidade de vida, conforto e uma localização privilegiada na periferia de Ourém.\n\nNão perca a oportunidade de viver num espaço que combina modernidade, segurança e natureza. Contacte-nos para mais informações e agende a sua visita!\n\nPedimos Comprovativos de rendimentos, IRS, entre outros documentos e informações.",
+  "geo": {
+    "lat": 39.670513,
+    "lng": -8.576418
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,20 @@
   "published_at": "2026-11-19",
   "last_seen_at": "2026-11-22",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Alarme",
+      "Condomínio fechado"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Ar condicionado"
+    ]
+  },
   "estado": null,
   "area_util_m2": 115,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-22"
 }

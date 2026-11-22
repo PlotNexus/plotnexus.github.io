@@ -6,14 +6,11 @@
   "currency": "EUR",
   "location": "Covilhã e Canhoso, Covilhã, Castelo Branco",
   "bedrooms": 3,
-  "bathrooms": 2,
+  "bathrooms": null,
   "area_m2": 102.8,
-  "image": null,
-  "description": "Apartamento T3, em excelente estado de conservação, composto por sala com varanda, ampla cozinha semi-equipada com placa, forno e exaustor, despensa, três quartos com roupeiro embutido, wc de serviço. wc com poliban, hall de entrada, corredor e lugar de estacionamento.\n\nPrédio com elevador e gás canalizado, caixilharia com vidro duplo e ar condicionado na sala.\n\nExcelente exposição solar nascente/poente.\n\nPróximo de todo o comércio, serviços e transportes públicos.\n\nExiste a possibilidade da venda, de garagem fechada, em conjunto.\n\nNão perca esta oportunidade e marque já a sua visita \n\nCategoria Energética: D",
-  "geo": {
-    "lat": 40.267887,
-    "lng": -7.5098147
-  },
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ing1aG5neTcyMWFvOC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Z5Afs8rgPlEX5L-6GD7tRP-EyqteR_G2idvNbRHxkEM/image;s=1280x1024;q=80",
+  "description": null,
+  "geo": null,
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -21,16 +18,14 @@
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-covilha-ID1jdVf",
   "published_at": "2026-11-16",
   "last_seen_at": "2026-11-22",
-  "images": [],
-  "features": {
-    "Equipamentos": [
-      "Elevador"
-    ]
-  },
-  "estado": "Usado",
+  "images": [
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ing1aG5neTcyMWFvOC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Z5Afs8rgPlEX5L-6GD7tRP-EyqteR_G2idvNbRHxkEM/image;s=1280x1024;q=80"
+  ],
+  "features": null,
+  "estado": null,
   "area_util_m2": 102.8,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": "D",
-  "detail_fetched_at": "2026-11-22"
+  "certificacao_energetica": null,
+  "detail_fetched_at": null
 }

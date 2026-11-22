@@ -6,24 +6,47 @@
   "currency": "EUR",
   "location": "Ponta Delgada (São Pedro), Ponta Delgada, Ilha de São Miguel",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 259.86,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento de luxo, T3, sito no piso 1, do Bloco 1, do edifício PRIME II NATÁLIA CORREIA. \nUm empreendimento moderno, em zona privilegiada, construído com materiais de qualidade e equipado com os melhores confortos.\n\n A cozinha encontra-se equipada e preparada para o quotidiano, com forno, placa de indução, exaustor, frigorífico, micro-ondas, máquina de lavar louça, máquina de lavar roupa e máquina de secar, tudo materiais de Siemens para que a sua cozinha seja tecnologicamente intuitiva. As casas de banho equipadas, caixilharia com isolamento térmico e acústico, janelas de vidro duplo, ar condicionado, chão aquecido elétrico, robô de aspiração, domótica e estacionamento de garagem dupla em box.\n\nFração E",
+  "geo": {
+    "lat": 37.752575,
+    "lng": -25.658651
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/prime-ii-natalia-correia-ID1j4cf",
-  "published_at": "2026-11-20",
+  "published_at": "2026-10-23",
   "last_seen_at": "2026-11-22",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Condomínio fechado",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Elevador",
+      "Cozinha independente",
+      "Varanda",
+      "Garagem"
+    ],
+    "Aquecimento": [
+      "Aquecimento urbano"
+    ],
+    "Equipamento": [
+      "Forno",
+      "Frigorífico",
+      "Máquina de lavar loiça",
+      "Ar condicionado"
+    ]
+  },
   "estado": null,
   "area_util_m2": 259.86,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-22"
 }

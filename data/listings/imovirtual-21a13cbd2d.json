@@ -6,24 +6,37 @@
   "currency": "EUR",
   "location": "Ermesinde, Valongo, Porto",
   "bedrooms": 5,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 485,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Excelente moradia T5 de quatro frentes, distribuída por três pisos, situada no centro de Ermesinde e recentemente remodelada com materiais de qualidade.\n\nCom 492 m² de área total e inserida num terreno com 750 m², esta moradia destaca-se pelas áreas generosas, luminosidade, qualidade dos acabamentos e amplo espaço exterior. A remodelação contemplou, entre outras intervenções, a renovação integral das redes de águas e eletricidade.\n\nNa cave, dispõe de uma ampla garagem fechada com capacidade para quatro viaturas, além de uma zona de arrumos.\n\nO rés-do-chão é dedicado essencialmente à área social, sendo composto por hall de entrada, sala de estar, sala de jantar, casa de banho, jardim interior e uma cozinha de qualidade, equipada com uma ampla ilha de apoio. O mobiliário apresenta portas e gavetas em vidro lacado e caixilharia em alumínio, complementado por tampos em Dekton na cozinha e na ilha.\n\nNo primeiro andar encontra-se a zona privada, composta por cinco quartos, um dos quais em suite com closet, e uma casa de banho completa de apoio aos restantes quartos. Todos os quartos, assim como as salas, beneficiam de varanda.\n\nExiste ainda a possibilidade de aproveitamento do sótão, permitindo criar uma área adicional de acordo com as necessidades dos futuros proprietários.\n\nNo exterior, a entrada lateral permite o estacionamento de várias viaturas dentro da propriedade. Os jardins proporcionam diferentes zonas de lazer e apresentam espaço com potencial para construção de piscina.\n\nA propriedade conta ainda com um poço em pedra com aproximadamente 20 metros de profundidade, equipado com motor elétrico e um segundo motor de reserva.\n\nAo nível do conforto e equipamento, destacam-se ainda a salamandra a pellets, recuperador de calor e lareira, painel solar com capacidade para 200 litros de água quente, estores térmicos e elétricos, caixilharia em PVC com vidro duplo em toda a habitação e vidro triplo nos quartos principais, casas de banho com Silestone e pré-instalação para sistema de videovigilância exterior 360º.\n\nLocalizada no centro de Ermesinde, beneficia da proximidade a comércio, serviços, transportes e de excelentes acessos rodoviários, permitindo uma ligação rápida às principais vias de entrada e saída da cidade.\n\nUma moradia pensada para quem procura espaço, conforto, qualidade construtiva e uma localização central, sem abdicar de um generoso espaço exterior.\n\nPara mais informações ou para agendar a sua visita, contacte a nossa equipa.",
+  "geo": {
+    "lat": 41.219345,
+    "lng": -8.550537
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-t5-ermesinde-centro-remodelada-750m2-terreno-box-4-ca-ID1iSVS",
-  "published_at": "2026-11-20",
+  "published_at": "2026-09-16",
   "last_seen_at": "2026-11-22",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Ar condicionado",
+      "Varanda",
+      "Terraço",
+      "Garagem"
+    ]
+  },
   "estado": null,
   "area_util_m2": 485,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-22"
 }

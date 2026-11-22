@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Mortágua, Vale de Remígio, Cortegaça e Almaça, Mortágua, Viseu",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 130,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Vendo moradia reconstruída muito linda, 2 quartos, 1 casa de banho, piscina e terreno com 1200mts. Garagem\n\nVISITE, é mais bonita ao vivo.",
+  "geo": {
+    "lat": 40.37287,
+    "lng": -8.22466
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-21",
   "last_seen_at": "2026-11-22",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 130,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-22"
 }

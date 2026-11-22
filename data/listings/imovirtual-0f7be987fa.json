@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Santa Maria da Feira, Travanca, Sanfins e Espargo, Santa Maria da Feira, Aveiro",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 120,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Casa totalmente renovada, no centro de Santa Maria da Feira. Entrada privada com jardim. 3 quartos, 1 WC, sala comum com varanda, cozinha totalmente equipada com terraço. Possibilidade de 1 lugar de estacionamento.\n\nMuito perto de vários serviços: hospital, farmácia, supermercado Continente …",
+  "geo": {
+    "lat": 40.92064,
+    "lng": -8.55539
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-21",
   "last_seen_at": "2026-11-22",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 120,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-22"
 }

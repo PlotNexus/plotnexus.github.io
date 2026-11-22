@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Grijó e Sermonde, Vila Nova de Gaia, Porto",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 206,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia em Grijó, Vila Nova de Gaia, um exclusivo condomínio privado composto por apenas 6 moradias, ideal para quem valoriza tranquilidade, privacidade e conforto no dia a dia. Com 206 m² de área bruta, cada moradia destaca-se pela excelente organização dos espaços e pela vivência exterior, contando com varanda, jardim privativo e garagem box para 2 viaturas. O condomínio oferece para além de um excelente espaço exterior, ainda uma piscina comum, criando um ambiente reservado e pensado para toda a família.Inserido numa zona residencial bastante calma, este conjunto beneficia de uma envolvência prática e bem servida, com comércio, serviços, farmácia, escolas e transportes nas proximidades. A localização é também valorizada pelos bons acessos à EN1 e às principais ligações rodoviárias da zona, incluindo A1 e A41, conjugando a serenidade de uma zona residencial com a conveniência das deslocações do dia a dia.",
+  "geo": {
+    "lat": 41.023884,
+    "lng": -8.562504
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,18 @@
   "published_at": "2026-11-21",
   "last_seen_at": "2026-11-22",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Estores",
+      "Condomínio fechado",
+      "Alarme",
+      "Videovigilância"
+    ]
+  },
   "estado": null,
   "area_util_m2": 206,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-22"
 }
