@@ -6,24 +6,36 @@
   "currency": "EUR",
   "location": "Vila Verde e Barbudo, Vila Verde, Braga",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 126,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "THE LEAF \n\nO equilíbrio perfeito entre a tranquilidade da natureza e o ritmo da cidade.\n\nProcuras um lar onde o design moderno encontra o conforto absoluto? Descobre o THE LEAF, o novo empreendimento exclusivo em Vila Verde.\n\nArquitetura & Design: Linhas contemporâneas, acabamentos de primeira e máxima luz natural durante todo o dia.\n\nEspaço Pensado para Ti: T3 espaçoso com uma suite e dois quartos e cozinha + sala em open space— o cenário ideal para acolher amigos ou relaxar ao fim do dia.\n\nExterior que Inspira: Varandas amplas para aproveitar o ar puro e a envolvente verde.\n\nLocalização Estratégica: Numa zona calma e reservada, mas a minutos de todos os serviços essenciais.\n\nTHE LEAF. Não é apenas um apartamento — é o teu próximo estilo de vida.\n\nAgenda a tua visita!\n\nPode também contar com a nossa ajuda na Intermediação de Crédito, uma vez que a CALCULACERTADO - Mediação Imobiliária Lda, Lic. AMI 10030, está registada junto do Banco de Portugal, como Intermediário de Crédito Vinculado, sob o nº 4786, verificável em",
+  "geo": {
+    "lat": 41.65463,
+    "lng": -8.436909
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-no-centro-de-vila-verde-ID1j2XV",
-  "published_at": "2026-11-20",
-  "last_seen_at": "2026-11-21",
+  "published_at": "2026-10-20",
+  "last_seen_at": "2026-11-22",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Estores",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Ar condicionado",
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 126,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2027,
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-22"
 }
