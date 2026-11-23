@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Apúlia e Fão, Esposende, Braga",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 400,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia T4 Individual de Luxo Mobilada - Condomínio Ofir Mar (A 5 min. da Praia)\n\nMarque visita com Carlos Azevedo: + (telefone) ou + (telefone) \n\nDescrição:\n\nImagine acordar com a brisa do mar e estar a apenas cinco minutos a pé do areal da Praia de Ofir. Esta extraordinária moradia individual T4, totalmente mobilada e equipada, encontra-se inserida no mais prestigiado condomínio fechado da região o Ofir Mar e foi pensada para quem não abdica de espaço, privacidade e qualidade de vida superior.\n\nCom uma imponente área útil de 400 m² implantada num terreno envolvente de 2.000 m², a casa distingue-se imediatamente pela nobreza dos seus materiais, com destaque para a carpintaria em madeira Sucupira e a abundante luz natural que inunda todas as divisões. No interior, o conforto dita cada detalhe: as duas salas amplas convidam ao convívio em redor do recuperador de calor, complementadas por uma iluminação LED em sanca que cria ambientes acolhedores ao final do dia. A cozinha, moderna e totalmente equipada, está pronta a responder às exigências do dia a dia, apoiada por lavandaria independente, cave, sótão e generosos espaços de arrumos.\n\nNa zona íntima, os quatro quartos amplos oferecem o refúgio perfeito, destacando-se duas elegantes suítes uma delas com closet e quatro casas de banho completas onde o relaxamento está garantido pela banheira e coluna de hidromassagem. Para cuidar do corpo e da mente sem sair de casa, a moradia dispõe ainda de um salão de lazer, ginásio privado e uma área com pré-instalação de sauna, tudo isto com o máximo conforto térmico assegurado pelo aquecimento central e aspiração central.\n\nNo exterior, a privacidade do jardim privativo e a zona de churrasqueira criam o cenário ideal para almoços de família ao ar livre, contando ainda com garagem fechada. Mas a experiência estende-se muito além das portas de casa: enquanto residente do condomínio Ofir Mar, terá acesso exclusivo a uma piscina interior aquecida para desfrutar durante todo o ano, piscina exterior para os dias de verão, campo de ténis e um salão para festas e eventos privados.\n\nTudo isto numa localização estratégica e privilegiada em Esposende, com acesso imediato à A28, colocando-o a apenas 20 minutos do dinamismo das cidades do Porto e de Braga. Uma residência de excelência, pronta a habitar, onde cada dia tem o sabor de férias.\n\nVenha conhecer o seu próximo lar. \n\nCategoria Energética: C",
+  "geo": {
+    "lat": 41.514668,
+    "lng": -8.779493
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-20",
   "last_seen_at": "2026-11-23",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 400,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-23"
 }

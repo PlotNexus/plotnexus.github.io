@@ -6,24 +6,45 @@
   "currency": "EUR",
   "location": "Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 76,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Excelente apartamento T1 mobilado e equipado, ao nível do 5º piso com dois elevadores.Áreas generosas, composto por; cozinha mobilada e equipada, lavandaria, um quarto suíte, espaçosa sala comum, uma casa de banho completa, aquecimento central, vídeo porteiro, lugar de garagem para 1 viatura e arrumo.Magnifica localização, junto ao Mercadona, rotunda da Boavista, autocarros à porta, a 2 minutos a pé da estação do Metro da Casa da Música e polo intermodal da Boavista.Localização premium, destaca-se também pela sua tranquilidade no centro da cidade, próximo dos principais acessos rodoviários, comércio e serviços.Condições para o arrendamento:- Pagamento de duas rendas mais duas de caução- Apresentação do IRS + nota de liquidação 2025- Últimos 3 recibos de vencimento- Fiador (mesma documentação)- Contrato mínimo 1 ano.Visite!",
+  "geo": {
+    "lat": 41.16358,
+    "lng": -8.631284
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t1-semi-mobilado-na-boavista-metro-casa-da-musica-ID1iURh",
-  "published_at": "2026-11-22",
+  "published_at": "2026-09-22",
   "last_seen_at": "2026-11-23",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Porta blindada"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Elevador",
+      "Cozinha independente"
+    ],
+    "Equipamento": [
+      "Mobilado",
+      "Máquina de lavar loiça",
+      "Frigorífico",
+      "Forno"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 76,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2002,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-23"
 }

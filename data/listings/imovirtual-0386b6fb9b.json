@@ -6,24 +6,36 @@
   "currency": "EUR",
   "location": "Grândola e Santa Margarida da Serra, Grândola, Setúbal",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 50,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Este apartamento de momento encontra se dísponivel apenas para empresas.Com capacidade para 4 pessoas, este imóvel situa se numa zona calma e a apenas 3 minutos a pé de todos os serviços .A 20 minutos de melides, ou carvalhal este espaço pode ser o que procura para si ou para os seus funcionários.Apenas alugo com contrato, minimo 3 mesesluz, e gás há parte .",
+  "geo": {
+    "lat": 38.175728,
+    "lng": -8.569845
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t-2-para-empresas-ID1j1II",
-  "published_at": "2026-11-22",
+  "published_at": "2026-10-15",
   "last_seen_at": "2026-11-23",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamento": [
+      "Frigorífico",
+      "Forno",
+      "Mobilado"
+    ],
+    "Multimédia": [
+      "Internet"
+    ]
+  },
   "estado": null,
   "area_util_m2": 50,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1995,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-23"
 }

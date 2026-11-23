@@ -9,21 +9,38 @@
   "bathrooms": null,
   "area_m2": 158,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Há casas que se explicam sozinhas quando se abre a porta. Esta é uma delas.Construída em 2021 e mantida em estado impecável, esta moradia em banda distribui 158,86 m² de área útil por três pisos, em pleno centro de Cabanas de Tavira — a dois minutos a pé da Ria Formosa e a poucos passos de restaurantes, comércio e serviços. O carro fica na garagem; o dia a dia faz-se a andar.\n\nNo piso térreo, sala e cozinha fluem num único espaço social, com saída direta para o quintal privativo, onde o alpendre com pérgola de madeira e churrasqueira transforma qualquer jantar numa refeição ao ar livre. É a zona da casa que ganha vida ao fim da tarde.\n\nO primeiro andar acolhe três quartos amplos, todos com varanda privativa e guardas de vidro. A suíte principal está orientada a nascente e recebe o sol da manhã; os restantes voltam-se a poente, para a luz quente do final do dia.\n\nNo topo, um terceiro nível com suíte adicional, ampla zona de lavandaria e arrumos — espaço com margem para se tornar escritório, quarto de hóspedes ou área multifuncional, conforme a vida de cada um.\n\nA eficiência não foi um extra: foi projeto. Classe energética A, com 81% do consumo assegurado por fontes renováveis, bomba de calor, painel solar térmico para águas quentes, ar condicionado em todas as divisões, aspiração central, isolamento térmico exterior tipo capoto, caixilharia de PVC com vidro duplo de baixa emissividade e estores térmicos elétricos. Traduzido: conforto todo o ano e faturas que não assustam.\n\nPara habitação permanente, casa de férias ou investimento no Sotavento Algarvio — uma casa pronta a receber quem chegar.",
+  "geo": {
+    "lat": 37.137085,
+    "lng": -7.599379
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-em-banda-t3-venda-em-conceicao-e-cabanas-de-tavira-tavira-ID1iOJE",
-  "published_at": "2026-11-22",
+  "published_at": "2026-09-01",
   "last_seen_at": "2026-11-23",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Alarme",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Ar condicionado",
+      "Varanda",
+      "Garagem",
+      "Terraço"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 158,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2021,
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-23"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Pataias e Martingança, Alcobaça, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 100,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImR2OG85cmtlcjg3bzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.x3KvqS5odo9DwGwjCcn3M5Wj_pp1koL25RHh0oDg_Iw/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": null,
+  "description": "Disponível para arrendamento, apartamento T2 totalmente mobilado, situado no centro de Pataias, numa localização privilegiada, próximo de todos os serviços e comodidades essenciais.\n\nO imóvel é composto por:\n\n2 quartos;\n\n1 casa de banho;\n\nSala de estar;\n\nSala de jantar;\n\nCozinha mobilada;\n\nVaranda;\n\nTerraço.\n\nDestaca-se pela sua boa exposição solar, proporcionando uma excelente luminosidade natural ao longo do dia, e pelo facto de se encontrar totalmente mobilado, permitindo uma mudança simples e cómoda.\n\nA sua localização central permite fácil acesso a supermercados, comércio, serviços, restauração e outros pontos de interesse.\n\nUma excelente oportunidade para quem procura conforto, praticidade e uma localização conveniente.\n\nLocalização: Centro de Pataias\n\nTipologia: T2\n\nEstado: Totalmente mobilado\n\nExtras: Varanda, terraço e boa exposição solar.\n\nPara mais informações ou agendamento de visita, entre em contacto por mensagem privada.",
+  "geo": {
+    "lat": 39.69162,
+    "lng": -8.98566
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -18,14 +21,12 @@
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t2-para-arrendamento-centro-de-pataias-ID1jeo8",
   "published_at": "2026-11-17",
   "last_seen_at": "2026-11-23",
-  "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImR2OG85cmtlcjg3bzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.x3KvqS5odo9DwGwjCcn3M5Wj_pp1koL25RHh0oDg_Iw/image;s=1280x1024;q=80"
-  ],
-  "features": null,
+  "images": [],
+  "features": {},
   "estado": null,
   "area_util_m2": 100,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-23"
 }

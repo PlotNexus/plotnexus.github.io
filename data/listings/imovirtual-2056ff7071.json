@@ -6,24 +6,49 @@
   "currency": "EUR",
   "location": "Quinta do Conde, Sesimbra, Setúbal",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 212.72,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Esta moradia geminada de 3 andares encontra-se em construção, prevista para entrega em abril de 2027.Possui 2 casas de banho, sótão habitável, jardim, terraço e varanda que oferecem espaço e conforto.A propriedade inclui garagem, ar condicionado, aquecimento central e segurança com estores anti-roubo e vídeoporteiro.O imóvel é construído em bloco aberto com vedação de betão e tem uma área de aproximadamente 213 m² em um terreno de 304 m². Localizada em Quinta do Conde, Sesimbra, numa zona residencial tranquila, perto de praias e áreas verdes.A região oferece várias opções de restaurantes, cafés e supermercados.Para famílias, há escolas e creches próximas, assim como clínicas e farmácias.Existem também parques e centros desportivos nas proximidades, ideais para lazer.O acesso às principais vias de transporte facilita a deslocação por Setúbal e Lisboa. Se procura uma casa moderna, com boas áreas e bem localizada, não perca esta oportunidade.Agende já uma visita para conhecer melhor esta propriedade.",
+  "geo": {
+    "lat": 38.550575,
+    "lng": -9.053901
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-t3-com-jardim-garagem-e-terraco-em-quinta-do-conde-ID1iTdM",
-  "published_at": "2026-11-22",
+  "published_at": "2026-09-16",
   "last_seen_at": "2026-11-23",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Estores",
+      "Porta blindada",
+      "Videovigilância",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Ar condicionado",
+      "Jardim",
+      "Terraço",
+      "Varanda"
+    ],
+    "Multimédia": [
+      "Aquecimento a gás",
+      "Internet",
+      "TV por cabo"
+    ],
+    "Janelas": [
+      "Caixilharia de PVC"
+    ]
+  },
   "estado": null,
   "area_util_m2": 212.72,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2026,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-23"
 }

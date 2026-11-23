@@ -9,21 +9,36 @@
   "bathrooms": null,
   "area_m2": 50,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "NÃO ACEITO MEDIAÇÃO Localização: Porto, Santo Ildefonso - perto Praça do Marquês Tipologia: T2 Estado: Como Novo Cozinha Equipada: Sim Área: 50m2 Facilidades: Perto da Estação de Metro Marquês, Serviços, Farmácia, Hospital Santa Maria , Pingo Doce Garagem: Não Elevador: Sim CONDIÇÕES DE CONTRATO: - Contrato por 5 anos renovável - Renda do mês de entrada e mês seguinte - CAUÇÃO - Fiador - Declaração de IRS | recibos vencimento",
+  "geo": {
+    "lat": 41.161423,
+    "lng": -8.609455
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t2-jpr-porto-perto-praca-marques-ID1bEHu",
-  "published_at": "2026-11-22",
+  "published_at": "2023-07-23",
   "last_seen_at": "2026-11-23",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ],
+    "Equipamento": [
+      "Frigorífico",
+      "Forno",
+      "Máquina de lavar loiça"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
   "estado": null,
   "area_util_m2": 50,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-23"
 }

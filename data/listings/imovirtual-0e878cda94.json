@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Sé Nova, Santa Cruz, Almedina e São Bartolomeu, Coimbra",
   "bedrooms": 0,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 12,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Estúdio remodelado disponíveis para arrendamento a poucos minutos a pé da universidade de Coimbra.Localização: Rua dos Coutinhos, Nº 11, 3000-129 CoimbraEstúdio: 1º FrenteValor da Renda: 400€ / mêsInclui as seguintes despesas: Água e InternetA eletricidade é paga à parteNota:Damos preferência a quem tenha fiadorSinal: 2 Rendas (antecipadas) e 1 Caução (no valor da renda)Venha visitar!-- Características:Cada estúdio está remodelado, mobilado e equipado com kitchenette e WC completa.Existe zona de tratamento de roupas para utilização exclusiva dos inquilinos.Com áreas bem aproveitadas, estes estúdios conferem uma perfeita independência e conforto aos seus utilizadores.Outras características:- Áudio porteiro;- Sistema de detecção de fumosNas Proximidades:todo o tipo de serviços: Cafés, restaurantes, mercearia, transportes públicos;Universidade de CoimbraSé Nova;Sé VelhaMuseu Machado de CastroMuseu da Ciência da Universidade de Coimbra;Baixa de Coimbra;",
+  "geo": {
+    "lat": 40.20913,
+    "lng": -8.427718
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,25 @@
   "published_at": "2026-11-22",
   "last_seen_at": "2026-11-23",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamento": [
+      "Mobilado",
+      "Frigorífico"
+    ],
+    "Multimédia": [
+      "Internet"
+    ],
+    "Janelas": [
+      "Caixilharia de PVC"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 12,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-23"
 }

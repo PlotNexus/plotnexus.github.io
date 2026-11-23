@@ -6,24 +6,45 @@
   "currency": "EUR",
   "location": "Custóias, Leça do Balio e Guifões, Matosinhos, Porto",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 81,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento mobilado em excelente estado.1 suite com roupeiro embutido e 1 quarto com casa de banho.Ampla sala de estar e de jantar.Cozinha equipada - fogão, forno, frigorífico, máquina de lavar loiça, micro-ondas. Despensa.Lavandaria com máquina de lavar roupa.1 lugar de garagem.Excelente localização e acessos numa zona sossegada.",
+  "geo": {
+    "lat": 41.188896,
+    "lng": -8.636581
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t2-para-arrendar-ID1clhC",
-  "published_at": "2026-11-22",
+  "published_at": "2023-10-06",
   "last_seen_at": "2026-11-23",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Porta blindada",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Elevador",
+      "Garagem"
+    ],
+    "Aquecimento": [
+      "Aquecimento urbano"
+    ],
+    "Equipamento": [
+      "Mobilado",
+      "Frigorífico",
+      "Forno",
+      "Máquina de lavar loiça"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 81,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-23"
 }

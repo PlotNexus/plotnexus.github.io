@@ -8,27 +8,31 @@
   "bedrooms": 3,
   "bathrooms": null,
   "area_m2": 90,
-  "image": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1132922/P200395361/Tphoto/IDaa4b6c7d-3c5f-420e-a26f-89b559cab7bb.jpg",
+  "image": "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1132922/P200395361/Tphoto/IDaa4b6c7d-3c5f-420e-a26f-89b559cab7bb.jpg",
   "description": "Apartamento T3 em RC com terraço de 50 metros quadrados\n2 WC\nCozinha equipada \n\nZona calma perto do parque de Santo António. \n#ref:35452025",
-  "geo": {
-    "lat": 38.651037,
-    "lng": -9.233139
-  },
+  "geo": null,
   "source": {
     "name": "CASA SAPO",
     "url": "https://casa.sapo.pt"
   },
   "listing_url": "https://casa.sapo.pt/alugar-apartamento-t3-almada-costa-da-caparica-b30c23e3-08b7-4b59-a08d-953bd57ccbf4.html",
-  "published_at": "2026-11-14",
-  "last_seen_at": "2026-11-22",
+  "published_at": "2026-11-12",
+  "last_seen_at": "2026-11-23",
   "images": [
-    "https://media.casasapo.pt/Z720x540/OAYES/S6/C1132922/P200395361/Tphoto/IDaa4b6c7d-3c5f-420e-a26f-89b559cab7bb.jpg"
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1132922/P200395361/Tphoto/IDaa4b6c7d-3c5f-420e-a26f-89b559cab7bb.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1132922/P200395361/Tphoto/ID69279804-5654-4a8f-b94f-7f45093a211a.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1132922/P200395361/Tphoto/IDf2351274-9434-4f6f-97b3-5f7fd2ca738f.jpg",
+    "https://media.casasapo.pt/Z1440x1080/OAYES/S6/C1132922/P200395361/Tphoto/IDfa488f43-037d-4725-aabc-675eb5dfcf4e.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Divisões": [
+      "Casa(s) de Banho: 2"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 90,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-23"
 }

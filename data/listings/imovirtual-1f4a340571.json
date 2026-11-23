@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Aldoar, Foz do Douro e Nevogilde, Porto",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 350,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Aluguer disponível de 25 novembro a 2e de dezembro",
+  "geo": {
+    "lat": 41.164715,
+    "lng": -8.676185
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-22",
   "last_seen_at": "2026-11-23",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 350,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-23"
 }

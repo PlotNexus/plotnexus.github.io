@@ -6,24 +6,32 @@
   "currency": "EUR",
   "location": "Alcabideche, Cascais, Lisboa",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 120,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "# Para informações ou agendar uma visita, o contacto tem de ser feito exclusivamente por telefone. #Excelente Andar de Moradia T3, 1.º Andar, sem moveis, com parqueamento para carro no logradouro privativo.Situado numa zona residencial de moradias muito tranquila e calma, este imóvel beneficia de uma localização estratégica: fica a escassos minutos do Hospital de Cascais, do CascaiShopping e dos principais acessos rodoviários (A5 e IC16), combinando sossego e conveniência no dia a dia.Apartamento com boas áreas e excelente exposição solar, com muita luminosidade e vista desafogada.Características do Imóvel:• Hall entrada espaçoso e com um grande corredor para a distribuição das outras divisões• Área Social: Sala muito ampla com 35 m², rodeada por uma generosa varanda que contorna a casa.• Cozinha: Funcional e prática, com porta de acesso direto ao pátio exterior.• Quartos (Três):• Quarto principal com 15 m² e varanda privativa.• Quarto com 11 m² e varanda.• Quarto com 11 m².• Casas de Banho:• Casa de banho completa com banheira e janela para luz natural• lavabo social de apoio.• Lugar de parqueamento no logradouro da moradia.Condições do Arrendamento:• 2 meses de renda + 1 mês de caução.• Comprovativo de rendimentos (e fiador, se necessário).Para mais informações ou marcar visita contacte-me:Manuela Mendes Consultora Cascais.",
+  "geo": {
+    "lat": 38.731148,
+    "lng": -9.438135
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/andar-de-moradia-com-parqueamento-ID1jeUs",
-  "published_at": "2026-11-22",
+  "published_at": "2026-11-19",
   "last_seen_at": "2026-11-23",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda",
+      "Cozinha independente"
+    ]
+  },
   "estado": null,
   "area_util_m2": 120,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1990,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-23"
 }

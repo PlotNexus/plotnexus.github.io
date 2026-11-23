@@ -6,24 +6,32 @@
   "currency": "EUR",
   "location": "Alcanena e Vila Moreira, Alcanena, Santarém",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 121.69,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T3 situado em zona central de Alcanena, próximo das Finanças, comércio e serviços.\n\nCom boas áreas e excelente luminosidade natural, dispõe de sala ampla com lareira, cozinha espaçosa, três quartos, duas casas de banho, varandas e marquise com vista desafogada.\n\nConta ainda com sótão isolado, gás canalizado e box de garagem partilhada.\n\nUma excelente oportunidade para quem procura conforto, espaço e funcionalidade, numa localização prática e privilegiada, no centro de Alcanena.\n\nNota: As imagens apresentadas foram aperfeiçoadas com recurso a Inteligência Artificial, com o objetivo de melhorar a sua apresentação visual. As divisões, características e configuração do imóvel foram preservadas, não pretendendo as imagens alterar ou representar características inexistentes no imóvel. \n\nCategoria Energética: C",
+  "geo": {
+    "lat": 39.455166,
+    "lng": -8.666389
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t3-com-sotao-varandas-e-garagem-em-alcanena-ID1j8cC",
-  "published_at": "2026-11-22",
+  "published_at": "2026-11-04",
   "last_seen_at": "2026-11-23",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 121.69,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-23"
 }

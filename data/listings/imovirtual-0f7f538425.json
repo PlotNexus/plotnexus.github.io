@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 49,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "ANEXO DE 49 m² — VENDA OU ARRENDAMENTO | VILA DO CONDE\n\nDisponível para venda ou arrendamento, anexo com 49 m², situado em Vila do Conde, a apenas 100 metros da Avenida da Praia \n\nEspaço com potencial para arrumos, armazenamento ou outras utilizações, conforme a necessidade.",
+  "geo": {
+    "lat": 41.35399,
+    "lng": -8.74717
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-22",
   "last_seen_at": "2026-11-23",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 49,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-23"
 }
