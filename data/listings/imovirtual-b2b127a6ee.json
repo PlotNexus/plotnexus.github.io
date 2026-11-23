@@ -6,26 +6,32 @@
   "currency": "EUR",
   "location": "Castelo Branco",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 110.3,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFmYXdub2V2YXQ4YjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.r1rQEi1kSvCLBRzXNKd36moIbWeUYGH54WaxY4i2A4M/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": null,
+  "description": "Excelente Apartamento T3, situado no 2º andar de um prédio com elevador, em muito bom estado de conservação, com boas áreas e uma excelente exposição solar.\n\nO apartamento é composto por sala ampla com lareira e recuperador de calor e varanda virada a sul, cozinha com copa totalmente equipada, dois wc's completos e três quartos, um deles com roupeiro embutido. Conta ainda com um roupeiro embutido no hall de quartos e arrecadação no sótão.\n\nPara além do excelente estado de conservação, destacamos neste imóvel as divisões amplas, a ótima exposição solar, que proporciona muita luz natural e ainda vista totalmente desafogada.\n\nA localização é também uma mais-valia, encontrando-se a escassos minutos do centro da cidade com fácil acesso a todos os serviços, comércio e outras comodidades essenciais ao dia a dia.\n\nSe procura um apartamento T3 espaçoso, bem conservado e com uma localização conveniente, esta é a sua oportunidade!\nVenha conhecer a sua futura casa. Contacte-nos e marque já a sua visita.\n\nTratamos gratuitamente de todo o seu processo de Crédito à Habitação.\nIntermediário de crédito vinculado, registado no Banco de Portugal com o nº 4385.",
+  "geo": {
+    "lat": 39.828323,
+    "lng": -7.4770436
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-quinta-pires-marques-ID1jdZA",
   "published_at": "2026-11-16",
-  "last_seen_at": "2026-11-22",
-  "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFmYXdub2V2YXQ4YjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.r1rQEi1kSvCLBRzXNKd36moIbWeUYGH54WaxY4i2A4M/image;s=1280x1024;q=80"
-  ],
-  "features": null,
-  "estado": null,
+  "last_seen_at": "2026-11-23",
+  "images": [],
+  "features": {
+    "Equipamentos": [
+      "Varanda",
+      "Elevador"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 110.3,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2005,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-23"
 }
