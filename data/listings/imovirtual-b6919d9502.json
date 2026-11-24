@@ -6,24 +6,42 @@
   "currency": "EUR",
   "location": "Leiria, Pousos, Barreira e Cortes, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 84.1,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Excelente apartamento T2 em construção, com conclusão prevista para 2027, na Rua de Santo António, Leiria. Inserido no 3.º andar de um edifício moderno, beneficia de boa exposição solar.\n\nDispõe de cozinha equipada, sala luminosa, quartos com roupeiros embutidos, casa de banho moderna e varanda privada, oferecendo conforto e funcionalidade.\n\nOs acabamentos incluem ar condicionado, caixilharia com vidro duplo, bomba de calor de 150L e preparação para painéis fotovoltaicos, combinando qualidade e eficiência.\n\nO edifício conta com dois elevadores e parqueamento no piso -1 para um carro, proporcionando praticidade no dia a dia.\n\nEntre em contacto para mais informações.",
+  "geo": {
+    "lat": 39.744713,
+    "lng": -8.798996
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-novo-em-construcao-leiria-ID1hLWC",
-  "published_at": "2026-11-22",
-  "last_seen_at": "2026-11-23",
+  "published_at": "2026-01-19",
+  "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Estores",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Varanda",
+      "Elevador"
+    ],
+    "Equipamento": [
+      "Forno",
+      "Máquina de lavar loiça",
+      "Ar condicionado"
+    ]
+  },
   "estado": null,
   "area_util_m2": 84.1,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-24"
 }

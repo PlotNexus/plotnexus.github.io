@@ -6,24 +6,27 @@
   "currency": "EUR",
   "location": "Atouguia da Baleia, Peniche, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 75,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T2 com 75 m², pronto a habitar, situado no segundo andar. Dispõe de uma casa de banho, aquecimento elétrico e certificado energético C. O imóvel tem propriedade plena e está disponível a partir de 16 de novembro de 2026.Localiza-se em Atouguia da Baleia, no concelho de Peniche. A Escola Básica e Jardim de Infância da Bufarda fica a cerca de 694 metros.Preço: 265 000 €Agende uma visita para conhecer o apartamento.",
+  "geo": {
+    "lat": 39.29817,
+    "lng": -9.31725
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apart-t2-de-75-m-em-atouguia-da-baleia-en-rua-picadeiro-18-peniche-ID1jdKH",
-  "published_at": "2026-11-23",
+  "published_at": "2026-11-15",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 75,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-24"
 }

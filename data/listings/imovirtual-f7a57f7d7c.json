@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 76,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Prédio em Prop. Total sem andares nem divisões suscetíveis de utilização independente, afeto a habitação, com 4 pisos, incluindo o sotão. \n\nEste prédio está localizado na Baixa de Coimbra, uma das zonas que mais se tem valorizado na Cidade. Próximo ao Metro, ao comércio e a todos os serviços disponíveis no Centro de uma grande cidade.\n\nUma excelente oportunidade para investidores que procuram um projeto de reabilitação numa das zonas mais emblemáticas e privilegiadas de Coimbra.\n\nEste prédio oferece um interessante potencial para desenvolver um projeto à medida, aproveitando a sua localização central e a proximidade de transportes, comércio e serviços.\n\nIdeal para quem procura criar valor através da reabilitação, com possibilidades de exploração habitacional ou de investimento, a avaliar de acordo com o projeto e o enquadramento urbanístico aplicável.\n\nUma oportunidade para transformar um edifício com caráter numa nova aposta imobiliária no coração de Coimbra.",
+  "geo": {
+    "lat": 40.21189,
+    "lng": -8.43039
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 76,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1985,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-24"
 }

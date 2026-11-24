@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Santa Ovaia e Vila Pouca da Beira, Oliveira do Hospital, Coimbra",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 60,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Casa de vila, T2 com remodelação iniciada no piso superior conforme as imagens.\n\nPladur instalado, teto alto com isolamento, piso flutuante parcialmente instalado, dois pavimentos com entradas independentes.\n\nLugar tranquilo, a 15 minutos do centro de Oliveira do Hospital.\n\nAceito troca por carro ou outra casa.",
+  "geo": {
+    "lat": 40.31185,
+    "lng": -7.9025
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 60,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-24"
 }

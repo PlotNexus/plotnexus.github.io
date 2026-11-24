@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Buarcos, Figueira da Foz, Coimbra",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 92.5,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "T2 c/ Garagem\n\nNovo\n\nCondomínio com piscina com vista mar\n\nUrbanização em frente à praia. Prédio de luxo com piscina no topo do edifício.\n\nEm fase de construção. Possibilidade de escolha dos acabamentos;\n\nCozinha bonita e moderna. \n\nSala em openspace com a cozinha, virada ao sol da tarde\n\nRoupeiro grande no hall de entrada \n\n2 quartosgrandes  ambos com roupeiros embutidos\n\n2 wc´s um deles é privativo de um dos quartos\n\nAquecimento através de piso radiante com circuito de água\n\nGaragem fechada na cave\n\n(*) As fotografias apresentadas são imagens representativas dos acabamentos interiores e também imagens de imóveis terminados pelo mesmo construtor \n\nMarque a sua visita connosco...\n\nTratamos do seu processo de  aquisição de casa, com o profissionalismo e dedicação que nos acompanha desde 1993.\n\nA Figueira da Foz é um concelho privilegiado geográfica, cultural e socialmente. Desfrutando de condições naturais únicas, com serra, rio, mar, amplas praias e dunas tranquilas, alia a calma de uma cidade madura com riqueza cultural, patrimonial, histórica e associativa, ao bulício da animação de rua como o Carnaval, o S. João ou os concertos de Verão, oferecendo igualmente um manancial de modalidades desportivas de ar livre com especial relevo para os desportos náuticos (remo, vela, surf, etc.).\n\nO concelho, com 60 mil habitantes, é servido por um Hospital Distrital, uma ampla rede de cuidados de saúde, espaços comerciais de pequena, média e grande dimensão, hotéis, Casino, Centro de Artes e Espetáculos, e uma considerável oferta de património histórico visitável: o Museu Municipal Dr. Santos Rocha, a coleção de Azulejos de Delft, na Casa do Paço, as inúmeras igrejas e capelas, o Forte de Santa Catarina, o Palácio Sotto Mayor e a Fortaleza de Buarcos são apenas alguns exemplos.\n\nDe salientar também a nossa saborosa gastronomia, onde predominam alguns pratos como a feijoada de búzios, caldeirada á pescador, arroz de marisco, raia de pitáu, e uma grande variedade de peixe fresco e marisco.\n\nVenha conhecer este paraíso á Beira Mar!",
+  "geo": {
+    "lat": 40.166477,
+    "lng": -8.875837
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,28 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro",
+      "Estores"
+    ],
+    "Equipamentos": [
+      "Varanda",
+      "Garagem",
+      "Elevador"
+    ],
+    "Equipamento": [
+      "Máquina de lavar loiça",
+      "Forno"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 92.5,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-24"
 }

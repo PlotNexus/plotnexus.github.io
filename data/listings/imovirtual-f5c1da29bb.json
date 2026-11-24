@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Tavarede, Figueira da Foz, Coimbra",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 165,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "T3 com terraço de 40 m² e garagem em Tavarede.\n\n- Vende-se apartamento T3 na Figueira da Foz, em Tavarede, junto ao Intermarché, com terraço privado de 40 m², varanda frontal e garagem individual fechada.\n\n- Situado ao nível do rés-do-chão, dispõe de um hall de entrada amplo, com arrumação. A sala oferece espaço para as zonas de estar e de refeições, com lareira e recuperador de calor para maior conforto nos meses mais frios.\n\n- A cozinha é independente e conta com uma marquise com zona de lavandaria. Tem acesso directo ao terraço, também acessível por dois quartos, o que permite aproveitar o exterior a partir de diferentes espaços da casa.\n\n- Com churrasqueira e espaço para uma mesa de refeições, o terraço convida a reunir a família e os amigos ao ar livre. A varanda frontal oferece uma segunda opção para desfrutar do exterior.\n\n- Os três quartos têm roupeiro, incluindo uma suíte com casa de banho privativa com duche. A segunda casa de banho dispõe de banheira, e ambas contam com ventilação mecânica.\n\n- A garagem individual fechada, com 24 m² e integrada na fracção, permite guardar o automóvel e reservar espaço para arrumação. \n\n- O apartamento dispõe ainda de aspiração central, pré-instalação de aquecimento central e termoacumulador Bosch para as águas quentes.\n\n* Imoexpansão, a sua imobiliária na figueira da foz.\n\nTemos para si a sua próxima casa.\n\nA Imoexpansão dispõe de uma carteira de imóveis diversificada, de modo a responder às suas necessidades.\n\nSe procura apartamento, moradia, terreno, garagem, loja, consulte-nos.\n\nPara comprar, vender ou arrendar/alugar, a Imoexpansão está desde 1992, de portas abertas para o servir.",
+  "geo": {
+    "lat": 40.17035,
+    "lng": -8.838938
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,27 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Varanda",
+      "Garagem",
+      "Elevador",
+      "Terraço"
+    ],
+    "Multimédia": [
+      "Internet"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 165,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2007,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-24"
 }

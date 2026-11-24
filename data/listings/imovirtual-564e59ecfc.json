@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Tavarede, Figueira da Foz, Coimbra",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 110.23,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos este fantástico apartamento T2, situado na prestigiada zona da Quinta da Borloteira, em Tavarede, onde a localização, o conforto e a luminosidade se conjugam na perfeição.Inserido numa zona residencial de excelência, beneficia de uma localização privilegiada, com proximidade a escolas, supermercados, farmácias, espaços verdes e aos principais serviços, proporcionando toda a comodidade no dia a dia.Com uma agradável vista sobre o jardim verde da praça e uma excelente exposição solar Nascente/Sul, o apartamento destaca-se pela abundante entrada de luz natural, criando ambientes acolhedores e luminosos ao longo de todo o dia.Encontra-se remodelado e dispõe de uma distribuição funcional, composta por dois quartos, duas casas de banho, cozinha, lavandaria/despensa e um fantástico terraço de generosas dimensões, ideal para desfrutar de momentos de lazer ao ar livre.Como complemento, conta ainda com uma garagem fechada, garantindo maior comodidade, segurança e espaço de arrumação.Uma excelente oportunidade para quem procura qualidade de vida, conforto e uma localização privilegiada, numa das zonas residenciais mais procuradas da Figueira da Foz.OBS. Não pretendo ser contactada por Agências Imobiliárias!",
+  "geo": {
+    "lat": 40.167255,
+    "lng": -8.854293
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,34 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Estores",
+      "Videovigilância",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Cozinha independente",
+      "Terraço",
+      "Elevador"
+    ],
+    "Aquecimento": [
+      "Aquecimento urbano"
+    ],
+    "Equipamento": [
+      "Máquina de lavar loiça",
+      "Forno",
+      "Frigorífico"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 110.23,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2008,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-24"
 }

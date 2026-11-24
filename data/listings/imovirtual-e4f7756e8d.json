@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 50,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Procura um apartamento confortável, numa zona tranquila e com uma localização privilegiada?\n\nEste T1, situado nos Olivais, reúne características que fazem dele uma excelente oportunidade, tanto para habitação própria como para investimento.\n\nInserido num edifício de 2005, o apartamento encontra-se em ótimo estado de conservação e beneficia de uma localização residencial tranquila, a apenas 2 minutos a pé da Igreja de Santo António dos Olivais e a cerca de 10 minutos dos Hospitais da Universidade de Coimbra.\n\nEntre os seus principais atrativos destacam-se:\n\n- Terraço de uso exclusivo, ideal para desfrutar de momentos ao ar livre;\n\n- Garagem fechada, proporcionando comodidade e segurança;\n\n- Edifício de construção relativamente recente;\n\n- Excelente estado de conservação;\n\n- Localização tranquila, próxima de comércio, serviços e unidades hospitalares.\n\nUma oportunidade para quem procura qualidade de vida, conforto e uma localização de referência em Coimbra.\n\n A Garantia ERA protege a sua nova casa mesmo que a casa não seja nova. A Garantia ERA é um seguro que garante reparações ao comprador em caso de necessidade durante 12 ou 24 meses. Compre a sua casa com toda a segurança. O seguro é oferecido pela ERA, sem custos adicionais para quem compra ou para quem vende. O seguro cobre reparações no sistema de aquecimento, canalizações, sistema elétrico, infiltrações/inundações, fissuras em paredes e tratamento de bolores. \n\nCom a ERA Universitária poderá também pedir simulações bancárias para o seu Crédito Habitação. O departamento PoupaJÁ - Intermediação de Crédito acompanha os seus clientes na obtenção das melhores simulações de crédito. A PoupaJá.pt, é uma marca nacional registada pertencente à Era Universitária Mediação Imobiliária, Lda., Intermediário de Crédito registado no Banco de Portugal com o número 0001985.\n\n?? Para mais informações ou agendamento de visita, entre em contacto.",
+  "geo": {
+    "lat": 40.21967,
+    "lng": -8.40034
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 50,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2005,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-24"
 }
