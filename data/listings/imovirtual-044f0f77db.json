@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Abrantes (São Vicente e São João) e Alferrarede, Abrantes, Santarém",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 86.7,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento tipologia T2 com:\n\n- 1 lugar de estacionamento \n\nComposto na totalidade por:\n\n Dois quartos com roupeiro \n\n Uma sala/cozinha em open space\n\n Uma casa de banho \n\n Espaço de circulação\n\nLocalização: \n\nA cerca de 2 minutos de várias superfícies comerciais, escolas, bancos, farmácias, hospital, ginásios, jardins, MacDonald, Polo universitário.\n\nA 5 minutos de carro da estação de comboio\n\nA cerca 5 minutos da A23\n\nA cerca de 5 minutos do Parque de São Lourenço\n\nA cerca de 5 minutos do rio tejo\n\nA cerca de 25 minutos da Albufeira de Castelo de Bode conhecida pelas suas praias fluviais\n\nA cerca de 1h25 do aeroporto de Lisboa \n\nCategoria Energética: B-\n\n2 bedroom flat with:\n\n- 1 parking space \n\nComposed entirely of:\n\n Two bedrooms with wardrobe \n\n One living room/kitchen in open space\n\n One bathroom \n\n Circulation space\n\nSupplier Location: \n\nAbout 2 minutes from various shopping malls, schools, banks, pharmacies, hospital, gyms, gardens, MacDonald, University campus.\n\n 5 minutes drive from the train station\n\n About 5 minutes from the A23\n\n About 5 minutes from São Lourenço Park\n\n About 5 minutes from the Tagus River\n\n About 25 minutes from the Castelo de Bode Reservoir known for its river beaches\n\n About 1h25 from Lisbon airport \n\nEnergy Rating: B-",
+  "geo": {
+    "lat": 39.47516,
+    "lng": -8.18935
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 86.7,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "BMINUS",
+  "detail_fetched_at": "2026-11-24"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Odivelas, Lisboa",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 82,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Procura um apartamento confortável e bem localizado? Este T2 em Odivelas é a escolha perfeita para quem quer estar perto de Lisboa mas longe do stress do trânsito.\n\n \n\nDestaques:\n\n• Localização Excelente: Apenas a curta distância a pé da estação de Metro de Odivelas (Linha Amarela). Chega ao centro de Lisboa em minutos.\n\n• Tipologia: T2 (Dois quartos) espaçosos e com boa luminosidade.\n\n• Sala de Estar: Ampla e acolhedora.\n\n• Comodidade: Perto de supermercados, escolas, cafés e transportes.\n\n• Condições: Ideal para quem procura sossego e conveniência.",
+  "geo": {
+    "lat": 38.79537,
+    "lng": -9.18518
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 82,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-24"
 }

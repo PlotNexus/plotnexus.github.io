@@ -6,14 +6,11 @@
   "currency": "EUR",
   "location": "Gafanha da Boa Hora, Vagos, Aveiro",
   "bedrooms": 3,
-  "bathrooms": 3,
+  "bathrooms": null,
   "area_m2": 180,
   "image": null,
-  "description": "*** PRAIA DA VAGUEIRA*** Apartamento duplex com duas entradas independentes, solário com vista mar, lugar de garagem e arrumo na cave.\n\nCom excelentes areas individuais, 3 casas de banho completas e uma suite, este apartamento situado ao nivel do ultimo andar, surpreende pelas areas e equipamento tais como aquecimento central, portas de segurança, gas natural, vidros duplos , estores electricos, cozinha equipada, lavandaria/despensa, arrumação, arrumo a nível dos desvao do telhado, entre outros fatores majorativos de conforto.\n\nO empreendimento dispõe de elevador.\n\nVisite este grande apartamento para sua habitação própria , investimento ou ferias.",
-  "geo": {
-    "lat": 40.562084,
-    "lng": -8.764404
-  },
+  "description": null,
+  "geo": null,
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -22,26 +19,11 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": {
-    "Segurança": [
-      "Estores"
-    ],
-    "Equipamentos": [
-      "Garagem",
-      "Varanda",
-      "Elevador"
-    ],
-    "Aquecimento": [
-      "Aquecimento urbano"
-    ],
-    "Janelas": [
-      "Caixilharia de alumínio"
-    ]
-  },
-  "estado": "Usado",
+  "features": null,
+  "estado": null,
   "area_util_m2": 180,
   "area_bruta_m2": null,
-  "ano_construcao": 2012,
-  "certificacao_energetica": "C",
-  "detail_fetched_at": "2026-11-24"
+  "ano_construcao": null,
+  "certificacao_energetica": null,
+  "detail_fetched_at": null
 }

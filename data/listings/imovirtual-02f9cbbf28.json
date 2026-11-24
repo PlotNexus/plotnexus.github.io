@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Mourão, Évora",
   "bedrooms": 5,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 92,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia isolada de tipologia T5, localizada em Mourão, no distrito de Évora, numa zona tranquila e de características tipicamente alentejanas.\n\nConstruída em 1937, esta propriedade apresenta uma área anunciada de 92 m² e necessita de obras de recuperação, oferecendo uma excelente oportunidade para quem pretende remodelar e personalizar um imóvel ao seu gosto.\n\nA moradia conserva elementos de arquitetura tradicional, constituindo uma opção interessante para habitação própria, casa de férias ou investimento imobiliário.\n\nSituada numa região conhecida pela sua tranquilidade, património histórico e proximidade à albufeira do Alqueva, beneficia de uma envolvente característica do Alentejo.\n\nUma oportunidade para desenvolver um projeto de reabilitação, valorizando o potencial do imóvel e a autenticidade da região.\n\n**Agende a sua visita e venha conhecer o potencial desta propriedade.**\n\n**Nota:** Algumas fotografias foram melhoradas com recurso a Inteligência Artificial (IA), com o objetivo de otimizar a luminosidade e a apresentação dos espaços. As imagens não dispensam a visita ao imóvel para verificação do seu estado real. \n\nCategoria Energética: E",
+  "geo": {
+    "lat": 38.38627,
+    "lng": -7.34241
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 92,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-24"
 }

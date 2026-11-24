@@ -6,24 +6,41 @@
   "currency": "EUR",
   "location": "Lumiar, Lisboa",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 99,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T3 situado no Paço do Lumiar, em Telheiras.\n\nComposto por cozinha e sala em open space, com vista desafogada, 3 quartos com roupeiro, casa de banho completa com banheira e casa de banho social. Cozinha equipada com placa, forno, exaustor, combinado, máquina de lavar louça, máquina de lavar e secar roupa e esquentador. \n\nA sala tem uma simpática varanda com vista para uma área ajardinada.\n\nEste apartamento já sofreu uma remodelação total.\n\nAs caixilharias são de vidro duplo e oscilobatentes. Ar condicionado na sala e nos quartos.\n\nConta ainda com um lugar de estacionamento.\n\nJunto ao Templo Radha Krishna e ao Jardim da Paz, ideal para as crianças brincarem em segurança após um dia de escola. \n\nLocalizado numa zona envolvente tranquila, dispõe de todo o tipo de comércio tradicional, restaurantes, pastelarias e também grandes superfícies comerciais, como o Pingo Doce e o Continente de Telheiras. Junto ao Hospital Militar.\n\nMuito próximo deste apartamento encontra colégios de referência, como o Colégio Manuel Bernardes, Real Colégio de Portugal e Planalto, bem como excelentes estabelecimentos de ensino público e creches.\n\nCom paragem de autocarros à porta, onde pode apanhar a carreira 703 e 778 da Carris que o levam a várias estações de metro (Telheiras, Campo Grande, Colégio Militar e Carnide). \n\nBons acessos à 2ª Circular, Eixo Norte-Sul, Calçada de Carriche (acesso à A8), centro de Lisboa e aeroporto, permitindo deslocações rápidas para várias zonas da cidade.\n\nZona residencial consolidada e muito bem servida de infraestruturas, para quem procura conforto e qualidade de vida.\n\nNão perca esta oportunidade, marque já a sua visita!\n\nLicença de Utilização nº 178, emitida pela CM Lisboa em 02/07/1992.",
+  "geo": {
+    "lat": 38.765354,
+    "lng": -9.158467
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-arrendamento-em-telheiras-ID1iHwd",
-  "published_at": "2026-11-23",
+  "published_at": "2026-08-04",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda",
+      "Elevador",
+      "Garagem"
+    ],
+    "Aquecimento": [
+      "Aquecimento a gás"
+    ],
+    "Equipamento": [
+      "Máquina de lavar loiça",
+      "Forno",
+      "Ar condicionado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 99,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1992,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-24"
 }

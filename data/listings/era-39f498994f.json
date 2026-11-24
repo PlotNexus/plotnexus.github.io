@@ -8,7 +8,7 @@
   "bedrooms": 3,
   "bathrooms": 2,
   "area_m2": null,
-  "image": "https://mediaredir2.era.pt/i/apartamento-t3-santo-tirso-santo-tirso-couto-santa-cristina-e-sao-miguel-e-burg_13_1_1596626_19417603_2_1_W8txj%2blsa9G%2fNVCdCM1tEVpQ6ckaNKs1DydyMyLHwJnEB8h4ZPpqcw%3d%3d_.jpg",
+  "image": "https://mediaredir2.era.pt/i/apartamento-t3-santo-tirso-santo-tirso-couto-santa-cristina-e-sao-miguel-e-burg_14_1_1596626_19417603_2_1_W8txj%2blsa9G%2fNVCdCM1tEVpQ6ckaNKs1DydyMyLHwJnEB8h4ZPpqcw%3d%3d_.jpg",
   "description": null,
   "geo": {
     "lat": 41.3164577,
@@ -22,13 +22,17 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-24",
   "images": [
-    "https://mediaredir2.era.pt/i/apartamento-t3-santo-tirso-santo-tirso-couto-santa-cristina-e-sao-miguel-e-burg_13_1_1596626_19417603_2_1_W8txj%2blsa9G%2fNVCdCM1tEVpQ6ckaNKs1DydyMyLHwJnEB8h4ZPpqcw%3d%3d_.jpg"
+    "https://mediaredir2.era.pt/i/apartamento-t3-santo-tirso-santo-tirso-couto-santa-cristina-e-sao-miguel-e-burg_14_1_1596626_19417603_2_1_W8txj%2blsa9G%2fNVCdCM1tEVpQ6ckaNKs1DydyMyLHwJnEB8h4ZPpqcw%3d%3d_.jpg"
   ],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Características": [
+      "Estado: Construção"
+    ]
+  },
+  "estado": "Construção",
   "area_util_m2": null,
   "area_bruta_m2": null,
   "ano_construcao": null,
   "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "detail_fetched_at": "2026-11-24"
 }

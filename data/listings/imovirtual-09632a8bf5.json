@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Leiria, Pousos, Barreira e Cortes, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 57.6,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Descubra este fantástico apartamento T2, situado na zona do Vale Sepal, em Leiria, uma localização que combina tranquilidade, conforto e proximidade a vários serviços e comércio.\n\nCom uma distribuição funcional e espaços pensados para proporcionar o máximo conforto, este imóvel é uma excelente opção para quem procura a sua futura habitação ou pretende realizar um investimento imobiliário.\n\nA sua localização permite beneficiar da proximidade ao centro da cidade, escolas, supermercados (Mercadona a 450m), restaurantes, serviços e principais acessos rodoviários.\n\nSe procura um apartamento que reúna conforto, funcionalidade e uma localização privilegiada em Leiria, esta poderá ser a oportunidade que procura.\n\nÁrea útil - 57,602\n\nÁrea bruta - 75,8000;\n\nÁrea do sótão de uso exclusivo (no último piso) - 18,50 m2\n\nParqueamento coberto - 12,50 m2\n\nSem elevador;\n\nRc/esquerdo.\n\nAgende já a sua visita e venha conhecer o seu próximo lar! \n\nCategoria Energética: E",
+  "geo": {
+    "lat": 39.74389,
+    "lng": -8.802087
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 57.6,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1982,
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-24"
 }

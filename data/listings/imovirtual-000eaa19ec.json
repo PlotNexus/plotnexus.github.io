@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Belas, Sintra, Lisboa",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 141,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Situado no 6. ° andar de um edifício com elevador, este T3 em Massamá Norte destaca-se pelas áreas generosas e pela vista para o Tejo e para o mar.O apartamento tem 141 m&#39; de área bruta privativa. A sala permite criar zonas distintas de estar e de refeições e dispõe de recuperador de calor. A cozinha tem espaço para refeições e acesso à marquise. Na zona privada encontram-se três quartos, um deles em suíte. O apartamento dispõe ainda de videoporteiro mãos-livres e arrecadação.A garagem fechada de 30 m2 tem portão elétrico, janela, capacidade para dois carros e espaço para arrumação. Constitui uma fração autónoma e está incluída no preço anunciado.Todos os eletrodomésticos da cozinha estão incluídos no valor de venda, entre eles equipamentos Siemens e o combinado e a arca Liebherr. O mobiliário não está incluído no preço anunciado, mas poderá ser adquirido mediante acordo quanto ao respetivo valor.Marque já a sua visita.Benny&#39;s Real Estate | Licença AMI 23836.",
+  "geo": {
+    "lat": 38.764603,
+    "lng": -9.279502
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,35 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro",
+      "Porta blindada",
+      "Videovigilância"
+    ],
+    "Equipamentos": [
+      "Varanda",
+      "Garagem",
+      "Cave",
+      "Elevador",
+      "Cozinha independente"
+    ],
+    "Equipamento": [
+      "Máquina de lavar loiça",
+      "Forno",
+      "Frigorífico"
+    ],
+    "Multimédia": [
+      "Internet"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 141,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1997,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-24"
 }

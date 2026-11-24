@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "São João de Lourosa, Viseu",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 115,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Há casas que se distinguem pelas suas características, outras pela localização e outras ainda pela versatilidade que oferecem. Esta moradia reúne tudo isso!\n\nApresentamos esta fantástica moradia isolada, em excelente estado de conservação, praticamente como nova, com isolamento exterior em sistema ETICS (capoto), boas áreas e uma distribuição de espaços pensada para proporcionar conforto, funcionalidade e múltiplas possibilidades de utilização.\n\nNo piso principal, encontramos uma ampla zona social em conceito openspace, onde a cozinha mobilada e equipada se integra harmoniosamente com a sala de estar e jantar. O recuperador de calor a lenha acrescenta um ambiente acolhedor e confortável, tornando este espaço ideal para os momentos em família.\n\nA zona privada dispõe de dois quartos com roupeiros embutidos e duas casas de banho completas, garantindo uma excelente funcionalidade no dia a dia.\n\nMas é no piso inferior que esta moradia revela um dos seus maiores diferenciais! Além de uma zona de escritório, arrumos e área técnica destinada aos equipamentos, encontramos um espaço completamente independente, com características de um pequeno T1, composto por kitchenette, quarto e casa de banho. Uma solução extraordinária para receber familiares, proporcionar maior privacidade, criar uma zona de trabalho independente ou até explorar outras possibilidades de utilização.\n\nNo exterior, dispõe de um agradável pátio com espaço para estacionamento de uma viatura, telheiro com churrasqueira, ideal para refeições e convívios ao ar livre, e ainda uma zona de terreno que permite desfrutar de momentos de lazer.\n\nAo nível dos equipamentos e conforto, destaca-se o ar condicionado, aquecimento central a lenha, bomba de calor para aquecimento de águas, caixilharia com vidros duplos e sistema oscilo-batente, bem como o isolamento exterior em capoto.\n\nLocalizada na freguesia de São João de Lourosa, a pouco mais de 2 minutos do Palácio do Gelo, beneficia de uma excelente proximidade ao centro de Viseu, comércio, serviços e principais acessos.\n\nUma moradia que oferece muito mais do que espaço: oferece versatilidade, conforto e possibilidades para diferentes projetos de vida.\n\nVenha descobrir tudo o que este imóvel tem para lhe oferecer, com a UpHouse!",
+  "geo": {
+    "lat": 40.61558,
+    "lng": -7.92449
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,20 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado",
+      "Jardim",
+      "Terraço"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 115,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-24"
 }

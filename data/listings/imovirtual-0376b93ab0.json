@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Sepins e Bolho, Cantanhede, Coimbra",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 205,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia composta por cave e rés do chão, sala ampla com espaço para lareira, 3 quartos, cozinha e copa, casa de banho completa, hall de entrada e hall dos quartos, cave com cerca de 190m2, com arrumo.\n\nLote de terreno com cerca de 2300 m2, totalmente vedada.\n\nEm fase de conclusão de licenciamento (falta apenas o auto de conformidade) prevendo estar concluído o processo em Janeiro de 2027.\n\nNota Importante: Não se Aceita Parceria ou mediação Imobiliária.\n\nAgradeço que respeitem.",
+  "geo": {
+    "lat": 40.39953,
+    "lng": -8.50827
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 205,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-24"
 }

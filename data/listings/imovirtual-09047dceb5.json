@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Quelfes, Olhão, Faro",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 40,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Desfrute de uns dias de pura tranquilidade na Ilha da Armona, um paraíso sem carros no coração da Ria Formosa onde a natureza, o mar e a paz ditam o ritmo.\n\nA nossa casa destaca-se pela sua localização imbatível logo no início da ilha, permitindo-lhe aproveitar as férias sem longas caminhadas carregado:\n\n• Praia à porta: A apenas 30 segundos a pé da areia, para dar um mergulho sempre que lhe apetecer.\n\n• Chegada fácil: A 1 minuto a pé do cais de embarque.\n\n• Tudo por perto: A 1 minuto das mercearias, peixaria fresca e restaurantes locais.\n\nO espaço perfeito para desligar da rotina com todo o conforto e comodidade.\n\nPara verificar disponibilidade, preços ou esclarecer dúvidas, ligue ou envie mensagem!",
+  "geo": {
+    "lat": 37.04324,
+    "lng": -7.80268
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 40,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-24"
 }

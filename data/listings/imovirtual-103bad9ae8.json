@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Albufeira e Olhos de Água, Albufeira, Faro",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 35,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Preferencialmente 1 pessoas, se for 2 tem que ser casal, \n\n + de 2 pessoas nem enviem mensagem.\n\nEu resido no rés do chão da vivenda com a minha família.\n\n Está incluído no valor a eletricidade, a água e a TV e internet, o gás é pago à parte. Não permito animais. \n\nOs interessados têm que apresentar os 2 últimos recibos de vencimentos e documento a provar o vinculo com a empresa (quadros ou contrato) \n\nTem entrada independente.\n\nTem vídeo vigilância.",
+  "geo": {
+    "lat": 37.0931,
+    "lng": -8.21383
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 35,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-24"
 }

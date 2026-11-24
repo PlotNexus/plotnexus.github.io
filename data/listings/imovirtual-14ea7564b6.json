@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Mafamude, Vila Nova de Gaia, Porto",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 139,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T1+1 com terraço privativo e ar condicionado para arrendamento | Metro D. João II, Vila Nova de Gaia\n\nA poucos passos da estação de metro D. João II, este T1+1 combina divisões amplas com um terraço privativo onde pode desfrutar de uma refeição ao ar livre ou relaxar ao fim do dia.\n\nSituado no rés do chão de um edifício construído em 2023, o apartamento destaca-se pela qualidade da construção e dos materiais. Está mobilado, equipado e pronto a habitar, com ar condicionado na sala e no quarto. A divisão adicional dá-lhe a flexibilidade de criar um escritório em casa.\n\nA proximidade à Avenida da República facilita as deslocações do dia a dia. O El Corte Inglés de Gaia fica a uma paragem de metro, na estação João de Deus. A mesma linha oferece ligações diretas ao Jardim do Morro, a São Bento e aos Aliados, e permite chegar à Trindade em cerca de 12 minutos.\n\nParqueamento junto ao edificio ou grátis junto à Paragem de metro (1min),\n\nContrato de arrendamento com possibilidade para 1 ou 3 anos.\n\nAgende a sua visita com:\n\nHugo Passão +351 912 456 994\n\nMATTĒRA Real Estate",
+  "geo": {
+    "lat": 41.11884,
+    "lng": -8.606965
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,18 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamento": [
+      "Mobilado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 139,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2023,
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-24"
 }

@@ -6,24 +6,31 @@
   "currency": "EUR",
   "location": "Guarda",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 285,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia de tipologia T4 construída em 1937. É composta por 3 artigos urbanos separados. Tem 285 m² de área total. Metade da casa esteve habitada até há pouco tempo, mas a outra metade necessita de obras de reabilitação. Tem um pequeno quintal associado de 90m2, ideal para quem quiser fazer algumas plantações ou ter animais (ex. galinhas).Localizada a poucos km da Guarda, esta moradia para reabilitar oferece um ambiente calmo, rodeado pela natureza e florestas. A proximidade com a cidade garante acesso a vários serviços e comodidades.Não perca a oportunidade de adquirir esta moradia no campo, ideal para famílias que valorizam a serenidade e a proximidade da natureza.",
+  "geo": {
+    "lat": 40.56462,
+    "lng": -7.260879
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-t4-com-garagem-muito-perto-da-guarda-carapito-ID1j7AV",
-  "published_at": "2026-11-23",
+  "published_at": "2026-11-02",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem"
+    ]
+  },
   "estado": null,
   "area_util_m2": 285,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1937,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-24"
 }

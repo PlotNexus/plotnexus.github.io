@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Torreira, Murtosa, Aveiro",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 85,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T2, 2º andar, para arrendamento na Torreira\n\nComposto por hall de entrada c/roupeiro, cozinha e sala ampla, dois quartos com roupeiro, WC completo e lavandaria\n\nO apartamento será arrendado c/mobília\n\nExcelente terraço c/churrasqueira e vistas sobre o mar\n\nCom lugar de garagem, sem elevador\n\nAnimais de estimação não são permitidos. \n\nCategoria Energética: F",
+  "geo": {
+    "lat": 40.76054,
+    "lng": -8.71136
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 85,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2004,
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-11-24"
 }

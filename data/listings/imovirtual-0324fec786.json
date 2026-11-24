@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Albufeira e Olhos de Água, Albufeira, Faro",
   "bedrooms": 0,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 16,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "T0 - Albufeira, perto do centro de saúde, aluguer ao ano para 1 pessoa. Mobilado e equipado, fogão, frigorífico, máquina lavar roupa. A cozinha fecha com portas de vidro. Quarto com cama de casal, sofá, comoda e roupeiro. Casa de banho completa, com banheira e bidé. Com 1 terraço exterior. Eletricidade e água incluído no valor.",
+  "geo": {
+    "lat": 37.0931,
+    "lng": -8.21383
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 16,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-24"
 }

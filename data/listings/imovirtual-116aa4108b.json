@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Nelas, Viseu",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 174,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia térrea T4 em loteamento urbano em Nelas (Vale de Senhorim), com implantação de 196 m² e terreno de cerca de 539 m². Dispõe de uma distribuição funcional de rés-do-chão, com sala comum e cozinha em open space (36,79 m²), quatro quartos (incluindo suite com closet e casa de banho privativa), três casas de banho no total, lavandaria independente (7,07 m²), garagem com zona técnica (21,55 m²), alpendres e churrasqueira. Imóvel em fase final de acabamentos, permitindo ao futuro comprador acompanhar ou concluir os últimos detalhes a seu gosto, inserido numa zona tranquila e de bons acessos. Mais informações e visitas sob marcação.",
+  "geo": {
+    "lat": 40.53469,
+    "lng": -7.85263
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 174,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-24"
 }

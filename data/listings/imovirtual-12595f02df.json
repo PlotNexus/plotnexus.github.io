@@ -6,24 +6,39 @@
   "currency": "EUR",
   "location": "Mexilhoeira Grande, Portimão, Faro",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 140,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Descubra esta magnífica quinta em Portimão, uma verdadeira jóia escondida no coração do Algarve. Com uma área de terreno de 5760m2, esta propriedade oferece uma casa de campo com três quartos e uma casa de banho. A propriedade possui uma área bruta de 152,82m2 e uma área habitável de 140m2, ideal para desfrutar de momentos tranquilos longe da azáfama da cidade.Esta quinta tem um charme rústico e uma energia acolhedora que o fará sentir-se em casa desde o momento em que põe os pés na propriedade. O interior da casa é acolhedor e convidativo, com uma cozinha totalmente equipada, uma sala de estar espaçosa com lareira e quartos luminosos.Desfrute do ar puro do campo enquanto relaxa no amplo espaço exterior, perfeito para desfrutar de refeições ao ar livre e atividades ao ar livre. Com certificação energética classe E, esta propriedade é uma verdadeira oportunidade para quem procura um refúgio tranquilo no Algarve.Não perca a oportunidade de adquirir esta quinta única e fazer deste lugar o seu refúgio de sonho no sul de Portugal. Marque já a sua visita e apaixone-se por este pedaço de paraíso!",
+  "geo": {
+    "lat": 37.19085,
+    "lng": -8.599081
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/quinta-com-moradia-v3-na-mexilhoeira-grande-ID1hKHz",
-  "published_at": "2026-11-23",
+  "published_at": "2026-01-14",
   "last_seen_at": "2026-11-24",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Terraço",
+      "Varanda"
+    ],
+    "Multimédia": [
+      "Aquecimento a gás"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
   "estado": null,
   "area_util_m2": 140,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-24"
 }
