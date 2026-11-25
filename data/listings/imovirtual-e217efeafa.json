@@ -9,21 +9,28 @@
   "bathrooms": null,
   "area_m2": 119,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos este excelente apartamento T4 duplex, localizado na Rua Doutor Paulo Quintela, Coimbra.\n\nIdeal para famílias que procuram espaço, conforto e versatilidade. Distribuído por dois andares, o imóvel oferece uma separação harmoniosa entre a zona social e a zona privada.\n\nEste apartamento apresenta a seguinte configuração:\n\nRés do chão:\n\n-Hall de entrada;\n\n-Sala de estar e jantar;\n\n-Casa de banho completa;\n\n-Cozinha;\n\n1ºAndar:\n\n-3 Quartos;\n\n-Casa de banho completa;\n\nVamos visitar? \n\nCategoria Energética: D",
+  "geo": {
+    "lat": 40.196507,
+    "lng": -8.407924
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t4-no-vale-das-flores-coimbra-ID1jcZZ",
-  "published_at": "2026-11-24",
-  "last_seen_at": "2026-11-24",
+  "published_at": "2026-11-12",
+  "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Duplex"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 119,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1983,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-25"
 }

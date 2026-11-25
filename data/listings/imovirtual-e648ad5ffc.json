@@ -6,24 +6,37 @@
   "currency": "EUR",
   "location": "Alcains, Castelo Branco",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 113,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Excelente oportunidade para adquirir um espaçoso e acolhedor apartamento T3 situado em pleno centro da vila de Alcains, com todos os serviços, comércio, escolas e transportes a poucos passos de distância.Com uma excelente exposição solar e divisões bem distribuídas, este imóvel destaca-se pela sua funcionalidade e extraordinária capacidade de arrumação.Características principais do imóvel:Zona Social: Sala comum ampla e muito luminosa, com espaço para zona de estar e de refeições.Cozinha Funcional: Cozinha equipada com boa área de trabalho, complementada por uma prática despensa e uma marquise/zona de lavandaria fechada com excelente luz natural.Zona Privativa: Três quartos espaçosos e uma casa de banho completa (Possibilidade de duas casas de banho).Arrumação Extra e Estacionamento: O apartamento conta ainda com duas arrecadações no sótão — ideais para arrumos extra ou zona de trabalho — e um lugar de parqueamento privado, garantindo total comodidade no dia a dia.Uma solução perfeita, um investimento seguro numa vila dinâmica e a 10 minutos de Castelo Branco.Venha conhecer o seu próximo lar. Marque já a sua visita!",
+  "geo": {
+    "lat": 39.914368,
+    "lng": -7.4585195
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-no-centro-de-alcains-com-estacionamento-privado-ID1jfyJ",
   "published_at": "2026-11-21",
-  "last_seen_at": "2026-11-24",
+  "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda"
+    ],
+    "Equipamento": [
+      "Forno"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 113,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1983,
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-25"
 }

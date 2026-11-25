@@ -6,24 +6,33 @@
   "currency": "EUR",
   "location": "Pombal, Leiria",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 151,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T3 novo, localizado em Pombal, com vistas panorâmicas para a cidade e ótimos acessos à EN1, A1 e IC8. \n\nEste apartamento destaca-se pela sua área privativa (útil) muito acima da média para esta tipologia e pelas amplas varandas com vistas desafogadas. \n\nA sala de grandes dimensões e o quarto principal (suíte), possuem orientação a sul. \n\nHabitação com cozinha totalmente equipada, ar condicionado e ventilação mecânica (vmc) em todas as divisões. \n\nContacte para mais informações ou agendar a sua visita. \n\nCategoria Energética: A",
+  "geo": {
+    "lat": 39.92178,
+    "lng": -8.62642
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-novo-pombal-ID1jggf",
   "published_at": "2026-11-24",
-  "last_seen_at": "2026-11-24",
+  "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Ar condicionado",
+      "Varanda"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 151,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-25"
 }

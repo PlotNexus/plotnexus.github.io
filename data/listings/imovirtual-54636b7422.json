@@ -6,26 +6,35 @@
   "currency": "EUR",
   "location": "Borba (Matriz), Borba, Évora",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 57,
-  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQ0eXF0YXNlaHV3NDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kpyXmL8URRBe_A4Gv2VwWEJdoQRfGD6viMDLvzVwkek/image;s=1280x1024;q=80",
-  "description": null,
-  "geo": null,
+  "image": null,
+  "description": "Apresentamos este acolhedor apartamento T2 com 56,55 m², situado no 2.º e último andar de um edifício tranquilo, na cidade de Borba.Com excelente exposição solar e muita luminosidade natural, o imóvel encontra-se pronto a habitar, tendo beneficiado de melhorias que proporcionam maior conforto e funcionalidade.O apartamento é composto por:• Sala com boa luz natural;• Dois quartos;• Cozinha preparada para instalação de eletrodomésticos;• zona lavandaria;• Despensa;• Casa de banho;• Fácil estacionamento na envolvente.A localização permite acesso rápido a comércio, escolas, serviços, restaurantes, estádio municipal, piscinas cobertas e restantes comodidades do dia a dia.Se procura habitação própria, uma segunda casa ou um investimento para arrendamento de longa duração, este imóvel reúne características muito interessantes, numa cidade com crescente procura habitacional e excelente ligação a Estremoz, Vila Viçosa, Elvas, Évora e à A6.Valor: 115.000 €Agende já a sua visita. Venha conhecer o potencial deste apartamento e apresente a sua proposta.",
+  "geo": {
+    "lat": 38.803467,
+    "lng": -7.452448
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t2-pronto-a-habitar-no-centro-de-borba-excelente-oportunidade-ID1iJu4",
-  "published_at": "2026-11-08",
-  "last_seen_at": "2026-11-24",
-  "images": [
-    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQ0eXF0YXNlaHV3NDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kpyXmL8URRBe_A4Gv2VwWEJdoQRfGD6viMDLvzVwkek/image;s=1280x1024;q=80"
-  ],
-  "features": null,
-  "estado": null,
+  "published_at": "2026-08-10",
+  "last_seen_at": "2026-11-25",
+  "images": [],
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado",
+      "Cozinha independente"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 57,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1989,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-25"
 }

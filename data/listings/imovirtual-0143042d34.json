@@ -6,24 +6,35 @@
   "currency": "EUR",
   "location": "Leiria, Pousos, Barreira e Cortes, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 95,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T2, novo, localizado em Casal Matos, freguesia de Pousos, com acesso a jardim e terraço.\n\nComposto por:\n\n- 2 quartos, um deles em suite\n\n- Sala e cozinha em open-space\n\n- Cozinha equipada\n\n- Jardim e terraço\n\n- Lugar de parqueamento na cave do prédio\n\nEquipado com:\n\n- placa, forno, micro-ondas, exaustor e máquina de lavar loiça\n\n- Bomba de calor\n\n- Ar condicionado\n\n- Estores elétricos\n\nExcelente isolamento térmico e acústico.\n\nAcabamentos de alta qualidade que proporcionam elevado conforto.\n\nLocalizado próximo de vários pontos de comércio e serviços. \n\nVenha conhecer este imóvel e descubra todo o potencial que tem para oferecer.\n\nA Imobiliária 1º Abrigo, estabelecida em 2006, é a sua referência no negócio imobiliário. Comprometemo-nos a ser o seu abrigo, seja para comprar, vender ou arrendar. Contamos com uma equipa qualificada e experiente, pronta para o servir.\n\nDestacamo-nos como intermediários de crédito vinculados, registados no Banco de Portugal sob o número 0003341. Podemos orientá-lo no processo de pedido de crédito habitação, simplificando a sua experiência. \n\nCategoria Energética: A",
+  "geo": {
+    "lat": 39.73636,
+    "lng": -8.77591
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-novo-res-do-chao-com-jardim-ID1jgcA",
   "published_at": "2026-11-24",
-  "last_seen_at": "2026-11-24",
+  "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda"
+    ],
+    "Equipamento": [
+      "Forno",
+      "Ar condicionado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 95,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2026,
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-25"
 }
