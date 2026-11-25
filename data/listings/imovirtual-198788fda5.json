@@ -9,8 +9,11 @@
   "bathrooms": null,
   "area_m2": 37,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T0 para venda junto ao Alameda Shopping, ao lado do Hotel AC, no Porto.\n\nInserido num edifício composto exclusivamente por apartamentos T0, com portaria e lavandaria, dispõe de lugar de estacionamento, reunindo comodidades que fazem a diferença no dia a dia.\n\nA localização permite ter comércio, restauração e serviços a poucos passos, com a conveniência de viver junto a um dos principais centros comerciais da cidade.\n\nUma opção a considerar para habitação própria ou investimento.\n\nContacte para mais informações e agendamento de visita.\n\nImobiliárias não.",
+  "geo": {
+    "lat": 33.07597,
+    "lng": -16.33461
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-23",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 37,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "BMINUS",
+  "detail_fetched_at": "2026-11-25"
 }

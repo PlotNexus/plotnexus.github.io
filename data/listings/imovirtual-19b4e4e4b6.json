@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim), Sintra, Lisboa",
   "bedrooms": 6,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 300,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia T6 em Sintra (LXSIN030)\n\nApresentamos esta moradia T5 + 1, com cerca de 300 m² de área bruta privativa e construída em 1993, distribuída por vários pisos e com espaços interiores e exteriores de grande potencial.\n\nNo rés do chão, encontra-se um hall de entrada amplo, um escritório, uma casa de banho social, garagem com acesso direto ao interior da habitação e lavandaria.\n\nO primeiro andar dispõe de uma sala ampla em open space, com zonas de estar e de jantar, lareira e acesso a duas varandas. Neste piso existem ainda uma casa de banho social totalmente remodelada, um quarto com roupeiro e uma cozinha totalmente equipada, com acesso direto ao logradouro. No exterior, encontram-se o jardim, a zona de churrasqueira e um espaço de arrumos.\n\nNo último piso, a moradia conta com uma suite remodelada, com casa de banho renovada e acesso a uma varanda, uma casa de banho social também remodelada e mais dois quartos com roupeiros embutidos.\n\nUma oportunidade para quem procura uma moradia espaçosa em Sintra, com garagem, áreas exteriores e uma distribuição funcional por vários pisos.\n\nOs lares incorporam a forma como vivemos e nos vemos. Esses espaços evoluem quando nos concentramos no que nos faz felizes.\n\nQuando entramos em alguns lares, estes instantaneamente transmitem um sentimento acolhedor. Isto acontece porque o espaço é autêntico, um reflexo genuíno da pessoa ou família que lá vive.\n\nApresentamos esta filosofia na nossa forma de trabalhar! Encontramos uma casa à sua medida, para construir o seu lar, de acordo com as suas necessidades, pretensões, vivências, ajustando-se o mesmo ao seu carácter e personalidade. O resultado será radiante alcançando a sua plena satisfação.\n\nContacte-nos, conheça a forma como operamos! Apresentamos uma equipa profissional e segmentada em departamentos (Financeiro/Crédito, Marketing, Judicial, Apoio ao Cliente e Contratação), para que tenha o melhor serviço de consultoria em cada fase do processo. Trataremos de tudo, assegurando a máxima eficiência e eficácia nos serviços prestados.\n\nA única tarefa que terá ao seu encargo será mesmo a decisão na escolha do imóvel. \n\n- Se o seu sonho tem um endereço, nós levamo-lo à porta! \n\nA VENDO O MUNDO está no mercado imobiliário desde 2004, atuando desde então nos Distritos de Lisboa, Santarém, Setúbal e Évora. \n\n \n\nContamos, para isso, com uma equipa de profissionais com a experiência e dedicação necessária, que fazem de nós a Imobiliária Líder da Região Centro. \n\n \n\nEncontre-nos em Marinhais, Salvaterra de Magos, Foros de Salvaterra, Benavente e Samora Correia. Encontre-nos também nos escritórios em Alverca, Vila Franca de Xira e em Mora. \n\n \n\nOs nossos 21 anos e a constante expansão do nosso raio de ação, são prova da confiança que temos merecido. Dispomos de uma carteira com centenas de clientes e imóveis, permitindo-nos negócios em tempo record. Um deles pode ser o seu!\n\nEsperamos por si!",
+  "geo": {
+    "lat": 38.76555,
+    "lng": -9.349998
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,16 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Varanda"
+    ]
+  },
   "estado": null,
   "area_util_m2": 300,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1993,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-25"
 }

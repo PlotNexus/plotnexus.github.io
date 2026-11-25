@@ -6,24 +6,43 @@
   "currency": "EUR",
   "location": "Braga (São Vítor), Braga",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 175,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Habitação T3+1, mobilado e equipado junto ao Colégio D. Diogo de Sousa.\n\nDISPONIVEL A PARTIR 1 DE SETEMBRO 2026",
+  "geo": {
+    "lat": 41.55251,
+    "lng": -8.414089
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t3-1-colegio-d-diogo-sousa-ID1iK50",
-  "published_at": "2026-11-23",
+  "published_at": "2026-08-12",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Alarme",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Varanda",
+      "Garagem",
+      "Elevador"
+    ],
+    "Aquecimento": [
+      "Aquecimento a gás"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 175,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-25"
 }

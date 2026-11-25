@@ -6,24 +6,27 @@
   "currency": "EUR",
   "location": "Guardão, Tondela, Viseu",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 110,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Casa mobilada em muito bom estado com 2 pisos, 3 quartos, 2 casas de banho, aquecimento central a pellets.\n\nAldeia típica muito sossegada e silenciosa numa zona mais alta da serra do Caramulo.",
+  "geo": {
+    "lat": 40.56441,
+    "lng": -8.17104
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/casa-para-arrendar-a-5km-do-caramulo-ID1j849",
-  "published_at": "2026-11-24",
+  "published_at": "2026-11-03",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 110,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-25"
 }

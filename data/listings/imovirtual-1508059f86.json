@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Marinha Grande, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 90,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T2 renovado e mobilado, com 90 m² e certificado energético B. A sala tem lareira, pavimento em mosaico e acesso à varanda através de portas envidraçadas.\n\nA cozinha está equipada com frigorífico, placa, forno e máquina de lavar loiça. Conta com bancada em granito e janelas amplas, que deixam entrar luz natural.\n\nO apartamento dispõe de uma casa de banho com duche, banheira e bidé. Para mais informações sobre este imóvel, solicite uma visita. ( 2 cauções+ mês de entrada)\n\nRua Augusto Santana lote 9.2dt pedulheira 2430 marinha grande",
+  "geo": {
+    "lat": 39.77955,
+    "lng": -8.94661
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 90,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-25"
 }

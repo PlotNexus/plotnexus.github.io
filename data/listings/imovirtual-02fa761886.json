@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Santa Maria Maior, Lisboa",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 63,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T1, num 4º andar, no Chiado | Lisboa.\nInserido em prédio totalmente renovado.\n\nExposição solar: Poente.\n\nComposto por:\n\nSala e quarto com acesso à varanda, casa de banho, cozinha em open space equipada.\n\nAcabamentos e equipamentos:\n\nAr condicionado por conduta, máquina de louça, máquina de lavar e secar roupa, esquentador, placa indução, forno e frigorifico combinado (electrodomésticos Bosch).\n\nA informação disponibilizada não dispensa a sua confirmação e não pode ser considerada vinculativa.\n\nPara mais informações e/ou visita, contacte-me!\n\nEN\nOne-bedroom apartment, on the 4th floor, in Chiado | Lisbon.\nInserted in a completely renovated building.\n\nSun exposure: West.\n\nComprises:\n\nLiving room and bedroom with access to balcony, bathroom, equipped open-plan kitchen.\n\nFinishes and equipment:\n\nDucted air conditioning, dishwasher, washing machine and dryer, water heater, induction hob, oven and combined fridge (Bosch appliances).\n\nThe information provided does not dispense with confirmation and cannot be considered binding.\n\nFor more information and/or a viewing, please contact me!\n\n Licença de Utilização - 3210",
+  "geo": {
+    "lat": 38.708187,
+    "lng": -9.142293
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,17 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado",
+      "Varanda",
+      "Elevador"
+    ]
+  },
   "estado": null,
   "area_util_m2": 63,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2020,
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-25"
 }

@@ -6,24 +6,27 @@
   "currency": "EUR",
   "location": "São Teotónio, Odemira, Beja",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 242,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Quintinha com uma área de terreno de 19,5 ha e uma área coberta com 242 m2 que poderá ser ampliada até aos 500 m2 para fins turísticos .\nAs habitações necessitam obras de recuperação.\nA propriedade é atravessada por uma ribeira com água todo o ano, dispõe de uma linha de água e de uma mina de água.\nExistem vários sobreiros, medronheiros e carvalhos.\nA electricidade encontra.se próximo da propriedade ou se pretender poderá recorrer a energias alternativas.\nA propriedade encontra-se apenas a 10 minutos da praia de Odeceixe e a 20 minutos de Aljezur onde poderá encontrar vários serviços.\nMarque já a sua visita.",
+  "geo": {
+    "lat": 37.510246,
+    "lng": -8.694992
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/quintinha-barranco-do-penedo-ID1hBJT",
-  "published_at": "2026-11-24",
+  "published_at": "2025-12-02",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 242,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-25"
 }

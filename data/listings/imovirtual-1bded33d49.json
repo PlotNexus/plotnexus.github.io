@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Pataias e Martingança, Alcobaça, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 80,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T2 com piscina e garagem box, em condomínio fechado, localizado na primeira rua junto ao mar da Praia da Pedra do Ouro.\n\nCom 80 m², o apartamento tem uma sala, cozinha equipada, dois quartos e uma casa de banho. Tem aquecimento central, caixilharia com corte térmico e vidros duplos, que mantêm a casa confortável no inverno. Assim, serve tanto para viver todo o ano como para férias. Tem também gás canalizado.\n\nO apartamento fica num condomínio fechado com portão automático, piscina e churrasqueira. Inclui ainda uma garagem box, onde pode guardar o carro e o equipamento de praia.\n\nFica na Pedra do Ouro (Pataias, Alcobaça), a 500 m do acesso à praia, que se faz facilmente a pé.\n\nCaracterísticas\n\n. 2 quartos\n\n. 1 casa de banho\n\n. 1 sala\n\n. Cozinha equipada\n\nDestaques\n\n. A 500 m do acesso à praia\n\n. Condomínio fechado\n\n. Piscina\n\n. Garagem box\n\n. Churrasqueira\n\n. Aquecimento central\n\n. Caixilharia com corte térmico e vidros duplos\n\n. Gás canalizado\n\n___\n\nDesde 2015, a Casas100Fim alia rigor e experiência para garantir que a compra ou venda da sua casa seja um processo seguro, próximo e sem preocupações.\n\n. Serviço Completo: Simplificamos todas as etapas com transparência, sem quaisquer custos adicionais ou taxas escondidas para si.\n\n. Confiança e Rigor: Pautamos a nossa atuação pela honestidade e excelência, assegurando total profissionalismo em cada detalhe do negócio.\n\n. Crédito Habitação: Como intermediários autorizados pelo Banco de Portugal, tratamos do seu financiamento com as melhores condições.\n\nTire as suas dúvidas e agende uma visita hoje mesmo. Estamos à sua espera! \n\nCategoria Energética: D",
+  "geo": {
+    "lat": 39.72732,
+    "lng": -9.04445
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,18 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Condomínio fechado"
+    ],
+    "Equipamentos": [
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 80,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-25"
 }

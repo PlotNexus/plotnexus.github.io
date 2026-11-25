@@ -6,24 +6,35 @@
   "currency": "EUR",
   "location": "Amora, Seixal, Setúbal",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 90,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "T2 Bem localizado, em prédio cuidado e tranquiloCozinha totalmente equipada com sala de refeição,Máquina lavar roupaSala grande com 30m2 e varanda2 quartos com varanda, um com roupeiroGás naturalPré-instalação cabo tv, internet Fibra2° andar sem elevadorCondições :- Animais não permitidos- 1 Mês de Renda, 2 Meses de Caução- Cópia da Declaração de IRS- Cópia Contrato de trabalho- 3 últimos recibos de vencimentos- Copia documentos de identificação CC BI NIF- Fiador, solicitar a mesma Documentação-NÃO SE ACEITAM IMOBILIÁRIAS.",
+  "geo": {
+    "lat": 38.6204,
+    "lng": -9.11717
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t2-amora-junto-ao-jardim-paivas-ID19phz",
-  "published_at": "2026-11-24",
+  "published_at": "2022-08-22",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda"
+    ],
+    "Equipamento": [
+      "Frigorífico",
+      "Forno"
+    ]
+  },
   "estado": null,
   "area_util_m2": 90,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-25"
 }

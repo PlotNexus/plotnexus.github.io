@@ -6,24 +6,33 @@
   "currency": "EUR",
   "location": "Alvaiázere, Leiria",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 138,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos esta elegante moradia T3, nova, construída em 2025, localizada em Relvas, Maçãs de Caminho, no concelho de Alvaiázere. Inserida numa zona tranquila e envolta pela natureza, esta propriedade alia modernidade, conforto e qualidade de construção.\n\nA moradia é composta por três quartos amplos, todos com roupeiros embutidos, sendo um deles suíte, com casa de banho privativa. Dispõe ainda de uma segunda casa de banho completa, de apoio aos restantes quartos e à zona social, equipada com louças sanitárias modernas.\n\nA área social desenvolve-se em open space, integrando sala e cozinha, criando um ambiente contemporâneo, funcional e com excelente luminosidade natural — ideal para momentos de convívio em família ou com amigos.\n\nPensada para o máximo conforto e eficiência energética, a moradia encontra-se equipada com:\n\n • Painéis solares\n\n • Ar condicionado em todas as divisões\n\n • Vidros duplos\n\n • Janelas em alumínio com corte térmico\n\n • Isolamento térmico em capoto\n\n • Quarto térmico\n\n • Portões elétricos\n\nDispõe ainda de garagem privativa, garantindo comodidade e segurança.\n\nNo exterior, conta com um agradável jardim, perfeito para momentos de lazer, onde poderá desfrutar de uma vista fantástica e desafogada, bem como da serenidade característica da região.\n\nA localização oferece excelentes acessos, encontrando-se a cerca de:\n\n • 35 minutos de Coimbra\n\n • 30 minutos de Tomar\n\n • 1h30 de Lisboa\n\nNas proximidades, poderá ainda usufruir de várias praias fluviais, ideais para os dias de descanso e lazer.\n\nSe procura uma moradia moderna, nova, eficiente e inserida num ambiente calmo, esta poderá ser a solução ideal para si.\n\nEsta informação não é vinculativa e não dispensa a consulta das entidades competentes.",
+  "geo": {
+    "lat": 39.854115,
+    "lng": -8.378244
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-t3-nova-conforto-eficiencia-e-vista-desafogada-ID1hHTQ",
-  "published_at": "2026-11-24",
+  "published_at": "2026-01-05",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Terraço",
+      "Ar condicionado"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 138,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2025,
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-25"
 }

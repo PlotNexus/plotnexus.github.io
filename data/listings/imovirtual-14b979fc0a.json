@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela, Viana do Castelo",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 125.5,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Em fase final de construção, apresentamos o Abelheira Plaza, um novo empreendimento situado numa das zonas mais valorizadas de Viana do Castelo, da responsabilidade de uma empresa de referência na cidade, com provas dadas na qualidade de construção.\n\nEste apartamento destaca-se pelas suas áreas generosas, contando com três quartos, um dos quais suite, sala e cozinha em open space e duas casas de banho. \n\nDispõe ainda de varandas nos quartos, sala e cozinha, bem como garagem fechada na cave.\n\nPrincipais características e equipamentos:\n\n- Bomba de calor e painéis solares para aquecimento de águas sanitárias;\n\n- Ar condicionado com sistema «Inverter»;\n\n- Sistema de ventilação VMC de fluxos cruzados;\n\n- Cozinha equipada com eletrodomésticos BOSCH, incluindo placa de indução, forno, micro-ondas, frigorífico combinado, máquina de lavar louça e máquina de lavar roupa;\n\n- Casas de banho com louças sanitárias suspensas;\n\n- Garagem fechada com instalação elétrica preparada para carregamento de veículos elétricos.\n\nA localização é um dos pontos fortes deste empreendimento, numa zona tranquila e com a comodidade de ter por perto diversos comércios e serviços, nomeadamente supermercados, farmácias, escolas, cafés e restaurantes. Dispõe ainda de transportes públicos nas proximidades e bons acessos ao centro da cidade e às principais vias rodoviárias.\n\nUma excelente oportunidade para quem procura um apartamento novo, com boas áreas, acabamentos de qualidade e uma localização privilegiada em Viana do Castelo.\n\nContacte-nos para mais informações! \n\nCategoria Energética: A\n\nIn the final stages of construction, we present Abelheira Plaza, a new development located in one of the most sought-after areas of Viana do Castelo, developed by a company renowned in the city for its proven track record in construction quality.\n\nThis flat stands out for its generous proportions, comprising three bedrooms, one of which is en suite, an open-plan living room and kitchen, and two bathrooms. \n\nIt also features balconies off the bedrooms, living room and kitchen, as well as a private garage in the basement.\n\nMain features and equipment:\n\n- Heat pump and solar panels for heating domestic hot water;\n\n- Air conditioning with «Inverter» system;\n\n- VMC cross-flow ventilation system;\n\n- Kitchen equipped with BOSCH appliances, including an induction hob, oven, microwave, fridge-freezer, dishwasher and washing machine;\n\n- Bathrooms with wall-hung sanitaryware;\n\n- Private garage with electrical installation prepared for electric vehicle charging.\n\nThe location is one of the development's key strengths, in a peaceful area with the convenience of having various shops and services nearby, including supermarkets, pharmacies, schools, cafés and restaurants. Public transport is also nearby, with good access to the city centre and the main roads.\n\nAn excellent opportunity for anyone looking for a new flat with generous proportions, quality finishes and a prime location in Viana do Castelo.\n\nContact us for further information! \n\nEnergy Rating: A",
+  "geo": {
+    "lat": 41.70755,
+    "lng": -8.820682
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,21 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Elevador",
+      "Ar condicionado",
+      "Varanda"
+    ]
+  },
   "estado": null,
   "area_util_m2": 125.5,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-25"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Turiz, Vila Verde, Braga",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 212,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "O privilégio de viver num só piso, onde a elegância, o conforto e a privacidade se encontram.\n\nEm Turiz, Vila Verde, descubra esta magnífica moradia individual térrea T3, de arquitetura contemporânea, concebida para proporcionar uma experiência de vida marcada pela qualidade, funcionalidade e bem-estar.\n\nInserida num generoso terreno de 959 m², com 212 m² de área útil, esta moradia distingue-se pela amplitude dos espaços, pela qualidade dos acabamentos e pela harmoniosa ligação entre o interior e o exterior.\n\nAmplitude, elegância e conforto\n\nA extraordinária zona social em open space, com mais de 82 m², integra a sala de estar, a sala de jantar e uma elegante cozinha com ilha central e bancadas em quartzo.\n\nUm espaço que convida a reunir a família, receber amigos e desfrutar dos melhores momentos do quotidiano.\n\nNa zona privada, destacam-se três suítes, incluindo uma magnífica suíte principal com 36 m², que integra quarto, closet e instalação sanitária privativa.\n\nA moradia dispõe ainda de escritório independente, WC de serviço, lavandaria, sala de máquinas e garagem fechada para duas viaturas, com aproximadamente 38 m².\n\nQualidade construtiva e acabamentos diferenciadores\n\nCada detalhe foi pensado para proporcionar conforto, eficiência e uma estética contemporânea.\n\nFachada ventilada em porcelanato Travertino Ice;\n\nAr condicionado do tipo Daikin;\n\nBomba de calor de 300 litros;\n\nCaixilharia em alumínio com corte térmico;\n\nEstores térmicos motorizados;\n\nPavimento flutuante vinílico nas principais divisões;\n\nCarpintarias lacadas a branco;\n\nBancadas de cozinha em quartzo tipo Compac;\n\nMóveis de instalações sanitárias Banho Oasis em carvalho natural;\n\nLouças sanitárias suspensas;\n\nIluminação LED integrada e focos embutidos;\n\nSistema de Videoporteiro;\n\nPortão de garagem automatizado.\n\nUm exterior que convida a viver\n\nO generoso espaço exterior oferece inúmeras possibilidades para criar ambientes de lazer, convívio e descanso, proporcionando a liberdade e a privacidade que só uma moradia individual pode oferecer.\n\nExiste ainda a possibilidade de integrar uma piscina privada, com sistema automático de tratamento de água por eletrólise de sal e regulação de pH, disponível como extra.\n\nUma localização que privilegia a qualidade de vida\n\nSituada em Turiz, Vila Verde, esta moradia permite desfrutar da tranquilidade de uma zona residencial, conciliando o contacto com a natureza com a proximidade de comércio, serviços e acessos.\n\nUma oportunidade única para quem privilegia a qualidade de construção, o conforto e a privacidade.\n\nPara mais informações e apresentação do projeto, contacte-nos.\n\nImagens ilustrativas do projeto final, com decoração virtual. Mobiliário e decoração não incluídos. Piscina opcional, não incluída no preço. Acabamentos conforme caderno de encargos.",
+  "geo": {
+    "lat": 41.63067,
+    "lng": -8.43838
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,22 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Ar condicionado",
+      "Garagem"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 212,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2027,
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-25"
 }

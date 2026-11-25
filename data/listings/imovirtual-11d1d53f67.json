@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu), Coimbra",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 50,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "RESERVAS E PEDIDOS DE INFORMAÇÃO\n\nTERMOS E CONDIÇÕES DE ALOJAMENTO:\n\n- Data de Disponibilidade: 01/02/2027\n\n- Duração Mínima de Aluguer: 30 dias\n\n- Todas as Despesas Incluídas: Não, para mais informações visite o site\n\n- Adicional:\n\n - Animais de Estimação Não Permitido\n\n - Fumadores Não Permitido\n\nDETALHES DA PROPRIEDADE\n\nApartamento com 2 quartos - localizado em Alta Universitária Coimbra\n\n - Localização: Localizado em Alta Universitária em Coimbra com uma variedade de opções de refeições, lojas essenciais e atividades para fazer, com fácil acesso aos transportes públicos.\n\n2 quartos em apartamento com 1 casas de banho.\n\nCaracterísticas\n\n - Wi-Fi\n\n - Toalhas e lençóis\n\n - Forno\n\n - Máquina de lavar roupa\n\nSOBRE A UNIPLACES\n\nO Seu Local de Confiança para Encontrar Casa\n\nComo uma plataforma online pioneira, a Uniplaces liga indivíduos, sejam estudantes, profissionais ou famílias, a uma variedade de alojamentos para arrendamento. O nosso compromisso vai para além das listagens - verificamos cada propriedade para garantir que cumpre os nossos rigorosos critérios de conforto e conveniência. Escolha a Uniplaces para uma jornada de arrendamento suave, fiável e com uma excelente relação qualidade-preço.",
+  "geo": {
+    "lat": 40.20704,
+    "lng": -8.427799
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamento": [
+      "Forno"
+    ]
+  },
   "estado": null,
   "area_util_m2": 50,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-25"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Atouguia da Baleia, Peniche, Leiria",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 130,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Situada na Urbanização do Paraíso, Atouguia da Baleia, esta exclusiva moradia de arquitetura moderna encontra-se inserida num lote de 402,80 m², com uma área bruta de construção licenciada de 310,50 m², distribuída por três pisos.As suas linhas arquitetônicas contemporâneas, os amplos vãos envidraçados e a ligação entre os espaços interiores e exteriores proporcionam ambientes luminosos, harmoniosos e sofisticados.Características diferenciadoras:Arquitetura contemporânea de linhas minimalistas;Piscina aquecida de agua salgada ;Amplos terraços com vistas desafogadas sobre a paisagem envolvente;Espaços exteriores destinados ao lazer e convívio;Zona de churrasqueira;Garagem de generosas dimensões;Grandes superfícies envidraçadas;Acabamentos de estética moderna;Excelente integração com a natureza envolvente.No exterior, a piscina privativa convida a momentos de descanso, enquanto os terraços proporcionam o cenário perfeito para desfrutar dos dias de sol, receber amigos ou simplesmente apreciar a tranquilidade da paisagem.A localização permite usufruir da serenidade de uma zona residencial, sem abdicar da proximidade às emblemáticas praias do Baleal, Peniche e Supertubos, aos campos de golfe da região e à oferta gastronómica, comercial e cultural da Costa de Prata.Uma propriedade ideal para residência permanente ou segunda habitação, destinada a quem procura um estilo de vida diferenciador junto à costa portuguesa.Mais do que uma moradia, um convite para viver com elegância, tranquilidade e liberdade.Moradia em construção.Valor de venda: 895.000 €Contacte-nos para mais informações e agende a sua visita privada.Equipa Marina Ferreira – Consultora Imobiliária\n\nPredimed Imobiliária, Mediação Imobiliária, Lda.\n\nAvenida Brasil 43, 12º Andar, 1700-062 Lisboa\n\nLicença AMI nº 22503\n\nPessoa Coletiva nº 517 239 345\n\nSeguro Responsabilidade Civil: Nº de Apólice RC65379424 Fidelidade",
+  "geo": {
+    "lat": 39.34726,
+    "lng": -9.28585
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem"
+    ]
+  },
   "estado": null,
   "area_util_m2": 130,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-25"
 }

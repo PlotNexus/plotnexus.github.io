@@ -6,24 +6,31 @@
   "currency": "EUR",
   "location": "Albufeira e Olhos de Água, Albufeira, Faro",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 99,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Num dos locais mais privilegiados de Albufeira, a poucos minutos a pé do centro histórico e das suas praias mais emblemáticas, encontra-se esta magnífica Penthouse T2+2 que combina conforto, modernidade e uma localização verdadeiramente excecional. Inserido no 2.º e último piso, este imóvel distingue-se pela sua excelente exposição solar e pela abundante luz natural que percorre todas as divisões, criando um ambiente acolhedor e agradável ao longo de todo o dia. A sua organização funcional contempla quatro quartos (dois principais e dois adicionais), incluindo uma elegante suíte, duas casas de banho completas, sala de estar e uma cozinha totalmente equipada com zona de refeições. O grande destaque desta propriedade é o generoso terraço privativo um espaço perfeito para desfrutar de momentos de lazer ao ar livre. Com zona de churrasqueira, lavandaria e arrumos, oferece o cenário ideal para convívios em família ou entre amigos, tirando pleno partido do clima ameno do Algarve durante todo o ano. Totalmente renovado em 2023, o apartamento apresenta acabamentos modernos e de elevada qualidade, complementados por ar condicionado em todas as divisões, garantindo conforto absoluto em qualquer estação. A localização central permite fácil acesso a uma vasta oferta de restaurantes, bares, comércio e serviços, tornando esta propriedade uma excelente opção tanto para habitação própria como para investimento, com forte potencial de rentabilidade. Se procuras viver com espaço, qualidade e a poucos passos do mar, este é o imóvel ideal para ti.",
+  "geo": {
+    "lat": 37.09034,
+    "lng": -8.24841
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/penthouse-t2-2-para-venda-albufeira-ID1i7I1",
-  "published_at": "2026-11-24",
+  "published_at": "2026-03-30",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado"
+    ]
+  },
   "estado": null,
   "area_util_m2": 99,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1988,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-25"
 }

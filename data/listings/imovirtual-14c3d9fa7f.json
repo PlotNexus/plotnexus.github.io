@@ -9,21 +9,49 @@
   "bathrooms": null,
   "area_m2": 416,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "FRACÇÃO E - A1: Unidade habitacional sita no primeiro andar esquerdo A, com entrada pela caixa de escada comum a partir da Rua Agro de Cima. É constituída por hall de entrada, sala comum, cozinha, sanitário de apoio, escritório, três quartos de dormir com banho privativo e mais um quarto/escritório sem banho, perfazendo a área de cento e setenta e dois vírgula oito metros quadrados; na sub-cave dispõe de um espaço fechado (Box) para 4 veículos, destinado a aparcamento automóvel e com pré-instalação para carregador de veículos elétricos, com a área de setenta e dois vírgula dois metros quadrados, designado pela letra A1.Tem direito ao uso exclusivo de uma varanda com a área de noventa e três vírgula quatro metros quadrados.Tem direito ao uso exclusivo de um terraço/roof top com piscina incluída, fantástica vista sobre o areal e o mar, com a área de setenta e seis vírgula três metros quadrados, que serve de cobertura ao segundo andar. O acesso ao espaço na cobertura, é feito através de elevador ou caixa de escadas comum.A fracção tem uma área total de quatrocentos e catorze vírgula sete metros quadrados",
+  "geo": {
+    "lat": 41.11511,
+    "lng": -8.6608
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/t4-vista-mar-terraco-c-piscina-varanda-box-p-4-c-ID1cxp5",
-  "published_at": "2026-11-24",
+  "published_at": "2023-10-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Porta blindada",
+      "Condomínio fechado",
+      "Vídeo-porteiro",
+      "Videovigilância"
+    ],
+    "Equipamentos": [
+      "Varanda",
+      "Garagem",
+      "Elevador",
+      "Terraço"
+    ],
+    "Equipamento": [
+      "Máquina de lavar loiça",
+      "Frigorífico",
+      "Forno",
+      "Ar condicionado"
+    ],
+    "Multimédia": [
+      "Internet"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
   "estado": null,
   "area_util_m2": 416,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2023,
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-25"
 }

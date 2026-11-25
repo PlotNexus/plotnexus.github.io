@@ -6,24 +6,41 @@
   "currency": "EUR",
   "location": "Santo António, Lisboa",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 48,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "*TOTALMENTE MOBILADO**ARRENDAMENTOS MENSÁRIOS DE 1 A 11 MESES*Espetacular apartamento na Rua Bernardo Lima com 1 quarto, uma sala de estar com sofá-cama e 1 casa de banho. A cozinha está equipada com eletrodomésticos e utensílios de última geração. As camas estão equipadas com roupa de cama macia, ideal para uma boa noite de sono. Além disso, o apartamento dispõe de Wi-Fi de alta velocidade e SmartTV. O apartamento tem máquina de lavar roupa, máquina de lavar louça e ar condicionado para o seu máximo conforto.*Para maior conforto, este apartamento está equipado com ar condicionado em todos os quartos.*O edifício dispõe de um lugar de estacionamento à disposição dos hóspedes.*Os preços e a disponibilidade podem variar consoante a duração da estadia e a antecedência da reserva. As despesas de serviços públicos e as despesas com animais de estimação não estão incluídas no preço do aluguer; tudo será detalhado no contrato final.*O mobiliário e a decoração podem diferir ligeiramente das fotos devido a manutenção e melhorias de qualidade realizadas pela nossa equipa de design.*Para consultar preços atualizados, disponibilidade e todos os detalhes do apartamento, visite o nosso site, que encontrará no final desta página em &#34;LINK ADICIONAL&#34;. Para qualquer dúvida, consulte um agente de vendas.*O preço indicado aplica-se apenas a estadias destinadas exclusivamente a fins de férias, recreativos ou de lazer.",
+  "geo": {
+    "lat": 38.7262,
+    "lng": -9.14424
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-em-campo-de-santana-santa-marta-ID1i4f0",
-  "published_at": "2026-11-23",
+  "published_at": "2026-03-18",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ],
+    "Equipamento": [
+      "Mobilado",
+      "Máquina de lavar loiça",
+      "Frigorífico",
+      "Forno",
+      "Ar condicionado"
+    ],
+    "Multimédia": [
+      "Internet"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 48,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-25"
 }

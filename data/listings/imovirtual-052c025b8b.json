@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Capelo, Horta, Ilha do Faial",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 111,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "É com gosto que apresentamos esta acolhedora moradia T3, situada na Rua do Canto, na freguesia do Capelo, concelho da Horta, na maravilhosa ilha do Faial.\n\nMoradia completamente renovada, revela-se uma excelente opção para quem procura uma casa confortável, cuidada e com um espaço exterior generoso. É um imóvel que reúne o encanto de uma casa tradicional com a tranquilidade de uma localização onde é possível desfrutar de um estilo de vida mais sereno, em harmonia com a natureza.\n\nCom uma área útil de 110,54 m², a moradia está inserida num terreno com 2.452 m², oferecendo um espaço exterior amplo e cheio de possibilidades. Seja para criar um bonito jardim, cultivar a sua própria horta, desfrutar de momentos em família ou simplesmente aproveitar o ar livre, este terreno permite dar asas à imaginação e concretizar novos projetos.\n\nLocalizada numa zona tranquila da freguesia do Capelo, esta propriedade é uma excelente oportunidade para quem sonha ter uma casa na ilha do Faial, com espaço, privacidade e qualidade de vida.\n\nCaracterísticas do imóvel\n\nTipologia: T3\n\nÁrea de implantação: 110,54 m²\n\nÁrea total do terreno: 2.452 m²\n\nEstado: Usado\n\nCondição: Muito Boa\n\nLocalização: Rua do Canto, Capelo, Horta – Ilha do Faial",
+  "geo": {
+    "lat": 38.58522,
+    "lng": -28.8089
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {},
+  "estado": "Usado",
   "area_util_m2": 111,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1937,
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-25"
 }

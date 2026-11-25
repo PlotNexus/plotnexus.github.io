@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Este (São Pedro e São Mamede), Braga",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 85,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Veja a Vida por outro PRISMA.\n\nVenha conhecer esta moradia de dois pisos, totalmente restaurada, em Vila Velha de Ródão, que combina conforto, modernidade e funcionalidade, numa localização privilegiada onde a tranquilidade e a natureza se encontram.\n\nExcelente oportunidade tanto para habitação própria como para investimento.\n\nNo rés do chão encontra:\n\n- Sala e Cozinha em Open Space;\n\n- Despensa;\n\n- WC de Serviço.\n\nO primeiro andar dispõe de:\n\n- Dois Quartos;\n\n- WC completo.\n\nLocalização:\n\nA vila de Vila Velha de Ródão, no distrito de Castelo Branco, destaca-se pela sua beleza natural, tranquilidade e qualidade de vida, proporcionando um ambiente acolhedor e uma forte ligação à natureza.\n\nCom comércio local, escolas, serviços de saúde, farmácia, restaurantes, piscinas municipais, transportes públicos e ligação ferroviária, oferece os bens e serviços essenciais para viver com conforto e comodidade.\n\nFica a aproximadamente 25 minutos de Castelo Branco, cerca de 1 hora da Covilhã, 2 horas de Lisboa, 2 horas e 30 minutos do Porto e 1 hora e 30 minutos de Coimbra beneficiando de acessos rápidos pela A23, onde não existe lugar a pagamento de portagens.\n\nEntre os principais pontos de interesse destacam-se o Monumento Natural das Portas de Ródão, o Castelo do Rei Wamba, o Cais Fluvial, o Rio Tejo e os diversos percursos pedestres que permitem explorar as magníficas paisagens da região.\n\nVila Velha de Ródão é o destino ideal para quem procura viver longe da agitação dos grandes centros urbanos, sem abdicar do conforto e da proximidade aos serviços essenciais.\n\nUma moradia totalmente restaurada, pronta para iniciar um novo capítulo da sua vida.\n\nA informação disponibilizada, embora precisa, é meramente informativa, pelo que não pode ser considerada vinculativa e poderá ser sujeita a alterações.\n\nA sua PONTO PRISMA dispõe de uma equipa especializada para o acompanhar em todo o seu processo de venda.\n\n* Somos Intermediários de Crédito Certificados pelo Banco de Portugal com o n.º 0003514. Estamos ao dispor para o auxiliar GRATUITAMENTE em todo o processo de crédito à habitação. Marque já a sua reunião conosco. *",
+  "geo": {
+    "lat": 41.56754,
+    "lng": -8.37209
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,16 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado",
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 85,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-25"
 }

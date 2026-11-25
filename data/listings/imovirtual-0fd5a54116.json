@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Campolide, Lisboa",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 4,
   "area_m2": 353,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "O Secret Garden Villas é um condomínio exclusivo e privativo em Campo de Ourique, composto por 11 villas espaçosas (de 3 a 6 quartos), equipadas com piscina privativa, pátios, terraços, jardins e uma área de estacionamento subterrâneo com usos multifuncionais.\n\nCada villa oferece amplos espaços, com 3 a 6 quartos, piscina privativa, jardins e estacionamento subterrâneo multifuncional.\n\nAs residências foram concebidas para integrar os elementos de luz, terra e água, destacando-se por características como paredes de vidro que vão do chão ao teto. Em todos os níveis, as villas contam com pátios e áreas verdes, proporcionando uma experiência de moradia tranquila e reservada.\n\nTodas as unidades dispõem de jardins privativos, terraços, pátios, piscina, elevador e garagem.\n\nPriorizando a privacidade e o conforto, o empreendimento conta com apenas 11 villas — com tipologias de 3 a 6 quartos — que oferecem espaços amplos, repletos de luz, energia e vida.\n\nAs 11 villas foram cuidadosamente projetadas com uma disposição semelhante, porém organizadas de forma estratégica para garantir a privacidade e um estilo de vida sofisticado. O projeto valoriza a estrutura dos interiores, o aproveitamento inteligente dos espaços, a abundância de luz natural, a presença de piscina privativa, terraços e pátios, além de um agradável caminho para caminhadas ou exercícios dentro da área privativa do condomínio.\n\nO Secret Garden Villas propõe uma experiência de vida excepcional em um dos bairros mais acolhedores e familiares de Lisboa.\n\nA atenção aos detalhes, o uso de materiais de alto padrão e elementos de design sofisticados criam uma atmosfera de luxo — desde a madeira natural de alta qualidade nos pisos até os acabamentos em pedra na cozinha, nos banheiros e nas áreas externas.\n\nO preço por metro quadrado está alinhado aos valores atuais de mercado, com base em estudos detalhados. Por ser um projeto único no centro da cidade, foi realizada uma análise minuciosa comparando-o a empreendimentos similares em Campo de Ourique e outras regiões. A análise pode ser fornecida mediante solicitação.\n\nDESFRUTE DO AMBIENTE ACOLHEDOR E FAMILIAR DE CAMPO DE OURIQUE\n\nCampo de Ourique é um bairro central em Lisboa. A região conta com uma escola internacional, o Lycée Français Charles Lepierre, além de diversas outras instituições de ensino portuguesas nas proximidades. O bairro também abriga um dos melhores mercados, repleto de uma grande variedade de iguarias gastronômicas: o Mercado de Campo de Ourique. É um local ideal para quem gosta de caminhar, andar de bicicleta ou até mesmo circular de carro. Independentemente da forma de locomoção, você consegue mudar de cenário em poucos minutos, chegar ao centro da cidade ou sair da capital.\n\nPor todo o bairro, você encontrará restaurantes de culinária internacional, pratos tradicionais, estabelecimentos comandados por chefs portugueses renomados e, ainda, algumas das melhores padarias de Lisboa. Do Japão à Itália, passando por Portugal, há tantas opções que certamente atenderão a todos os seus desejos.",
+  "geo": {
+    "lat": 38.732605,
+    "lng": -9.163038
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem"
+    ]
+  },
   "estado": null,
   "area_util_m2": 353,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2026,
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-25"
 }

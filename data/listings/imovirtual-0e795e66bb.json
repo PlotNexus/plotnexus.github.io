@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Souselo, Cinfães, Viseu",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 137,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "OPORTUNIDADE DE INVESTIMENTO EM CINFÃES — 80.000 €!\n\nJá imaginou transformar um único imóvel em duas unidades independentes, um T1 e um T2, com garagem fechada, espaço de arrumação e um terraço com uma vista deslumbrante?\n\nLocalizado em Souselo, Cinfães, este imóvel oferece um enorme potencial para habitação ou desenvolvimento de um projeto de alojamento turístico.\n\nInserido numa região reconhecida pelas suas belezas naturais e atrativos turísticos, próximo da famosa N222, encontra-se a menos de 1h30 do Porto e de Braga e a cerca de 1h de Viseu.\n\nPreço: 80.000 € | Elegível para financiamento, sujeito às condições bancárias.\n\nDuas possibilidades de habitação, uma localização privilegiada e inúmeras oportunidades de valorização!\n\nEntre em contacto com a RN Investments e agende a sua visita.",
+  "geo": {
+    "lat": 41.0651,
+    "lng": -8.2274
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 137,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-25"
 }

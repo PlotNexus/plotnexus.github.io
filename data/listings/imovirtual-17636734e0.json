@@ -6,24 +6,33 @@
   "currency": "EUR",
   "location": "Guilhadeses e Santar, Arcos de Valdevez, Viana do Castelo",
   "bedrooms": 5,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 162,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Excelente moradia T5 com logradouro, situada na freguesia de Santar, em Arcos de Valdevez, a apenas 2 minutos do centro da vila e 5 minutos de Ponte da Barca.\n\nO imóvel é composto por dois pisos e um sótão com grande potencial, que pode ser aproveitado para arrumos, quartos adicionais ou espaço de lazer.\n\nRés do chão : \n\nGaragem espaçosa\n\nCozinha\n\nSala de estar\n\nCasa de banho\n\nDois quartos\n\nPrimeiro andar :\n\nTrês quartos\n\nCasa de banho principal\n\nCasa de banho de serviço\n\nCozinha ampla com excelente área\n\nSala com varanda e recuperador de calor\n\nNo exterior, dispõe de logradouro com espaço de churrasqueira coberto, ideal para desfrutar tanto no verão como no inverno.\n\nA moradia localiza-se numa zona tranquila e de fácil acesso, com a estrada principal totalmente renovada em 2024.\n\nCom acessos rapidos as autoestradas em direçao Viana do Castelo, Braga, Porto..\n\n\"A Arcobarca além de ser agência mediadora de imóveis, é também intermediária de crédito registada junto do Bando de Portugal com o número de registo 0003433.\n\nA Arcobarca não concede crédito, sendo neste âmbito de atividade exclusivamente a intermediação com as instituições financeiras com quem tem contractos de vinculação.\n\nOs serviços de Intermediação de Crédito prestados pela Arcobarca são isentos de qualquer custo para os seus clientes\".",
+  "geo": {
+    "lat": 41.81962,
+    "lng": -8.42614
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-t5-com-logradouro-em-santar-arcos-de-valdevez-ID1hIc4",
-  "published_at": "2026-11-24",
+  "published_at": "2026-01-06",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Ar condicionado",
+      "Varanda",
+      "Garagem"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 162,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1984,
+  "certificacao_energetica": "F",
+  "detail_fetched_at": "2026-11-25"
 }

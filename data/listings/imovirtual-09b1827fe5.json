@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Riachos, Torres Novas, Santarém",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 99,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T3, situado na Urbanização Casal do Tocha, em Riachos.2º Andar sem elevador, com estacionamento em garagem e arrecadação.3 Quartos e 2 casas de banho, sala e cozinha independentes.",
+  "geo": {
+    "lat": 39.437786,
+    "lng": -8.511358
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,18 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 99,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1995,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-25"
 }

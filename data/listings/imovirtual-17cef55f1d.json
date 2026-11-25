@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Vagos, Aveiro",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 209,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia T3+1 contemporânea em Vagos · Classe A · salas e jardim a sul\n\n Moradia independente de arquitetura contemporânea, em construção, com licença aprovada, conclusão prevista para 2027 e certificado energético classe A.\n\nA sala de estar, a sala de jantar e o jardim estão orientados a sul. No inverno, o sol baixo entra pelos vãos envidraçados e aquece a casa naturalmente. No verão, o sol alto fica sobre a fachada. Juntamente com o isolamento térmico integral, é isto que garante a classe energética A e um consumo de energia reduzido.\n\nPiso térreo\n\nSala de estar e sala de jantar com acesso direto ao jardim\n\nAlpendre com churrasqueira\n\nCozinha com ilha e lavandaria\n\nEscritório de 13,90 m², que pode ser usado como quarto de hóspedes no piso térreo\n\nPiso superior\n\nSuite com casa de banho privativa\n\nDois quartos com roupeiros\n\nTrês varandas com guardas em vidro\n\nConforto e eficiência energética\n\nClimatização nas divisões principais\n\nVentilação mecânica\n\nBomba de calor para águas quentes sanitárias\n\nGaragem para dois carros, com pré-instalação para carregador de carro elétrico\n\nLocalização em Vagos\n\nA moradia fica numa zona residencial tranquila de Vagos, junto às escolas e à piscina municipal, com o centro da vila acessível a pé. A Praia da Vagueira e a cidade de Aveiro estão a poucos minutos de carro. É uma boa opção para quem procura casa perto da praia e de Aveiro, com mais espaço e menos custos de energia.\n\nResumo\n\nTipologia: moradia T3+1 independente\n\nÁrea útil: 209 m²\n\nTerreno: 597 m²\n\nCasas de banho: 3\n\nClasse energética: A\n\nEstado: em construção, conclusão prevista em 2027\n\nLocalização: Vagos, distrito de Aveiro\n\nPreço: 650.000 €\n\nVisitas por marcação.\n\nImagens 3D ilustrativas, sujeitas a alterações em obra.\n\n#ref: 175471",
+  "geo": {
+    "lat": 40.5467,
+    "lng": -8.680255
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,18 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda"
+    ],
+    "Multimédia": [
+      "Internet"
+    ]
+  },
   "estado": null,
   "area_util_m2": 209,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2027,
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-25"
 }

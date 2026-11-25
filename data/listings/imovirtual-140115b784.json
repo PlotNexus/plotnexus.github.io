@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "União de freguesias da cidade de Santarém, Santarém",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 211,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia T4 com garagem em SantarémA moradia dispõe de uma sala ampla com duas zonas distintas, uma de estar junto à lareira e outra de jantar.&nbsp;As duas zonas partilham a mesma divisão, com espaço para receber convidados e desfrutar de serões em família.A cozinha é ampla, com uma bancada em península, uma zona de refeições para o dia a dia e uma despensa. O rés-do-chão conta ainda com um hall de entrada, um quarto que também pode funcionar como escritório, uma casa de banho e uma arrecadação.No piso superior, os três quartos têm acesso a varanda. Um deles é uma suíte com closet, e os outros dois são servidos por uma casa de banho no mesmo piso.O exterior oferece vários espaços para conviver. A churrasqueira coberta, com bancada de apoio, abre-se para um pátio em calçada e convida a almoços ao ar livre.&nbsp;O salão de festas dá-lhe um espaço próprio para aniversários, jantares e encontros com amigos. A moradia conta ainda com jardim, garagem e uma casa de banho exterior de apoio.A poucos minutos do centro de Santarém, a moradia fica perto de comércio, serviços, restaurantes, escolas, universidade e hospital, com acesso à A1 e à A15.\n\nPredimed Imobiliária, Mediação Imobiliária, Lda.\n\nAvenida Brasil 43, 12º Andar, 1700-062 Lisboa\n\nLicença AMI nº 22503\n\nPessoa Coletiva nº 517 239 345\n\nSeguro Responsabilidade Civil: Nº de Apólice RC65379424 Fidelidade",
+  "geo": {
+    "lat": 39.2333,
+    "lng": -8.6833
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,15 @@
   "published_at": "2026-11-24",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem"
+    ]
+  },
   "estado": null,
   "area_util_m2": 211,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2006,
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-25"
 }

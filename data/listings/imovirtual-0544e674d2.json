@@ -6,24 +6,31 @@
   "currency": "EUR",
   "location": "Cristelos, Boim e Ordem, Lousada, Porto",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 88.9,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apresentamos este fantástico apartamento, situado numa zona central de Lousada, que se destaca pelas suas áreas generosas, excelente luminosidade natural e um magnífico terraço exterior, ideal para desfrutar de momentos de lazer e convívio.\n\nCaracterísticas do imóvel: \n\nSala de estar e jantar ampla; \n\nLareira; \n\nAr condicionado; \n\nCozinha espaçosa  com móveis em madeira e bancadas em pedra; \n\nQuartos com boas áreas e luminosidade natural; \n\nPavimentos em tons de madeira, conferindo um ambiente acolhedor; \n\nCorredores amplos de distribuição entre as divisões; \n\nDivisão destinada a lavandaria; \n\nAmplo terraço exterior; \n\nVistas panorâmicas e desafogadas sobre a envolvente urbana e paisagística; \n\nExcelente luminosidade natural; \n\nVarandas com vistas sobre a cidade.Nas proximidades encontram-se: \n\nGrandes superfícies comerciais, num espaço entre 120 a 150 m; \n\nBancos e caixas multibanco; \n\nCTT de Lousada — aproximadamente 860m; \n\nCentro de Saúde — aproximadamente 1,1 km; \n\nComplexo Desportivo de Lousada — aproximadamente 1,4 km; \n\nAeroporto Francisco Sá Carneiro — aproximadamente 42 km; \n\nAcesso à rede rodoviária regional, nomeadamente às ligações à A42 e A11;",
+  "geo": {
+    "lat": 41.278774,
+    "lng": -8.291988
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-venda-ID1jcBG",
-  "published_at": "2026-11-24",
+  "published_at": "2026-11-11",
   "last_seen_at": "2026-11-25",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 88.9,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2001,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-25"
 }
