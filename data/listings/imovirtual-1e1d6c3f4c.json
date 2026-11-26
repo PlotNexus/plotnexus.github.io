@@ -6,24 +6,31 @@
   "currency": "EUR",
   "location": "Santo António dos Olivais, Coimbra",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 51,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento de tipologia T2, em fase de construção, em Coimbra.&nbsp;Próximo do Pólo 2 da Universidade de Coimbra, com fáceis acessibilidades a qualquer zona da cidade.&nbsp;Um dos quartos é do tipo Suite, com WC privativo.&nbsp;Contempla amplas varandas e estacionamento em garagem fechada, dedicado à fração.&nbsp;Excelente oportunidade para habitação Própria Permanente, ou de investimento, com rentabilidade garantida.&nbsp;",
+  "geo": {
+    "lat": 40.18869,
+    "lng": -8.410208
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-construcao-coimbra-ID1jgoX",
   "published_at": "2026-11-25",
-  "last_seen_at": "2026-11-25",
+  "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda"
+    ]
+  },
   "estado": null,
   "area_util_m2": 51,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-26"
 }

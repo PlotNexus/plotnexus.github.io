@@ -6,24 +6,34 @@
   "currency": "EUR",
   "location": "Castelo Branco",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 62,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T1 com excelente luminosidade natural, composto por um quarto mobilado, com roupeiro embutido, cozinha equipada com fogão, frigorífico e exaustor, dispondo ainda de uma prática despensa.\n\nA sala de estar conta com lareira, proporcionando um ambiente acolhedor e confortável.\n\nDispõe ainda de uma casa de banho completa, equipada com banheira.\n\nCom duas frentes e duas amplas varandas, oferece vistas privilegiadas sobre a paisagem envolvente, proporcionando espaços exteriores ideais para momentos de tranquilidade e lazer.\n\nUma solução funcional e acolhedora, que alia conforto, luminosidade e uma agradável envolvente paisagística.\n\nfee.ka - Agência de mediação imobiliária sediada em Castelo Branco.\n\nO conceito “fee.ka” traduz-se ao momento em que abrandamos e aproveitamos o melhor da vida…..\n\na família, os amigos, a nossa Casa!\n\nSomos uma equipa focada, cujo principal objetivo é proporcionar um serviço de confiança, seriedade e transparência.\n\nTratamos de todo o processo de compra, venda e arrendamento com total conforto e segurança para o cliente. Juntos trabalhamos para objetivos comuns: vender ou comprar pelo melhor preço de mercado de forma célere e eficaz.\n\nComo Intermediários de credito, dispomos de serviços e parcerias junto de diversas entidades bancárias. \n\nAjudamos a agilizar e otimizar processos para aquisição, reestruturação ou transferência de crédito à habitação.\n\nAuxiliamos, acompanhamos e apresentamos as condições de crédito mais vantajosas para o cliente.\n\nSomos licenciados pelo Banco de Portugal com o número de registo: 0006346.\n\nA nossa satisfação começa com a concretização do seu sonho. Juntos criamos raízes!",
+  "geo": {
+    "lat": 39.823315,
+    "lng": -7.4704666
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-em-castelo-branco-ID1jgmI",
   "published_at": "2026-11-25",
-  "last_seen_at": "2026-11-25",
+  "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Elevador"
+    ],
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
   "estado": null,
   "area_util_m2": 62,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1999,
+  "certificacao_energetica": "E",
+  "detail_fetched_at": "2026-11-26"
 }
