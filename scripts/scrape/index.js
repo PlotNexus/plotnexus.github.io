@@ -222,6 +222,14 @@ async function main() {
     // ordinary per-query flakiness.
     console.warn("Nenhum anúncio novo recolhido nesta execução — todas as fontes falharam. A servir dados anteriores.");
   }
+
+  // Confirmado no Pi (26/11, catalogo com 30465 anuncios): depois de tudo
+  // escrito em disco com sucesso, o encerramento "normal" do Node ainda
+  // dispara uma recolha de lixo final que, perto do limite de heap de
+  // 420MB, chega a abortar o processo (FATAL ERROR: heap out of memory)
+  // sem perder trabalho - mas e ruido alarmante no log por nada. Sair
+  // logo aqui, já com tudo gravado, evita essa recolha de lixo final.
+  process.exit(0);
 }
 
 main().catch((err) => {
