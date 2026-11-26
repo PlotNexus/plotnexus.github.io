@@ -6,24 +6,43 @@
   "currency": "EUR",
   "location": "Alijó, Vila Real",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 132,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Excelente Apartamento T3 em Granja – Junto a Alijó\n\nApresentamos este fantástico apartamento com 196 m² de área total, incluindo uma ampla garagem privativa de 60 m², inserido numa residência calma e agradável, construída em 2009. Situado em Granja, ao lado de Alijó, o imóvel combina tranquilidade, conforto e proximidade de todos os serviços essenciais.\n\n✨ Principais características:\n\n• 3 quartos amplos e luminosos\n\n• 2 casas de banho completas\n\n• Cozinha espaçosa e funcional\n\n• Lavandaria independente\n\n• Sala de estar e sala de jantar com excelente luz natural\n\n• Rés-do-chão com ótima acessibilidade\n\n• Garagem fechada com 60 m²\n\n No exterior, encontra um magnífico terreno/jardim com cerca de 1200 m², ideal para momentos de lazer, convívio em família ou até cultivo. O espaço conta ainda com poço de água próprio e belas vistas desafogadas, proporcionando um ambiente tranquilo e relaxante.\n\n Localização privilegiada:\n\n• Zona residencial calma\n\n• A poucos passos do Intermarché e Continente\n\n• Próximo de comércio, serviços e acessos principais\n\n Excelente oportunidade de investimento:\n\nO apartamento encontra-se atualmente arrendado, oferecendo rentabilidade imediata e a vantagem de já possuir inquilino. Uma solução ideal para investidores que procuram segurança e valorização futura.\n\nUma excelente oportunidade para habitação própria ou investimento seguro, com áreas generosas e um raro espaço exterior.\n\n#ref: 914028",
+  "geo": {
+    "lat": 41.26691,
+    "lng": -7.47926
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-em-alijo-de-132-m2-ID1ilTJ",
-  "published_at": "2026-11-25",
+  "published_at": "2026-05-17",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {
+    "Segurança": [
+      "Porta blindada",
+      "Condomínio fechado",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Cave",
+      "Jardim",
+      "Varanda",
+      "Elevador",
+      "Garagem"
+    ],
+    "Multimédia": [
+      "Internet"
+    ]
+  },
   "estado": null,
   "area_util_m2": 132,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2009,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-26"
 }

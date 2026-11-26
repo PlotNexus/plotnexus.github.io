@@ -9,21 +9,28 @@
   "bathrooms": null,
   "area_m2": 100,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Conjunto de duas habitações, com uma área total aproximada de 200 m², inseridas num ambiente rural e com grande potencial de recuperação.O imóvel é composto por duas casas independentes, com tipologias aproximadas de T2 e T1, oferecendo a possibilidade de criar duas habitações distintas ou desenvolver um projeto único, de acordo com as necessidades e visão do futuro proprietário.A propriedade dispõe ainda de terreno e acesso de carro, reunindo condições interessantes para quem procura um projeto de reabilitação numa zona marcada pela natureza e tranquilidade.Ideal para habitação própria, casa de férias ou projeto de investimento, sujeito às condições legais e urbanísticas aplicáveis.",
+  "geo": {
+    "lat": 41.718536,
+    "lng": -8.036879
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/2-casas-para-recuperar-com-terreno-em-cabril-montalegre-ID1jaYC",
-  "published_at": "2026-11-25",
+  "published_at": "2026-11-05",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {
+    "Janelas": [
+      "Caixilharia de alumínio"
+    ]
+  },
   "estado": null,
   "area_util_m2": 100,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1975,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-26"
 }

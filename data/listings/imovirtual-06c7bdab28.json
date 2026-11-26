@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Lourinhã, Lisboa",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 160,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Descubra este elegante apartamento T2 na Lourinhã, onde o design contemporâneo, o conforto e a exclusividade se unem para proporcionar uma excelente qualidade de vida.Com 160 m² de área útil e 194 m² de área bruta, este imóvel destaca-se pela qualidade de construção, pelos acabamentos de elevado padrão e pelas áreas generosas.A zona social dispõe de uma ampla sala de estar e jantar com acesso direto ao terraço. A cozinha moderna e funcional integra-se harmoniosamente neste espaço. O apartamento conta ainda com lavandaria separada e uma ampla zona de arrumos.Na zona privada encontra-se uma espaçosa suite com closet e casa de banho equipada com jacuzzi, bem como um segundo quarto e uma segunda casa de banho completa.O grande destaque é o extraordinário espaço exterior, com um amplo terraço, piscina privativa aquecida, churrasqueira e zona de lazer - ideal para desfrutar de momentos únicos em família ou com amigos.O imóvel situa-se no primeiro andar de um edifício com elevador e dispõe de classificação energética A+.Localizado no coração da Lourinhã, permite fácil acesso a supermercados, escolas, comércio, restaurantes, serviços e transportes. As praias da Areia Branca, Peralta e Porto Dinheiro encontram-se a poucos minutos de distância.Uma excelente oportunidade para residência permanente, casa de férias ou investimento.Preço: 640.000 €Agende a sua visita e venha conhecer este imóvel exclusivo",
+  "geo": {
+    "lat": 39.244137,
+    "lng": -9.313403
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,19 @@
   "published_at": "2026-11-25",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Terraço",
+      "Varanda"
+    ],
+    "Equipamento": [
+      "Mobilado"
+    ]
+  },
   "estado": null,
   "area_util_m2": 160,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "APLUS",
+  "detail_fetched_at": "2026-11-26"
 }

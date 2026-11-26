@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça), Setúbal",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 83,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Em Remodelação Total,Com 1 Varanda e 1 Marquise.Composto por:Hall de Entrada,Sala,Cozinha com Placa de Vitrocerâmica, Forno ,Exaustor e Termoacumulador e Acesso a Marquise,2 Quartos,1 deles com acesso a Varanda,2 Casas de Banho,1 de Serviço e outra com banheira.3ºandar sem elevador.Parte elétrica e canalização novas,Porta de Alta Segurança,Tetos Falsos com Luzes Embutidas,Vidros Duplos,Caixilharia em PVC com oscilo batentes.Em zona com acesso a transportes públicos,escolas,comércio e serviços.\n\nPredimed Imobiliária, Mediação Imobiliária, Lda.\n\nAvenida Brasil 43, 12º Andar, 1700-062 Lisboa\n\nLicença AMI nº 22503\n\nPessoa Coletiva nº 517 239 345\n\nSeguro Responsabilidade Civil: Nº de Apólice RC65379424 Fidelidade",
+  "geo": {
+    "lat": 38.525925,
+    "lng": -8.908031
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,18 @@
   "published_at": "2026-11-25",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Varanda"
+    ],
+    "Equipamento": [
+      "Forno"
+    ]
+  },
   "estado": null,
   "area_util_m2": 83,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1988,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-26"
 }

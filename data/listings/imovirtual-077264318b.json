@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "São Domingos de Benfica, Lisboa",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 133,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T3 para venda com estacionamento e arrecadação nas Laranjeiras, Lisboa\n\nEste apartamento T3 para venda nas Laranjeiras oferece uma combinação equilibrada entre centralidade urbanística e conforto residencial. Inserido numa das áreas mais consolidadas da freguesia de São Domingos de Benfica, o imóvel beneficia da proximidade a polos de negócios, unidades de saúde de referência e uma vasta rede de comércio local.\n\nDisposição do imóvel:\n\n- Hall de Entrada (4,5m2)\n\n- Cozinha (16,3m2)\n\n- Sala (25m2)\n\n- Casa de Banho (3,4m2)\n\n- Quarto 1 (13,8m2)\n\n- Quarto 2 (13,7m2)\n\n- Hall de Quartos (1,5m2)\n\n- Quarto de Suite (11,8m2)\n\n- Casa de Banho de Suite (3,1m2)\n\n- Corredor (12,10m2)\n\n- Despensa\n\n- Varanda namoradeira\n\nCom uma área bruta privativa de 133 m2, a fração situa-se num segundo andar e apresenta uma distribuição funcional dos espaços sociais e privados. A zona social é composta por um hall de entrada com 5 m2, uma cozinha independente com 16 m2 equipada com despensa, e uma sala ampla de 25 m2 que permite criar diferentes ambientes de estar e jantar. A área privada dispõe de três quartos com áreas generosas, incluindo opções em suite, servidos por casas de banho completas. O imóvel inclui ainda um lugar de estacionamento privativo no edifício, bem como uma arrecadação adicional.\n\nA localização estratégica junto ao eixo central da capital garante uma elevada procura no mercado de arrendamento de média e longa duração, sobretudo por quadros corporativos, profissionais da saúde e famílias. Trata-se de um ativo imobiliário com histórico de valorização patrimonial consistente e excelente liquidez de mercado.\n\n- Área bruta privativa de 133 m2, proporcionando espaços amplos e bem distribuídos para toda a família.\n\n- Sala comum com 25 m2, ideal para criar ambientes distintos de convivência e lazer.\n\n- Cozinha independente com 16 m2 e despensa, optimizando a organização e a funcionalidade diária.\n\n- Três quartos com dimensões generosas, garantindo privacidade e conforto térmico.\n\n- Um lugar de estacionamento privativo, facilitando o quotidiano no centro urbano.\n\n- Certificação energética C, assegurando um desempenho térmico ajustado e potencial de valorização.\n\nA zona das Laranjeiras distingue-se pelo acesso facilitado a vias estruturantes e ao transporte público pesado, permitindo deslocações rápidas até ao centro financeiro ou ao aeroporto. Na envolvente imediata encontram-se estabelecimentos de ensino públicos e privados, jardins urbanos e unidades hospitalares de prestígio, consolidando a atratividade desta freguesia lisboeta.",
+  "geo": {
+    "lat": 38.75458,
+    "lng": -9.17314
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-25",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 133,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "C",
+  "detail_fetched_at": "2026-11-26"
 }

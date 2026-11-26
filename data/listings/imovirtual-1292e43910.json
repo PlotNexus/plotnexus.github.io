@@ -9,21 +9,24 @@
   "bathrooms": null,
   "area_m2": 190,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Moradia T6 no centro de Lamego constituída por 2 pisos de habitação e sótão + espaço comercial no RC. Piso 1: hall, IS completa, cozinha, sala, quarto e quarto interior; Piso 2: hall, 2 quartos, 2 quartos interiores, IS completa e IS serviço. O imóvel encontra-se devoluto na habitação e ocupado no espaço comercial, atualmente arrendado com contrato renovável anualmente. Área bruta habitação 190m2; Área bruta comércio 86m2; Terreno 95m2;.",
+  "geo": {
+    "lat": 41.10014,
+    "lng": -7.810145
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-t6-no-centro-comercio-no-rc-ID1iMwR",
-  "published_at": "2026-11-25",
+  "published_at": "2026-08-22",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 190,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-26"
 }

@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Ramada e Caneças, Odivelas, Lisboa",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 45,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "T1 Remodelado, Localizado próximo à Ponte da Bica, CaneçasLocalizado em zona TranquilaSem acesso a transportes públicosComposta por:Área total de 45m2Sala em open-space c/ 24m2Equipada com Placa, Forno, EsquentadorQuartos c/ 14m2, com roupeiro embutidoCasa de BanhoO apartamento encontra-se semi-equipado e sem MobiliaIdeal para 1 pessoa ou casalExige-se Fiador, Caução e comprovativo de rendimentos",
+  "geo": {
+    "lat": 38.814205,
+    "lng": -9.20713
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-25",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 45,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-26"
 }

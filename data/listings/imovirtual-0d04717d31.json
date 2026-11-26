@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Santo António dos Cavaleiros e Frielas, Loures, Lisboa",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 90,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T3 renovado, com 90 m² de área útil e duas casas de banho. É arrendado sem mobília e dispõe de certificado energético D.\n\nA cozinha inclui forno, placa e micro-ondas, além de acesso a uma varanda com vista para o jardim. As divisões têm boa luz natural, e ambas casas de banho apresentam acabamentos renovados.\n\nContacte-nos para agendar uma visita.",
+  "geo": {
+    "lat": 38.81786,
+    "lng": -9.15602
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-25",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 90,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-26"
 }

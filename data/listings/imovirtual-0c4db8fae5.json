@@ -6,24 +6,27 @@
   "currency": "EUR",
   "location": "Pernes, Santarém",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 393,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Terreno com ruina com 392.50m2 na Chã de Baixo(Pernes).\n\nEsta localizado numa zona sossegada com bons acesso a N03 e A01.\n\nPossui todas as infraestruturas feitas com o loteamento, área de construção 92.50m2, área de implantação do edifício 92.50m2, área dependente 300m2, inserido em zona de moradias bastante calma, próximo de comercio, escolas e serviços.\n\nNão perca esta oportunidade marque já a sua visita.",
+  "geo": {
+    "lat": 39.381104,
+    "lng": -8.688007
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/terreno-com-ruina-com-392-50m2-na-cha-de-baixo-ID1jcqf",
-  "published_at": "2026-11-25",
+  "published_at": "2026-11-10",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 393,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 1937,
+  "certificacao_energetica": "Isento",
+  "detail_fetched_at": "2026-11-26"
 }

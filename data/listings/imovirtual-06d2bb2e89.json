@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Albufeira e Olhos de Água, Albufeira, Faro",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 49,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Apartamento T1 com 49 m², no segundo andar, pronto a habitar e disponível a partir de 26 de novembro de 2026. Inclui terraço, ar condicionado e uma casa de banho.Localiza-se em Albufeira e Olhos de Água, numa zona com paragem de autocarro a cerca de 100 metros. Há restaurantes nas proximidades e a Escola Básica de Sesmarias fica a cerca de 450 metros.Renda: 580 € por mêsMobilado e com internetCozinha equipada com frigorífico, fogão e máquina de lavar louçaMáquina de lavar roupaCertificado energético: B-Contacte o anunciante para agendar uma visita.",
+  "geo": {
+    "lat": 37.080776,
+    "lng": -8.287699
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,27 @@
   "published_at": "2026-11-25",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Videovigilância"
+    ],
+    "Equipamentos": [
+      "Terraço"
+    ],
+    "Equipamento": [
+      "Mobilado",
+      "Máquina de lavar loiça",
+      "Frigorífico",
+      "Ar condicionado"
+    ],
+    "Multimédia": [
+      "Internet"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 49,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "BMINUS",
+  "detail_fetched_at": "2026-11-26"
 }

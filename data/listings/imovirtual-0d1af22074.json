@@ -6,24 +6,45 @@
   "currency": "EUR",
   "location": "Barreiro e Lavradio, Barreiro, Setúbal",
   "bedrooms": 3,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 178,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Descubra este magnífico apartamento localizado no coração do Barreiro, em frente ao Parque Catarina Eufémia. Com uma área útil de 176 m², este espaço foi recentemente remodelado para oferecer o máximo de conforto e estilo. A ampla sala de estar de 55 m², equipada com uma lareira, é perfeita para momentos de descontração e convívio.Este apartamento conta com três quartos, sendo um deles uma suíte e outro com closet, ideal para quem valoriza espaço e organização. Tem três casas de banho, duas completas e uma de serviço que garantem praticidade para toda a família. Além disso, o ar condicionado em todas as divisões proporciona um ambiente agradável e confortável durante todo o ano.A cozinha totalmente equipada, com despensa, é um convite para os amantes da culinária. Com excelente luminosidade natural e armários embutidos, cada detalhe foi pensado para maximizar o conforto. O prédio possui elevador e o apartamento está situado no quarto andar, oferecendo uma vista privilegiada.Inclui ainda um lugar de garagem e uma arrecadação na cave, facilitando o armazenamento de pertences. A localização é perfeita, com fácil acesso a comércio, serviços e ao terminal fluvial, além da estação de caminho de ferro nas proximidades. Não perca a oportunidade de viver num espaço que une modernidade e praticidade. Venha conhecer!",
+  "geo": {
+    "lat": 38.660984,
+    "lng": -9.0782585
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/magnifico-apartamento-no-centro-do-barreiro-ID1jbSp",
-  "published_at": "2026-11-25",
+  "published_at": "2026-11-08",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
-  "estado": null,
+  "features": {
+    "Segurança": [
+      "Estores",
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Garagem",
+      "Elevador"
+    ],
+    "Equipamento": [
+      "Máquina de lavar loiça",
+      "Frigorífico",
+      "Forno",
+      "Ar condicionado"
+    ],
+    "Janelas": [
+      "Caixilharia de PVC"
+    ]
+  },
+  "estado": "Usado",
   "area_util_m2": 178,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "BMINUS",
+  "detail_fetched_at": "2026-11-26"
 }

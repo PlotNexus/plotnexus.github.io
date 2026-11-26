@@ -6,24 +6,34 @@
   "currency": "EUR",
   "location": "Ovar, Aveiro",
   "bedrooms": 4,
-  "bathrooms": null,
+  "bathrooms": 3,
   "area_m2": 147,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Procura uma moradia com espaço, conforto e possibilidade de adaptar a casa às necessidades da sua família? Esta poderá ser a oportunidade que procura!Situada em Válega, esta moradia encontra-se inserida num terreno com pomar, proporcionando um agradável espaço exterior, ideal para quem valoriza a tranquilidade e o contacto com a natureza.No rés do chão, a habitação é composta por dois quartos, duas casas de banho, uma espaçosa sala comum e uma cozinha equipada, reunindo as condições necessárias para uma vivência confortável e funcional.O primeiro andar oferece ainda um excelente potencial de aproveitamento, existindo a possibilidade de criar mais dois quartos e uma casa de banho, aumentando significativamente a capacidade habitacional do imóvel.A propriedade dispõe também de garagem na cave, acrescentando comodidade e espaço de arrumação.Uma casa que alia funcionalidade, espaço exterior e potencial de expansão, ideal para quem procura um imóvel onde possa construir o seu projeto de vida.Não perca esta oportunidade! Entre em contacto connosco e agende a sua visita.",
+  "geo": {
+    "lat": 40.860977,
+    "lng": -8.626936
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/moradia-com-espaco-exterior-e-potencial-em-valega-exclusivo-ID1jfja",
-  "published_at": "2026-11-25",
+  "published_at": "2026-11-20",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {
+    "Equipamentos": [
+      "Garagem",
+      "Terraço",
+      "Varanda",
+      "Jardim"
+    ]
+  },
   "estado": null,
   "area_util_m2": 147,
   "area_bruta_m2": null,
-  "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "ano_construcao": 2006,
+  "certificacao_energetica": "D",
+  "detail_fetched_at": "2026-11-26"
 }

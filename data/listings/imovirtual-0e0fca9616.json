@@ -6,24 +6,27 @@
   "currency": "EUR",
   "location": "Pataias e Martingança, Alcobaça, Leiria",
   "bedrooms": 2,
-  "bathrooms": null,
+  "bathrooms": 2,
   "area_m2": 40,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Alugo bungalow T2 até dia 30 de junho de 2027. Todo equipado e mobilado com ar condicionado. Despesas incluídas com exceção da eletricidade.",
+  "geo": {
+    "lat": 39.69162,
+    "lng": -8.98566
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/alugo-bungalow-t2-ate-30-de-junho-ID1jgig",
-  "published_at": "2026-11-25",
+  "published_at": "2026-11-24",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 40,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-26"
 }

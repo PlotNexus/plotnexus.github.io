@@ -6,11 +6,14 @@
   "currency": "EUR",
   "location": "Portimão, Faro",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 70,
   "image": null,
-  "description": null,
-  "geo": null,
+  "description": "Arrendo T1 Anual\n\nNa Praia Da Rocha a 20m da Praia.\n\nCom 70m2, electrodomésticos todos novos, todo mobilado. Situado no 26 andar e último do edifício tem 3 elevadores disponíveis no Edifício Jardins da Rocha na Praia da Rocha.\n\nEstacionamento Privado\n\nArrecadação, piscinas, campo de Ténis, parque infantil e restauração.\n\nCom vista para a praia, cidade de Portimão, rio arade e serra de monchique.\n\nNecessário Fiador\n\n1 mês de Renda/ Caução \n\nContrato de trabalho.",
+  "geo": {
+    "lat": 37.13632,
+    "lng": -8.54289
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
@@ -19,11 +22,11 @@
   "published_at": "2026-11-25",
   "last_seen_at": "2026-11-26",
   "images": [],
-  "features": null,
+  "features": {},
   "estado": null,
   "area_util_m2": 70,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "B",
+  "detail_fetched_at": "2026-11-26"
 }
