@@ -192,6 +192,43 @@ function extractFromJsonLd($, type) {
   return listings.filter(Boolean);
 }
 
+// "Ver Apartamento T3 para comprar, Macedo de Cavaleiros" or "Ver
+// Apartamento T1 para comprar em Bragança, Sé, Santa Maria e Meixedo" -
+// the one place this fallback's markup still has a clean, standalone
+// location, now that JSON-LD (which used to carry it) is gone from the
+// page entirely (confirmed empirically: 0 ld+json blocks on a live page
+// that still has 25 real listings).
+function locationFromAnchorTitle(titleAttr) {
+  const match = String(titleAttr || "").match(/para (?:comprar|alugar)(?:\s+em)?,?\s+(.+)$/i);
+  return match ? match[1].trim() : "";
+}
+
+// The gallery's real photo URLs are already in the search page itself
+// (data-src/srcset on the swiper slides) - no need to wait for this
+// listing's own detail-page fetch (budgeted, so most of the catalogue
+// only gets there slowly) just to show a cover photo.
+function firstRealImage($, container) {
+  let found = null;
+  container.find("img, source").each((_, el) => {
+    if (found) return;
+    const attrs = [$(el).attr("src"), $(el).attr("data-src"), $(el).attr("srcset"), $(el).attr("data-srcset")];
+    for (const raw of attrs) {
+      if (!raw) continue;
+      const url = raw.split(",")[0].trim().split(/\s+/)[0];
+      if (url && url.startsWith("https://media.casasapo.pt/")) {
+        found = url;
+        return;
+      }
+    }
+  });
+  return found;
+}
+
+function pricesInOrder(text) {
+  const matches = text.match(/\d{1,3}(?:[.\s]\d{3})*(?:,\d{2})?\s*€/g) || [];
+  return matches.map(parsePriceEUR).filter((p) => p != null);
+}
+
 // Fallback used only if the JSON-LD strategy finds nothing (e.g. the page
 // markup changes) — scans anchors for a price nearby in the visible text.
 function extractByHeuristic($, type) {
@@ -209,18 +246,40 @@ function extractByHeuristic($, type) {
     const block = $(el).text().replace(/\s+/g, " ").trim();
     if (!priceRegex.test(block)) return;
 
-    candidates.push({ listingUrl: resolveRealListingUrl(absoluteUrl), block });
+    // The anchor with the visible price text is usually a different one
+    // from the photo-gallery anchors (which have no text, just an image),
+    // even though all of them point at the same listing - scope back up
+    // to the shared card to find the title attribute / images regardless
+    // of which specific anchor matched.
+    const container = $(el).closest('[id^="property_"]');
+    const titledAnchor = (container.length ? container : $(el)).find("a[title]").first();
+
+    candidates.push({
+      listingUrl: resolveRealListingUrl(absoluteUrl),
+      block,
+      location: locationFromAnchorTitle(titledAnchor.attr("title")),
+      image: firstRealImage($, container.length ? container : $(el)),
+    });
   });
 
   console.log(`[casasapo] heuristic fallback: ${candidates.length} candidate anchors matched a price`);
 
   const listings = [];
   const seen = new Set();
-  for (const { listingUrl, block } of candidates) {
+  for (const { listingUrl, block, location, image } of candidates) {
     if (seen.has(listingUrl)) continue;
     seen.add(listingUrl);
 
-    const price = parsePriceEUR(block);
+    // A property can be listed for both sale and rent at once ("comprar /
+    // alugar 280.000 € / 1.200 €"), in which case picking "the first price
+    // in the text" regardless of which search page (comprar vs alugar)
+    // produced this candidate mislabels one of the two as the other's
+    // price. Assumes the two prices appear in the same order as the two
+    // keywords, matching every real example seen so far.
+    const isDualOffer = /comprar\s*\/\s*alugar/i.test(block);
+    const price = isDualOffer
+      ? (type === "arrendamento" ? pricesInOrder(block)[1] : pricesInOrder(block)[0]) ?? parsePriceEUR(block)
+      : parsePriceEUR(block);
     if (!price) continue;
 
     listings.push(
@@ -229,9 +288,10 @@ function extractByHeuristic($, type) {
         title: block.slice(0, 90),
         type,
         price,
-        location: "",
+        location,
         bedrooms: parseBedroomsFromText(block),
         area_m2: parseAreaM2(block),
+        image,
         sourceName: SOURCE_NAME,
         sourceUrl: SOURCE_URL,
         listingUrl,

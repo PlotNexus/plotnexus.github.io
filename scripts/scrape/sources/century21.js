@@ -90,7 +90,11 @@ async function scrapePage({ ad_type, page }, maxListings) {
         // one; only fall back to the raw count when it's genuinely missing.
         bedrooms: parseBedroomsFromText(title) ?? item.number_of_rooms ?? null,
         bathrooms: item.number_of_wcs ?? null,
-        area_m2: item.useful_area ?? item.gross_area ?? null,
+        // `??` alone kept a literal 0 from useful_area (the API's way of
+        // saying "not specified", confirmed on real 0m² listings) instead
+        // of falling back to gross_area, which often does have the real
+        // value.
+        area_m2: item.useful_area || item.gross_area || null,
         image: imageList(item.images)[0] || null,
         geo: item.lat != null && item.lng != null ? { lat: item.lat, lng: item.lng } : null,
         sourceName: SOURCE_NAME,

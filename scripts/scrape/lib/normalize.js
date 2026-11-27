@@ -17,8 +17,15 @@ export function parseBedroomsFromText(text) {
 
 export function parseAreaM2(text) {
   if (!text) return null;
-  const match = String(text).match(/(\d{1,4})\s*m(?:2|²)/i);
-  return match ? Number(match[1]) : null;
+  // Mirrors parsePriceEUR's thousands-separator handling above - confirmed
+  // on real CASA SAPO listings (e.g. "113 000m²" for a plot) that without
+  // it, the regex below only ever grabbed the last group of digits right
+  // before "m²" (the "000"), reporting a 0m² plot instead of 113000m².
+  const match = String(text).match(/(\d{1,3}(?:[.\s]\d{3})*)\s*m(?:2|²)/i);
+  if (!match) return null;
+  const digits = match[1].replace(/[.\s]/g, "");
+  const value = Number(digits);
+  return Number.isFinite(value) ? value : null;
 }
 
 export function guessListingType(text) {
@@ -30,6 +37,16 @@ export function guessListingType(text) {
 export function idFromUrl(url, prefix) {
   const hash = createHash("sha1").update(url).digest("hex").slice(0, 10);
   return `${prefix}-${hash}`;
+}
+
+// Portugal's own bounding box (mainland + Açores + Madeira), with a
+// little slack. Confirmed on real data: a few listings had geo clearly
+// wrong (lat/lng swapped, or a stray {0,0} "null island" placeholder from
+// a source's own broken geocoding) - no genuine Portuguese listing can
+// ever legitimately fall outside this box, so reject rather than show a
+// map pin on the wrong continent.
+function isPlausiblePortugalGeo(lat, lng) {
+  return lat >= 29 && lat <= 43 && lng >= -32 && lng <= -6;
 }
 
 export function toAbsoluteUrl(href, base) {
@@ -105,7 +122,10 @@ export function normalizeListing({
     area_m2,
     image: image || null,
     description: description ? String(description).trim() : null,
-    geo: geo && Number.isFinite(geo.lat) && Number.isFinite(geo.lng) ? geo : null,
+    geo:
+      geo && Number.isFinite(geo.lat) && Number.isFinite(geo.lng) && isPlausiblePortugalGeo(geo.lat, geo.lng)
+        ? geo
+        : null,
     source: { name: sourceName, url: sourceUrl },
     listing_url: listingUrl,
     published_at: publishedAt || new Date().toISOString().slice(0, 10),

@@ -117,7 +117,12 @@ function locationLabel(item) {
 }
 
 function largestImage(image) {
-  return image?.large || image?.medium || image?.small || image?.thumbnail || null;
+  // Confirmed on a live search page: Imovirtual's API now returns each
+  // image as just { url }, no separate size variants anymore (the url
+  // itself already carries an embedded resize token) - this used to be
+  // { large, medium, small, thumbnail } and the old shape is kept as a
+  // fallback in case it's still used anywhere else.
+  return image?.url || image?.large || image?.medium || image?.small || image?.thumbnail || null;
 }
 
 async function scrapeQuery({ url, type }, maxListings) {

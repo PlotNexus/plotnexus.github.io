@@ -282,8 +282,13 @@ function applyEventoDetail(listing, detail) {
   const bedroomsFromTipologia = parseBedroomsFromText(detail.tipologia);
   if (bedroomsFromTipologia != null) listing.bedrooms = bedroomsFromTipologia;
 
-  const areaUtil = Number.isFinite(detail.areaUtilPrivativa) ? detail.areaUtilPrivativa : null;
-  const areaTotal = Number.isFinite(detail.areaTotal) ? detail.areaTotal : null;
+  // A plain 0 here is the API's way of saying "not specified" (confirmed
+  // on real "PRÉDIO RÚSTICO" listings where areaUtilPrivativa comes back
+  // 0 while areaTotal has the real plot size) - Number.isFinite(0) is
+  // true, so without the extra > 0 check, areaUtil ?? areaTotal below
+  // kept that literal 0 instead of falling back to areaTotal.
+  const areaUtil = Number.isFinite(detail.areaUtilPrivativa) && detail.areaUtilPrivativa > 0 ? detail.areaUtilPrivativa : null;
+  const areaTotal = Number.isFinite(detail.areaTotal) && detail.areaTotal > 0 ? detail.areaTotal : null;
   listing.area_util_m2 = areaUtil;
   listing.area_bruta_m2 = areaTotal;
   listing.area_m2 = areaUtil ?? areaTotal;
