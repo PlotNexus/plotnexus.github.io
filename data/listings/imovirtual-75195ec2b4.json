@@ -6,24 +6,47 @@
   "currency": "EUR",
   "location": "Faro (Sé e São Pedro), Faro",
   "bedrooms": 1,
-  "bathrooms": null,
+  "bathrooms": 1,
   "area_m2": 50,
-  "image": null,
-  "description": null,
-  "geo": null,
+  "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF1ZDY5b2R6eTRmczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dziBW37X-9ckxTDq6eowyse083Jq-gfXDkoLDNVKk3Q/image",
+  "description": "Empreendimento Residencial em Construção – Apartamentos Modernos e Confortáveis\n\nApresentamos um novo empreendimento residencial, atualmente em construção, que oferece apartamentos modernos e funcionais, perfeitos para quem busca qualidade de vida e conforto. \n\nOs apartamentos foram projetados com atenção aos detalhes e equipados com acabamentos de alta qualidade, tais como, caixilharias com vidros duplos de correr, garantindo eficiência térmica e acústica, estores elétricos, para maior praticidade e conforto, cozinhas equipadas com eletrodomésticos Bosch, combinando elegância e funcionalidade.\n\nAs salas e cozinhas seguem o conceito open space, criando ambientes amplos e integrados, ideais para o convívio e a organização moderna. A orientação poente de todos os apartamentos proporciona uma excelente entrada de luz natural, valorizando os espaços e garantindo uma atmosfera acolhedora durante todo o dia.\n\nEste empreendimento promete transformar-se na escolha perfeita para quem deseja viver com conforto, praticidade e estilo, numa localização privilegiada.\n\nEntre em contacto para mais informações e garanta já o seu novo lar!",
+  "geo": {
+    "lat": 37.01879,
+    "lng": -7.9267654
+  },
   "source": {
     "name": "Imovirtual",
     "url": "https://www.imovirtual.com"
   },
   "listing_url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-venda-em-faro-se-e-sao-pedro-faro-ID1jgQW",
   "published_at": "2026-11-26",
-  "last_seen_at": "2026-11-26",
-  "images": [],
-  "features": null,
+  "last_seen_at": "2026-11-27",
+  "images": [
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF1ZDY5b2R6eTRmczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dziBW37X-9ckxTDq6eowyse083Jq-gfXDkoLDNVKk3Q/image",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJxbnNoMHhidHdyazEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.OL7LAtgbi8f-DO3DLWT3PaXXi3nEV89QTkYAd9rZwZs/image",
+    "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImMyZmRlYzJjZ21wMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.hE4lSVsumSyejIdfEcC4Y5IrRfkcUJtiAvhbNcaUrvU/image"
+  ],
+  "features": {
+    "Segurança": [
+      "Vídeo-porteiro"
+    ],
+    "Equipamentos": [
+      "Elevador",
+      "Terraço"
+    ],
+    "Equipamento": [
+      "Frigorífico",
+      "Forno",
+      "Ar condicionado"
+    ],
+    "Janelas": [
+      "Caixilharia de PVC"
+    ]
+  },
   "estado": null,
   "area_util_m2": 50,
   "area_bruta_m2": null,
   "ano_construcao": null,
-  "certificacao_energetica": null,
-  "detail_fetched_at": null
+  "certificacao_energetica": "A",
+  "detail_fetched_at": "2026-11-27"
 }
